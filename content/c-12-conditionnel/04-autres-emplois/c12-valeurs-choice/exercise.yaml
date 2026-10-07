@@ -1,0 +1,56 @@
+title: "Какое значение у conditionnel?"
+type: choice
+intro: "Во всех фразах нет условного si. Определи, что выражает conditionnel."
+hints:
+  - "selon, d'après + conditionnel — непроверенная информация."
+  - "quand bien même — уступка; au cas où — «на случай, если»."
+  - "on dirait — видимость; ne saurais — «не могу» (soutenu)."
+items:
+  - q: "Selon des sources proches du dossier, le ministre aurait reçu des menaces."
+    options: ["сожаление", "непроверенная информация", "упрёк"]
+    answer: 1
+    explain: "Conditionnel journalistique: факт подаётся со ссылкой на источник — «по данным…, министр получал угрозы»."
+  - q: "Pourriez-vous parler un peu plus fort, s'il vous plaît ?"
+    options: ["вежливая просьба", "гипотеза", "воображаемая ситуация"]
+    answer: 0
+    explain: "Смягчение просьбы с *pouvoir*: ***Pourriez**-vous…?*"
+  - q: "Tu devrais consulter un avocat avant de signer."
+    options: ["непроверенная информация", "упрёк за прошлое", "совет"]
+    answer: 2
+    explain: "*Devoir* в conditionnel présent — совет («тебе следовало бы»). Упрёк за прошлое — *tu aurais dû*."
+  - q: "Quand bien même tu insisterais, je ne changerais pas d'avis."
+    options: ["уступка: даже если бы", "условие: если", "время: когда"]
+    answer: 0
+    explain: "*Quand bien même* + conditionnel = «даже если бы»."
+  - q: "Prends ton passeport au cas où on te le demanderait."
+    options: ["непроверенная информация", "предосторожность: на случай, если", "уступка"]
+    answer: 1
+    explain: "*Au cas où* + conditionnel — «на случай, если»."
+  - q: "On serait des chevaliers, et le chien, ce serait le dragon !"
+    options: ["воображаемая игра", "слухи", "вежливость"]
+    answer: 0
+    explain: "Conditionnel ludique: так дети распределяют роли в игре — «давай будто мы рыцари…»."
+  - q: "Moi, je trahirais un ami ? Jamais de la vie !"
+    options: ["совет", "возмущение: «чтобы я да…»", "предположение о будущем"]
+    answer: 1
+    explain: "Вопрос с conditionnel выражает негодование: «Чтобы я предал друга?!»"
+  - q: "Je ne saurais vous dire combien je vous suis reconnaissant."
+    options: ["я не знал бы", "я не могу (вежливо и твёрдо)", "я не узнаю"]
+    answer: 1
+    explain: "*Ne saurais* с одним *ne* = *ne peux pas*: «Не могу выразить, как я вам благодарен»."
+  - q: "Écoute ce grondement : on dirait un orage."
+    options: ["непроверенная информация", "видимость, впечатление", "совет"]
+    answer: 1
+    explain: "*On dirait* — «похоже на…, как будто»."
+  - q: "Elle m'avait promis qu'elle passerait le lendemain."
+    options: ["futur dans le passé", "вежливость", "гипотеза"]
+    answer: 0
+    explain: "Будущее относительно прошлого после глагола речи: «обещала, что зайдёт». Условия нет."
+  - q: "Sans ta carte, nous nous serions perdus dans la forêt."
+    options: ["условие, выраженное через sans", "упрёк", "непроверенная информация"]
+    answer: 0
+    explain: "*Sans ta carte* = *si tu n'avais pas eu ta carte* → conditionnel passé."
+  - q: "Une hausse des taxes pénaliserait surtout les ménages modestes."
+    options: ["факт", "возможное последствие, гипотеза", "приказ"]
+    answer: 1
+    explain: "Conditionnel предположения: «повышение налогов ударило бы прежде всего по…» (если его введут)."

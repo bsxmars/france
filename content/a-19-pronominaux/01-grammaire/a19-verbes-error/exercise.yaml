@@ -1,0 +1,38 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: местоимение при местоименном глаголе, буква в основе глагола I группы или форма *prendre*. Исправь её и отправь предложение целиком."
+hints:
+  - "Je dois me lever, nous allons nous promener — местоимение по подлежащему."
+  - "Lève-toi !, но ne te lève pas !"
+  - "nous voyageons, nous prononçons; il répète, ils appellent; ils prennent."
+items:
+  - q: "Je vais se coucher, je suis fatigué."
+    answers: ["Je vais me coucher, je suis fatigué."]
+    explain: "Подлежащее *je* → и в инфинитиве **me**: *je vais **me** coucher*."
+  - q: "Nous voyagons souvent en train."
+    answers: ["Nous voyageons souvent en train."]
+    explain: "*voyager* — на *-ger*: перед *o* нужно **e**: *nous voyag**e**ons*."
+  - q: "Nous prononcons mal ce mot."
+    answers: ["Nous prononçons mal ce mot."]
+    explain: "*prononcer* — на *-cer*: перед *o* пишется **ç**: *nous pronon**ç**ons*."
+  - q: "Il répéte la question deux fois."
+    answers: ["Il répète la question deux fois."]
+    explain: "Перед немым окончанием *é* основы становится **è**: *il rép**è**te*."
+  - q: "Ils s'appelent Paul et Marie."
+    answers: ["Ils s'appellent Paul et Marie."]
+    explain: "*appeler* перед немым окончанием удваивает *l*: *ils s'appe**ll**ent*."
+  - q: "Lève-te, il est déjà huit heures !"
+    answers: ["Lève-toi, il est déjà huit heures !"]
+    explain: "В утвердительном повелительном *te* → **toi**: *Lève-**toi** !*"
+  - q: "Ne arrête-toi pas ici !"
+    answers: ["Ne t'arrête pas ici !"]
+    explain: "В **отрицательном** повелительном местоимение стоит перед глаголом: *Ne **t'arrête** pas !*"
+  - q: "Mes parents prendent toujours le bus."
+    answers: ["Mes parents prennent toujours le bus."]
+    explain: "*prendre*, 3-е лицо мн. ч.: **prennent** — без *d*, с двумя *n*."
+  - q: "Nous apprendons à nager cet été."
+    answers: ["Nous apprenons à nager cet été."]
+    explain: "У глаголов типа *prendre* во множественном числе *d* исчезает: *nous appren**ons***."
+  - q: "Vous vous promènez dans le parc ?"
+    answers: ["Vous vous promenez dans le parc ?"]
+    explain: "В формах *nous* и *vous* окончание звучит, поэтому остаётся немое *e*: *vous vous prom**e**nez*. *è* — только в *je, tu, il, ils*."

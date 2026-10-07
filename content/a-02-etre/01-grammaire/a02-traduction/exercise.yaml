@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Имена: Léa, Paul, Anna. Слова — из списка над упражнениями. Акценты обязательны, точку можно не ставить."
+hints:
+  - "Не пропускай глагол être: «стул маленький» = «стул есть маленький»."
+  - "Вопрос «Это…?» можно задать двумя способами: Est-ce…? или C'est…? с вопросительной интонацией."
+items:
+  - q: "Это мой стул."
+    answers: ["C'est ma chaise."]
+    explain: "*chaise* — ж. р. → **ma**; «это» = *c'est*."
+  - q: "Это её кот."
+    answers: ["C'est son chat."]
+    explain: "*chat* — м. р. → **son**, хотя владелец — «она»."
+  - q: "Эта комната большая."
+    answers: ["Cette chambre est grande."]
+    explain: "**cette** (ж. р.) + связка **est** + *grande* в женском роде."
+  - q: "Этот друг здесь."
+    answers: ["Cet ami est ici.", "Cet ami est là."]
+    explain: "Мужской род на гласную → **cet** ami. «Здесь» — *ici* или разговорное *là*."
+  - q: "Я болен."
+    answers: ["Je suis malade."]
+    explain: "**je suis** + *malade* (одна форма для обоих родов)."
+  - q: "Мы довольны."
+    answers: ["Nous sommes contents.", "Nous sommes contentes."]
+    explain: "**nous sommes**; прилагательное во мн. ч.: *contents*, если среди нас есть мужчина, *contentes* — если только женщины."
+  - q: "Это твоя чашка?"
+    answers: ["Est-ce ta tasse ?", "C'est ta tasse ?"]
+    explain: "Вопрос перестановкой: **est-ce** ta tasse ? В разговоре — *C'est ta tasse ?* с повышением голоса."
+  - q: "Анна ищет свою сумку."
+    answers: ["Anna cherche son sac."]
+    explain: "*sac* — м. р. → **son**: «свою» по-французски — то же *son / sa*."
+  - q: "Это Поль. Он болен."
+    answers: ["C'est Paul. Il est malade."]
+    explain: "Представляем человека — **c'est** Paul; описываем — **il est** malade."
+  - q: "Вы здесь?"
+    answers: ["Vous êtes ici ?", "Vous êtes là ?", "Êtes-vous ici ?", "Êtes-vous là ?"]
+    explain: "**vous êtes**. Вопрос — интонацией или перестановкой с дефисом: *Êtes-vous ici ?*"

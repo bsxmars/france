@@ -1,0 +1,43 @@
+title: "Y или en"
+type: gap
+intro: "Вставь **y** или **en** (с элизией, если нужно: j'y, n'en, s'en…). Смотри на предлог глагола."
+hints:
+  - "à + предмет → y; de + предмет → en."
+  - "s'intéresser → s'y intéresser; se souvenir → s'en souvenir."
+items:
+  - q: "Le dernier épisode ? Tout le monde ___ parle au bureau."
+    answers: ["en"]
+    explain: "*Parler **de** l'épisode* → **en**."
+  - q: "Cette série m'a déçue : je ne m'___ attendais pas du tout à une fin pareille."
+    answers: ["y"]
+    explain: "*S'attendre **à*** → **y**: *je ne m'y attendais pas*."
+  - q: "Un rôle dans un film ? Elle ___ rêve depuis qu'elle est petite."
+    answers: ["en"]
+    explain: "*Rêver **de** qch* → **en**: *elle en rêve*."
+  - q: "Le casting de samedi ? J'___ ai participé, et j'ai été pris !"
+    answers: ["y"]
+    explain: "*Participer **à** le casting* → **y**; перед гласной *j'y*."
+  - q: "Mon vieil appareil photo ? Je ne m'___ sers plus depuis des années."
+    answers: ["en"]
+    explain: "*Se servir **de** qch* → **en**: *je ne m'en sers plus*."
+  - q: "Les sous-titres ? Au début, c'était difficile, mais on s'___ habitue vite."
+    answers: ["y"]
+    explain: "*S'habituer **à*** + предмет → **y**."
+  - q: "Ce rôle lui a apporté la célébrité, et il ___ est très fier."
+    answers: ["en"]
+    explain: "*Être fier **de*** → **en**."
+  - q: "Tu as pensé à acheter les billets ? — Zut, je n'___ ai pas pensé !"
+    answers: ["y"]
+    explain: "*Penser **à** + инфинитив* — *y* заменяет весь оборот: *je n'y ai pas pensé*."
+  - q: "Des séries policières ? J'___ ai regardé une dizaine cet été."
+    answers: ["en"]
+    explain: "Количество (*une dizaine*) → **en**; причастие с *en* не согласуется: *regardé*."
+  - q: "Ce projet de film, ils ___ tiennent beaucoup : ne l'abandonne pas."
+    answers: ["y"]
+    explain: "*Tenir **à** qch* (дорожить) → **y**."
+  - q: "Le festival de Cannes ? Ma cousine ___ revient à l'instant."
+    answers: ["en"]
+    explain: "*Revenir **de** Cannes* — место «оттуда» → **en**."
+  - q: "Tu veux mon avis sur ce scénario ? Laisse-moi ___ réfléchir."
+    answers: ["y"]
+    explain: "*Réfléchir **à*** → **y**; перед инфинитивом: *laisse-moi y réfléchir*."

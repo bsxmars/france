@@ -1,0 +1,55 @@
+title: "Le или la: род меняет смысл"
+type: choice
+intro: "Выбери вариант, верный по смыслу и по роду. Все варианты существуют во французском, но подходит только один."
+hints:
+  - "le tour — круг, очередь; la tour — башня. le poste — должность; la poste — почта."
+  - "le mémoire — дипломная работа; la mémoire — память. le critique — человек; la critique — рецензия."
+items:
+  - q: "Chaque dimanche, nous faisons ___ du lac à vélo."
+    options: ["le tour", "la tour"]
+    answer: 0
+    explain: "«Объехать вокруг» — ***faire le tour*** (м. р., круг). *La tour* — башня."
+  - q: "Elle a obtenu ___ de directrice commerciale dans une grande entreprise."
+    options: ["le poste", "la poste"]
+    answer: 0
+    explain: "Должность — ***le poste*** (м. р.). *La poste* — почта."
+  - q: "Il faut verser la pâte dans ___ beurré avant de l'enfourner."
+    options: ["le moule", "la moule"]
+    answer: 0
+    explain: "Форма для выпечки — ***le moule*** (м. р.). *La moule* — мидия."
+  - q: "À marée basse, les pêcheurs s'enfonçaient dans ___ jusqu'aux genoux."
+    options: ["le vase", "la vase"]
+    answer: 1
+    explain: "Ил — ***la vase*** (ж. р.). *Le vase* — ваза."
+  - q: "___ du journal, un homme redouté de tous les éditeurs, a démoli le dernier roman de l'académicien."
+    options: ["Le critique", "La critique"]
+    answer: 0
+    explain: "Речь о человеке (*un homme redouté*) — ***le critique***. *La critique* — рецензия или критика как жанр."
+  - q: "Après le déjeuner, mon grand-père fait toujours ___ dans son fauteuil."
+    options: ["un petit somme", "une petite somme"]
+    answer: 0
+    explain: "Короткий дневной сон — ***faire un petit somme*** (м. р.). *Une petite somme* — небольшая сумма денег."
+  - q: "Fais chauffer un peu d'huile dans ___ avant d'y mettre les oignons."
+    options: ["le poêle", "la poêle"]
+    answer: 1
+    explain: "Сковорода — ***la poêle*** (ж. р.). *Le poêle* — печка."
+  - q: "Au XVIIIe siècle, le soldat dépensait ___ dès qu'il la touchait."
+    options: ["sa solde", "son solde"]
+    answer: 0
+    explain: "Жалованье военного — ***la solde*** (ж. р.; ср. *la* в *qu'il la touchait*). *Le solde* — остаток на счёте, *les soldes* (м. р.) — распродажа."
+  - q: "La princesse portait ___ de dentelle qui cachait son visage."
+    options: ["un voile", "une voile"]
+    answer: 0
+    explain: "Вуаль — ***un voile*** (м. р.). *Une voile* — парус."
+  - q: "Dans cette phrase, le verbe est ___ conditionnel : l'action reste hypothétique."
+    options: ["au mode", "à la mode"]
+    answer: 0
+    explain: "Conditionnel — наклонение: ***le mode*** (м. р.) → *au mode conditionnel*. *À la mode* — модный."
+  - q: "Cet acteur a ___ de l'emploi : grand, sec, l'air sévère."
+    options: ["le physique", "la physique"]
+    answer: 0
+    explain: "Устойчивое выражение ***avoir le physique de l'emploi*** — внешность, подходящая для роли (м. р.). *La physique* — наука."
+  - q: "Il a traversé ___ à la nage, de Douvres à Calais."
+    options: ["le manche", "la Manche"]
+    answer: 1
+    explain: "Пролив Ла-Манш — ***la Manche*** (ж. р., как и *la manche* — рукав). *Le manche* — рукоятка."

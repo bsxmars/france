@@ -1,0 +1,37 @@
+title: "Собери сравнение"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Точку ставить не нужно."
+hints:
+  - "plus / moins / aussi стоят прямо перед наречием, que — после него."
+  - "«…всех» — c'est … qui … le plus / le mieux."
+items:
+  - q: "«Мой брат говорит медленнее, чем я»."
+    answers: ["Mon frère parle plus lentement que moi."]
+    explain: "**plus lentement que** + ударное местоимение *moi*."
+  - q: "«Она поёт так же хорошо, как её мать»."
+    answers: ["Elle chante aussi bien que sa mère."]
+    explain: "Равенство с *bien* — обычная форма: **aussi bien que**."
+  - q: "«Быстрее всех бегает Тома»."
+    answers: ["C'est Thomas qui court le plus vite."]
+    explain: "Выделение *c'est … qui* + превосходная степень наречия **le plus vite**."
+  - q: "«Сегодня я чувствую себя лучше»."
+    answers: ["Aujourd'hui je me sens mieux.", "Je me sens mieux aujourd'hui."]
+    explain: "«Чувствую себя лучше» — наречие: **mieux**."
+  - q: "«Чаще всего мы ужинаем дома»."
+    answers: ["Le plus souvent nous dînons à la maison.", "Nous dînons le plus souvent à la maison."]
+    explain: "**le plus souvent** — «чаще всего», можно в начале фразы."
+  - q: "«Летом он работает меньше»."
+    answers: ["En été il travaille moins.", "Il travaille moins en été."]
+    explain: "*Peu* → **moins**: «работает меньше»."
+  - q: "«Это моя сестра читает больше всех»."
+    answers: ["C'est ma sœur qui lit le plus."]
+    explain: "*Beaucoup* → **le plus**: «больше всех»."
+  - q: "«У меня меньше свободного времени, чем у тебя»."
+    answers: ["J'ai moins de temps libre que toi."]
+    explain: "Количество при существительном: **moins de** temps libre **que** toi."
+  - q: "«Ты видишь хуже без очков»."
+    answers: ["Tu vois plus mal sans lunettes.", "Sans lunettes tu vois plus mal."]
+    explain: "«Видишь хуже» — наречие: **plus mal**."
+  - q: "«Пиши аккуратнее, пожалуйста»."
+    answers: ["Écris plus proprement, s'il te plaît."]
+    explain: "Наречие на *-ment*: **plus proprement**; вторая часть сравнения опущена."

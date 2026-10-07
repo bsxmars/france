@@ -1,0 +1,46 @@
+title: "Passé composé, imparfait или plus-que-parfait?"
+type: choice
+intro: "Выбери время. Спроси себя: это событие, фон или то, что случилось ещё раньше?"
+hints:
+  - "Событие — passé composé; фон, состояние — imparfait; раньше другого прошедшего — plus-que-parfait."
+items:
+  - q: "Quand nous sommes sortis, il ___ : la rue était pleine de flaques."
+    options: ["a plu", "pleuvait", "avait plu"]
+    answer: 2
+    explain: "Лужи — результат дождя, который шёл **до** того, как мы вышли → **avait plu**."
+  - q: "Quand nous sommes sortis, il ___ : nous avons pris un parapluie."
+    options: ["a plu", "pleuvait", "avait plu"]
+    answer: 1
+    explain: "Дождь шёл **в тот момент**, когда мы вышли, — фон → **pleuvait**."
+  - q: "Hier, je ___ mes clés dans le métro."
+    options: ["ai perdu", "perdais", "avais perdu"]
+    answer: 0
+    explain: "Простое событие вчера, без отсылки к другому прошедшему → **ai perdu**."
+  - q: "Je n'ai pas pu entrer : j'___ mes clés dans le métro."
+    options: ["ai perdu", "perdais", "avais perdu"]
+    answer: 2
+    explain: "Ключи потерялись **до** того, как я не смог войти, — объяснение причины → **avais perdu**."
+  - q: "Quand je suis entré, ma mère ___ le dîner."
+    options: ["a préparé", "préparait", "avait préparé"]
+    answer: 1
+    explain: "Действие длилось в момент моего прихода — фон → **préparait**."
+  - q: "Quand je suis entré, la table était mise : ma mère ___ le dîner avant mon arrivée."
+    options: ["a préparé", "préparait", "avait préparé"]
+    answer: 2
+    explain: "Ужин был приготовлен **раньше** моего прихода (*avant mon arrivée*) → **avait préparé**."
+  - q: "Quand je l'ai vu, il ___ très fatigué : il n'avait pas dormi de la nuit."
+    options: ["a été", "était", "avait été"]
+    answer: 1
+    explain: "Состояние в тот момент — imparfait **était**; причина (не спал раньше) — уже в plus-que-parfait."
+  - q: "Elle a enfin trouvé le livre qu'elle ___ pendant une semaine."
+    options: ["a cherché", "cherchait", "avait cherché"]
+    answer: 2
+    explain: "Искала неделю **до того**, как нашла → **avait cherché**."
+  - q: "Ce matin, le téléphone ___ trois fois."
+    options: ["a sonné", "sonnait", "avait sonné"]
+    answer: 0
+    explain: "Законченное событие, ограниченное числом раз → **a sonné**."
+  - q: "Le voyageur a reconnu la ville où il ___."
+    options: ["est né", "naissait", "était né"]
+    answer: 2
+    explain: "Родился задолго до того, как узнал город → **était né**."

@@ -1,0 +1,43 @@
+title: "Глагол с vous"
+type: gap
+intro: "Поставь глагол в форму vous настоящего времени."
+hints:
+  - "Почти все глаголы: -ez (vous parlez, vous lisez)."
+  - "Исключения: vous êtes, vous dites, vous faites."
+items:
+  - q: "Vous ___ (parler) français ?"
+    answers: ["parlez"]
+    explain: "I группа: *parl-* + **-ez**."
+  - q: "Vous ___ (lire) le journal ?"
+    answers: ["lisez"]
+    explain: "*lire*: основа мн. ч. *lis-* → **lisez**."
+  - q: "Vous ___ (écrire) à votre mère ?"
+    answers: ["écrivez"]
+    explain: "*écrire*: во мн. ч. появляется *v* → **écrivez**."
+  - q: "Vous ___ (être) parisien ?"
+    answers: ["êtes"]
+    explain: "Исключение: **vous êtes**."
+  - q: "Que ___-vous ? (dire)"
+    answers: ["dites"]
+    explain: "Исключение: **vous dites** (не *disez*)."
+  - q: "Que ___-vous après les cours ? (faire)"
+    answers: ["faites"]
+    explain: "Исключение: **vous faites** (не *faisez*)."
+  - q: "Vous ___ (mettre) les livres sur la table."
+    answers: ["mettez"]
+    explain: "*mettre*: основа мн. ч. *mett-* → **mettez**."
+  - q: "Où ___-vous ? (aller)"
+    answers: ["allez"]
+    explain: "*aller* в ед. ч. неправильный (*je vais*), но с *vous* — обычное **allez**."
+  - q: "Vous ___ (pouvoir) ouvrir la fenêtre ?"
+    answers: ["pouvez"]
+    explain: "*je peux*, но *vous **pouvez*** — основа *pouv-*."
+  - q: "Vous ___ (avoir) le journal d'aujourd'hui ?"
+    answers: ["avez"]
+    explain: "*avoir*: **vous avez**."
+  - q: "À quelle heure ___-vous ? (sortir)"
+    answers: ["sortez"]
+    explain: "*je sors*, но *vous **sortez*** — во мн. ч. *t* основы возвращается."
+  - q: "D'où ___-vous ? (venir)"
+    answers: ["venez"]
+    explain: "*venir*: **vous venez**."

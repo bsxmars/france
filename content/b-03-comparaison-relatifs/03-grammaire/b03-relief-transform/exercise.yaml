@@ -1,0 +1,68 @@
+title: "Выдели главное"
+type: transform
+intro: "Перестрой предложение так, чтобы выделить элемент в скобках. Используй ключевое слово и впиши недостающую часть."
+hints:
+  - "Подлежащее → c'est / ce sont … qui; дополнение и обстоятельство с предлогом → c'est … que."
+  - "Глагол после qui согласуется с выделенным словом: c'est moi qui ai…"
+  - "Причина и цель: si…, c'est parce que / c'est pour…"
+items:
+  - q: "Des bénévoles ont restauré cette chapelle. (des bénévoles)"
+    key: "qui"
+    stem: "Ce sont des bénévoles ___ ."
+    answers: ["qui ont restauré cette chapelle"]
+    explain: "Выделено подлежащее → **qui**; глагол во мн. ч., как *des bénévoles*."
+  - q: "On a découvert ces fresques en 1952. (en 1952)"
+    key: "que"
+    stem: "C'est en 1952 ___ ."
+    answers: ["qu'on a découvert ces fresques", "que l'on a découvert ces fresques"]
+    explain: "Обстоятельство времени с предлогом → **que** (перед *on* — *qu'*), не *où*."
+  - q: "Tout le monde parle de ce festival. (ce festival — без предлога)"
+    key: "dont"
+    stem: "C'est ce festival ___ ."
+    answers: ["dont tout le monde parle"]
+    explain: "Без предлога *de* в рамке → **dont**: *parler **de** ce festival*."
+  - q: "Tout le monde parle de ce festival. (de ce festival — с предлогом)"
+    key: "que"
+    stem: "C'est de ce festival ___ ."
+    answers: ["que tout le monde parle"]
+    explain: "Предлог *de* сохранён в рамке → только **que**: *c'est **de** ce festival **que**…* Двойное *de… dont* — ошибка."
+  - q: "J'ai choisi ce sujet de mémoire. (je)"
+    key: "moi"
+    stem: "C'est ___ ce sujet de mémoire."
+    answers: ["moi qui ai choisi"]
+    explain: "Выделенное *je* → ударное **moi**; глагол согласуется с *moi*: **ai** choisi."
+  - q: "La cathédrale attire les visiteurs grâce à ses vitraux. (la cause)"
+    key: "si"
+    stem: "Si la cathédrale attire les visiteurs, ___ ."
+    answers: ["c'est grâce à ses vitraux"]
+    explain: "Выделение причины: *Si…, **c'est grâce à** + сущ.*"
+  - q: "La mairie a acheté ce moulin pour en faire un musée. (le but)"
+    key: "pour"
+    stem: "Si la mairie a acheté ce moulin, ___ ."
+    answers: ["c'est pour en faire un musée"]
+    explain: "Выделение цели: *Si…, **c'est pour** + infinitif*."
+  - q: "Les habitants refusent ce projet parce qu'il détruirait le vieux marché. (la cause)"
+    key: "parce"
+    stem: "Si les habitants refusent ce projet, ___ ."
+    answers: ["c'est parce qu'il détruirait le vieux marché"]
+    explain: "*Si…, **c'est parce que** + indicatif / conditionnel* — причина в фокусе."
+  - q: "La lumière de ce village me touche. (la lumière)"
+    key: "ce qui"
+    stem: "___ , c'est la lumière."
+    answers: ["Ce qui me touche dans ce village", "Ce qui me touche, dans ce village"]
+    explain: "*Toucher* — подлежащее «то, что» → **Ce qui** me touche…, потом *c'est* + выделенное."
+  - q: "Les visiteurs apprécient surtout les jardins. (les jardins)"
+    key: "ce que"
+    stem: "___ , ce sont les jardins."
+    answers: ["Ce que les visiteurs apprécient surtout", "Ce que les visiteurs apprécient le plus"]
+    explain: "*Apprécier qch* — прямое дополнение → **Ce que**; перед мн. ч. в письменной речи — *ce sont*."
+  - q: "Ce monument a besoin d'un entretien régulier. (d'un entretien régulier)"
+    key: "ce dont"
+    stem: "___ , c'est d'un entretien régulier."
+    answers: ["Ce dont ce monument a besoin"]
+    explain: "*Avoir besoin **de*** → **Ce dont**; после *c'est* предлог *de* повторяется."
+  - q: "Nous nous sommes rencontrés à Avignon. (à Avignon)"
+    key: "que"
+    stem: "C'est à Avignon ___ ."
+    answers: ["que nous nous sommes rencontrés", "que nous nous sommes rencontrées"]
+    explain: "Место с предлогом → **que**, не *où*. Причастие — по роду говорящих."

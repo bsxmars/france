@@ -1,0 +1,176 @@
+- id: c04-aider-telephoner
+  lesson: c-04-pronoms-personnels/01-grammaire
+  q: "«Я ему помогаю», «Я ему звоню», «Я его благодарю», «Я его спросил» — по-французски?"
+  a: "*Je **l'**aide* (aider qn), *je **lui** téléphone* (téléphoner à qn), *je **le** remercie* (remercier qn), *je **lui** ai demandé* (demander à qn)."
+- id: c04-verbes-directs
+  lesson: c-04-pronoms-personnels/01-grammaire
+  q: "Назови 6 глаголов с прямым дополнением, которые по-русски управляют дательным или творительным."
+  a: "*aider, remercier, prévenir, écouter, attendre, suivre, consulter, féliciter qn*."
+- id: c04-verbes-indirects
+  lesson: c-04-pronoms-personnels/01-grammaire
+  q: "Назови 6 глаголов с à + лицо → lui / leur."
+  a: "*téléphoner, obéir, ressembler, plaire, demander, répondre, succéder, survivre, sourire à qn*."
+- id: c04-faire-place
+  lesson: c-04-pronoms-personnels/01-grammaire
+  q: "Где стоит местоимение при faire / laisser + инфинитив?"
+  a: "Перед *faire / laisser*: *Je **le** fais venir. Elle **les** laisse sortir. Fais-**les** entrer.*"
+- id: c04-faire-deux-complements
+  lesson: c-04-pronoms-personnels/01-grammaire
+  q: "Je fais lire la lettre à Paul → с местоимениями?"
+  a: "*Je **la lui** fais lire.* У инфинитива своё прямое дополнение, поэтому исполнитель становится косвенным."
+- id: c04-fait-invariable
+  lesson: c-04-pronoms-personnels/01-grammaire
+  q: "Согласуется ли fait перед инфинитивом? А laissé?"
+  a: "*Fait* — никогда: *je les ai **fait** venir*. *Laissé* по реформе 1990 года тоже рекомендуют не согласовывать: *je les ai **laissé** partir*."
+- id: c04-me-lui
+  lesson: c-04-pronoms-personnels/01-grammaire
+  q: "«Он представил меня ей» — почему не il me lui a présenté?"
+  a: "*Me / te / se / nous / vous* не сочетаются с *lui / leur*. Косвенное → à + ударное: *Il m'a présenté **à elle**.*"
+- id: c04-le-veux-faire
+  lesson: c-04-pronoms-personnels/01-grammaire
+  q: "Что значит «Je le veux faire» у классиков?"
+  a: "Старинное место местоимения (до XVIII в.) = современное *je veux **le** faire*. Узнавать, но не писать."
+- id: c04-voici
+  lesson: c-04-pronoms-personnels/01-grammaire
+  q: "Местоимение с voici / voilà?"
+  a: "Перед ними: ***Me** voici. **Les** voilà. **En** voilà une idée !*"
+- id: c04-le-neutre-cela
+  lesson: c-04-pronoms-personnels/02-grammaire
+  q: "Что заменяет нейтральное le?"
+  a: "Мысль, придаточное, инфинитив (= *cela*): *Il est parti ? — Je **le** sais.* Также прилагательное или существительное без артикля при *être*."
+- id: c04-le-attribut
+  lesson: c-04-pronoms-personnels/02-grammaire
+  q: "Êtes-vous fatiguées, mesdames ? — Oui, nous ___ sommes."
+  a: "***le***: нейтральное *le*-атрибут не согласуется ни в роде, ни в числе."
+- id: c04-le-la-suis
+  lesson: c-04-pronoms-personnels/02-grammaire
+  q: "Êtes-vous directrice ? / Êtes-vous la directrice ? — ответы с местоимением?"
+  a: "*Je **le** suis* (профессия, без артикля) / *Je **la** suis* (конкретное лицо с артиклем; в разговоре — *c'est moi*)."
+- id: c04-le-comparatif
+  lesson: c-04-pronoms-personnels/02-grammaire
+  q: "«Фильм длиннее, чем я думал» — в письменной норме?"
+  a: "*Le film est plus long **que je ne le pensais**.* *Le* подхватывает прилагательное, *ne* — explétif. После *aussi … que* — без *ne*."
+- id: c04-le-omis
+  lesson: c-04-pronoms-personnels/02-grammaire
+  q: "Когда нейтральное le обычно опускают?"
+  a: "*Comme tu veux, si tu peux, si vous voulez*; в ответах с *croire / espérer* — *je crois **que oui**, j'espère **que non***."
+- id: c04-le-en-y-neutres
+  lesson: c-04-pronoms-personnels/02-grammaire
+  q: "«Я это знаю / Я в этом уверен / Я об этом думаю»?"
+  a: "*Je **le** sais* (savoir qch) / *J'**en** suis sûr* (sûr de) / *J'**y** pense* (penser à)."
+- id: c04-ce-le
+  lesson: c-04-pronoms-personnels/02-grammaire
+  q: "Ce или le: «Это трудно» / «Я это понимаю»?"
+  a: "***C'**est difficile* — подлежащее при *être*; *Je **le** comprends* — прямое дополнение."
+- id: c04-le-fait
+  lesson: c-04-pronoms-personnels/02-grammaire
+  q: "Tu dois rappeler le client. — «Я уже это сделал»."
+  a: "*Je **l'**ai déjà fait.* Нейтральное *le* заменяет всё действие (*rappeler le client*)."
+- id: c04-toniques-cas
+  lesson: c-04-pronoms-personnels/03-grammaire
+  q: "Назови 6 случаев употребления ударных местоимений."
+  a: "Без глагола (*Qui ? — Moi*), выделение (*Moi, je…*), *c'est … qui / que*, однородные члены (*toi et lui*), с *même, seul, aussi, non plus*, после предлогов, в сравнении (*que moi*), *et moi qui…*, в императиве (*écoute-moi*), в восклицаниях (*Lui, mentir ?*)."
+- id: c04-penser-a-lui
+  lesson: c-04-pronoms-personnels/03-grammaire
+  q: "После каких глаголов à + лицо → à lui, а не lui?"
+  a: "*penser, songer, rêver, tenir, faire attention, avoir affaire, être (à qn — принадлежать)* и все возвратные: *s'adresser, s'intéresser, s'habituer, se fier, s'attacher, s'opposer à*."
+- id: c04-de-lui-en
+  lesson: c-04-pronoms-personnels/03-grammaire
+  q: "Je me souviens de mon grand-père / de ce voyage → с местоимением?"
+  a: "О человеке — *je me souviens **de lui***; о вещи — *je m'**en** souviens*."
+- id: c04-et-moi-qui
+  lesson: c-04-pronoms-personnels/03-grammaire
+  q: "«А я-то думал, что ты уехал!»"
+  a: "*Et **moi qui** croyais que tu étais parti !* — после *moi qui* глагол в 1-м лице."
+- id: c04-soi-quand
+  lesson: c-04-pronoms-personnels/03-grammaire
+  q: "Когда нужно soi?"
+  a: "При обобщённом субъекте: *on, chacun, personne, nul, tout le monde, quiconque*, безличные обороты (*il faut*) и инфинитив: *Il faut avoir confiance en **soi**.*"
+- id: c04-soi-lui
+  lesson: c-04-pronoms-personnels/03-grammaire
+  q: "L'égoïste ne pense qu'à ___ / Paul ne pense qu'à ___."
+  a: "***soi*** (обобщённо, «эгоист как тип») / ***lui*** (конкретный человек)."
+- id: c04-soi-expressions
+  lesson: c-04-pronoms-personnels/03-grammaire
+  q: "Cela va de soi, en soi, chez soi, la maîtrise de soi, soi-disant — переведи."
+  a: "Само собой разумеется; само по себе; у себя дома; самообладание; так называемый, якобы."
+- id: c04-ce-sont-eux
+  lesson: c-04-pronoms-personnels/03-grammaire
+  q: "C'est … qui с eux / elles и с nous / vous?"
+  a: "***Ce sont eux** qui…* (в письменной норме), но ***c'est nous**, **c'est vous** qui…*"
+- id: c04-y-quoi
+  lesson: c-04-pronoms-personnels/04-grammaire
+  q: "Что заменяет y?"
+  a: "Место (*j'y vais*) и дополнение с *à* (реже *sur, dans*) о вещи, идее, событии: *J'**y** pense, j'**y** réponds*. Также *à cela*: *Pense à acheter du pain. — J'**y** penserai.*"
+- id: c04-y-lui
+  lesson: c-04-pronoms-personnels/04-grammaire
+  q: "Répondre à la lettre / à ma tante → с местоимением?"
+  a: "*J'**y** réponds* (вещь) / *Je **lui** réponds* (лицо). О людях *y* в письменной норме не используют."
+- id: c04-y-place
+  lesson: c-04-pronoms-personnels/04-grammaire
+  q: "Порядок: les + y, se + y; императив с y?"
+  a: "*Je **les y** ai aidés. Il ne **s'y** intéresse pas.* Императив: ***Penses-y**, **vas-y**, **n'y** pense plus.*"
+- id: c04-y-irai
+  lesson: c-04-pronoms-personnels/04-grammaire
+  q: "Tu iras à la réunion ? — Oui, j'___ ."
+  a: "***J'irai*** — перед *irai, irais…* местоимение *y* опускают ради благозвучия."
+- id: c04-y-etre
+  lesson: c-04-pronoms-personnels/04-grammaire
+  q: "Vous y êtes ? / J'y suis ! / Ça y est !"
+  a: "Вы готовы? / Понял! Догадался! / Готово! Ну вот! Наконец-то!"
+- id: c04-n-y-etre-pour-rien
+  lesson: c-04-pronoms-personnels/04-grammaire
+  q: "«Я тут ни при чём» / «Его тренер сыграл в этом большую роль»"
+  a: "*Je **n'y suis pour rien**.* / *Son entraîneur **y est pour beaucoup**.*"
+- id: c04-s-y-prendre
+  lesson: c-04-pronoms-personnels/04-grammaire
+  q: "s'y prendre / s'y connaître en / s'y retrouver"
+  a: "Взяться, действовать (*je ne sais pas comment m'y prendre*) / разбираться в (*elle s'y connaît en vins*) / разобраться, сориентироваться."
+- id: c04-il-y-va-de
+  lesson: c-04-pronoms-personnels/04-grammaire
+  q: "Il y va de votre santé."
+  a: "«Речь идёт о вашем здоровье», «на кону ваше здоровье» (soutenu)."
+- id: c04-y-regarder
+  lesson: c-04-pronoms-personnels/04-grammaire
+  q: "Y regarder à deux fois / ne pas y aller de main morte"
+  a: "Хорошенько подумать, прежде чем… / не церемониться, рубить сплеча."
+- id: c04-en-de
+  lesson: c-04-pronoms-personnels/05-grammaire
+  q: "Что заменяет en?"
+  a: "Дополнение с *de* о вещи (*j'en parle, j'en ai besoin*), место «оттуда» (*j'en reviens*), *de cela* (*je n'en suis pas surpris*) и прямое дополнение с *un, des, du* или количеством (*j'en ai deux*)."
+- id: c04-en-quantite
+  lesson: c-04-pronoms-personnels/05-grammaire
+  q: "Vous avez une voiture ? — Oui / Non."
+  a: "*Oui, j'**en** ai **une**.* / *Non, je n'**en** ai **pas**.* — в отрицании *une* исчезает."
+- id: c04-en-ou-les
+  lesson: c-04-pronoms-personnels/05-grammaire
+  q: "J'ai acheté ce livre / un livre → с местоимением?"
+  a: "*Je **l'**ai acheté* (определённое) / *J'**en** ai acheté **un*** (неопределённое, количество)."
+- id: c04-en-participe
+  lesson: c-04-pronoms-personnels/05-grammaire
+  q: "Des lettres ? J'en ai reçu… — согласуется ли причастие?"
+  a: "Нет: *j'en ai **reçu** trois*. Сравни: *ces lettres, je les ai **reçues***."
+- id: c04-en-personnes
+  lesson: c-04-pronoms-personnels/05-grammaire
+  q: "Il s'occupe de ses enfants / Des amis, il a beaucoup — с местоимением?"
+  a: "*Il s'occupe **d'eux*** (de + лицо → ударная форма) / *Il **en** a beaucoup* (количество — *en* и о людях)."
+- id: c04-s-en-aller
+  lesson: c-04-pronoms-personnels/05-grammaire
+  q: "s'en aller: passé composé, императив (tu, vous), отрицательный императив"
+  a: "*Il **s'en est allé** / elles s'en sont allées; **Va-t'en**, **Allez-vous-en**; **Ne t'en va pas**.*"
+- id: c04-en-vouloir
+  lesson: c-04-pronoms-personnels/05-grammaire
+  q: "«Не сердись на меня», «Я на тебя обижен за то, что ты солгал»"
+  a: "*Ne **m'en veux** pas.* / *Je **t'en veux** de m'avoir menti.* (en vouloir à qn de qch)"
+- id: c04-en-avoir-assez
+  lesson: c-04-pronoms-personnels/05-grammaire
+  q: "en avoir assez / n'en pouvoir plus / s'en faire"
+  a: "Надоело (*j'en ai assez de ce bruit*) / выбиться из сил (*je n'en peux plus*) / беспокоиться (*ne t'en fais pas*)."
+- id: c04-en-venir-en-etre
+  lesson: c-04-pronoms-personnels/05-grammaire
+  q: "Où voulez-vous en venir ? / Où en es-tu ?"
+  a: "К чему вы клоните? / На каком ты этапе? (*J'en suis au chapitre trois.*)"
+- id: c04-s-en-prendre
+  lesson: c-04-pronoms-personnels/05-grammaire
+  q: "s'en prendre à qn / s'en sortir / en finir avec"
+  a: "Нападать на, винить / справиться, выкрутиться / покончить с."

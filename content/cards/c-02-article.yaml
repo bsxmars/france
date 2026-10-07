@@ -1,0 +1,136 @@
+- id: c02-fonctions
+  lesson: c-02-article/01-valeurs
+  q: "Какие две функции у французского артикля?"
+  a: "Показывает **род и число** существительного и показывает, **определён** ли предмет (определённый артикль) или нет (неопределённый, партитивный)."
+- id: c02-contractions
+  lesson: c-02-article/01-valeurs
+  q: "Слитные формы артикля с à и de?"
+  a: "*à + le = au, à + les = aux, de + le = du, de + les = des*. С *la* и *l'* не сливаются: *à la, de l'*."
+- id: c02-h-aspire
+  lesson: c-02-article/01-valeurs
+  q: "Le héros или l'héros? Le hasard или l'hasard?"
+  a: "*Le héros, le hasard, les | haricots* — *h* придыхательное, без элизии и связывания. Но *l'héroïne, l'homme* — *h* немое."
+- id: c02-defini-general
+  lesson: c-02-article/01-valeurs
+  q: "Le / les в общем значении — пример."
+  a: "Весь вид или понятие: *Le chien est fidèle. Les abeilles vivent en colonies. La patience est une vertu.* Единственные предметы: *le soleil, la Terre*."
+- id: c02-defini-demonstratif
+  lesson: c-02-article/01-valeurs
+  q: "Как перевести «Вы как раз тот человек, который нам нужен»?"
+  a: "*Vous êtes justement **la** personne qu'il nous faut.* — указательное значение определённого артикля, *cette* не нужно."
+- id: c02-indefini-nimporte
+  lesson: c-02-article/01-valeurs
+  q: "Un enfant a besoin d'affection — какое значение у un?"
+  a: "«Любой» (*n'importe quel, tout*): любой представитель класса."
+- id: c02-indefini-aspect
+  lesson: c-02-article/01-valeurs
+  q: "Почему une patience, une lune, если они «одни»?"
+  a: "Неопределённый артикль выделяет **особый вид, грань** — обычно с определением: *avec une patience étonnante, une lune rousse*."
+- id: c02-ordre-mots
+  lesson: c-02-article/01-valeurs
+  q: "У подъезда остановилась машина / Машина остановилась у подъезда."
+  a: "*Une voiture s'est arrêtée devant l'entrée* (новая) / *La voiture s'est arrêtée devant l'entrée* (известная). Русский порядок слов = французский артикль."
+- id: c02-corps
+  lesson: c-02-article/01-valeurs
+  q: "Он поднял руку. У неё зелёные глаза."
+  a: "*Il a levé **la** main. Elle a **les** yeux verts.* — с частями тела определённый артикль, а не притяжательное."
+- id: c02-matiere-trois
+  lesson: c-02-article/02-matiere-abstraits
+  q: "Le thé / du thé / un thé — разница?"
+  a: "*Le thé* — вообще или известный; *du thé* — некоторое количество; *un thé* — чашка или сорт."
+- id: c02-gouts
+  lesson: c-02-article/02-matiere-abstraits
+  q: "J'aime ___ café / Je bois ___ café?"
+  a: "*J'aime **le** café* (глаголы вкуса: общее значение) — *Je bois **du** café* (потребление: партитив)."
+- id: c02-abstrait-trois
+  lesson: c-02-article/02-matiere-abstraits
+  q: "Le courage / du courage / un courage…"
+  a: "*Le courage* — понятие или чей-то (*le courage de ce pompier*); *du courage* — проявление (*il a du courage*); *un courage exceptionnel* — с определением."
+- id: c02-epithete-appartenance
+  lesson: c-02-article/02-matiere-abstraits
+  q: "Il a un caractère difficile → с дополнением «чей?»"
+  a: "*Le caractère difficile **de son frère*** — прилагательное + принадлежность → определённый артикль."
+- id: c02-meteo
+  lesson: c-02-article/02-matiere-abstraits
+  q: "Il fait ___ vent / Il soufflait ___ vent glacial."
+  a: "*Il fait **du** vent* (партитив) — *un vent glacial* (с определением → *un*)."
+- id: c02-locutions-partitif
+  lesson: c-02-article/02-matiere-abstraits
+  q: "Назови устойчивые сочетания с партитивом."
+  a: "*faire du sport, de la musique, du bruit, du feu; avoir du talent, du courage, de la volonté; gagner du temps; mettre de l'ordre; voir du pays*."
+- id: c02-avec
+  lesson: c-02-article/02-matiere-abstraits
+  q: "Avec soin / avec un soin… / avec du soin?"
+  a: "*Avec soin* — образ действия (без артикля); *avec un soin méticuleux* — с определением; *avec de la patience, tu y arriveras* — некоторая мера."
+- id: c02-substantif-partitif
+  lesson: c-02-article/02-matiere-abstraits
+  q: "Il y a du vrai… / c'est de la folie — что это?"
+  a: "Партитив с субстантивированным прилагательным или для экспрессивной оценки: «есть доля правды», «это безумие»."
+- id: c02-nom-propre-adjectif
+  lesson: c-02-article/03-noms-propres-omission
+  q: "Le petit Nicolas, le Paris d'autrefois, un Paris désert — почему артикль?"
+  a: "Имя собственное с определением: постоянное качество или период → *le*; новая, неожиданная грань → *un*."
+- id: c02-nom-propre-artiste
+  lesson: c-02-article/03-noms-propres-omission
+  q: "Un Renoir / du Chopin — разница?"
+  a: "*Un Renoir* — одна картина; *jouer du Chopin* — музыка композитора «вообще» (партитив)."
+- id: c02-nom-propre-famille
+  lesson: c-02-article/03-noms-propres-omission
+  q: "«Семья Мартен» по-французски?"
+  a: "*Les Martin* — артикль мн. ч., фамилия без *s*."
+- id: c02-villes-pays
+  lesson: c-02-article/03-noms-propres-omission
+  q: "Какие страны и города употребляются с артиклем / без него?"
+  a: "Страны — с артиклем (*la France*), кроме *Israël, Cuba, Madagascar, Monaco, Chypre*. Города — без, кроме *Le Havre, La Rochelle, Le Caire, La Havane* (*au Havre*)."
+- id: c02-omission-profession
+  lesson: c-02-article/03-noms-propres-omission
+  q: "Il est médecin / C'est un bon médecin — правило?"
+  a: "Профессия, национальность, статус после *être, devenir, élire, nommer* — без артикля. С определением — *c'est un / une*. ~~Il est un médecin~~ — ошибка."
+- id: c02-omission-apposition
+  lesson: c-02-article/03-noms-propres-omission
+  q: "Где ещё опускается артикль?"
+  a: "Приложение (*Hugo, poète et romancier*), перечисление (*hommes, femmes, enfants*), пословицы (*Noblesse oblige*), заголовки, вывески, обращения."
+- id: c02-omission-prepositions
+  lesson: c-02-article/03-noms-propres-omission
+  q: "Без артикля после каких предлогов?"
+  a: "*de* (характеристика: *professeur de français*), *en* (*en bois, en été*), *sans* (*sans peine*), *avec* + абстр. (*avec soin*), *par* (*par hasard*)."
+- id: c02-omission-locutions
+  lesson: c-02-article/03-noms-propres-omission
+  q: "Устойчивые сочетания без артикля?"
+  a: "*avoir faim, peur, besoin, raison; prendre peur, part; faire attention, peur; rendre service; donner raison; perdre patience; porter plainte*."
+- id: c02-ni-ni
+  lesson: c-02-article/03-noms-propres-omission
+  q: "Il n'a ni ___ frère ni ___ sœur / Il n'aime ni ___ vin ni ___ bière."
+  a: "*Il n'a **ni frère ni sœur*** (без артикля) — *il n'aime **ni le vin ni la bière*** (общее значение, артикль сохраняется)."
+- id: c02-de-quantite
+  lesson: c-02-article/04-preposition-de
+  q: "Beaucoup de livres / beaucoup des livres — разница?"
+  a: "*Beaucoup **de** livres* — много книг; *beaucoup **des** livres que tu m'as prêtés* — многие из определённых книг (*de + les*)."
+- id: c02-plupart-bien
+  lesson: c-02-article/04-preposition-de
+  q: "Исключения среди слов количества?"
+  a: "*la plupart **des**, bien **des** / **du**, encore **du**, la moitié **du**, une partie **de la**, le reste **du***."
+- id: c02-negation-de
+  lesson: c-02-article/04-preposition-de
+  q: "Какие артикли заменяются на de при отрицании?"
+  a: "*Un, une, des* и партитив при **прямом дополнении**: *Je n'ai pas **de** voiture, il ne boit pas **de** café*. Определённый остаётся: *je n'aime pas **le** café*."
+- id: c02-negation-sans-de
+  lesson: c-02-article/04-preposition-de
+  q: "Когда при отрицании de НЕ появляется?"
+  a: "После *être* (*ce n'est pas un problème*), при противопоставлении (*pas du vin, mais du jus*), с *ne… que* (*que de l'eau*), с *pas un* (ни одного)."
+- id: c02-de-adjectif
+  lesson: c-02-article/04-preposition-de
+  q: "Des grands arbres или de grands arbres?"
+  a: "В нормативном языке ***de** grands arbres* (прилагательное перед сущ. мн. ч.). Но *des jeunes gens, des petits pois, des grands-parents* — единые понятия."
+- id: c02-de-verbes
+  lesson: c-02-article/04-preposition-de
+  q: "Avoir besoin d'argent / d'un dictionnaire / des conseils d'un avocat?"
+  a: "Партитив и *des* после *de* исчезают (*d'argent*); *un* остаётся (*d'un dictionnaire*); определённый остаётся (*des conseils d'un avocat*)."
+- id: c02-de-adjectifs-participes
+  lesson: c-02-article/04-preposition-de
+  q: "Couvert ___ neige / rempli ___ bagages de mon oncle?"
+  a: "*Couvert **de** neige* (неопределённое) — *rempli **des** bagages de mon oncle* (определённое: *de + les*)."
+- id: c02-ne-que
+  lesson: c-02-article/04-preposition-de
+  q: "Il ne boit que ___ eau / Il n'a pas dit ___ mot."
+  a: "*Il ne boit que **de l'**eau* — *ne… que* не отрицание, партитив остаётся. *Il n'a pas dit **un** mot* — эмфатическое «ни одного»."

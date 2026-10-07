@@ -1,0 +1,32 @@
+- id: a07-cest-article
+  lesson: a-07-question-inversion/01-grammaire
+  q: "«Это аптека» и «Это аптека Марка» — какой артикль?"
+  a: "*C'est **une** pharmacie* (один из многих), но *C'est **la** pharmacie de Marc*: «чей» через *de* делает предмет определённым."
+- id: a07-nationalite
+  lesson: a-07-question-inversion/01-grammaire
+  q: "«Анна русская» и «Это русский»?"
+  a: "*Anna est russe* — после *être* национальность **без артикля**; *C'est **un** Russe* — после *c'est* артикль нужен."
+- id: a07-tu-forme
+  lesson: a-07-question-inversion/01-grammaire
+  q: "Окончание формы *tu* у глаголов I и III группы?"
+  a: "I группа — **-es** (*tu parles*), III группа — **-s** (*tu lis, tu écris*). Особые: *tu vas, tu as, tu peux*."
+- id: a07-iii-singulier
+  lesson: a-07-question-inversion/01-grammaire
+  q: "*dire, partir, mettre* в ед. ч. настоящего времени?"
+  a: "*je dis, tu dis, il dit*; *je pars, tu pars, il part*; *je mets, tu mets, il **met***. Схема **-s, -s, -t**."
+- id: a07-aller-pouvoir
+  lesson: a-07-question-inversion/01-grammaire
+  q: "*aller* и *pouvoir* в ед. ч.?"
+  a: "*je vais, tu vas, il va*; *je peux, tu peux, il peut*."
+- id: a07-inversion-simple
+  lesson: a-07-question-inversion/02-grammaire
+  q: "Вопрос инверсией: *Il va à la gare. Tu lis.*"
+  a: "***Va-t-il*** *à la gare ?* — **-t-** между гласными; ***Lis-tu*** *?* — местоимение за глаголом через дефис."
+- id: a07-inversion-complexe
+  lesson: a-07-question-inversion/02-grammaire
+  q: "Вопрос инверсией: *Paul travaille à l'usine.*"
+  a: "*Paul **travaille-t-il** à l'usine ?* — существительное остаётся впереди и повторяется местоимением."
+- id: a07-est-ce-que
+  lesson: a-07-question-inversion/02-grammaire
+  q: "Как спросить с *est-ce que* и когда он обязателен?"
+  a: "*Est-ce que* + прямой порядок: *Est-ce qu'il lit ?* Обязателен с *je*: *Est-ce que je parle vite ?*"

@@ -1,0 +1,44 @@
+title: "Proposition infinitive вместо придаточного"
+type: gap
+intro: "Перепиши фразу так, чтобы после глагола восприятия стоял инфинитив (proposition infinitive). Впиши недостающую часть: инфинитив, а если нужно — и местоимение. Следи за согласованием причастия."
+hints:
+  - "J'entends que les enfants rient → J'entends les enfants rire / rire les enfants."
+  - "Местоимение-подлежащее инфинитива — перед глаголом восприятия: je les vois partir."
+  - "Подлежащее не названо (on) → j'ai entendu frapper."
+items:
+  - q: "J'ai vu que le facteur déposait un colis. → J'ai vu le facteur ___ un colis."
+    answers: ["déposer"]
+    explain: "Действие подлежащего инфинитива (*le facteur*) одновременно с *voir* → инфинитив настоящего **déposer**."
+  - q: "Elle entendait qu'on marchait dans le grenier. → Elle entendait ___ dans le grenier."
+    answers: ["marcher"]
+    explain: "Неопределённое подлежащее *on* не выражается: *elle entendait **marcher***."
+  - q: "Il sentait que son cœur battait plus vite. → Il sentait son cœur ___ plus vite."
+    answers: ["battre"]
+    explain: "*Sentir* + существительное + инфинитив: *son cœur **battre***."
+  - q: "Je regardais les enfants qui construisaient un château de sable. → Je regardais les enfants ___ un château de sable."
+    answers: ["construire"]
+    explain: "Относительное придаточное после глагола восприятия → proposition infinitive: **construire**."
+  - q: "Nous avons entendu la petite fille qui chantait. → Nous ___ chanter."
+    answers: ["l'avons entendue"]
+    explain: "Местоимение-подлежащее инфинитива ставится перед глаголом восприятия: *nous **l'**avons entendue chanter* (согласование: девочка сама поёт)."
+  - q: "Il sentait qu'il devenait nerveux. → Il ___ devenir nerveux."
+    answers: ["se sentait"]
+    explain: "Одно подлежащее у обоих глаголов → местоименная форма: ***se sentait** devenir nerveux*."
+  - q: "Voici les danseuses ; je les ai vues qui répétaient hier. → Voici les danseuses que j'ai ___ répéter hier."
+    answers: ["vues"]
+    explain: "*Que* = *les danseuses* — они сами репетируют → причастие согласуется: **vues**."
+  - q: "Voici la pièce ; j'ai vu qu'on la répétait hier. → Voici la pièce que j'ai ___ répéter hier."
+    answers: ["vu"]
+    explain: "Пьеса не репетирует, её репетируют → COD не является подлежащим инфинитива → **vu**, без согласования."
+  - q: "On écoutait le vieux marin qui racontait ses voyages. → On écoutait le vieux marin ___ ses voyages."
+    answers: ["raconter"]
+    explain: "*Écouter qn faire qch*: ***raconter***."
+  - q: "J'ai vu que la voiture démarrait brusquement. → J'ai vu ___ brusquement la voiture."
+    answers: ["démarrer"]
+    explain: "Существительное-подлежащее может стоять после инфинитива: *J'ai vu **démarrer** brusquement la voiture*."
+  - q: "Ils ont entendu que quelqu'un appelait au secours. → Ils ont entendu ___ au secours."
+    answers: ["appeler"]
+    explain: "Подлежащее неопределённое → не выражается: *ils ont entendu **appeler** au secours*."
+  - q: "Je n'ai jamais vu que mon père pleurait. → Je n'ai jamais vu mon père ___."
+    answers: ["pleurer"]
+    explain: "«Никогда не видел, чтобы отец плакал» → proposition infinitive: *vu mon père **pleurer***."

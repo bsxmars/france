@@ -1,0 +1,68 @@
+title: "Отрицай оба элемента"
+type: transform
+intro: "Преврати утверждение в отрицание, которое касается обоих выделенных элементов. Впиши недостающую часть."
+hints:
+  - "ne + глагол + ni X ni Y; pas не нужно."
+  - "un / une / des / du / de la исчезают; le / la / les, mon / ma / ce остаются."
+  - "Подлежащие: Ni X ni Y ne + глагол во мн. ч. Сложное время: ne + avoir / être + причастие + ni… ni…"
+items:
+  - q: "Il parle espagnol et portugais."
+    key: "ni… ni…"
+    stem: "Il ___."
+    answers: ["ne parle ni espagnol ni portugais"]
+    explain: "*Ne* перед глаголом, *ni* перед каждым элементом, без *pas*: **ne parle ni espagnol ni portugais**."
+  - q: "Ma voisine a un chien et un chat."
+    key: "ni… ni…"
+    stem: "Ma voisine ___."
+    answers: ["n'a ni chien ni chat"]
+    explain: "Неопределённый артикль исчезает: **n'a ni chien ni chat**."
+  - q: "Ce manuel est clair et complet."
+    key: "ni… ni…"
+    stem: "Ce manuel ___."
+    answers: ["n'est ni clair ni complet"]
+    explain: "Два прилагательных: **n'est ni clair ni complet**."
+  - q: "Les élèves aiment la chimie et la physique."
+    key: "ni… ni…"
+    stem: "Les élèves ___."
+    answers: ["n'aiment ni la chimie ni la physique"]
+    explain: "Определённый артикль после *aimer* сохраняется: **n'aiment ni la chimie ni la physique**."
+  - q: "Le professeur et la directrice ont répondu à mon mail."
+    key: "ni… ni… (sujets)"
+    stem: "___ à mon mail."
+    answers: ["Ni le professeur ni la directrice n'ont répondu", "Ni le professeur ni la directrice n'a répondu"]
+    explain: "Подлежащие: ***Ni** le professeur **ni** la directrice **n'ont** répondu*. Глагол обычно во мн. ч.; ед. ч. *n'a* тоже допустимо."
+  - q: "J'ai rencontré ton frère et ta sœur au salon de l'étudiant."
+    key: "ni… ni… (passé composé)"
+    stem: "Je ___ au salon de l'étudiant."
+    answers: ["n'ai rencontré ni ton frère ni ta sœur"]
+    explain: "*Ne* перед *ai*, *ni… ni…* после причастия; притяжательные остаются: **n'ai rencontré ni ton frère ni ta sœur**."
+  - q: "Paul sait nager et faire du vélo."
+    key: "ni… ni…"
+    stem: "Paul ___."
+    answers: ["ne sait ni nager ni faire du vélo"]
+    explain: "Два инфинитива: **ne sait ni nager ni faire du vélo**; внутри инфинитивной группы *du* сохраняется (*faire du vélo*)."
+  - q: "Elle boit du café et du thé."
+    key: "ni… ni…"
+    stem: "Elle ___."
+    answers: ["ne boit ni café ni thé"]
+    explain: "Частичный артикль исчезает: **ne boit ni café ni thé**."
+  - q: "Il est parti avec son passeport et son billet."
+    key: "sans… ni…"
+    stem: "Il est parti ___."
+    answers: ["sans son passeport ni son billet", "sans passeport ni billet"]
+    explain: "*Avec X et Y* → **sans X ni Y**: *sans son passeport ni son billet* (или без притяжательных: *sans passeport ni billet*)."
+  - q: "Nous avons mangé et bu pendant la pause."
+    key: "ni… ni… (participes)"
+    stem: "Nous ___ pendant la pause."
+    answers: ["n'avons ni mangé ni bu"]
+    explain: "Отрицаются сами причастия: *ne* перед *avons*, *ni* перед каждым причастием: **n'avons ni mangé ni bu**."
+  - q: "Cette école propose des cours du soir et des stages."
+    key: "ni… ni…"
+    stem: "Cette école ___."
+    answers: ["ne propose ni cours du soir ni stages"]
+    explain: "*Des* исчезает: **ne propose ni cours du soir ni stages**."
+  - q: "Tu préfères le bus ou le métro ? — Je n'aime pas le bus et je n'aime pas le métro."
+    key: "ni l'un ni l'autre"
+    stem: "Je n'aime ___."
+    answers: ["ni l'un ni l'autre"]
+    explain: "Оба мужского рода → **ni l'un ni l'autre**."

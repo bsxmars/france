@@ -1,0 +1,56 @@
+title: "Participe présent или participe passé?"
+type: choice
+intro: "Выбери форму по смыслу. Переходный глагол: participe présent — активный залог, participe passé — пассивный. Непереходный или местоименный: participe présent — одновременное действие, participe passé — завершённое действие или состояние."
+hints:
+  - "corrigeant — исправляющий; corrigé — исправленный."
+  - "arrivant — прибывающий; arrivé — прибывший."
+  - "se cachant — прячущийся (процесс); caché — спрятавшийся, находящийся в укрытии."
+items:
+  - q: "Les copies ___ par le jury seront rendues lundi."
+    options: ["corrigeant", "corrigées", "ayant corrigé"]
+    answer: 1
+    explain: "Копии испытывают действие (исправленные жюри) → пассивное причастие **corrigées**."
+  - q: "Les professeurs ___ les copies se réunissent à 9 h."
+    options: ["corrigeant", "corrigés", "corrigées"]
+    answer: 0
+    explain: "Преподаватели сами совершают действие (исправляющие) → participe présent **corrigeant**."
+  - q: "Les voyageurs ___ par le vol de 18 h doivent se présenter au guichet 4."
+    options: ["arrivant", "arrivés", "étant arrivant"]
+    answer: 0
+    explain: "Рейс ещё прибывает / регулярно прибывает (действие незавершённое) → **arrivant**."
+  - q: "Les voyageurs ___ ce matin attendent toujours leurs bagages."
+    options: ["arrivant", "arrivés", "arrivées"]
+    answer: 1
+    explain: "Завершённое действие (прибывшие утром) → **arrivés** (м. р. мн. ч.)."
+  - q: "La police a retrouvé l'enfant ___ dans une grange."
+    options: ["se cachant", "caché", "cachant"]
+    answer: 1
+    explain: "Нашли его в укрытии — состояние → **caché**."
+  - q: "On voyait un chat ___ sous la voiture à l'approche du chien."
+    options: ["se cachant", "caché", "cachant"]
+    answer: 0
+    explain: "Видно сам процесс (прячущийся в этот момент) → **se cachant**."
+  - q: "___ contre le mur, il observait les danseurs."
+    options: ["S'appuyant", "Appuyé", "Appuyant"]
+    answer: 1
+    explain: "Поза, длящееся состояние («прислонившись / стоя у стены») → **Appuyé**."
+  - q: "___ la porte derrière elle, elle s'est mise à pleurer."
+    options: ["Fermée", "Ayant fermé", "Fermant"]
+    answer: 1
+    explain: "Переходный глагол с дополнением, действие предшествует → **Ayant fermé**. *Fermée* было бы пассивным («закрытая»)."
+  - q: "C'était une étudiante ___ par tous ses camarades."
+    options: ["admirant", "admirée", "ayant admiré"]
+    answer: 1
+    explain: "Её восхищаются — пассив → **admirée** (агент через *par*)."
+  - q: "Les livres ___ du rayon ont été rangés par la bibliothécaire."
+    options: ["tombant", "tombés", "tombées"]
+    answer: 1
+    explain: "Книги уже упали (завершённое действие) → **tombés** (м. р. мн. ч., *livres*)."
+  - q: "___ dans un fauteuil, le grand-père racontait des histoires."
+    options: ["S'installant", "Installé", "S'étant installé"]
+    answer: 1
+    explain: "Длящееся состояние на фоне рассказа (*racontait*) → **Installé**. *S'étant installé* описывало бы предшествующее действие («устроившись, он начал…»)."
+  - q: "Les mesures ___ par le gouvernement ont provoqué des manifestations."
+    options: ["annonçant", "annoncées", "ayant annoncé"]
+    answer: 1
+    explain: "Меры объявлены правительством — пассив → **annoncées** (ж. р. мн. ч.)."

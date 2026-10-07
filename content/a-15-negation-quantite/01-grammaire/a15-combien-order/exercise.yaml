@@ -1,0 +1,38 @@
+title: "Вопрос с combien"
+type: order
+intro: "Собери вопрос по русскому смыслу. Подумай: *combien de…* относится к подлежащему (прямой порядок) или к дополнению (инверсия)? Вопросительный знак ставить не нужно."
+hints:
+  - "Подлежащее: Combien d'élèves parlent… — прямой порядок."
+  - "Дополнение: Combien de livres as-tu… — инверсия."
+  - "Существительное-подлежащее + инверсия: Combien de frères Paul a-t-il…"
+items:
+  - q: "«Сколько у тебя братьев?»"
+    answers: ["Combien de frères as-tu ?"]
+    explain: "*Frères* — дополнение к *avoir*, поэтому инверсия: **as-tu**. *Combien de* — без артикля."
+  - q: "«Сколько студентов работает в библиотеке?»"
+    answers: ["Combien d'étudiants travaillent à la bibliothèque ?"]
+    explain: "Студенты работают сами — это подлежащее, порядок прямой: *combien d'étudiants **travaillent***."
+  - q: "«Сколько у Мари детей?»"
+    answers: ["Combien d'enfants Marie a-t-elle ?"]
+    explain: "*Enfants* — дополнение; подлежащее — существительное *Marie*, оно стоит перед глаголом, а после глагола его повторяет *elle*: **Marie a-t-elle**."
+  - q: "«Сколько у вас занятий в понедельник?»"
+    answers: ["Combien de cours avez-vous lundi ?"]
+    explain: "*Cours* — дополнение → инверсия **avez-vous**. «В понедельник» — просто *lundi*, без предлога."
+  - q: "«Сколько туристов посещает музей каждый день?»"
+    answers: ["Combien de touristes visitent le musée chaque jour ?"]
+    explain: "Туристы посещают сами — подлежащее, порядок прямой: *combien de touristes **visitent***."
+  - q: "«Сколько языков изучает Пьер?»"
+    answers: ["Combien de langues Pierre étudie-t-il ?"]
+    explain: "*Langues* — дополнение; подлежащее *Pierre* остаётся перед глаголом, *il* — после: **Pierre étudie-t-il**. Между гласными — *-t-*."
+  - q: "«Сколько стульев в комнате?»"
+    answers: ["Combien de chaises y a-t-il dans la chambre ?"]
+    explain: "С *il y a* вопрос строится с инверсией: **y a-t-il**."
+  - q: "«Сколько пирожных ты покупаешь?»"
+    answers: ["Combien de gâteaux achètes-tu ?"]
+    explain: "*Gâteaux* — дополнение → инверсия **achètes-tu**."
+  - q: "«Сколько человек ждёт автобус?»"
+    answers: ["Combien de personnes attendent le bus ?"]
+    explain: "Люди ждут сами — подлежащее, прямой порядок: *combien de personnes **attendent***. *Attendre* — без предлога."
+  - q: "«Сколько у вас времени?»"
+    answers: ["Combien de temps avez-vous ?"]
+    explain: "*Temps* — дополнение → **avez-vous**. *Temps* — в единственном числе."

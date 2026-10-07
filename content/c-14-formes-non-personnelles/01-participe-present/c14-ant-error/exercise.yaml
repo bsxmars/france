@@ -1,0 +1,43 @@
+title: "Найди ошибку в форме на -ant"
+type: error
+intro: "В каждом предложении **одна** ошибка: лишнее или пропущенное согласование, неверная орфография (*-quant/-cant, -guant/-gant, -ant/-ent*) или неверная форма причастия. Исправь и отправь предложение целиком."
+hints:
+  - "Participe présent никогда не согласуется; adjectif verbal согласуется всегда."
+  - "С дополнением — convainquant, fatiguant, négligeant; без — convaincant, fatigant, négligent."
+items:
+  - q: "Ses arguments étaient très convainquants."
+    answers: ["Ses arguments étaient très convaincants."]
+    explain: "Именная часть сказуемого → adjectif verbal: **convaincants** (*-cant*, а не *-quant*)."
+  - q: "On recherche des vendeurs parlants couramment l'anglais."
+    answers: ["On recherche des vendeurs parlant couramment l'anglais."]
+    explain: "Есть прямое дополнение (*l'anglais*) → participe présent, неизменяемый: **parlant**."
+  - q: "C'est une journée fatiguante, mais utile."
+    answers: ["C'est une journée fatigante, mais utile.", "C'est une journée fatigante mais utile."]
+    explain: "Определение без дополнения → adjectif verbal **fatigante** (без *u*)."
+  - q: "Les accusés n'ayants pas d'avocat seront défendus d'office."
+    answers: ["Les accusés n'ayant pas d'avocat seront défendus d'office."]
+    explain: "*Ayant* — participe présent, неизменяемый: **n'ayant**. Форма *ayants* существует только в юридическом *les ayants droit*."
+  - q: "Ces deux méthodes donnent des résultats équivalant."
+    answers: ["Ces deux méthodes donnent des résultats équivalents."]
+    explain: "Признак без дополнения → прилагательное **équivalents** (*-ent*, согласование). *Équivalant* — только с дополнением: *une somme équivalant à deux mois de salaire*."
+  - q: "Il nous a raconté une histoire intrigante tout le village depuis des années."
+    answers: ["Il nous a raconté une histoire intriguant tout le village depuis des années."]
+    explain: "Прямое дополнение (*tout le village*) → participe présent **intriguant** (с *u*, неизменяемый)."
+  - q: "Le jour précédent son départ, il a rendu visite à ses parents."
+    answers: ["Le jour précédant son départ, il a rendu visite à ses parents."]
+    explain: "Прямое дополнение (*son départ*) → participe présent **précédant**. Без дополнения было бы *le jour précédent*."
+  - q: "Elle a trouvé la porte entrouverte et les enfants dormants dans le salon."
+    answers: ["Elle a trouvé la porte entrouverte et les enfants dormant dans le salon."]
+    explain: "Обстоятельство места (*dans le salon*) → действие → participe **dormant**, неизменяемый."
+  - q: "C'est un élève excellant, toujours attentif."
+    answers: ["C'est un élève excellent, toujours attentif."]
+    explain: "Качество, без дополнения → прилагательное **excellent** (*-ent*). *Excellant* — participe: *un élève excellant en mathématiques*."
+  - q: "Les deux routes convergents vers la place se rejoignent devant la mairie."
+    answers: ["Les deux routes convergeant vers la place se rejoignent devant la mairie."]
+    explain: "Есть обстоятельство *vers la place* → participe présent **convergeant** (с *e* после *g*, неизменяемый)."
+  - q: "Les températures suffoquantes de juillet ont vidé la ville."
+    answers: ["Les températures suffocantes de juillet ont vidé la ville."]
+    explain: "Признак → adjectif verbal **suffocantes** (*-cant*). Participe *suffoquant* — только с дополнением: *une fumée suffoquant les pompiers*."
+  - q: "Étant arrivé les premières, elles ont choisi les meilleures places."
+    answers: ["Étant arrivées les premières, elles ont choisi les meilleures places.", "Arrivées les premières, elles ont choisi les meilleures places."]
+    explain: "В participe passé composé с *étant* причастие согласуется с подлежащим *elles*: **étant arrivées**."

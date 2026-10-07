@@ -1,0 +1,44 @@
+title: "Сравни действия"
+type: gap
+intro: "Вставь наречие в нужной степени. В скобках — наречие и степень: (+) больше, (−) меньше, (=) так же, (++) больше всех, (−−) меньше всех."
+hints:
+  - "plus / moins / aussi + наречие + que; le plus / le moins + наречие."
+  - "beaucoup → plus, le plus; peu → moins, le moins; bien → mieux, le mieux."
+  - "У наречия в превосходной степени артикль всегда le."
+items:
+  - q: "Mon fils se lève ___ que moi. (tôt, +)"
+    answers: ["plus tôt"]
+    explain: "Сравнительная степень превосходства: **plus** + наречие: *plus tôt que*."
+  - q: "Parle ___, le bébé dort ! (fort, −)"
+    answers: ["moins fort"]
+    explain: "«Тише» = «менее громко»: **moins fort**. Вторая часть сравнения ясна из контекста и опущена."
+  - q: "Ma grand-mère marche ___ que nous. (vite, =)"
+    answers: ["aussi vite"]
+    explain: "Равенство — **aussi** + наречие + *que*: *aussi vite que*."
+  - q: "Tu joues du piano ___ que l'année dernière. (bien, +)"
+    answers: ["mieux"]
+    explain: "У *bien* особая сравнительная степень: **mieux**, а не ~~plus bien~~."
+  - q: "C'est Hélène qui danse ___ de toute la classe. (bien, ++)"
+    answers: ["le mieux"]
+    explain: "Превосходная степень *bien* — **le mieux**; артикль *le*, хотя речь о девушке."
+  - q: "Je comprends l'espagnol ___ que l'italien. (bien, −)"
+    answers: ["moins bien"]
+    explain: "Особая форма у *bien* только в «лучше». «Хуже, менее хорошо» → **moins bien**."
+  - q: "Cet hiver, il a neigé ___ que l'hiver dernier. (beaucoup, +)"
+    answers: ["plus"]
+    explain: "*Beaucoup* в сравнительной степени — **plus**: «шёл снег больше»."
+  - q: "C'est mon père qui parle ___ à table. (peu, ++)"
+    answers: ["le moins"]
+    explain: "«Меньше всех» от *peu* — **le moins**."
+  - q: "Ce sont les Martin qui partent en vacances ___. (souvent, ++)"
+    answers: ["le plus souvent"]
+    explain: "Превосходная степень: **le plus souvent**; артикль *le* не меняется и во мн. ч."
+  - q: "Depuis sa maladie, il entend ___. (mal, +)"
+    answers: ["plus mal", "moins bien"]
+    explain: "«Слышит хуже» — наречие: **plus mal** (или *moins bien*)."
+  - q: "J'ai lu ___ livres que toi cet été. (beaucoup de, +)"
+    answers: ["plus de"]
+    explain: "Сравнение количества с существительным: **plus de** + сущ. + *que*."
+  - q: "Écris ___, je n'arrive pas à te lire ! (lisiblement, +)"
+    answers: ["plus lisiblement"]
+    explain: "Любое наречие на *-ment* сравнивается через **plus**: *plus lisiblement*."

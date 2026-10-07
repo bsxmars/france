@@ -1,0 +1,58 @@
+title: "Причина и предшествование: participe composé"
+type: transform
+intro: |
+  Перефразируй первое предложение так, чтобы придаточное причины или времени стало **participe composé** (*ayant / étant + participe passé*). Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "avoir → ayant + participe passé; être → étant + participe passé (согласование с подлежащим)."
+  - "Возвратный глагол: s'étant + participe passé; отрицание: n'ayant pas…"
+items:
+  - q: "Comme elle avait terminé ses études, elle a ouvert sa propre boutique."
+    key: "AYANT"
+    stem: "___ ses études, elle a ouvert sa propre boutique."
+    answers: ["Ayant terminé", "Ayant fini", "Ayant achevé"]
+    explain: "*terminer* — с *avoir* → **ayant terminé**: действие раньше главного и причина."
+  - q: "Parce qu'ils étaient arrivés en avance, ils ont eu les meilleures places."
+    key: "ÉTANT"
+    stem: "___ en avance, ils ont eu les meilleures places."
+    answers: ["Étant arrivés", "Etant arrivés"]
+    explain: "*arriver* — с *être* → **étant arrivés**, согласование с подлежащим *ils*."
+  - q: "Comme je n'ai pas reçu de réponse, j'ai rappelé le service client."
+    key: "N'AYANT"
+    stem: "___ de réponse, j'ai rappelé le service client."
+    answers: ["N'ayant pas reçu"]
+    explain: "Отрицание обнимает *ayant*: **n'ayant pas reçu**."
+  - q: "Comme elle s'était installée à Paris, elle a complètement changé de style."
+    key: "S'ÉTANT"
+    stem: "___ à Paris, elle a complètement changé de style."
+    answers: ["S'étant installée"]
+    explain: "Возвратный глагол → *s'étant* + причастие; согласование с *elle*: **s'étant installée**."
+  - q: "Parce que le créateur avait vu le succès des baskets, il en a lancé une collection."
+    key: "VU"
+    stem: "___ le succès des baskets, le créateur en a lancé une collection."
+    answers: ["Ayant vu"]
+    explain: "*voir* — с *avoir* → **ayant vu**. Подлежащее у обеих частей общее — *le créateur*."
+  - q: "Comme nous étions partis tôt, nous avons évité les embouteillages."
+    key: "PARTIS"
+    stem: "___ tôt, nous avons évité les embouteillages."
+    answers: ["Étant partis", "Etant partis", "Étant parties", "Etant parties"]
+    explain: "*partir* — с *être* → **étant partis** (или *parties*, если *nous* — женщины)."
+  - q: "Étant donné qu'il avait beaucoup voyagé en Asie, il connaissait bien ces tissus."
+    key: "VOYAGÉ"
+    stem: "___ en Asie, il connaissait bien ces tissus."
+    answers: ["Ayant beaucoup voyagé", "Ayant voyagé"]
+    explain: "*voyager* — с *avoir* → **ayant beaucoup voyagé**; наречие стоит между *ayant* и причастием."
+  - q: "Parce que les ventes avaient baissé, la marque a fermé deux boutiques."
+    key: "BAISSÉ"
+    stem: "Les ventes ___ , la marque a fermé deux boutiques."
+    answers: ["ayant baissé", "ayant beaucoup baissé"]
+    explain: "У причастия своё подлежащее (*les ventes*) — это *proposition participiale*, типичная для прессы: **ayant baissé** (*baisser* — с *avoir*)."
+  - q: "Comme elle avait été invitée au gala, elle a dû acheter une robe de soirée."
+    key: "ÉTÉ"
+    stem: "___ au gala, elle a dû acheter une robe de soirée."
+    answers: ["Ayant été invitée"]
+    explain: "Пассив в participe composé: *ayant été* + причастие → **ayant été invitée** (согласование с *elle*)."
+  - q: "Puisque j'ai lu toutes les critiques, je sais déjà que ce film est raté."
+    key: "LU"
+    stem: "___ les critiques, je sais déjà que ce film est raté."
+    answers: ["Ayant lu toutes"]
+    explain: "*lire* — с *avoir* → **ayant lu**; *toutes* относится к *les critiques*: *ayant lu toutes les critiques*."

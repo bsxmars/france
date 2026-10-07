@@ -1,0 +1,43 @@
+title: "Причина, le, pouvoir и vouloir"
+type: gap
+intro: "Вставь союз (comme, parce que, car), местоимение le или форму pouvoir / vouloir (инфинитив в скобках)."
+hints:
+  - "Comme — причина перед главным предложением; parce que — после него и в ответе на pourquoi; car — после запятой, как пояснение."
+  - "Je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent; je veux… ils veulent."
+items:
+  - q: "___ Paul habite loin, il prend le métro."
+    answers: ["Comme"]
+    explain: "Причина стоит в начале, перед главным предложением → **comme**."
+  - q: "Paul prend le métro ___ son bureau est loin."
+    answers: ["parce que", "car"]
+    explain: "Причина после главного → **parce que** (или *car* — пояснение, обычно после запятой). *Comme* сюда поставить нельзя."
+  - q: "Pourquoi est-ce que tu ris ? — ___ ton histoire est drôle."
+    answers: ["Parce que"]
+    explain: "Ответ на *pourquoi* — только **parce que**; *car* так не употребляется."
+  - q: "Vous ___ fermer la fenêtre, s'il vous plaît ? (pouvoir)"
+    answers: ["pouvez"]
+    explain: "*vous* → **pouvez**."
+  - q: "Les enfants ___ jouer dehors. (vouloir)"
+    answers: ["veulent"]
+    explain: "*ils* → **veulent**: корень снова меняется, как в *je veux*."
+  - q: "Tu ___ venir avec nous ce soir ? (pouvoir)"
+    answers: ["peux"]
+    explain: "*tu* → **peux**, окончание *-x*."
+  - q: "___-je entrer ? (pouvoir)"
+    answers: ["Puis"]
+    explain: "В вопросе с инверсией в 1-м лице — только **puis-je**."
+  - q: "Hier, je n'ai pas ___ venir. (pouvoir)"
+    answers: ["pu"]
+    explain: "Participe passé от *pouvoir* — **pu**."
+  - q: "Ils ne ___ pas nous attendre, ils sont pressés. (pouvoir)"
+    answers: ["peuvent"]
+    explain: "*ils* → **peuvent**."
+  - q: "Nous ___ voir ce film ensemble. (vouloir)"
+    answers: ["voulons"]
+    explain: "*nous* → **voulons**: здесь корень *voul-*, как в инфинитиве."
+  - q: "Tu sais que le cours est annulé ? — Oui, je ___ sais."
+    answers: ["le"]
+    explain: "*Le* среднего рода заменяет всю мысль «что урок отменён»: **je le sais**."
+  - q: "Viens chez nous si tu ___ peux."
+    answers: ["le"]
+    explain: "*Le* = «прийти»: *si tu **le** peux* — если (это) можешь. Можно сказать и просто *si tu peux*, но здесь пропуск требует *le*."

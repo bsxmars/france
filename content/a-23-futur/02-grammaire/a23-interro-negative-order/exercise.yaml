@@ -1,0 +1,38 @@
+title: "Разве не…?"
+type: order
+intro: "Собери вопросительно-отрицательное предложение по русскому смыслу."
+hints:
+  - "Ne + глагол-местоимение + pas: Ne travailles-tu pas ?"
+  - "В passé composé: N'as-tu pas travaillé ? — причастие после pas."
+  - "С существительным: Paul ne viendra-t-il pas ?"
+items:
+  - q: "«Разве ты сегодня не работаешь?»"
+    answers: ["Ne travailles-tu pas aujourd'hui ?"]
+    explain: "*Ne* перед глаголом, *pas* после местоимения: **Ne travailles-tu pas**."
+  - q: "«Не устал ли он?»"
+    answers: ["N'est-il pas fatigué ?"]
+    explain: "*Ne* перед гласной → *n'*: **N'est-il pas** fatigué ?"
+  - q: "«Разве вы не получили моё письмо?»"
+    answers: ["N'avez-vous pas reçu ma lettre ?"]
+    explain: "В passé composé *ne… pas* обнимает *avez-vous*, причастие *reçu* — после *pas*."
+  - q: "«Разве Поль не придёт?»"
+    answers: ["Paul ne viendra-t-il pas ?"]
+    explain: "Сложная инверсия: *Paul* впереди, затем **ne viendra-t-il pas**."
+  - q: "«Не слишком ли поздно?»"
+    answers: ["N'est-il pas trop tard ?"]
+    explain: "Безличное *il est tard* → **N'est-il pas** trop tard ?"
+  - q: "«Разве они не поняли правило?»"
+    answers: ["N'ont-ils pas compris la règle ?"]
+    explain: "**N'ont-ils pas** + причастие *compris*."
+  - q: "«Разве ты не говоришь по-английски?» (с est-ce que)"
+    answers: ["Est-ce que tu ne parles pas anglais ?"]
+    explain: "С *est-ce que* порядок прямой: *tu **ne parles pas***."
+  - q: "«Разве она тебе всё не рассказала?»"
+    answers: ["Ne t'a-t-elle pas tout raconté ?"]
+    explain: "*Te* остаётся перед глаголом внутри *ne… pas*; *tout* — между *pas* и причастием."
+  - q: "«Разве он не видел твою сестру?»"
+    answers: ["N'a-t-il pas vu ta sœur ?"]
+    explain: "*-t-* между гласными: **N'a-t-il pas** vu."
+  - q: "«Разве вы не хотите прийти?»"
+    answers: ["Ne voulez-vous pas venir ?"]
+    explain: "**Ne voulez-vous pas** + инфинитив."

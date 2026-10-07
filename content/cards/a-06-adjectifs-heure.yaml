@@ -1,0 +1,32 @@
+- id: a06-heure
+  lesson: a-06-adjectifs-heure/01-grammaire
+  q: "«Который час?» — «Сейчас десять часов»."
+  a: "*Quelle heure est-il ?* — ***Il est** dix heures.* *il* — формальное подлежащее."
+- id: a06-une-heure
+  lesson: a-06-adjectifs-heure/01-grammaire
+  q: "«Час», «половина восьмого»?"
+  a: "*Il est **une heure**.* (без -s) — *Il est sept heures **et demie**.*"
+- id: a06-feminin
+  lesson: a-06-adjectifs-heure/01-grammaire
+  q: "Общее правило женского рода прилагательных? Когда оно не нужно?"
+  a: "**+ -e**: *seul — seule*. Если м. р. уже на немое -e — без изменений: *jeune, difficile*."
+- id: a06-consonne
+  lesson: a-06-adjectifs-heure/01-grammaire
+  q: "*gris, prêt, petit* в ж. р. — что меняется на слух?"
+  a: "Немая согласная **начинает звучать**: *grise* [griz], *prête* [prɛt], *petite*."
+- id: a06-eux
+  lesson: a-06-adjectifs-heure/01-grammaire
+  q: "Ж. р. от *heureux, sérieux, cadet*?"
+  a: "*-eux* → **-euse**: *heureuse, sérieuse*; *-et* → **-ette**: *cadette*."
+- id: a06-pluriel
+  lesson: a-06-adjectifs-heure/01-grammaire
+  q: "Мн. ч. прилагательных? *gris, vieux* во мн. ч.?"
+  a: "**+ -s** (немое): *bleues*. На -s и -x не меняются: *les livres **gris**, les **vieux** livres*."
+- id: a06-place
+  lesson: a-06-adjectifs-heure/01-grammaire
+  q: "Где стоит прилагательное: «голубой цветок», «маленькая комната»?"
+  a: "Обычно **после**: *une fleur bleue*. Короткие частые (*petit, grand, jeune, vieux, belle*) — **перед**: *une petite chambre*."
+- id: a06-accord-mixte
+  lesson: a-06-adjectifs-heure/01-grammaire
+  q: "«Поль и Анна довольны» — какая форма прилагательного?"
+  a: "Мужской род мн. ч.: *Paul et Anna sont **contents***."

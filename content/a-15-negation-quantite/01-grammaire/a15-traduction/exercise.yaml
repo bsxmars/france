@@ -1,0 +1,41 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Пунктуация не важна, акценты — важны."
+hints:
+  - "«Нет чего-то» → ne… pas de."
+  - "«Много / мало / достаточно / слишком много» → beaucoup / peu / assez / trop de."
+  - "avoir: j'ai, tu as, il a, nous avons, vous avez, ils ont; aie, ayons, ayez."
+items:
+  - q: "У меня нет зонта."
+    answers: ["Je n'ai pas de parapluie."]
+    explain: "Отрицание + прямое дополнение → **de**: *je n'ai pas **de** parapluie*."
+  - q: "У них много друзей."
+    answers: ["Ils ont beaucoup d'amis.", "Elles ont beaucoup d'amis.", "Ils ont beaucoup d'amies.", "Elles ont beaucoup d'amies."]
+    explain: "*Avoir* → **ils ont**; *beaucoup* + **d'** перед гласной: *beaucoup d'amis*."
+  - q: "В этом доме нет лифта."
+    answers: ["Il n'y a pas d'ascenseur dans cette maison.", "Dans cette maison, il n'y a pas d'ascenseur.", "Il n'y a pas d'ascenseur dans cet immeuble.", "Dans cet immeuble, il n'y a pas d'ascenseur."]
+    explain: "*Il n'y a pas* + *de*, перед гласной **d'**: *pas d'ascenseur*."
+  - q: "Это меня не интересует."
+    answers: ["Cela ne m'intéresse pas.", "Ça ne m'intéresse pas."]
+    explain: "«Это» как целая мысль → **cela** (разговорное *ça*), подлежащее; *me* перед гласной → *m'*."
+  - q: "Я не люблю кофе."
+    answers: ["Je n'aime pas le café."]
+    explain: "С *aimer* — определённый артикль **le**, при отрицании он сохраняется."
+  - q: "Сколько у вас братьев и сестёр?"
+    answers: ["Combien de frères et sœurs avez-vous ?", "Combien de frères et sœurs est-ce que vous avez ?", "Combien de frères et de sœurs avez-vous ?", "Combien de frères et de sœurs est-ce que vous avez ?"]
+    explain: "*Frères et sœurs* — дополнение → инверсия **avez-vous** (или *est-ce que vous avez*); *combien* + **de** без артикля."
+  - q: "У нас мало времени."
+    answers: ["Nous avons peu de temps.", "On a peu de temps."]
+    explain: "*Peu* + **de**: *peu de temps*."
+  - q: "Ты пьёшь слишком много кофе."
+    answers: ["Tu bois trop de café."]
+    explain: "*Trop* + **de** без артикля: *trop de café*."
+  - q: "Имейте терпение!"
+    answers: ["Ayez de la patience !", "Ayez patience !"]
+    explain: "Повелительное наклонение *avoir* — неправильное: **ayez** (ты — *aie*, мы — *ayons*)."
+  - q: "Я не понимаю этого."
+    answers: ["Je ne comprends pas cela.", "Je ne comprends pas ça."]
+    explain: "**Cela** (или *ça*) — прямое дополнение, стоит после глагола."
+  - q: "Сколько учеников говорит по-английски?"
+    answers: ["Combien d'élèves parlent anglais ?"]
+    explain: "Ученики говорят сами — подлежащее, порядок прямой: *combien d'élèves **parlent***. Название языка после *parler* — без артикля."

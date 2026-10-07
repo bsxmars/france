@@ -1,0 +1,44 @@
+title: "Traduire, conduire, pleuvoir, falloir"
+type: gap
+intro: "Вставь глагол в нужной форме. В скобках — инфинитив и время, если оно не настоящее."
+hints:
+  - "-uire: je traduis, il traduit, nous traduisons, ils traduisent; participe passé traduit."
+  - "pleuvoir: il pleut, il pleuvait, il a plu, il pleuvra."
+  - "falloir: il faut, il fallait, il a fallu, il faudra."
+items:
+  - q: "Je ___ ce texte pour mon frère. (traduire)"
+    answers: ["traduis"]
+    explain: "*je* → **traduis**: основа *tradui-* + *s*."
+  - q: "Nous ___ nos enfants à l'école à pied. (conduire)"
+    answers: ["conduisons"]
+    explain: "Во мн. ч. появляется *-s-*: **conduisons**."
+  - q: "On ___ un nouveau pont sur la rivière. (construire)"
+    answers: ["construit"]
+    explain: "*on* = 3-е лицо ед. ч. → **construit**."
+  - q: "Ces usines ___ des voitures électriques. (produire)"
+    answers: ["produisent"]
+    explain: "*ils* → **produisent**, с *-s-* во мн. ч."
+  - q: "Qui a ___ ce roman en russe ? (traduire, passé composé)"
+    answers: ["traduit"]
+    explain: "Причастие от *traduire* — **traduit**, с *-t* на конце."
+  - q: "Le feu a ___ toute la forêt. (détruire, passé composé)"
+    answers: ["détruit"]
+    explain: "*détruire* → причастие **détruit**."
+  - q: "Les enfants se ___ très bien chez leurs grands-parents. (se conduire)"
+    answers: ["conduisent"]
+    explain: "*se conduire* — вести себя; *ils* → **se conduisent**."
+  - q: "Prends ton parapluie, il ___ ! (pleuvoir)"
+    answers: ["pleut"]
+    explain: "Présent: **il pleut** — «идёт дождь»."
+  - q: "D'après la météo, il ___ demain. (pleuvoir, futur simple)"
+    answers: ["pleuvra"]
+    explain: "Futur от *pleuvoir*: **il pleuvra**."
+  - q: "Il ___ toute la journée hier. (pleuvoir, passé composé)"
+    answers: ["a plu"]
+    explain: "Passé composé: **il a plu** (причастие *plu*)."
+  - q: "Il leur ___ deux jours pour visiter la ville. (falloir, passé composé)"
+    answers: ["a fallu"]
+    explain: "«Им потребовалось» → **il leur a fallu**."
+  - q: "Il vous ___ revenir la semaine prochaine. (falloir, futur simple)"
+    answers: ["faudra"]
+    explain: "Futur от *falloir*: **il faudra** — «придётся»."

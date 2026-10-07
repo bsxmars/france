@@ -1,0 +1,55 @@
+title: "Выбери средство выделения"
+type: choice
+intro: "Все варианты похожи; верен один — по грамматике, по смыслу или по регистру."
+hints:
+  - "ce qui — подлежащее, ce que — дополнение, ce dont — de, ce à quoi — à."
+  - "C'est que — «значит»; ce n'est pas que + subjonctif — «не то чтобы»."
+items:
+  - q: "___ m'inquiète, c'est sa santé."
+    options: ["Ce que", "Ce qui", "Ce dont"]
+    answer: 1
+    explain: "*Sa santé m'inquiète* — подлежащее → **Ce qui**."
+  - q: "Ce ___ je me méfie, c'est de ses promesses."
+    options: ["que", "dont", "à quoi"]
+    answer: 1
+    explain: "*Se méfier **de*** → **ce dont**."
+  - q: "S'il ne t'a pas répondu, ___ il n'a pas reçu ton message."
+    options: ["c'est qu'", "ce qui", "voilà qu'"]
+    answer: 0
+    explain: "Объяснение-вывод «значит» → **c'est qu'**."
+  - q: "Ce n'est pas que je ___ contre, mais je préfère attendre."
+    options: ["suis", "sois", "serais"]
+    answer: 1
+    explain: "*Ce n'est pas que* («не то чтобы») требует subjonctif: **sois**."
+  - q: "Je n'ai vu ___ la fin du match."
+    options: ["pas", "que", "plus"]
+    answer: 1
+    explain: "Ограничение «только» → *ne… **que***."
+  - q: "Voilà ___ je voulais te dire."
+    options: ["ce que", "ce qui", "que"]
+    answer: 0
+    explain: "*Dire qch* → прямое дополнение → **ce que**."
+  - q: "Ce qui me manque le plus, ___ mes amis."
+    options: ["c'est", "ce sont", "sont"]
+    answer: 1
+    explain: "Перед существительным во мн. ч. в письменной норме — **ce sont** (разговорно и *c'est*)."
+  - q: "Какой вариант звучит книжно?"
+    options: ["Moi, je trouve ça bizarre.", "Il y a ton frère qui a appelé.", "Rares sont ceux qui l'ont compris."]
+    answer: 2
+    explain: "Вынесение прилагательного в начало с инверсией (**Rares sont…**) — литературный приём; первые два — разговорные."
+  - q: "Il pleuvait ; ___ avons-nous renoncé à la promenade."
+    options: ["aussi", "alors", "donc"]
+    answer: 0
+    explain: "В начале фразы **aussi** = «поэтому» и требует инверсии (*aussi avons-nous*). *Alors, donc* инверсии не вызывают."
+  - q: "Ce ___ je tiens, c'est à ta confiance."
+    options: ["que", "dont", "à quoi"]
+    answer: 2
+    explain: "*Tenir **à** qch* → **ce à quoi**."
+  - q: "Quant à ___, ils n'ont rien dit."
+    options: ["ils", "eux", "leur"]
+    answer: 1
+    explain: "После *quant à* — ударное местоимение: **eux**."
+  - q: "Il n'y a pas ___ le travail dans la vie !"
+    options: ["que", "seulement", "rien"]
+    answer: 0
+    explain: "*Ne… pas que* = «не только»: *Il n'y a pas **que** le travail*."

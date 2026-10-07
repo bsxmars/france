@@ -1,0 +1,184 @@
+title: "Révision A: уроки 1–16"
+type: choice
+intro: |
+  32 вопроса, по два на каждый урок фонетического курса. Выбери один вариант. **Не знаешь — пропусти**, не угадывай: так результат по урокам будет честным.
+
+  Род существительного, где он важен, указан в скобках: м. — мужской, ж. — женский.
+pass: 1
+items:
+  # Урок 1
+  - q: "___ classe est grande. (ж.)"
+    options: ["La", "Le", "Les"]
+    answer: 0
+    topic: "a-01-article"
+    explain: "*classe* — женского рода, единственное число → **la**. *Le* — для мужского рода, *les* — для множественного числа."
+  - q: "Как сказать «Анна читает»?"
+    options: ["L'Anna lit.", "Lit Anna.", "Anna lit."]
+    answer: 2
+    topic: "a-01-article"
+    explain: "Перед именем человека артикля нет, а подлежащее стоит **перед** сказуемым: ***Anna lit.***"
+  # Урок 2
+  - q: "___ hôtel est petit. (м.)"
+    options: ["Ce", "Cet", "Cette"]
+    answer: 1
+    topic: "a-02-etre"
+    explain: "*hôtel* — мужской род и начинается с немого *h* (как с гласной) → **cet**: *cet hôtel*. *Ce* — перед согласной, *cette* — для женского рода."
+  - q: "Nous ___ à Paris."
+    options: ["sommes", "est", "êtes"]
+    answer: 0
+    topic: "a-02-etre"
+    explain: "Être с *nous* → **nous sommes**. *Est* — для *il / elle*, *êtes* — для *vous*."
+  # Урок 3
+  - q: "Les filles ___ français."
+    options: ["parle", "parles", "parlent"]
+    answer: 2
+    topic: "a-03-verbes-pluriel"
+    explain: "Подлежащее во множественном числе (*les filles* = *elles*) → окончание **-ent**: *elles parlent*. Оно немое, на слух *parle* и *parlent* совпадают — различаются только на письме."
+  - q: "Léa, ___ la porte, s'il te plaît !"
+    options: ["ferme", "fermes", "fermer"]
+    answer: 0
+    topic: "a-03-verbes-pluriel"
+    explain: "Повелительное наклонение на «ты» у глаголов I группы — без *-s*: ***Ferme** la porte !* *Fermer* — инфинитив."
+  # Урок 4
+  - q: "Как сказать «Письмо читает Поль»?"
+    options: ["La lettre lit Paul.", "Lit Paul la lettre.", "Paul lit la lettre."]
+    answer: 2
+    topic: "a-04-ordre-qui"
+    explain: "Во французском порядок слов твёрдый: подлежащее → глагол → дополнение. ***Paul lit la lettre.*** *La lettre lit Paul* означало бы «Письмо читает Поля»."
+  - q: "Les étudiants partent. — Qui ___ ?"
+    options: ["part", "partent", "partez"]
+    answer: 0
+    topic: "a-04-ordre-qui"
+    explain: "После *qui* в вопросе к подлежащему глагол всегда в 3-м лице **единственного** числа, даже если ответ — несколько человек: ***Qui part ?***"
+  # Урок 5
+  - q: "Les enfants téléphonent à ___ mère. («своей»)"
+    options: ["sa", "leur", "leurs"]
+    answer: 1
+    topic: "a-05-possessifs-negation"
+    explain: "«Свой» переводится по лицу владельца. Владельцев несколько (*les enfants* = *ils*), мать одна → **leur** mère. *Sa* — когда владелец один, *leurs* — когда предметов несколько."
+  - q: "Как сказать «Он не читает»?"
+    options: ["Il ne lit pas.", "Il pas ne lit.", "Il ne lit."]
+    answer: 0
+    topic: "a-05-possessifs-negation"
+    explain: "Отрицание из двух частей обнимает глагол: ***ne** + глагол + **pas***. Без *pas* или с *pas* перед глаголом — ошибка."
+  # Урок 6
+  - q: "Ma sœur est très ___ aujourd'hui."
+    options: ["heureux", "heureuses", "heureuse"]
+    answer: 2
+    topic: "a-06-adjectifs-heure"
+    explain: "*sœur* — женский род, единственное число. Прилагательные на *-eux* в женском роде получают **-euse**: *heureuse*."
+  - q: "— Quelle heure est-il ? — ___ huit heures."
+    options: ["Il est", "C'est", "Elle est"]
+    answer: 0
+    topic: "a-06-adjectifs-heure"
+    explain: "Время называют безличным оборотом ***il est***: *Il est huit heures.* *Il* здесь ни на кого не указывает, поэтому ни *c'est*, ни *elle est* не подходят."
+  # Урок 7
+  - q: "Как спросить «Он говорит по-французски?» инверсией?"
+    options: ["Parle-il français ?", "Parle-t-il français ?", "Est-ce que parle-il français ?"]
+    answer: 1
+    topic: "a-07-question-inversion"
+    explain: "Глагол кончается на гласную, а местоимение начинается с гласной → вставное **-t-**: *Parle-t-il ?* После *est-ce que* инверсии не бывает: *Est-ce qu'il parle français ?*"
+  - q: "Marc est ___ ."
+    options: ["français", "un français", "le français"]
+    answer: 0
+    topic: "a-07-question-inversion"
+    explain: "Национальность после *être* — прилагательное, без артикля и со строчной буквы: *Marc est **français***. *Le français* — это французский язык."
+  # Урок 8
+  - q: "___ tu lis ?"
+    options: ["Que", "Qu'est-ce que", "Est-ce"]
+    answer: 1
+    topic: "a-08-que-article"
+    explain: "За пропуском — прямой порядок (*tu lis*), значит, нужен ***qu'est-ce que***. После *que* требуется инверсия: *Que lis-tu ?*"
+  - q: "C'est la voiture ___ directeur."
+    options: ["du", "de le", "de la"]
+    answer: 0
+    topic: "a-08-que-article"
+    explain: "*directeur* — мужской род, артикль *le*. *De + le* обязательно сливаются → **du**. *De la* не подходит по роду."
+  # Урок 9
+  - q: "Ce soir, nous allons ___ cinéma."
+    options: ["aux", "à le", "au"]
+    answer: 2
+    topic: "a-09-au-pronoms"
+    explain: "*le cinéma* — мужской род, единственное число. *À + le* сливаются → **au**. *Aux* — для множественного числа."
+  - q: "Tu lis ce livre ? — Oui, je ___ ."
+    options: ["lis le", "le lis", "lis-le"]
+    answer: 1
+    topic: "a-09-au-pronoms"
+    explain: "Местоимение-дополнение стоит **перед** глаголом: *je **le** lis*. После глагола оно бывает только в утвердительном приказе."
+  # Урок 10
+  - q: "Vous ___ du sport ?"
+    options: ["faites", "faisez", "faisons"]
+    answer: 0
+    topic: "a-10-vous-ou-article"
+    explain: "*Faire* — одно из трёх исключений с *vous*: *vous êtes, vous dites, vous **faites***. Формы *faisez* не существует, *faisons* — для *nous*."
+  - q: "Il lit ___ la journée."
+    options: ["tout", "toute", "toutes"]
+    answer: 1
+    topic: "a-10-vous-ou-article"
+    explain: "*Tout* согласуется с существительным: *la journée* — женский род, единственное число → ***toute** la journée*."
+  # Урок 11
+  - q: "Le soir, on ___ la télévision."
+    options: ["regardons", "regarde", "regardent"]
+    answer: 1
+    topic: "a-11-present-on"
+    explain: "После *on* глагол всегда в 3-м лице единственного числа, даже когда *on* значит «мы»: *on **regarde***."
+  - q: "Ce sont tes livres ? — Non, ___ mes livres."
+    options: ["ce ne sont pas", "ce ne sont", "ce pas sont"]
+    answer: 0
+    topic: "a-11-present-on"
+    explain: "Отрицание *ce sont* строится как обычно: *ne* перед глаголом, *pas* после → ***ce ne sont pas***."
+  # Урок 12
+  - q: "Nous aimons ___ maison. («нашу»)"
+    options: ["nos", "votre", "notre"]
+    answer: 2
+    topic: "a-12-possessifs-lire"
+    explain: "Владелец — *nous*, предмет один → **notre**. *Nos* — когда предметов несколько, *votre* — «ваш»."
+  - q: "Nous ___ une lettre à Marie. (écrire)"
+    options: ["écrisons", "écrivons", "écrions"]
+    answer: 1
+    topic: "a-12-possessifs-lire"
+    explain: "У *écrire* во множественном числе появляется *-v-*: *nous **écrivons**, vous écrivez, ils écrivent*."
+  # Урок 13
+  - q: "Sur la table, ___ un livre."
+    options: ["il y a", "est", "c'est"]
+    answer: 0
+    topic: "a-13-article-aller-venir"
+    explain: "Когда сообщаем, что где-то **есть** что-то новое (по-русски предмет в конце фразы), нужен ***il y a***: *Sur la table, il y a un livre.*"
+  - q: "Ils ___ de Moscou. (venir)"
+    options: ["vienent", "venent", "viennent"]
+    answer: 2
+    topic: "a-13-article-aller-venir"
+    explain: "В 3-м лице множественного числа у *venir* основа *vien-* и **два n**: *ils **viennent***."
+  # Урок 14
+  - q: "Tu vas à la gare ? — Oui, j'___ vais."
+    options: ["en", "y", "le"]
+    answer: 1
+    topic: "a-14-en-y-faire"
+    explain: "*À la gare* — «туда» → **y**: *j'y vais*. *En* значит «оттуда»."
+  - q: "Qu'est-ce qu'ils ___ ce soir ? (faire)"
+    options: ["font", "faisent", "faites"]
+    answer: 0
+    topic: "a-14-en-y-faire"
+    explain: "*Faire* с *ils* → ***ils font***. *Faites* — форма *vous*, формы *faisent* нет."
+  # Урок 15
+  - q: "Je n'ai pas ___ frère."
+    options: ["un", "le", "de"]
+    answer: 2
+    topic: "a-15-negation-quantite"
+    explain: "После отрицания *un, une, des* заменяются на **de**: *J'ai un frère* → *Je n'ai pas **de** frère.*"
+  - q: "Il y a beaucoup ___ enfants dans le parc."
+    options: ["des", "d'", "les"]
+    answer: 1
+    topic: "a-15-negation-quantite"
+    explain: "После *beaucoup, peu, trop, assez, combien* — только *de* без артикля, перед гласной — **d'**: *beaucoup d'enfants*."
+  # Урок 16
+  - q: "Tu as des sœurs ? — Oui, j'___ ai deux."
+    options: ["en", "y", "les"]
+    answer: 0
+    topic: "a-16-en-nombres"
+    explain: "Дополнение с *des* и числом заменяет **en**, а число остаётся в конце: *J'**en** ai deux.*"
+  - q: "___ calmes, les enfants !"
+    options: ["Êtes", "Soyez", "Sois"]
+    answer: 1
+    topic: "a-16-en-nombres"
+    explain: "Повелительное наклонение *être* не совпадает с настоящим временем: *sois, soyons, **soyez***. Детей несколько → ***Soyez** calmes !*"

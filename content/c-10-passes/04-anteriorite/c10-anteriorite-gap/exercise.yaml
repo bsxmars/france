@@ -1,0 +1,44 @@
+title: "Plus-que-parfait, venait de, passé antérieur"
+type: gap
+intro: "Поставь глагол во время, которое выражает предшествование: plus-que-parfait, passé immédiat / plus-que-parfait immédiat (venir de) или passé antérieur. Русская подсказка в скобках указывает «только что»."
+hints:
+  - "Просто раньше другого прошедшего → plus-que-parfait."
+  - "Только что: точка отсчёта сейчас → vient de; в прошлом → venait de."
+  - "Dès que, aussitôt que, après que, à peine… que + passé simple в главном → passé antérieur."
+items:
+  - q: "Quand je suis arrivé à la gare, le train ___ (partir) depuis dix minutes."
+    answers: ["était parti"]
+    explain: "Действие до другого прошедшего (*suis arrivé*), промежуток не важен → plus-que-parfait: ***était parti***."
+  - q: "Elle me rendit enfin le livre que je lui ___ (prêter) deux ans plus tôt."
+    answers: ["avais prêté"]
+    explain: "*Deux ans plus tôt* — предшествование с большим промежутком → plus-que-parfait."
+  - q: "Roman : Dès que les invités ___ (partir), elle s'effondra dans un fauteuil."
+    answers: ["furent partis"]
+    explain: "*Dès que* + passé simple в главном → passé antérieur: *être* в passé simple + причастие, согласованное с *les invités*: ***furent partis***."
+  - q: "Roman : Aussitôt qu'il ___ (finir) son discours, les questions fusèrent de toutes parts."
+    answers: ["eut fini"]
+    explain: "Сразу одно за другим, книжный рассказ → passé antérieur: ***eut fini***."
+  - q: "Ne l'appelle pas maintenant, il ___ (только что заснул : s'endormir)."
+    answers: ["vient de s'endormir"]
+    explain: "Точка отсчёта — сейчас → passé immédiat: ***vient de s'endormir***."
+  - q: "Nous ___ (только что сесть : s'asseoir) à table quand on sonna à la porte."
+    answers: ["venions de nous asseoir"]
+    explain: "В главном предложении перед *quand* + прошедшее → plus-que-parfait immédiat: ***venions de nous asseoir*** (возвратное местоимение согласуется с *nous*)."
+  - q: "Le ministre a annoncé que le rapport ___ (только что быть опубликован : être publié)."
+    answers: ["venait d'être publié"]
+    explain: "Точка отсчёта в прошлом (*a annoncé*) → ***venait d'être publié*** (пассив после *venir de*)."
+  - q: "Roman : En quelques minutes, les pompiers ___ (maîtriser) l'incendie."
+    answers: ["eurent maîtrisé"]
+    explain: "Passé antérieur в самостоятельном предложении с *en quelques minutes* — мгновенно завершённое действие: ***eurent maîtrisé***."
+  - q: "Chaque soir, quand elle ___ (coucher) les enfants, elle lisait une heure au salon."
+    answers: ["avait couché"]
+    explain: "Повторяющееся предшествование в паре с imparfait привычки → plus-que-parfait: ***avait couché***."
+  - q: "Roman : À peine ___ (il / se lever) qu'il retomba sur son lit."
+    answers: ["se fut-il levé"]
+    explain: "*À peine* в начале → инверсия; passé antérieur возвратного глагола: ***se fut-il levé***."
+  - q: "Roman : Après qu'il ___ (signer) le contrat, il regretta sa décision."
+    answers: ["eut signé"]
+    explain: "*Après que* + **indicatif**; в паре с passé simple → passé antérieur: ***eut signé***."
+  - q: "Il était furieux : quelqu'un ___ (lire) son journal intime."
+    answers: ["avait lu"]
+    explain: "Предшествование + причина его гнева → plus-que-parfait: ***avait lu***."

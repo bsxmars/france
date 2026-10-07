@@ -1,0 +1,14 @@
+title: "Глава. Conditionnel"
+level: c1
+book: book-grammar
+summary: "Строишь любые условные предложения с si — реальные, возможные, нереальные в настоящем и прошлом, смешанные — и не путаешь условное si с si «ли», «если вдруг», «тогда как»; без ошибок образуешь conditionnel présent и passé, узнаёшь книжную «вторую форму» (j'eusse aimé, il eût fallu, qui l'eût cru); пользуешься conditionnel без si: смягчение, непроверенная информация, предположение, уступка с quand bien même, au cas où, on dirait, je ne saurais."
+topics:
+  - "Conditionnel présent: формы (appellerais, enverrais, courrais, cueillerais), si + imparfait — возможное и нереальное в настоящем; conditionnel и futur dans le passé"
+  - "Conditionnel passé: si + plus-que-parfait — нереальное в прошлом; смешанные схемы; 2-я форма conditionnel passé (= plus-que-parfait du subjonctif) в книжной речи — на узнавание"
+  - "Корреляция времён и наклонений после si: реальное, потенциальное, нереальное условие; si «ли», si «когда», si противительное, même si, comme si, si jamais, et que"
+  - "Другие значения conditionnel: предположение, смягчение (devoir / falloir), условие без si (avec, sans, à ta place, инверсия, параллельные фразы), quand bien même, au cas où, conditionnel journalistique, on dirait, je ne saurais, conditionnel imaginaire и негодующий"
+sources:
+  - {title: "Tex's French Grammar — Conditional", url: "https://www.laits.utexas.edu/tex/gr/tac1.html"}
+  - {title: "Tex's French Grammar — Past conditional", url: "https://www.laits.utexas.edu/tex/gr/tac2.html"}
+  - {title: "Tex's French Grammar — Si clauses: summary", url: "https://www.laits.utexas.edu/tex/gr/tac3.html"}
+  - {title: "Le Point du FLE — Conditionnel", url: "https://www.lepointdufle.net/p/conditionnel.htm"}

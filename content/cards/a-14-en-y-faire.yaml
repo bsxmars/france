@@ -1,0 +1,32 @@
+- id: a14-y
+  lesson: a-14-en-y-faire/01-grammaire
+  q: "Что заменяет *y*? «Ты идёшь на почту? — Да, иду (туда)»."
+  a: "Место с *à, dans, sur, sous, chez*: «туда, там». *Tu vas à la poste ? — Oui, j'**y** vais.*"
+- id: a14-en
+  lesson: a-14-en-y-faire/01-grammaire
+  q: "Что заменяет *en*? «Ты с почты? — Да, (оттуда)»."
+  a: "Место с *de*: «оттуда». *Tu viens de la poste ? — Oui, j'**en** viens.*"
+- id: a14-place-en-y
+  lesson: a-14-en-y-faire/01-grammaire
+  q: "Где стоят *en* и *y*?"
+  a: "Перед глаголом (*j'y vais, je n'y vais pas, y allez-vous ?*), перед инфинитивом, к которому относятся (*je vais y aller*); после глагола — только в утвердительном повелительном: *Allez-y ! Sors-en !*"
+- id: a14-vas-y
+  lesson: a-14-en-y-faire/01-grammaire
+  q: "«Иди туда!», «Оставайся там!» — на «ты»."
+  a: "***Vas-y !*** ***Restes-y !*** — перед *y* и *en* повелительное на -e и *va* получает -s. Но: *N'y va pas !*"
+- id: a14-quand-comment
+  lesson: a-14-en-y-faire/01-grammaire
+  q: "Порядок слов после *quand* и *comment*."
+  a: "Местоимение — простая инверсия: *Quand part-il ?* Существительное — *Quand part ton ami ?* или *Quand ton ami part-il ?*; с дополнением или обстоятельством — только сложная: *Quand ton ami part-il pour Lyon ?* С *je* — *est-ce que*."
+- id: a14-comment-etre
+  lesson: a-14-en-y-faire/01-grammaire
+  q: "«Какая у тебя комната?»"
+  a: "*Comment est ta chambre ?* — с *être* *comment* значит «какой?»."
+- id: a14-faire
+  lesson: a-14-en-y-faire/01-grammaire
+  q: "Проспрягай *faire*."
+  a: "*je fais, tu fais, il fait, nous faisons* [fə-zɔ̃], *vous **faites**, ils **font***. Повелительное: *fais ! faisons ! faites !*"
+- id: a14-on-y-va
+  lesson: a-14-en-y-faire/01-grammaire
+  q: "«Пошли!» и «Да, иду (туда)» — почему не просто *je vais*?"
+  a: "*Aller* без указания места не употребляют: ***On y va !*** — ***Oui, j'y vais.***"

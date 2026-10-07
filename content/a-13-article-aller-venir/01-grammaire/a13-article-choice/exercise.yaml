@@ -1,0 +1,56 @@
+title: "Какой артикль?"
+type: choice
+intro: "Выбери артикль (или de). Подумай: предмет новый, «какой-то» — или уже известный?"
+hints:
+  - "Новый предмет, «один из», после il y a — un / une / des."
+  - "Уже названный, единственный, «вообще» — le / la / les."
+  - "После il n'y a pas — de (d')."
+items:
+  - q: "C'est ___ chaise. (что это?)"
+    options: ["une", "la", "des"]
+    answer: 0
+    explain: "Называем, **что** это за предмет (к какому классу относится) → **une** chaise."
+  - q: "C'est ___ chaise de Léa."
+    options: ["une", "la", "de"]
+    answer: 1
+    explain: "Предмет уточнён (*de Léa*) — это конкретный, известный стул → **la** chaise."
+  - q: "Sur la table il y a ___ fleurs."
+    options: ["les", "des", "de"]
+    answer: 1
+    explain: "После *il y a* — неопределённый артикль; цветов несколько → **des**."
+  - q: "Il y a une lampe sur la table. ___ lampe est petite."
+    options: ["Une", "La", "De"]
+    answer: 1
+    explain: "Лампа уже названа в первой фразе — теперь она известна → **la** lampe."
+  - q: "Dans ma chambre il n'y a pas ___ télévision."
+    options: ["une", "la", "de"]
+    answer: 2
+    explain: "После отрицания *il n'y a pas* артикль *une* → **de**."
+  - q: "Il n'y a pas ___ enfants dans le jardin."
+    options: ["des", "de", "d'"]
+    answer: 2
+    explain: "*de* перед гласной → **d'**: *pas d'enfants*."
+  - q: "J'ai ___ frère et deux sœurs."
+    options: ["un", "le", "de"]
+    answer: 0
+    explain: "Значение «один» → **un** frère."
+  - q: "Paul aime ___ musique."
+    options: ["une", "la", "des"]
+    answer: 1
+    explain: "После *aimer* — предмет в общем смысле → определённый артикль **la**."
+  - q: "Prends ___ stylo, s'il te plaît. (любую ручку)"
+    options: ["un", "le", "de"]
+    answer: 0
+    explain: "«Какую-нибудь, одну из» → **un** stylo. *Le stylo* — та самая, известная ручка."
+  - q: "___ homme entre dans le café."
+    options: ["Le", "Un", "Des"]
+    answer: 1
+    explain: "Человек впервые появляется в рассказе, он нам незнаком → **un** homme («какой-то мужчина»)."
+  - q: "Ce sont ___ élèves de notre école."
+    options: ["des", "les", "de"]
+    answer: 1
+    explain: "Уточнение *de notre école* делает учеников определёнными → **les**. (*Ce sont des élèves* — «это (какие-то) ученики».)"
+  - q: "Près de la gare il y a ___ cinéma."
+    options: ["un", "le", "de"]
+    answer: 0
+    explain: "После *il y a* — новый предмет → **un** cinéma."

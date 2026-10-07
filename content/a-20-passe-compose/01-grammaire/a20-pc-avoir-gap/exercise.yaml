@@ -1,0 +1,44 @@
+title: "Passé composé с avoir"
+type: gap
+intro: "Поставь глагол в passé composé (в скобках — инфинитив). Впиши вспомогательный глагол и причастие, а если в скобках есть наречие — поставь его на место: *as bien dormi*."
+hints:
+  - "-er → -é, -ir (II гр.) → -i."
+  - "faire → fait, prendre → pris, voir → vu, lire → lu, écrire → écrit, mettre → mis, avoir → eu, être → été."
+  - "bien, mal, beaucoup, peu, déjà, encore — между avoir и причастием."
+items:
+  - q: "Hier soir, nous ___ une pizza. (manger)"
+    answers: ["avons mangé"]
+    explain: "*manger* — I группа: причастие **mangé**; *nous* → **avons mangé**."
+  - q: "Les enfants ___ leurs devoirs. (finir)"
+    answers: ["ont fini"]
+    explain: "*finir* — II группа: причастие на **-i**: **ont fini**."
+  - q: "Tu ___ ce film ? (voir)"
+    answers: ["as vu"]
+    explain: "*voir → **vu***; *tu* → **as vu**."
+  - q: "J'___ une lettre à ma grand-mère. (écrire)"
+    answers: ["ai écrit"]
+    explain: "*écrire → **écrit***; *je* → *j'**ai écrit***."
+  - q: "Elle ___ le bus de huit heures. (prendre)"
+    answers: ["a pris"]
+    explain: "*prendre → **pris***; *elle* → **a pris**."
+  - q: "Vous ___ la clé sur la table ? (mettre)"
+    answers: ["avez mis"]
+    explain: "*mettre → **mis***; *vous* → **avez mis**."
+  - q: "Paul ___ malade toute la semaine. (être)"
+    answers: ["a été"]
+    explain: "*être* сам спрягается с **avoir**: **a été** — «был болен»."
+  - q: "Nous ___ de la chance ! (avoir)"
+    answers: ["avons eu"]
+    explain: "*avoir → **eu*** [y]; *nous* → **avons eu**."
+  - q: "Ils ___ attendre une heure. (devoir)"
+    answers: ["ont dû"]
+    explain: "*devoir → **dû*** — с циркумфлексом; *ils* → **ont dû**."
+  - q: "Tu ___ ? — Oui, très bien, merci. (dormir, bien)"
+    answers: ["as bien dormi"]
+    explain: "*bien* — между вспомогательным глаголом и причастием: **as bien dormi**."
+  - q: "Cette semaine, j'___. (lire, beaucoup)"
+    answers: ["ai beaucoup lu"]
+    explain: "*beaucoup* относится к глаголу → между *ai* и *lu*: *j'**ai beaucoup lu***."
+  - q: "Les élèves n'___ la question. (comprendre, pas encore)"
+    answers: ["ont pas encore compris"]
+    explain: "*ne… pas* обнимает вспомогательный глагол, *encore* идёт следом: *n'**ont pas encore compris***. *comprendre → compris*."

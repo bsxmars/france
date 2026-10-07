@@ -1,0 +1,164 @@
+- id: c03-feminin-doublement
+  lesson: c-03-adjectif/01-feminin
+  q: "Какие прилагательные удваивают согласную в ж. р.?"
+  a: "*-el, -eil, -en, -ien, -on, -et*: *cruelle, pareille, européenne, ancienne, bonne, muette*. Не удваивают: *-al, -in, -ain, -ein, -un* (*nationale, voisine, pleine, commune*)."
+- id: c03-feminin-ete
+  lesson: c-03-adjectif/01-feminin
+  q: "Какие прилагательные на -et дают -ète?"
+  a: "*complète, incomplète, concrète, désuète, discrète, indiscrète, inquiète, replète, secrète*."
+- id: c03-feminin-s-ot
+  lesson: c-03-adjectif/01-feminin
+  q: "Где удваивается s и t: bas, gros, épais, sot, vieillot?"
+  a: "*basse, grosse, épaisse, grasse, lasse, expresse, métisse*; *sotte, vieillotte, pâlotte*. Но *grise, française; idiote*."
+- id: c03-feminin-in-u
+  lesson: c-03-adjectif/01-feminin
+  q: "Ж. р.: bénin, malin, aigu, ambigu, exigu."
+  a: "*bénigne, maligne; aiguë, ambiguë, exiguë* (по реформе 1990 — *aigüe, ambigüe, exigüe*)."
+- id: c03-feminin-eur
+  lesson: c-03-adjectif/01-feminin
+  q: "Ж. р. прилагательных на -eur?"
+  a: "*-euse* (*trompeuse, rêveuse*), *-trice* (*protectrice, créatrice*), *-eure* у сравнительных (*meilleure, supérieure, antérieure*), *-eresse* (книжн.: *vengeresse, enchanteresse*)."
+- id: c03-feminin-speciaux
+  lesson: c-03-adjectif/01-feminin
+  q: "Ж. р.: blanc, sec, frais, public, grec, long, caduc, favori, coi."
+  a: "*blanche, sèche, fraîche (fraiche), publique, grecque, longue, caduque, favorite, coite*."
+- id: c03-feminin-x
+  lesson: c-03-adjectif/01-feminin
+  q: "Ж. р.: doux, roux, faux, jaloux, vieux."
+  a: "*douce, rousse, fausse, jalouse, vieille*."
+- id: c03-un-seul-genre
+  lesson: c-03-adjectif/01-feminin
+  q: "Прилагательные только одного рода?"
+  a: "М. р.: *aquilin* (нос), *pantois, preux*. Ж. р.: *enceinte, (bouche) bée, (porte) cochère*. *Châtain, chic* не меняются в роде."
+- id: c03-bel-nouvel
+  lesson: c-03-adjectif/02-masculin-pluriel
+  q: "Когда нужны bel, nouvel, vieil, fol, mol?"
+  a: "Непосредственно перед сущ. м. р. ед. ч. на гласную или *h* немое: *un bel arbre, un nouvel an, un vieil homme, un fol espoir*. Не после существительного и не во мн. ч."
+- id: c03-bel-h-aspire
+  lesson: c-03-adjectif/02-masculin-pluriel
+  q: "Un vieil héros или un vieux héros?"
+  a: "***Un vieux héros*** — перед *h* придыхательным обычная форма. Но *un vieil hôpital* (*h* немое)."
+- id: c03-pluriel-al
+  lesson: c-03-adjectif/02-masculin-pluriel
+  q: "Прилагательные на -al с мн. ч. на -s?"
+  a: "*banals, bancals, fatals, finals (finaux), natals, navals, tonals*; колеблются *glacials / glaciaux, idéals / idéaux*."
+- id: c03-pluriel-eu
+  lesson: c-03-adjectif/02-masculin-pluriel
+  q: "Мн. ч.: bleu, hébreu, beau."
+  a: "*bleus, hébreux, beaux*."
+- id: c03-couleurs
+  lesson: c-03-adjectif/02-masculin-pluriel
+  q: "Des yeux bleus / bleu clair / marron / roses — правила?"
+  a: "Простой цвет согласуется (*bleus*); составной — нет (*bleu clair*); существительное-цвет — нет (*marron, orange, cerise*), кроме *rose, mauve, pourpre, écarlate, fauve*."
+- id: c03-demi-nu
+  lesson: c-03-adjectif/02-masculin-pluriel
+  q: "Demi-heure / une heure et demie; nu-pieds / pieds nus — почему так?"
+  a: "Перед существительным с дефисом *demi, nu* неизменяемы; после — согласуются (*demi* только в роде: *deux heures et demie*)."
+- id: c03-accord-plusieurs
+  lesson: c-03-adjectif/02-masculin-pluriel
+  q: "Une veste et un pantalon noir..?"
+  a: "Прилагательное к нескольким существительным разного рода — м. р. мн. ч.: *noirs*. Существительное м. р. лучше ставить ближе."
+- id: c03-pire-plus-mauvais
+  lesson: c-03-adjectif/03-comparaison
+  q: "Pire или plus mauvais?"
+  a: "*Plus mauvais* — о конкретном качестве (*ce vin est plus mauvais*); *pire* — о моральном, абстрактном, в выражениях (*le remède est pire que le mal; de mal en pis*)."
+- id: c03-moindre
+  lesson: c-03-adjectif/03-comparaison
+  q: "Moindre или plus petit?"
+  a: "*Plus petit* — о размере; *moindre* — абстрактно: *un moindre mal, à moindre coût*; *le moindre* = малейший: *pas la moindre idée*."
+- id: c03-meilleur-mieux
+  lesson: c-03-adjectif/03-comparaison
+  q: "Meilleur или mieux?"
+  a: "*Meilleur* — прилагательное (при сущ. или после *être*): *ce gâteau est meilleur*. *Mieux* — наречие (при глаголе): *elle chante mieux*. ~~Plus bon~~ — нельзя."
+- id: c03-superlatif-place
+  lesson: c-03-adjectif/03-comparaison
+  q: "La plus ancienne ville / la ville la plus ancienne?"
+  a: "Место — как в положительной степени. Прилагательное после существительного → два артикля: *la ville **la plus** ancienne*. С притяжательным — *mon plus beau souvenir*."
+- id: c03-un-des-plus
+  lesson: c-03-adjectif/03-comparaison
+  q: "«Один из самых красивых музеев Парижа»"
+  a: "*Un des plus beaux musées de Paris*; *l'une des villes les plus visitées d'Europe* — прилагательное и существительное во мн. ч., дополнение с *de*."
+- id: c03-le-plus-invariable
+  lesson: c-03-adjectif/03-comparaison
+  q: "C'est le matin qu'elle est le / la plus calme?"
+  a: "***Le plus*** — неизменяемо: предмет сравнивается с самим собой в разное время. *La plus calme de la famille* — сравнение с другими."
+- id: c03-des-plus
+  lesson: c-03-adjectif/03-comparaison
+  q: "Une situation des plus délicates — что это?"
+  a: "Книжное *des plus* + прил. мн. ч. = «крайне, в высшей степени» (регистр soutenu)."
+- id: c03-comparatif-details
+  lesson: c-03-adjectif/03-comparaison
+  q: "Как усилить сравнение и как сказать «старше на три года»?"
+  a: "*Bien / beaucoup / nettement / encore plus* (не ~~très plus~~); *plus âgé **de** trois ans*. В отрицании — *pas si… que*."
+- id: c03-place-apres
+  lesson: c-03-adjectif/04-place-sens
+  q: "Какие прилагательные стоят после существительного?"
+  a: "Цвет, форма, национальность, религия, относительные (*économique*), причастия, длинные и с дополнением."
+- id: c03-place-avant
+  lesson: c-03-adjectif/04-place-sens
+  q: "Какие прилагательные обычно стоят перед существительным?"
+  a: "Короткие частотные: *beau, joli, bon, mauvais, grand, petit, gros, haut, long, jeune, vieux, nouveau, autre, même*; порядковые, *prochain, dernier*."
+- id: c03-sens-ancien-cher
+  lesson: c-03-adjectif/04-place-sens
+  q: "Un ancien ministre / une maison ancienne; mon cher ami / un restaurant cher"
+  a: "Бывший / старинный; дорогой (милый) / дорогой (по цене)."
+- id: c03-sens-grand-pauvre
+  lesson: c-03-adjectif/04-place-sens
+  q: "Un grand homme / un homme grand; un pauvre homme / un homme pauvre"
+  a: "Великий / высокий; несчастный / бедный (без денег)."
+- id: c03-sens-propre-seul
+  lesson: c-03-adjectif/04-place-sens
+  q: "Ma propre voiture / une voiture propre; un seul enfant / un enfant seul"
+  a: "Собственная / чистая; единственный / одинокий."
+- id: c03-sens-dernier-meme
+  lesson: c-03-adjectif/04-place-sens
+  q: "La dernière semaine / la semaine dernière; le même jour / le jour même"
+  a: "Последняя (в ряду) / прошлая; тот же день / в тот самый день."
+- id: c03-sens-simple-vrai
+  lesson: c-03-adjectif/04-place-sens
+  q: "Une simple question / une question simple; un vrai problème / une histoire vraie"
+  a: "Всего лишь вопрос / простой вопрос; настоящая проблема / правдивая история."
+- id: c03-sens-curieux-sale
+  lesson: c-03-adjectif/04-place-sens
+  q: "Un curieux personnage / un enfant curieux; une sale histoire / une chemise sale"
+  a: "Странный / любознательный; скверная / грязная."
+- id: c03-anteposition-style
+  lesson: c-03-adjectif/04-place-sens
+  q: "Une soirée magnifique / une magnifique soirée — разница?"
+  a: "Смысл тот же, препозиция — эмоциональная, книжная оценка (регистр soutenu): *un remarquable travail, d'importantes réformes*."
+- id: c03-adj-adverbes-liste
+  lesson: c-03-adjectif/05-adverbes-quel
+  q: "Прилагательные в роли наречий — назови 8 сочетаний."
+  a: "*parler haut / bas, crier fort, coûter cher, sentir bon / mauvais, travailler dur / ferme, s'arrêter net, refuser net, voir clair, chanter juste / faux, peser lourd, tenir bon*."
+- id: c03-adj-adverbes-invariables
+  lesson: c-03-adjectif/05-adverbes-quel
+  q: "Ces chaussures coûtent cher / chères?"
+  a: "***Cher*** — в роли наречия неизменяемо. Но *ces chaussures sont chères*."
+- id: c03-sentir-bon
+  lesson: c-03-adjectif/05-adverbes-quel
+  q: "«Эти цветы хорошо пахнут»"
+  a: "*Ces fleurs sentent **bon***. *Sentir bien* — «хорошо себя чувствовать»."
+- id: c03-grande-ouverte
+  lesson: c-03-adjectif/05-adverbes-quel
+  q: "La fenêtre grand / grande ouverte?"
+  a: "По традиции согласуется: *la fenêtre **grande** ouverte, les yeux grands ouverts, des fleurs fraîches cueillies*."
+- id: c03-quel-formes
+  lesson: c-03-adjectif/05-adverbes-quel
+  q: "Quel — определение и сказуемое: примеры."
+  a: "Определение: *Quelle heure est-il ? Quels livres as-tu lus ?* Сказуемое (перед *être*): *Quelle est votre adresse ? Quels sont vos projets ?*"
+- id: c03-quel-comment
+  lesson: c-03-adjectif/05-adverbes-quel
+  q: "Quel est ce livre ? / Comment est ce livre ?"
+  a: "*Quel* — что это за книга (идентичность): *c'est un roman de Modiano*. *Comment* — какова она (качество): *passionnant*."
+- id: c03-quel-exclamatif
+  lesson: c-03-adjectif/05-adverbes-quel
+  q: "Quel восклицательное: правила и книжная конструкция?"
+  a: "Без артикля: *Quelle surprise ! Quel beau temps !* Книжно: *Quelle ne fut pas ma surprise quand…* — «каково же было моё удивление»."
+- id: c03-quel-que-soit
+  lesson: c-03-adjectif/05-adverbes-quel
+  q: "Quel que soit — как согласуется?"
+  a: "С подлежащим *soit*: *quelle que soit la décision, quels que soient vos arguments, quelles que soient les difficultés*. Не путать с *quelques* (несколько)."
+- id: c03-possible
+  lesson: c-03-adjectif/02-masculin-pluriel
+  q: "Faites le moins de fautes possible(s)?"
+  a: "***Possible*** — неизменяемо после *le plus / le moins + сущ.* («насколько возможно»). Но *toutes les solutions possibles*."

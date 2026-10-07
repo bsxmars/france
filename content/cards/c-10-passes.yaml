@@ -1,0 +1,140 @@
+- id: c10-ps-valeur
+  lesson: c-10-passes/01-passe-simple
+  q: "Чем passé simple отличается от passé composé по смыслу и регистру?"
+  a: "Оба — законченное действие. Passé composé связан с настоящим (разговор, письмо, новости: *hier, ce matin*); passé simple — нет, это время письменного рассказа (роман, история, биография: *le lendemain, en 1815*)."
+- id: c10-ps-types
+  lesson: c-10-passes/01-passe-simple
+  q: "Четыре типа passé simple: какие гласные и у кого?"
+  a: "**a** — все на -er (*il parla*); **i** — 2-я гр., -dre, -uire, -indre, *faire, dire, prendre, voir* (*il finit, il peignit*); **u** — *être, avoir*, почти все -oir, -aître, *lire, courir, mourir, vivre* (*il fut, il vécut*); **in** — *venir, tenir* (*il vint*)."
+- id: c10-ps-irr
+  lesson: c-10-passes/01-passe-simple
+  q: "Passé simple (il): naître, vaincre, craindre, conduire, s'asseoir, mourir."
+  a: "*il **naquit**, il **vainquit**, il **craignit**, il **conduisit**, il **s'assit**, il **mourut***."
+- id: c10-fut-fut
+  lesson: c-10-passes/01-passe-simple
+  q: "*il fut* / *il fit* / *qu'il fût* — что есть что?"
+  a: "*il fut* — passé simple от *être*; *il fit* — от *faire*; *qu'il fût* (с циркумфлексом) — subjonctif imparfait от *être*. Циркумфлекс в 3-м л. ед. ч. = субъюнктив."
+- id: c10-vit-plut
+  lesson: c-10-passes/01-passe-simple
+  q: "Омонимы: *il vit*, *il plut*, *il crut* / *il crût*."
+  a: "*il vit* — увидел (voir) или живёт (vivre, présent; прошедшее — *il vécut*); *il plut* — понравился (plaire) или пошёл дождь (pleuvoir); *il crut* — поверил (croire), *il crût* — вырос (croître)."
+- id: c10-eut-fut-sens
+  lesson: c-10-passes/01-passe-simple
+  q: "Как переводить *elle eut un fils*, *il eut peur*, *quand il fut prêt*?"
+  a: "Passé simple = событие: «родила сына», «испугался», «когда он собрался (был готов)». Не «у неё был сын», не «боялся»."
+- id: c10-sut-put
+  lesson: c-10-passes/01-passe-simple
+  q: "Смысл passé simple: *il sut, il put, il ne voulut pas, il dut, il connut la misère*."
+  a: "узнал; смог (сумел); отказался; ему пришлось; испытал нищету."
+- id: c10-ps-dialogue
+  lesson: c-10-passes/01-passe-simple
+  q: "Роман в passé simple. В каком времени реплики героев?"
+  a: "В passé composé: прямая речь — живой разговор. *« Je l'**ai vu** hier », **dit**-elle.*"
+- id: c10-ps-orth
+  lesson: c-10-passes/01-passe-simple
+  q: "Орфография: commencer, manger в passé simple (il / ils); recevoir (nous)."
+  a: "*il commença, ils commencèrent; il mangea, ils mangèrent; nous reçûmes* (циркумфлекс в nous / vous сохраняется и после реформы 1990 г.)."
+- id: c10-imp-valeurs
+  lesson: c-10-passes/02-imparfait
+  q: "Четыре основных значения imparfait."
+  a: "Длящееся действие без границ; повторение, привычка; описание; одновременность (два параллельных процесса или фон для события)."
+- id: c10-au-moment-ou
+  lesson: c-10-passes/02-imparfait
+  q: "«В тот момент, когда он выходил, зазвонил телефон»."
+  a: "***Au moment où** il **sortait**, le téléphone **a sonné** / **sonna**.* Не ~~dans le moment quand~~."
+- id: c10-si-suggestion
+  lesson: c-10-passes/02-imparfait
+  q: "«А не пойти ли нам в кино?» / «Если бы только у меня было время!»"
+  a: "*Si on **allait** au cinéma ?* (предложение) / *Si seulement j'**avais** le temps !* (сожаление) — si + imparfait в самостоятельном предложении."
+- id: c10-imp-attenuation
+  lesson: c-10-passes/02-imparfait
+  q: "Imparfait d'atténuation — пример и смысл."
+  a: "*Je **voulais** vous demander un service. Je **venais** pour l'annonce.* Вежливость: просьба «отодвинута» в прошлое, ≈ *je voudrais*."
+- id: c10-imp-narration
+  lesson: c-10-passes/02-imparfait
+  q: "*En 1962, l'Algérie accédait à l'indépendance.* Что это за imparfait?"
+  a: "Imparfait de narration (stylistique): однократное событие с точной датой вместо passé simple. Переводим СВ: «получил»."
+- id: c10-imp-hypothetique
+  lesson: c-10-passes/02-imparfait
+  q: "«Ещё секунда — и грузовик бы нас раздавил» (живая речь)."
+  a: "*Une seconde de plus, et le camion nous **écrasait**.* Imparfait hypothétique = *nous aurait écrasés*: событие едва не произошло."
+- id: c10-imp-orth
+  lesson: c-10-passes/02-imparfait
+  q: "Imparfait: nous (étudier), nous (voir), je (manger), je (commencer)."
+  a: "*nous étud**ii**ons, nous vo**yi**ons, je man**ge**ais, je commen**ç**ais*."
+- id: c10-imp-hypocoristique
+  lesson: c-10-passes/02-imparfait
+  q: "*Il avait faim, mon petit chat ?* — о каком времени речь?"
+  a: "О настоящем: imparfait hypocoristique — ласковое обращение к детям и животным в 3-м лице."
+- id: c10-aspect-principe
+  lesson: c-10-passes/03-aspect
+  q: "Главный принцип выбора imparfait / passé composé для русскоговорящего."
+  a: "Не вид глагола, а граница: действие изнутри, без начала и конца → imparfait; факт, отрезок с границами → passé composé / simple."
+- id: c10-duree-limitee
+  lesson: c-10-passes/03-aspect
+  q: "«В субботу я весь день разбирал архив», «мы долго искали выход»."
+  a: "*Samedi, j'**ai trié** les archives toute la journée. Nous **avons** longtemps **cherché** la sortie.* Ограниченная длительность → passé composé, несмотря на НСВ."
+- id: c10-constatation
+  lesson: c-10-passes/03-aspect
+  q: "«Ты смотрел этот фильм?» «Я заходил к нему, но дверь была заперта»."
+  a: "*Tu **as vu** ce film ? Je **suis passé** chez lui, mais la porte était fermée.* Констатация факта → passé composé."
+- id: c10-repetition
+  lesson: c-10-passes/03-aspect
+  q: "*Elle prenait ce train chaque matin* / *Elle l'a pris trois fois* / *Tout l'hiver, elle l'a pris chaque matin* — почему так?"
+  a: "Привычка без границ → imparfait; посчитанные повторения или ограниченный срок → passé composé."
+- id: c10-savoir-connaitre
+  lesson: c-10-passes/03-aspect
+  q: "*je savais / j'ai su*; *je le connaissais / je l'ai connu*."
+  a: "знал / узнал; был знаком / познакомился (или испытал: *il a connu la guerre*)."
+- id: c10-pouvoir-vouloir
+  lesson: c-10-passes/03-aspect
+  q: "*il pouvait / il a pu*; *elle ne voulait pas / elle n'a pas voulu*; *il devait / il a dû*."
+  a: "мог / смог, удалось; не хотела / отказалась; должен был (по плану) / пришлось (или: наверное…)."
+- id: c10-croyais
+  lesson: c-10-passes/03-aspect
+  q: "«Это ты? А я думал, ты ещё на работе»."
+  a: "*C'est toi ? Je **croyais** / **pensais** que tu étais encore au bureau.* Ошибочное мнение → imparfait."
+- id: c10-a-mesure
+  lesson: c-10-passes/03-aspect
+  q: "«Чем дальше мы шли, тем сильнее она уставала» — какие времена?"
+  a: "Оба imparfait: *À mesure que nous **avancions**, elle **se fatiguait** davantage.* Постепенное изменение без границы."
+- id: c10-avoir-peur
+  lesson: c-10-passes/03-aspect
+  q: "*j'avais peur / j'ai eu peur*; *il était malade / il a été malade*."
+  a: "боялся / испугался; болел (фон) / переболел, проболел какое-то время."
+- id: c10-pqp
+  lesson: c-10-passes/04-anteriorite
+  q: "Plus-que-parfait: форма и три оттенка значения."
+  a: "*avais / étais* + причастие. Действие до другого прошедшего (любой промежуток); часто — причина (*elle sourit : elle avait reconnu la voix*); с imparfait привычки — повторяющееся предшествование (*quand il avait dîné, il sortait*)."
+- id: c10-passe-immediat
+  lesson: c-10-passes/04-anteriorite
+  q: "«Я только что им её отправил» — где местоимения?"
+  a: "*Je viens de **la leur** envoyer.* Passé immédiat: *venir* (présent) + *de* + инфинитив; местоимения перед инфинитивом."
+- id: c10-venait-de
+  lesson: c-10-passes/04-anteriorite
+  q: "«Он сказал, что только что вернулся»."
+  a: "*Il a dit qu'il **venait de** rentrer.* Точка отсчёта в прошлом → plus-que-parfait immédiat (*venir* в imparfait)."
+- id: c10-passe-anterieur
+  lesson: c-10-passes/04-anteriorite
+  q: "Passé antérieur: форма, где стоит, с каким временем в главном?"
+  a: "*eut fait, fut parti* (avoir/être в passé simple + причастие). После *quand, lorsque, dès que, aussitôt que, après que, à peine… que*; в главном — passé simple. Книжное время."
+- id: c10-a-peine
+  lesson: c-10-passes/04-anteriorite
+  q: "«Едва корабль причалил, как на борт поднялись таможенники» (книжно)."
+  a: "*À peine le bateau **eut-il accosté** que les douaniers montèrent à bord.* *À peine* в начале → инверсия, *que* открывает главное."
+- id: c10-pa-independante
+  lesson: c-10-passes/04-anteriorite
+  q: "Passé antérieur в самостоятельном предложении — когда?"
+  a: "Для мгновенно завершённого действия с *en un instant, bientôt, vite, en quelques minutes*: *En dix minutes, elle **eut rédigé** sa réponse.*"
+- id: c10-apres-que
+  lesson: c-10-passes/04-anteriorite
+  q: "Какое наклонение после *après que*?"
+  a: "Indicatif (действие уже произошло): *après qu'il **eut parlé** / **a parlé***. Субъюнктив — распространённая ошибка."
+- id: c10-oral-anteriorite
+  lesson: c-10-passes/04-anteriorite
+  q: "Как в устной речи заменяют пару «passé antérieur + passé simple»?"
+  a: "Двумя passé composé: *Dès qu'elle **a raccroché**, elle **a fondu** en larmes.* Реже — passé surcomposé: *dès qu'il **a eu fini***."
+- id: c10-trois-anteriorites
+  lesson: c-10-passes/04-anteriorite
+  q: "*elle avait reconnu* / *elle venait de reconnaître* / *dès qu'elle eut reconnu* — разница?"
+  a: "Просто раньше (возможно, причина) / только что, непосредственно перед / сразу же за этим последовало (книжная пара с passé simple)."

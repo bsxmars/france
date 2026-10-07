@@ -1,0 +1,40 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Где сказано «пассив» — используй страдательную форму. Пунктуация не важна, акценты — важны."
+hints:
+  - "«Купи хлеба» — du pain; «не пью кофе» — pas de café; «люблю кофе» — le café."
+  - "Пассив: être в нужном времени + причастие, согласованное с подлежащим."
+items:
+  - q: "Купи молока и хлеба."
+    answers: ["Achète du lait et du pain.", "Achète du pain et du lait.", "Achetez du lait et du pain.", "Achetez du pain et du lait."]
+    explain: "Какое-то количество → частичный артикль: **du lait, du pain**."
+  - q: "Я не пью кофе вечером."
+    answers: ["Je ne bois pas de café le soir.", "Le soir, je ne bois pas de café."]
+    explain: "Прямое дополнение после отрицания → **pas de** café."
+  - q: "Она очень любит рыбу."
+    answers: ["Elle aime beaucoup le poisson.", "Elle adore le poisson."]
+    explain: "После *aimer / adorer* — определённый артикль: **le** poisson."
+  - q: "У тебя есть мужество."
+    answers: ["Tu as du courage."]
+    explain: "Отвлечённое понятие → частичный артикль: **du** courage."
+  - q: "Дай мне стакан воды."
+    answers: ["Donne-moi un verre d'eau.", "Donnez-moi un verre d'eau."]
+    explain: "После меры *un verre* — **d'eau**, без артикля."
+  - q: "Сегодня ветрено."
+    answers: ["Aujourd'hui, il fait du vent.", "Il fait du vent aujourd'hui.", "Il y a du vent aujourd'hui.", "Aujourd'hui, il y a du vent."]
+    explain: "Погода: **il fait du vent** (или *il y a du vent*)."
+  - q: "Этот мост был построен в 1900 году. (пассив)"
+    answers: ["Ce pont a été construit en 1900.", "Ce pont fut construit en 1900.", "Ce pont a été construit en mille neuf cent."]
+    explain: "Законченное событие в прошлом → **a été construit** (в книжной речи *fut construit*)."
+  - q: "Все письма будут отправлены завтра. (пассив)"
+    answers: ["Toutes les lettres seront envoyées demain.", "Demain, toutes les lettres seront envoyées."]
+    explain: "Futur → **seront envoyées**: причастие согласуется с *les lettres* (ж. р., мн. ч.)."
+  - q: "Стол был накрыт белой скатертью. (пассив)"
+    answers: ["La table était couverte d'une nappe blanche.", "La table a été couverte d'une nappe blanche."]
+    explain: "*Couvrir* + **de** (состояние): *couverte **d'une** nappe blanche*; описание состояния — обычно imparfait *était*."
+  - q: "Эту певицу любят все. (пассив)"
+    answers: ["Cette chanteuse est aimée de tous.", "Cette chanteuse est aimée de tout le monde.", "Cette chanteuse est aimée par tous.", "Cette chanteuse est aimée par tout le monde."]
+    explain: "Глагол чувства → обычно **de**: *est aimée **de** tous* (*par* тоже встречается)."
+  - q: "Мне подарили книгу."
+    answers: ["On m'a offert un livre.", "Un livre m'a été offert."]
+    explain: "Косвенное дополнение («мне») не может стать подлежащим пассива → **on m'a offert** или *un livre m'a été offert*."

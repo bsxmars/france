@@ -1,0 +1,58 @@
+title: "Пусть он… : subjonctif без главного предложения"
+type: transform
+intro: "Перепиши фразу как независимое предложение с subjonctif (приказ третьему лицу, пожелание или застывший оборот), используя ключевое слово. Впиши недостающую часть целиком."
+hints:
+  - "Приказ для il / ils: Que + subjonctif !"
+  - "Пожелание: Que… ! / Puisse-t-il… ! / Vive… !"
+  - "Застывшие обороты: advienne que pourra, coûte que coûte, que je sache."
+items:
+  - q: "Je veux que les candidats attendent dans le couloir."
+    key: "que"
+    stem: "___ dans le couloir !"
+    answers: ["Que les candidats attendent"]
+    explain: "Приказ третьим лицам → ***Que les candidats attendent*** !"
+  - q: "Il faut que personne ne sorte avant la fin de l'examen."
+    key: "que personne"
+    stem: "___ avant la fin de l'examen !"
+    answers: ["Que personne ne sorte"]
+    explain: "Запрет третьему лицу: ***Que personne ne sorte*** !"
+  - q: "Je souhaite de tout cœur que votre voyage se passe bien."
+    key: "puisse"
+    stem: "___ bien !"
+    answers: ["Puisse votre voyage se passer"]
+    explain: "Книжное пожелание: *puisse* + подлежащее + инфинитив: ***Puisse votre voyage se passer*** bien !"
+  - q: "Je souhaite qu'il réussisse son concours."
+    key: "puisse-t-il"
+    stem: "___ son concours !"
+    answers: ["Puisse-t-il réussir"]
+    explain: "С местоимением-подлежащим — инверсия: ***Puisse-t-il réussir*** !"
+  - q: "Nous voulons que la paix dure longtemps !"
+    key: "vive"
+    stem: "___ !"
+    answers: ["Vive la paix"]
+    explain: "Застывшее пожелание: ***Vive la paix*** !"
+  - q: "Il veut obtenir ce poste à n'importe quel prix."
+    key: "coûte que coûte"
+    stem: "Il veut obtenir ce poste ___."
+    answers: ["coûte que coûte"]
+    explain: "«Любой ценой» → ***coûte que coûte*** (subjonctif *coûter*)."
+  - q: "Je ne sais pas ce qui arrivera, mais je pars quand même."
+    key: "advienne"
+    stem: "Je pars, ___ !"
+    answers: ["advienne que pourra"]
+    explain: "«Будь что будет» → ***advienne que pourra***."
+  - q: "À ma connaissance, il n'a jamais été condamné."
+    key: "sache"
+    stem: "Il n'a jamais été condamné, ___."
+    answers: ["que je sache"]
+    explain: "«Насколько я знаю» → ***que je sache*** (обычно после отрицательной фразы)."
+  - q: "Elle veut que sa sœur l'appelle dès son arrivée."
+    key: "qu'elle"
+    stem: "« ___ dès son arrivée ! » dit-elle en parlant de sa sœur."
+    answers: ["Qu'elle m'appelle"]
+    explain: "Приказ о третьем лице в прямой речи: ***Qu'elle m'appelle*** ! (местоимение *l'* → *m'*, говорит сама)."
+  - q: "D'accord, j'accepte, même si cela ne me plaît pas."
+    key: "soit"
+    stem: "___, j'accepte."
+    answers: ["Soit"]
+    explain: "***Soit*** ! — «ладно, пусть так» (произносится [swat])."

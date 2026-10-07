@@ -1,0 +1,40 @@
+title: "Прилагательное или наречие?"
+type: gap
+intro: "Впиши слово из скобок в нужной форме. Если это прилагательное при существительном — согласуй его; если наречие при глаголе — оставь без изменений."
+hints:
+  - "coûter cher, sentir bon, parler bas, s'arrêter net, travailler dur — неизменяемо."
+  - "Определение или сказуемое при существительном — согласуется: des places chères."
+items:
+  - q: "Ces billets d'avion nous ont coûté ___ (cher)."
+    answers: ["cher"]
+    explain: "*Coûter cher* — наречная функция при глаголе → неизменяемо: ***cher***."
+  - q: "Les places de l'orchestre sont trop ___ (cher) pour nous."
+    answers: ["chères"]
+    explain: "Сказуемое при *être* к подлежащему *les places* → согласуется: ***chères***."
+  - q: "Ces roses sentent vraiment ___ (bon)."
+    answers: ["bon"]
+    explain: "*Sentir bon* → неизменяемо: ***bon***."
+  - q: "Les deux sœurs parlaient ___ (bas) pour ne pas réveiller le bébé."
+    answers: ["bas"]
+    explain: "*Parler bas* — тихо говорить: наречие, неизменяемо."
+  - q: "La table est trop ___ (bas) pour travailler confortablement."
+    answers: ["basse"]
+    explain: "Прилагательное-сказуемое к *la table* → ***basse*** (удвоение *s*)."
+  - q: "En entendant son nom, elle s'est arrêtée ___ (net)."
+    answers: ["net"]
+    explain: "*S'arrêter net* — резко остановиться: неизменяемо, хотя подлежащее ж. р."
+  - q: "Il nous a donné une réponse très ___ (net) : c'est non."
+    answers: ["nette"]
+    explain: "Определение к *une réponse* → ***nette***."
+  - q: "Mes collègues ont travaillé ___ (dur) toute la semaine."
+    answers: ["dur"]
+    explain: "*Travailler dur* → неизменяемо."
+  - q: "Elle a trouvé la fenêtre ___ (grand) ouverte."
+    answers: ["grande"]
+    explain: "Традиционное исключение: *grand* перед причастием *ouvert* согласуется — *la fenêtre **grande** ouverte*."
+  - q: "Dans la chorale, deux voix chantent ___ (faux)."
+    answers: ["faux"]
+    explain: "*Chanter faux* — фальшиво петь: неизменяемо."
+  - q: "Ces arguments pèseront ___ (lourd) dans la décision finale."
+    answers: ["lourd"]
+    explain: "*Peser lourd* — иметь большой вес: неизменяемо."

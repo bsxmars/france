@@ -1,0 +1,38 @@
+title: "Собери фразу с местоимением"
+type: order
+intro: "Собери предложение по русскому смыслу. Главное — место местоимения: перед глаголом, перед инфинитивом или после глагола в повелительном."
+hints:
+  - "Je ne la vois pas — местоимение между ne и глаголом."
+  - "Je vais lui parler — перед инфинитивом."
+  - "Donne-moi… — но Ne me donne pas…"
+items:
+  - q: "«Я его не вижу»."
+    answers: ["Je ne le vois pas."]
+    explain: "Местоимение **le** стоит между *ne* и глаголом: *je ne **le** vois pas*."
+  - q: "«Мы сейчас вам покажем город»."
+    answers: ["Nous allons vous montrer la ville."]
+    explain: "*Futur immédiat*: местоимение перед инфинитивом — *allons **vous** montrer*."
+  - q: "«Она только что им позвонила»."
+    answers: ["Elle vient de leur téléphoner."]
+    explain: "*Passé immédiat*: *vient de* + **leur** + инфинитив."
+  - q: "«Дай мне свою ручку!»"
+    answers: ["Donne-moi ton stylo !"]
+    explain: "Утвердительное повелительное: местоимение после глагола, *me* → **moi**: *donne-moi*."
+  - q: "«Не звони ему вечером!»"
+    answers: ["Ne lui téléphone pas le soir !"]
+    explain: "Отрицательное повелительное: местоимение перед глаголом — *ne **lui** téléphone pas*."
+  - q: "«Ты её часто видишь?»"
+    answers: ["Tu la vois souvent ?"]
+    explain: "Местоимение перед глаголом, наречие *souvent* — после глагола."
+  - q: "«Я не собираюсь им отвечать»."
+    answers: ["Je ne vais pas leur répondre."]
+    explain: "Отрицание вокруг *vais*, местоимение **leur** — перед инфинитивом."
+  - q: "«Подождите нас здесь!»"
+    answers: ["Attendez-nous ici !"]
+    explain: "Утвердительное повелительное: *attendez-**nous***, через дефис."
+  - q: "«Учитель задаёт нам вопросы»."
+    answers: ["Le professeur nous pose des questions."]
+    explain: "*Poser une question **à** qn* → **nous** перед глаголом."
+  - q: "«Мы только что его встретили»."
+    answers: ["Nous venons de le rencontrer."]
+    explain: "*Venir de* + **le** + инфинитив; *de le* не сливается: это местоимение."

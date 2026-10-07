@@ -1,0 +1,32 @@
+- id: a03-groupe1
+  lesson: a-03-verbes-pluriel/01-grammaire
+  q: "Какие глаголы относятся к I группе?"
+  a: "Глаголы с инфинитивом на **-er**: *parler, aimer, chercher, fermer*. Самая большая и правильная группа."
+- id: a03-il-ils
+  lesson: a-03-verbes-pluriel/01-grammaire
+  q: "*parler*: 3-е лицо ед. и мн. ч.?"
+  a: "il / elle **parle**, ils / elles **parlent**. Оба окончания (-e, -ent) не читаются: звучат одинаково."
+- id: a03-ent
+  lesson: a-03-verbes-pluriel/01-grammaire
+  q: "Как читается *-ent* в *ils ferment*?"
+  a: "**Никак**: [il-fɛrm]. В глаголах *-ent* немое."
+- id: a03-imperatif
+  lesson: a-03-verbes-pluriel/01-grammaire
+  q: "Повелительное наклонение I группы: «закрой!», «закройте!»"
+  a: "***Ferme !*** (ты: -e, без -s) — ***Fermez !*** (вы: -ez). Подлежащего нет."
+- id: a03-repeter
+  lesson: a-03-verbes-pluriel/01-grammaire
+  q: "*répéter*: il …, ils …, вы-повелительное?"
+  a: "il **répète**, ils **répètent** (перед немым окончанием é → è), но **répétez**."
+- id: a03-pluriel
+  lesson: a-03-verbes-pluriel/01-grammaire
+  q: "Как образуется мн. ч. существительных?"
+  a: "**+ -s**, которое не читается: *la place — les places*. Число слышно по определителю."
+- id: a03-determinants-pluriel
+  lesson: a-03-verbes-pluriel/01-grammaire
+  q: "Мн. ч. от *la / le*, *ma / mon*, *sa / son*, *ce / cette*?"
+  a: "**les**, **mes**, **ses**, **ces** — одна форма для обоих родов."
+- id: a03-liaison
+  lesson: a-03-verbes-pluriel/01-grammaire
+  q: "Как на слух отличить *il aime* от *ils aiment*?"
+  a: "Связывание: *ils aiment* [il-**z**ɛm], *il aime* [i-lɛm]."

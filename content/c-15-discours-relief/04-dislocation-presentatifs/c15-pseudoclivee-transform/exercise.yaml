@@ -1,0 +1,67 @@
+title: "Ce qui… c'est, ce que… c'est"
+type: transform
+intro: "Перестрой фразу так, чтобы выделенная в скобках часть оказалась в конце после c'est. Ключевое слово — нужное местоимение. Впиши первую часть фразы целиком (до запятой)."
+hints:
+  - "Подлежащее → ce qui; прямое дополнение → ce que; глагол с de → ce dont; глагол с à → ce à quoi."
+  - "Глагол в первой части — в том же времени и лице."
+items:
+  - q: "Le bruit de la ville me fatigue. (le bruit de la ville)"
+    key: "ce qui"
+    stem: "___, c'est le bruit de la ville."
+    answers: ["Ce qui me fatigue"]
+    explain: "*Le bruit* — подлежащее → **Ce qui** me fatigue."
+  - q: "Je cherche un appartement avec un balcon. (un appartement avec un balcon)"
+    key: "ce que"
+    stem: "___, c'est un appartement avec un balcon."
+    answers: ["Ce que je cherche"]
+    explain: "Прямое дополнение → **Ce que** je cherche."
+  - q: "Nous avons besoin de patience. (de patience)"
+    key: "ce dont"
+    stem: "___, c'est de patience."
+    answers: ["Ce dont nous avons besoin", "Ce dont on a besoin"]
+    explain: "*Avoir besoin **de*** → **ce dont**; предлог повторяется после *c'est*."
+  - q: "Elle rêve d'un tour du monde. (d'un tour du monde)"
+    key: "ce dont"
+    stem: "___, c'est d'un tour du monde."
+    answers: ["Ce dont elle rêve"]
+    explain: "*Rêver **de*** → **ce dont** elle rêve."
+  - q: "Il pense surtout à sa carrière. (à sa carrière)"
+    key: "ce à quoi"
+    stem: "___, c'est à sa carrière."
+    answers: ["Ce à quoi il pense surtout", "Ce à quoi il pense"]
+    explain: "*Penser **à*** → **ce à quoi**."
+  - q: "Son silence m'a surpris. (son silence)"
+    key: "ce qui"
+    stem: "___, c'est son silence."
+    answers: ["Ce qui m'a surpris", "Ce qui m'a surprise"]
+    explain: "Подлежащее → **Ce qui** m'a surpris(e); время сохраняется."
+  - q: "J'aime me promener au bord de la mer. (me promener au bord de la mer)"
+    key: "ce que"
+    stem: "___, c'est me promener au bord de la mer."
+    answers: ["Ce que j'aime"]
+    explain: "*Aimer qch* → **Ce que** j'aime; после *c'est* — инфинитив (возможно *c'est de me promener*)."
+  - q: "Les transports publics manquent dans cette région. (les transports publics)"
+    key: "ce qui"
+    stem: "___, ce sont les transports publics."
+    answers: ["Ce qui manque dans cette région"]
+    explain: "Подлежащее → **Ce qui manque**; во множественном числе в письме — *ce sont*."
+  - q: "Je m'intéresse à l'histoire du cinéma. (à l'histoire du cinéma)"
+    key: "ce à quoi"
+    stem: "___, c'est à l'histoire du cinéma."
+    answers: ["Ce à quoi je m'intéresse"]
+    explain: "*S'intéresser **à*** → **ce à quoi** je m'intéresse."
+  - q: "On craint surtout une nouvelle crise. (une nouvelle crise)"
+    key: "ce que"
+    stem: "___, c'est une nouvelle crise."
+    answers: ["Ce qu'on craint surtout", "Ce que l'on craint surtout", "Ce qu'on craint", "Ce que l'on craint"]
+    explain: "Прямое дополнение → **Ce qu'on craint** (перед гласной *que* → *qu'*)."
+  - q: "Il se souvient de la maison de son enfance. (de la maison de son enfance)"
+    key: "ce dont"
+    stem: "___, c'est de la maison de son enfance."
+    answers: ["Ce dont il se souvient"]
+    explain: "*Se souvenir **de*** → **ce dont**."
+  - q: "Il reviendra, c'est sûr. (qu'il reviendra)"
+    key: "ce qui"
+    stem: "___, c'est qu'il reviendra."
+    answers: ["Ce qui est sûr", "Ce qui est certain"]
+    explain: "Выделяется придаточное: **Ce qui est sûr, c'est qu'**il reviendra."

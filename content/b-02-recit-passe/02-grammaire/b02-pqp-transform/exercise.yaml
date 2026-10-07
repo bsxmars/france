@@ -1,0 +1,68 @@
+title: "Перефразирование: время в рассказе"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "Одно событие раньше другого → plus-que-parfait."
+  - "«Началось N лет назад и длится» = présent + depuis; в прошлом рассказе — imparfait + depuis."
+items:
+  - q: "Le train est parti à 8 h. Je suis arrivé à la gare à 8 h 05."
+    key: "DÉJÀ"
+    stem: "Quand je suis arrivé à la gare, le train ___."
+    answers: ["était déjà parti"]
+    explain: "Поезд ушёл раньше → plus-que-parfait; *déjà* — между *était* и причастием."
+  - q: "Nous avons fini le projet. Ensuite, le client a appelé."
+    key: "QUAND"
+    stem: "Le client a appelé ___ le projet."
+    answers: ["quand nous avions fini", "quand nous avions déjà fini"]
+    explain: "Закончили **до** звонка → *quand nous **avions fini***."
+  - q: "Il a perdu ses clés, c'est pour ça qu'il est arrivé en retard."
+    key: "PARCE QU'"
+    stem: "Il est arrivé en retard ___ ses clés."
+    answers: ["parce qu'il avait perdu"]
+    explain: "Причина, которая была раньше опоздания → *parce qu'il **avait perdu*** ses clés."
+  - q: "Avant ce voyage, je n'étais jamais allé au Japon."
+    key: "PREMIÈRE"
+    stem: "C'était ___ que j'allais au Japon."
+    answers: ["la première fois"]
+    explain: "«Никогда раньше не был» = «это был первый раз»: *C'était **la première fois** que j'allais au Japon*. После *c'était la première fois que* — imparfait."
+  - q: "J'ai commencé à apprendre le français il y a trois ans."
+    key: "DEPUIS"
+    stem: "J'apprends le français ___."
+    answers: ["depuis trois ans"]
+    explain: "Началось три года назад и продолжается → présent + **depuis trois ans**."
+  - q: "Ils ont commencé à attendre à 14 h. Nous sommes arrivés à 15 h."
+    key: "DEPUIS"
+    stem: "Quand nous sommes arrivés, ils ___ une heure."
+    answers: ["attendaient depuis"]
+    explain: "«Ждали уже час» к моменту в прошлом → **imparfait + depuis**: *ils attendaient depuis une heure*."
+  - q: "J'ai vu Paul pour la dernière fois en 2019."
+    key: "DEPUIS"
+    stem: "Je ___ 2019."
+    answers: ["n'ai pas vu Paul depuis", "ne l'ai pas vu depuis", "n'ai plus vu Paul depuis", "ne l'ai plus vu depuis"]
+    explain: "«Последний раз в 2019» = «не видел с 2019»: в отрицании с *depuis* — passé composé: *je **n'ai pas vu** Paul **depuis** 2019*."
+  - q: "Elle a quitté l'entreprise il y a deux ans."
+    key: "FAIT"
+    stem: "___ qu'elle a quitté l'entreprise."
+    answers: ["Ça fait deux ans", "Cela fait deux ans"]
+    explain: "*il y a deux ans* = ***ça fait** deux ans que…* (*cela fait* — в письменной речи)."
+  - q: "Je suis rentré à 18 h, et à 18 h 05 tu as appelé."
+    key: "VENAIS"
+    stem: "Quand tu as appelé, je ___."
+    answers: ["venais de rentrer", "venais juste de rentrer"]
+    explain: "«Только что» относительно момента в прошлом → *venir de* в imparfait: *je **venais de** rentrer*."
+  - q: "Elle a terminé ses études, puis elle est partie au Canada."
+    key: "APRÈS"
+    stem: "___ ses études, elle est partie au Canada."
+    answers: ["Après avoir terminé", "Après avoir fini", "Après avoir achevé"]
+    explain: "Подлежащее общее (*elle*), одно действие раньше другого → **après + infinitif passé**: *après avoir terminé*. ~~Après terminer~~ — ошибка."
+  - q: "Nous sommes rentrés de vacances. Ensuite, nous avons repeint la cuisine."
+    key: "ÊTRE"
+    stem: "Après ___ de vacances, nous avons repeint la cuisine."
+    answers: ["être rentrés", "être rentrées", "être revenus", "être revenues"]
+    explain: "*rentrer* спрягается с *être* → infinitif passé **être rentrés**; причастие согласуется с подлежащим *nous*."
+  - q: "Ils se sont disputés. Après ça, ils ne se sont plus parlé pendant un mois."
+    key: "S'ÊTRE"
+    stem: "Après ___, ils ne se sont plus parlé pendant un mois."
+    answers: ["s'être disputés", "s'être disputées"]
+    explain: "Возвратный глагол: местоимение + *être* + причастие → **s'être disputés** (согласование с *ils*)."

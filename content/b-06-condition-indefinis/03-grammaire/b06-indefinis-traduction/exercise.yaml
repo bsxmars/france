@@ -1,0 +1,41 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Пунктуация не важна, акценты — важны."
+hints:
+  - "chaque + сущ. / chacun; aucun… ne без pas; la plupart des + глагол во мн. ч."
+  - "Количество в роли дополнения → en: j'en ai vu plusieurs."
+  - "quelque chose / rien / personne + de + прилагательное."
+items:
+  - q: "Каждый может высказать своё мнение."
+    answers: ["Chacun peut donner son avis.", "Chacun peut exprimer son avis.", "Chacun peut dire ce qu'il pense.", "Chacun peut exprimer son opinion.", "Chacun peut donner son opinion."]
+    explain: "«Каждый» без существительного → **chacun**, глагол в ед. ч."
+  - q: "Ни один депутат не голосовал против."
+    answers: ["Aucun député n'a voté contre.", "Aucun député n'a voté contre le projet."]
+    explain: "***Aucun** député **n'**a voté* — *ne* без *pas*."
+  - q: "Большинство граждан доверяют своему мэру."
+    answers: ["La plupart des citoyens font confiance à leur maire.", "La plupart des citoyens ont confiance en leur maire.", "La plupart des citoyens font confiance à leurs maires."]
+    explain: "***La plupart des** citoyens* → глагол во мн. ч.: *font confiance*."
+  - q: "Некоторые петиции собирают миллион подписей."
+    answers: ["Certaines pétitions recueillent un million de signatures.", "Certaines pétitions rassemblent un million de signatures.", "Certaines pétitions obtiennent un million de signatures.", "Certaines pétitions récoltent un million de signatures."]
+    explain: "***Certaines*** (ж. р.) без артикля; *un million **de** signatures*."
+  - q: "Петиции? Я подписал несколько."
+    answers: ["Des pétitions ? J'en ai signé plusieurs.", "Des pétitions ? J'en ai signé quelques-unes.", "Les pétitions ? J'en ai signé plusieurs.", "Les pétitions ? J'en ai signé quelques-unes."]
+    explain: "Количество в роли дополнения → ***en** ai signé plusieurs*; причастие не согласуется с *en*."
+  - q: "Кто угодно может стать волонтёром."
+    answers: ["N'importe qui peut devenir bénévole.", "N'importe qui peut devenir volontaire.", "Tout le monde peut devenir bénévole."]
+    explain: "«Кто угодно» → **n'importe qui**."
+  - q: "Мне нужно сказать тебе что-то важное."
+    answers: ["J'ai quelque chose d'important à te dire.", "Je dois te dire quelque chose d'important."]
+    explain: "*Quelque chose **d'**important* — предлог *de* и прилагательное в м. р."
+  - q: "Все жители получили одно и то же письмо."
+    answers: ["Tous les habitants ont reçu la même lettre.", "Tous les résidents ont reçu la même lettre."]
+    explain: "***Tous les** habitants*, ***la même** lettre*."
+  - q: "Каждая улица будет очищена."
+    answers: ["Chaque rue sera nettoyée.", "Toutes les rues seront nettoyées."]
+    explain: "***Chaque** rue* — ед. ч., пассив *sera nettoyée*."
+  - q: "Здесь никто ничего не знает."
+    answers: ["Ici, personne ne sait rien.", "Personne ne sait rien ici."]
+    explain: "*Personne ne… rien* — два отрицательных слова, без *pas*."
+  - q: "У нас есть другие идеи."
+    answers: ["Nous avons d'autres idées.", "On a d'autres idées."]
+    explain: "«Другие» неопределённое → **d'autres** (не ~~des autres~~)."

@@ -1,0 +1,136 @@
+- id: b03-comp-schemas
+  lesson: b-03-comparaison-relatifs/01-grammaire
+  q: "Четыре схемы сравнения: прилагательное, наречие, существительное, глагол."
+  a: "*plus / aussi / moins* + прил. / нареч. + *que*; *plus de / autant de / moins de* + сущ. + *que*; глагол + *plus / autant / moins* + *que*."
+- id: b03-aussi-autant
+  lesson: b-03-comparaison-relatifs/01-grammaire
+  q: "*Aussi* или *autant*?"
+  a: "**aussi** — перед прилагательным и наречием (*aussi cher, aussi vite*); **autant** — с глаголом (*il lit autant que moi*) и **autant de** — с существительным (*autant de livres*)."
+- id: b03-davantage
+  lesson: b-03-comparaison-relatifs/01-grammaire
+  q: "Что такое *davantage* и где его можно поставить?"
+  a: "Книжное «больше» вместо *plus* с глаголом и существительным: *investir davantage*, *davantage de temps*. С прилагательными не употребляется."
+- id: b03-plus-plus
+  lesson: b-03-comparaison-relatifs/01-grammaire
+  q: "«Чем больше читаешь, тем больше хочется читать»; «всё дороже»."
+  a: "***Plus** on lit, **plus** on a envie de lire.* — без артикля и без *que*. *de plus en plus cher*."
+- id: b03-superlatif-article
+  lesson: b-03-comparaison-relatifs/01-grammaire
+  q: "Superlatif с прилагательным после существительного и с глаголом: «самая читаемая книга», «она пишет лучше всех»."
+  a: "*le livre **le plus** lu* — артикль дважды, согласуется; *c'est elle qui écrit **le mieux*** — при наречии и глаголе всегда **le**."
+- id: b03-superlatif-de
+  lesson: b-03-comparaison-relatifs/01-grammaire
+  q: "«Самый старый фестиваль во Франции»."
+  a: "*le festival le plus ancien **de** France* — после superlatif «в / из» → **de**."
+- id: b03-meilleur-mieux
+  lesson: b-03-comparaison-relatifs/01-grammaire
+  q: "*Bon* и *bien*: comparatif и superlatif."
+  a: "*bon* → **meilleur**, **le meilleur** (прилагательное, «какой?»); *bien* → **mieux**, **le mieux** (наречие, «как?»). *Plus bon, plus bien* — ошибки."
+- id: b03-pire-moindre
+  lesson: b-03-comparaison-relatifs/01-grammaire
+  q: "*Pire* и *moindre*: значения."
+  a: "**pire** = хуже (особенно абстрактно: *la situation est pire*; *le pire*). **moindre** = меньший по значимости: *pas la moindre idée*, *le moindre détail*. О размере — *plus petit*."
+- id: b03-dont
+  lesson: b-03-comparaison-relatifs/02-grammaire
+  q: "Когда ставится *dont*? Три примера."
+  a: "Вместо дополнения с *de*: *le livre **dont** j'ai besoin* (avoir besoin de), *le projet dont elle est fière*, *l'auteur **dont le** roman…* («чей» — без притяжательного), *trois films, dont deux comédies*."
+- id: b03-dont-duquel
+  lesson: b-03-comparaison-relatifs/02-grammaire
+  q: "*Dont* или *duquel*: «парк, рядом с которым я живу»."
+  a: "*le parc **à côté duquel** j'habite* — после составного предлога (*à côté de, près de, à cause de, au milieu de*) только **duquel / de laquelle / desquels / desquelles**."
+- id: b03-auquel
+  lesson: b-03-comparaison-relatifs/02-grammaire
+  q: "Формы *lequel* с предлогом *à*."
+  a: "**auquel**, **à laquelle**, **auxquels**, **auxquelles**: *le concours auquel je participe*, *les questions auxquelles il répond*."
+- id: b03-ou-temps
+  lesson: b-03-comparaison-relatifs/02-grammaire
+  q: "«В тот день, когда мы познакомились»."
+  a: "*le jour **où** nous nous sommes rencontrés* — *où* выражает и место, и время."
+- id: b03-qui-prep
+  lesson: b-03-comparaison-relatifs/02-grammaire
+  q: "Предлог + человек: *qui* или *lequel*? Исключения?"
+  a: "Обычно **предлог + qui**: *la collègue avec qui je travaille*. *Lequel* возможно, но официальнее. После **parmi** и **entre** — только *lesquels / lesquelles*."
+- id: b03-ce-quoi
+  lesson: b-03-comparaison-relatifs/02-grammaire
+  q: "«То, что меня интересует / то, что ты говоришь / то, что мне нужно / то, чего я ожидал»."
+  a: "***ce qui** m'intéresse*, ***ce que** tu dis*, ***ce dont** j'ai besoin*, ***ce à quoi** je m'attendais* (после предлога с *ce, rien, quelque chose* → *quoi*)."
+- id: b03-relief-qui-que
+  lesson: b-03-comparaison-relatifs/03-grammaire
+  q: "Mise en relief: подлежащее и дополнение."
+  a: "Подлежащее: ***c'est / ce sont** … **qui***: *Ce sont les bénévoles qui ont…*; дополнение и обстоятельство: ***c'est** … **que***: *C'est ce château que…*, *C'est à Lyon que…*"
+- id: b03-relief-accord
+  lesson: b-03-comparaison-relatifs/03-grammaire
+  q: "«Это я выбрал», «это мы организовали»."
+  a: "*C'est **moi qui ai** choisi.* *C'est **nous qui avons** organisé.* — глагол согласуется с выделенным ударным местоимением."
+- id: b03-relief-ou
+  lesson: b-03-comparaison-relatifs/03-grammaire
+  q: "*C'est à Paris où…* — верно?"
+  a: "Нет. Обстоятельство с предлогом или наречием в рамке → **que**: *C'est à Paris **que** je l'ai rencontré*, *C'est demain qu'il arrive*."
+- id: b03-relief-de
+  lesson: b-03-comparaison-relatifs/03-grammaire
+  q: "Выдели *de ce livre* в *Je parle de ce livre* — два правильных варианта."
+  a: "*C'est **de ce livre que** je parle* (предлог сохранён → *que*) или *C'est **ce livre dont** je parle*. ~~C'est de ce livre dont~~ — двойное *de*."
+- id: b03-ce-qui-cest
+  lesson: b-03-comparaison-relatifs/03-grammaire
+  q: "Выделение в конце: «Что меня удивляет — так это цена»; «Чего ему не хватает — так это денег»."
+  a: "***Ce qui** m'étonne, **c'est** le prix.* ***Ce dont** il manque, **c'est d'**argent.* — предлог повторяется после *c'est*."
+- id: b03-si-cest
+  lesson: b-03-comparaison-relatifs/03-grammaire
+  q: "Как выделить причину или цель с *si*?"
+  a: "***Si** ce site attire tant de monde, **c'est parce qu'**il…* / ***c'est grâce à*** + сущ. / ***c'est pour*** + inf. После такого *si* — indicatif в любом времени."
+- id: b03-y
+  lesson: b-03-comparaison-relatifs/04-grammaire
+  q: "Что заменяет *y*? Пять глаголов."
+  a: "*à* + предмет, идея, место: *j'y pense, je m'y intéresse, j'y ai participé, je ne m'y attendais pas, il y tient*."
+- id: b03-en
+  lesson: b-03-comparaison-relatifs/04-grammaire
+  q: "Что заменяет *en*? Пять глаголов."
+  a: "*de* + предмет, идея, место, количество: *j'en parle, il en a besoin, je m'en souviens, elle en est fière, j'en reviens, j'en ai trois*."
+- id: b03-personnes
+  lesson: b-03-comparaison-relatifs/04-grammaire
+  q: "«Я о нём думаю», «я о нём говорю», «я ему говорю» (о человеке)."
+  a: "*Je pense **à lui**.* *Je parle **de lui**.* *Je **lui** parle.* — *penser à, s'intéresser à, tenir à* сохраняют предлог; *parler à, répondre à, plaire à* → *lui / leur*."
+- id: b03-y-en-place
+  lesson: b-03-comparaison-relatifs/04-grammaire
+  q: "Место *y / en*: passé composé, инфинитив, повелительное."
+  a: "*J'y ai pensé. Je n'en ai pas parlé.* *Je vais y réfléchir.* *Penses-y ! Parles-en !* (возвращается *-s*), но *N'y pense plus. N'en parle pas.* С *en* причастие не согласуется."
+- id: b03-dont-erreurs
+  lesson: b-03-comparaison-relatifs/02-grammaire
+  q: "Что не так: *le livre que j'ai besoin*, *l'auteur dont son roman*, *le film dont je t'ai parlé de lui*?"
+  a: "*le livre **dont** j'ai besoin* (avoir besoin **de**); *l'auteur dont **le** roman* (без притяжательного); *le film dont je t'ai parlé* — *dont* уже содержит *de* и само слово."
+- id: b03-relatif-algorithme
+  lesson: b-03-comparaison-relatifs/02-grammaire
+  q: "Как выбрать относительное местоимение? Алгоритм."
+  a: "Посмотри на управление глагола придаточного: подлежащее → *qui*; прямое доп. → *que*; *de* → *dont*; место / время → *où*; другой предлог → предлог + *lequel* (люди — предлог + *qui*). Русский падеж не помогает."
+- id: b03-lequel-formes
+  lesson: b-03-comparaison-relatifs/02-grammaire
+  q: "Формы *lequel* с предлогом *de* (в составных предлогах)."
+  a: "**duquel**, **de laquelle**, **desquels**, **desquelles**: *près duquel, au bord de laquelle, au milieu desquels*."
+- id: b03-relief-ce-sont
+  lesson: b-03-comparaison-relatifs/03-grammaire
+  q: "*C'est* или *ce sont* в рамке выделения?"
+  a: "Перед существительным во мн. ч. в письменной речи — **ce sont** (*Ce sont les habitants qui…*); перед предлогом и *nous, vous* — **c'est** (*C'est pour eux que…*, *C'est nous qui…*)."
+- id: b03-relief-dont
+  lesson: b-03-comparaison-relatifs/03-grammaire
+  q: "«Именно этим проектом мы гордимся»."
+  a: "*C'est ce projet **dont** nous sommes fiers.* или *C'est **de** ce projet **que** nous sommes fiers.*"
+- id: b03-relief-inf
+  lesson: b-03-comparaison-relatifs/03-grammaire
+  q: "Что может стоять после *c'est* в конструкции *ce que… c'est*?"
+  a: "Существительное (*c'est la lumière*), инфинитив (*Ce que je veux, c'est comprendre*), придаточное (*Ce qui compte, c'est que tout le monde participe*)."
+- id: b03-y-phrase
+  lesson: b-03-comparaison-relatifs/04-grammaire
+  q: "Может ли *y / en* заменять целый оборот или предложение?"
+  a: "Да: *Tu as pensé à réserver ? — Oui, j'**y** ai pensé.* *Il va partir ? — Je m'**en** doutais.* (se douter de cela)."
+- id: b03-en-accord
+  lesson: b-03-comparaison-relatifs/04-grammaire
+  q: "*Des séries ? J'en ai regardées beaucoup.* — верно?"
+  a: "Нет: с **en** причастие не согласуется — *j'en ai **regardé** beaucoup*."
+- id: b03-double-pronom
+  lesson: b-03-comparaison-relatifs/04-grammaire
+  q: "«Я вам об этом расскажу», «Он меня туда отвёз», «Их там много»."
+  a: "*Je **vous en** parlerai. Il **m'y** a emmené. Il **y en** a beaucoup.* — *y* и *en* всегда последние, *y* перед *en*."
+- id: b03-en-personnes
+  lesson: b-03-comparaison-relatifs/04-grammaire
+  q: "«Она ему не доверяет» (*se méfier de*): о журналисте и о соцсетях."
+  a: "О человеке — *Elle se méfie **de lui***. О предмете — *Elle s'**en** méfie*."

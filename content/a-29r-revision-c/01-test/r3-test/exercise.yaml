@@ -1,0 +1,163 @@
+title: "Révision C: уроки 23–29"
+type: choice
+intro: |
+  30 вопросов по урокам 23–29. Выбери один вариант. **Не знаешь — пропусти**, не угадывай: так результат по урокам будет честным.
+pass: 1
+items:
+  # Урок 23
+  - q: "Demain, nous ___ à la campagne. (aller)"
+    options: ["allerons", "irons", "irions"]
+    answer: 1
+    topic: "a-23-futur"
+    explain: "У *aller* в futur simple особая основа *ir-*: *nous **irons***. *Irions* — другая форма («мы пошли бы»)."
+  - q: "Si tu ___ demain, nous irons au musée."
+    options: ["viens", "viendras", "viendrais"]
+    answer: 0
+    topic: "a-23-futur"
+    explain: "После *si* «если» будущее не ставится: в придаточном **présent**, в главном — futur: *Si tu **viens**, nous irons…*"
+  - q: "Tu ne viens pas avec nous ? — ___, je viens !"
+    options: ["Oui", "Si", "Non"]
+    answer: 1
+    topic: "a-23-futur"
+    explain: "Утвердительный ответ на отрицательный вопрос — ***si***: он спорит с отрицанием. *Non* согласился бы («нет, не иду»)."
+  - q: "Как сказать «Все пришли»?"
+    options: ["Tout est venu.", "Tout le monde sont venus.", "Tout le monde est venu."]
+    answer: 2
+    topic: "a-23-futur"
+    explain: "*Tout* — «всё» о вещах. «Все» о людях — ***tout le monde***, и глагол при нём в единственном числе: *Tout le monde **est venu**.*"
+  - q: "Dis à Paul ___ venir à huit heures."
+    options: ["de", "que", "à"]
+    answer: 0
+    topic: "a-23-futur"
+    explain: "«Скажи, чтобы он пришёл» — *dire à qn **de** + инфинитив*: *Dis à Paul **de** venir.* С *que* получилось бы «скажи, что он придёт»."
+  # Урок 24
+  - q: "Paul et ___, nous partons demain."
+    options: ["je", "moi", "me"]
+    answer: 1
+    topic: "a-24-toniques-comparaison"
+    explain: "В перечислении, без глагола рядом, нужно ударное местоимение: *Paul et **moi***. *Je* стоит только непосредственно перед глаголом."
+  - q: "Ce gâteau est ___ que l'autre."
+    options: ["meilleur", "plus bon", "mieux"]
+    answer: 0
+    topic: "a-24-toniques-comparaison"
+    explain: "Сравнительная степень *bon* — особая: ***meilleur***. *Plus bon* не говорят, *mieux* — наречие («лучше» о действии)."
+  - q: "Dans ce jardin, il y a ___ belles fleurs."
+    options: ["des", "du", "de"]
+    answer: 2
+    topic: "a-24-toniques-comparaison"
+    explain: "Перед прилагательным во множественном числе *des* заменяется на **de**: ***de** belles fleurs* (но *des fleurs rouges*)."
+  - q: "Marie est ___ grande de la classe."
+    options: ["plus", "la plus", "le plus"]
+    answer: 1
+    topic: "a-24-toniques-comparaison"
+    explain: "Превосходная степень прилагательного — с определённым артиклем, согласованным с существительным: Marie — ж. р. → ***la plus** grande*."
+  # Урок 25
+  - q: "Le roi ___ dans la salle et regarda ses amis. (entrer, passé simple)"
+    options: ["entrit", "entra", "entrat"]
+    answer: 1
+    topic: "a-25-passe-simple-adverbes"
+    explain: "Глаголы I группы в passé simple — на *a*: *il **entra***, *il regarda*. В 3-м лице единственного числа на конце нет *-t*."
+  - q: "Il ___ la lettre et partit. (lire, passé simple)"
+    options: ["lisa", "lit", "lut"]
+    answer: 2
+    topic: "a-25-passe-simple-adverbes"
+    explain: "*Lire* в passé simple — на *u*: *il **lut***. *Il lit* — настоящее время, *lisa* такой формы нет."
+  - q: "Elle parle français ___ que moi."
+    options: ["meilleur", "mieux", "plus bien"]
+    answer: 1
+    topic: "a-25-passe-simple-adverbes"
+    explain: "«Говорит лучше» — **как** говорит, нужно наречие. Сравнительная степень *bien* — особая: ***mieux***. *Meilleur* — прилагательное."
+  - q: "C'est Anne qui court ___ vite de la classe."
+    options: ["le plus", "la plus", "plus"]
+    answer: 0
+    topic: "a-25-passe-simple-adverbes"
+    explain: "Превосходная степень **наречия** всегда с *le*, даже если речь о женщине: *elle court **le plus** vite*. *La plus* бывает только у прилагательных."
+  # Урок 26
+  - q: "Le livre ___ tu lis est intéressant."
+    options: ["qui", "que", "qu'"]
+    answer: 1
+    topic: "a-26-relatifs-negation"
+    explain: "Книгу читаешь ты — она дополнение, после пропуска идёт подлежащее *tu* → **que**. Перед согласной элизии нет, *qu'* неверно."
+  - q: "Je connais un homme ___ parle cinq langues."
+    options: ["qui", "que", "qu'"]
+    answer: 0
+    topic: "a-26-relatifs-negation"
+    explain: "Человек сам говорит — он подлежащее придаточного, сразу за пропуском глагол → **qui**."
+  - q: "Je ___ rien vu."
+    options: ["n'ai pas", "ai", "n'ai"]
+    answer: 2
+    topic: "a-26-relatifs-negation"
+    explain: "*Rien* заменяет *pas*: ***ne… rien***, и *ne* обязательно. В passé composé *rien* стоит перед причастием: *Je **n'ai rien** vu.*"
+  - q: "Как сказать «Я никого не видел»?"
+    options: ["Je n'ai personne vu.", "Je n'ai vu personne.", "Je n'ai pas vu personne."]
+    answer: 1
+    topic: "a-26-relatifs-negation"
+    explain: "В сложном времени *personne*, в отличие от *rien* и *jamais*, стоит **после** причастия: *Je n'ai vu **personne**.* *Pas* с *personne* не сочетается."
+  - q: "Il m'a promis ___ venir."
+    options: ["de", "que", "à"]
+    answer: 0
+    topic: "a-26-relatifs-negation"
+    explain: "*Promettre à qn **de** faire qch*: «обещать сделать» — с *de* + инфинитив."
+  # Урок 27
+  - q: "Quand nous sommes arrivés, le film ___ ; nous avons manqué le début."
+    options: ["a commencé", "avait commencé", "commence"]
+    answer: 1
+    topic: "a-27-plus-que-parfait-feminin"
+    explain: "Фильм начался **раньше**, чем мы пришли (*sommes arrivés*) → предшествование в прошлом, plus-que-parfait: *il **avait commencé***."
+  - q: "C'est une ___ idée."
+    options: ["bonne", "bone", "bon"]
+    answer: 0
+    topic: "a-27-plus-que-parfait-feminin"
+    explain: "*Bon* в женском роде удваивает согласную: ***bonne***. *Idée* — женский род, поэтому *bon* не подходит."
+  - q: "Pierre est acteur, et sa femme est ___ aussi."
+    options: ["acteuse", "actrice", "acteure"]
+    answer: 1
+    topic: "a-27-plus-que-parfait-feminin"
+    explain: "Существительные на *-teur* обычно образуют женский род на **-trice**: *acteur — actrice*."
+  - q: "Ils ___ une maison au bord de la mer. (construire, présent)"
+    options: ["construient", "constructent", "construisent"]
+    answer: 2
+    topic: "a-27-plus-que-parfait-feminin"
+    explain: "У глаголов на *-uire* во множественном числе появляется *-s-*: *nous construisons, ils **construisent***."
+  # Урок 28
+  - q: "Il a dit qu'il ___ fatigué."
+    options: ["est", "était", "sera"]
+    answer: 1
+    topic: "a-28-concordance-adverbes"
+    explain: "Главный глагол в прошедшем (*a dit*) → одновременное действие в придаточном передаётся **imparfait**: *qu'il **était** fatigué*."
+  - q: "Elle m'a promis qu'elle ___ le lendemain."
+    options: ["viendrait", "viendra", "viendrai"]
+    answer: 0
+    topic: "a-28-concordance-adverbes"
+    explain: "Будущее относительно прошлого (*a promis*, *le lendemain*) → futur dans le passé: *elle **viendrait***. *Viendra* — futur simple, *viendrai* — форма *je*."
+  - q: "Il répond toujours ___ . (poli)"
+    options: ["poliement", "polement", "poliment"]
+    answer: 2
+    topic: "a-28-concordance-adverbes"
+    explain: "Если прилагательное кончается на гласную (*poli*), *-ment* добавляется к форме мужского рода, без *e*: ***poliment***."
+  - q: "De la fenêtre, ils ___ un bateau sur la mer. (apercevoir)"
+    options: ["aperçoivent", "apercevent", "aperçevent"]
+    answer: 0
+    topic: "a-28-concordance-adverbes"
+    explain: "*Apercevoir* в 3-м лице мн. ч.: ***ils aperçoivent***. *Ç* пишется перед *o*, чтобы сохранить звук [s]; перед *e* седиль не нужна."
+  # Урок 29
+  - q: "J'aime ___ chocolat."
+    options: ["du", "le", "de"]
+    answer: 1
+    topic: "a-29-partitif-passif"
+    explain: "После *aimer, adorer, détester* речь о предмете вообще → определённый артикль: *J'aime **le** chocolat.* Частичный — *Je mange **du** chocolat*."
+  - q: "Cette maison ___ par mon grand-père."
+    options: ["a été construite", "a construit", "est construit"]
+    answer: 0
+    topic: "a-29-partitif-passif"
+    explain: "Страдательный залог: *être* (здесь в passé composé — *a été*) + причастие, согласованное с подлежащим: *la maison* — ж. р. → *a été construit**e***."
+  - q: "J'ai mal aux ___ . (œil)"
+    options: ["œils", "yeux", "œilles"]
+    answer: 1
+    topic: "a-29-partitif-passif"
+    explain: "*Œil* образует множественное число особо: *un œil — des **yeux***."
+  - q: "Nous ___ partir à huit heures. (devoir)"
+    options: ["devont", "doivons", "devons"]
+    answer: 2
+    topic: "a-29-partitif-passif"
+    explain: "У *devoir* основа *doi-* только в ед. ч. и в *ils doivent*; с *nous* — ***devons***."

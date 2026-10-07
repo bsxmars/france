@@ -1,0 +1,69 @@
+title: "Перескажи условие другим союзом"
+type: transform
+intro: |
+  Перефразируй условие с **ключевым словом**, сохранив смысл. Впиши недостающую часть. Следи за наклонением: subjonctif, conditionnel, infinitif или существительное.
+hints:
+  - "à condition que / pourvu que / à moins que + subjonctif; à moins que часто с «пустым» ne."
+  - "Одно подлежащее → à condition de / à moins de + infinitif."
+  - "au cas où + conditionnel; en cas de + существительное без артикля."
+items:
+  - q: "Nous participerons au festival si notre dossier est accepté."
+    key: "À CONDITION QUE"
+    stem: "Nous participerons au festival ___ accepté."
+    answers: ["à condition que notre dossier soit"]
+    explain: "*À condition que* + subjonctif: *que notre dossier **soit** accepté*."
+  - q: "Vous deviendrez membres de la coopérative si vous achetez une part sociale."
+    key: "DE"
+    stem: "Vous deviendrez membres de la coopérative ___ une part sociale."
+    answers: ["à condition d'acheter"]
+    explain: "Подлежащее одно (*vous*) → ***à condition d'**acheter*."
+  - q: "L'association sera reconnue d'utilité publique seulement si l'État la soutient. Il ne faut rien d'autre."
+    key: "POURVU"
+    stem: "L'association sera reconnue d'utilité publique ___ soutienne."
+    answers: ["pourvu que l'État la"]
+    explain: "Достаточное условие → *pourvu que* + subjonctif: *pourvu que l'État la **soutienne***."
+  - q: "Le marché aura lieu dehors, sauf s'il fait trop froid."
+    key: "À MOINS"
+    stem: "Le marché aura lieu dehors, ___ trop froid."
+    answers: ["à moins qu'il ne fasse", "à moins qu'il fasse"]
+    explain: "*Sauf si* + indicatif = *à moins que* + subjonctif: *à moins qu'il (**ne**) **fasse** trop froid*."
+  - q: "Je viendrai à l'assemblée générale, sauf si je suis malade."
+    key: "DE"
+    stem: "Je viendrai à l'assemblée générale, ___ malade."
+    answers: ["à moins d'être"]
+    explain: "Подлежащее одно (*je*) → ***à moins d'**être* malade."
+  - q: "S'il y a un incendie, sortez par l'escalier de secours."
+    key: "CAS"
+    stem: "___, sortez par l'escalier de secours."
+    answers: ["En cas d'incendie"]
+    explain: "*En cas de* + существительное без артикля; перед гласной — ***d'**incendie*."
+  - q: "Prends ton téléphone : il est possible que tu te perdes."
+    key: "AU CAS OÙ"
+    stem: "Prends ton téléphone ___."
+    answers: ["au cas où tu te perdrais"]
+    explain: "*Au cas où* + conditionnel: *au cas où tu te **perdrais***."
+  - q: "Si tu n'as pas mon aide, tu ne finiras pas à temps."
+    key: "SANS"
+    stem: "___, tu ne finiras pas à temps."
+    answers: ["Sans mon aide"]
+    explain: "Отрицательное условие → *sans* + существительное: ***Sans** mon aide*."
+  - q: "Si vous partagez les frais, le projet coûtera moins cher à chacun."
+    key: "EN"
+    stem: "___, vous paierez moins cher chacun."
+    answers: ["En partageant les frais"]
+    explain: "Условие через gérondif: ***En partageant** les frais* = *si vous partagez…*"
+  - q: "Inscrivez-vous avant vendredi. Si vous ne le faites pas, vous perdrez votre place."
+    key: "SINON"
+    stem: "Inscrivez-vous avant vendredi, ___."
+    answers: ["sinon vous perdrez votre place"]
+    explain: "*Sinon* = «а если нет, то»: ***sinon** vous perdrez votre place*."
+  - q: "Les voisins accepteront le projet s'ils sont consultés et s'ils ont le droit de vote."
+    key: "ET QU'"
+    stem: "Les voisins accepteront le projet s'ils sont consultés ___ le droit de vote."
+    answers: ["et qu'ils aient", "et qu'ils ont"]
+    explain: "Второе условие вводится *et que*: в книжном стиле + subjonctif (*qu'ils **aient***), в разговорном — indicatif (*qu'ils ont*)."
+  - q: "Si on suppose que la banque refuse le prêt, que ferons-nous ?"
+    key: "À SUPPOSER"
+    stem: "___ le prêt, que ferons-nous ?"
+    answers: ["À supposer que la banque refuse"]
+    explain: "*À supposer que* + subjonctif: *que la banque **refuse*** (форма совпадает с indicatif)."

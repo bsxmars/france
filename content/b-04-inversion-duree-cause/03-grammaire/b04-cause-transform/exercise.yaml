@@ -1,0 +1,62 @@
+title: "Перефразируй причину"
+type: transform
+intro: "Перефразируй предложение с ключевым выражением причины. Впиши недостающую часть."
+hints:
+  - "Comme — в начале фразы; grâce à / à cause de / en raison de + существительное (au, aux, du, des)."
+  - "À force de + инфинитив: повторяющееся действие."
+items:
+  - q: "Le serveur était en panne, donc nous n'avons pas pu travailler."
+    key: "comme"
+    stem: "___ , nous n'avons pas pu travailler."
+    answers: ["Comme le serveur était en panne"]
+    explain: "Причина-фон в начале → **Comme** + indicatif."
+  - q: "J'ai pu suivre les cours à distance parce qu'il y avait une bonne connexion."
+    key: "grâce à"
+    stem: "J'ai pu suivre les cours à distance ___ ."
+    answers: ["grâce à une bonne connexion", "grâce à la bonne connexion"]
+    explain: "Положительная причина, существительное → **grâce à** une bonne connexion."
+  - q: "Les trains sont en retard parce qu'il y a des travaux."
+    key: "en raison"
+    stem: "Les trains sont en retard ___ ."
+    answers: ["en raison des travaux", "en raison de travaux"]
+    explain: "Нейтральное официальное объяснение → **en raison des** travaux (de + les)."
+  - q: "Il passe des heures sur les jeux vidéo, et il a fini par avoir mal aux yeux."
+    key: "force"
+    stem: "___ , il a fini par avoir mal aux yeux."
+    answers: ["À force de passer des heures sur les jeux vidéo", "À force de jouer aux jeux vidéo"]
+    explain: "Повторяющееся действие → **À force de** + инфинитив."
+  - q: "Tu sais réparer les ordinateurs : tu peux m'aider. (это известно обоим)"
+    key: "puisque"
+    stem: "___ , tu peux m'aider."
+    answers: ["Puisque tu sais réparer les ordinateurs"]
+    explain: "Причина, известная собеседнику, как аргумент → **Puisque**."
+  - q: "J'ai perdu tous mes fichiers parce que mon disque dur a eu une panne."
+    key: "à cause"
+    stem: "J'ai perdu tous mes fichiers ___ ."
+    answers: ["à cause d'une panne de mon disque dur", "à cause d'une panne du disque dur", "à cause de la panne de mon disque dur", "à cause de la panne du disque dur"]
+    explain: "Отрицательная причина + существительное → **à cause d'**une panne."
+  - q: "Je n'avais pas le temps, alors je n'ai pas lu les conditions d'utilisation."
+    key: "faute"
+    stem: "___ , je n'ai pas lu les conditions d'utilisation."
+    answers: ["Faute de temps"]
+    explain: "Нехватка → **Faute de** + существительное без артикля."
+  - q: "Elle a ouvert ce message parce qu'elle était curieuse."
+    key: "par"
+    stem: "Elle a ouvert ce message ___ ."
+    answers: ["par curiosité"]
+    explain: "Мотив, чувство → **par** + существительное без артикля."
+  - q: "Il a été licencié parce qu'il avait diffusé des informations confidentielles."
+    key: "pour"
+    stem: "Il a été licencié ___ ."
+    answers: ["pour avoir diffusé des informations confidentielles"]
+    explain: "Причина наказания → **pour** + infinitif passé (*avoir diffusé*)."
+  - q: "Il ne vient pas à la fête. Il dit qu'il est malade, mais je n'y crois pas."
+    key: "prétexte"
+    stem: "Il ne vient pas à la fête ___ ."
+    answers: ["sous prétexte qu'il est malade"]
+    explain: "Сомнительная причина → **sous prétexte que** + indicatif."
+  - q: "La réunion est reportée parce qu'une grève est prévue."
+    key: "car"
+    stem: "La réunion est reportée, ___ ."
+    answers: ["car une grève est prévue"]
+    explain: "Объяснение после главного в письменном стиле → **car** + предложение."

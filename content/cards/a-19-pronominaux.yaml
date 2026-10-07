@@ -1,0 +1,36 @@
+- id: a19-se-lever
+  lesson: a-19-pronominaux/01-grammaire
+  q: "Проспрягай *se lever* в настоящем времени."
+  a: "*je me lève, tu te lèves, il se lève, nous nous levons, vous vous levez, ils se lèvent*."
+- id: a19-negation
+  lesson: a-19-pronominaux/01-grammaire
+  q: "«Я не тороплюсь» — куда встают *ne* и *pas*?"
+  a: "*Je **ne me** dépêche **pas**.* — местоимение не отрывается от глагола: *ne* перед ним, *pas* после глагола."
+- id: a19-imperatif
+  lesson: a-19-pronominaux/01-grammaire
+  q: "«Вставай!» и «Не вставай!»"
+  a: "*Lève-**toi** !* — местоимение после глагола, *te* → *toi*. *Ne **te** lève pas !* — в отрицании местоимение перед глаголом."
+- id: a19-infinitif
+  lesson: a-19-pronominaux/01-grammaire
+  q: "«Мне надо вставать рано», «Мы пойдём гулять»."
+  a: "*Je dois **me** lever tôt. Nous allons **nous** promener.* — местоимение инфинитива согласуется с подлежащим."
+- id: a19-sans-se
+  lesson: a-19-pronominaux/01-grammaire
+  q: "«Фильм начинается», «Я остаюсь дома», «Он возвращается поздно»."
+  a: "*Le film **commence**. Je **reste** à la maison. Il **rentre** tard.* — по-французски без *se*."
+- id: a19-cer-ger
+  lesson: a-19-pronominaux/01-grammaire
+  q: "*nous* от *commencer* и *manger*?"
+  a: "*nous commen**ç**ons, nous mang**e**ons* — чтобы сохранить звуки [s] и [ʒ] перед *o*."
+- id: a19-acheter
+  lesson: a-19-pronominaux/01-grammaire
+  q: "Проспрягай *acheter* (или *répéter*) в настоящем времени."
+  a: "*j'ach**è**te, tu ach**è**tes, il ach**è**te, nous achetons, vous achetez, ils ach**è**tent*. Так же *je rép**è**te — nous répétons*."
+- id: a19-appeler
+  lesson: a-19-pronominaux/01-grammaire
+  q: "*s'appeler*: je, nous, ils?"
+  a: "*je m'appe**ll**e, nous nous appe**l**ons, ils s'appe**ll**ent* — двойное *l* перед немым окончанием."
+- id: a19-prendre
+  lesson: a-19-pronominaux/01-grammaire
+  q: "Проспрягай *prendre* в настоящем времени."
+  a: "*je prends, tu prends, il prend, nous pre**n**ons, vous pre**n**ez, ils pre**nn**ent*. Так же *comprendre, apprendre*."

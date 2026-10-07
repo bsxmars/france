@@ -1,0 +1,37 @@
+title: "Найди ошибку в согласовании"
+type: error
+intro: "В каждом предложении **одна** ошибка в причастии (passé composé с avoir). Исправь её и отправь предложение целиком."
+hints:
+  - "Согласуем с прямым дополнением, если оно стоит перед глаголом: la, les, me, te, nous, vous, que, quel, combien de."
+  - "С косвенным дополнением (lui, leur) и с дополнением после глагола — без согласования."
+items:
+  - q: "Ta lettre ? Je l'ai lu hier soir."
+    answers: ["Ta lettre ? Je l'ai lue hier soir."]
+    explain: "*L'* = *ta lettre* (ж. р.) стоит перед глаголом → **lue**."
+  - q: "Voici les photos que j'ai pris en Bretagne."
+    answers: ["Voici les photos que j'ai prises en Bretagne."]
+    explain: "*Que* = *les photos* (ж. р., мн. ч.) впереди → **prises**."
+  - q: "Quelles villes avez-vous visité ?"
+    answers: ["Quelles villes avez-vous visitées ?"]
+    explain: "Дополнение с *quelles* стоит в начале вопроса → **visitées**."
+  - q: "Combien de pages as-tu écrit ?"
+    answers: ["Combien de pages as-tu écrites ?"]
+    explain: "*Combien de pages* — прямое дополнение впереди → **écrites**."
+  - q: "Nous avons achetés des fleurs pour maman."
+    answers: ["Nous avons acheté des fleurs pour maman."]
+    explain: "Дополнение *des fleurs* стоит **после** глагола, а с подлежащим причастие с *avoir* не согласуется → **acheté**."
+  - q: "Mes clés ? Je les ai mis dans ton sac."
+    answers: ["Mes clés ? Je les ai mises dans ton sac."]
+    explain: "*Les* = *mes clés* (ж. р., мн. ч.) → **mises**, звучит [miz]."
+  - q: "Marie, je t'ai vu hier au marché."
+    answers: ["Marie, je t'ai vue hier au marché."]
+    explain: "*T'* — это Мари, прямое дополнение женского рода впереди → **vue**."
+  - q: "Mes parents ? Je leur ai téléphonés hier."
+    answers: ["Mes parents ? Je leur ai téléphoné hier."]
+    explain: "*Leur* — косвенное дополнение (*téléphoner à qn*) → согласования нет: **téléphoné**."
+  - q: "La robe qu'elle a mis est très belle."
+    answers: ["La robe qu'elle a mise est très belle."]
+    explain: "*Qu'* = *la robe* стоит впереди → **mise**."
+  - q: "Les enfants ? Je les ai attendu une heure."
+    answers: ["Les enfants ? Je les ai attendus une heure."]
+    explain: "*Les* = *les enfants* (м. р., мн. ч.) → **attendus**."

@@ -1,0 +1,37 @@
+title: "Собери вопрос с инверсией"
+type: order
+intro: "Собери вопрос по русскому смыслу. Слова с дефисом (a-t-il, sont-elles) — один блок. Знак вопроса ставить не нужно."
+hints:
+  - "Существительное-подлежащее — в начале, местоимение — после глагола."
+  - "Ne … pas обрамляют блок «глагол-местоимение»."
+items:
+  - q: "«Ваши данные действительно защищены?»"
+    answers: ["Vos données sont-elles vraiment protégées ?"]
+    explain: "Сложная инверсия: *Vos données* + **sont-elles** + причастие."
+  - q: "«Почему пользователи не удалили свои аккаунты?»"
+    answers: ["Pourquoi les utilisateurs n'ont-ils pas supprimé leurs comptes ?"]
+    explain: "*Pourquoi* + существительное + *n'ont-ils pas* + причастие."
+  - q: "«Не опасно ли публиковать всё в интернете?»"
+    answers: ["N'est-il pas dangereux de tout publier sur Internet ?"]
+    explain: "Безличное *il est dangereux de* в отрицательной инверсии: **N'est-il pas** dangereux…"
+  - q: "«Где ваш сын хранит свои фотографии?»"
+    answers: ["Où votre fils garde-t-il ses photos ?"]
+    explain: "Есть прямое дополнение (*ses photos*) → сложная инверсия: *votre fils **garde-t-il***."
+  - q: "«Можно ли действительно уйти из соцсетей?» (on)"
+    answers: ["Peut-on vraiment quitter les réseaux sociaux ?"]
+    explain: "*Peut* оканчивается на *-t* → без вставки: **Peut-on**."
+  - q: "«Ваша дочь уже говорила вам об этом?»"
+    answers: ["Votre fille vous en a-t-elle déjà parlé ?"]
+    explain: "Местоимения *vous en* — перед вспомогательным: *vous en **a-t-elle*** déjà parlé."
+  - q: "«Что думают эксперты?»"
+    answers: ["Que pensent les experts ?"]
+    explain: "После *que* — простая инверсия с существительным: **Que pensent les experts**."
+  - q: "«Будет ли этот закон применяться во всей Европе?»"
+    answers: ["Cette loi sera-t-elle appliquée dans toute l'Europe ?"]
+    explain: "*Sera* + *elle* → **sera-t-elle**."
+  - q: "«Разве вы не получили код подтверждения?»"
+    answers: ["N'avez-vous pas reçu le code de confirmation ?"]
+    explain: "Отрицание в сложном времени: **N'avez-vous pas** reçu."
+  - q: "«Как работает этот алгоритм?»"
+    answers: ["Comment fonctionne cet algorithme ?"]
+    explain: "После *comment* при глаголе без дополнения — простая инверсия с существительным."

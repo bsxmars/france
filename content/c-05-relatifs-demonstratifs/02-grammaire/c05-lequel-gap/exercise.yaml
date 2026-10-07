@@ -1,0 +1,43 @@
+title: "Предлог + lequel, qui, duquel"
+type: gap
+intro: "Впиши относительное местоимение вместе с предлогом, если он нужен (*auquel, sur lequel, près duquel, à qui…*)."
+hints:
+  - "Лица: prep + qui (или lequel); предметы: prep + lequel; parmi / entre: только lesquels."
+  - "Составной предлог с de (près de, à cause de…) → duquel / de laquelle / desquels; dont после предлога невозможно."
+items:
+  - q: "La raison ___ il a refusé le poste reste un mystère."
+    answers: ["pour laquelle"]
+    explain: "*Refuser **pour** une raison*, предмет ж. р. → **pour laquelle**."
+  - q: "Ce sont des questions ___ je n'ai jamais réfléchi."
+    answers: ["auxquelles"]
+    explain: "*Réfléchir **à** des questions* → *à + lesquelles* = **auxquelles**."
+  - q: "La collègue ___ j'ai confié le dossier est en congé."
+    answers: ["à qui", "à laquelle"]
+    explain: "*Confier qch **à** qn*, лицо → **à qui** (нейтрально) или **à laquelle** (официальнее)."
+  - q: "Les spécialistes ___ figure le docteur Martin ont signé la pétition."
+    answers: ["parmi lesquels"]
+    explain: "«Среди которых» → **parmi lesquels**; *parmi qui* невозможно."
+  - q: "C'est un grand immeuble en face ___ il y a une boulangerie."
+    answers: ["duquel"]
+    explain: "Составной предлог *en face **de*** + предмет м. р. → **duquel**."
+  - q: "Voici les amis ___ nous avons passé nos vacances."
+    answers: ["chez qui", "avec qui", "chez lesquels", "avec lesquels"]
+    explain: "Лица после предлога → **chez qui / avec qui** (возможно *lesquels*)."
+  - q: "La maladie ___ il a dû interrompre ses études était rare."
+    answers: ["à cause de laquelle"]
+    explain: "*À cause **de*** — составной предлог; *maladie* ж. р. → **à cause de laquelle**."
+  - q: "J'ai retrouvé la boîte ___ je rangeais mes lettres."
+    answers: ["dans laquelle", "où"]
+    explain: "Место: **dans laquelle** или **où**."
+  - q: "Les deux options ___ nous hésitons ont chacune des avantages."
+    answers: ["entre lesquelles"]
+    explain: "*Hésiter **entre*** → только **entre lesquelles** (ж. р. мн. ч.)."
+  - q: "C'est un écrivain à l'œuvre ___ j'ai consacré ma thèse."
+    answers: ["de qui", "duquel"]
+    explain: "*Consacrer sa thèse **à** l'œuvre **de** l'écrivain*: существительное *l'œuvre* стоит после предлога *à* → *dont* невозможно, нужно **de qui** / **duquel**."
+  - q: "Le chêne au pied ___ ils se sont assis a trois cents ans."
+    answers: ["duquel"]
+    explain: "*Au pied **de** l'arbre* — существительное в предложной группе → **duquel**."
+  - q: "C'est une décision ___ je ne peux pas m'opposer."
+    answers: ["à laquelle"]
+    explain: "*S'opposer **à** une décision*, ж. р. → **à laquelle**."

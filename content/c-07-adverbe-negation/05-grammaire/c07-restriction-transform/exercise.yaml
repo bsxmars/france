@@ -1,0 +1,68 @@
+title: "Seulement → ne… que, il n'y a que, ne faire que"
+type: transform
+intro: "Перефразируй предложение с помощью конструкции из ключа. Впиши недостающую часть."
+hints:
+  - "ne… que: que — перед ограничиваемым словом; артикль не меняется."
+  - "Подлежащее: il n'y a que… qui."
+  - "Ограничение действия: ne faire que + infinitif."
+items:
+  - q: "Nous partirons seulement demain matin."
+    key: "ne… que"
+    stem: "Nous ___ demain matin."
+    answers: ["ne partirons que"]
+    explain: "*Que* — перед ограничиваемым обстоятельством: *ne partirons **que** demain matin*."
+  - q: "J'ai lu seulement trois chapitres."
+    key: "ne… que"
+    stem: "Je ___ trois chapitres."
+    answers: ["n'ai lu que"]
+    explain: "В сложном времени *que* — после причастия, перед дополнением: *n'ai lu que trois chapitres*."
+  - q: "Seule ma sœur a compris la plaisanterie."
+    key: "il n'y a que… qui"
+    stem: "___ a compris la plaisanterie."
+    answers: ["Il n'y a que ma sœur qui"]
+    explain: "Подлежащее ограничивается оборотом **il n'y a que… qui**."
+  - q: "Il se plaint tout le temps."
+    key: "ne faire que"
+    stem: "Il ___."
+    answers: ["ne fait que se plaindre"]
+    explain: "«Только и делает, что…» — **ne faire que** + инфинитив; возвратное *se* остаётся при инфинитиве."
+  - q: "Il mange seulement des légumes."
+    key: "ne… que"
+    stem: "Il ___."
+    answers: ["ne mange que des légumes"]
+    explain: "После *ne… que* артикль **des** сохраняется (это не отрицание)."
+  - q: "Il reste seulement une place dans le train."
+    key: "ne… plus que"
+    stem: "Il ___ une place dans le train."
+    answers: ["ne reste plus qu'"]
+    explain: "«Осталось только» — *ne… plus que*: *il ne reste plus qu'une place*."
+  - q: "Les difficultés commencent seulement."
+    key: "ne faire que"
+    stem: "Les difficultés ___."
+    answers: ["ne font que commencer"]
+    explain: "*Ne faire que commencer* — «только начинаются»."
+  - q: "Il écrit des romans, mais aussi des poèmes."
+    key: "ne… pas que"
+    stem: "Il ___ des romans."
+    answers: ["n'écrit pas que"]
+    explain: "«Не только» — *ne… pas que*: *il n'écrit pas que des romans*."
+  - q: "Seuls les adhérents peuvent voter."
+    key: "il n'y a que… qui"
+    stem: "___ peuvent voter."
+    answers: ["Il n'y a que les adhérents qui"]
+    explain: "*Il n'y a que les adhérents qui peuvent voter*; глагол согласуется с *les adhérents* (мн. ч.)."
+  - q: "Je constate seulement les faits."
+    key: "ne faire que"
+    stem: "Je ___ les faits."
+    answers: ["ne fais que constater"]
+    explain: "Ограничивается само действие: *je ne fais que constater*."
+  - q: "On peut seulement attendre."
+    key: "ne… que"
+    stem: "On ___ attendre."
+    answers: ["ne peut qu'"]
+    explain: "*Que* перед инфинитивом: *on ne peut qu'attendre* «остаётся только ждать»; элизия *qu'* перед гласной."
+  - q: "Ce n'est qu'un jeu, rien de plus, comme toujours."
+    key: "ne… jamais que"
+    stem: "Ce ___ un jeu."
+    answers: ["n'est jamais qu'"]
+    explain: "*Ne… jamais que* — «всего лишь»: *ce n'est jamais qu'un jeu*."

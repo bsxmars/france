@@ -1,0 +1,128 @@
+- id: b08-relative-subj-principe
+  lesson: b-08-subjonctif-negation/01-grammaire
+  q: "Когда в относительном придаточном нужен subjonctif?"
+  a: "Когда существование предмета не утверждается: пожелание, поиск, требование, цель, отрицание или вопрос о существовании. *Je cherche un prof qui **sache** expliquer.*"
+- id: b08-relative-fait-souhait
+  lesson: b-08-subjonctif-negation/01-grammaire
+  q: "J'ai un collègue qui ___ / Je cherche un collègue qui ___ (pouvoir) m'aider."
+  a: "*J'ai un collègue qui **peut** m'aider* (факт) — *Je cherche un collègue qui **puisse** m'aider* (пожелание)."
+- id: b08-relative-declencheurs
+  lesson: b-08-subjonctif-negation/01-grammaire
+  q: "Какие глаголы и обороты вводят relative au subjonctif?"
+  a: "*chercher, vouloir, souhaiter, rêver de, avoir besoin de, il faut, demander* + *un / une / des … qui*; *personne qui, rien qui, aucun… qui, il n'y a pas de… qui, y a-t-il… qui*."
+- id: b08-relative-article
+  lesson: b-08-subjonctif-negation/01-grammaire
+  q: "Je cherche un stage qui me permette… / Je cherche le stage qui permet… — в чём разница?"
+  a: "*Un* — любой подходящий, ещё не найден → subjonctif. *Le* — конкретный, существующий → indicatif."
+- id: b08-relative-negation
+  lesson: b-08-subjonctif-negation/01-grammaire
+  q: "«Я не знаю никого, кто умел бы играть на скрипке»."
+  a: "*Je ne connais personne qui **sache** jouer du violon.*"
+- id: b08-relative-superlatif
+  lesson: b-08-subjonctif-negation/01-grammaire
+  q: "Какое наклонение после le meilleur, le seul, le premier + qui / que?"
+  a: "Обычно subjonctif (субъективная оценка): *C'est le meilleur film que j'**aie** vu.* Indicatif — для проверяемого факта."
+- id: b08-relative-formes
+  lesson: b-08-subjonctif-negation/01-grammaire
+  q: "Subjonctif (il) от pouvoir, savoir, être, avoir, faire, prendre, connaître."
+  a: "*qu'il puisse, sache, soit, ait, fasse, prenne, connaisse*."
+- id: b08-relative-but
+  lesson: b-08-subjonctif-negation/01-grammaire
+  q: "«Нужна реформа, которая сделала бы школу справедливее»."
+  a: "*Il faut une réforme qui **rende** l'école plus juste.* — цель → subjonctif."
+- id: b08-opinion-affirmatif
+  lesson: b-08-subjonctif-negation/02-grammaire
+  q: "Je pense / crois / trouve que — какое наклонение?"
+  a: "**Indicatif** (или conditionnel): *Je pense qu'il **a** raison.*"
+- id: b08-opinion-negatif
+  lesson: b-08-subjonctif-negation/02-grammaire
+  q: "Je ne pense pas / ne crois pas / ne trouve pas que — какое наклонение?"
+  a: "Обычно **subjonctif**: *Je ne pense pas qu'il **ait** raison.*"
+- id: b08-opinion-categorique
+  lesson: b-08-subjonctif-negation/02-grammaire
+  q: "Je ne crois pas qu'il vienne / qu'il viendra — разница?"
+  a: "*Vienne* — сомневаюсь. *Viendra* — уверен, что не придёт (категоричное мнение)."
+- id: b08-opinion-semble
+  lesson: b-08-subjonctif-negation/02-grammaire
+  q: "Il me semble que / il semble que / il paraît que — наклонения?"
+  a: "*Il me semble que* + **indicatif**; *il semble que* + обычно **subjonctif**; *il paraît que* («говорят») + **indicatif**."
+- id: b08-opinion-esperer
+  lesson: b-08-subjonctif-negation/02-grammaire
+  q: "J'espère que tu ___ (réussir)."
+  a: "*J'espère que tu **réussiras**.* — *espérer* + indicatif (обычно futur)."
+- id: b08-opinion-douter
+  lesson: b-08-subjonctif-negation/02-grammaire
+  q: "Douter que, ne pas être sûr que — наклонение?"
+  a: "**Subjonctif**: *Je doute qu'il **puisse** venir. Je ne suis pas sûre qu'elle **ait compris**.*"
+- id: b08-opinion-le-fait-que
+  lesson: b-08-subjonctif-negation/02-grammaire
+  q: "Le fait que + ?"
+  a: "Обычно **subjonctif** (сдержанное, «обсуждающее» высказывание): *Le fait que l'école **soit** gratuite…*; indicatif — когда подчёркивается реальность факта."
+- id: b08-opinion-question
+  lesson: b-08-subjonctif-negation/02-grammaire
+  q: "Pensez-vous que… / Tu penses que… ? — наклонение?"
+  a: "С инверсией возможен subjonctif (*Pensez-vous que ce **soit** utile ?*); с интонацией или *est-ce que* — обычно indicatif (*Tu penses que c'**est** utile ?*)."
+- id: b08-proba-probable-possible
+  lesson: b-08-subjonctif-negation/03-grammaire
+  q: "Il est probable que… / il est possible que… — наклонения?"
+  a: "*Probable* → **indicatif** (*il est probable qu'il **viendra***); *possible* → **subjonctif** (*il est possible qu'il **vienne***)."
+- id: b08-proba-subj-liste
+  lesson: b-08-subjonctif-negation/03-grammaire
+  q: "Какие обороты вероятности требуют subjonctif?"
+  a: "*il est possible / peu probable / improbable / impossible que, il se peut que, il se pourrait que, il y a peu de / de fortes chances que, il n'est pas certain que*."
+- id: b08-proba-ind-liste
+  lesson: b-08-subjonctif-negation/03-grammaire
+  q: "Какие обороты вероятности требуют indicatif?"
+  a: "*il est certain / sûr / évident / clair / probable / vraisemblable que, il ne fait aucun doute que, il va de soi que*."
+- id: b08-proba-peut-etre
+  lesson: b-08-subjonctif-negation/03-grammaire
+  q: "Peut-être que, sans doute que + ?"
+  a: "**Indicatif** — это наречия: *Peut-être qu'il **viendra**. Sans doute qu'elle **a** raison.*"
+- id: b08-proba-negation
+  lesson: b-08-subjonctif-negation/03-grammaire
+  q: "Il est sûr qu'il réussira → отрицание?"
+  a: "*Il **n'est pas sûr** qu'il **réussisse**.* — отрицание вносит сомнение → subjonctif."
+- id: b08-proba-subj-passe
+  lesson: b-08-subjonctif-negation/03-grammaire
+  q: "Как образуется subjonctif passé? «Возможно, он уже ушёл»."
+  a: "*avoir / être* в subjonctif + participe passé: *Il est possible qu'il **soit** déjà **parti**.*"
+- id: b08-proba-futur
+  lesson: b-08-subjonctif-negation/03-grammaire
+  q: "Есть ли будущее время в subjonctif?"
+  a: "Нет: subjonctif présent покрывает и будущее: *Il est peu probable qu'il **pleuve** demain.*"
+- id: b08-proba-sans-doute
+  lesson: b-08-subjonctif-negation/03-grammaire
+  q: "Sans doute / sans aucun doute — значения?"
+  a: "*Sans doute* = «вероятно, наверное»; *sans aucun doute* = «несомненно»."
+- id: b08-ni-structure
+  lesson: b-08-subjonctif-negation/04-grammaire
+  q: "Схема ne… ni… ni…?"
+  a: "*ne* + глагол + **ni** X **ni** Y, без *pas*: *Je ne parle **ni** allemand **ni** italien.*"
+- id: b08-ni-article
+  lesson: b-08-subjonctif-negation/04-grammaire
+  q: "Что происходит с артиклем после ni?"
+  a: "*Un / une / des / du / de la* исчезают (*ni frère ni sœur, ni thé ni café*); *le / la / les*, притяжательные и указательные остаются (*ni le thé ni le café*)."
+- id: b08-ni-sujet
+  lesson: b-08-subjonctif-negation/04-grammaire
+  q: "«Ни Поль, ни Мари не пришли»."
+  a: "***Ni** Paul **ni** Marie **ne** sont venus.* — *ne* перед глаголом, глагол обычно во мн. ч."
+- id: b08-ni-passe-compose
+  lesson: b-08-subjonctif-negation/04-grammaire
+  q: "Место ni… ni… в passé composé: «Я не видел ни Поля, ни Мари» и «Он ни ел, ни пил»."
+  a: "*Je n'ai vu **ni** Paul **ni** Marie* (после причастия). *Il n'a **ni** mangé **ni** bu* (перед каждым причастием)."
+- id: b08-sans-ni
+  lesson: b-08-subjonctif-negation/04-grammaire
+  q: "«Он уехал без денег и без паспорта»."
+  a: "*Il est parti **sans** argent **ni** passeport.*"
+- id: b08-ni-lun-lautre
+  lesson: b-08-subjonctif-negation/04-grammaire
+  q: "«Ни тот, ни другой» (м. р. и ж. р.)?"
+  a: "*Ni l'un ni l'autre* / *ni l'une ni l'autre*: *Ni l'un ni l'autre ne sont venus.*"
+- id: b08-ni-pas-ni
+  lesson: b-08-subjonctif-negation/04-grammaire
+  q: "Можно ли сказать je n'aime pas le sport ni la musique?"
+  a: "Да, *ne… pas… ni…* — вариант *ne… ni… ni…*. Но нельзя ~~je n'aime pas ni le sport ni la musique~~."
+- id: b08-moi-non-plus
+  lesson: b-08-subjonctif-negation/04-grammaire
+  q: "«Я не понял». — «Я тоже»."
+  a: "*Je n'ai pas compris. — **Moi non plus.*** (не ~~moi aussi~~)."

@@ -1,0 +1,57 @@
+title: "On → местоимённый пассив"
+type: transform
+intro: "Перефразируй предложение с помощью местоимённого глагола с пассивным значением. Сохрани время и отрицание."
+hints:
+  - "Подлежащее — предмет, глагол в 3-м лице, агента нет."
+  - "Сложное время: se + être + причастие, согласованное с подлежащим."
+items:
+  - q: "On boit ce vin très frais."
+    key: "se boire"
+    stem: "Ce vin ___ très frais."
+    answers: ["se boit"]
+    explain: "Норма употребления → *ce vin **se boit***."
+  - q: "On ne prononce pas le « s » final de ce mot."
+    key: "se prononcer"
+    stem: "Le « s » final de ce mot ___."
+    answers: ["ne se prononce pas"]
+    explain: "Отрицание обрамляет *se* + глагол: *ne se prononce pas*."
+  - q: "On a vendu tous les billets en dix minutes."
+    key: "se vendre"
+    stem: "Tous les billets ___ en dix minutes."
+    answers: ["se sont vendus"]
+    explain: "Passé composé → *se sont* + причастие, согласованное с подлежащим: *vendus*."
+  - q: "On voyait les montagnes depuis la terrasse."
+    key: "se voir"
+    stem: "Les montagnes ___ depuis la terrasse."
+    answers: ["se voyaient"]
+    explain: "Imparfait сохраняется: *se voyaient*."
+  - q: "On n'emploie plus cette expression aujourd'hui."
+    key: "s'employer"
+    stem: "Cette expression ___ aujourd'hui."
+    answers: ["ne s'emploie plus"]
+    explain: "*Ne s'emploie plus* — «больше не употребляется»."
+  - q: "On écrit ce nom avec deux « l »."
+    key: "s'écrire"
+    stem: "Ce nom ___ avec deux « l »."
+    answers: ["s'écrit"]
+    explain: "*S'écrire* — «пишется»."
+  - q: "On ne fait pas ce genre de choses en public."
+    key: "se faire"
+    stem: "Ce genre de choses ___ en public."
+    answers: ["ne se fait pas"]
+    explain: "*Cela ne se fait pas* — «так не принято»; подлежащее *ce genre* — ед. ч."
+  - q: "Personne n'a touché la porte, et pourtant on l'a vue s'ouvrir : elle n'est plus fermée."
+    key: "s'ouvrir"
+    stem: "La porte ___ toute seule."
+    answers: ["s'est ouverte"]
+    explain: "*S'ouvrir* → *s'est ouverte*, согласование с *la porte*."
+  - q: "On conservera ces fromages au frais pendant une semaine."
+    key: "se conserver"
+    stem: "Ces fromages ___ au frais pendant une semaine."
+    answers: ["se conserveront"]
+    explain: "Futur → *se conserveront*."
+  - q: "On traduit difficilement ce proverbe."
+    key: "se traduire"
+    stem: "Ce proverbe ___ difficilement."
+    answers: ["se traduit"]
+    explain: "*Se traduit difficilement* — «плохо поддаётся переводу»."

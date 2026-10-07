@@ -1,0 +1,140 @@
+- id: b01-ant-question
+  lesson: b-01-participe-concession/01-grammaire
+  q: "Форма на -ant: как отличить participe présent от adjectif verbal?"
+  a: "**Действие** (есть дополнение, отрицание, наречие после) → participe présent, неизменяемый: *des tenues **provoquant** des réactions*. **Качество** (можно поставить *très*) → adjectif verbal, согласуется: *une tenue **provocante***."
+- id: b01-ant-form
+  lesson: b-01-participe-concession/01-grammaire
+  q: "Как образуется participe présent? Три исключения?"
+  a: "Основа *nous* без *-ons* + **-ant**: *nous choisissons → choisissant*. Исключения: **étant, ayant, sachant**."
+- id: b01-cant-gant-ent
+  lesson: b-01-participe-concession/01-grammaire
+  q: "Причастие и прилагательное: *provoquant / ?*, *fatiguant / ?*, *précédant / ?*"
+  a: "Прилагательные: **provocant**, **fatigant**, **précédent** (так же *convaincant, intrigant, excellent, différent, influent*)."
+- id: b01-fatigant
+  lesson: b-01-participe-concession/01-grammaire
+  q: "Найди ошибку: *C'est un travail très fatiguant.*"
+  a: "*un travail très **fatigant*** — качество → adjectif verbal на *-gant*."
+- id: b01-obeissant
+  lesson: b-01-participe-concession/01-grammaire
+  q: "*des enfants obéissant à leurs parents* или *obéissants*?"
+  a: "С дополнением (*à leurs parents*) — **obéissant** (действие, неизменяемо). Без дополнения — *des enfants **obéissants***."
+- id: b01-gerondif
+  lesson: b-01-participe-concession/01-grammaire
+  q: "Что выражает gérondif и какое у него условие?"
+  a: "*en* + participe présent: одновременность, способ, условие (*Il s'est blessé **en tombant***). Подлежащее то же, что у главного глагола."
+- id: b01-gerondif-pendant
+  lesson: b-01-participe-concession/01-grammaire
+  q: "Найди ошибку: *En sortant du métro, la pluie a commencé.*"
+  a: "«Висящий» gérondif: из метро вышел не дождь. ***En sortant** du métro, **j'**ai senti la pluie.*"
+- id: b01-participe-compose
+  lesson: b-01-participe-concession/01-grammaire
+  q: "Participe composé: форма и значение?"
+  a: "**ayant / étant + participe passé**: *ayant terminé, étant arrivée, s'étant installé*. Предшествование и обычно причина: = *comme il avait…*"
+- id: b01-nayant-pas
+  lesson: b-01-participe-concession/01-grammaire
+  q: "Переведи: «Не получив ответа, она перезвонила»."
+  a: "***N'ayant pas reçu** de réponse, elle a rappelé.* — отрицание обнимает *ayant*."
+- id: b01-arrivee-seule
+  lesson: b-01-participe-concession/01-grammaire
+  q: "Что значит *Arrivée en retard, elle a manqué le début* — где *étant*?"
+  a: "*Étant* опущено: остаётся одно причастие (= *étant arrivée*). Согласование — с подлежащим *elle*."
+- id: b01-fa-form
+  lesson: b-01-participe-concession/02-grammaire
+  q: "Как образуется futur antérieur?"
+  a: "**avoir / être в futur simple + participe passé**: *j'aurai fini, elle sera partie, nous nous serons habitués*."
+- id: b01-fa-quand
+  lesson: b-01-participe-concession/02-grammaire
+  q: "Переведи: «Когда я закончу, я тебе позвоню»."
+  a: "*Quand j'**aurai fini**, je t'appellerai.* — завершится раньше → futur antérieur."
+- id: b01-fa-pas-present
+  lesson: b-01-participe-concession/02-grammaire
+  q: "Найди ошибку: *Quand je finis mes études, je partirai à l'étranger.*"
+  a: "*Quand j'**aurai fini** mes études…* — после *quand, dès que, lorsque* о будущем никогда не présent."
+- id: b01-fa-si
+  lesson: b-01-participe-concession/02-grammaire
+  q: "*Quand* и *si* о будущем — какое время после каждого?"
+  a: "*quand* + **futur** (*quand tu viendras*); *si* + **présent** (*si tu viens*)."
+- id: b01-fa-dici
+  lesson: b-01-participe-concession/02-grammaire
+  q: "Переведи: «Через год она выучит французский» (результат)."
+  a: "*Dans un an, elle **aura appris** le français.* — завершится к моменту в будущем (*dans, d'ici, avant*)."
+- id: b01-fa-supposition
+  lesson: b-01-participe-concession/02-grammaire
+  q: "Что значит *Il n'est pas là ? Il aura raté son bus.*?"
+  a: "Предположение о прошлом: «**наверное**, он опоздал на автобус»."
+- id: b01-aurai-aurais
+  lesson: b-01-participe-concession/02-grammaire
+  q: "*j'aurai fini* или *j'aurais fini*?"
+  a: "**aurai** — futur antérieur («закончу к тому моменту»); **aurais** — conditionnel passé («закончил бы»)."
+- id: b01-fa-ou-futur
+  lesson: b-01-participe-concession/02-grammaire
+  q: "*Je te rendrai ton livre dès que je l'___ (lire).*"
+  a: "**aurai lu** — вернуть можно только прочитав целиком. Если действия совпадают по времени, хватает futur simple: *Quand tu viendras, je te montrerai.*"
+- id: b01-opp-conc
+  lesson: b-01-participe-concession/03-grammaire
+  q: "Opposition и concession — в чём разница?"
+  a: "**Opposition** — сравнить два разных факта (*alors que, en revanche*). **Concession** — факт вопреки ожиданию (*bien que, malgré, pourtant*)."
+- id: b01-bien-que
+  lesson: b-01-participe-concession/03-grammaire
+  q: "Найди ошибку: *Bien qu'il est fatigué, il continue.*"
+  a: "*Bien qu'il **soit** fatigué…* — *bien que, quoique* + **subjonctif**."
+- id: b01-meme-si
+  lesson: b-01-participe-concession/03-grammaire
+  q: "*Même si* + какое наклонение? Можно ли *même s'il pleuvra*?"
+  a: "**Indicatif**, но без futur и conditionnel: *même s'il **pleut** demain*."
+- id: b01-malgre
+  lesson: b-01-participe-concession/03-grammaire
+  q: "*Malgré* или *bien que*: ___ la pluie / ___ il pleuve."
+  a: "***Malgré** la pluie* — предлог + существительное; ***bien qu'**il pleuve* — союз + subjonctif. *Malgré que* на экзамене не пиши."
+- id: b01-avoir-beau
+  lesson: b-01-participe-concession/03-grammaire
+  q: "Переведи: «Сколько я ни объясняю, он не понимает»."
+  a: "*J'**ai beau** lui expliquer, il ne comprend pas.* — *avoir beau* + инфинитив."
+- id: b01-en-revanche
+  lesson: b-01-participe-concession/03-grammaire
+  q: "*Par contre* или *en revanche* — что лучше в эссе?"
+  a: "**En revanche** — нейтрально-письменное; *par contre* — разговорнее. Оба — между двумя независимыми предложениями."
+- id: b01-au-contraire
+  lesson: b-01-participe-concession/03-grammaire
+  q: "Когда нужно *au contraire*?"
+  a: "Когда второе **опровергает** первое (обычно отрицательное): *Il n'est pas timide ; **au contraire**, il parle à tout le monde.*"
+- id: b01-tout-en
+  lesson: b-01-participe-concession/03-grammaire
+  q: "Что значит *tout en* + participe présent?"
+  a: "Уступку при одном подлежащем: ***Tout en** étant occupée, elle trouve du temps pour lire* — «хотя и занята»."
+- id: b01-quoique-quoi-que
+  lesson: b-01-participe-concession/03-grammaire
+  q: "*quoique* или *quoi que*?"
+  a: "***quoique*** = хотя (*quoiqu'il soit tard*); ***quoi que*** = что бы ни (*quoi que tu dises*). Оба + subjonctif."
+- id: b01-temps-modes
+  lesson: b-01-participe-concession/04-grammaire
+  q: "Какие союзы времени требуют subjonctif?"
+  a: "Те, где придаточное **ещё не наступило**: **avant que, jusqu'à ce que, en attendant que**. Остальные (*quand, pendant que, après que, dès que, depuis que*) — indicatif."
+- id: b01-apres-que
+  lesson: b-01-participe-concession/04-grammaire
+  q: "Найди ошибку: *On ouvre les cadeaux après que les invités soient partis.*"
+  a: "*après que les invités **sont partis*** — *après que* по норме + **indicatif**."
+- id: b01-avant-de
+  lesson: b-01-participe-concession/04-grammaire
+  q: "*Je téléphone avant que je parte* — что не так?"
+  a: "Подлежащее одно → **avant de** + инфинитив: *Je téléphone **avant de partir***."
+- id: b01-ne-expletif
+  lesson: b-01-participe-concession/04-grammaire
+  q: "*Avant qu'il ne parte* — это отрицание?"
+  a: "Нет: «пустое» *ne* (*ne explétif*), книжное и необязательное. Смысл = *avant qu'il parte*."
+- id: b01-jusqua-ce-que
+  lesson: b-01-participe-concession/04-grammaire
+  q: "Переведи: «Подожди здесь, пока я не вернусь»."
+  a: "*Attends ici **jusqu'à ce que** je **revienne**.* — *jusqu'à ce que* + subjonctif."
+- id: b01-depuis-que
+  lesson: b-01-participe-concession/04-grammaire
+  q: "*depuis* или *depuis que*: ___ son mariage / ___ il est marié."
+  a: "***depuis** son mariage* — предлог + существительное; ***depuis qu'**il est marié* — союз + предложение (indicatif)."
+- id: b01-pendant-que
+  lesson: b-01-participe-concession/04-grammaire
+  q: "*pendant* или *pendant que*: ___ le cours / ___ le professeur parle."
+  a: "***pendant** le cours*; ***pendant que** le professeur parle* (+ indicatif)."
+- id: b01-nom-au-lieu
+  lesson: b-01-participe-concession/04-grammaire
+  q: "Как сказать *dès qu'il est arrivé* и *avant que le spectacle commence* короче?"
+  a: "***Dès son arrivée***, ***avant le début** du spectacle* — существительное вместо придаточного, без вопроса о наклонении."

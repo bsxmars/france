@@ -1,0 +1,37 @@
+title: "Собери фразу из рассказа"
+type: order
+intro: "Собери французское предложение из слов по русскому смыслу. Следи за вспомогательным глаголом и согласованием. Запятые и точку ставить не нужно."
+hints:
+  - "Возвратное местоимение стоит перед вспомогательным глаголом: nous nous sommes rencontrés."
+  - "Придаточное с quand или pendant que может стоять и в начале, и в конце."
+items:
+  - q: "«Когда я пришёл, все уже ушли»."
+    answers: ["Quand je suis arrivé, tout le monde était parti.", "Tout le monde était parti quand je suis arrivé."]
+    explain: "Все ушли **раньше** моего прихода → plus-que-parfait *était parti*. *tout le monde* — ед. ч., м. р."
+  - q: "«Она читала, когда зазвонил телефон»."
+    answers: ["Elle lisait quand le téléphone a sonné.", "Quand le téléphone a sonné, elle lisait."]
+    explain: "Фон (**lisait**) прерван событием (**a sonné**)."
+  - q: "«Мы познакомились три года назад в Лионе»."
+    answers: ["Nous nous sommes rencontrés il y a trois ans à Lyon.", "Nous nous sommes rencontrés à Lyon il y a trois ans.", "Il y a trois ans, nous nous sommes rencontrés à Lyon.", "À Lyon, nous nous sommes rencontrés il y a trois ans."]
+    explain: "*se rencontrer* → *nous nous sommes rencontrés*; «назад» → **il y a**."
+  - q: "«Раньше он бегал каждое утро»."
+    answers: ["Avant, il courait tous les matins.", "Il courait tous les matins avant."]
+    explain: "Привычка в прошлом → imparfait: *il courait*."
+  - q: "«Она сказала мне, что уже видела этот фильм»."
+    answers: ["Elle m'a dit qu'elle avait déjà vu ce film."]
+    explain: "Видела **до** того, как сказала → plus-que-parfait; *déjà* между *avait* и *vu*."
+  - q: "«Фотографии, которые ты прислал, — чудесные»."
+    answers: ["Les photos que tu as envoyées sont magnifiques."]
+    explain: "*que* = *les photos* стоит перед *avoir* → *envoyées*."
+  - q: "«Они поселились в Бордо, потому что нашли там работу»."
+    answers: ["Ils se sont installés à Bordeaux parce qu'ils y avaient trouvé du travail."]
+    explain: "Нашли работу **раньше**, чем переехали → *avaient trouvé*; *y* (= à Bordeaux) стоит перед вспомогательным глаголом."
+  - q: "«Пока я спал, кто-то позвонил в дверь»."
+    answers: ["Pendant que je dormais, quelqu'un a sonné à la porte.", "Quelqu'un a sonné à la porte pendant que je dormais."]
+    explain: "**Pendant que** + фон в imparfait, событие — passé composé."
+  - q: "«Мы с сестрой часто писали друг другу письма»."
+    answers: ["Ma sœur et moi, nous nous écrivions souvent des lettres.", "Ma sœur et moi nous écrivions souvent des lettres."]
+    explain: "Привычка → imparfait *nous écrivions*. После *ma sœur et moi* подлежащее повторяют местоимением *nous*."
+  - q: "«Когда я её встретил, она уже два года жила в Марселе»."
+    answers: ["Quand je l'ai rencontrée, elle habitait à Marseille depuis deux ans.", "Elle habitait à Marseille depuis deux ans quand je l'ai rencontrée."]
+    explain: "Событие (*je l'ai rencontrée*: *l'* = она, стоит перед *avoir* → *rencontrée*) и фон, который длится «уже два года» → **imparfait + depuis**."

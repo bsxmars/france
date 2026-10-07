@@ -1,0 +1,43 @@
+title: "Найди ошибку в местоимениях"
+type: error
+intro: "В каждом предложении **одна** ошибка: порядок или форма местоимений, их место, согласование причастия. Исправь её и отправь предложение целиком."
+hints:
+  - "Утвердительный императив: donne-le-moi, parle-lui-en, donne-m'en, vas-y."
+  - "Отрицательный императив и все остальные формы: ne me le donne pas, je le lui ai dit."
+items:
+  - q: "Le planning ? Envoie-moi-le ce soir."
+    answers: ["Le planning ? Envoie-le-moi ce soir."]
+    explain: "В утвердительном императиве прямое дополнение первым: **Envoie-le-moi**."
+  - q: "Ne donnez-la-lui pas avant la réunion."
+    answers: ["Ne la lui donnez pas avant la réunion."]
+    explain: "С отрицанием местоимения стоят **перед** глаголом, без дефисов: **Ne la lui donnez pas**."
+  - q: "Du café ? Donne-moi-en une tasse."
+    answers: ["Du café ? Donne-m'en une tasse."]
+    explain: "Перед *en* — **m'**: **Donne-m'en**."
+  - q: "Ce problème, parle-en-lui demain."
+    answers: ["Ce problème, parle-lui-en demain."]
+    explain: "*En* всегда последний: **parle-lui-en**."
+  - q: "La formation ? Va-y, c'est très utile."
+    answers: ["La formation ? Vas-y, c'est très utile."]
+    explain: "Перед *y* у *va* появляется *-s*: **Vas-y**."
+  - q: "Ces chiffres, ne nous les montre pas maintenant, montre-nous-les demain."
+    answers: ["Ces chiffres, ne nous les montre pas maintenant, montre-les-nous demain."]
+    explain: "Отрицательная часть верна; в утвердительной *les* идёт первым: **montre-les-nous**."
+  - q: "Le dossier Martin ? Je lui l'ai déjà transmis."
+    answers: ["Le dossier Martin ? Je le lui ai déjà transmis."]
+    explain: "Оба местоимения 3-го лица → сначала прямое: **je le lui ai** transmis."
+  - q: "Ces lettres, je te les ai envoyé hier."
+    answers: ["Ces lettres, je te les ai envoyées hier."]
+    explain: "Прямое дополнение *les* (= *ces lettres*, ж. р. мн. ч.) стоит перед *avoir* → причастие согласуется: **envoyées**."
+  - q: "Des stylos ? Je vous en ai apportés trois."
+    answers: ["Des stylos ? Je vous en ai apporté trois."]
+    explain: "С *en* причастие **не согласуется**: *je vous en ai **apporté** trois*."
+  - q: "Tu peux le me prêter jusqu'à demain ?"
+    answers: ["Tu peux me le prêter jusqu'à demain ?"]
+    explain: "*Me* (1-я колонка) идёт перед *le*: **me le** prêter."
+  - q: "Cette question, il ne l'y a pas répondu."
+    answers: ["Cette question, il n'y a pas répondu."]
+    explain: "*Répondre à une question* → только **y**; прямого дополнения нет, *l'* лишнее: **il n'y a pas répondu**."
+  - q: "Tes nouveaux collègues ? Présente-moi-les à la pause."
+    answers: ["Tes nouveaux collègues ? Présente-les-moi à la pause."]
+    explain: "Утвердительный императив: *les* первым, затем *moi*: **Présente-les-moi**."

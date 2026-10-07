@@ -1,0 +1,148 @@
+- id: c06-on-accord
+  lesson: c-06-indefinis/01-grammaire
+  q: "On = nous: как согласуются глагол и причастие с être?"
+  a: "Глагол — в 3-м л. ед. ч., причастие и атрибут — по смыслу: *Ma sœur et moi, on est **parties**.* — *On est **contents**.*"
+- id: c06-l-on
+  lesson: c-06-indefinis/01-grammaire
+  q: "Когда пишут l'on?"
+  a: "В книжной речи после *et, ou, où, si, que*: *si **l'on** veut*, *ce que **l'on** dit*. В разговоре звучит манерно."
+- id: c06-quelque-numeral
+  lesson: c-06-indefinis/01-grammaire
+  q: "Quelque перед числительным: значение и форма?"
+  a: "Наречие «около», неизменяемое: ***quelque** deux cents personnes* (без *-s*)."
+- id: c06-quelque-que
+  lesson: c-06-indefinis/01-grammaire
+  q: "«Какие бы усилия он ни прилагал» по-французски?"
+  a: "***Quelques** efforts **qu'il fasse***: *quelque … que* + subjonctif; перед существительным *quelque* согласуется."
+- id: c06-quelconque
+  lesson: c-06-indefinis/01-grammaire
+  q: "Два значения quelconque?"
+  a: "После существительного: «какой-либо» (*une raison **quelconque***) и оценочно «заурядный» (*un film **quelconque***)."
+- id: c06-chaque-chacun
+  lesson: c-06-indefinis/01-grammaire
+  q: "Chaque или chacun: «Они стоят по 5 евро каждый»?"
+  a: "*Chaque* — только перед существительным. Без существительного — *chacun(e)*: *Ils coûtent cinq euros **chacun**.*"
+- id: c06-nul
+  lesson: c-06-indefinis/01-grammaire
+  q: "Nul до и после существительного?"
+  a: "До / как подлежащее — отрицательное «ни один, никто» с *ne* без *pas*: ***Nul** n'est parfait.* После или как атрибут — «нулевой, никчёмный»: *match **nul***, *Il est **nul** en chimie.*"
+- id: c06-rien-de
+  lesson: c-06-indefinis/01-grammaire
+  q: "«Ничего серьёзного», «кто-то важный», «никто другой»?"
+  a: "*rien **de** grave*, *quelqu'un **d'**important*, *personne **d'**autre* — прилагательное через *de*, в м. р."
+- id: c06-quiconque
+  lesson: c-06-indefinis/01-grammaire
+  q: "Два употребления quiconque?"
+  a: "1) = *celui qui*, вводит глагол: ***Quiconque** a vu ce film…* (без *qui*). 2) «кто бы то ни было»: *mieux que **quiconque***."
+- id: c06-autrui
+  lesson: c-06-indefinis/01-grammaire
+  q: "Autrui: значение и ограничение?"
+  a: "«Другие, ближние» (книжн.), только дополнение, обычно после предлога: *le respect d'**autrui***. Подлежащим не бывает."
+- id: c06-d-autres
+  lesson: c-06-indefinis/02-grammaire
+  q: "«Другие решения» (неопределённо) — des autres или d'autres?"
+  a: "***d'autres** solutions*: *des* → *de* перед прилагательным. *Des autres* = *de + les autres*: *l'avis des autres*."
+- id: c06-un-autre-en
+  lesson: c-06-indefinis/02-grammaire
+  q: "«Дай мне другой (стакан)» местоимением?"
+  a: "*Donne-m'**en** **un autre**.* — при *un autre* без существительного нужно *en*."
+- id: c06-l-un-l-autre
+  lesson: c-06-indefinis/02-grammaire
+  q: "Где предлог во «друг о друге», «друг на друга»?"
+  a: "Посередине: *l'un **de** l'autre*, *les uns **sur** les autres*. Без предлога — *l'un l'autre* (прямое дополнение)."
+- id: c06-ni-l-un
+  lesson: c-06-indefinis/02-grammaire
+  q: "«Оба», «ни тот ни другой», «тот или другой»?"
+  a: "*l'un et l'autre*, *ni l'un ni l'autre* (+ *ne*), *l'un ou l'autre*."
+- id: c06-certain
+  lesson: c-06-indefinis/02-grammaire
+  q: "Un certain succès / un succès certain — разница?"
+  a: "Перед существительным — «некоторый, определённый»; после — «несомненный». Мн. ч. перед существительным без артикля: *certains experts*."
+- id: c06-de-tels
+  lesson: c-06-indefinis/02-grammaire
+  q: "«Такие аргументы» — des tels или de tels?"
+  a: "***de tels** arguments* (*des* → *de* перед прилагательным). Ед. ч. — *un tel*, *une telle*."
+- id: c06-tel-que-quel
+  lesson: c-06-indefinis/02-grammaire
+  q: "Tel que или tel quel?"
+  a: "*tel que* — «такой как, например»: *des villes **telles que** Lyon*. *tel quel* — «как есть»: *laisser le texte **tel quel***. Оба согласуются."
+- id: c06-plusieurs-divers
+  lesson: c-06-indefinis/02-grammaire
+  q: "Plusieurs, divers, différents перед существительным?"
+  a: "Без артикля: *plusieurs fois* (неизменяемое), *diverses raisons*, *différentes personnes* = «различные, несколько». После существительного *différent* = «непохожий»."
+- id: c06-tel-attribut
+  lesson: c-06-indefinis/02-grammaire
+  q: "«Таково моё мнение» по-французски (книжно)?"
+  a: "***Telle** est mon opinion.* — *tel*-атрибут с инверсией, согласуется с подлежащим."
+- id: c06-meme-avant
+  lesson: c-06-indefinis/03-grammaire
+  q: "Même перед существительным: значение и сравнение?"
+  a: "«Тот же, одинаковый», согласуется: *les **mêmes** goûts*. Сравнение — через *que*: *le même âge **que** moi*."
+- id: c06-meme-apres
+  lesson: c-06-indefinis/03-grammaire
+  q: "Le jour même, ici même, aujourd'hui même?"
+  a: "*Même* после слова — «самый, именно»: в тот самый день, именно здесь, сегодня же."
+- id: c06-meme-adverbe
+  lesson: c-06-indefinis/03-grammaire
+  q: "Les enfants mêmes / même les enfants?"
+  a: "*les enfants **mêmes*** — сами дети (прилагательное, согласуется); ***même** les enfants* — даже дети (наречие, неизменяемо)."
+- id: c06-vous-meme
+  lesson: c-06-indefinis/03-grammaire
+  q: "Vous-même или vous-mêmes?"
+  a: "*vous-même* — вежливо к одному человеку; *vous-mêmes* — к нескольким. *Nous-mêmes*, *eux-mêmes*, *elles-mêmes* — мн. ч."
+- id: c06-ils-sont-meme
+  lesson: c-06-indefinis/03-grammaire
+  q: "«Они сами починили машину» — ils ont même réparé?"
+  a: "Нет: *ils ont même réparé* = «они даже починили». «Сами» → *Ils ont réparé la voiture **eux-mêmes**.*"
+- id: c06-meme-si
+  lesson: c-06-indefinis/03-grammaire
+  q: "Même si + какое наклонение?"
+  a: "Indicatif (как после *si*): ***Même s'il pleut**, je sortirai.* — *Même s'il pleuvait, je sortirais.* Без conditionnel после *si*."
+- id: c06-a-meme
+  lesson: c-06-indefinis/03-grammaire
+  q: "À même le sol / être à même de?"
+  a: "*à même le sol* — прямо на полу; *être à même de* + inf. — быть в состоянии (книжн.)."
+- id: c06-tout-de-meme
+  lesson: c-06-indefinis/03-grammaire
+  q: "Где стоит tout de même в сложном времени?"
+  a: "Между вспомогательным глаголом и причастием, перед *pas*: *Il n'a **tout de même** pas oublié ?*"
+- id: c06-revient-au-meme
+  lesson: c-06-indefinis/03-grammaire
+  q: "«Это одно и то же» / «так же как»?"
+  a: "*Cela revient **au même**.* / ***de même que***: *Il travaille, de même que son frère.*"
+- id: c06-tout-place
+  lesson: c-06-indefinis/04-grammaire
+  q: "Место tout-дополнения в сложном времени и при инфинитиве?"
+  a: "*J'ai **tout** compris* (между *avoir* и причастием); *Je vais **tout** te dire* (перед местоимениями и инфинитивом)."
+- id: c06-tous-prononciation
+  lesson: c-06-indefinis/04-grammaire
+  q: "Как произносится tous?"
+  a: "Местоимение — [tus]: *Ils sont venus tous.* Прилагательное перед существительным — [tu]: *tous les jours*."
+- id: c06-tout-le-tout-un
+  lesson: c-06-indefinis/04-grammaire
+  q: "Tout le mois / tout un mois?"
+  a: "*tout le mois* — весь (этот) месяц; *tout un mois* — целый месяц (часто экспрессивно)."
+- id: c06-tout-sans-article
+  lesson: c-06-indefinis/04-grammaire
+  q: "Tout + существительное без артикля?"
+  a: "«Всякий, любой» (книжн.): *tout citoyen*, *à tout moment*, *à tout prix*, *en tout cas*, *de toute façon*."
+- id: c06-tout-adverbe-regle
+  lesson: c-06-indefinis/04-grammaire
+  q: "Когда наречие tout согласуется?"
+  a: "Только перед прилагательным ж. р. на согласную или h придыхательное: *toute pâle*, *toutes honteuses*. Иначе неизменяемо: *tout émue*, *tout heureux*."
+- id: c06-tout-entiere
+  lesson: c-06-indefinis/04-grammaire
+  q: "La ville tout entière или toute entière?"
+  a: "***tout** entière* — перед гласной наречие не согласуется."
+- id: c06-tous-les-deux-jours
+  lesson: c-06-indefinis/04-grammaire
+  q: "«Через день», «каждые десять минут»?"
+  a: "*tous les deux jours*, *toutes les dix minutes*."
+- id: c06-tout-que
+  lesson: c-06-indefinis/04-grammaire
+  q: "«Каким бы богатым он ни был» с tout?"
+  a: "***Tout riche qu'il est**, …* — *tout* + прил. + *que* + indicatif (допускается subjonctif). *Toute petite qu'elle est*."
+- id: c06-tout-locutions
+  lesson: c-06-indefinis/04-grammaire
+  q: "Tout à fait, tout de suite, tout à l'heure, tout à coup?"
+  a: "совершенно; сразу; только что / скоро; вдруг."

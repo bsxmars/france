@@ -1,0 +1,43 @@
+title: "Притяжательные местоимения"
+type: gap
+intro: "Замени выражение в скобках притяжательным местоимением. Не забудь слияние с *à* и *de* (*au mien, des tiens*)."
+hints:
+  - "Род и число — по предмету, лицо — по владельцу: sa voiture (à lui) → la sienne."
+  - "à + le → au; de + les → des: au tien, des nôtres."
+items:
+  - q: "Ta proposition est intéressante, mais je préfère ___ (ma proposition)."
+    answers: ["la mienne"]
+    explain: "*Ma proposition* (ж. р. ед. ч.) → **la mienne**."
+  - q: "Nos enfants vont à la même école que ___ (vos enfants)."
+    answers: ["les vôtres"]
+    explain: "*Vos enfants* → **les vôtres**, с циркумфлексом."
+  - q: "Je pense souvent à mon avenir ; est-ce que tu penses ___ (à ton avenir) ?"
+    answers: ["au tien"]
+    explain: "*À + le tien* → **au tien**."
+  - q: "Elle s'occupe de ses dossiers, et moi ___ (de mes dossiers)."
+    answers: ["des miens"]
+    explain: "*De + les miens* → **des miens**."
+  - q: "Ils ont vendu leur maison, mais nous gardons ___ (notre maison)."
+    answers: ["la nôtre"]
+    explain: "*Notre maison* → **la nôtre** (местоимение пишется с *ô*)."
+  - q: "Mes notes sont meilleures que ___ (les notes de Paul)."
+    answers: ["les siennes", "celles de Paul"]
+    explain: "Владелец — Paul (3-е лицо), предмет — *notes* ж. р. мн. ч. → **les siennes** (или указательное *celles de Paul*)."
+  - q: "Notre équipe a gagné ; ___ (leur équipe) a perdu en demi-finale."
+    answers: ["la leur"]
+    explain: "*Leur équipe* → **la leur**; местоимение *leur* в ед. ч. без *-s*."
+  - q: "Vous avez parlé de vos projets ; ils ne nous ont rien dit ___ (de leurs projets)."
+    answers: ["des leurs"]
+    explain: "*De + les leurs* → **des leurs**."
+  - q: "Il a passé les fêtes loin ___ (de sa famille, de ses proches)."
+    answers: ["des siens"]
+    explain: "*Les siens* — «его близкие, семья»; *de + les siens* → **des siens**."
+  - q: "Si tu veux que la négociation réussisse, il faut que tu y mettes ___ (un effort personnel)."
+    answers: ["du tien"]
+    explain: "Выражение *y mettre du sien* «пойти навстречу, постараться» меняет лицо: *que tu y mettes **du tien***."
+  - q: "— Santé ! — ___ (à ta santé, ответ на тост) !"
+    answers: ["À la tienne"]
+    explain: "Ответный тост на «ты» → **À la tienne !** (на «вы» — *À la vôtre !*)."
+  - q: "Ce parapluie n'est pas à moi, ___ (mon parapluie) est noir."
+    answers: ["le mien"]
+    explain: "*Mon parapluie* → **le mien**."

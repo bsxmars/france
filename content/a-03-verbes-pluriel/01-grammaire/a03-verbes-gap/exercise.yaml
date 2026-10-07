@@ -1,0 +1,40 @@
+title: "Глаголы I группы: il, ils, повелительное"
+type: gap
+intro: "Поставь глагол из скобок в нужную форму: 3-е лицо ед. или мн. ч. настоящего времени или повелительное наклонение."
+hints:
+  - "il / elle → -e; ils / elles → -ent (не читается)."
+  - "Повелительное: ты → -e, вы → -ez. Подлежащего нет."
+items:
+  - q: "Léa ___ (chercher) sa tasse."
+    answers: ["cherche"]
+    explain: "*Léa* = *elle*, 3-е лицо ед. ч. → окончание **-e**: *cherche*."
+  - q: "Paul et Hugo ___ (marcher) avec Anna."
+    answers: ["marchent"]
+    explain: "Два человека = *ils* → 3-е лицо мн. ч. **-ent**: *marchent* [marʃ]."
+  - q: "Les élèves ___ (répéter) les mots."
+    answers: ["répètent"]
+    explain: "*Les élèves* = *ils / elles* → *-ent*; перед немым окончанием *é* в основе меняется на *è*: **répètent**."
+  - q: "Elle ___ (préparer) le café."
+    answers: ["prépare"]
+    explain: "3-е лицо ед. ч. → **prépare**."
+  - q: "Elles ___ (aimer) la salle."
+    answers: ["aiment"]
+    explain: "3-е лицо мн. ч. → **aiment**; звучит [ɛl-zɛm] — со связыванием."
+  - q: "Ma mère ___ (rester) chez Anna."
+    answers: ["reste"]
+    explain: "*Ma mère* = *elle* → **reste**."
+  - q: "Les femmes ___ (traverser) la place."
+    answers: ["traversent"]
+    explain: "*Les femmes* = *elles* → **traversent**."
+  - q: "Paul, ___ (fermer) la porte ! — Поль, закрой дверь!"
+    answers: ["ferme"]
+    explain: "Повелительное, обращение на «ты» → основа + **-e**: *ferme* (без -s)."
+  - q: "Anna et Léa, ___ (parler) avec Hugo ! — Анна и Лея, поговорите с Хьюго!"
+    answers: ["parlez"]
+    explain: "Обращение к двум людям → **-ez**: *parlez* [par-le]."
+  - q: "Madame, ___ (répéter) le mot, s'il vous plaît. — Мадам, повторите слово, пожалуйста."
+    answers: ["répétez"]
+    explain: "Вежливое «вы» → **répétez**. Окончание *-ez* звучит, поэтому *é* в основе сохраняется."
+  - q: "Les amis de Léa ___ (chercher) la gare."
+    answers: ["cherchent"]
+    explain: "Подлежащее — *les amis* (мн. ч.) → **cherchent**. *de Léa* лишь уточняет, чьи друзья."

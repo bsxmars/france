@@ -1,0 +1,23 @@
+title: "Глава. Субъюнктив"
+level: c1
+book: book-grammar
+summary: "Уверенно образуешь présent и passé du subjonctif, включая глаголы с двумя основами и «ловушки» орфографии (que nous étudiions, que vous croyiez); выбираешь наклонение в дополнительном, относительном и обстоятельственном придаточном, различаешь глаголы с двойным управлением наклонением (dire, comprendre, admettre, supposer), ставишь ne explétif, где его требует soutenu; понимаешь subjonctif в независимом предложении (Qu'il entre ! Vive la République ! Plaise au ciel…) и узнаёшь imparfait и plus-que-parfait du subjonctif в литературном тексте (qu'il vînt, qu'il eût compris, eût-il su…)."
+topics:
+  - "Présent и passé du subjonctif: образование, неправильные глаголы, орфографические тонкости"
+  - "Subjonctif в дополнительном придаточном: воля, чувство, сомнение, оценка; глаголы с двумя наклонениями; ne explétif"
+  - "Subjonctif в относительном придаточном: превосходная степень, le seul, отрицание и вопрос, цель"
+  - "Subjonctif в обстоятельственных придаточных: время, цель, отрицаемая причина, уступка, условие, следствие, sans que"
+  - "Subjonctif в независимом предложении: приказ третьему лицу, пожелание, застывшие формулы"
+  - "Imparfait и plus-que-parfait du subjonctif: узнавание, согласование времён в soutenu, сводная таблица"
+sources:
+  - {title: "Tex's French Grammar — Regular subjunctive", url: "https://www.laits.utexas.edu/tex/gr/tas1.html"}
+  - {title: "Tex's French Grammar — Irregular subjunctive", url: "https://www.laits.utexas.edu/tex/gr/tas2.html"}
+  - {title: "Tex's French Grammar — Subjunctive usage: doubt", url: "https://www.laits.utexas.edu/tex/gr/tas3b.html"}
+  - {title: "Tex's French Grammar — Subjunctive usage: will, emotion, desire", url: "https://www.laits.utexas.edu/tex/gr/tas4.html"}
+  - {title: "Tex's French Grammar — Conjunctions that take the subjunctive", url: "https://www.laits.utexas.edu/tex/gr/tas5.html"}
+  - {title: "Tex's French Grammar — Past subjunctive", url: "https://www.laits.utexas.edu/tex/gr/tas6.html"}
+  - {title: "Tex's French Grammar — Subjunctive summary", url: "https://www.laits.utexas.edu/tex/gr/tas7.html"}
+  - {title: "Tex's French Grammar — Ways to avoid the subjunctive", url: "https://www.laits.utexas.edu/tex/gr/tas8.html"}
+  - {title: "Le Point du FLE — Subjonctif", url: "https://www.lepointdufle.net/p/subjonctif.htm"}
+  - {title: "Le Point du FLE — Indicatif ou subjonctif ?", url: "https://www.lepointdufle.net/ressources_fle/subjonctif_indicatif.htm"}
+  - {title: "Le Point du FLE — Relations logiques", url: "https://www.lepointdufle.net/p/relationslogiques.htm"}

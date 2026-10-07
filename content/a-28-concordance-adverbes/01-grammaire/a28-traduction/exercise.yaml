@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Помни: после главного глагола в прошлом время придаточного сдвигается. Пунктуация не важна, акценты — важны."
+hints:
+  - "«Сказал, что придёт» = il a dit qu'il viendrait."
+  - "«Думал, что он уже ушёл» = je pensais qu'il était déjà parti."
+items:
+  - q: "Он сказал, что болеет."
+    answers: ["Il a dit qu'il était malade.", "Il disait qu'il était malade."]
+    explain: "Главный глагол в прошлом, болеет **в тот же момент** → imparfait: *qu'il **était** malade*."
+  - q: "Я думал, что ты придёшь."
+    answers: ["Je pensais que tu viendrais.", "J'ai pensé que tu viendrais.", "Je croyais que tu viendrais."]
+    explain: "«Придёшь» — позже, чем «думал» → futur dans le passé: **viendrais**."
+  - q: "Она знала, что мы уже уехали."
+    answers: ["Elle savait que nous étions déjà partis.", "Elle savait que nous étions déjà parties.", "Elle savait qu'on était déjà partis."]
+    explain: "Уехали **раньше** → plus-que-parfait: *nous **étions** déjà **partis***; причастие согласуется с подлежащим."
+  - q: "Мы не знали, где он живёт."
+    answers: ["Nous ne savions pas où il habitait.", "On ne savait pas où il habitait.", "Nous ne savions pas où il vivait.", "On ne savait pas où il vivait."]
+    explain: "Косвенный вопрос, одновременность → imparfait: *où il **habitait***. По-русски «живёт» — настоящее время, по-французски — сдвиг."
+  - q: "Учитель объяснил, что экзамен будет трудным."
+    answers: ["Le professeur a expliqué que l'examen serait difficile.", "Le professeur expliqua que l'examen serait difficile."]
+    explain: "Экзамен в будущем относительно объяснения → **serait**."
+  - q: "Он спросил меня, видела ли я этот фильм."
+    answers: ["Il m'a demandé si j'avais vu ce film.", "Il m'a demandé si j'avais déjà vu ce film."]
+    explain: "Косвенный вопрос через *si*, действие раньше вопроса → plus-que-parfait: *si j'**avais vu***."
+  - q: "Я надеялся, что погода будет хорошей."
+    answers: ["J'espérais qu'il ferait beau.", "J'espérais que le temps serait beau.", "J'ai espéré qu'il ferait beau."]
+    explain: "*Espérer* + будущее, главный глагол в прошлом → futur dans le passé: *qu'il **ferait** beau*."
+  - q: "Они предупредили нас, что опоздают."
+    answers: ["Ils nous ont prévenus qu'ils seraient en retard.", "Elles nous ont prévenus qu'elles seraient en retard.", "Ils nous ont prévenues qu'ils seraient en retard.", "Ils nous ont prévenus qu'ils arriveraient en retard."]
+    explain: "Опоздание — позже → **seraient en retard**. *Nous* стоит перед *ont* → причастие согласуется: *prévenus*."
+  - q: "Анна сказала, что потеряла телефон."
+    answers: ["Anne a dit qu'elle avait perdu son téléphone.", "Anna a dit qu'elle avait perdu son téléphone."]
+    explain: "Потеряла **раньше**, чем сказала → plus-que-parfait: *qu'elle **avait perdu***."
+  - q: "Я знаю, что он вернётся завтра."
+    answers: ["Je sais qu'il reviendra demain.", "Je sais qu'il rentrera demain."]
+    explain: "Главный глагол в **présent** → сдвига нет, будущее — futur simple: **reviendra**."

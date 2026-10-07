@@ -1,0 +1,43 @@
+title: "Найди ошибку в относительном местоимении"
+type: error
+intro: "В каждом предложении **одна** ошибка: неверное местоимение, предлог, порядок слов после *dont* или лишнее притяжательное. Исправь и отправь предложение целиком."
+hints:
+  - "dont + подлежащее + глагол + дополнение с определённым артиклем."
+  - "После предлога и в составных предлогах — duquel / de laquelle / de qui, а не dont; parmi / entre + lesquels."
+items:
+  - q: "C'est un pianiste dont j'admire son jeu."
+    answers: ["C'est un pianiste dont j'admire le jeu."]
+    explain: "*Dont* уже указывает на владельца; притяжательное лишнее: *dont j'admire **le** jeu*."
+  - q: "Voilà la colline près dont nous avons campé."
+    answers: ["Voilà la colline près de laquelle nous avons campé."]
+    explain: "После составного предлога *près de* нужно **de laquelle**; *dont* после предлога не ставится."
+  - q: "Les chercheurs parmi qui elle travaille viennent de dix pays."
+    answers: ["Les chercheurs parmi lesquels elle travaille viennent de dix pays."]
+    explain: "После *parmi* — только **lesquels**, даже о людях."
+  - q: "Je me souviens du jour quand nous sommes arrivés à Lyon."
+    answers: ["Je me souviens du jour où nous sommes arrivés à Lyon."]
+    explain: "После существительного со значением времени — **où**, не *quand*."
+  - q: "Le stylo avec qui j'ai signé le contrat était un cadeau."
+    answers: ["Le stylo avec lequel j'ai signé le contrat était un cadeau."]
+    explain: "*Qui* после предлога — только о людях; предмет → **avec lequel**."
+  - q: "C'est exactement ce que j'avais besoin."
+    answers: ["C'est exactement ce dont j'avais besoin."]
+    explain: "*Avoir besoin **de*** → **ce dont**."
+  - q: "C'est la maison dont il a frappé à la porte."
+    answers: ["C'est la maison à la porte de laquelle il a frappé."]
+    explain: "*Frapper **à** la porte **de** la maison*: существительное в предложной группе → *dont* невозможно, нужно **à la porte de laquelle**."
+  - q: "Voici la proposition à laquelle je vous ai parlé hier."
+    answers: ["Voici la proposition dont je vous ai parlé hier.", "Voici la proposition de laquelle je vous ai parlé hier."]
+    explain: "*Parler **de** qch* → **dont** (или *de laquelle*), а не *à laquelle*."
+  - q: "Les problèmes auquels nous sommes confrontés sont nombreux."
+    answers: ["Les problèmes auxquels nous sommes confrontés sont nombreux."]
+    explain: "*À + lesquels* = **auxquels** (как *aux*)."
+  - q: "Il a publié dix articles, dont trois d'entre eux ont été traduits."
+    answers: ["Il a publié dix articles, dont trois ont été traduits."]
+    explain: "*Dont* уже значит «из которых»; *d'entre eux* дублирует его: **dont trois ont été traduits**."
+  - q: "Ce à quoi je me souviens le mieux, c'est l'odeur de la mer."
+    answers: ["Ce dont je me souviens le mieux, c'est l'odeur de la mer."]
+    explain: "*Se souvenir **de*** → **ce dont**; *ce à quoi* соответствовало бы *penser à*."
+  - q: "C'est un vieil ami à qui je pense souvent à lui."
+    answers: ["C'est un vieil ami à qui je pense souvent."]
+    explain: "*À qui* уже выражает дополнение *penser à qn*; *à lui* повторяет его — калька разговорного русского «о котором я о нём думаю»."

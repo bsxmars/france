@@ -1,0 +1,55 @@
+title: "Вводящий глагол, время, несобственно-прямая речь"
+type: choice
+intro: "Все варианты грамматичны, но верен один — по смыслу, по норме согласования или по типу речи."
+hints:
+  - "prétendre — говорящий сомневается; avouer, reconnaître — признать неприятное; rétorquer, objecter — возразить."
+  - "Discours indirect libre: нет вводящего глагола и que, времена сдвинуты, вопросы и восклицания сохранены."
+items:
+  - q: "Le suspect ___ qu'il était chez lui ce soir-là, mais personne ne le croit."
+    options: ["a avoué", "prétend", "a reconnu"]
+    answer: 1
+    explain: "*Personne ne le croit* — говорящий сомневается в словах: **prétend** («якобы»). *Avouer, reconnaître* — признать свою вину, противоположный смысл."
+  - q: "Après une longue hésitation, Lucas ___ qu'il avait cassé le vase."
+    options: ["a prétendu", "a rétorqué", "a avoué"]
+    answer: 2
+    explain: "Признать неприятный для себя факт → **avouer**."
+  - q: "« C'est trop cher ! » — « Pas du tout », ___ le vendeur, « c'est le prix du marché. »"
+    options: ["rétorqua", "avoua", "supplia"]
+    answer: 0
+    explain: "Резкий ответ-возражение на реплику собеседника → **rétorquer**."
+  - q: "Elle m'a dit hier qu'elle ___ à Bordeaux depuis dix ans, et elle y vit toujours."
+    options: ["habite", "habiterait", "aurait habité"]
+    answer: 0
+    explain: "Факт, верный и сейчас (*elle y vit toujours*), может сохранить présent: **habite**. *Habitait* тоже было бы верно, но среди вариантов его нет; conditionnel исказил бы смысл."
+  - q: "Ils m'ont annoncé qu'ils ___ leur maison avant l'été."
+    options: ["vendront", "vendraient", "vendaient"]
+    answer: 1
+    explain: "Будущее относительно момента в прошлом → conditionnel **vendraient**."
+  - q: "Elle m'a demandé de ___ ."
+    options: ["ne rien oublier", "n'oublier rien", "ne pas rien oublier"]
+    answer: 0
+    explain: "*Ne rien* ставится целиком перед инфинитивом: **ne rien oublier**."
+  - q: "Paul raccrocha. Elle ne viendrait pas. Encore une fois ! — какой тип речи?"
+    options: ["косвенная речь с вводящим глаголом", "несобственно-прямая речь (discours indirect libre)", "прямая речь"]
+    answer: 1
+    explain: "Нет *il pensa que* и кавычек, время сдвинуто (*viendrait* — будущее в прошедшем), восклицание сохранено → **discours indirect libre**."
+  - q: "Dans « Il relut la lettre. Comment lui pardonner, maintenant ? », le mot maintenant…"
+    options: ["ошибка: надо было alors", "передаёт точку зрения героя (DIL сохраняет указатели)", "показывает прямую речь в кавычках"]
+    answer: 1
+    explain: "В несобственно-прямой речи указатели *maintenant, demain, ici* часто остаются: мы видим ситуацию глазами героя."
+  - q: "« Elle partirait le lendemain ; rien ne la retiendrait. » Conditionnel здесь выражает…"
+    options: ["предположение («она, возможно, уедет»)", "будущее в прошедшем (мысль героини)", "вежливую просьбу"]
+    answer: 1
+    explain: "В DIL conditionnel — сдвинутый futur из мысли «Je partirai demain» → **будущее в прошедшем**."
+  - q: "Le chef nous a ___ de quitter le bâtiment sans attendre."
+    options: ["ordonné", "prétendu", "avoué"]
+    answer: 0
+    explain: "Приказ → *ordonner à qn **de** + inf.* *Prétendre de* и *avouer de* в таком значении не употребляются."
+  - q: "Il m'a promis ___ ."
+    options: ["qu'il m'aide", "de m'aider", "à m'aider"]
+    answer: 1
+    explain: "*Promettre **de** + inf.* (или *que* + conditionnel: *qu'il m'aiderait*). *Qu'il m'aide* — неверное время, *à* — неверный предлог."
+  - q: "L'avocat a ___ que son client n'avait jamais quitté le pays."
+    options: ["soutenu", "supplié", "ordonné"]
+    answer: 0
+    explain: "Утверждать с настойчивостью → **soutenir que**. *Supplier, ordonner* требуют *de* + инфинитив."

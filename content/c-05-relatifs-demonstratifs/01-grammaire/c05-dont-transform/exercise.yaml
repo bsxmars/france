@@ -1,0 +1,67 @@
+title: "Соедини предложения с помощью dont, où, ce dont, ce à quoi"
+type: transform
+intro: "Объедини два предложения в одно с местоимением из ключа. Впиши недостающую часть — придаточное целиком, начиная с местоимения."
+hints:
+  - "После dont — обычный порядок слов: dont + подлежащее + глагол + дополнение с определённым артиклем."
+  - "Не повторяй притяжательное: ~~dont j'ai perdu sa clé~~ → dont j'ai perdu la clé."
+items:
+  - q: "J'ai acheté un roman. J'ai déjà oublié la fin de ce roman."
+    key: "dont"
+    stem: "J'ai acheté un roman ___."
+    answers: ["dont j'ai déjà oublié la fin"]
+    explain: "*La fin **du** roman* → **dont**; после него обычный порядок: *dont j'ai déjà oublié **la** fin*."
+  - q: "Voici le collègue. Je t'ai parlé de ce collègue."
+    key: "dont"
+    stem: "Voici le collègue ___."
+    answers: ["dont je t'ai parlé"]
+    explain: "*Parler **de** qn* → **dont**."
+  - q: "C'est une maison ancienne. Les murs de cette maison sont fissurés."
+    key: "dont"
+    stem: "C'est une maison ancienne ___."
+    answers: ["dont les murs sont fissurés"]
+    explain: "*Les murs **de** la maison* — дополнение существительного-подлежащего → **dont les murs sont fissurés**."
+  - q: "Il a obtenu un diplôme. Il est très fier de ce diplôme."
+    key: "dont"
+    stem: "Il a obtenu un diplôme ___."
+    answers: ["dont il est très fier"]
+    explain: "*Être fier **de*** → **dont**."
+  - q: "J'ai rencontré une chercheuse. Tout le monde cite les travaux de cette chercheuse."
+    key: "dont"
+    stem: "J'ai rencontré une chercheuse ___."
+    answers: ["dont tout le monde cite les travaux"]
+    explain: "*Les travaux **de** la chercheuse* — прямое дополнение → *dont* + подлежащее + глагол + **les travaux** в конце."
+  - q: "Le jury a examiné quarante dossiers. Cinq de ces dossiers ont été retenus."
+    key: "dont"
+    stem: "Le jury a examiné quarante dossiers, ___."
+    answers: ["dont cinq ont été retenus"]
+    explain: "Часть множества с числительным → **dont cinq** ont été retenus."
+  - q: "Je me souviens de cette époque. À cette époque, on écrivait encore des lettres."
+    key: "où"
+    stem: "Je me souviens de cette époque ___."
+    answers: ["où on écrivait encore des lettres", "où l'on écrivait encore des lettres"]
+    explain: "Время после существительного *l'époque* → **où**; в письменной речи возможно *où l'on*."
+  - q: "Il a besoin de certaines choses. Je ne sais pas ce que c'est."
+    key: "ce dont"
+    stem: "Je ne sais pas ___."
+    answers: ["ce dont il a besoin"]
+    explain: "*Avoir besoin **de*** + «то» → **ce dont il a besoin**."
+  - q: "Tu t'intéresses à quelque chose. Explique-moi."
+    key: "ce à quoi"
+    stem: "Explique-moi ___."
+    answers: ["ce à quoi tu t'intéresses"]
+    explain: "*S'intéresser **à*** + нейтральное «то» → **ce à quoi tu t'intéresses**."
+  - q: "Elle a démissionné. Cela a surpris toute l'équipe."
+    key: "ce qui"
+    stem: "Elle a démissionné, ___."
+    answers: ["ce qui a surpris toute l'équipe"]
+    explain: "*Ce* подхватывает всю предыдущую мысль и служит подлежащим → **ce qui a surpris**."
+  - q: "Nous avons visité un village. Ma grand-mère vient de ce village."
+    key: "d'où"
+    stem: "Nous avons visité le village ___."
+    answers: ["d'où vient ma grand-mère", "d'où ma grand-mère vient"]
+    explain: "*Venir **de** + место* → **d'où**; после *où* возможна инверсия: *d'où vient ma grand-mère*."
+  - q: "Ils n'ont pas assez d'argent. Ils ne peuvent pas payer le loyer."
+    key: "de quoi"
+    stem: "Ils n'ont pas ___."
+    answers: ["de quoi payer le loyer"]
+    explain: "Модель *ne pas avoir **de quoi** + инфинитив* — «не на что»."

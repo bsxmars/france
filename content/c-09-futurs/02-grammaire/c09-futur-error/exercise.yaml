@@ -1,0 +1,37 @@
+title: "Ошибка во времени будущего"
+type: error
+intro: "В каждом предложении одна ошибка: неверная форма futur, futur после si, futur immédiat там, где он невозможен, или неверное место местоимения. Перепиши предложение правильно."
+hints:
+  - "si условное + présent; quand / dès que + futur."
+  - "aller + местоимение + инфинитив: je vais le lui dire."
+items:
+  - q: "Si tu viendras demain, nous pourrons en parler."
+    answers: ["Si tu viens demain, nous pourrons en parler."]
+    explain: "После условного *si* — **présent**: *si tu viens*."
+  - q: "Quand je vais avoir mon diplôme, je chercherai du travail à l'étranger."
+    answers: ["Quand j'aurai mon diplôme, je chercherai du travail à l'étranger.", "Quand j'aurai eu mon diplôme, je chercherai du travail à l'étranger."]
+    explain: "После *quand* futur immédiat не употребляется: *quand j'**aurai** mon diplôme* (или futur antérieur)."
+  - q: "Je vous envoierai la facture par courrier."
+    answers: ["Je vous enverrai la facture par courrier."]
+    explain: "Неправильная основа: *envoyer → **j'enverrai***."
+  - q: "Je lui vais expliquer la situation demain matin."
+    answers: ["Je vais lui expliquer la situation demain matin."]
+    explain: "Местоимение стоит перед **инфинитивом**: *je vais **lui** expliquer*."
+  - q: "Ne t'inquiète pas, je t'apelerai ce soir."
+    answers: ["Ne t'inquiète pas, je t'appellerai ce soir."]
+    explain: "*Appeler*: два *p* в основе и два *l* перед немым *e*: **appellerai**."
+  - q: "Il pourra pas venir à la réunion de lundi."
+    answers: ["Il ne pourra pas venir à la réunion de lundi."]
+    explain: "В письменной норме *ne* обязателен: *il **ne** pourra pas*."
+  - q: "Dès qu'il arrive à Marseille, il nous téléphonera."
+    answers: ["Dès qu'il arrivera à Marseille, il nous téléphonera.", "Dès qu'il sera arrivé à Marseille, il nous téléphonera."]
+    explain: "После *dès que* с будущим смыслом — futur (или futur antérieur): *dès qu'il **arrivera** / **sera arrivé***."
+  - q: "Nous continurons les travaux après les vacances."
+    answers: ["Nous continuerons les travaux après les vacances."]
+    explain: "Немое *e* пишется: *continu**e**rons*."
+  - q: "S'il fait beau, je vais aller à la plage, et si demain il pleuvra, je resterai à la maison."
+    answers: ["S'il fait beau, je vais aller à la plage, et si demain il pleut, je resterai à la maison."]
+    explain: "Вторая часть: после *si* — présent: *s'il **pleut***. Futur immédiat в главной при *si* допустим."
+  - q: "Si je ne dors pas assez cette nuit, je mourirai de fatigue demain."
+    answers: ["Si je ne dors pas assez cette nuit, je mourrai de fatigue demain."]
+    explain: "*Mourir* → основа *mourr-*: **je mourrai**."

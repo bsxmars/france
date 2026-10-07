@@ -1,0 +1,44 @@
+title: "Множественное число и connaître"
+type: gap
+intro: "Поставь слово в скобках во множественное число (согласуй прилагательное с существительным) или впиши нужную форму глагола *connaître* в настоящем времени."
+hints:
+  - "-eau → -eaux, -eu → -eux, -al → -aux; travail → travaux."
+  - "Прилагательное: -aux — только м. р.; ж. р. — -ales."
+  - "je connais, il connaît, nous connaissons, ils connaissent."
+items:
+  - q: "Dans le port, il y a beaucoup de ___. (bateau)"
+    answers: ["bateaux"]
+    explain: "*-eau* → **-eaux**: *des bateaux*."
+  - q: "Ma grand-mère prépare de bons ___. (gâteau)"
+    answers: ["gâteaux"]
+    explain: "*un gâteau* → **des gâteaux**, с немым *-x*."
+  - q: "Les enfants aiment les ___ vidéo. (jeu)"
+    answers: ["jeux"]
+    explain: "*-eu* → **-eux**: *les jeux*."
+  - q: "Mon père lit deux ___ chaque matin. (journal)"
+    answers: ["journaux"]
+    explain: "*-al* → **-aux**: *deux journaux*."
+  - q: "Au zoo, nous avons vu des ___ d'Afrique. (animal)"
+    answers: ["animaux"]
+    explain: "*un animal* → **des animaux** [animo]."
+  - q: "Dans notre rue, il y a des ___ depuis un mois. (travail)"
+    answers: ["travaux"]
+    explain: "*travail* — особый случай: **travaux** («ремонтные работы»)."
+  - q: "Cet été, nous sommes allés à trois ___ de musique. (festival)"
+    answers: ["festivals"]
+    explain: "*festival* — исключение из правила *-al → -aux*: **festivals**."
+  - q: "Ce sont les problèmes ___ de la ville. (principal)"
+    answers: ["principaux"]
+    explain: "*problème* — м. р. → прилагательное на **-aux**: *principaux*."
+  - q: "Les langues ___ de la Suisse sont le français, l'allemand, l'italien et le romanche. (national)"
+    answers: ["nationales"]
+    explain: "*langue* — ж. р. → **nationales**; *-aux* бывает только в мужском роде."
+  - q: "Dans ce quartier, il y a de ___ immeubles. (nouveau)"
+    answers: ["nouveaux"]
+    explain: "*immeuble* — м. р. → **nouveaux** (а не *nouvels*: форма *nouvel* — только в ед. ч.)."
+  - q: "Vous ___ cette chanson ? (connaître)"
+    answers: ["connaissez"]
+    explain: "Во множественном числе у *connaître* появляется **-ss-**: *vous connaissez*."
+  - q: "Elle ___ très bien la ville. (connaître)"
+    answers: ["connaît", "connait"]
+    explain: "3-е лицо ед. ч.: **connaît** — циркумфлекс над *i* перед *t* (по орфографии 1990 — *connait*)."

@@ -1,0 +1,147 @@
+title: "Révision B: уроки 17–22"
+type: choice
+intro: |
+  27 вопросов по урокам 17–22. Выбери один вариант. **Не знаешь — пропусти**, не угадывай: так результат по урокам будет честным.
+pass: 1
+items:
+  # Урок 17
+  - q: "___ fait ce bruit ?"
+    options: ["Qu'est-ce que", "Qu'est-ce qui", "Que"]
+    answer: 1
+    topic: "a-17-question-nombres"
+    explain: "«Что» — подлежащее: шумит само, сразу за ним глагол → ***qu'est-ce qui***. *Qu'est-ce que* и *que* спрашивают о прямом дополнении."
+  - q: "___ arrive ce soir ? — Marie et Paul."
+    options: ["Qui", "Que", "Qu'est-ce que"]
+    answer: 0
+    topic: "a-17-question-nombres"
+    explain: "Вопрос о человеке-подлежащем → ***qui***, глагол в 3-м лице единственного числа, даже если ответ — двое."
+  - q: "Il y a ___ (80) pages dans ce livre."
+    options: ["quatre-vingt", "quatre-vingts", "huit-dix"]
+    answer: 1
+    topic: "a-17-question-nombres"
+    explain: "80 = 4 × 20 → *quatre-vingts*. Когда за *vingt* ничего не следует, оно получает **-s**; в *quatre-vingt-deux* — уже без *-s*."
+  - q: "Il ___ à la question du professeur."
+    options: ["répondt", "répont", "répond"]
+    answer: 2
+    topic: "a-17-question-nombres"
+    explain: "У глаголов на *-endre, -ondre* в 3-м лице единственного числа окончания нет, остаётся *-d* основы: *il **répond***, *il attend*."
+  # Урок 18
+  - q: "Le train ___ partir : nous sommes en retard."
+    options: ["va", "vient de", "vient"]
+    answer: 1
+    topic: "a-18-futur-pronoms"
+    explain: "Мы опоздали — поезд **только что** ушёл → passé immédiat: ***venir de** + инфинитив*. *Va partir* — «сейчас уйдёт», а *vient partir* без *de* — ошибка."
+  - q: "Tu téléphones à Marie ? — Oui, je ___ téléphone ce soir."
+    options: ["la", "leur", "lui"]
+    answer: 2
+    topic: "a-18-futur-pronoms"
+    explain: "*Téléphoner **à** qn* — косвенное дополнение, один человек → **lui**. *La* — прямое дополнение, *leur* — «им»."
+  - q: "J'achète un kilo ___ pommes."
+    options: ["des", "de", "de les"]
+    answer: 1
+    topic: "a-18-futur-pronoms"
+    explain: "После существительных количества (*un kilo, une bouteille, un peu*) — **de** без артикля: *un kilo de pommes*."
+  - q: "Nous ___ le travail à six heures. (finir)"
+    options: ["finissons", "finons", "finissez"]
+    answer: 0
+    topic: "a-18-futur-pronoms"
+    explain: "*Finir* — II группа: во множественном числе появляется *-iss-*: *nous **finissons***. *Finissez* — форма *vous*."
+  - q: "Tu aides ton frère ? — Oui, je ___ aide."
+    options: ["l'", "lui", "leur"]
+    answer: 0
+    topic: "a-18-futur-pronoms"
+    explain: "*Aider qn* — без предлога, это прямое дополнение (хотя по-русски «помогаю **ему**») → *le*, перед гласной **l'**: *je l'aide*."
+  # Урок 19
+  - q: "Je dois ___ lever tôt demain."
+    options: ["se", "me", "te"]
+    answer: 1
+    topic: "a-19-pronominaux"
+    explain: "Возвратное местоимение при инфинитиве согласуется с подлежащим: *je dois **me** lever*. *Se* — только для 3-го лица и для словарной формы."
+  - q: "Nous ___ le dîner à sept heures. (commencer)"
+    options: ["commençons", "commencons", "commenceons"]
+    answer: 0
+    topic: "a-19-pronominaux"
+    explain: "У глаголов на *-cer* перед *-o-* пишется **ç**, чтобы сохранить звук [s]: *nous **commençons***."
+  - q: "Ne ___ pas, nous avons le temps ! (se dépêcher)"
+    options: ["dépêche-toi", "te dépêche", "te dépêches"]
+    answer: 1
+    topic: "a-19-pronominaux"
+    explain: "В **отрицательном** приказе местоимение стоит перед глаголом, а глагол I группы — без *-s*: ***Ne te dépêche pas !*** Форма *dépêche-toi* — только в утвердительном приказе."
+  - q: "Ils ___ le français à l'école. (apprendre)"
+    options: ["apprenent", "apprendent", "apprennent"]
+    answer: 2
+    topic: "a-19-pronominaux"
+    explain: "У глаголов типа *prendre* в 3-м лице множественного числа — **два n**: *ils prennent, ils **apprennent***."
+  # Урок 20
+  - q: "Hier, Marie ___ au cinéma."
+    options: ["a allé", "est allée", "est allé"]
+    answer: 1
+    topic: "a-20-passe-compose"
+    explain: "*Aller* спрягается с **être**, а причастие с *être* согласуется с подлежащим: Marie — женщина → *elle **est allée***."
+  - q: "Nous ___ une lettre à nos parents. (écrire, passé composé)"
+    options: ["avons écrit", "sommes écrits", "avons écrivé"]
+    answer: 0
+    topic: "a-20-passe-compose"
+    explain: "*Écrire* — с *avoir*, причастие особое: ***écrit***. Формы *écrivé* нет."
+  - q: "Как сказать «Он уже прочитал письмо»?"
+    options: ["Il a lu déjà la lettre.", "Il a déjà lu la lettre.", "Il déjà a lu la lettre."]
+    answer: 1
+    topic: "a-20-passe-compose"
+    explain: "Короткие наречия (*déjà, bien, beaucoup, toujours*) в сложном времени стоят **между** вспомогательным глаголом и причастием: *Il a **déjà** lu.*"
+  - q: "Sur la table, il y a trois ___ . (journal)"
+    options: ["journals", "journales", "journaux"]
+    answer: 2
+    topic: "a-20-passe-compose"
+    explain: "Существительные на *-al* во множественном числе получают **-aux**: *un journal — des journaux*."
+  - q: "Je ___ bien cette ville."
+    options: ["connais", "sais", "connaît"]
+    answer: 0
+    topic: "a-20-passe-compose"
+    explain: "«Знать» место, человека, предмет → ***connaître***: *je connais*. *Savoir* — знать факт или уметь. *Connaît* — форма 3-го лица."
+  # Урок 21
+  - q: "Ce matin, elle ___ à six heures."
+    options: ["s'est levé", "s'a levée", "s'est levée"]
+    answer: 2
+    topic: "a-21-pronominaux-questions"
+    explain: "Любой местоименный глагол в passé composé — с **être**, причастие согласуется: *elle **s'est levée***."
+  - q: "___ penses-tu ? — À mes vacances."
+    options: ["De quoi", "À quoi", "Que"]
+    answer: 1
+    topic: "a-21-pronominaux-questions"
+    explain: "Глагол *penser **à*** → в вопросе о предмете тот же предлог: ***À quoi** penses-tu ?* *De quoi* — для глаголов с *de* (*parler de*)."
+  - q: "Nous habitons dans ___ maison. («в одном и том же доме»)"
+    options: ["la même", "même la", "la mêmes"]
+    answer: 0
+    topic: "a-21-pronominaux-questions"
+    explain: "*Même* «тот же» — прилагательное: стоит после артикля перед существительным и согласуется в числе → ***la même** maison*. *Même la* значило бы «даже»."
+  - q: "Je ___ à huit heures. (partir)"
+    options: ["parte", "pars", "part"]
+    answer: 1
+    topic: "a-21-pronominaux-questions"
+    explain: "У глаголов типа *partir* в единственном числе согласная основы выпадает: *je **pars**, tu pars, il part*."
+  # Урок 22
+  - q: "Quand nous habitions à Lyon, nous ___ au parc chaque dimanche."
+    options: ["sommes allés", "allions", "allons"]
+    answer: 1
+    topic: "a-22-imparfait"
+    explain: "Повторяющееся действие в прошлом (*chaque dimanche*, фон *quand nous habitions*) → imparfait: *nous **allions***."
+  - q: "Je lisais quand le téléphone ___ ."
+    options: ["a sonné", "sonnait", "sonne"]
+    answer: 0
+    topic: "a-22-imparfait"
+    explain: "*Je lisais* — фон, а звонок — однократное событие, которое его прервало → passé composé: *le téléphone **a sonné***."
+  - q: "Ces fleurs ? Je les ai ___ au marché."
+    options: ["acheté", "achetés", "achetées"]
+    answer: 2
+    topic: "a-22-imparfait"
+    explain: "Прямое дополнение *les* (= *ces fleurs*, ж. р., мн. ч.) стоит **перед** глаголом с *avoir* → причастие согласуется: *achet**ées***."
+  - q: "Tu sais qu'il est parti ? — Oui, je ___ sais."
+    options: ["en", "le", "y"]
+    answer: 1
+    topic: "a-22-imparfait"
+    explain: "Местоимение **le** «это» заменяет целую мысль: *je **le** sais*. Французский не опускает его, как русское «знаю»."
+  - q: "Je ne ___ pas venir demain. (pouvoir)"
+    options: ["peut", "peus", "peux"]
+    answer: 2
+    topic: "a-22-imparfait"
+    explain: "У *pouvoir* в 1-м и 2-м лице единственного числа окончание **-x**: *je **peux**, tu peux*, но *il peut*."

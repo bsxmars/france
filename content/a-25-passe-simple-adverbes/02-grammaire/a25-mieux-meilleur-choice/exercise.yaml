@@ -1,0 +1,47 @@
+title: "Больше, меньше, лучше, хуже: прилагательное или наречие?"
+type: choice
+intro: "Выбери слово. Сначала реши: оно относится к существительному (какой?) или к глаголу (как? сколько?)."
+hints:
+  - "О предмете: plus grand, plus petit, meilleur, plus mauvais."
+  - "О действии: plus, moins, mieux, plus mal."
+items:
+  - q: "Prends cette valise, elle est ___. (больше)"
+    options: ["plus", "plus grande", "mieux"]
+    answer: 1
+    explain: "«Чемодан больше» — какой чемодан → прилагательное: **plus grande** (согласуется с *valise*)."
+  - q: "Tu dois dormir ___, tu as l'air fatigué. (больше)"
+    options: ["plus", "plus grand", "le plus"]
+    answer: 0
+    explain: "«Спать больше» — сколько спать → наречие: **plus**."
+  - q: "Ce gâteau est ___ que celui d'hier. (лучше)"
+    options: ["mieux", "meilleur", "plus bon"]
+    answer: 1
+    explain: "«Торт лучше» — какой торт → прилагательное **meilleur**. *Plus bon* не говорят."
+  - q: "Après la pluie, on respire ___. (лучше)"
+    options: ["meilleur", "mieux", "plus bien"]
+    answer: 1
+    explain: "«Дышится лучше» — как дышим → наречие **mieux**."
+  - q: "Je me sens ___ qu'hier, j'ai mal à la tête. (хуже)"
+    options: ["plus mauvais", "plus mal", "moins mauvais"]
+    answer: 1
+    explain: "*Se sentir* — как себя чувствую → наречие: **plus mal**."
+  - q: "Le temps est encore ___ qu'hier. (хуже)"
+    options: ["plus mal", "plus mauvais", "moins bien"]
+    answer: 1
+    explain: "«Погода хуже» — какая погода → прилагательное: **plus mauvais** (или *pire*)."
+  - q: "Mange ___ de sucre, c'est mauvais pour les dents. (меньше)"
+    options: ["moins", "plus petit", "le moins"]
+    answer: 0
+    explain: "«Ешь меньше сахара» — количество при существительном: **moins de** sucre."
+  - q: "Notre appartement est ___ que le vôtre. (меньше)"
+    options: ["moins", "plus petit", "moins de"]
+    answer: 1
+    explain: "«Квартира меньше» — какая → прилагательное **plus petit**."
+  - q: "C'est cette histoire qui m'a intéressé ___. (больше всего)"
+    options: ["le plus", "la plus", "plus grand"]
+    answer: 0
+    explain: "Превосходная степень наречия *beaucoup*: **le plus**, артикль всегда *le*."
+  - q: "Sa deuxième chanson est ___ que la première. (лучше)"
+    options: ["mieux", "meilleure", "le mieux"]
+    answer: 1
+    explain: "«Песня лучше» — какая песня → прилагательное **meilleure** (ж. р., *chanson*)."

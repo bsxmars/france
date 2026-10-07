@@ -1,0 +1,136 @@
+- id: c05-dont-ordre
+  lesson: c-05-relatifs-demonstratifs/01-grammaire
+  q: "«Роман, конец которого я забыл» — как по-французски и почему?"
+  a: "*le roman **dont** j'ai oublié **la fin***: *dont* — в начале придаточного, затем обычный порядок; при существительном — определённый артикль, не *sa*."
+- id: c05-dont-nombre
+  lesson: c-05-relatifs-demonstratifs/01-grammaire
+  q: "Как сказать «двадцать участников, из них пять женщин»?"
+  a: "*vingt participants, **dont** cinq femmes* — *dont* выделяет часть множества, глагол не обязателен. Не *dont cinq d'entre eux*."
+- id: c05-ou-temps
+  lesson: c-05-relatifs-demonstratifs/01-grammaire
+  q: "«День, когда мы встретились»?"
+  a: "*le jour **où** nous nous sommes rencontrés* — после существительного со значением времени *où*, не *quand*."
+- id: c05-un-jour-que
+  lesson: c-05-relatifs-demonstratifs/01-grammaire
+  q: "Un soir qu'il rentrait tard — это ошибка?"
+  a: "Нет: литературный вариант после *un jour / un soir / une fois* (неопределённый артикль). Нейтрально — *un soir où*."
+- id: c05-d-ou
+  lesson: c-05-relatifs-demonstratifs/01-grammaire
+  q: "Два значения d'où?"
+  a: "1) «откуда»: *le pays **d'où** il vient*; 2) «отсюда (вывод)»: ***d'où** la nécessité de réformer*."
+- id: c05-ce-dont-ce-a-quoi
+  lesson: c-05-relatifs-demonstratifs/01-grammaire
+  q: "«То, что мне нужно» / «то, о чём я думаю» / «то, чего я ожидал»?"
+  a: "***ce dont** j'ai besoin* (de) / ***ce à quoi** je pense* (à) / ***ce à quoi** je m'attendais* (s'attendre à)."
+- id: c05-ce-qui-reste
+  lesson: c-05-relatifs-demonstratifs/01-grammaire
+  q: "Ce qui reste или ce qu'il reste? Ce qui faut или ce qu'il faut?"
+  a: "*Ce qui reste* и *ce qu'il reste* — оба верны (личный / безличный *rester*). С *falloir* — только ***ce qu'il faut***."
+- id: c05-de-quoi
+  lesson: c-05-relatifs-demonstratifs/01-grammaire
+  q: "«Им не на что жить», «есть чем гордиться»?"
+  a: "*Ils n'ont pas **de quoi** vivre.* — *Il y a **de quoi** être fier.* (*de quoi* + инфинитив)."
+- id: c05-apres-quoi
+  lesson: c-05-relatifs-demonstratifs/01-grammaire
+  q: "Когда в относительном придаточном нужен quoi?"
+  a: "После предлога, если антецедент — *ce, rien, quelque chose, voilà* или вся мысль: *ce à quoi, rien sur quoi, après quoi, voilà à quoi*."
+- id: c05-lequel-formes
+  lesson: c-05-relatifs-demonstratifs/02-grammaire
+  q: "Слитные формы lequel с à и de?"
+  a: "*auquel, auxquels, auxquelles* (но *à laquelle*); *duquel, desquels, desquelles* (но *de laquelle*)."
+- id: c05-prep-qui-lequel
+  lesson: c-05-relatifs-demonstratifs/02-grammaire
+  q: "Prep + qui или prep + lequel?"
+  a: "Лица — *prep + qui* (или *lequel*, официальнее): *l'ami **avec qui***. Предметы — только *lequel*: *le stylo **avec lequel***."
+- id: c05-parmi-lesquels
+  lesson: c-05-relatifs-demonstratifs/02-grammaire
+  q: "«Студенты, среди которых…»?"
+  a: "*les étudiants **parmi lesquels***: после *parmi* и *entre* — только *lesquels*, даже о людях."
+- id: c05-duquel-compose
+  lesson: c-05-relatifs-demonstratifs/02-grammaire
+  q: "«Парк, рядом с которым мы живём»?"
+  a: "*le parc **près duquel** nous habitons* — после составных предлогов с *de* (*près de, à côté de, à cause de, au milieu de*) — *duquel / de laquelle*, не *dont*."
+- id: c05-dont-preposition
+  lesson: c-05-relatifs-demonstratifs/02-grammaire
+  q: "«Дом, в дверь которого он постучал»?"
+  a: "*la maison **à la porte de laquelle** il a frappé*: существительное стоит после предлога → *dont* невозможно."
+- id: c05-lequel-sujet
+  lesson: c-05-relatifs-demonstratifs/02-grammaire
+  q: "Зачем lequel в роли подлежащего?"
+  a: "В высоком стиле — снять двусмысленность: *la sœur de Paul, **laquelle** vient de rentrer* — вернулась именно сестра."
+- id: c05-inversion-relative
+  lesson: c-05-relatifs-demonstratifs/02-grammaire
+  q: "Le livre que lit mon frère — правильно?"
+  a: "Да: после *que, où, dont* подлежащее-существительное может стоять после глагола. С местоимением — нет: только *qu'il lit*."
+- id: c05-ou-dans-lequel
+  lesson: c-05-relatifs-demonstratifs/02-grammaire
+  q: "Où или sous laquelle?"
+  a: "*Où* ≈ *dans lequel* (место вообще). Конкретный предлог (*sous, sur, derrière*) требует *lequel*: *la table **sous laquelle***."
+- id: c05-celui-complement
+  lesson: c-05-relatifs-demonstratifs/03-grammaire
+  q: "Что может идти после celui / celle / ceux / celles?"
+  a: "Только относительное придаточное (*celui qui / que / dont*) или дополнение с предлогом (*celui de Marc*). Не прилагательное: ~~celui rouge~~ → *le rouge*."
+- id: c05-celui-ci-la
+  lesson: c-05-relatifs-demonstratifs/03-grammaire
+  q: "Flaubert et Maupassant… celui-ci / celui-là — кто есть кто?"
+  a: "***celui-ci*** — названный последним (Мопассан), ***celui-là*** — названный первым (Флобер)."
+- id: c05-celui-ci-dernier
+  lesson: c-05-relatifs-demonstratifs/03-grammaire
+  q: "Как снять двусмысленность il в «Министр принял посла; тот извинился»?"
+  a: "*…l'ambassadeur ; **celui-ci** a présenté ses excuses* (= *ce dernier*). *Celui-là* так не используется."
+- id: c05-celui-qui-general
+  lesson: c-05-relatifs-demonstratifs/03-grammaire
+  q: "«Тот, кто…», «те, кто…»?"
+  a: "***Celui qui** ne risque rien… — **Ceux qui** le souhaitent peuvent partir.*"
+- id: c05-ce-cela
+  lesson: c-05-relatifs-demonstratifs/03-grammaire
+  q: "C'est intéressant, но ___ m'intéresse?"
+  a: "***Cela** (ça) m'intéresse*: *ce* — подлежащее только при *être* (и *devoir / pouvoir + être*: *ce doit être*)."
+- id: c05-ceci-cela
+  lesson: c-05-relatifs-demonstratifs/03-grammaire
+  q: "Ceci или cela?"
+  a: "*Ceci* — ближнее или **объявляет** следующее (*retenez ceci :*); *cela* — дальнее или **подхватывает** сказанное. В целом *cela* употребительнее."
+- id: c05-ca-idiomes
+  lesson: c-05-relatifs-demonstratifs/03-grammaire
+  q: "Ça y est, comme ci comme ça, qui ça ?"
+  a: "«Ну вот, готово»; «так себе»; «кто это?» (усиление вопроса). *Ça* — разговорная форма *cela*."
+- id: c05-cest-il-est
+  lesson: c-05-relatifs-demonstratifs/03-grammaire
+  q: "Il est médecin / C'est un médecin — правило?"
+  a: "*Il est* + существительное **без артикля** (профессия, национальность); *c'est* + артикль / определитель: *c'est **un** excellent médecin*."
+- id: c05-possessifs-forme
+  lesson: c-05-relatifs-demonstratifs/04-grammaire
+  q: "Le nôtre или le notre?"
+  a: "Местоимение — ***le nôtre, le vôtre*** (с *ô*, закрытое [o]); прилагательное — *notre, votre* без циркумфлекса."
+- id: c05-possessifs-contraction
+  lesson: c-05-relatifs-demonstratifs/04-grammaire
+  q: "«Я думаю о своём будущем, а ты — о своём»; «она занимается своими, а я — своими»?"
+  a: "*…et toi **au tien*** (à + le); *…et moi **des miens / des miennes*** (de + les)."
+- id: c05-les-siens
+  lesson: c-05-relatifs-demonstratifs/04-grammaire
+  q: "Les siens, y mettre du sien, faire des siennes?"
+  a: "«его близкие»; «пойти навстречу, постараться» (*que tu y mettes du tien*); «выкинуть очередной номер»."
+- id: c05-a-moi-le-mien
+  lesson: c-05-relatifs-demonstratifs/04-grammaire
+  q: "Ce livre est à moi / C'est le mien — разница?"
+  a: "*Est à moi* — принадлежность («мой, не чужой»); *c'est le mien* — выделение из нескольких («это — мой»). ~~C'est mien~~ — ошибка."
+- id: c05-qui-singulier
+  lesson: c-05-relatifs-demonstratifs/04-grammaire
+  q: "Qui sont venus? или Qui est venu?"
+  a: "***Qui est venu ?*** — с *qui*-подлежащим глагол всегда в 3-м л. ед. ч."
+- id: c05-qu-est-ce-qui
+  lesson: c-05-relatifs-demonstratifs/04-grammaire
+  q: "«Что случилось?», «Что тебя тревожит?»"
+  a: "***Qu'est-ce qui** se passe ? **Qu'est-ce qui** t'inquiète ?* — предмет-подлежащее → *qu'est-ce qui*, не *qu'est-ce que*."
+- id: c05-qui-inversion
+  lesson: c-05-relatifs-demonstratifs/04-grammaire
+  q: "«Кого ищет этот мальчик?» (без est-ce que)"
+  a: "***Qui ce garçon cherche-t-il ?*** — сложная инверсия; *Qui cherche ce garçon ?* = «Кто ищет мальчика?»"
+- id: c05-quoi-usages
+  lesson: c-05-relatifs-demonstratifs/04-grammaire
+  q: "Где вопросительное quoi вместо que?"
+  a: "После предлога (*à quoi, de quoi*), отдельно (*Quoi ?*), в конце вопроса (*tu fais quoi ?*), *quoi de neuf*, *à quoi bon*, перед инфинитивом (*quoi faire / que faire*)."
+- id: c05-lequel-interrogatif
+  lesson: c-05-relatifs-demonstratifs/04-grammaire
+  q: "«Какому из коллег вы сказали?», «Которую из двух вы помните?»"
+  a: "***Auquel** de vos collègues…* (à); ***De laquelle** vous souvenez-vous ?* (de, ж. р. — без слияния)."

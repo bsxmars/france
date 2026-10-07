@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу на французский целиком. Пунктуация не важна, акценты — важны."
+hints:
+  - "«Всё» — tout; «все» (люди) — tout le monde или tous."
+  - "«Скажи ему, чтобы…» — dis-lui de + инфинитив."
+items:
+  - q: "Всё ясно."
+    answers: ["Tout est clair."]
+    explain: "*Tout* — подлежащее, глагол в 3-м лице ед. ч.: **Tout est clair**."
+  - q: "Я всё понял."
+    answers: ["J'ai tout compris."]
+    explain: "*Tout* между вспомогательным глаголом и причастием: **j'ai tout compris**."
+  - q: "Скажите ему, что я его жду."
+    answers: ["Dites-lui que je l'attends.", "Dis-lui que je l'attends."]
+    explain: "**Dites-lui** (*vous*) / *dis-lui* (*tu*) + *que* — передаём сообщение. *Attendre qn* — без предлога: *je l'attends*."
+  - q: "Она говорит брату, чтобы он закрыл окно."
+    answers: ["Elle dit à son frère de fermer la fenêtre."]
+    explain: "*Dire à qn **de** faire qch*: **dit à son frère de fermer**."
+  - q: "Здесь запрещено курить."
+    answers: ["Il est interdit de fumer ici.", "Ici, il est interdit de fumer."]
+    explain: "**Il est interdit de** + инфинитив."
+  - q: "— Ты не голоден? — Да нет, голоден! (переведи ответ)"
+    answers: ["Si, j'ai faim !"]
+    explain: "Возражение на отрицательный вопрос → **si**. «Быть голодным» — *avoir faim*."
+  - q: "Он готов на всё."
+    answers: ["Il est prêt à tout."]
+    explain: "*Être prêt **à** qch* → **prêt à tout**."
+  - q: "Мы обо всём поговорили."
+    answers: ["Nous avons parlé de tout.", "On a parlé de tout."]
+    explain: "*Parler **de** qch* → *de tout*. С предлогом *tout* идёт после причастия."
+  - q: "Все пришли."
+    answers: ["Tout le monde est venu.", "Tous sont venus.", "Ils sont tous venus.", "Elles sont toutes venues."]
+    explain: "«Все» о людях — **tout le monde** (глагол в ед. ч.) или *tous*. *Tout est venu* означало бы «всё пришло»."
+  - q: "Разве вы не сказали ему правду?"
+    answers: ["Ne lui avez-vous pas dit la vérité ?", "Est-ce que vous ne lui avez pas dit la vérité ?", "Ne lui as-tu pas dit la vérité ?", "Est-ce que tu ne lui as pas dit la vérité ?"]
+    explain: "Инверсия с отрицанием: **ne lui avez-vous pas dit** — местоимение *lui* внутри *ne… pas*, причастие *dit* в конце."

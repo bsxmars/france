@@ -1,0 +1,40 @@
+title: "Найди ошибку в согласовании"
+type: error
+intro: "В каждом предложении **одна** ошибка в форме прилагательного (род, число, цвет, demi, nu, вторая форма м. р.). Исправь и отправь предложение целиком."
+hints:
+  - "Существительное в роли цвета (marron, orange, cerise) и составной цвет (bleu clair) — неизменяемы; rose, mauve — согласуются."
+  - "banals, fatals, finals, navals; demi-heure, mais une heure et demie; nu-pieds, mais pieds nus."
+items:
+  - q: "Elle a de magnifiques yeux bleus clairs."
+    answers: ["Elle a de magnifiques yeux bleu clair."]
+    explain: "Составное обозначение цвета не изменяется: *des yeux **bleu clair***."
+  - q: "Il a acheté des rideaux oranges pour le salon."
+    answers: ["Il a acheté des rideaux orange pour le salon."]
+    explain: "*Orange* — существительное (фрукт) в роли цвета → неизменяемо: *des rideaux **orange***."
+  - q: "Les fillettes avaient les joues rose de froid."
+    answers: ["Les fillettes avaient les joues roses de froid."]
+    explain: "*Rose* — исключение среди «цветов-существительных»: согласуется — *les joues **roses***."
+  - q: "Ces remarques sont un peu banaux."
+    answers: ["Ces remarques sont un peu banales."]
+    explain: "*Remarques* — ж. р.: ***banales***. В м. р. мн. ч. было бы *banals*, но не *banaux*."
+  - q: "Le train est parti avec une demie-heure de retard."
+    answers: ["Le train est parti avec une demi-heure de retard."]
+    explain: "*Demi* перед существительным не изменяется: *une **demi**-heure*."
+  - q: "Nous vous attendons à midi et demie."
+    answers: ["Nous vous attendons à midi et demi."]
+    explain: "*Midi* — м. р., после существительного *demi* согласуется только в роде: *midi et **demi***."
+  - q: "Les enfants couraient nus-pieds sur la plage."
+    answers: ["Les enfants couraient nu-pieds sur la plage.", "Les enfants couraient pieds nus sur la plage."]
+    explain: "*Nu* перед существительным с дефисом не изменяется: ***nu**-pieds* (или *pieds **nus***)."
+  - q: "La région compte plusieurs chantiers navaux."
+    answers: ["La région compte plusieurs chantiers navals."]
+    explain: "*Naval* — исключение: мн. ч. ***navals***."
+  - q: "Il portait une chemise et un pantalon blanches."
+    answers: ["Il portait une chemise et un pantalon blancs.", "Il portait un pantalon et une chemise blancs."]
+    explain: "Существительные разного рода → прилагательное в **м. р. мн. ч.**: ***blancs***."
+  - q: "Ils ont visité un vieux hôpital transformé en musée."
+    answers: ["Ils ont visité un vieil hôpital transformé en musée."]
+    explain: "*Hôpital* начинается с *h* немого → ***vieil*** *hôpital*."
+  - q: "Ce sont des peuples hébreus de l'Antiquité."
+    answers: ["Ce sont des peuples hébreux de l'Antiquité."]
+    explain: "*Hébreu* — исключение среди слов на *-eu*: мн. ч. ***hébreux*** (сравни *bleus*)."

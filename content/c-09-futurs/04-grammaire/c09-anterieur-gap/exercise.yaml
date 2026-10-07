@@ -1,0 +1,45 @@
+title: "Futur simple или futur antérieur"
+type: gap
+intro: "Поставь глаголы в скобках во futur simple, futur antérieur или futur antérieur dans le passé — по смыслу. Следи за вспомогательным глаголом и согласованием."
+hints:
+  - "Futur simple в придаточном тоже грамматичен, но futur antérieur точнее показывает, что действие завершится раньше."
+  - "Действие придаточного завершится раньше главного → futur antérieur."
+  - "Главный глагол в прошедшем → aurait / serait + причастие."
+  - "après que + indicatif."
+items:
+  - q: "Dès que vous ___ (recevoir) votre code, vous pourrez vous connecter."
+    answers: ["aurez reçu", "recevrez"]
+    explain: "Сначала получить код, потом подключиться → **futur antérieur**: *aurez reçu*. *Recevrez* тоже принимается, но не подчёркивает завершённость."
+  - q: "Quand les invités ___ (partir), nous rangerons le salon."
+    answers: ["seront partis", "partiront"]
+    explain: "*Partir* — с *être*; предшествование → *seront partis* (согласование с *les invités*). *Partiront* тоже грамматично."
+  - q: "Rappelle-moi une fois que tu ___ (parler) au directeur."
+    answers: ["auras parlé", "parleras"]
+    explain: "Главное — императив, действие придаточного раньше → *auras parlé*; *parleras* допустимо, но менее точно."
+  - q: "D'ici vendredi, j'___ (corriger) toutes les copies."
+    answers: ["aurai corrigé", "corrigerai"]
+    explain: "Завершённость к сроку в будущем → *aurai corrigé*; *corrigerai* — «буду проверять / проверю» без акцента на завершённости."
+  - q: "Après qu'elle ___ (se reposer), elle reprendra le travail."
+    answers: ["se sera reposée", "se reposera"]
+    explain: "*Après que* + indicatif; местоимённый глагол → *être*, согласование с *elle*: *se sera reposée*. *Se reposera* тоже встречается."
+  - q: "Quand tu ___ (venir) nous voir, nous irons au marché ensemble."
+    answers: ["viendras", "seras venu", "seras venue"]
+    explain: "Действия одновременны (придёшь — и пойдём) → **futur simple**; *seras venu(e)* тоже грамматично, если подчеркнуть, что визит уже состоится."
+  - q: "Il ne répond pas ? Il ___ (éteindre) son portable."
+    answers: ["aura éteint", "a éteint"]
+    explain: "Предположение о прошлом → futur antérieur: «он, наверное, выключил телефон». *A éteint* — уверенное утверждение, тоже верно грамматически."
+  - q: "Les clés ? Je les ___ (oublier) dans la voiture."
+    answers: ["aurai oubliées", "ai oubliées"]
+    explain: "Предположение; COD *les* (= *les clés*, ж. р. мн. ч.) перед *avoir* → *oubliées*. С passé composé (*ai oubliées*) — уверенность вместо догадки."
+  - q: "Il m'a assuré qu'il me rendrait l'argent dès qu'il ___ (vendre) sa moto."
+    answers: ["aurait vendu", "vendrait"]
+    explain: "Главный глагол в прошедшем → **futur antérieur dans le passé**: *aurait vendu*; *vendrait* (futur dans le passé) тоже грамматично."
+  - q: "Elle pensait qu'à son retour, ses enfants ___ (grandir) beaucoup."
+    answers: ["auraient grandi", "grandiraient"]
+    explain: "Будущее завершённое действие относительно прошлого → *auraient grandi*; *grandiraient* — без акцента на результате."
+  - q: "Demain à cette heure-ci, nous ___ (atterrir) à Montréal."
+    answers: ["aurons atterri", "atterrirons"]
+    explain: "Завершено к моменту в будущем → *aurons atterri* («уже приземлимся»); *atterrirons* значило бы «будем приземляться в этот момент»."
+  - q: "Je vous écrirai lorsque j'___ (prendre) une décision."
+    answers: ["aurai pris", "prendrai"]
+    explain: "Сначала решу, потом напишу → *aurai pris*; *prendrai* тоже грамматично."

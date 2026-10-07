@@ -1,0 +1,56 @@
+title: "Значение и согласование местоимённых глаголов"
+type: choice
+intro: "Выбери верный вариант: согласование причастия или нужный по смыслу глагол."
+hints:
+  - "Собственно местоимённые и пассивные — согласование с подлежащим."
+  - "se rendre compte → rendu неизменно; s'arroger + COD после → без согласования."
+  - "douter / se douter, apercevoir / s'apercevoir, attendre / s'attendre à — разный смысл."
+items:
+  - q: "Les prisonniers se sont ___ pendant la nuit."
+    options: ["évadés", "évadé", "évadées"]
+    answer: 0
+    explain: "*S'évader* — собственно местоимённый: согласование с подлежащим *les prisonniers* → **évadés**."
+  - q: "Elles se sont ___ de leur promesse."
+    options: ["souvenu", "souvenues", "souvenus"]
+    answer: 1
+    explain: "*Se souvenir* — согласование с подлежащим: **souvenues**."
+  - q: "Elle s'est ___ compte qu'elle avait oublié son passeport."
+    options: ["rendue", "rendu", "rendues"]
+    answer: 1
+    explain: "В *se rendre compte* причастие не согласуется: **rendu**."
+  - q: "Ils se sont ___ le droit de décider seuls."
+    options: ["arrogés", "arrogé", "arrogée"]
+    answer: 1
+    explain: "*S'arroger qch*: COD *le droit* после глагола → **arrogé** (единственное исключение среди собственно местоимённых)."
+  - q: "« Я так и думал, что ты опоздаешь » — Je ___ que tu serais en retard."
+    options: ["me doutais", "doutais", "m'attendais"]
+    answer: 0
+    explain: "«Догадываться» — **se douter que** + indicatif. *Douter* — «сомневаться»; *s'attendre à ce que* требовал бы subjonctif."
+  - q: "Il ___ de son erreur trop tard."
+    options: ["s'est aperçu", "a aperçu", "s'est aperçue"]
+    answer: 0
+    explain: "*S'apercevoir de* — «осознать, заметить» → **s'est aperçu** (согласование с *il*)."
+  - q: "Cette histoire ___ en Provence au XIXe siècle."
+    options: ["s'est passée", "s'est passé", "a passé"]
+    answer: 0
+    explain: "*Se passer* «происходить» → согласование с подлежащим *cette histoire*: **passée**."
+  - q: "Nous n'avons pas de voiture, mais nous ___ très bien."
+    options: ["nous en passons", "en passons", "nous passons"]
+    answer: 0
+    explain: "*Se passer de qch* «обходиться без» → *nous **nous en** passons*."
+  - q: "À notre approche, les oiseaux se sont ___ ."
+    options: ["envolés", "envolé", "envolées"]
+    answer: 0
+    explain: "*S'envoler* — собственно местоимённый: согласование с подлежащим *les oiseaux* (м. р. мн. ч.) → **envolés**."
+  - q: "Ces chaussures ___ très bien depuis la rentrée."
+    options: ["se vendent", "sont vendues par", "se vendent par"]
+    answer: 0
+    explain: "Местоимённый пассив без агента: **se vendent**."
+  - q: "Les enfants se sont ___ à rire en même temps."
+    options: ["mis", "mises", "mi"]
+    answer: 0
+    explain: "*Se mettre à* «начать» — согласование с подлежащим *les enfants* (м. р. мн. ч.): **mis**."
+  - q: "Elles ne se sont jamais ___ ."
+    options: ["entendues", "entendu", "entendue"]
+    answer: 0
+    explain: "*S'entendre* «ладить» (взаимное, *se* = COD «друг друга») → **entendues**."

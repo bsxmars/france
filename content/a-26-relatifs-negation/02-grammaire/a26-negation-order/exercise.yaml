@@ -1,0 +1,37 @@
+title: "Собери отрицательное предложение"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Следи за местом второй части отрицания. Точку ставить не нужно."
+hints:
+  - "rien, jamais, plus — перед причастием; personne, nulle part — после."
+  - "ne rien + инфинитив; ne … personne — после инфинитива."
+items:
+  - q: "«Я ничего не слышал»."
+    answers: ["Je n'ai rien entendu."]
+    explain: "**rien** — между *ai* и причастием *entendu*."
+  - q: "«Мы никого не встретили»."
+    answers: ["Nous n'avons rencontré personne."]
+    explain: "**personne** — после причастия *rencontré*."
+  - q: "«Никто не знает его адреса»."
+    answers: ["Personne ne connaît son adresse."]
+    explain: "*Personne* — подлежащее: **Personne ne** + глагол в 3-м лице ед. ч."
+  - q: "«Она больше никогда не вернулась»."
+    answers: ["Elle n'est plus jamais revenue."]
+    explain: "Порядок двух отрицаний: **plus jamais**, оба перед причастием."
+  - q: "«Он никогда ничего не забывает»."
+    answers: ["Il n'oublie jamais rien."]
+    explain: "Порядок: **jamais rien**, сразу после глагола в простом времени."
+  - q: "«Я решил ничего не говорить»."
+    answers: ["J'ai décidé de ne rien dire."]
+    explain: "Отрицаемый инфинитив: **ne rien** стоят вместе перед *dire*."
+  - q: "«Он не хочет никого видеть»."
+    answers: ["Il ne veut voir personne."]
+    explain: "**personne** — после инфинитива *voir*."
+  - q: "«У меня нет ни машины, ни велосипеда»."
+    answers: ["Je n'ai ni voiture ni vélo."]
+    explain: "*Ni … ni* без *pas* и без артикля: *je n'ai **ni** voiture **ni** vélo*."
+  - q: "«Мы нигде не были этим летом»."
+    answers: ["Nous ne sommes allés nulle part cet été.", "Cet été nous ne sommes allés nulle part."]
+    explain: "**nulle part** — после причастия *allés*."
+  - q: "«Ничто больше его не удивляет»."
+    answers: ["Rien ne l'étonne plus."]
+    explain: "*Rien* — подлежащее в начале; **plus** — после глагола: *Rien ne l'étonne plus*."

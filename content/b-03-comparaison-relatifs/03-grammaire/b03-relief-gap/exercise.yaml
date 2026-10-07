@@ -1,0 +1,43 @@
+title: "Рамка выделения"
+type: gap
+intro: "Вставь недостающий элемент рамки: qui, que (qu'), dont, ce qui, ce que (ce qu'), ce dont, ce à quoi или форму глагола."
+hints:
+  - "Предлог в рамке (à Paris, en 2010, de ce film) → que."
+  - "C'est moi qui suis, c'est toi qui as, ce sont eux qui ont."
+items:
+  - q: "C'est grâce à sa grand-mère ___ elle s'est intéressée au patrimoine."
+    answers: ["qu'"]
+    explain: "В рамке обстоятельство с предлогом (*grâce à sa grand-mère*) → **que**, перед *elle* — *qu'*."
+  - q: "C'est toi qui ___ eu l'idée de cette exposition ? (avoir)"
+    answers: ["as"]
+    explain: "Глагол после *c'est… qui* согласуется с выделенным *toi* → **as**."
+  - q: "Ce sont les jeunes ___ s'investissent le plus dans l'association."
+    answers: ["qui"]
+    explain: "Выделено подлежащее → **qui**."
+  - q: "___ m'étonne, c'est le prix des billets."
+    answers: ["Ce qui"]
+    explain: "*Étonner* — нужно подлежащее «то, что» → **Ce qui**."
+  - q: "C'est de cette époque ___ datent les plus beaux bâtiments de la ville."
+    answers: ["que"]
+    explain: "Предлог *de* в рамке → **que**; *dont* дало бы двойное *de*."
+  - q: "C'est ce patrimoine ___ nous sommes le plus fiers."
+    answers: ["dont"]
+    explain: "Предлога в рамке нет, а прилагательное требует *de* (*être fier **de***) → **dont**."
+  - q: "___ les visiteurs ne savent pas, c'est que ce château a failli disparaître."
+    answers: ["Ce que"]
+    explain: "*Savoir qch* — прямое дополнение → **Ce que**."
+  - q: "___ il faut faire attention, c'est à l'état de la toiture."
+    answers: ["Ce à quoi"]
+    explain: "*Faire attention **à*** → **Ce à quoi**; после *c'est* повторяется *à*."
+  - q: "C'est en été ___ la ville accueille le plus de touristes."
+    answers: ["que"]
+    explain: "Обстоятельство времени с предлогом → **que**, не *où*."
+  - q: "___ ce festival manque, c'est d'argent."
+    answers: ["Ce dont"]
+    explain: "*Manquer **de** qch* (не хватать чего-то) → **Ce dont**; после *c'est* повторяется *de*: *c'est d'argent*."
+  - q: "Si ce site est menacé, c'est ___ du réchauffement climatique."
+    answers: ["à cause", "en raison"]
+    explain: "Отрицательная причина при существительном → **à cause** de (*grâce à* — для положительной); нейтральное *en raison de* тоже верно."
+  - q: "C'est nous ___ avons proposé de restaurer la fontaine."
+    answers: ["qui"]
+    explain: "Выделено подлежащее *nous* → **qui**; глагол *avons* согласуется с *nous*."

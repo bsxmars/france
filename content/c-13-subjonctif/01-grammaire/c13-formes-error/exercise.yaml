@@ -1,0 +1,41 @@
+title: "Найди ошибку в форме субъюнктива"
+type: error
+intro: "В каждом предложении **одна** ошибка в форме subjonctif: лишняя или пропущенная буква, не та основа, не тот вспомогательный глагол или время. Исправь и отправь предложение целиком."
+hints:
+  - "soyons, soyez, ayons, ayez — без i; étudiions, voyions, croyions — с i."
+  - "Глаголы с двумя основами: que je prenne, но que nous prenions."
+  - "Предшествующее действие → passé du subjonctif."
+items:
+  - q: "Il faut que vous soyiez à l'heure demain matin."
+    answers: ["Il faut que vous soyez à l'heure demain matin."]
+    explain: "У *être*: *que vous **soyez*** — без второго i."
+  - q: "Je ne pense pas qu'il aie raison."
+    answers: ["Je ne pense pas qu'il ait raison."]
+    explain: "3-е л. ед. ч. от *avoir*: *qu'il **ait*** (*aie* — только *que j'aie*)."
+  - q: "Il est temps que nous prennions une décision."
+    answers: ["Il est temps que nous prenions une décision."]
+    explain: "Форма *nous* берётся от основы *nous prenons*: *que nous **prenions*** — с одним n."
+  - q: "Je souhaite que nous étudions ensemble ce dossier."
+    answers: ["Je souhaite que nous étudiions ensemble ce dossier."]
+    explain: "*Souhaiter que* + subjonctif; у глаголов на *-ier* в *nous* — два i: ***étudiions***."
+  - q: "Bien qu'il boive beaucoup de café, il dort bien ; il faut que nous boivions moins de café."
+    answers: ["Bien qu'il boive beaucoup de café, il dort bien ; il faut que nous buvions moins de café."]
+    explain: "*Boire* — две основы: *qu'il boive*, но *que nous **buvions***."
+  - q: "Je suis content que tu viennes hier."
+    answers: ["Je suis content que tu sois venu hier.", "Je suis content que tu sois venue hier."]
+    explain: "Действие в прошлом (*hier*) → passé du subjonctif: *que tu **sois venu(e)***."
+  - q: "Il se peut que vous vous soyez trompé de salle hier, mais aujourd'hui il faut que vous vous voyez au bureau à neuf heures."
+    answers: ["Il se peut que vous vous soyez trompé de salle hier, mais aujourd'hui il faut que vous vous voyiez au bureau à neuf heures.", "Il se peut que vous vous soyez trompés de salle hier, mais aujourd'hui il faut que vous vous voyiez au bureau à neuf heures."]
+    explain: "*Voir*: *que vous **voyiez*** (y + i); *voyez* — indicatif."
+  - q: "Je regrette que mes amies ne soient pas venu."
+    answers: ["Je regrette que mes amies ne soient pas venues."]
+    explain: "Passé du subjonctif с *être*: причастие согласуется с подлежащим *mes amies* → ***venues***."
+  - q: "Il faut qu'elle fait ses valises ce soir."
+    answers: ["Il faut qu'elle fasse ses valises ce soir."]
+    explain: "*Il faut que* + subjonctif; у *faire* особая основа: *qu'elle **fasse***."
+  - q: "Je crains que nous n'ayions pas assez de temps."
+    answers: ["Je crains que nous n'ayons pas assez de temps."]
+    explain: "У *avoir*: *que nous **ayons*** — без i. (*ne* здесь — настоящее отрицание, а не ne explétif.)"
+  - q: "Il est peu probable qu'ils veulent revenir."
+    answers: ["Il est peu probable qu'ils veuillent revenir."]
+    explain: "*Il est peu probable que* + subjonctif: *qu'ils **veuillent***."

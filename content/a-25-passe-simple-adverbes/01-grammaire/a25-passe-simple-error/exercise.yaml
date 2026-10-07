@@ -1,0 +1,41 @@
+title: "Найди ошибку в passé simple"
+type: error
+intro: "В каждом предложении **одна** ошибка в форме passé simple. Исправь её и отправь предложение целиком."
+hints:
+  - "nous -âmes / -îmes / -ûmes и vous -âtes / -îtes / -ûtes — с accent circonflexe; ils -èrent / -irent / -urent — без него."
+  - "-cer → ç, -ger → ge перед a."
+  - "voir → il vit, venir → ils vinrent, lire → il lut."
+items:
+  - q: "Nous arrivames au port à minuit."
+    answers: ["Nous arrivâmes au port à minuit."]
+    explain: "В форме *nous* — accent circonflexe: **arrivâmes**."
+  - q: "Il finissa son repas en silence."
+    answers: ["Il finit son repas en silence."]
+    explain: "II группа — тип на **i**, основа как в инфинитиве: **il finit** (без *-iss-*)."
+  - q: "Elle prena le dernier train pour Lyon."
+    answers: ["Elle prit le dernier train pour Lyon."]
+    explain: "*Prendre* → **elle prit** (основа причастия *pris*)."
+  - q: "Les enfants courirent vers la mer."
+    answers: ["Les enfants coururent vers la mer."]
+    explain: "*Courir* — исключение среди глаголов на *-ir*: тип на **u**, **ils coururent**."
+  - q: "Je mangai une pomme et je partis."
+    answers: ["Je mangeai une pomme et je partis."]
+    explain: "У глаголов на *-ger* перед *a* сохраняется *e*: **je mangeai**."
+  - q: "Au loin, il voyit un homme sur la route."
+    answers: ["Au loin, il vit un homme sur la route."]
+    explain: "*Voir* в passé simple: **il vit**."
+  - q: "Ses cousins venirent le voir le dimanche suivant."
+    answers: ["Ses cousins vinrent le voir le dimanche suivant."]
+    explain: "*Venir* — особые формы: *il vint, **ils vinrent***."
+  - q: "Elle ouvrut la fenêtre et regarda la rue."
+    answers: ["Elle ouvrit la fenêtre et regarda la rue."]
+    explain: "Глаголы на *-vrir* — тип на **i**: **elle ouvrit**."
+  - q: "Ils eûrent froid pendant tout le voyage."
+    answers: ["Ils eurent froid pendant tout le voyage."]
+    explain: "Accent circonflexe — только у *nous* и *vous* (*nous eûmes*). В 3-м лице мн. ч. — **eurent**."
+  - q: "Il commenca à pleuvoir vers cinq heures."
+    answers: ["Il commença à pleuvoir vers cinq heures."]
+    explain: "Перед *a* у глаголов на *-cer* — **ç**: **commença**."
+  - q: "Cet écrivain vivit à Paris jusqu'à sa mort."
+    answers: ["Cet écrivain vécut à Paris jusqu'à sa mort."]
+    explain: "*Vivre* → **il vécut** (тип на **u**, особая основа)."

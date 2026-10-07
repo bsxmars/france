@@ -1,0 +1,43 @@
+title: "Найди ошибку в выделении"
+type: error
+intro: "В каждом предложении **одна** ошибка: согласование глагола или причастия, ударное местоимение, ce sont / c'est, связка qui / que или лишний предлог. Исправь и отправь предложение целиком."
+hints:
+  - "C'est moi qui suis, c'est toi qui as, c'est nous qui avons."
+  - "C'est à lui que…, c'est de cela que… — без à qui и dont."
+items:
+  - q: "C'est moi qui a fermé la porte à clé."
+    answers: ["C'est moi qui ai fermé la porte à clé."]
+    explain: "Глагол согласуется с *moi*: **ai fermé**."
+  - q: "C'est vous qui a raison, je le reconnais."
+    answers: ["C'est vous qui avez raison, je le reconnais."]
+    explain: "После *c'est vous qui* — 2-е лицо мн. ч.: **avez**."
+  - q: "C'est à mon avocat à qui il faut s'adresser."
+    answers: ["C'est à mon avocat qu'il faut s'adresser."]
+    explain: "Предлог уже в рамке → связка **que**: *c'est à mon avocat **qu'**il faut*."
+  - q: "C'est de ce film dont tout le monde parle."
+    answers: ["C'est de ce film que tout le monde parle.", "C'est ce film dont tout le monde parle."]
+    explain: "*De* стоит в рамке → **que**; *dont* повторил бы *de*. Допустимо и *C'est ce film dont…*"
+  - q: "Ce sont nous qui avons organisé la fête."
+    answers: ["C'est nous qui avons organisé la fête."]
+    explain: "*Ce sont* — только перед 3-м лицом мн. ч.; с *nous* — **c'est**."
+  - q: "C'est les lettres que j'ai reçu ce matin."
+    answers: ["C'est les lettres que j'ai reçues ce matin.", "Ce sont les lettres que j'ai reçues ce matin."]
+    explain: "Выделенный COD *les lettres* стоит перед *avoir* → причастие согласуется: **reçues**. (*C'est les lettres* — разговорно, но допустимо.)"
+  - q: "C'est lui que je pense depuis ce matin."
+    answers: ["C'est à lui que je pense depuis ce matin."]
+    explain: "*Penser **à** qn* → предлог остаётся в рамке: **c'est à lui que** je pense."
+  - q: "C'est toi qui a choisi cette route, pas moi."
+    answers: ["C'est toi qui as choisi cette route, pas moi."]
+    explain: "После *c'est toi qui* — 2-е лицо ед. ч.: **as choisi**."
+  - q: "C'est elles qui s'est occupées des enfants."
+    answers: ["C'est elles qui se sont occupées des enfants.", "Ce sont elles qui se sont occupées des enfants."]
+    explain: "Глагол согласуется с *elles*: **se sont occupées**."
+  - q: "Ce n'est pas le temps qui nous manque, c'est l'argent qui nous manquent."
+    answers: ["Ce n'est pas le temps qui nous manque, c'est l'argent qui nous manque."]
+    explain: "*L'argent* — ед. ч., значит **manque**."
+  - q: "C'est il qui m'a prévenu du danger."
+    answers: ["C'est lui qui m'a prévenu du danger."]
+    explain: "В рамке *c'est… qui* местоимение стоит в ударной форме: **lui**."
+  - q: "C'est en 1998 où la France a gagné sa première Coupe du monde."
+    answers: ["C'est en 1998 que la France a gagné sa première Coupe du monde."]
+    explain: "Выделенное обстоятельство времени вводится **que**, а не *où*: *c'est en 1998 **que***."

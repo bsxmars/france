@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Главное — de или артикль. Пунктуация не важна, акценты — важны."
+hints:
+  - "Большинство — la plupart des; многие — beaucoup de, bien des."
+  - "Нужен — avoir besoin de; покрыт — couvert de; полон — plein de."
+items:
+  - q: "Большинство студентов сдали экзамен."
+    answers: ["La plupart des étudiants ont réussi l'examen.", "La plupart des étudiants ont réussi leur examen.", "La plupart des étudiants ont été reçus à l'examen.", "La plupart des étudiants ont réussi à l'examen.", "La plupart des étudiantes ont réussi l'examen.", "La plupart des étudiantes ont réussi leur examen.", "La plupart des étudiants ont passé l'examen avec succès."]
+    explain: "***La plupart des*** + сущ. мн. ч., глагол во мн. ч.: *ont réussi*."
+  - q: "Мне нужно время."
+    answers: ["J'ai besoin de temps.", "Il me faut du temps."]
+    explain: "*Avoir besoin de* + партитив → ***de** temps*. С *il faut* партитив сохраняется: *il me faut **du** temps*."
+  - q: "Мне нужен хороший словарь."
+    answers: ["J'ai besoin d'un bon dictionnaire.", "Il me faut un bon dictionnaire."]
+    explain: "Неопределённый артикль ед. ч. после *de* сохраняется: *besoin **d'un** bon dictionnaire*."
+  - q: "Улицы были полны людей."
+    answers: ["Les rues étaient pleines de monde.", "Les rues étaient pleines de gens."]
+    explain: "*Plein de* + неопределённое → одно ***de***: *pleines **de** monde*."
+  - q: "Это не ошибка."
+    answers: ["Ce n'est pas une erreur.", "Ce n'est pas une faute."]
+    explain: "После *être* артикль сохраняется: *ce n'est pas **une** erreur*."
+  - q: "У него нет друзей в этом городе."
+    answers: ["Il n'a pas d'amis dans cette ville.", "Il n'a aucun ami dans cette ville.", "Il n'a pas d'amis dans cette ville-ci.", "Il n'a pas d'ami dans cette ville."]
+    explain: "Отрицание при прямом дополнении: *des amis* → ***d'**amis*."
+  - q: "Она дала мне хорошие советы."
+    answers: ["Elle m'a donné de bons conseils.", "Elle m'a donné de très bons conseils."]
+    explain: "Прилагательное перед существительным во мн. ч. → ***de** bons conseils*."
+  - q: "Во дворе играли девушки и юноши."
+    answers: ["Des jeunes filles et des jeunes gens jouaient dans la cour.", "Des jeunes gens et des jeunes filles jouaient dans la cour.", "Dans la cour jouaient des jeunes filles et des jeunes gens.", "Dans la cour jouaient des jeunes gens et des jeunes filles.", "Des jeunes filles et des jeunes garçons jouaient dans la cour.", "Des jeunes garçons et des jeunes filles jouaient dans la cour."]
+    explain: "*Jeunes filles, jeunes gens* — единые понятия: ***des** jeunes filles, **des** jeunes gens*."
+  - q: "Многие из его романов переведены на русский."
+    answers: ["Beaucoup de ses romans ont été traduits en russe.", "Beaucoup de ses romans sont traduits en russe.", "Bon nombre de ses romans ont été traduits en russe.", "Bon nombre de ses romans sont traduits en russe.", "Plusieurs de ses romans ont été traduits en russe.", "Nombre de ses romans ont été traduits en russe."]
+    explain: "Существительное определено притяжательным → *beaucoup **de ses** romans* (*de* + притяжательное, не артикль)."
+  - q: "Он пьёт только воду."
+    answers: ["Il ne boit que de l'eau.", "Il boit seulement de l'eau.", "Il boit uniquement de l'eau."]
+    explain: "*Ne… que* — ограничение, партитив сохраняется: *il ne boit que **de l'**eau*."

@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Акценты обязательны, точку можно не ставить. Помни: французский ставит притяжательное там, где русский его опускает."
+hints:
+  - "Писать кому-то — écrire à qn."
+  - "«Свой» — mon / ton / son / notre / votre / leur по лицу владельца."
+items:
+  - q: "Я читаю газету."
+    answers: ["Je lis le journal.", "Je lis un journal.", "Je lis mon journal."]
+    explain: "*je **lis*** — короткая основа + -s. Артикль или *mon* — по ситуации."
+  - q: "Мы пишем брату."
+    answers: ["Nous écrivons à notre frère.", "On écrit à notre frère."]
+    explain: "*nous **écrivons*** + *à*; с родственниками французы ставят притяжательное: *à **notre** frère*. Разговорно: *on écrit*."
+  - q: "Они читают свои книги."
+    answers: ["Ils lisent leurs livres.", "Elles lisent leurs livres."]
+    explain: "*ils **lisent*** (полная основа); владельцев несколько, книг много → **leurs**."
+  - q: "Он пишет своё имя."
+    answers: ["Il écrit son nom."]
+    explain: "*il **écrit*** (-t); *nom* — м. р. → **son**."
+  - q: "Прочитай эту фразу!"
+    answers: ["Lis cette phrase !"]
+    explain: "Повелительное «ты» — **lis**; *phrase* — ж. р. → **cette**."
+  - q: "Напишите ваши имена."
+    answers: ["Écrivez vos noms."]
+    explain: "Повелительное «вы» — **écrivez**; несколько имён → **vos** noms."
+  - q: "Это их дом."
+    answers: ["C'est leur maison."]
+    explain: "Владельцев несколько, дом один → **leur** maison."
+  - q: "Эти дети читают."
+    answers: ["Ces enfants lisent."]
+    explain: "«Эти» — **ces**; *ils lisent*."
+  - q: "Ты пишешь своей подруге?"
+    answers: ["Tu écris à ton amie ?", "Est-ce que tu écris à ton amie ?", "Écris-tu à ton amie ?"]
+    explain: "*tu **écris***; *amie* — ж. р. на гласную → **ton** amie."
+  - q: "Её отец читает этот текст."
+    answers: ["Son père lit ce texte."]
+    explain: "*père* — м. р. → **son** (по предмету, не по владелице); *il **lit***; *texte* — м. р. → **ce**."

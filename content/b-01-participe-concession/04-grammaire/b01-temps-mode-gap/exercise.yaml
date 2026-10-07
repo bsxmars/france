@@ -1,0 +1,43 @@
+title: "Наклонение и время после союза"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму. Посмотри на союз: subjonctif или indicatif? Если indicatif — какое время (о будущем — futur simple или futur antérieur)?"
+hints:
+  - "avant que, jusqu'à ce que, en attendant que → subjonctif présent."
+  - "quand, dès que, une fois que о будущем → futur simple / futur antérieur."
+items:
+  - q: "Je voudrais finir ce chapitre avant que les enfants ___ (se réveiller)."
+    answers: ["se réveillent", "ne se réveillent"]
+    explain: "*Avant que* + **subjonctif**: *se réveillent* (форма совпадает с présent). Можно с *ne explétif*: *ne se réveillent*."
+  - q: "Reste au lit jusqu'à ce que ta fièvre ___ (baisser)."
+    answers: ["baisse"]
+    explain: "*Jusqu'à ce que* + **subjonctif**: *que ta fièvre **baisse***."
+  - q: "Nous prendrons un verre en attendant que la table ___ (être) prête."
+    answers: ["soit"]
+    explain: "*En attendant que* + **subjonctif** от *être*: **soit**."
+  - q: "Dès que tu ___ (finir) tes examens, nous partirons à la mer."
+    answers: ["auras fini", "auras terminé", "finiras"]
+    explain: "О будущем после *dès que* — futur antérieur (**auras fini**: сначала закончить, потом поехать) или futur simple. Présent — ошибка."
+  - q: "Il pleuvait depuis une heure quand nous ___ (sortir) du musée."
+    answers: ["sommes sortis", "sommes sorties"]
+    explain: "*Quand* + indicatif; событие на фоне imparfait → passé composé: **sommes sortis**."
+  - q: "Il faut que je parte avant qu'il ___ (faire) nuit."
+    answers: ["fasse", "ne fasse"]
+    explain: "*Avant que* + **subjonctif** от *faire*: **fasse**."
+  - q: "Depuis qu'il ___ (avoir) un chien, il se promène deux fois par jour."
+    answers: ["a"]
+    explain: "*Depuis que* + **indicatif**; ситуация длится до сих пор → présent: **a**."
+  - q: "Je ne partirai pas tant que tu ne m'___ (dire) la vérité."
+    answers: ["auras pas dit", "diras pas"]
+    explain: "*Tant que … ne … pas* о будущем → futur antérieur *ne m'**auras pas dit*** (или futur simple *ne me diras pas*)."
+  - q: "Mon grand-père lisait le journal pendant que ma grand-mère ___ (faire) les mots croisés."
+    answers: ["faisait"]
+    explain: "*Pendant que* + **indicatif**, два параллельных процесса в прошлом → imparfait: **faisait**."
+  - q: "On attendra jusqu'à ce que tout le monde ___ (pouvoir) venir."
+    answers: ["puisse"]
+    explain: "*Jusqu'à ce que* + **subjonctif** от *pouvoir*: **puisse**."
+  - q: "Une fois que vous ___ (s'inscrire), vous recevrez un mot de passe."
+    answers: ["vous serez inscrits", "vous serez inscrit", "vous serez inscrite", "vous serez inscrites", "serez inscrits", "serez inscrit", "serez inscrite", "serez inscrites"]
+    explain: "О будущем, сначала регистрация → futur antérieur возвратного глагола: *vous **vous serez inscrit(e)(s)***. *Vous serez inscrit(e)(s)* («будете зарегистрированы») тоже верно."
+  - q: "Les spectateurs ont applaudi au moment où l'actrice ___ (entrer) en scène."
+    answers: ["est entrée"]
+    explain: "*Au moment où* + **indicatif**, точечное событие → passé composé: **est entrée** (согласование с *l'actrice*)."

@@ -1,0 +1,37 @@
+title: "Найди ошибку в наречии"
+type: error
+intro: "В каждом предложении одна ошибка, связанная с наречием или прилагательным в роли наречия. Перепиши предложение правильно."
+hints:
+  - "Проверь, от какой формы образовано наречие и сколько в нём m."
+  - "Прилагательное в роли наречия (coûter cher, parler bas) не согласуется."
+items:
+  - q: "Évidament, personne n'avait prévu une telle affluence."
+    answers: ["Évidemment, personne n'avait prévu une telle affluence."]
+    explain: "*Évident* → **évidemment**: гласная *e* как в прилагательном и две *m*."
+  - q: "Elle parle couramant quatre langues."
+    answers: ["Elle parle couramment quatre langues."]
+    explain: "*Courant* → **couramment**: в *-amment* всегда две *m*."
+  - q: "Ces billets d'avion coûtent vraiment chers."
+    answers: ["Ces billets d'avion coûtent vraiment cher."]
+    explain: "В *coûter cher* прилагательное работает как наречие и **не согласуется**: *coûtent **cher***."
+  - q: "Il a été gravement blessé, mais il est grièvement malade aussi."
+    answers: ["Il a été gravement blessé, mais il est gravement malade aussi.", "Il a été grièvement blessé, mais il est gravement malade aussi."]
+    explain: "*Grièvement* сочетается только с ранениями и ожогами; с болезнью — **gravement malade**."
+  - q: "Le directeur nous a reçus très poliement."
+    answers: ["Le directeur nous a reçus très poliment."]
+    explain: "*Poli* оканчивается на гласную: **poliment**, без немого *e*."
+  - q: "Je vous remercie infinimment de votre aide."
+    answers: ["Je vous remercie infiniment de votre aide."]
+    explain: "*Infini* → **infiniment**: удвоение *m* бывает только в *-amment / -emment*."
+  - q: "Il a énormement travaillé pour ce concours."
+    answers: ["Il a énormément travaillé pour ce concours."]
+    explain: "*Énorme* входит в группу на **-ément**: *énormément*."
+  - q: "Parlez plus basse, le bébé dort."
+    answers: ["Parlez plus bas, le bébé dort."]
+    explain: "*Parler bas* — прилагательное в роли наречия, неизменяемое: **bas**."
+  - q: "La situation s'est constemment dégradée depuis mars."
+    answers: ["La situation s'est constamment dégradée depuis mars."]
+    explain: "*Constant* (*-ant*) → **constamment**, с *a*."
+  - q: "Elle a lentemment relu sa lettre avant de l'envoyer."
+    answers: ["Elle a lentement relu sa lettre avant de l'envoyer."]
+    explain: "*Lent* — исключение из правила *-ent → -emment*: **lentement**."

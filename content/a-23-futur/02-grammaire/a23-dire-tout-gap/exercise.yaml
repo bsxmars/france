@@ -1,0 +1,43 @@
+title: "Dire, interdire, tout"
+type: gap
+intro: "Вставь форму dire / interdire в настоящем времени, повелительном наклонении или причастие — либо местоимение tout на нужное место."
+hints:
+  - "Je dis, tu dis, il dit, nous disons, vous dites, ils disent; но vous interdisez."
+  - "Tout: после глагола в простом времени, между avoir и причастием в сложном."
+items:
+  - q: "Qu'est-ce que vous ___ ? Je n'entends rien. (dire)"
+    answers: ["dites"]
+    explain: "Особая форма: **vous dites**."
+  - q: "Ils ___ toujours la vérité. (dire)"
+    answers: ["disent"]
+    explain: "*ils* → **disent**: основа *dis-* + *-ent*."
+  - q: "___-moi ton numéro de téléphone ! (dire, tu)"
+    answers: ["Dis"]
+    explain: "Повелительное, 2-е лицо ед. ч.: **dis**."
+  - q: "Pourquoi vous nous ___ de sortir ? (interdire)"
+    answers: ["interdisez"]
+    explain: "У *interdire* форма *vous* правильная: **interdisez** (не *interdites*)."
+  - q: "Nous ___ bonjour aux voisins chaque matin. (dire)"
+    answers: ["disons"]
+    explain: "*nous* → **disons**."
+  - q: "Il m'a ___ de l'attendre devant la gare. (dire)"
+    answers: ["dit"]
+    explain: "Participe passé от *dire* — **dit**; *dire à qn de faire* — сказать, чтобы…"
+  - q: "Il est ___ de fumer dans le train. (interdire)"
+    answers: ["interdit"]
+    explain: "*Il est interdit de* + инфинитив — «запрещается». Причастие **interdit**."
+  - q: "Ne ___ rien à personne ! (dire, vous)"
+    answers: ["dites"]
+    explain: "Повелительное, 2-е лицо мн. ч.: **dites** (*ne dites rien*)."
+  - q: "C'est clair, j'ai ___ compris."
+    answers: ["tout"]
+    explain: "В сложном времени **tout** стоит между *ai* и причастием."
+  - q: "___ est prêt, on peut partir."
+    answers: ["Tout"]
+    explain: "*Tout* — подлежащее «всё», глагол в ед. ч.: **Tout est prêt**."
+  - q: "Ma grand-mère s'intéresse à ___."
+    answers: ["tout"]
+    explain: "Косвенное дополнение с предлогом: *à **tout*** — всем."
+  - q: "Ce petit garçon veut ___ savoir."
+    answers: ["tout"]
+    explain: "С инфинитивом *tout* стоит перед ним: *veut **tout** savoir*."

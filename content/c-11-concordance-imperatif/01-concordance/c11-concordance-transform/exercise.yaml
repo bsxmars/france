@@ -1,0 +1,67 @@
+title: "Перенеси в план прошедшего"
+type: transform
+intro: "Поставь главное предложение в прошедшее время (форма — **ключевое слово**) и согласуй придаточное. Впиши недостающую часть."
+hints:
+  - "présent → imparfait; passé composé → plus-que-parfait; futur → conditionnel présent; futur antérieur → conditionnel passé."
+  - "Imparfait в придаточном не меняется."
+items:
+  - q: "Je sais qu'il ment."
+    key: "SAVAIS"
+    stem: "___, mais je n'ai rien dit."
+    answers: ["Je savais qu'il mentait"]
+    explain: "*sais* → *savais*; одновременность → imparfait: ***qu'il mentait***."
+  - q: "Elle annonce qu'elle quittera l'entreprise en juin."
+    key: "ANNONCÉ"
+    stem: "Elle ___ en juin."
+    answers: ["a annoncé qu'elle quitterait l'entreprise"]
+    explain: "Futur → futur dans le passé: ***quitterait***."
+  - q: "Ils affirment qu'ils n'ont jamais vu cet homme."
+    key: "AFFIRMÉ"
+    stem: "Ils ___ cet homme."
+    answers: ["ont affirmé qu'ils n'avaient jamais vu"]
+    explain: "Passé composé → plus-que-parfait: ***n'avaient jamais vu***."
+  - q: "Je crois que tu as raison."
+    key: "CROYAIS"
+    stem: "Je ___ raison."
+    answers: ["croyais que tu avais"]
+    explain: "Présent → imparfait: ***tu avais** raison*."
+  - q: "Il me demande si je viendrai à sa fête."
+    key: "DEMANDÉ"
+    stem: "Il m'___ à sa fête."
+    answers: ["a demandé si je viendrais"]
+    explain: "Косвенный вопрос: futur → conditionnel présent: ***si je viendrais***."
+  - q: "Nous espérons que tout se passera bien."
+    key: "ESPÉRIONS"
+    stem: "Nous ___ bien."
+    answers: ["espérions que tout se passerait"]
+    explain: "Главное в imparfait — тоже план прошедшего: ***se passerait***."
+  - q: "On m'explique que le vol est annulé."
+    key: "EXPLIQUÉ"
+    stem: "On m'___ annulé."
+    answers: ["a expliqué que le vol était"]
+    explain: "Одновременность → imparfait: ***le vol était annulé***."
+  - q: "Elle se rend compte qu'elle a oublié son passeport."
+    key: "RENDU"
+    stem: "Elle s'est ___ son passeport."
+    answers: ["rendu compte qu'elle avait oublié"]
+    explain: "*Se rendre compte* → *s'est **rendu** compte* (причастие не согласуется: *compte* — прямое дополнение); придаточное → plus-que-parfait ***avait oublié***."
+  - q: "Il promet qu'il nous écrira dès qu'il sera arrivé."
+    key: "PROMIS"
+    stem: "Il a ___ arrivé."
+    answers: ["promis qu'il nous écrirait dès qu'il serait"]
+    explain: "Futur → ***écrirait***, futur antérieur → conditionnel passé ***serait arrivé***."
+  - q: "Le ministre déclare que la réforme a été mal comprise."
+    key: "DÉCLARÉ"
+    stem: "Le ministre a ___ mal comprise."
+    answers: ["déclaré que la réforme avait été"]
+    explain: "Пассив в passé composé → plus-que-parfait: ***avait été** mal comprise*."
+  - q: "Je vois qu'elle pleure."
+    key: "VU"
+    stem: "J'ai ___."
+    answers: ["vu qu'elle pleurait"]
+    explain: "Одновременность → imparfait: ***qu'elle pleurait***."
+  - q: "Paul écrit qu'il était malade quand il a reçu ma lettre."
+    key: "ÉCRIT"
+    stem: "Paul a ___ ma lettre."
+    answers: ["écrit qu'il était malade quand il avait reçu"]
+    explain: "Imparfait *était* не меняется, passé composé *a reçu* → plus-que-parfait ***avait reçu***."

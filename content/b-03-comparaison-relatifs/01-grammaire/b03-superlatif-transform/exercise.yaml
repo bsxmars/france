@@ -1,0 +1,63 @@
+title: "Выстрой иерархию"
+type: transform
+intro: "Перефразируй с помощью superlatif. Используй ключевое слово и впиши недостающую часть."
+hints:
+  - "Прилагательное после существительного: la ville la plus visitée — артикль дважды."
+  - "С глаголом и наречием артикль всегда le: celle qui chante le mieux."
+  - "«Самый … в / из» — de: le plus long de l'année."
+items:
+  - q: "Aucun autre musée de la ville n'attire autant de visiteurs que celui-ci."
+    key: "plus"
+    stem: "C'est le musée qui attire ___ de la ville."
+    answers: ["le plus de visiteurs"]
+    explain: "Количество (существительное) → **le plus de** visiteurs; артикль *le* неизменяем."
+  - q: "Ce quartier n'est vraiment pas cher : les autres le sont tous davantage."
+    key: "moins"
+    stem: "C'est le quartier ___ de la ville."
+    answers: ["le moins cher"]
+    explain: "Прилагательное *cher* после существительного → **le moins cher**."
+  - q: "Parmi toutes les chanteuses du concours, c'est elle qui a chanté de la meilleure façon."
+    key: "mieux"
+    stem: "C'est elle qui a chanté ___ ."
+    answers: ["le mieux"]
+    explain: "Глагол *chanter* + *bien* → **le mieux**; *la mieux* невозможно — артикль при наречии не согласуется."
+  - q: "Cette série ne m'a pas du tout plu ; les autres m'ont toutes plu davantage."
+    key: "moins"
+    stem: "C'est la série qui m'a plu ___ ."
+    answers: ["le moins"]
+    explain: "Глагол *plaire* → **le moins** (неизменяемое *le*)."
+  - q: "Aucun roman de cet auteur n'est aussi bon que celui-ci."
+    key: "meilleur"
+    stem: "C'est ___ de cet auteur."
+    answers: ["son meilleur roman", "le meilleur roman"]
+    explain: "*Bon* → superlatif **le meilleur**; вместо артикля можно притяжательное: *son meilleur roman*."
+  - q: "Les autres traductions sont toutes plus fidèles que celle-ci."
+    key: "moins"
+    stem: "C'est la traduction ___ ."
+    answers: ["la moins fidèle"]
+    explain: "Прилагательное после существительного → **la moins fidèle**; артикль согласуется с *traduction*."
+  - q: "Je n'ai jamais vu de spectacle aussi mauvais que celui-là."
+    key: "pire"
+    stem: "C'est ___ spectacle que j'aie jamais vu."
+    answers: ["le pire"]
+    explain: "Superlatif от *mauvais* — **le pire** (или *le plus mauvais*, но ключ — *pire*). После superlatif — subjonctif *j'aie vu*."
+  - q: "Aucun pays n'achète aussi peu de livres français que celui-ci."
+    key: "moins"
+    stem: "C'est le pays qui achète ___ ."
+    answers: ["le moins de livres français"]
+    explain: "Количество → **le moins de** + существительное без артикля."
+  - q: "Ce correcteur remarque tout, même les détails les moins importants."
+    key: "moindres"
+    stem: "Ce correcteur remarque ___ ."
+    answers: ["les moindres détails", "même les moindres détails", "jusqu'aux moindres détails"]
+    explain: "«Наименее значимый» — **le moindre**: *les moindres détails*. *Moindre* — о значимости, не о размере."
+  - q: "La Loire est plus longue que tous les autres fleuves français."
+    key: "plus"
+    stem: "La Loire est le fleuve ___ ."
+    answers: ["le plus long de France", "le plus long de tous les fleuves français"]
+    explain: "Прилагательное после существительного → *le fleuve **le plus long***; «во Франции» после superlatif — **de France**."
+  - q: "Cet éditeur publie ses livres plus rapidement que tous ses concurrents."
+    key: "plus"
+    stem: "C'est l'éditeur qui publie ses livres ___ ."
+    answers: ["le plus rapidement"]
+    explain: "Наречие *rapidement* → **le plus rapidement**."

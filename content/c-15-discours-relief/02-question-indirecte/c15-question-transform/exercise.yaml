@@ -1,0 +1,68 @@
+title: "Перескажи вопрос"
+type: transform
+intro: "Преврати прямой вопрос в косвенный. Ключевое слово — связка, с которой начинается придаточное. Следи за временем (вводящий глагол в прошедшем) и порядком слов. Впиши придаточное целиком."
+hints:
+  - "Общий вопрос → si; qu'est-ce qui → ce qui; qu'est-ce que / que → ce que; остальные слова сохраняются."
+  - "Никакого est-ce que и никакой инверсии местоимения."
+  - "présent → imparfait; passé composé → plus-que-parfait; futur → conditionnel."
+items:
+  - q: "Le recruteur (à moi) : « Avez-vous déjà dirigé une équipe ? »"
+    key: "si"
+    stem: "Le recruteur m'a demandé ___."
+    answers: ["si j'avais déjà dirigé une équipe"]
+    explain: "Общий вопрос → **si**; *vous* → *je*; passé composé → plus-que-parfait **avais dirigé**."
+  - q: "Ma mère (à moi) : « Qu'est-ce qui t'inquiète ? »"
+    key: "ce qui"
+    stem: "Ma mère m'a demandé ___."
+    answers: ["ce qui m'inquiétait"]
+    explain: "*Qu'est-ce qui* (подлежащее) → **ce qui**; présent → imparfait **inquiétait**; *te* → *me*."
+  - q: "Le journaliste (au ministre) : « Qu'allez-vous faire pour l'hôpital ? »"
+    key: "ce que"
+    stem: "Le journaliste a demandé au ministre ___."
+    answers: ["ce qu'il allait faire pour l'hôpital"]
+    explain: "*Que* (дополнение) → **ce que**; *allez-vous faire* → *il allait faire* (futur proche → imparfait *aller*)."
+  - q: "Un passant (à nous) : « Où se trouve la gare routière ? »"
+    key: "où"
+    stem: "Un passant nous a demandé ___."
+    answers: ["où se trouvait la gare routière", "où la gare routière se trouvait"]
+    explain: "*Où* сохраняется; подлежащее-существительное без дополнения может стоять после глагола: **où se trouvait la gare routière** (или прямой порядок)."
+  - q: "Le professeur (aux élèves) : « Qui a écrit Les Misérables ? »"
+    key: "qui"
+    stem: "Le professeur a demandé aux élèves ___."
+    answers: ["qui avait écrit Les Misérables"]
+    explain: "*Qui*-подлежащее сохраняется, порядок прямой; PC → plus-que-parfait **avait écrit**."
+  - q: "Léo (à Anna) : « Est-ce que tu viendras à ma soutenance ? »"
+    key: "si"
+    stem: "Léo a demandé à Anna ___."
+    answers: ["si elle viendrait à sa soutenance"]
+    explain: "*Est-ce que* → **si**; futur → conditionnel **viendrait**; *ma* → *sa*."
+  - q: "L'inspecteur (au témoin) : « De quoi parliez-vous avec la victime ? »"
+    key: "de quoi"
+    stem: "L'inspecteur a demandé au témoin ___."
+    answers: ["de quoi il parlait avec la victime", "de quoi elle parlait avec la victime"]
+    explain: "*De quoi* сохраняется; imparfait не меняется; порядок прямой: **de quoi il parlait** (пол свидетеля не указан)."
+  - q: "Mon fils (à moi) : « Pourquoi le ciel est-il bleu ? »"
+    key: "pourquoi"
+    stem: "Mon fils m'a demandé ___."
+    answers: ["pourquoi le ciel était bleu", "pourquoi le ciel est bleu"]
+    explain: "После *pourquoi* — прямой порядок, без повтора *il*: **pourquoi le ciel était bleu**. Общая истина может сохранить présent."
+  - q: "La cliente (au vendeur) : « Lequel de ces deux modèles consomme le moins ? »"
+    key: "lequel"
+    stem: "La cliente a demandé au vendeur ___."
+    answers: ["lequel de ces deux modèles consommait le moins"]
+    explain: "*Lequel* сохраняется и остаётся подлежащим; présent → imparfait **consommait**."
+  - q: "Ma voisine (à moi) : « Combien as-tu payé ce vélo ? »"
+    key: "combien"
+    stem: "Ma voisine m'a demandé ___."
+    answers: ["combien j'avais payé ce vélo"]
+    explain: "*Combien* сохраняется; инверсия местоимения снимается; PC → plus-que-parfait **avais payé**."
+  - q: "Les enfants (à leur père) : « Qu'est-ce que nous ferons s'il pleut ? »"
+    key: "ce que"
+    stem: "Les enfants ont demandé à leur père ___."
+    answers: ["ce qu'ils feraient s'il pleuvait"]
+    explain: "*Qu'est-ce que* → **ce que**; futur → conditionnel **feraient**; в условии présent → imparfait **pleuvait**."
+  - q: "Moi (à l'employée) : « À qui dois-je m'adresser pour ce formulaire ? »"
+    key: "à qui"
+    stem: "J'ai demandé à l'employée ___."
+    answers: ["à qui je devais m'adresser pour ce formulaire"]
+    explain: "*À qui* сохраняется; инверсия снимается: **à qui je devais m'adresser**."

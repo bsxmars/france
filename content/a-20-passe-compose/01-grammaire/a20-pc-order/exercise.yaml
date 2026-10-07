@@ -1,0 +1,38 @@
+title: "Собери фразу в passé composé"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Следи за местом *ne… pas*, местоимений и наречий."
+hints:
+  - "ne + (местоимение) + avoir/être + pas + причастие."
+  - "Местоимение-дополнение — перед вспомогательным глаголом."
+  - "bien, beaucoup, déjà, encore — между вспомогательным глаголом и причастием."
+items:
+  - q: "«Я не понял вопрос»."
+    answers: ["Je n'ai pas compris la question."]
+    explain: "*ne… pas* обнимают вспомогательный глагол: *Je **n'ai pas** compris*."
+  - q: "«Она не пришла»."
+    answers: ["Elle n'est pas venue."]
+    explain: "*venir* — с *être*: *Elle **n'est pas venue***, причастие согласовано с *elle*."
+  - q: "«Ты закончил?»"
+    answers: ["As-tu fini ?"]
+    explain: "Инверсия в passé composé: подлежащее после **вспомогательного** глагола: ***As-tu** fini ?*"
+  - q: "«Он ответил?»"
+    answers: ["A-t-il répondu ?"]
+    explain: "*a* + *il* — между гласными вставляется *-t-*: ***A-t-il** répondu ?*"
+  - q: "«Я видел его вчера»."
+    answers: ["Je l'ai vu hier."]
+    explain: "Местоимение *le* → *l'* перед вспомогательным глаголом; *hier* — после причастия."
+  - q: "«Она мне не ответила»."
+    answers: ["Elle ne m'a pas répondu."]
+    explain: "Порядок: ***ne** + **m'** + **a** + **pas** + répondu*."
+  - q: "«Мы хорошо поработали»."
+    answers: ["Nous avons bien travaillé."]
+    explain: "*bien* — между *avons* и *travaillé*."
+  - q: "«Они ещё не вернулись»."
+    answers: ["Ils ne sont pas encore rentrés."]
+    explain: "*pas encore* — сразу после вспомогательного глагола: *ne sont **pas encore** rentrés*."
+  - q: "«Ты уже читал эту книгу?»"
+    answers: ["As-tu déjà lu ce livre ?"]
+    explain: "Инверсия *As-tu*, затем *déjà* перед причастием: ***As-tu déjà lu** ce livre ?*"
+  - q: "«Ученик сделал много ошибок»."
+    answers: ["L'élève a fait beaucoup de fautes."]
+    explain: "*beaucoup* относится к существительному (*beaucoup **de** fautes*) → стоит после причастия, перед существительным."

@@ -1,0 +1,37 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: форма глагола, c'est / ce sont, отрицание или вопрос. Исправь её и напиши всё предложение."
+hints:
+  - "Окончания не слышны — проверяй по подлежащему."
+  - "Повелительное «ты» у глаголов на -er — без -s."
+items:
+  - q: "C'est des élèves de Paul."
+    answers: ["Ce sont des élèves de Paul."]
+    explain: "*des élèves* — мн. ч. → **ce sont**. *C'est des…* — только разговорная речь."
+  - q: "Nous regardez un film."
+    answers: ["Nous regardons un film."]
+    explain: "*nous* → окончание **-ons**: *nous regardons*. *-ez* — для *vous*."
+  - q: "On parlons français ici."
+    answers: ["On parle français ici."]
+    explain: "После *on* — 3-е лицо ед. ч.: **on parle**."
+  - q: "Ils écoute la radio."
+    answers: ["Ils écoutent la radio."]
+    explain: "*ils* → **-ent**: *ils écoutent*. На слух не отличить от *il écoute*, на письме — обязательно."
+  - q: "Regardes la photo !"
+    answers: ["Regarde la photo !"]
+    explain: "Повелительное «ты» глагола на -er — **regarde**, без -s."
+  - q: "Il ne aime pas la musique."
+    answers: ["Il n'aime pas la musique."]
+    explain: "Перед гласной *ne* → **n'**: *il n'aime pas*."
+  - q: "Ce ne est pas ma photo."
+    answers: ["Ce n'est pas ma photo."]
+    explain: "Перед *est* *ne* сокращается: **ce n'est pas**."
+  - q: "Habite-il à Lyon ?"
+    answers: ["Habite-t-il à Lyon ?"]
+    explain: "Между гласной *-e* и *il* нужна вставка **-t-**: *habite-t-il*."
+  - q: "Tu travailles pas le samedi."
+    answers: ["Tu ne travailles pas le samedi."]
+    explain: "В письменной речи отрицание из двух частей: **ne** перед глаголом и *pas* после."
+  - q: "Est-ce que vous posent une question ?"
+    answers: ["Est-ce que vous posez une question ?"]
+    explain: "*vous* → **-ez**: *vous posez*."

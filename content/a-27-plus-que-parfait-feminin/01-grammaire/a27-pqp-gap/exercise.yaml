@@ -1,0 +1,43 @@
+title: "Что было раньше: plus-que-parfait"
+type: gap
+intro: "Поставь глагол в скобках в plus-que-parfait: это действие произошло раньше другого прошедшего события."
+hints:
+  - "imparfait avoir / être + participe passé: j'avais fini, elle était partie."
+  - "С être причастие согласуется с подлежащим."
+items:
+  - q: "Quand je suis arrivé à la gare, le train ___. (partir, déjà)"
+    answers: ["était déjà parti"]
+    explain: "Поезд ушёл раньше моего прихода → plus-que-parfait. *Partir* — с *être*; *déjà* — между вспомогательным глаголом и причастием: **était déjà parti**."
+  - q: "Elle m'a prêté le livre qu'elle ___ en vacances. (lire)"
+    answers: ["avait lu"]
+    explain: "Прочитала раньше, чем дала мне → **avait lu**."
+  - q: "Nous ___ toute la journée, alors nous nous sommes couchés tôt. (marcher)"
+    answers: ["avions marché"]
+    explain: "Шли весь день — до того, как легли → **avions marché**."
+  - q: "Ma sœur était triste : elle ___ son examen. (rater)"
+    answers: ["avait raté"]
+    explain: "Самостоятельное предложение объясняет, что было до: **avait raté**."
+  - q: "Les enfants ___ avant le retour de leurs parents. (s'endormir)"
+    answers: ["s'étaient endormis"]
+    explain: "Возвратный глагол → *être*; *les enfants* — м. р. мн. ч.: **s'étaient endormis**."
+  - q: "Le matin, les rues étaient mouillées : il ___ toute la nuit. (pleuvoir)"
+    answers: ["avait plu"]
+    explain: "Дождь шёл ночью, до утра → **avait plu** (причастие *plu*)."
+  - q: "Il nous a raconté tout ce qu'il ___ au Japon. (voir)"
+    answers: ["avait vu"]
+    explain: "Видел раньше, чем рассказывал → **avait vu**."
+  - q: "Quand Anne est rentrée, ses amies ___ déjà. (sortir)"
+    answers: ["étaient sorties"]
+    explain: "*Sortir* — с *être*; *ses amies* — ж. р. мн. ч.: **étaient sorties**."
+  - q: "Je ne savais pas que vous ___ à Bordeaux. (naître)"
+    answers: ["étiez né", "étiez née", "étiez nés", "étiez nées"]
+    explain: "*Naître* — с *être*: **étiez né(e)(s)** — род и число зависят от того, к кому обращаются."
+  - q: "Le professeur a rendu les copies qu'il ___ la veille. (corriger)"
+    answers: ["avait corrigées"]
+    explain: "Проверил накануне (*la veille*) → plus-que-parfait. Дополнение *que* (= *les copies*, ж. р. мн. ч.) стоит перед *avoir* → **avait corrigées**."
+  - q: "Elle a reconnu la maison où elle ___ son enfance. (passer)"
+    answers: ["avait passé"]
+    explain: "Детство прошло задолго до того, как узнала дом → **avait passé**."
+  - q: "Ils ont compris trop tard qu'ils ___ de route. (se tromper)"
+    answers: ["s'étaient trompés"]
+    explain: "Ошиблись раньше, чем поняли; возвратный глагол → **s'étaient trompés**."

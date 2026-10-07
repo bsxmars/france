@@ -1,0 +1,44 @@
+title: "Найди ошибку: время прошедшего"
+type: error
+intro: "В каждом предложении **одна** ошибка: неверно выбрано время (imparfait / passé composé) или неверен оборот. Исправь и отправь предложение целиком."
+hints:
+  - "Ограниченная длительность и посчитанные повторения → passé composé."
+  - "Фон, привычка, состояние, постепенное изменение → imparfait."
+  - "«В тот момент, когда» — au moment où."
+items:
+  - q: "Hier, je travaillais toute la journée sur mon mémoire."
+    answers: ["Hier, j'ai travaillé toute la journée sur mon mémoire."]
+    explain: "*Toute la journée* задаёт границу → ***j'ai travaillé***. Imparfait возможен только как фон для другого события."
+  - q: "L'année dernière, je retournais trois fois dans mon village natal."
+    answers: ["L'année dernière, je suis retourné trois fois dans mon village natal.", "L'année dernière, je suis retournée trois fois dans mon village natal."]
+    explain: "Повторения посчитаны (*trois fois*) → passé composé: ***je suis retourné(e)***."
+  - q: "Tu lisais déjà ce livre ? Il paraît qu'il est excellent."
+    answers: ["Tu as déjà lu ce livre ? Il paraît qu'il est excellent."]
+    explain: "«Ты читал эту книгу?» — вопрос о факте, а не о процессе → ***as lu***."
+  - q: "Je savais la nouvelle hier soir par un collègue."
+    answers: ["J'ai su la nouvelle hier soir par un collègue.", "J'ai appris la nouvelle hier soir par un collègue."]
+    explain: "Знание возникло в конкретный момент → ***j'ai su*** / ***j'ai appris*** («узнал»). *Je savais* — «знал»."
+  - q: "Au moment où il est entré, nous avons discuté des dernières nouvelles."
+    answers: ["Au moment où il est entré, nous discutions des dernières nouvelles."]
+    explain: "Разговор уже шёл, когда он вошёл: фон → ***nous discutions***."
+  - q: "Le vent soufflait de minuit à six heures, puis le calme est revenu."
+    answers: ["Le vent a soufflé de minuit à six heures, puis le calme est revenu."]
+    explain: "Отрезок с началом и концом (*de minuit à six heures*) → ***a soufflé***."
+  - q: "J'ai eu peur du noir quand j'étais petit."
+    answers: ["J'avais peur du noir quand j'étais petit.", "J'avais peur du noir quand j'étais petite."]
+    explain: "Длительное состояние в детстве → ***j'avais peur*** («боялся»). *J'ai eu peur* = «испугался» (один раз)."
+  - q: "La salle a été bondée et une odeur de café flottait dans l'air."
+    answers: ["La salle était bondée et une odeur de café flottait dans l'air."]
+    explain: "Описание обстановки, как и соседнее *flottait*, → ***était***."
+  - q: "Dans le moment où je sortais, le téléphone a sonné."
+    answers: ["Au moment où je sortais, le téléphone a sonné."]
+    explain: "Калька с «в тот момент, когда». По-французски — ***au moment où***."
+  - q: "Il connaissait sa femme en 1998, pendant un voyage en Grèce."
+    answers: ["Il a connu sa femme en 1998, pendant un voyage en Grèce."]
+    explain: "Знакомство — событие с датой → ***il a connu*** («познакомился»). *Il connaissait* — «был знаком»."
+  - q: "À mesure que nous approchions du sommet, le vent est devenu plus froid."
+    answers: ["À mesure que nous approchions du sommet, le vent devenait plus froid."]
+    explain: "*À mesure que* — два параллельных постепенных процесса, оба в imparfait: ***devenait***."
+  - q: "J'hésitais longtemps avant de répondre à ton message, pardonne-moi."
+    answers: ["J'ai longtemps hésité avant de répondre à ton message, pardonne-moi.", "J'ai hésité longtemps avant de répondre à ton message, pardonne-moi."]
+    explain: "*Longtemps* + результат в настоящем → passé composé: ***j'ai longtemps hésité***. Наречие *longtemps* обычно ставят между *ai* и причастием."

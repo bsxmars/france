@@ -1,0 +1,44 @@
+title: "Du, de la, le или de?"
+type: gap
+intro: "Вставь частичный артикль (du, de la, de l'), определённый артикль (le, la, l', les), неопределённый des или предлог de (d')."
+hints:
+  - "Какое-то количество вещества или понятия → du, de la, de l'."
+  - "Вообще, после aimer / préférer или уже известный предмет → le, la, l'."
+  - "После отрицания и слов количества → de (d')."
+items:
+  - q: "Pour faire une crêpe, il faut ___ farine, du lait et des œufs."
+    answers: ["de la"]
+    explain: "Мука в каком-то количестве, ж. р. → **de la** farine."
+  - q: "Je mets toujours ___ sucre dans mon café."
+    answers: ["du"]
+    explain: "Неопределённое количество сахара, м. р. → **du** sucre."
+  - q: "Tu veux ___ eau ? Il fait si chaud !"
+    answers: ["de l'"]
+    explain: "Перед гласной частичный артикль — **de l'** в обоих родах."
+  - q: "Mes enfants adorent ___ chocolat."
+    answers: ["le"]
+    explain: "После *adorer* — предмет вообще → определённый артикль **le**."
+  - q: "Merci, je ne prends pas ___ dessert ce soir."
+    answers: ["de"]
+    explain: "Прямое дополнение после отрицания → **de**: *pas **de** dessert*."
+  - q: "Achète aussi un kilo ___ oranges, s'il te plaît."
+    answers: ["d'"]
+    explain: "После меры (*un kilo*) — **de**, перед гласной **d'**: *un kilo **d'oranges***."
+  - q: "Le week-end, mon frère fait ___ vélo dans la forêt."
+    answers: ["du"]
+    explain: "Оборот *faire **du** vélo* (как *faire du sport, du ski*)."
+  - q: "Pour apprendre une langue, il faut ___ patience."
+    answers: ["de la"]
+    explain: "Отвлечённое понятие в каком-то количестве → **de la** patience."
+  - q: "___ fromage que tu as acheté au marché est excellent."
+    answers: ["Le"]
+    explain: "Сыр определён придаточным (*que tu as acheté*) → **le**."
+  - q: "Il y a beaucoup ___ monde dans le métro ce matin."
+    answers: ["de"]
+    explain: "После *beaucoup* — **de**, без артикля."
+  - q: "Ce n'est pas ___ jus d'orange, c'est du jus de pomme."
+    answers: ["du"]
+    explain: "После *ce n'est pas* (глагол *être*) частичный артикль **сохраняется**: *ce n'est pas **du** jus*."
+  - q: "Dans ce village, les maisons sont entourées ___ jardins."
+    answers: ["de"]
+    explain: "После *entouré de* артикль *des* выпадает → **de** jardins."

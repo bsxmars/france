@@ -1,0 +1,67 @@
+title: "Одно предложение вместо двух"
+type: transform
+intro: "Соедини два предложения в одно с относительным местоимением (ключевое слово подсказывает форму). Впиши придаточное целиком — от предлога или местоимения до конца."
+hints:
+  - "Предлог переходит в начало придаточного: avec laquelle, pour qui, grâce auquel."
+  - "à + lequel = auquel, à + lesquels = auxquels; de + lequel = duquel (после à côté de, près de, à cause de…)."
+items:
+  - q: "Elle a tourné avec plusieurs réalisateurs. Ces réalisateurs lui ont beaucoup appris."
+    key: "qui"
+    stem: "Les réalisateurs ___ lui ont beaucoup appris."
+    answers: ["avec qui elle a tourné", "avec lesquels elle a tourné"]
+    explain: "*Tourner **avec** des réalisateurs* → предлог + **qui** (люди) или *avec lesquels*."
+  - q: "Il a obtenu une bourse. Grâce à cette bourse, il a pu finir son film."
+    key: "laquelle"
+    stem: "La bourse ___ a été décisive."
+    answers: ["grâce à laquelle il a pu finir son film"]
+    explain: "*Grâce à* + ж. р. → **grâce à laquelle** (с *la* артикль не сливается)."
+  - q: "J'ai lu un article. Je n'étais pas d'accord avec cet article."
+    key: "lequel"
+    stem: "L'article ___ a fait beaucoup de bruit."
+    answers: ["avec lequel je n'étais pas d'accord"]
+    explain: "*D'accord **avec** l'article* (предмет, м. р.) → **avec lequel**."
+  - q: "Nous avons logé près d'un vieux château. Ce château est ouvert au public."
+    key: "duquel"
+    stem: "Le château ___ est ouvert au public."
+    answers: ["près duquel nous avons logé"]
+    explain: "*Près de* — составной предлог → **près duquel** (de + lequel). *Dont* невозможно."
+  - q: "Le jury a posé des questions. Les candidats n'ont pas su répondre à ces questions."
+    key: "auxquelles"
+    stem: "Le jury a posé des questions ___ ."
+    answers: ["auxquelles les candidats n'ont pas su répondre"]
+    explain: "*Répondre **à** des questions* (ж. р. мн. ч.) → **auxquelles**."
+  - q: "Je pense souvent à ce projet. Ce projet n'a jamais vu le jour."
+    key: "auquel"
+    stem: "Le projet ___ n'a jamais vu le jour."
+    answers: ["auquel je pense souvent"]
+    explain: "*Penser **à** un projet* (предмет) → **auquel**. Для человека было бы *à qui*."
+  - q: "Les invités étaient nombreux. Parmi ces invités, il y avait trois écrivains."
+    key: "lesquels"
+    stem: "Il y avait de nombreux invités, ___ ."
+    answers: ["parmi lesquels trois écrivains", "parmi lesquels il y avait trois écrivains"]
+    explain: "После *parmi* даже для людей — только **lesquels**; *parmi qui* не говорят."
+  - q: "Le tournage a eu lieu dans une petite ville. Les habitants de cette ville ont tous participé."
+    key: "dont"
+    stem: "Le tournage a eu lieu dans une petite ville ___ ."
+    answers: ["dont les habitants ont tous participé", "dont tous les habitants ont participé"]
+    explain: "*Les habitants **de** cette ville* — «чьи жители» → **dont les habitants**."
+  - q: "Elle a écrit à une amie. Elle n'avait pas vu cette amie depuis vingt ans."
+    key: "qu'"
+    stem: "Elle a écrit à une amie ___ ."
+    answers: ["qu'elle n'avait pas vue depuis vingt ans"]
+    explain: "*Voir une amie* — прямое дополнение → **que**, перед *elle* — *qu'*. Причастие согласуется с *que* (= une amie): *vue*."
+  - q: "Le film parle d'une époque. À cette époque, les femmes ne votaient pas."
+    key: "où"
+    stem: "Le film parle d'une époque ___ ."
+    answers: ["où les femmes ne votaient pas"]
+    explain: "Время → **où**: *une époque où…* — «эпоха, когда…»."
+  - q: "Le pont a été restauré. Les touristes se photographient au milieu de ce pont."
+    key: "duquel"
+    stem: "Le pont ___ a été restauré."
+    answers: ["au milieu duquel les touristes se photographient"]
+    explain: "*Au milieu de* — составной предлог → **au milieu duquel**."
+  - q: "Ils comptent sur une collègue. Cette collègue part à la retraite."
+    key: "qui"
+    stem: "La collègue ___ part à la retraite."
+    answers: ["sur qui ils comptent", "sur laquelle ils comptent"]
+    explain: "*Compter **sur** quelqu'un* → **sur qui** (или *sur laquelle*)."

@@ -1,0 +1,55 @@
+title: "En или le / la / les"
+type: choice
+intro: "Выбери местоимение (и форму причастия, если она дана). Решает, определено ли существительное и какой предлог требует глагол."
+hints:
+  - "le / la / les — определённое существительное (le, ce, mon…); en — un, des, du, de la, количество, de + вещь."
+  - "После en причастие не согласуется; после le / la / les — согласуется."
+items:
+  - q: "Il y avait trois gâteaux sur la table ; les enfants ___ ont mangé deux."
+    options: ["les", "en", "l'", "y"]
+    answer: 1
+    explain: "Часть от количества (*deux* из трёх) → **en**: *ils en ont mangé deux*."
+  - q: "Il y avait trois gâteaux sur la table ; les enfants ___ ont tous mangés."
+    options: ["en", "les", "leur", "y"]
+    answer: 1
+    explain: "Все три конкретных пирожных → **les**; причастие согласуется: *mangés*."
+  - q: "Des erreurs ? Bien sûr que j'en ai ___ , comme tout le monde."
+    options: ["fait", "faites", "faits", "faite"]
+    answer: 0
+    explain: "После *en* причастие не согласуется: **j'en ai fait**."
+  - q: "Les erreurs que tu m'as signalées, je les ai ___ ."
+    options: ["corrigé", "corrigés", "corrigées", "corrigée"]
+    answer: 2
+    explain: "*Les* = *les erreurs* (ж. р. мн. ч.) перед *avoir* → **corrigées**."
+  - q: "Tu connais la nouvelle série dont tout le monde parle ? — Oui, j'___ ai vu deux épisodes."
+    options: ["en", "l'", "les", "y"]
+    answer: 0
+    explain: "*En* = *de cette série* (дополнение к *épisodes*): *j'**en** ai vu deux épisodes* — «я посмотрел из неё две серии». *L'* или *les* заменили бы прямое дополнение, но оно уже есть (*deux épisodes*)."
+  - q: "Ce vieux vélo, tu t'___ sers encore ?"
+    options: ["le", "y", "en", "lui"]
+    answer: 2
+    explain: "*Se servir **de** qch* → **en**, хотя существительное определённое: решает предлог *de*."
+  - q: "Ce vieux vélo, tu ___ vends ?"
+    options: ["en", "le", "y", "lui"]
+    answer: 1
+    explain: "*Vendre qch* — прямое дополнение, определённое (*ce vélo*) → **le**."
+  - q: "Des amis à Marseille ? Nous ___ avons quelques-uns."
+    options: ["les", "leur", "en", "y"]
+    answer: 2
+    explain: "Количество (*quelques-uns*) → **en**, даже о людях: *nous en avons quelques-uns*."
+  - q: "Du pain ? Je n'___ ai plus du tout, il faut ___ acheter."
+    options: ["en … en", "le … le", "en … l'", "y … en"]
+    answer: 0
+    explain: "Частичный артикль (*du pain*) → **en** в обоих случаях: *je n'en ai plus*, *il faut en acheter*."
+  - q: "Ses parents ? Il s'occupe ___ avec beaucoup de tendresse."
+    options: ["en", "d'eux", "les", "leur"]
+    answer: 1
+    explain: "*S'occuper de* + люди → ударная форма **d'eux**. *Il s'en occupe* — о делах, о вещах."
+  - q: "Combien de lettres as-tu écrites ? — J'___ ai écrit une dizaine."
+    options: ["les", "en", "y", "l'"]
+    answer: 1
+    explain: "Количество (*une dizaine*) → **en**; причастие *écrit* не согласуется."
+  - q: "Ta proposition est intéressante ; j'___ parlerai à la direction."
+    options: ["la", "en", "y", "lui"]
+    answer: 1
+    explain: "*Parler **de** qch* → **en**: *j'en parlerai*."

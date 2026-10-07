@@ -1,0 +1,43 @@
+title: "Поставь прилагательное в женский род"
+type: gap
+intro: "Впиши прилагательное из скобок в нужной форме женского рода (ед. или мн. ч. — по существительному). Написание по реформе 1990 года тоже принимается."
+hints:
+  - "-et → -ette, но complète, concrète, discrète, inquiète, secrète, désuète."
+  - "Особые формы: bénigne, maligne, aiguë, sèche, fraîche, grecque, caduque, coite."
+items:
+  - q: "Je voudrais une réponse ___ (concret) avant vendredi."
+    answers: ["concrète"]
+    explain: "*Concret* — в группе на *-ète*: ***concrète***."
+  - q: "La cuisine de cet appartement est vraiment ___ (exigu)."
+    answers: ["exiguë", "exigüe"]
+    explain: "*Exigu* → ***exiguë*** (tréma над *e*); по реформе 1990 — ***exigüe***."
+  - q: "Cette loi est devenue ___ (caduc) depuis la réforme."
+    answers: ["caduque"]
+    explain: "*Caduc* → ***caduque*** (как *public → publique, turc → turque*)."
+  - q: "Ils ont acheté une maison avec une façade ___ (blanc) et des volets bleus."
+    answers: ["blanche"]
+    explain: "*Blanc* → ***blanche*** (как *franc → franche*)."
+  - q: "Elle a lancé un regard plein d'une ironie ___ (moqueur)."
+    answers: ["moqueuse"]
+    explain: "*Moquer → moquant*: связь с причастием → ***moqueuse***."
+  - q: "Les forces ___ (créateur) de cette époque ont transformé la ville."
+    answers: ["créatrices"]
+    explain: "*-teur → -trice*: ***créatrices*** (мн. ч. по *forces*)."
+  - q: "La partie ___ (antérieur) du bâtiment date du XVIe siècle."
+    answers: ["antérieure"]
+    explain: "Прилагательные латинской сравнительной степени на *-eur* → *+ e*: ***antérieure***."
+  - q: "Face à ces accusations, elle est restée ___ (coi)."
+    answers: ["coite"]
+    explain: "*Coi* (онемевший) → ***coite***: *rester coi / coite*."
+  - q: "Il a été opéré d'une tumeur ___ (malin)."
+    answers: ["maligne"]
+    explain: "*Malin* → ***maligne*** (злокачественная). Разговорное *maline* — только о хитрости человека."
+  - q: "Ses explications restent ___ (ambigu) sur ce point."
+    answers: ["ambiguës", "ambigües"]
+    explain: "*Ambigu* → ***ambiguë***, мн. ч. ***ambiguës***; по реформе 1990 — *ambigües*."
+  - q: "Après la pluie, l'herbe était encore ___ (frais)."
+    answers: ["fraîche", "fraiche"]
+    explain: "*Frais* → ***fraîche*** (по реформе 1990 — *fraiche*)."
+  - q: "La statue ___ (grec) a été restaurée au Louvre."
+    answers: ["grecque"]
+    explain: "*Grec* → ***grecque*** (с *-que*)."

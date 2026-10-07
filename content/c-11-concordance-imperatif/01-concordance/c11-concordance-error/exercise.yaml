@@ -1,0 +1,43 @@
+title: "Найди ошибку: согласование времён"
+type: error
+intro: "В каждом предложении **одна** ошибка в согласовании времён. Исправь и отправь предложение целиком."
+hints:
+  - "Указатели прошлого (la veille, le lendemain, ce jour-là, à l'époque) требуют согласования."
+  - "После прошедшего: futur → conditionnel, passé composé → plus-que-parfait, présent → imparfait."
+items:
+  - q: "Hier, Marie m'a dit qu'elle a très faim."
+    answers: ["Hier, Marie m'a dit qu'elle avait très faim."]
+    explain: "Вчерашний голод не актуален сейчас → одновременность в плане прошедшего: ***avait***."
+  - q: "Je savais que tu réussiras ton examen."
+    answers: ["Je savais que tu réussirais ton examen."]
+    explain: "Будущее относительно прошлого → ***réussirais*** (futur dans le passé)."
+  - q: "Il m'a demandé où j'habite à l'époque."
+    answers: ["Il m'a demandé où j'habitais à l'époque."]
+    explain: "*À l'époque* — факт прошлого → ***habitais***."
+  - q: "Elle a avoué qu'elle a perdu la clé la veille."
+    answers: ["Elle a avoué qu'elle avait perdu la clé la veille."]
+    explain: "Предшествование в плане прошедшего (*la veille*) → plus-que-parfait: ***avait perdu***."
+  - q: "Nous pensions qu'il partira le lendemain."
+    answers: ["Nous pensions qu'il partirait le lendemain."]
+    explain: "*Le lendemain* — будущее относительно прошлого → ***partirait***."
+  - q: "Il a juré qu'il reviendrait dès qu'il aura trouvé un emploi."
+    answers: ["Il a juré qu'il reviendrait dès qu'il aurait trouvé un emploi."]
+    explain: "Futur antérieur в плане прошедшего → conditionnel passé: ***aurait trouvé***."
+  - q: "Le journaliste a révélé que le ministre a menti au Parlement la semaine précédente."
+    answers: ["Le journaliste a révélé que le ministre avait menti au Parlement la semaine précédente."]
+    explain: "*La semaine précédente* — раньше момента *a révélé* → ***avait menti***."
+  - q: "Il a dit qu'il viendra le lendemain."
+    answers: ["Il a dit qu'il viendrait le lendemain."]
+    explain: "*Le lendemain* отсчитывается от прошлого → futur dans le passé ***viendrait***."
+  - q: "Elle m'a demandé si je pouvais l'aider et si je serai libre le samedi suivant."
+    answers: ["Elle m'a demandé si je pouvais l'aider et si je serais libre le samedi suivant."]
+    explain: "Косвенный вопрос в плане прошедшего: ***serais*** (после *si* «ли» conditionnel нормален)."
+  - q: "Quand je suis arrivé, j'ai compris que la réunion a déjà commencé."
+    answers: ["Quand je suis arrivé, j'ai compris que la réunion avait déjà commencé.", "Quand je suis arrivée, j'ai compris que la réunion avait déjà commencé."]
+    explain: "Собрание началось раньше момента *ai compris* → ***avait déjà commencé***."
+  - q: "Il m'a expliqué qu'il ne pourrait pas venir parce qu'il doit travailler ce soir-là."
+    answers: ["Il m'a expliqué qu'il ne pourrait pas venir parce qu'il devait travailler ce soir-là."]
+    explain: "*Ce soir-là* — план прошедшего, одновременность → ***devait***."
+  - q: "Ils croyaient que nous avons accepté leur offre, mais nous l'avions refusée."
+    answers: ["Ils croyaient que nous avions accepté leur offre, mais nous l'avions refusée."]
+    explain: "Предшествование относительно *croyaient* → plus-que-parfait ***avions accepté***."

@@ -1,0 +1,47 @@
+title: "Узнай форму и выбери время"
+type: choice
+intro: "В пунктах 1–7 найди инфинитив выделенной формы passé simple. В пунктах 8–10 выбери время по ситуации."
+hints:
+  - "Основа passé simple часто совпадает с причастием: lu → il lut, su → il sut."
+  - "Разговор — passé composé; книжный рассказ — passé simple; фон и состояние — imparfait."
+items:
+  - q: "Victor Hugo **naquit** à Besançon en 1802."
+    options: ["nager", "naître", "nuire"]
+    answer: 1
+    explain: "*Naître* имеет особую форму: *je naquis, il **naquit*** — «родился»."
+  - q: "Elle **mit** la lettre dans sa poche."
+    options: ["mettre", "mentir", "mener"]
+    answer: 0
+    explain: "*Mettre* → *il **mit*** (причастие *mis*)."
+  - q: "Le soldat **dut** abandonner son cheval."
+    options: ["dire", "donner", "devoir"]
+    answer: 2
+    explain: "*Devoir* → причастие *dû* → *il **dut***. От *dire* было бы *il dit*."
+  - q: "Ils **lurent** la lettre deux fois."
+    options: ["lire", "lier", "luire"]
+    answer: 0
+    explain: "*Lire* → *lu* → *ils **lurent***: тип на **u**, одно из исключений среди глаголов на *-ire*."
+  - q: "Il **plut** toute la nuit, et le matin la rivière déborda."
+    options: ["plaire", "pleuvoir", "plier"]
+    answer: 1
+    explain: "*Il plut* — форма и *pleuvoir*, и *plaire*. Здесь речь о ночи и разлившейся реке → **pleuvoir**: «всю ночь шёл дождь»."
+  - q: "Personne ne **sut** répondre à la question du roi."
+    options: ["sortir", "savoir", "suivre"]
+    answer: 1
+    explain: "*Savoir* → *su* → *il **sut*** — «смог, сумел ответить»."
+  - q: "Les invités **crurent** à cette histoire."
+    options: ["croire", "croître", "courir"]
+    answer: 0
+    explain: "*Croire* → *cru* → *ils **crurent***. От *courir* было бы *ils coururent*."
+  - q: "Le lendemain, Marie ___ à son amie une longue lettre. (книжный рассказ)"
+    options: ["écrivit", "écrit", "écrivait"]
+    answer: 0
+    explain: "Единичное событие с указанным моментом (*le lendemain*) в литературном рассказе → passé simple: **écrivit**."
+  - q: "— Pourquoi tu es en retard ? — J'___ le bus ! (разговор)"
+    options: ["ai raté", "ratai", "ratais"]
+    answer: 0
+    explain: "Живая речь, событие связано с настоящим (опоздал сейчас) → passé composé: **ai raté**."
+  - q: "Il ___ nuit quand le train s'arrêta enfin. (книжный рассказ)"
+    options: ["fut", "était", "a été"]
+    answer: 1
+    explain: "«Была ночь» — фон, состояние → imparfait **était**. Событие сюжета — *le train s'arrêta* (passé simple)."

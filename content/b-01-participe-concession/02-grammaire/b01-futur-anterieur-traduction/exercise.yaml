@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Русское будущее совершенного вида («закончу», «приеду») часто требует futur antérieur, а после *quand* о будущем никогда не ставится présent. Пунктуация не важна, акценты — важны."
+hints:
+  - "«Когда закончу, позвоню» = Quand j'aurai fini, je t'appellerai."
+  - "«К такому-то моменту уже сделаю» = futur antérieur + d'ici / dans."
+items:
+  - q: "Когда я закончу этот проект, я возьму отпуск."
+    answers: ["Quand j'aurai fini ce projet, je prendrai des vacances.", "Quand j'aurai terminé ce projet, je prendrai des vacances.", "Lorsque j'aurai fini ce projet, je prendrai des vacances.", "Lorsque j'aurai terminé ce projet, je prendrai des vacances.", "Quand j'aurai fini ce projet, je prendrai un congé.", "Quand j'aurai terminé ce projet, je prendrai un congé."]
+    explain: "Сначала закончить, потом отпуск → *quand* + futur antérieur (**aurai fini**), главная часть — futur simple."
+  - q: "Как только ты приедешь, напиши мне."
+    answers: ["Dès que tu seras arrivé, écris-moi.", "Dès que tu seras arrivée, écris-moi.", "Dès que tu arriveras, écris-moi.", "Aussitôt que tu seras arrivé, écris-moi.", "Aussitôt que tu seras arrivée, écris-moi.", "Aussitôt que tu arriveras, écris-moi.", "Dès que tu seras arrivé, envoie-moi un message.", "Dès que tu arriveras, envoie-moi un message."]
+    explain: "*Dès que* + futur antérieur (**seras arrivé(e)**) или futur simple; главная часть — императив. Présent (*dès que tu arrives*) — ошибка."
+  - q: "К концу месяца мы уже переедем."
+    answers: ["D'ici la fin du mois, nous aurons déjà déménagé.", "À la fin du mois, nous aurons déjà déménagé.", "D'ici la fin du mois, on aura déjà déménagé.", "À la fin du mois, on aura déjà déménagé.", "D'ici la fin du mois, nous aurons déménagé.", "Nous aurons déjà déménagé d'ici la fin du mois."]
+    explain: "Действие завершится к моменту в будущем → futur antérieur **aurons déménagé**; *déjà* — между вспомогательным глаголом и причастием."
+  - q: "Через год она выучит французский."
+    answers: ["Dans un an, elle aura appris le français.", "D'ici un an, elle aura appris le français.", "Elle aura appris le français dans un an.", "Elle aura appris le français d'ici un an."]
+    explain: "*Dans un an* — к этому моменту результат будет достигнут → **aura appris**. *Elle apprendra* — «будет учить» (процесс)."
+  - q: "Его ещё нет? Наверное, он опоздал на поезд."
+    answers: ["Il n'est pas encore là ? Il aura raté son train.", "Il n'est pas encore arrivé ? Il aura raté son train.", "Il n'est pas encore là ? Il aura raté le train.", "Il n'est pas encore arrivé ? Il aura raté le train.", "Il n'est toujours pas là ? Il aura raté son train.", "Il n'est toujours pas là ? Il aura raté le train."]
+    explain: "Предположение о прошлом → futur antérieur: *il **aura raté** son train* — «наверное, опоздал»."
+  - q: "Я верну тебе деньги, когда получу зарплату."
+    answers: ["Je te rendrai l'argent quand j'aurai reçu mon salaire.", "Je te rembourserai quand j'aurai reçu mon salaire.", "Je te rendrai l'argent quand je recevrai mon salaire.", "Je te rembourserai quand je recevrai mon salaire.", "Je te rendrai ton argent quand j'aurai reçu mon salaire.", "Je te rendrai ton argent quand j'aurai touché mon salaire.", "Je te rendrai l'argent quand j'aurai touché mon salaire."]
+    explain: "Сначала получить зарплату → **quand j'aurai reçu** (допустим и futur simple *recevrai*). Главная часть — futur simple."
+  - q: "Когда дети уснут, мы посмотрим фильм."
+    answers: ["Quand les enfants se seront endormis, nous regarderons un film.", "Quand les enfants se seront endormis, on regardera un film.", "Quand les enfants seront endormis, nous regarderons un film.", "Quand les enfants seront endormis, on regardera un film.", "Lorsque les enfants se seront endormis, nous regarderons un film.", "Une fois que les enfants se seront endormis, nous regarderons un film."]
+    explain: "Возвратный *s'endormir* → *se seront endormis* (согласование с *les enfants*); можно и *seront endormis* — «будут спать»."
+  - q: "Ты сможешь уйти, после того как подпишешь договор."
+    answers: ["Tu pourras partir après avoir signé le contrat.", "Tu pourras partir quand tu auras signé le contrat.", "Tu pourras partir une fois que tu auras signé le contrat.", "Tu pourras partir après que tu auras signé le contrat.", "Tu pourras partir dès que tu auras signé le contrat."]
+    explain: "Подлежащее общее → удобнее всего *après avoir signé*; с союзом — *quand / une fois que / après que tu **auras signé***."
+  - q: "Я позвоню тебе, если закончу рано."
+    answers: ["Je t'appellerai si je finis tôt.", "Je t'appellerai si je termine tôt.", "Je te téléphonerai si je finis tôt.", "Je te téléphonerai si je termine tôt."]
+    explain: "Ловушка: после **si** — présent, не будущее: *si je **finis** tôt*. Futur antérieur нужен после *quand*, а не после *si*."
+  - q: "Когда ты прочитаешь эту книгу, ты поймёшь, почему я её люблю."
+    answers: ["Quand tu auras lu ce livre, tu comprendras pourquoi je l'aime.", "Lorsque tu auras lu ce livre, tu comprendras pourquoi je l'aime.", "Quand tu liras ce livre, tu comprendras pourquoi je l'aime.", "Une fois que tu auras lu ce livre, tu comprendras pourquoi je l'aime."]
+    explain: "Понять можно, только **дочитав** → *quand tu **auras lu***; *quand tu liras* — «по ходу чтения» — тоже допустимо."

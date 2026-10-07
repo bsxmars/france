@@ -1,0 +1,44 @@
+title: "Y, lui, leur или à + ударное"
+type: gap
+intro: "Впиши местоимение: y, lui, leur или à + ударную форму (à lui, à elle, à eux). Если нужно сокращение (j', m', n'), оно уже есть в тексте. В последнем пункте впиши глагол."
+hints:
+  - "Вещь, идея, предложение после à → y."
+  - "Лицо: répondre, obéir, téléphoner, plaire → lui / leur; penser, s'intéresser, s'habituer, se fier → à lui, à elle."
+  - "Перед irai, irais… y не ставят."
+items:
+  - q: "Le règlement est absurde, mais nous devons ___ obéir."
+    answers: ["y"]
+    explain: "*Obéir à* + вещь (*le règlement*) → **y**. О человеке было бы *lui obéir*."
+  - q: "Notre nouveau chef est exigeant, mais nous devons ___ obéir."
+    answers: ["lui"]
+    explain: "*Obéir à* + лицо → **lui**."
+  - q: "Ces enfants sont adorables ; je m'attache vite ___."
+    answers: ["à eux"]
+    explain: "Возвратный глагол *s'attacher à* + лица → **à eux**."
+  - q: "Ce quartier était bruyant, mais je m'___ suis attaché."
+    answers: ["y"]
+    explain: "*S'attacher à* + место → **y**: *je m'y suis attaché*."
+  - q: "Ton idée de déménager ? J'___ ai longuement réfléchi."
+    answers: ["y"]
+    explain: "*Réfléchir **à** qch* → **y**."
+  - q: "Ma tante m'a écrit, et je ___ ai répondu aussitôt."
+    answers: ["lui"]
+    explain: "*Répondre à* + лицо → **lui**."
+  - q: "Ta lettre m'a touché ; j'___ répondrai dès que possible."
+    answers: ["y"]
+    explain: "*Répondre à* + вещь (*ta lettre*) → **y**."
+  - q: "Cette chanteuse ? Je m'intéresse beaucoup ___ depuis son dernier album."
+    answers: ["à elle"]
+    explain: "*S'intéresser à* + лицо → **à elle** (возвратный глагол не допускает *lui*)."
+  - q: "Tu viendras à l'exposition ? — Oui, j'___ serai à dix heures."
+    answers: ["y"]
+    explain: "*Y* — наречие места (= à l'exposition): *j'**y** serai*."
+  - q: "Les nouvelles mesures ? Les syndicats s'___ opposent fermement."
+    answers: ["y"]
+    explain: "*S'opposer à* + вещь → **y**: *ils s'y opposent*."
+  - q: "Mes neveux adorent le cirque ; hier, je ___ ai emmenés."
+    answers: ["les y"]
+    explain: "*Emmener qn quelque part*: *les* (прямое) + **y** (место): *je **les y** ai emmenés*; *y* идёт после другого местоимения."
+  - q: "Tu iras chez le dentiste demain ? — Oui, j'___."
+    answers: ["irai"]
+    explain: "Перед *irai / irais* местоимение *y* опускают ради благозвучия: **j'irai**, а не ~~j'y irai~~."

@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Используй ne… ni… ni…, sans… ni… или ni l'un ni l'autre. Пунктуация не важна, акценты — важны."
+hints:
+  - "Без pas; un / une / des / du исчезают, le / la / les остаются."
+  - "«Ни X, ни Y не…» (подлежащие) → Ni X ni Y ne + глагол."
+items:
+  - q: "У меня нет ни брата, ни сестры."
+    answers: ["Je n'ai ni frère ni sœur."]
+    explain: "*Ne* + глагол + *ni… ni…*, неопределённый артикль исчезает: *je n'ai **ni** frère **ni** sœur*."
+  - q: "Этот курс ни полезный, ни интересный."
+    answers: ["Ce cours n'est ni utile ni intéressant."]
+    explain: "Два прилагательных: *n'est **ni** utile **ni** intéressant*."
+  - q: "Ни родители, ни учителя не довольны реформой."
+    answers: ["Ni les parents ni les professeurs ne sont contents de la réforme.", "Ni les parents ni les enseignants ne sont contents de la réforme.", "Ni les parents ni les profs ne sont contents de la réforme.", "Ni les parents ni les professeurs ne sont satisfaits de la réforme.", "Ni les parents ni les enseignants ne sont satisfaits de la réforme."]
+    explain: "Подлежащие → ***Ni** les parents **ni** les professeurs **ne** sont…*; определённый артикль остаётся."
+  - q: "Он не умеет ни читать, ни писать."
+    answers: ["Il ne sait ni lire ni écrire."]
+    explain: "Умение → *savoir* + два инфинитива: *ne sait **ni** lire **ni** écrire*."
+  - q: "Я не взял ни зонт, ни куртку."
+    answers: ["Je n'ai pris ni parapluie ni veste.", "Je n'ai pris ni mon parapluie ni ma veste.", "Je n'ai pris ni le parapluie ni la veste.", "Je n'ai pris ni parapluie ni blouson.", "Je n'ai pris ni mon parapluie ni mon blouson."]
+    explain: "*Ni… ni…* после причастия *pris*; без артикля (*ni parapluie ni veste*) или с притяжательными (*ni mon parapluie ni ma veste*)."
+  - q: "Она сдала экзамен без помощи и без репетитора."
+    answers: ["Elle a réussi l'examen sans aide ni professeur particulier.", "Elle a réussi son examen sans aide ni professeur particulier.", "Elle a réussi l'examen sans aide ni prof particulier.", "Elle a réussi son examen sans aide ni prof particulier.", "Elle a réussi l'examen sans aide ni cours particuliers.", "Elle a réussi son examen sans aide ni cours particuliers.", "Elle a réussi l'examen sans aide ni tuteur.", "Elle a réussi son examen sans aide ni tuteur."]
+    explain: "**sans** X **ni** Y, без артиклей: *sans aide **ni** professeur particulier*."
+  - q: "(Какой из двух вариантов, А или Б?) Ни тот, ни другой."
+    answers: ["Ni l'un ni l'autre."]
+    explain: "«Ни тот, ни другой» → **ni l'un ni l'autre** (о двух существительных ж. р. — *ni l'une ni l'autre*)."
+  - q: "Мы не были ни в Риме, ни в Венеции."
+    answers: ["Nous ne sommes allés ni à Rome ni à Venise.", "Nous ne sommes allées ni à Rome ni à Venise.", "On n'est allés ni à Rome ni à Venise.", "On n'est allé ni à Rome ni à Venise.", "On n'est allées ni à Rome ni à Venise.", "Nous n'avons été ni à Rome ni à Venise."]
+    explain: "Обстоятельства места с предлогом: *ni **à** Rome ni **à** Venise*; *ni… ni…* после причастия."
+  - q: "Он ни ел, ни пил весь день."
+    answers: ["Il n'a ni mangé ni bu de la journée.", "Il n'a ni mangé ni bu toute la journée."]
+    explain: "Отрицаются причастия: *n'a **ni** mangé **ni** bu*."
+  - q: "Я не люблю ни рэп, ни техно."
+    answers: ["Je n'aime ni le rap ni la techno.", "Je n'aime pas le rap ni la techno."]
+    explain: "После *aimer* определённый артикль остаётся: *ni **le** rap ni **la** techno*. Вариант *ne… pas… ni…* тоже верен."

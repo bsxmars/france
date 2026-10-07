@@ -1,0 +1,47 @@
+title: "depuis, il y a, pendant, en, pour"
+type: choice
+intro: "Выбери слово или форму глагола. Смотри, продолжается ли действие сейчас (или в момент рассказа) и названа ли закрытая длительность."
+hints:
+  - "il y a — «назад»; depuis — «с тех пор и до сих пор»; pendant — закрытая длительность."
+  - "en — за сколько времени; pour — на какой срок (с partir, venir, aller)."
+items:
+  - q: "J'habite à Nantes ___ 2020."
+    options: ["depuis", "il y a", "pendant"]
+    answer: 0
+    explain: "Живу до сих пор, начиная с даты → **depuis** + présent."
+  - q: "Nous nous sommes rencontrés ___ dix ans, à un mariage."
+    options: ["depuis", "il y a", "pendant"]
+    answer: 1
+    explain: "Однократное событие «десять лет назад» → **il y a** + passé composé."
+  - q: "Il a travaillé à Berlin ___ trois ans, puis il est revenu."
+    options: ["depuis", "il y a", "pendant"]
+    answer: 2
+    explain: "Закрытая длительность (потом вернулся) → **pendant** + passé composé."
+  - q: "Elle ne fume plus ___ six mois."
+    options: ["pendant", "depuis", "il y a"]
+    answer: 1
+    explain: "Состояние «не курит» длится до сих пор → **depuis**."
+  - q: "Quand je l'ai rencontrée, elle ___ à Paris depuis deux ans."
+    options: ["a vécu", "vit", "vivait"]
+    answer: 2
+    explain: "«Жила уже два года» к моменту в прошлом → **imparfait + depuis**."
+  - q: "___ trois semaines que j'attends sa réponse."
+    options: ["Depuis", "Il y a", "Pendant"]
+    answer: 1
+    explain: "Конструкция **il y a + срок + que** + présent = *depuis trois semaines*. *Ça fait trois semaines que…* — тоже верно."
+  - q: "J'ai écrit ce rapport ___ deux heures : c'était rapide."
+    options: ["en", "pendant", "depuis"]
+    answer: 0
+    explain: "Сколько времени **понадобилось**, чтобы закончить → **en** deux heures."
+  - q: "Quand il a pris sa retraite, il ___ dans la même entreprise depuis trente ans."
+    options: ["a travaillé", "travaillait", "avait travaillé"]
+    answer: 1
+    explain: "*depuis* в прошлом рассказе → **imparfait**: «работал уже тридцать лет» к моменту выхода на пенсию. Без *depuis* можно было бы сказать *il avait travaillé trente ans*."
+  - q: "Je ne l'ai pas vu ___ son mariage."
+    options: ["pendant", "il y a", "depuis"]
+    answer: 2
+    explain: "«Не видел со дня свадьбы» → **depuis** + событие; в отрицании — passé composé."
+  - q: "Ils sont partis en vacances ___ deux semaines : ils reviennent samedi."
+    options: ["pour", "pendant", "depuis"]
+    answer: 0
+    explain: "Запланированный срок с глаголами *partir, venir, aller* → **pour** deux semaines."

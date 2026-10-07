@@ -1,0 +1,55 @@
+title: "Какое наклонение после оборота вероятности?"
+type: choice
+intro: "Выбери форму глагола. Сначала определи степень вероятности: уверенность и «скорее всего» — indicatif; возможность, малая вероятность, невозможность — subjonctif."
+hints:
+  - "il est probable / certain / sûr / évident que, peut-être que, sans doute que → indicatif."
+  - "il est possible / peu probable / impossible que, il se peut que, il y a peu de chances que → subjonctif."
+items:
+  - q: "Il est possible que ce diplôme ___ plus reconnu dans dix ans."
+    options: ["n'est", "ne soit", "ne sera"]
+    answer: 1
+    explain: "*Il est possible que* → subjonctif: **ne soit** plus reconnu."
+  - q: "Il est certain que les métiers ___ avec l'intelligence artificielle."
+    options: ["évolueront", "aient évolué", "évoluassent"]
+    answer: 0
+    explain: "*Il est certain que* → indicatif; речь о будущем → **évolueront**. *Aient évolué* — subjonctif passé, *évoluassent* — imparfait du subjonctif."
+  - q: "Il se peut que la réunion ___ annulée."
+    options: ["soit", "est", "sera"]
+    answer: 0
+    explain: "*Il se peut que* → subjonctif: **soit**."
+  - q: "Il est probable que Léa ___ un master l'année prochaine."
+    options: ["fasse", "fera", "ait fait"]
+    answer: 1
+    explain: "*Il est probable que* → indicatif, будущее → **fera**."
+  - q: "Il y a peu de chances que les frais d'inscription ___."
+    options: ["baissent", "baisseront", "ont baissé"]
+    answer: 0
+    explain: "*Il y a peu de chances que* → subjonctif: **baissent**."
+  - q: "Peut-être qu'il ___ changer de filière."
+    options: ["veuille", "voudra", "veuillent"]
+    answer: 1
+    explain: "*Peut-être que* — наречие → indicatif: **voudra**."
+  - q: "Il n'est pas certain que le gouvernement ___ cette réforme."
+    options: ["maintiendra", "maintienne", "maintient"]
+    answer: 1
+    explain: "Отрицание *il n'est pas certain* → сомнение → subjonctif: **maintienne**."
+  - q: "Il est peu probable qu'elle ___ le concours : elle n'a pas révisé."
+    options: ["a réussi", "ait réussi", "avait réussi"]
+    answer: 1
+    explain: "*Il est peu probable que* → subjonctif; конкурс уже был → subjonctif passé: **ait réussi**."
+  - q: "Il est évident que les langues étrangères ___ un atout."
+    options: ["sont", "soient", "aient été"]
+    answer: 0
+    explain: "*Il est évident que* → уверенность → indicatif: **sont**."
+  - q: "Il est impossible que tout le monde ___ le même parcours."
+    options: ["suit", "suive", "suivra"]
+    answer: 1
+    explain: "*Il est impossible que* → subjonctif: **suive**."
+  - q: "Sans doute que les étudiants ___ plus d'aide."
+    options: ["aient besoin d'", "auront besoin d'", "eussent besoin d'"]
+    answer: 1
+    explain: "*Sans doute que* = «вероятно» — наречие → indicatif: **auront besoin d'**."
+  - q: "Il se pourrait que nous ___ partir plus tôt."
+    options: ["devons", "devions", "devrons"]
+    answer: 1
+    explain: "*Il se pourrait que* → subjonctif: **devions** (у *devoir* формы *nous* в subjonctif и imparfait совпадают; здесь это subjonctif présent)."

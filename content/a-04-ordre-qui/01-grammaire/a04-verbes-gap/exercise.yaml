@@ -1,0 +1,43 @@
+title: "Глаголы III группы: il и ils"
+type: gap
+intro: "Поставь глагол в 3-е лицо единственного или множественного числа настоящего времени. В двух последних пунктах вставь личное местоимение вместо подлежащего."
+hints:
+  - "il lit, il écrit, il dit, il part — немое -t; il prend — немое -d."
+  - "ils lisent, ils écrivent, ils disent, ils partent, ils prennent."
+items:
+  - q: "Anna ___ (lire) le livre de Paul."
+    answers: ["lit"]
+    explain: "3-е лицо ед. ч. → **lit**, *-t* не читается."
+  - q: "Les élèves ___ (lire) vite."
+    answers: ["lisent"]
+    explain: "Мн. ч. → **lisent** [liz]: в основе появляется *s*, который звучит как [z]."
+  - q: "Paul ___ (écrire) la dictée."
+    answers: ["écrit"]
+    explain: "3-е лицо ед. ч. → **écrit** [e-kri]."
+  - q: "Léa et Hugo ___ (écrire) les exercices."
+    answers: ["écrivent"]
+    explain: "*Léa et Hugo* = *ils* → **écrivent** [e-kriv]: появляется *v*."
+  - q: "Ma mère ___ (dire) merci."
+    answers: ["dit"]
+    explain: "3-е лицо ед. ч. → **dit**."
+  - q: "Les filles ___ (dire) merci à Anna."
+    answers: ["disent"]
+    explain: "Мн. ч. → **disent** [diz]."
+  - q: "Hugo ___ (partir) avec sa famille."
+    answers: ["part"]
+    explain: "*partir* → *il **part*** [par], *-t* немое."
+  - q: "Les amis de Paul ___ (partir) à Lille."
+    answers: ["partent"]
+    explain: "Мн. ч. → **partent** [part]: здесь *t* звучит, потому что после него есть *-ent*."
+  - q: "Anna ___ (faire) les exercices."
+    answers: ["fait"]
+    explain: "*faire* → *elle **fait*** [fɛ]."
+  - q: "Les élèves ___ (prendre) les livres."
+    answers: ["prennent"]
+    explain: "*prendre* во мн. ч. → **prennent**, с двумя *n*. В ед. ч. — *il prend*."
+  - q: "Paul et Anna lisent. → ___ lisent."
+    answers: ["Ils"]
+    explain: "Мужчина и женщина вместе → **ils**: если в группе есть мужской род, местоимение мужское."
+  - q: "Ma mère et ma fille travaillent. → ___ travaillent."
+    answers: ["Elles"]
+    explain: "Только женщины → **elles**."

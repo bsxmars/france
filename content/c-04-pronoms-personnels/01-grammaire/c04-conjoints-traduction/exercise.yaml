@@ -1,0 +1,44 @@
+title: "Переведи: управление и каузатив"
+type: gap
+intro: "Переведи фразу целиком. Существительные из скобок замени местоимениями. Следи за управлением французского глагола и за местом местоимения при faire / laisser + инфинитив."
+hints:
+  - "Прямое дополнение: aider, remercier, attendre, écouter, prévenir qn. Косвенное: téléphoner, obéir, ressembler, plaire, demander à qn."
+  - "faire / laisser + инфинитив: местоимение перед faire / laisser; fait не согласуется."
+  - "me / te / se + «ему» → à + ударное: il m'a présenté à elle."
+items:
+  - q: "(Соседка) Я ей помогаю каждую субботу."
+    answers: ["Je l'aide chaque samedi.", "Je l'aide tous les samedis.", "Chaque samedi, je l'aide.", "Tous les samedis, je l'aide.", "Je l'aide le samedi."]
+    explain: "*Aider **qn*** — прямое дополнение, хотя по-русски «помогать **ей**»: **je l'aide**."
+  - q: "(Директор) Ты ему позвонил?"
+    answers: ["Tu lui as téléphoné ?", "Est-ce que tu lui as téléphoné ?", "Lui as-tu téléphoné ?"]
+    explain: "*Téléphoner **à** qn* → косвенное **lui**, перед вспомогательным глаголом."
+  - q: "(Родители) Мы их поблагодарили."
+    answers: ["Nous les avons remerciés.", "On les a remerciés."]
+    explain: "*Remercier **qn*** — прямое дополнение → **les**; оно стоит перед *avoir*, поэтому причастие согласуется: *remerciés*."
+  - q: "(Отец) Он на него очень похож."
+    answers: ["Il lui ressemble beaucoup.", "Il lui ressemble énormément.", "Il lui ressemble vraiment."]
+    explain: "*Ressembler **à** qn* → **lui**: *il lui ressemble*. Предлог *à* + лицо всегда даёт *lui / leur*, кроме глаголов вроде *penser à* (они — в уроке об ударных)."
+  - q: "(Электрик) Я его вызвал, он придёт завтра."
+    answers: ["Je l'ai fait venir, il viendra demain.", "Je l'ai fait venir, il vient demain.", "Je l'ai appelé, il viendra demain.", "Je l'ai appelé, il vient demain."]
+    explain: "*Faire venir qn* — исполнитель действия без своего дополнения остаётся прямым и встаёт перед *faire*: **je l'ai fait venir**; *fait* не согласуется. *Appeler qn* — тоже прямое."
+  - q: "(Письмо, Поль) Я дам ему его прочитать."
+    answers: ["Je la lui ferai lire.", "Je vais la lui faire lire.", "Je la lui donnerai à lire.", "Je vais la lui donner à lire.", "Je la lui laisserai lire.", "Je vais la lui laisser lire."]
+    explain: "У инфинитива есть своё прямое дополнение (*la lettre* → *la*), поэтому исполнитель (*Paul*) становится косвенным → *lui*: **je la lui ferai lire**."
+  - q: "(Дети) Не выпускай их на улицу."
+    answers: ["Ne les laisse pas sortir.", "Ne les laisse pas sortir dans la rue.", "Ne les fais pas sortir.", "Ne les laisse pas aller dehors.", "Ne les laisse pas sortir dehors."]
+    explain: "*Laisser sortir qn*: местоимение перед *laisser*; отрицательный императив → местоимение перед глаголом: **ne les laisse pas sortir**."
+  - q: "(Гости) Пригласи их войти."
+    answers: ["Fais-les entrer.", "Faites-les entrer.", "Invite-les à entrer.", "Invitez-les à entrer."]
+    explain: "Утвердительный императив: местоимение после *faire* через дефис: **Fais-les entrer**."
+  - q: "Она мне его представила (своего жениха)."
+    answers: ["Elle me l'a présenté.", "Elle me l'a présenté, son fiancé."]
+    explain: "*Me* (косвенное) + *le* (прямое): порядок **me le**; причастие согласуется с *l'* (м. р.) — *présenté*."
+  - q: "Он представил меня им."
+    answers: ["Il m'a présenté à eux.", "Il m'a présentée à eux.", "Il m'a présenté à elles.", "Il m'a présentée à elles."]
+    explain: "*Me* + *leur* вместе невозможно: прямое *me* остаётся, косвенное → **à eux / à elles**. Причастие согласуется с *me*: *présenté* или *présentée*."
+  - q: "(Начальник) Я его предупредил, но он меня не послушал."
+    answers: ["Je l'ai prévenu, mais il ne m'a pas écouté.", "Je l'ai prévenu mais il ne m'a pas écouté.", "Je l'ai prévenu, mais il ne m'a pas écoutée.", "Je l'ai prévenu mais il ne m'a pas écoutée.", "Je l'avais prévenu, mais il ne m'a pas écouté.", "Je l'avais prévenu, mais il ne m'a pas écoutée."]
+    explain: "*Prévenir qn* и *écouter qn* — оба прямые: **l'ai prévenu**, **m'a pas écouté(e)**. Если говорит женщина — *écoutée*."
+  - q: "(Бабушка) Мы её навещаем, она нам звонит каждый день."
+    answers: ["Nous lui rendons visite, elle nous téléphone chaque jour.", "Nous lui rendons visite, elle nous téléphone tous les jours.", "Nous la voyons souvent, elle nous téléphone tous les jours.", "On lui rend visite, elle nous téléphone tous les jours.", "On lui rend visite, elle nous téléphone chaque jour.", "Nous allons la voir, elle nous téléphone tous les jours.", "On va la voir, elle nous téléphone tous les jours."]
+    explain: "*Rendre visite **à** qn* → **lui**, но *aller voir qn* → **la**. *Téléphoner à* → *nous* (у 1-го и 2-го лица формы совпадают)."

@@ -1,0 +1,68 @@
+title: "Переведи в отрицание"
+type: transform
+intro: "Преобразуй предложение с помощью отрицания из ключа. Впиши недостающую часть, следя за местом отрицания в сложном времени и при инфинитиве."
+hints:
+  - "rien, jamais, plus — между вспомогательным глаголом и причастием; personne, aucun, nulle part — после причастия."
+  - "При инфинитиве: ne rien / ne plus / ne jamais + инфинитив, но ne + инфинитив + personne."
+  - "Цепочка: plus jamais, plus rien, jamais rien; pas не нужен."
+items:
+  - q: "J'ai rencontré quelqu'un dans l'escalier."
+    key: "personne"
+    stem: "Je ___ dans l'escalier."
+    answers: ["n'ai rencontré personne"]
+    explain: "*Personne* в сложном времени стоит **после** причастия: *n'ai rencontré personne*."
+  - q: "Il a compris quelque chose à cette explication."
+    key: "rien"
+    stem: "Il ___ à cette explication."
+    answers: ["n'a rien compris"]
+    explain: "*Rien* — между *a* и причастием: *n'a rien compris*."
+  - q: "Elle est allée quelque part pendant les vacances."
+    key: "nulle part"
+    stem: "Elle ___ pendant les vacances."
+    answers: ["n'est allée nulle part"]
+    explain: "*Nulle part* — после причастия: *n'est allée nulle part*."
+  - q: "Après notre dispute, il m'a encore souvent téléphoné."
+    key: "plus jamais"
+    stem: "Il ___ téléphoné."
+    answers: ["ne m'a plus jamais"]
+    explain: "Цепочка *plus jamais* стоит между *a* и причастием, *plus* первым: *ne m'a plus jamais téléphoné*."
+  - q: "Je te conseille de dire quelque chose à tes parents."
+    key: "ne rien"
+    stem: "Je te conseille de ___ à tes parents."
+    answers: ["ne rien dire"]
+    explain: "Отрицание инфинитива: *ne rien* целиком **перед** *dire*."
+  - q: "Il a décidé de voir ses amis ce week-end."
+    key: "personne"
+    stem: "Il a décidé de ___ ce week-end."
+    answers: ["ne voir personne"]
+    explain: "*Personne* при инфинитиве стоит **после** него: *ne voir personne*."
+  - q: "Nous avons fait plusieurs erreurs dans le calcul."
+    key: "aucune"
+    stem: "Nous ___ dans le calcul."
+    answers: ["n'avons fait aucune erreur"]
+    explain: "*Aucune* + существительное в ед. ч. — после причастия: *n'avons fait aucune erreur*."
+  - q: "Quelqu'un a remarqué son absence."
+    key: "personne (sujet)"
+    stem: "___ son absence."
+    answers: ["Personne n'a remarqué"]
+    explain: "*Personne* — подлежащее: в начале, *ne* перед глаголом, без *pas*."
+  - q: "Il dit toujours quelque chose d'intéressant en réunion."
+    key: "jamais rien"
+    stem: "Il ___ d'intéressant en réunion."
+    answers: ["ne dit jamais rien"]
+    explain: "Цепочка *jamais rien* после глагола в простом времени; *rien de* + прилагательное."
+  - q: "Je veux encore entendre parler de cette affaire."
+    key: "ne plus"
+    stem: "Je veux ___ parler de cette affaire."
+    answers: ["ne plus entendre"]
+    explain: "Отрицается инфинитив: *je veux **ne plus** entendre* — «хочу больше не слышать». Ср. *Je ne veux plus entendre…* — отрицается *vouloir*."
+  - q: "Pour être reconnu, il a mis des lunettes noires. (книжный стиль)"
+    key: "n'… pas"
+    stem: "Pour ___, il a mis des lunettes noires."
+    answers: ["n'être pas reconnu", "ne pas être reconnu"]
+    explain: "Нейтрально — *ne pas être reconnu*; в высоком стиле *pas* может стоять после *être*: *n'être pas reconnu*."
+  - q: "Il a prononcé un mot pendant toute la soirée."
+    key: "pas un seul"
+    stem: "Il ___ pendant toute la soirée."
+    answers: ["n'a pas prononcé un seul mot"]
+    explain: "*Pas un seul* = «ни одного»: неопределённый артикль сохраняется как числительное."

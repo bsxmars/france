@@ -1,0 +1,56 @@
+title: "Какой это imparfait?"
+type: choice
+intro: "Определи значение imparfait в каждой фразе."
+hints:
+  - "Si + imparfait без главного предложения и с вопросом — предложение; с seulement и восклицанием — сожаление."
+  - "Однократное событие с точной датой — imparfait de narration."
+  - "«Ещё секунда — и…», «без тебя…» + imparfait — несостоявшееся следствие."
+items:
+  - q: "Autrefois, dans ces villages, on se chauffait au bois tout l'hiver."
+    options: ["описание обстановки", "привычное, повторяющееся действие", "imparfait de narration"]
+    answer: 1
+    explain: "*Autrefois* и *tout l'hiver* каждый год — привычка в прошлом."
+  - q: "La place était déserte ; seul un vieux chien dormait près de la fontaine."
+    options: ["описание", "несостоявшееся следствие", "смягчение просьбы"]
+    answer: 0
+    explain: "Картина, декорация сцены — описательный imparfait."
+  - q: "Si on invitait les voisins samedi ?"
+    options: ["нереальное условие", "сожаление", "предложение что-то сделать"]
+    answer: 2
+    explain: "Самостоятельный вопрос с *si* + imparfait = «а не пригласить ли нам…»."
+  - q: "Bonjour, je voulais savoir si la chambre était encore libre."
+    options: ["смягчение, вежливость", "длящееся желание в прошлом", "imparfait de narration"]
+    answer: 0
+    explain: "Imparfait d'atténuation: просьба звучит мягче, чем *je veux savoir*. *Était* — согласование времён после *voulais*."
+  - q: "Le 6 juillet 1885, Pasteur sauvait un enfant mordu par un chien enragé."
+    options: ["фон для другого события", "imparfait de narration", "привычка"]
+    answer: 1
+    explain: "Однократное событие с точной датой — стилистический imparfait вместо passé simple: «спас»."
+  - q: "Encore un mètre, et la voiture tombait dans le ravin."
+    options: ["несостоявшееся следствие", "описание", "длящееся действие"]
+    answer: 0
+    explain: "Imparfait hypothétique: машина **не** упала, но была на волосок от этого (= *serait tombée*)."
+  - q: "Pendant que je préparais le dîner, Paul mettait la table."
+    options: ["фон и событие", "привычка", "два параллельных длительных действия"]
+    answer: 2
+    explain: "Оба действия длятся одновременно, ни одно не «врезается» в другое → оба в imparfait."
+  - q: "Il traversait le pont quand il entendit un cri."
+    options: ["фон для события", "два параллельных действия", "imparfait de narration"]
+    answer: 0
+    explain: "*Traversait* — процесс, в который врезается событие *entendit* (passé simple)."
+  - q: "Si seulement il faisait un peu moins froid !"
+    options: ["предложение", "сожаление, мечта", "условие с главным предложением"]
+    answer: 1
+    explain: "*Si seulement* + imparfait в восклицании = «если бы только…» — сожаление о настоящем."
+  - q: "Oh, il était tout content de voir sa maman, ce bébé ?"
+    options: ["ласковое обращение", "описание прошлого", "вежливая просьба"]
+    answer: 0
+    explain: "Imparfait hypocoristique: так обращаются к малышам и животным, речь о настоящем."
+  - q: "Le lendemain, à huit heures précises, il frappait à la porte du ministre."
+    options: ["привычка", "imparfait de narration", "фон для события"]
+    answer: 1
+    explain: "Однократное действие с точным временем, никакого второго события нет — нарративный imparfait: «постучал»."
+  - q: "Sans le sang-froid du gardien, le musée brûlait entièrement."
+    options: ["описание пожара", "несостоявшееся следствие", "длительное действие"]
+    answer: 1
+    explain: "*Sans* + imparfait в главном = «если бы не…, музей сгорел бы» (*aurait brûlé*): событие не произошло."

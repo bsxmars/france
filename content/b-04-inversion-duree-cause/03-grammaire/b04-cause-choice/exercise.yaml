@@ -1,0 +1,55 @@
+title: "Выбери выражение причины"
+type: choice
+intro: "Выбери единственный верный вариант. Смотри, что идёт дальше (предложение или существительное), и на оттенок причины."
+hints:
+  - "Предложение: parce que, car, puisque, comme (в начале). Существительное: grâce à, à cause de, en raison de."
+  - "À force de — повторение; faute de — нехватка; par + сущ. без артикля — мотив."
+items:
+  - q: "___ la batterie était vide, je n'ai pas pu t'appeler."
+    options: ["Car", "Comme", "À cause de", "Grâce à"]
+    answer: 1
+    explain: "Предложение в начале фразы → **Comme**. *Car* в начале не ставится, *à cause de* требует существительного."
+  - q: "J'ai retrouvé mes amis d'enfance ___ un groupe sur Internet."
+    options: ["à cause d'", "grâce à", "parce qu'", "puisque"]
+    answer: 1
+    explain: "Существительное + хороший результат → **grâce à**."
+  - q: "Mes photos ont disparu ___ un virus."
+    options: ["grâce à", "à cause d'", "car", "comme"]
+    answer: 1
+    explain: "Существительное + плохой результат → **à cause d'**un virus."
+  - q: "— Pourquoi tu n'as pas répondu ? — ___ je n'ai pas vu ton message."
+    options: ["Puisque", "Comme", "Parce que", "Car"]
+    answer: 2
+    explain: "Ответ на *pourquoi* → **Parce que**. *Puisque* и *car* в ответе на вопрос не употребляют."
+  - q: "___ vérifier ses notifications toutes les cinq minutes, il n'arrive plus à se concentrer."
+    options: ["Faute de", "À force de", "Grâce à", "Comme"]
+    answer: 1
+    explain: "Повторяющееся действие (инфинитив) → **À force de** vérifier."
+  - q: "___ connexion, nous avons dû annuler la réunion en ligne."
+    options: ["Faute de", "À force de", "Parce que", "Puisque"]
+    answer: 0
+    explain: "Нехватка чего-то → **Faute de** connexion (существительное без артикля)."
+  - q: "Ce sont tes données, ___ c'est à toi de décider qui peut les voir."
+    options: ["comme", "donc", "car", "à cause de"]
+    answer: 1
+    explain: "Логический вывод из факта → **donc**. Для причины здесь пришлось бы переставить части: *Puisque ce sont tes données, c'est à toi…*"
+  - q: "Il ne sort jamais sans son téléphone, ___ il a peur de rater un appel important."
+    options: ["car", "comme", "grâce à", "à force de"]
+    answer: 0
+    explain: "Объяснение между двумя частями → **car** (или *parce que*)."
+  - q: "Elle a installé l'application ___ curiosité, et maintenant elle ne peut plus s'en passer."
+    options: ["pour", "par", "à cause de la", "grâce à la"]
+    answer: 1
+    explain: "Мотив, чувство → **par** + существительное без артикля: *par curiosité*."
+  - q: "Le site sera inaccessible dimanche ___ une opération de maintenance."
+    options: ["en raison d'", "grâce à", "puisque", "comme"]
+    answer: 0
+    explain: "Нейтральное официальное объявление → **en raison d'**une opération."
+  - q: "Il refuse d'utiliser la reconnaissance faciale ___ elle serait dangereuse, mais il n'a aucune preuve."
+    options: ["puisqu'", "comme", "sous prétexte qu'", "grâce à"]
+    answer: 2
+    explain: "Говорящий сомневается в причине → **sous prétexte qu'**."
+  - q: "Le journaliste a reçu un prix ___ avoir révélé une fuite de données."
+    options: ["pour", "par", "à force d'", "faute d'"]
+    answer: 0
+    explain: "Причина награды → **pour** + infinitif passé (*avoir révélé*)."

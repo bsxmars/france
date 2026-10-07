@@ -1,0 +1,68 @@
+title: "Сократи повтор: нейтральное le"
+type: transform
+intro: "Перепиши вторую часть, не повторяя выделенное: используй нейтральное le (или en / y, если этого требует глагол). Ключ подсказывает конструкцию. Впиши недостающую часть целиком."
+hints:
+  - "Le заменяет прилагательное, существительное без артикля, инфинитив или придаточное и не согласуется."
+  - "Сравнение: plus … que + (ne) le + глагол."
+  - "être sûr de → en; s'attendre à → y."
+items:
+  - q: "Mes voisines sont inquiètes ; moi aussi, je suis inquiète."
+    key: "le attribut"
+    stem: "Mes voisines sont inquiètes ; moi aussi, ___."
+    answers: ["je le suis"]
+    explain: "*Le* заменяет прилагательное *inquiète* и не меняет формы: **je le suis**."
+  - q: "Il était directeur commercial, mais il n'est plus directeur commercial."
+    key: "le attribut"
+    stem: "Il était directeur commercial, mais ___."
+    answers: ["il ne l'est plus"]
+    explain: "Существительное без артикля → нейтральное *le*; в отрицании *ne* перед местоимением: **il ne l'est plus**."
+  - q: "Le voyage a été long. Nous pensions qu'il serait moins long."
+    key: "plus … que ne le"
+    stem: "Le voyage a été plus long ___."
+    answers: ["que nous ne le pensions", "que nous le pensions", "qu'on ne le pensait", "qu'on le pensait"]
+    explain: "Сравнительное придаточное: *plus long **que nous ne le pensions*** — *le* подхватывает «длинным», *ne* — explétif."
+  - q: "Je sais que tu as raison. Ce n'est pas la peine de répéter que tu as raison."
+    key: "le = que tu as raison"
+    stem: "Je sais que tu as raison. Ce n'est pas la peine de ___."
+    answers: ["le répéter", "me le répéter"]
+    explain: "*Répéter qch* — прямое дополнение, его роль берёт **le**: *de le répéter*."
+  - q: "Il viendra ? — Je suis certain qu'il viendra."
+    key: "en"
+    stem: "Il viendra ? — ___."
+    answers: ["J'en suis certain", "J'en suis certaine"]
+    explain: "*Être certain **de** qch* → **en**: *j'en suis certain(e)*. Если отвечает женщина — *certaine*."
+  - q: "Elle a beaucoup changé. Je ne m'attendais pas à ce qu'elle change autant."
+    key: "y"
+    stem: "Elle a beaucoup changé. ___ à ce point."
+    answers: ["Je ne m'y attendais pas"]
+    explain: "*S'attendre **à** qch* → **y**: *je ne m'y attendais pas*."
+  - q: "On dit que ce restaurant est cher. En réalité, il est moins cher qu'on dit."
+    key: "moins … que ne le"
+    stem: "En réalité, il est moins cher ___."
+    answers: ["qu'on ne le dit", "qu'on le dit"]
+    explain: "*Moins cher **qu'on ne le dit*** — нормативный письменный вариант; без *ne* — допустимо."
+  - q: "Vous êtes la propriétaire de cette voiture ? — Oui, je suis la propriétaire."
+    key: "pronom accordé"
+    stem: "Vous êtes la propriétaire de cette voiture ? — Oui, ___."
+    answers: ["je la suis"]
+    explain: "Существительное с определённым артиклем (конкретное лицо) → местоимение согласуется: **je la suis**. В разговоре — *c'est moi*."
+  - q: "Tu dois envoyer le dossier avant vendredi. — J'ai déjà envoyé le dossier avant vendredi, ne t'inquiète pas."
+    key: "faire + le"
+    stem: "Tu dois envoyer le dossier avant vendredi. — ___, ne t'inquiète pas."
+    answers: ["Je l'ai déjà fait", "C'est déjà fait"]
+    explain: "*Le* заменяет всё действие (*envoyer le dossier*): **je l'ai déjà fait**. Безличное *c'est déjà fait* тоже естественно."
+  - q: "La situation est grave. Je craignais qu'elle soit aussi grave."
+    key: "aussi … que le"
+    stem: "La situation est aussi grave ___."
+    answers: ["que je le craignais"]
+    explain: "После *aussi* (равенство) ne explétif не ставят: *aussi grave **que je le craignais***."
+  - q: "Partez si vous voulez partir."
+    key: "sans le"
+    stem: "Partez ___."
+    answers: ["si vous voulez", "si vous le voulez"]
+    explain: "После *si vous voulez / si tu peux / comme tu veux* нейтральное *le* обычно опускается: **si vous voulez**; *si vous le voulez* — книжнее."
+  - q: "Ils étaient malades et ils sont toujours malades."
+    key: "le attribut"
+    stem: "Ils étaient malades et ___."
+    answers: ["ils le sont toujours", "ils le sont encore"]
+    explain: "*Le* заменяет *malades* и не согласуется во множественном числе: **ils le sont toujours**."

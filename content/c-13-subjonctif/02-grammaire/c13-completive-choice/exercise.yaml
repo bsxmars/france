@@ -1,0 +1,56 @@
+title: "Глаголы с двумя наклонениями"
+type: choice
+intro: "Все формы грамматически возможны в каком-то контексте, но подходит одна — по смыслу этой фразы. Реши, сообщает ли глагол факт или выражает волю, оценку, гипотезу."
+hints:
+  - "dire / écrire = сообщить → indicatif; = велеть → subjonctif."
+  - "comprendre = понять факт → indicatif; = находить естественным → subjonctif."
+  - "admettre = признать → indicatif; = допустить, стерпеть → subjonctif. Supposons que → subjonctif."
+items:
+  - q: "Écris-lui qu'il ___ immédiatement : nous avons besoin de lui."
+    options: ["vient", "vienne", "viendra"]
+    answer: 1
+    explain: "*Écrire* в значении «велеть» (*nous avons besoin de lui*) → subjonctif: ***vienne***."
+  - q: "Dans sa lettre, elle écrit qu'elle ___ en pleine forme."
+    options: ["est", "soit", "fût"]
+    answer: 0
+    explain: "*Écrire* = сообщать факт → indicatif: ***est***."
+  - q: "Après tout ce qu'il a vécu, je comprends qu'il ___ méfiant."
+    options: ["est", "soit", "sera"]
+    answer: 1
+    explain: "*Comprendre* = «нахожу естественным» (*après tout ce qu'il a vécu*) → subjonctif: ***soit***."
+  - q: "En lisant ses messages, j'ai enfin compris qu'il ___ de moi."
+    options: ["se moquait", "se moque", "se moquât"]
+    answer: 0
+    explain: "*Comprendre* = осознать факт → indicatif; согласование с прошедшим → imparfait: ***se moquait***."
+  - q: "J'admets que je ___ trop vite ; je retire ce que j'ai dit."
+    options: ["sois allé", "suis allé", "aille"]
+    answer: 1
+    explain: "*Admettre* = признать свою ошибку (факт) → indicatif: ***suis allé***."
+  - q: "Ce professeur n'admet pas que les étudiants ___ en retard."
+    options: ["arrivent", "arrivant", "arrivaient"]
+    answer: 0
+    explain: "*Ne pas admettre* = не допускать, не терпеть → subjonctif ***arrivent*** (у *-er* в 3-м л. мн. ч. совпадает с indicatif)."
+  - q: "Supposons que le projet ___ refusé : que ferons-nous ?"
+    options: ["est", "sera", "soit"]
+    answer: 2
+    explain: "*Supposons que* = допустим (гипотеза) → subjonctif: ***soit***."
+  - q: "Vu l'heure, je suppose que vous ___ faim."
+    options: ["ayez", "avez", "eussiez"]
+    answer: 1
+    explain: "*Je suppose* = полагаю, предполагаю как вероятное → indicatif: ***avez***."
+  - q: "Le directeur entend qu'on ___ le règlement à la lettre."
+    options: ["applique", "appliquera", "appliquait"]
+    answer: 0
+    explain: "*Entendre que* в soutenu = требовать → subjonctif ***applique***."
+  - q: "J'entends qu'on ___ dans la pièce voisine."
+    options: ["parle", "parlât", "ait parlé"]
+    answer: 0
+    explain: "*Entendre* = слышать (восприятие факта) → indicatif ***parle*** (совпадает по форме с subjonctif, но наклонение — indicatif)."
+  - q: "Il a téléphoné à sa sœur qu'elle ___ le chercher à la gare."
+    options: ["venait", "vienne", "viendrait"]
+    answer: 1
+    explain: "*Téléphoner que* = попросить по телефону → subjonctif: ***vienne***. Как сообщение было бы *qu'il arrivait*."
+  - q: "Il prétend qu'il ___ tout seul ce rapport, mais personne ne le croit."
+    options: ["ait rédigé", "a rédigé", "rédige"]
+    answer: 1
+    explain: "*Prétendre* = утверждать → indicatif: ***a rédigé***. В значении «требовать» (*il prétend qu'on lui obéisse*) нужен был бы subjonctif."

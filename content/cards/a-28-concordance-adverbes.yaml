@@ -1,0 +1,48 @@
+- id: a28-concordance-plan-passe
+  lesson: a-28-concordance-adverbes/01-grammaire
+  q: "Главный глагол в прошлом. Какие времена в придаточном для «одновременно», «раньше», «позже»?"
+  a: "Одновременно — **imparfait**, раньше — **plus-que-parfait**, позже — **futur dans le passé**: *Je savais qu'il travaillait / avait travaillé / travaillerait.*"
+- id: a28-concordance-plan-present
+  lesson: a-28-concordance-adverbes/01-grammaire
+  q: "Главный глагол в présent. Есть ли сдвиг времён?"
+  a: "Нет: время по смыслу. *Je crois qu'il travaille / a travaillé / travaillera.*"
+- id: a28-concordance-sdvig
+  lesson: a-28-concordance-adverbes/01-grammaire
+  q: "Пары сдвига времён при переходе в план прошедшего?"
+  a: "présent → imparfait; passé composé → plus-que-parfait; futur simple → futur dans le passé."
+- id: a28-futur-passe-forme
+  lesson: a-28-concordance-adverbes/01-grammaire
+  q: "Как образуется futur dans le passé?"
+  a: "Основа futur simple + окончания imparfait: *parler**ais**, finir**ait**, ser**ions**, viendr**aient***."
+- id: a28-futur-passe-irr
+  lesson: a-28-concordance-adverbes/01-grammaire
+  q: "Futur dans le passé (je) от avoir, être, aller, faire, venir, pouvoir."
+  a: "*j'aurais, je serais, j'irais, je ferais, je viendrais, je pourrais*."
+- id: a28-traduction-viendrait
+  lesson: a-28-concordance-adverbes/01-grammaire
+  q: "«Он сказал, что придёт» и «Я думал, что ты болен»."
+  a: "*Il a dit qu'il **viendrait**. Je pensais que tu **étais** malade.*"
+- id: a28-adverbes-feminin
+  lesson: a-28-concordance-adverbes/02-grammaire
+  q: "К какой форме прилагательного присоединяется -ment?"
+  a: "Согласная на конце — к женскому роду: *lente**ment**, heureuse**ment***; гласная — к мужскому: *poli**ment**, vrai**ment**, facile**ment***. Исключение: *gaiement*."
+- id: a28-adverbes-amment
+  lesson: a-28-concordance-adverbes/02-grammaire
+  q: "Наречия от prudent, constant, évident, élégant?"
+  a: "*prudemment, constamment, évidemment, élégamment* (-ent → -emment, -ant → -amment)."
+- id: a28-adverbes-e
+  lesson: a-28-concordance-adverbes/02-grammaire
+  q: "Наречия от profond, énorme, précis, gentil, bref?"
+  a: "*profondément, énormément, précisément, gentiment, brièvement*."
+- id: a28-connaitre
+  lesson: a-28-concordance-adverbes/02-grammaire
+  q: "Проспрягай *connaître* в présent; когда пишется î?"
+  a: "*je connais, tu connais, il connaît, nous connaissons, vous connaissez, ils connaissent*; *î* — только перед *t*. Participe: *connu*."
+- id: a28-apparaitre-disparaitre
+  lesson: a-28-concordance-adverbes/02-grammaire
+  q: "Passé composé: «появился», «исчез»."
+  a: "*Il **est apparu*** (с être); *il **a disparu*** (с avoir)."
+- id: a28-apercevoir
+  lesson: a-28-concordance-adverbes/02-grammaire
+  q: "Проспрягай *apercevoir* в présent; participe passé?"
+  a: "*j'aperçois, tu aperçois, il aperçoit, nous apercevons, vous apercevez, ils aperçoivent*; *aperçu*."

@@ -1,0 +1,37 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: нет элизии, лишний артикль, неверное притяжательное слово. Исправь её и отправь французское предложение целиком (русский перевод в скобках переписывать не нужно)."
+hints:
+  - "Профессия после être — без артикля."
+  - "«Свой» — притяжательное того же лица, что подлежащее; у ils / elles — leur, leurs."
+items:
+  - q: "Mon père est un architecte."
+    answers: ["Mon père est architecte."]
+    explain: "Профессия после *être* — **без артикля**: *est architecte*."
+  - q: "Je aime la grammaire."
+    answers: ["J'aime la grammaire."]
+    explain: "Перед гласной *je* → **j'**."
+  - q: "Ils cherchent ses cahiers. (Они ищут свои тетради.)"
+    answers: ["Ils cherchent leurs cahiers.", "Ils cherchent leurs cahiers. (Они ищут свои тетради.)"]
+    explain: "Владельцы — *ils*, тетрадей много → **leurs**. *Ses* — если владелец один."
+  - q: "Le élève écrit vite."
+    answers: ["L'élève écrit vite."]
+    explain: "Перед гласной *le* → **l'élève**."
+  - q: "Ma sœur est la secrétaire."
+    answers: ["Ma sœur est secrétaire."]
+    explain: "Должность после *être* — без артикля: **est secrétaire**."
+  - q: "J'écris à sa sœur. (Я пишу своей сестре.)"
+    answers: ["J'écris à ma sœur.", "J'écris à ma sœur. (Я пишу своей сестре.)"]
+    explain: "Подлежащее *je* → «свою» = **ma**."
+  - q: "La fille de Anna est pianiste."
+    answers: ["La fille d'Anna est pianiste."]
+    explain: "*de* перед гласной → **d'Anna**."
+  - q: "Les filles parlent à leurs mère."
+    answers: ["Les filles parlent à leur mère."]
+    explain: "Мать одна → **leur** без *-s*, хотя владельцев несколько."
+  - q: "C'est m'amie Léa."
+    answers: ["C'est mon amie Léa."]
+    explain: "*ma* перед гласной не теряет гласную, а меняется на **mon**: *mon amie*."
+  - q: "Leur fille est le médecin."
+    answers: ["Leur fille est médecin."]
+    explain: "Профессия после *être* — **без артикля**: *est médecin*."

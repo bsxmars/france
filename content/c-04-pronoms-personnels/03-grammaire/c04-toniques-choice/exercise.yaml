@@ -1,0 +1,56 @@
+title: "Lui, à lui, y или en"
+type: choice
+intro: "Выбери вариант, верный по письменной норме."
+hints:
+  - "penser à, tenir à, faire attention à, s'adresser à, s'habituer à + лицо → à lui, à elle, à eux."
+  - "Остальные глаголы с à + лицо → lui / leur; о вещах → y."
+  - "de + лицо → de lui, d'elle; de + вещь → en."
+items:
+  - q: "Mon ancien professeur ? Je pense souvent ___ ."
+    options: ["à lui", "lui", "y", "à soi"]
+    answer: 0
+    explain: "*Penser à* + человек требует ударной формы: **je pense à lui**."
+  - q: "Notre directrice est très occupée, mais vous pouvez ___ écrire."
+    options: ["à elle", "lui", "y", "la"]
+    answer: 1
+    explain: "*Écrire à qn* — обычный глагол с косвенным дополнением → **lui** перед инфинитивом."
+  - q: "Ces nouveaux collègues sont un peu froids, mais je finirai par m'habituer ___ ."
+    options: ["leur", "à eux", "y", "à leur"]
+    answer: 1
+    explain: "Возвратный глагол *s'habituer à* + лица → **à eux**. *Y* — о вещах (*je m'y habitue* — к работе, к климату)."
+  - q: "Ce nouveau rythme de travail est dur, mais je ___ habituerai."
+    options: ["m'en", "me lui", "m'y", "m'à lui"]
+    answer: 2
+    explain: "*S'habituer à* + вещь → **y**: *je m'y habituerai*."
+  - q: "Tu te souviens de ta première institutrice ? — Oui, je me souviens très bien ___ ."
+    options: ["d'elle", "en", "de la", "lui"]
+    answer: 0
+    explain: "*Se souvenir de* + человек → **d'elle** в письменной норме. *Je m'en souviens* — о вещах и событиях."
+  - q: "Ce vieux fauteuil appartenait à mon grand-père ; j'___ tiens énormément."
+    options: ["lui", "en", "y", "le"]
+    answer: 2
+    explain: "*Tenir à* + вещь → **y**: *j'y tiens*. О человеке было бы *je tiens à lui*."
+  - q: "Ses enfants ? Il tient énormément ___ ."
+    options: ["à eux", "leur", "y", "en"]
+    answer: 0
+    explain: "*Tenir à* + лица → **à eux** (дорожит ими)."
+  - q: "Ne fais pas attention à ses remarques, elle dit ça à tout le monde. — D'accord, je n'___ ferai pas attention."
+    options: ["lui", "en", "y", "à elles"]
+    answer: 2
+    explain: "*Faire attention à* + вещь (*ses remarques*) → **y**."
+  - q: "Paul est en retard, comme d'habitude. Et ___ qui l'attendais depuis une heure !"
+    options: ["je", "moi", "me", "soi"]
+    answer: 1
+    explain: "Конструкция *et moi qui…* — «а я-то…» — требует ударной формы: **moi**."
+  - q: "Ce dossier, c'est ___ qui l'ont préparé, pas nous."
+    options: ["ils", "leur", "eux", "les"]
+    answer: 2
+    explain: "После *c'est / ce sont … qui* — ударная форма: **eux**."
+  - q: "Il ne fait confiance qu'___ ; il refuse toute aide."
+    options: ["à soi", "à lui-même", "se", "lui"]
+    answer: 1
+    explain: "Подлежащее конкретное (*il*) → не *soi*, а **à lui-même**; *même* снимает двусмысленность («самому себе», а не другому)."
+  - q: "On ne peut pas toujours compter sur les autres, il faut savoir compter sur ___ ."
+    options: ["lui", "soi", "eux", "nous-même"]
+    answer: 1
+    explain: "Обобщённый субъект (*on, il faut*) → **soi**: *compter sur soi*."

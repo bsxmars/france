@@ -1,0 +1,37 @@
+title: "Найди ошибку: avoir, être, время"
+type: error
+intro: "В каждом предложении **одна** ошибка: неверный вспомогательный глагол, согласование или выбор между passé composé и imparfait. Исправь её и отправь предложение целиком."
+hints:
+  - "Глаголы движения и возвратные — с être; monter, sortir, passer с прямым дополнением — с avoir."
+  - "Фон и описание → imparfait, событие → passé composé."
+items:
+  - q: "Hier, je suis tombé et j'ai resté à la maison."
+    answers: ["Hier, je suis tombé et je suis resté à la maison."]
+    explain: "*rester* спрягается с **être**: *je suis resté*."
+  - q: "Nous avons descendu à la station Châtelet."
+    answers: ["Nous sommes descendus à la station Châtelet.", "Nous sommes descendues à la station Châtelet."]
+    explain: "*descendre* без прямого дополнения → **être**, причастие согласуется: *nous sommes descendus* (или *descendues*)."
+  - q: "Elle a sorti avec ses amies samedi soir."
+    answers: ["Elle est sortie avec ses amies samedi soir."]
+    explain: "«Выйти, сходить куда-то» без прямого дополнения → **être**: *elle est sortie*. *Elle a sorti* — «она вынула / вывела что-то»."
+  - q: "Quand j'étais enfant, j'ai joué au foot tous les mercredis."
+    answers: ["Quand j'étais enfant, je jouais au foot tous les mercredis."]
+    explain: "Привычка (**tous les mercredis**) на фоне детства → imparfait: *je jouais*."
+  - q: "Il s'a couché très tard."
+    answers: ["Il s'est couché très tard."]
+    explain: "Возвратные глаголы всегда спрягаются с **être**: *il s'est couché*."
+  - q: "Soudain, le téléphone sonnait."
+    answers: ["Soudain, le téléphone a sonné."]
+    explain: "**Soudain** вводит событие → passé composé: *a sonné*."
+  - q: "Nous mangions quand quelqu'un frappait à la porte."
+    answers: ["Nous mangions quand quelqu'un a frappé à la porte."]
+    explain: "Фон (*nous mangions*) прерывается событием → *quelqu'un **a frappé***."
+  - q: "Elle est passée l'aspirateur dans le salon."
+    answers: ["Elle a passé l'aspirateur dans le salon."]
+    explain: "*passer* с прямым дополнением (**l'aspirateur**) → **avoir**: *elle a passé l'aspirateur*."
+  - q: "Tu as né en quelle année ?"
+    answers: ["Tu es né en quelle année ?", "Tu es née en quelle année ?"]
+    explain: "*naître* спрягается с **être**: *tu es né* (женщине — *tu es née*)."
+  - q: "Ils ont monté au cinquième étage à pied."
+    answers: ["Ils sont montés au cinquième étage à pied."]
+    explain: "*monter* без прямого дополнения → **être**, согласование: *ils sont montés*. С дополнением было бы *ils ont monté l'escalier*."

@@ -1,0 +1,44 @@
+title: "Avoir или être?"
+type: gap
+intro: "Поставь глагол в passé composé. Реши, нужен ли avoir или être, и согласуй причастие."
+hints:
+  - "monter, descendre, sortir, rentrer, passer, retourner + прямое дополнение → avoir."
+  - "Без прямого дополнения → être, причастие согласуется с подлежащим."
+  - "С avoir — согласование с COD, стоящим перед глаголом."
+items:
+  - q: "Ma voisine ___ (monter) ses courses au cinquième étage sans ascenseur."
+    answers: ["a monté"]
+    explain: "Есть прямое дополнение *ses courses* → **avoir**; COD стоит после глагола, согласования нет."
+  - q: "Les invités ___ (monter) directement sur la terrasse."
+    answers: ["sont montés"]
+    explain: "Непереходное употребление (куда?) → **être**, согласование с *les invités*: *sont montés*."
+  - q: "Hier soir, elle ___ (sortir) avec ses collègues."
+    answers: ["est sortie"]
+    explain: "Без прямого дополнения → *être*, *sortie* согласуется с *elle*."
+  - q: "Il ___ (sortir) son portefeuille pour payer."
+    answers: ["a sorti"]
+    explain: "*Sortir qch* «вынуть» — переходный → **avoir**."
+  - q: "Nous ___ (passer) trois semaines en Bretagne."
+    answers: ["avons passé"]
+    explain: "*Passer du temps* — прямое дополнение → *avoir*."
+  - q: "Ta mère ___ (passer) te voir pendant ton absence."
+    answers: ["est passée"]
+    explain: "*Passer* «зайти» без дополнения → *être*, согласование с *ta mère*."
+  - q: "Les cartons ? Je les ___ (descendre) à la cave."
+    answers: ["ai descendus"]
+    explain: "*Descendre qch* → *avoir*; COD *les* (= *les cartons*, м. р. мн. ч.) стоит перед глаголом → *descendus*."
+  - q: "Après la réunion, elles ___ (rentrer) chez elles en taxi."
+    answers: ["sont rentrées"]
+    explain: "Непереходно → *être*, *rentrées* (ж. р. мн. ч.)."
+  - q: "Le cuisinier ___ (retourner) l'omelette d'un coup de poignet."
+    answers: ["a retourné"]
+    explain: "*Retourner qch* «перевернуть» → *avoir*."
+  - q: "Après son accident, il ___ (demeurer) longtemps immobile."
+    answers: ["est demeuré"]
+    explain: "*Demeurer* «оставаться» (состояние) → **être**. С *avoir* — «проживать»: *il a demeuré à Lyon*."
+  - q: "Elle ___ (vieillir) d'un coup après la mort de son mari."
+    answers: ["a vieilli"]
+    explain: "Действие, процесс → *avoir*: *elle a vieilli*. *Elle est vieillie* описало бы состояние."
+  - q: "Les photos qu'il ___ (monter) du sous-sol étaient abîmées."
+    answers: ["a montées"]
+    explain: "*Monter qch* → *avoir*; COD *que* (= *les photos*, ж. р. мн. ч.) стоит перед глаголом → *montées*."

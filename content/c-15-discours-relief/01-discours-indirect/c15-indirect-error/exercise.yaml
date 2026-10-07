@@ -1,0 +1,44 @@
+title: "Найди ошибку в пересказе"
+type: error
+intro: "В каждом предложении **одна** ошибка: время, указатель, место отрицания, связка или предлог вводящего глагола. Пересказ звучит спустя время, вводящий глагол в прошедшем. Исправь и отправь предложение целиком."
+hints:
+  - "Futur → conditionnel; passé composé → plus-que-parfait."
+  - "De ne pas / de ne plus / de ne rien + инфинитив."
+  - "Que повторяется перед каждым придаточным."
+items:
+  - q: "Mon collègue m'a assuré qu'il finira le rapport le lendemain."
+    answers: ["Mon collègue m'a assuré qu'il finirait le rapport le lendemain."]
+    explain: "Вводящий глагол в прошедшем → будущее в прошедшем: conditionnel **finirait**."
+  - q: "Elle m'a demandé de ne la déranger pas pendant la réunion."
+    answers: ["Elle m'a demandé de ne pas la déranger pendant la réunion."]
+    explain: "С инфинитивом *ne pas* стоит целиком перед ним и перед местоимением: **de ne pas la déranger**."
+  - q: "Le témoin a affirmé qu'il avait vu l'accusé demain soir."
+    answers: ["Le témoin a affirmé qu'il avait vu l'accusé la veille au soir.", "Le témoin a affirmé qu'il avait vu l'accusé la veille."]
+    explain: "Речь о прошлом событии: *hier soir* в пересказе → **la veille au soir**; *demain* здесь бессмыслен."
+  - q: "Julien a reconnu qu'il s'était trompé et il devait des excuses à Sarah."
+    answers: ["Julien a reconnu qu'il s'était trompé et qu'il devait des excuses à Sarah."]
+    explain: "*Que* повторяется перед каждым придаточным: *et **qu**'il devait*."
+  - q: "Le guide nous a conseillé que nous partions tôt."
+    answers: ["Le guide nous a conseillé de partir tôt."]
+    explain: "*Conseiller à qn **de** + инфинитив*; *conseiller que* + indicatif здесь неграмотно."
+  - q: "Ma sœur m'a dit qu'elle a perdu ses clés la semaine précédente."
+    answers: ["Ma sœur m'a dit qu'elle avait perdu ses clés la semaine précédente."]
+    explain: "Предшествующее действие в прошедшем плане → plus-que-parfait **avait perdu**."
+  - q: "L'entraîneur a ordonné aux joueurs de ne parler plus aux journalistes."
+    answers: ["L'entraîneur a ordonné aux joueurs de ne plus parler aux journalistes."]
+    explain: "*Ne plus* целиком перед инфинитивом: **de ne plus parler**."
+  - q: "Il m'a dit qu'il m'attendrait ici le jour suivant."
+    answers: ["Il m'a dit qu'il m'attendrait là le jour suivant.", "Il m'a dit qu'il m'attendrait là-bas le jour suivant.", "Il m'a dit qu'il m'attendrait à cet endroit le jour suivant."]
+    explain: "Указатель места меняется вместе с указателем времени: *ici* → **là** (*le jour suivant* = *le lendemain*)."
+  - q: "Le ministre a promis qu'il baisserait les impôts si l'économie repartira."
+    answers: ["Le ministre a promis qu'il baisserait les impôts si l'économie repartait."]
+    explain: "После *si* условия никогда не бывает futur или conditionnel: futur прямой речи → imparfait **repartait**."
+  - q: "Nous avons supplié le serveur qu'il nous apporte l'addition."
+    answers: ["Nous avons supplié le serveur de nous apporter l'addition."]
+    explain: "*Supplier qn **de** + инфинитив*: **de nous apporter**."
+  - q: "Le professeur a dit aux élèves de se taire et qu'ils ouvrent leurs cahiers."
+    answers: ["Le professeur a dit aux élèves de se taire et d'ouvrir leurs cahiers."]
+    explain: "Два приказа — две одинаковые конструкции: *de se taire et **d'ouvrir***."
+  - q: "Marie a avoué qu'elle n'avait jamais lu ce livre et qu'elle ne le lira pas."
+    answers: ["Marie a avoué qu'elle n'avait jamais lu ce livre et qu'elle ne le lirait pas."]
+    explain: "Второе придаточное тоже согласуется: futur → conditionnel **lirait**."

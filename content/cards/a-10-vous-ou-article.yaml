@@ -1,0 +1,28 @@
+- id: a10-vous-ez
+  lesson: a-10-vous-ou-article/01-grammaire
+  q: "Окончание формы *vous* и три исключения?"
+  a: "**-ez** (*vous parlez, vous lisez, vous écrivez*). Исключения: *vous **êtes**, vous **dites**, vous **faites***."
+- id: a10-vous-base
+  lesson: a-10-vous-ou-article/01-grammaire
+  q: "*pouvoir, partir, écrire* с *vous*?"
+  a: "*vous **pouvez**, vous **partez**, vous **écrivez*** — основа мн. ч. отличается от ед. ч. (*je peux, je pars, j'écris*)."
+- id: a10-ou-pronom
+  lesson: a-10-vous-ou-article/01-grammaire
+  q: "«Куда ты идёшь?», «Где я работаю?»"
+  a: "*Où vas-tu ?* — простая инверсия; с *je*: *Où est-ce que je travaille ?*"
+- id: a10-ou-nom
+  lesson: a-10-vous-ou-article/01-grammaire
+  q: "«Где работает Пьер?» и «Где Пьер покупает газеты?»"
+  a: "*Où travaille Pierre ? / Où Pierre travaille-t-il ?*; с дополнением-существительным только сложная: *Où Pierre achète-t-il les journaux ?*"
+- id: a10-article-defini
+  lesson: a-10-vous-ou-article/02-grammaire
+  q: "Когда нужен определённый артикль?"
+  a: "Предмет единственный (в мире или в обстановке), уже упомянутый, уточнённый («который…», «чей»), понятие вообще (*J'aime **la** musique*), часть тела (*mal à **la** tête*)."
+- id: a10-tout
+  lesson: a-10-vous-ou-article/02-grammaire
+  q: "Формы *tout* и место артикля?"
+  a: "*tout le texte, toute la ville, tous les jours* [tu], *toutes les fenêtres*. Артикль — **после** *tout*: *tous mes amis*."
+- id: a10-a-de
+  lesson: a-10-vous-ou-article/02-grammaire
+  q: "«В Париж» и «из Парижа», «на стадион» и «со стадиона»?"
+  a: "*à Paris — de Paris*; *au stade — du stade*. *à* — куда, *de* — откуда."

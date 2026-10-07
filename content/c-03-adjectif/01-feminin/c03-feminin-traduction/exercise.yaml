@@ -1,0 +1,39 @@
+title: "Переведи словосочетания"
+type: gap
+intro: "Переведи словосочетание на французский (с неопределённым артиклем, если не сказано иначе). Следи за формой прилагательного в женском роде и за его местом."
+hints:
+  - "Прилагательные цвета, формы, национальности — после существительного; короткие частотные (beau, long, gros, bon) — перед."
+items:
+  - q: "сухая ветка"
+    answers: ["une branche sèche"]
+    explain: "*Sec* → ***sèche***."
+  - q: "откровенная дискуссия"
+    answers: ["une discussion franche"]
+    explain: "*Franc* → ***franche***."
+  - q: "тревожный голос"
+    answers: ["une voix inquiète"]
+    explain: "*Inquiet* → ***inquiète*** (группа на *-ète*)."
+  - q: "долгое ожидание"
+    answers: ["une longue attente"]
+    explain: "*Long* → ***longue***; короткое частотное прилагательное — перед существительным."
+  - q: "густая борода"
+    answers: ["une barbe épaisse"]
+    explain: "*Épais* → ***épaisse*** (удвоение *s*)."
+  - q: "ложная новость"
+    answers: ["une fausse nouvelle", "une fausse information"]
+    explain: "*Faux* → ***fausse***; в значении «ложный» обычно перед существительным."
+  - q: "рыжая кошка"
+    answers: ["une chatte rousse", "une chatte rouquine", "un chat roux"]
+    explain: "*Roux* → ***rousse***; *chat* → *chatte*. Разговорно — *rouquine*. Если «кошка» в общем смысле — *un chat roux*."
+  - q: "общественная (публичная) лекция"
+    answers: ["une conférence publique", "une leçon publique"]
+    explain: "*Public* → ***publique***."
+  - q: "острая боль"
+    answers: ["une douleur aiguë", "une douleur aigüe"]
+    explain: "*Aigu* → ***aiguë*** (или *aigüe* по реформе 1990)."
+  - q: "любимая книга"
+    answers: ["un livre préféré", "le livre préféré", "mon livre préféré", "un livre favori", "le livre favori", "mon livre favori"]
+    explain: "*Livre* — м. р., поэтому *favori* / *préféré* без изменений. Ловушка: ж. р. было бы *favorite*, но здесь не нужно."
+  - q: "мягкая (нежная) кожа"
+    answers: ["une peau douce"]
+    explain: "*Doux* → ***douce***."

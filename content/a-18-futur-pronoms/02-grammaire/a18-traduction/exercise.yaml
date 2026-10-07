@@ -1,0 +1,38 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Числа пиши словами. Пунктуация не важна, акценты — важны."
+hints:
+  - "finir, choisir, réussir: -iss- во множественном числе."
+  - "Уметь — savoir + инфинитив."
+  - "Кило, группа, дюжина + de без артикля."
+items:
+  - q: "Ты заканчиваешь работу в шесть часов?"
+    answers: ["Tu finis ton travail à six heures ?", "Tu finis le travail à six heures ?", "Est-ce que tu finis ton travail à six heures ?", "Est-ce que tu finis le travail à six heures ?", "Finis-tu ton travail à six heures ?", "Finis-tu le travail à six heures ?"]
+    explain: "*finir* → *tu* **finis**; вопрос — интонацией, *est-ce que* или инверсией."
+  - q: "Они выбирают подарок для мамы."
+    answers: ["Ils choisissent un cadeau pour maman.", "Elles choisissent un cadeau pour maman.", "Ils choisissent un cadeau pour leur mère.", "Elles choisissent un cadeau pour leur mère.", "Ils choisissent un cadeau pour leur maman.", "Elles choisissent un cadeau pour leur maman."]
+    explain: "*choisir* → *ils* **choisissent**: во множественном числе — *-iss-*."
+  - q: "Мой брат не умеет плавать."
+    answers: ["Mon frère ne sait pas nager."]
+    explain: "«Уметь» — **savoir** + инфинитив: *il ne **sait** pas nager*."
+  - q: "Ты знаешь, где он живёт?"
+    answers: ["Tu sais où il habite ?", "Est-ce que tu sais où il habite ?", "Sais-tu où il habite ?"]
+    explain: "*savoir* → *tu* **sais**; дальше — *où il habite* с прямым порядком слов."
+  - q: "Я не знаю, кому позвонить."
+    answers: ["Je ne sais pas à qui téléphoner.", "Je ne sais à qui téléphoner.", "Je ne sais pas qui appeler.", "Je ne sais qui appeler."]
+    explain: "*Je ne **sais** pas à qui téléphoner*; в книжной речи *pas* перед вопросительным словом можно опустить."
+  - q: "Почему ты краснеешь?"
+    answers: ["Pourquoi tu rougis ?", "Pourquoi rougis-tu ?", "Pourquoi est-ce que tu rougis ?"]
+    explain: "*rougir* → *tu* **rougis**."
+  - q: "Купи дюжину яиц."
+    answers: ["Achète une douzaine d'œufs.", "Achète une douzaine d'oeufs.", "Achetez une douzaine d'œufs.", "Achetez une douzaine d'oeufs."]
+    explain: "*Une douzaine* + **d'** без артикля."
+  - q: "У нас две недели каникул."
+    answers: ["Nous avons deux semaines de vacances.", "On a deux semaines de vacances."]
+    explain: "*Deux semaines* + **de** без артикля: *deux semaines de vacances*."
+  - q: "Это её второй роман."
+    answers: ["C'est son deuxième roman.", "C'est son second roman."]
+    explain: "«Второй» — **deuxième** или **second**; *roman* — м. р., поэтому *son* (даже если автор — женщина)."
+  - q: "Подумайте над этим вопросом."
+    answers: ["Réfléchissez à cette question.", "Réfléchis à cette question."]
+    explain: "*réfléchir **à*** qch; повелительное на «вы» — **réfléchissez**."

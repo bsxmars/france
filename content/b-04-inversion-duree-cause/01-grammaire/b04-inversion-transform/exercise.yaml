@@ -1,0 +1,68 @@
+title: "Переведи вопрос в высокий регистр"
+type: transform
+intro: "Перепиши вопрос с инверсией. Ключевое слово — местоимение, которое должно появиться после глагола. Впиши вопрос целиком, без вопросительного знака."
+hints:
+  - "Подлежащее-существительное остаётся впереди, после глагола повторяется il / elle / ils / elles."
+  - "Гласная + il / elle / on → -t-: a-t-il, utilise-t-elle."
+  - "В сложных временах переставляется вспомогательный глагол."
+items:
+  - q: "Est-ce que vous avez lu les conditions d'utilisation ?"
+    key: "vous"
+    stem: "___ ?"
+    answers: ["Avez-vous lu les conditions d'utilisation"]
+    explain: "Простая инверсия в passé composé: вспомогательный + местоимение → **Avez-vous** lu…"
+  - q: "Est-ce que cette application collecte nos données ?"
+    key: "elle"
+    stem: "___ ?"
+    answers: ["Cette application collecte-t-elle nos données"]
+    explain: "Подлежащее — существительное → сложная инверсия; *collecte* на гласную → **-t-elle**."
+  - q: "Comment est-ce qu'on supprime un compte ?"
+    key: "on"
+    stem: "___ ?"
+    answers: ["Comment supprime-t-on un compte"]
+    explain: "*Supprime* + *on* → **supprime-t-on**."
+  - q: "Pourquoi est-ce que ton frère a fermé son profil ?"
+    key: "il"
+    stem: "___ ?"
+    answers: ["Pourquoi ton frère a-t-il fermé son profil"]
+    explain: "После *pourquoi* с существительным — только сложная инверсия: *ton frère **a-t-il** fermé*."
+  - q: "Est-ce que les réseaux sociaux ne sont pas devenus indispensables ?"
+    key: "ils"
+    stem: "___ ?"
+    answers: ["Les réseaux sociaux ne sont-ils pas devenus indispensables"]
+    explain: "Отрицание обрамляет группу «глагол + местоимение»: *ne **sont-ils** pas* devenus."
+  - q: "Où est-ce que ta sœur travaille ?"
+    key: "elle"
+    stem: "___ ?"
+    answers: ["Où ta sœur travaille-t-elle", "Où travaille ta sœur"]
+    explain: "После *où* без дополнения возможны обе: сложная (*ta sœur travaille-t-elle*) и простая с существительным (*Où travaille ta sœur*)."
+  - q: "Est-ce que je peux vous poser une question ?"
+    key: "je"
+    stem: "___ ?"
+    answers: ["Puis-je vous poser une question"]
+    explain: "С *je* у *pouvoir* в инверсии — особая форма **puis-je**; *peux-je* не существует."
+  - q: "Qu'est-ce que ton père pense de cette mise à jour ?"
+    key: "que"
+    stem: "___ ?"
+    answers: ["Que pense ton père de cette mise à jour"]
+    explain: "После *que* — только простая инверсия с существительным: **Que pense ton père**…"
+  - q: "Est-ce que tu t'es inscrit sur cette plateforme ?"
+    key: "tu"
+    stem: "___ ?"
+    answers: ["T'es-tu inscrit sur cette plateforme", "T'es-tu inscrite sur cette plateforme"]
+    explain: "Возвратное местоимение остаётся перед глаголом: **T'es-tu** inscrit(e)…"
+  - q: "Quand est-ce que la protection des utilisateurs sera renforcée ?"
+    key: "elle"
+    stem: "___ ?"
+    answers: ["Quand la protection des utilisateurs sera-t-elle renforcée"]
+    explain: "Существительное подлежащее при пассиве (есть причастие) → сложная инверсия; *sera* на гласную → **sera-t-elle**."
+  - q: "Est-ce que vous lui en avez parlé ?"
+    key: "vous"
+    stem: "___ ?"
+    answers: ["Lui en avez-vous parlé"]
+    explain: "Местоимения-дополнения остаются перед вспомогательным: **Lui en avez-vous** parlé."
+  - q: "Combien de temps est-ce que ce succès va durer ?"
+    key: "il"
+    stem: "___ ?"
+    answers: ["Combien de temps ce succès va-t-il durer"]
+    explain: "Есть инфинитив после *va* → сложная инверсия: *ce succès **va-t-il** durer*."

@@ -1,0 +1,44 @@
+title: "Найди ошибку в вопросе"
+type: error
+intro: "В каждом вопросе или ответе **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "Не смешивай est-ce que и инверсию."
+  - "Гласная + il / elle / on → -t-."
+  - "На отрицательный вопрос «да» — si."
+items:
+  - q: "Est-ce que vient-il avec nous ?"
+    answers: ["Vient-il avec nous ?", "Est-ce qu'il vient avec nous ?"]
+    explain: "Либо инверсия (**Vient-il**), либо *est-ce que* с прямым порядком (*Est-ce qu'il vient*), но не оба сразу."
+  - q: "A-il installé la mise à jour ?"
+    answers: ["A-t-il installé la mise à jour ?"]
+    explain: "*A* оканчивается на гласную → вставное **-t-**: *A-t-il*."
+  - q: "Fonctionne cette application sans connexion ?"
+    answers: ["Cette application fonctionne-t-elle sans connexion ?", "Est-ce que cette application fonctionne sans connexion ?", "Cette application fonctionne sans connexion ?"]
+    explain: "В общем вопросе без вопросительного слова существительное нельзя просто поставить после глагола → сложная инверсия: *Cette application fonctionne-t-elle*."
+  - q: "Avez lu-vous cet article sur la vie privée ?"
+    answers: ["Avez-vous lu cet article sur la vie privée ?"]
+    explain: "В сложном времени местоимение стоит после **вспомогательного**: *Avez-vous lu*."
+  - q: "Pourquoi a supprimé ta mère son compte ?"
+    answers: ["Pourquoi ta mère a-t-elle supprimé son compte ?", "Pourquoi est-ce que ta mère a supprimé son compte ?"]
+    explain: "После *pourquoi* с существительным — только сложная инверсия: *ta mère **a-t-elle** supprimé*."
+  - q: "Peux-je utiliser votre ordinateur ?"
+    answers: ["Puis-je utiliser votre ordinateur ?", "Est-ce que je peux utiliser votre ordinateur ?"]
+    explain: "С *je* у *pouvoir* в инверсии — **puis-je**."
+  - q: "— N'as-tu pas reçu mon message ? — Oui, je l'ai lu ce matin."
+    answers: ["— N'as-tu pas reçu mon message ? — Si, je l'ai lu ce matin."]
+    explain: "Утвердительный ответ на отрицательный вопрос — **si**."
+  - q: "Les jeunes passent-il trop de temps sur leur téléphone ?"
+    answers: ["Les jeunes passent-ils trop de temps sur leur téléphone ?"]
+    explain: "Местоимение повторяет подлежащее в роде и числе: *les jeunes* → **ils**."
+  - q: "Ne vous souvenez pas-vous de votre mot de passe ?"
+    answers: ["Ne vous souvenez-vous pas de votre mot de passe ?"]
+    explain: "*Pas* стоит **после** блока «глагол-местоимение»: *Ne vous **souvenez-vous** pas*."
+  - q: "Que ton professeur pense-t-il de l'intelligence artificielle ?"
+    answers: ["Que pense ton professeur de l'intelligence artificielle ?", "Qu'est-ce que ton professeur pense de l'intelligence artificielle ?"]
+    explain: "После *que* сложная инверсия невозможна — только простая: **Que pense ton professeur**…"
+  - q: "Où les données sont-ils stockées ?"
+    answers: ["Où les données sont-elles stockées ?"]
+    explain: "*Les données* — ж. р. мн. ч. → **elles**: *sont-elles*."
+  - q: "Se est-il inscrit sur ce forum ?"
+    answers: ["S'est-il inscrit sur ce forum ?"]
+    explain: "*Se* перед гласной сокращается: **S'est-il** inscrit."

@@ -1,0 +1,59 @@
+title: "Из действительного залога — в страдательный"
+type: transform
+intro: |
+  Перестрой предложение так, чтобы прямое дополнение стало подлежащим. Используй **ключевое слово** и сохрани время глагола. Впиши недостающую часть.
+hints:
+  - "être в том же времени + participe passé, согласованное с новым подлежащим."
+  - "Исполнитель — par; чувства и состояние (aimer, couvrir, entourer) — de."
+  - "Подлежащее on в пассиве исчезает."
+items:
+  - q: "Un architecte célèbre dessine ce nouveau musée."
+    key: "PAR"
+    stem: "Ce nouveau musée ___ un architecte célèbre."
+    answers: ["est dessiné par"]
+    explain: "Présent → *est* + *dessiné*; исполнитель — **par**."
+  - q: "Les étudiants ont organisé la fête de fin d'année."
+    key: "ÉTÉ"
+    stem: "La fête de fin d'année ___ les étudiants."
+    answers: ["a été organisée par"]
+    explain: "Passé composé → **a été** + причастие, согласованное с *la fête* (ж. р.): *organisée*."
+  - q: "On a fermé toutes les routes à cause de la neige."
+    key: "FERMÉES"
+    stem: "Toutes les routes ___ à cause de la neige."
+    answers: ["ont été fermées"]
+    explain: "Подлежащее *on* исчезает; passé composé → **ont été fermées**, согласование с *les routes*."
+  - q: "Le jury annoncera les résultats demain."
+    key: "SERONT"
+    stem: "Les résultats ___ le jury demain."
+    answers: ["seront annoncés par"]
+    explain: "Futur simple → **seront** + *annoncés* (м. р., мн. ч.) + **par**."
+  - q: "Tous les élèves aiment cette institutrice."
+    key: "DE"
+    stem: "Cette institutrice ___ tous les élèves."
+    answers: ["est aimée de"]
+    explain: "Глагол чувства → агент вводится через **de**: *est aimée **de** tous*."
+  - q: "La neige couvrait les sommets."
+    key: "COUVERTS"
+    stem: "Les sommets ___ neige."
+    answers: ["étaient couverts de"]
+    explain: "Imparfait → **étaient**; *couvrir* описывает состояние → **de**, причём без артикля: *couverts **de** neige*."
+  - q: "On traduit ce roman en vingt langues."
+    key: "TRADUIT"
+    stem: "Ce roman ___ en vingt langues."
+    answers: ["est traduit"]
+    explain: "*on* исчезает, présent → **est traduit**."
+  - q: "Un chien a mordu le facteur."
+    key: "MORDU"
+    stem: "Le facteur ___ un chien."
+    answers: ["a été mordu par"]
+    explain: "Passé composé → **a été mordu par**."
+  - q: "Des arbres centenaires entourent le château."
+    key: "ENTOURÉ"
+    stem: "Le château ___ centenaires."
+    answers: ["est entouré d'arbres"]
+    explain: "*Entourer* — состояние → **de**; *des* выпадает, перед гласной — **d'**: *entouré **d'arbres***."
+  - q: "Le directeur avait déjà signé le contrat."
+    key: "SIGNÉ"
+    stem: "Le contrat ___ le directeur."
+    answers: ["avait déjà été signé par", "avait été signé par", "avait été déjà signé par"]
+    explain: "Plus-que-parfait → **avait été signé**; *déjà* обычно встаёт после *avait*."

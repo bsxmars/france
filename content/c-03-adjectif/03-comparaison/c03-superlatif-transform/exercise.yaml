@@ -1,0 +1,57 @@
+title: "Один из самых…: превосходная степень"
+type: transform
+intro: "Перестрой фразу по ключу, используя превосходную степень. Впиши только пропуск. Следи за местом прилагательного, повтором артикля и согласованием."
+hints:
+  - "Прилагательное после существительного → два артикля: la ville la plus ancienne."
+  - "un / une des + plus + прил. мн. ч. + сущ. мн. ч.; дополнение — с de."
+items:
+  - q: "Lyon est une ville très ancienne."
+    key: "une des… de France"
+    stem: "Lyon est ___ de France."
+    answers: ["une des villes les plus anciennes", "l'une des villes les plus anciennes"]
+    explain: "*Ancien* стоит после существительного → ***une des villes les plus anciennes*** (мн. ч., ж. р.)."
+  - q: "C'est un très beau souvenir."
+    key: "mon"
+    stem: "C'est ___."
+    answers: ["mon plus beau souvenir"]
+    explain: "С притяжательным артикль не нужен: ***mon plus beau souvenir***."
+  - q: "Marie est très calme. Ses sœurs le sont moins."
+    key: "de la famille"
+    stem: "Marie est ___ de la famille."
+    answers: ["la plus calme"]
+    explain: "Сравнение с другими → согласуемое ***la plus calme***."
+  - q: "Marie est calme surtout le matin."
+    key: "c'est… que"
+    stem: "C'est le matin que Marie est ___."
+    answers: ["le plus calme"]
+    explain: "Сравнение Марии с самой собой → неизменяемое ***le plus calme***."
+  - q: "Je n'ai aucune idée de la réponse."
+    key: "moindre"
+    stem: "Je n'ai pas ___ de la réponse."
+    answers: ["la moindre idée"]
+    explain: "«Ни малейшего понятия» → ***la moindre idée***."
+  - q: "Cette décision est extrêmement délicate."
+    key: "des plus"
+    stem: "Cette décision est ___."
+    answers: ["des plus délicates"]
+    explain: "Книжное ***des plus*** + прил. мн. ч.: *des plus délicates*."
+  - q: "Ce musée est très visité. Aucun autre musée du pays ne l'est autant."
+    key: "le… du pays"
+    stem: "C'est ___ du pays."
+    answers: ["le musée le plus visité"]
+    explain: "Причастие-прилагательное после существительного → ***le musée le plus visité*** (два артикля)."
+  - q: "C'est une très bonne solution. Il n'y en a pas de meilleure."
+    key: "la… possible"
+    stem: "C'est ___ possible."
+    answers: ["la meilleure solution"]
+    explain: "Превосходная степень от *bon* — ***la meilleure*** (никогда ~~la plus bonne~~); *possible* после превосходной степени её усиливает."
+  - q: "Ces arguments sont très convaincants. Les autres le sont moins."
+    key: "les… de tous"
+    stem: "Ce sont ___ de tous."
+    answers: ["les arguments les plus convaincants"]
+    explain: "Прилагательное после существительного → ***les arguments les plus convaincants***."
+  - q: "C'est un très mauvais choix, le plus mauvais de tous."
+    key: "pire"
+    stem: "C'est ___ de tous."
+    answers: ["le pire choix"]
+    explain: "***Le pire choix*** — превосходная степень от *mauvais* в оценочном значении."

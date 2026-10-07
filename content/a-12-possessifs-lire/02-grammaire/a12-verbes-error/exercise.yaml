@@ -1,0 +1,37 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: форма глагола III группы или притяжательное / указательное слово. Исправь и напиши всё предложение."
+hints:
+  - "III группа: je -s, tu -s, il -t."
+  - "Притяжательное выбирают по роду предмета, а не владельца."
+items:
+  - q: "Je lise le journal."
+    answers: ["Je lis le journal."]
+    explain: "*lire* — III группа: **je lis**. Окончание *-e* — у глаголов на -er."
+  - q: "Nous écrisons une lettre."
+    answers: ["Nous écrivons une lettre."]
+    explain: "Полная основа *écrire* — **écriv-**: *nous écrivons*."
+  - q: "Il écris à son frère."
+    answers: ["Il écrit à son frère."]
+    explain: "3-е лицо ед. ч. → **-t**: *il écrit*."
+  - q: "Les enfants lient un livre."
+    answers: ["Les enfants lisent un livre."]
+    explain: "Во мн. ч. у *lire* появляется *-s-*: **lisent**."
+  - q: "Tu veus sortir ?"
+    answers: ["Tu veux sortir ?"]
+    explain: "*vouloir*: *je veux, tu **veux*** — с -x."
+  - q: "Marie parle à sa frère."
+    answers: ["Marie parle à son frère."]
+    explain: "*frère* — м. р. → **son**, хотя владелица — Мари."
+  - q: "Cet leçon est facile."
+    answers: ["Cette leçon est facile."]
+    explain: "*leçon* — ж. р. → **cette**. *Cet* — только м. р. перед гласной."
+  - q: "Ce enfant dort."
+    answers: ["Cet enfant dort."]
+    explain: "*enfant* (м. р.) начинается с гласной → **cet**."
+  - q: "Ils cherchent leur livres."
+    answers: ["Ils cherchent leurs livres."]
+    explain: "Книг несколько → **leurs** с -s."
+  - q: "Lise le texte, Paul !"
+    answers: ["Lis le texte, Paul !"]
+    explain: "Повелительное «ты» от *lire* — **lis** (= *tu lis* без местоимения)."

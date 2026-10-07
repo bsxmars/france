@@ -1,0 +1,50 @@
+title: "Перед или после: смысл меняется"
+type: choice
+intro: "Выбери вариант, который передаёт смысл, указанный в скобках. Оба варианта грамматичны, но значат разное."
+hints:
+  - "Перед существительным — переносный, оценочный смысл; после — прямой, классифицирующий."
+items:
+  - q: "Il a retrouvé par hasard ___. (бывшего учителя)"
+    options: ["son ancien professeur", "son professeur ancien"]
+    answer: 0
+    explain: "«Бывший» → *ancien* **перед** существительным: ***son ancien professeur***."
+  - q: "Ils collectionnent ___. (старинные книги)"
+    options: ["les anciens livres", "les livres anciens"]
+    answer: 1
+    explain: "«Старинный» → *ancien* **после**: ***les livres anciens***."
+  - q: "Ce ___ ne savait plus quoi faire pour sauver son entreprise. (несчастный человек)"
+    options: ["pauvre homme", "homme pauvre"]
+    answer: 0
+    explain: "«Несчастный, жалкий» → ***pauvre homme*** (препозиция)."
+  - q: "C'était ___, mais généreux avec tout le monde. (бедный, без денег)"
+    options: ["un pauvre homme", "un homme pauvre"]
+    answer: 1
+    explain: "«Бедный» в прямом смысле → ***un homme pauvre***."
+  - q: "Je l'ai vu ___ de son départ. (в тот самый день)"
+    options: ["le même jour", "le jour même"]
+    answer: 1
+    explain: "«В тот самый день, именно в тот день» → ***le jour même***. *Le même jour* — «в тот же день» (что и другое событие)."
+  - q: "Nous avons dîné dans ___ du quartier. (дорогой по цене ресторан)"
+    options: ["un cher restaurant", "un restaurant cher"]
+    answer: 1
+    explain: "«Дорогой по цене» → ***un restaurant cher***. *Cher* перед существительным — «милый, дорогой сердцу»."
+  - q: "Il a raconté ___ : celle de son grand-père pendant la guerre. (правдивую историю)"
+    options: ["une vraie histoire", "une histoire vraie"]
+    answer: 1
+    explain: "«Правдивая, основанная на фактах» → ***une histoire vraie***. *Une vraie histoire* — «настоящая история» (в оценочном смысле)."
+  - q: "Ne t'inquiète pas, c'est ___ de procédure. (всего лишь вопрос)"
+    options: ["une simple question", "une question simple"]
+    answer: 0
+    explain: "«Всего лишь, только» → *simple* **перед**: ***une simple question***."
+  - q: "Elle a écrit ce roman à seize ans, c'est ___ ! (настоящий талант / прирождённый)"
+    options: ["un talent vrai", "un vrai talent"]
+    answer: 1
+    explain: "«Настоящий» (оценка) → ***un vrai talent*** (препозиция)."
+  - q: "Ce garçon est ___ : il pose sans cesse des questions. (любознательный)"
+    options: ["un curieux enfant", "un enfant curieux"]
+    answer: 1
+    explain: "«Любопытный, любознательный» → ***un enfant curieux***. *Un curieux enfant* — «странный ребёнок»."
+  - q: "C'était ___ : son père venait de perdre son emploi. (скверная история)"
+    options: ["une sale histoire", "une histoire sale"]
+    answer: 0
+    explain: "«Скверная, неприятная» → ***une sale histoire*** (препозиция). *Une histoire sale* — «грязная, непристойная»."

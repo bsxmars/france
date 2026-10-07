@@ -1,0 +1,56 @@
+title: "Gérondif, participe présent или sans + infinitif?"
+type: choice
+intro: "Выбери форму, которая лучше передаёт смысл. Все варианты грамматически возможны или близки к норме — верен один по смыслу (время, способ, причина, отношение к подлежащему или дополнению)."
+hints:
+  - "Gérondif — время, способ, условие; относится к подлежащему."
+  - "Participe présent — причина или признак дополнения."
+  - "Не делая (способ) → sans + infinitif; не зная (причина) → ne sachant pas."
+items:
+  - q: "Il a quitté la réunion ___ un mot."
+    options: ["sans dire", "en ne disant pas", "ne disant pas"]
+    answer: 0
+    explain: "«Не сказав ни слова» — способ действия → **sans dire**."
+  - q: "___ la langue, elle n'a rien compris au film."
+    options: ["Sans parler", "Ne parlant pas", "En ne parlant pas"]
+    answer: 1
+    explain: "Отрицательное деепричастие со значением причины («не зная языка» = потому что) → **Ne parlant pas**."
+  - q: "J'ai croisé ma cousine ___ du métro : elle remontait l'escalier quand je descendais."
+    options: ["sortant", "en sortant", "sortie"]
+    answer: 0
+    explain: "Из метро выходила кузина, а не я → participe présent относится к дополнению: **sortant** (= *qui sortait*)."
+  - q: "J'ai croisé ma cousine ___ du métro : je venais de passer le tourniquet."
+    options: ["sortant", "en sortant", "sortie"]
+    answer: 1
+    explain: "Выходил я (подлежащее) → gérondif **en sortant** (= *quand je sortais*)."
+  - q: "On ne peut pas apprendre à nager ___ dans l'eau."
+    options: ["en n'entrant pas", "sans entrer", "n'entrant pas"]
+    answer: 1
+    explain: "«Не заходя в воду» — способ, сопутствующее отсутствие действия → **sans entrer**."
+  - q: "___ qu'il pleuvait, nous avons pris la voiture."
+    options: ["En voyant", "Voyant", "Sans voir"]
+    answer: 1
+    explain: "Причина («видя, что…» = так как) → participe présent **Voyant**. *En voyant* значило бы «в момент, когда увидели»."
+  - q: "Elle a réussi l'examen ___ beaucoup."
+    options: ["sans travailler", "ne travaillant pas", "en ne travaillant pas"]
+    answer: 0
+    explain: "«Не особо работая» — сопутствующее обстоятельство/уступка → **sans travailler** (*beaucoup* относится к инфинитиву)."
+  - q: "___ plus de nouvelles depuis un mois, ses parents se sont inquiétés."
+    options: ["Sans avoir", "N'ayant", "En n'ayant"]
+    answer: 1
+    explain: "Причина → participe с отрицанием: ***N'ayant** plus de nouvelles*."
+  - q: "___ cette méthode, vous gagnerez un temps précieux."
+    options: ["Adoptant", "En adoptant", "Sans adopter"]
+    answer: 1
+    explain: "Условие (= *si vous adoptez*) — типичное значение gérondif: **En adoptant**."
+  - q: "Il a traversé la rue ___ ni à droite ni à gauche."
+    options: ["sans regarder", "ne regardant", "en ne regardant pas"]
+    answer: 0
+    explain: "После *sans* перечисление через *ni… ni*: ***sans regarder** ni à droite ni à gauche*."
+  - q: "Tout ___ votre point de vue, je ne peux pas l'accepter."
+    options: ["comprenant", "en comprenant", "sans comprendre"]
+    answer: 1
+    explain: "*Tout en* + participe présent — противопоставление (= *bien que je comprenne*): **tout en comprenant**. Без *en* *tout* так не употребляется."
+  - q: "Elle est partie en vacances ___ son ordinateur, pour une fois."
+    options: ["sans emporter", "n'emportant pas", "en n'emportant pas"]
+    answer: 0
+    explain: "«Не взяв компьютер» — сопутствующее обстоятельство → **sans emporter**."

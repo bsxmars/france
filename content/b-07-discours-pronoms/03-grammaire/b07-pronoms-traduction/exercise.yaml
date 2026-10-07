@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком, заменяя дополнения двумя местоимениями. Пунктуация не важна, акценты — важны."
+hints:
+  - "le lui, la leur, les lui; me le, te la, vous les; lui en, m'en, t'y."
+  - "Причастие согласуется с le / la / les, стоящими впереди, но не с en."
+items:
+  - q: "(Договор) Я ему его покажу завтра."
+    answers: ["Je le lui montrerai demain.", "Je vais le lui montrer demain.", "Demain je le lui montrerai.", "Demain je vais le lui montrer."]
+    explain: "*Le contrat* → *le*, «ему» → *lui*: **le lui** montrerai; с futur proche — *vais **le lui** montrer*."
+  - q: "(Фотографии) Ты мне их отправишь?"
+    answers: ["Tu me les envoies ?", "Tu me les enverras ?", "Est-ce que tu me les enverras ?", "Est-ce que tu me les envoies ?", "Me les enverras-tu ?", "Tu vas me les envoyer ?", "Est-ce que tu vas me les envoyer ?"]
+    explain: "«Мне» → *me*, *les photos* → *les*: **me les**."
+  - q: "(Новость) Мы им её уже сообщили."
+    answers: ["Nous la leur avons déjà annoncée.", "On la leur a déjà annoncée.", "Nous la leur avons déjà apprise.", "On la leur a déjà apprise.", "Nous la leur avons déjà communiquée.", "On la leur a déjà communiquée."]
+    explain: "*La nouvelle* → *la*, «им» → *leur*: **la leur** перед *avons*; причастие согласуется с *la*: *annoncée*."
+  - q: "Он мне об этом не говорил."
+    answers: ["Il ne m'en a pas parlé.", "Il ne m'en parlait pas.", "Il ne m'en a jamais parlé."]
+    explain: "*Parler de* → *en*, «мне» → *me*: **ne m'en a pas parlé**."
+  - q: "(Ключи) Ты мне их вернул?"
+    answers: ["Tu me les as rendues ?", "Est-ce que tu me les as rendues ?", "Me les as-tu rendues ?"]
+    explain: "**me les** перед *as*; *rendues* согласуется с *les* (*les clés*, ж. р. мн. ч.)."
+  - q: "Советов? Она им дала много."
+    answers: ["Elle leur en a donné beaucoup.", "Elle leur en a beaucoup donné."]
+    explain: "*Des conseils* + *beaucoup* → **en**; «им» → *leur*: **leur en**. С *en* причастие не согласуется."
+  - q: "(На вокзал) Я тебя туда отвезу."
+    answers: ["Je t'y emmènerai.", "Je vais t'y emmener.", "Je t'y emmène.", "Je t'y conduirai.", "Je vais t'y conduire.", "Je t'y conduis."]
+    explain: "«Тебя» → *te*, «туда» → *y*: **t'y**."
+  - q: "(Пароль) Я не могу вам его сказать."
+    answers: ["Je ne peux pas vous le dire.", "Je ne peux pas vous le donner."]
+    explain: "Местоимения перед инфинитивом: *ne peux pas **vous le** dire*."
+  - q: "(Отчёт, директору) Ты его ей отдал?"
+    answers: ["Tu le lui as donné ?", "Est-ce que tu le lui as donné ?", "Le lui as-tu donné ?", "Tu le lui as remis ?", "Est-ce que tu le lui as remis ?", "Le lui as-tu remis ?"]
+    explain: "*Le rapport* → *le*, «ей» → *lui*: **le lui** перед *as*. *Lui* — и «ему», и «ей»."
+  - q: "Она меня представила своему начальнику."
+    answers: ["Elle m'a présenté à son chef.", "Elle m'a présentée à son chef.", "Elle m'a présenté à son patron.", "Elle m'a présentée à son patron.", "Elle m'a présenté à son supérieur.", "Elle m'a présentée à son supérieur."]
+    explain: "*Me* и *lui* не сочетаются, поэтому «начальнику» остаётся существительным: *elle m'a présenté(e) **à son chef***; причастие согласуется с *me*, если говорит женщина."

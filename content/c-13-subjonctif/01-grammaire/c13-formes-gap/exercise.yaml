@@ -1,0 +1,44 @@
+title: "Présent или passé du subjonctif: точная форма"
+type: gap
+intro: "Поставь глагол в скобках в présent или passé du subjonctif. Предшествующее, уже завершённое действие → passé; одновременное или будущее → présent. Следи за двойными основами и за буквой i."
+hints:
+  - "Основа nous / vous у глаголов с двумя основами — как в imparfait: prenions, buvions, voyions."
+  - "-ier → -iions, -iiez; -yer, voir, croire → -yions, -yiez; но soyons, ayons — без i."
+  - "Passé: aie / sois + participe passé; согласование — как в passé composé."
+items:
+  - q: "Le directeur exige que nous ___ (recevoir) chaque candidat personnellement."
+    answers: ["recevions"]
+    explain: "Требование → subjonctif présent. У *recevoir* две основы: *ils reçoivent*, но *nous recevons* → *que nous **recevions***."
+  - q: "Il est indispensable que vous ___ (envoyer) le dossier avant vendredi."
+    answers: ["envoyiez"]
+    explain: "Глагол на *-yer*: основа *envoy-* + *-iez* → ***envoyiez*** (y + i)."
+  - q: "Je ne crois pas qu'ils ___ (voir) le film dont tu parles : ils sont rentrés de vacances hier soir."
+    answers: ["aient vu"]
+    explain: "Сомнение в действии, которое должно было произойти **раньше** → passé du subjonctif: ***aient vu***."
+  - q: "Bien que nous ___ (rire) de bon cœur, la situation n'avait rien de drôle."
+    answers: ["riions", "ayons ri"]
+    explain: "*Rire*: основа *ri-* + *-ions* → ***riions*** (два i). Если смех понимается как уже завершённый до оценки, допустимо и passé *ayons ri*."
+  - q: "Il faudrait que tu ___ (savoir) ton texte par cœur d'ici demain."
+    answers: ["saches", "aies su"]
+    explain: "*Savoir* — особая основа *sach-*: *que tu **saches***. С *d'ici demain* возможно и passé *aies su* (результат к сроку), но обычно — présent."
+  - q: "Je suis désolé que vous ___ (devoir) attendre si longtemps tout à l'heure."
+    answers: ["ayez dû"]
+    explain: "Ожидание уже было (*tout à l'heure*) → passé du subjonctif: *que vous **ayez dû***."
+  - q: "Pourvu que la réunion ___ (valoir) le déplacement !"
+    answers: ["vaille"]
+    explain: "*Valoir* в subjonctif: *qu'il **vaille*** (особая основа *vaill-*)."
+  - q: "Ma mère tient à ce que nous ___ (s'asseoir) tous à table à huit heures."
+    answers: ["nous asseyions", "nous assoyions"]
+    explain: "*Tenir à ce que* + subjonctif. *S'asseoir*: *nous nous asseyons* → *que nous nous **asseyions*** (вариант *assoyions* тоже нормативен)."
+  - q: "Je doute que les enfants ___ (s'endormir) avant minuit hier."
+    answers: ["se soient endormis"]
+    explain: "Действие в прошлом (*hier*) → passé du subjonctif; возвратный глагол → *être*; причастие согласуется с *les enfants*: ***se soient endormis***."
+  - q: "Il est rare qu'elle ___ (aller) au cinéma seule."
+    answers: ["aille"]
+    explain: "Оценка (*il est rare que*) → subjonctif. *Aller*: *qu'elle **aille***."
+  - q: "Il est possible que nous ___ (payer) trop cher l'année dernière."
+    answers: ["ayons payé"]
+    explain: "Предположение о прошлом → passé du subjonctif: *que nous **ayons payé*** (без i в *ayons*)."
+  - q: "Je voudrais que vous ___ (croire) en vos chances."
+    answers: ["croyiez"]
+    explain: "Желание → subjonctif. *Croire*: основа *croy-* + *-iez* → ***croyiez*** — отличается от indicatif *croyez* одной буквой i."

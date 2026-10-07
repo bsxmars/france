@@ -1,0 +1,55 @@
+title: "Узнай passé simple"
+type: choice
+intro: "В каждой фразе из «книжного» рассказа выделен глагол в passé simple. Выбери, чему он равен в разговорном языке."
+hints:
+  - "fut — être, fit — faire, eut — avoir, vit — voir, vécut — vivre."
+  - "-a / -èrent — глаголы на -er; -int / -inrent — venir, tenir."
+items:
+  - q: "En 1789, le peuple de Paris **prit** la Bastille."
+    options: ["a pris", "prenait", "a pu"]
+    answer: 0
+    explain: "*prit* — passé simple от **prendre** (тип на *-i-*): *le peuple **a pris** la Bastille*."
+  - q: "La guerre **fut** longue et cruelle."
+    options: ["a fait", "a été", "a eu"]
+    answer: 1
+    explain: "*fut* — от **être**: *la guerre **a été** longue*. Не путай с *fit* (*faire*)."
+  - q: "Le vieux marin **vécut** encore dix ans dans ce village."
+    options: ["a vu", "a vécu", "a voulu"]
+    answer: 1
+    explain: "*vécut* — от **vivre**. От *voir* было бы *vit*, от *vouloir* — *voulut*."
+  - q: "Soudain, elle **vit** une lumière au fond du couloir."
+    options: ["a vécu", "voit", "a vu"]
+    answer: 2
+    explain: "*vit* в рассказе о прошлом (*soudain*) — passé simple от **voir**: *elle **a vu***. От *vivre* было бы *vécut*."
+  - q: "Les deux armées **se rencontrèrent** près de la rivière."
+    options: ["se sont rencontrées", "se rencontraient", "s'étaient rencontrées"]
+    answer: 0
+    explain: "Окончание *-èrent* — passé simple глагола на *-er*, событие → *elles **se sont rencontrées*** (согласование с *les armées*)."
+  - q: "Après la victoire, le général **fit** construire un arc de triomphe."
+    options: ["a été", "a fait", "a fini"]
+    answer: 1
+    explain: "*fit* — от **faire**: *il **a fait** construire* (*faire* + инфинитив — «велел построить»)."
+  - q: "Ses parents **eurent** beaucoup de difficultés à trouver du travail."
+    options: ["ont été", "ont eu", "avaient"]
+    answer: 1
+    explain: "*eurent* — от **avoir**, 3-е л. мн. ч.: *ils **ont eu***. От *être* было бы *furent*."
+  - q: "Le messager **revint** le lendemain avec une réponse."
+    options: ["est revenu", "a reçu", "revenait"]
+    answer: 0
+    explain: "Тип на *-in-*: *revint* — от **revenir**: *il **est revenu*** (с *être*)."
+  - q: "Victor Hugo **naquit** à Besançon en 1802."
+    options: ["est mort", "est né", "a nagé"]
+    answer: 1
+    explain: "*naquit* — от **naître**: *il **est né***. Очень частая форма в биографиях."
+  - q: "Personne ne **sut** jamais qui avait écrit cette lettre."
+    options: ["a pu", "a su", "a dû"]
+    answer: 1
+    explain: "*sut* — от **savoir** (тип на *-u-*): *personne n'**a** jamais **su*** — «так никто и не узнал»."
+  - q: "Quand ils **arrivèrent** au village, la fête était déjà finie."
+    options: ["sont arrivés", "arrivaient", "arriveront"]
+    answer: 0
+    explain: "*-èrent* — passé simple, событие на фоне imparfait (*était finie*) → *quand ils **sont arrivés***."
+  - q: "La reine **mourut** en exil, loin de son pays."
+    options: ["est morte", "a mûri", "mourait"]
+    answer: 0
+    explain: "*mourut* — от **mourir**: *elle **est morte*** (с *être*, согласование с *la reine*)."

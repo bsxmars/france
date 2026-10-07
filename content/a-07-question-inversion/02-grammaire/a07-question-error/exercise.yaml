@@ -1,0 +1,38 @@
+title: "Найди ошибку в вопросе"
+type: error
+intro: "В каждом вопросе **одна** ошибка: лишнее или пропущенное -t-, неверное местоимение, смешение est-ce que с инверсией. Исправь и отправь вопрос целиком."
+hints:
+  - "-t- — только между гласными: Parle-t-il, но Lit-il."
+  - "После est-ce que порядок слов прямой."
+  - "С je — только est-ce que."
+items:
+  - q: "Parle-il à sa mère ?"
+    answers: ["Parle-t-il à sa mère ?"]
+    explain: "*parle* кончается на *-e*, *il* — на гласную → нужно вставное **-t-**."
+  - q: "Va-tu à la gare ?"
+    answers: ["Vas-tu à la gare ?"]
+    explain: "Форма *tu* глагола *aller* — **vas**: *Vas-tu à la gare ?*"
+  - q: "Lit-t-il ce texte ?"
+    answers: ["Lit-il ce texte ?"]
+    explain: "*lit* уже кончается на *-t* → вставка не нужна: **Lit-il**."
+  - q: "Paul travaille-t-elle à la pharmacie ?"
+    answers: ["Paul travaille-t-il à la pharmacie ?"]
+    explain: "Местоимение повторяет подлежащее в роде: *Paul* → **il**."
+  - q: "Travaille Paul à l'usine ?"
+    answers: ["Paul travaille-t-il à l'usine ?", "Est-ce que Paul travaille à l'usine ?"]
+    explain: "Существительное за глагол не переносят → сложная инверсия **Paul travaille-t-il** или *Est-ce que Paul travaille…*"
+  - q: "Est-ce que lit-il ce livre ?"
+    answers: ["Est-ce qu'il lit ce livre ?", "Lit-il ce livre ?"]
+    explain: "Два способа сразу нельзя. После *est-ce que* — прямой порядок: **Est-ce qu'il lit** ce livre ?"
+  - q: "Est-ce que elle habite Paris ?"
+    answers: ["Est-ce qu'elle habite Paris ?"]
+    explain: "Перед гласной *que* теряет *e*: **qu'elle**."
+  - q: "Léa et Paul parlent-elles français ?"
+    answers: ["Léa et Paul parlent-ils français ?"]
+    explain: "Подлежащие разного рода → местоимение мужского рода **ils**."
+  - q: "Lis-je vite ?"
+    answers: ["Est-ce que je lis vite ?"]
+    explain: "С *je* у *lire* инверсию не делают → **Est-ce que je lis** vite ?"
+  - q: "Les filles ferment-ils la fenêtre ?"
+    answers: ["Les filles ferment-elles la fenêtre ?"]
+    explain: "*les filles* — ж. р. мн. ч. → **elles**."

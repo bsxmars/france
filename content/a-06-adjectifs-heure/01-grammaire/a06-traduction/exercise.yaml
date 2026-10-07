@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Числа пиши словами. Акценты обязательны, точку можно не ставить."
+hints:
+  - "Время: il est + число + heure(s)."
+  - "Прилагательное: род, число и место."
+items:
+  - q: "Сейчас десять часов."
+    answers: ["Il est dix heures."]
+    explain: "**Il est** dix heures — *il* формальное подлежащее. Звучит [di-zœr]."
+  - q: "Сейчас час."
+    answers: ["Il est une heure."]
+    explain: "*heure* — ж. р. → **une** heure, без *-s*."
+  - q: "Лея готова."
+    answers: ["Léa est prête."]
+    explain: "ж. р. → **prête**, *t* звучит."
+  - q: "Моя сестра не ленивая, она рассеянная."
+    answers: ["Ma sœur n'est pas paresseuse, elle est distraite."]
+    explain: "*paresseux* → **paresseuse**; *distrait* → **distraite**; отрицание *n'est pas*."
+  - q: "Посмотрите на эти голубые цветы."
+    answers: ["Regardez ces fleurs bleues."]
+    explain: "*regarder* — без предлога; цвет после существительного: **fleurs bleues**."
+  - q: "Отец Поля очень старый."
+    answers: ["Le père de Paul est très vieux."]
+    explain: "**vieux** — м. р. ед. ч.; *de Paul* — «Поля»."
+  - q: "Девочки остаются одни."
+    answers: ["Les filles restent seules."]
+    explain: "ж. р. мн. ч. → **seules**."
+  - q: "Ученицы серьёзные."
+    answers: ["Les élèves sont sérieuses."]
+    explain: "Ученицы — ж. р. мн. ч.: **sérieuses**."
+  - q: "Я ухожу в половине восьмого."
+    answers: ["Je pars à sept heures et demie.", "Je m'en vais à sept heures et demie."]
+    explain: "«Половина восьмого» = *sept heures **et demie***; «во сколько» → **à**."
+  - q: "Моя младшая сестра счастлива."
+    answers: ["Ma sœur cadette est heureuse."]
+    explain: "*cadette* — после существительного; *heureux* → **heureuse**."

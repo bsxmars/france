@@ -1,0 +1,43 @@
+title: "Aller, venir и их семья"
+type: gap
+intro: "Поставь глагол в скобках в настоящее время (или в повелительное, если стоит «!»). Впиши только пропущенное слово."
+hints:
+  - "vais, vas, va, allons, allez, vont."
+  - "viens, viens, vient, venons, venez, viennent — так же revenir, devenir, tenir…"
+items:
+  - q: "Je ___ à la gare. (aller)"
+    answers: ["vais"]
+    explain: "*je* → **vais**."
+  - q: "Tu ___ au cinéma ce soir ? (aller)"
+    answers: ["vas"]
+    explain: "*tu* → **vas** (с -s, в отличие от повелительного *va !*)."
+  - q: "Mes amis ___ à Lyon demain. (aller)"
+    answers: ["vont"]
+    explain: "*ils* → **vont**."
+  - q: "Vous ___ bien ? (aller)"
+    answers: ["allez"]
+    explain: "*vous* → **allez**; *aller bien* — «хорошо поживать»."
+  - q: "Paul, ___ chez ta grand-mère ! (aller !)"
+    answers: ["va"]
+    explain: "Повелительное «ты» от *aller* — **va**, без -s."
+  - q: "D'où ___-vous ? (venir)"
+    answers: ["venez"]
+    explain: "*vous* → безударная основа *ven-* + *-ez*: **venez**."
+  - q: "Léa ___ du stade. (venir)"
+    answers: ["vient"]
+    explain: "3-е лицо ед. ч. → **vient** (основа *vien-* + *-t*)."
+  - q: "Les enfants ___ de l'école à quatre heures. (revenir)"
+    answers: ["reviennent"]
+    explain: "*ils* → **reviennent**, с двумя n."
+  - q: "Nous ___ nos amis de notre visite. (prévenir)"
+    answers: ["prévenons"]
+    explain: "*nous* → **prévenons**, как *nous venons*."
+  - q: "Mon frère ___ ingénieur. (devenir)"
+    answers: ["devient"]
+    explain: "*il* → **devient**. Профессия после *devenir* — без артикля."
+  - q: "Je ___ un livre à la main. (tenir)"
+    answers: ["tiens"]
+    explain: "*tenir* спрягается как *venir*: *je* **tiens**."
+  - q: "Le film ___ commencer. («сейчас начнётся», aller)"
+    answers: ["va"]
+    explain: "Ближайшее будущее: *aller* + инфинитив → *le film **va** commencer*."

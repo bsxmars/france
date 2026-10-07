@@ -1,0 +1,55 @@
+title: "Qui, que, quoi, qu'est-ce qui, lequel"
+type: choice
+intro: "Выбери вопросительное местоимение, верное по норме."
+hints:
+  - "Первая часть — кто / что: qui… / qu'est-ce…; вторая — функция: …qui (подлежащее) / …que (дополнение)."
+  - "Quoi — после предлога и перед инфинитивом; lequel — выбор из известного множества."
+items:
+  - q: "___ vous amène ici à cette heure ?"
+    options: ["Qu'est-ce que", "Qu'est-ce qui", "Qui est-ce que", "Que"]
+    answer: 1
+    explain: "Предмет-подлежащее при *amener* → **Qu'est-ce qui** vous amène ?"
+  - q: "___ tu as invité à ton anniversaire ?"
+    options: ["Qui est-ce qui", "Qu'est-ce que", "Qui est-ce que", "Lequel"]
+    answer: 2
+    explain: "Лицо в роли прямого дополнения → **Qui est-ce que** tu as invité ?"
+  - q: "___ a écrit ces lettres anonymes ? — Deux voisins, paraît-il."
+    options: ["Qui", "Que", "Qu'est-ce qui", "Lequel"]
+    answer: 0
+    explain: "Вопрос о лице-подлежащем → **Qui**; глагол всегда в 3-м л. ед. ч. (*a écrit*), даже если в ответе несколько человек."
+  - q: "De ces deux romans, ___ me conseilles-tu ?"
+    options: ["quel", "lequel", "que", "qui"]
+    answer: 1
+    explain: "Выбор из названных предметов без существительного → **lequel**."
+  - q: "___ sert cette petite clé ?"
+    options: ["Que", "À quoi", "Qu'est-ce qui", "Quoi"]
+    answer: 1
+    explain: "*Servir **à** qch* → **À quoi** sert… ?"
+  - q: "Alors, tu fais ___ ce soir ?"
+    options: ["que", "quoi", "qu'est-ce que", "ce que"]
+    answer: 1
+    explain: "В конце вопроса (разговорная прямая интонация) — ударная форма **quoi**: *tu fais quoi ?* Нейтрально — *Que fais-tu ? / Qu'est-ce que tu fais ?*"
+  - q: "___ insister ? Il a déjà pris sa décision."
+    options: ["Pourquoi bon", "À quoi bon", "De quoi", "Que bon"]
+    answer: 1
+    explain: "Устойчивое **À quoi bon** + инфинитив — «какой смысл…»."
+  - q: "___ de vos collègues avez-vous parlé de ce problème ?"
+    options: ["Auquel", "Duquel", "Lequel", "Qui"]
+    answer: 0
+    explain: "*Parler **à** qn* → *à + lequel* = **Auquel** de vos collègues."
+  - q: "___ de ces deux candidates vous souvenez-vous le mieux ?"
+    options: ["Laquelle", "À laquelle", "De laquelle", "Duquel"]
+    answer: 2
+    explain: "*Se souvenir **de*** + ж. р. → **De laquelle** (слияния нет)."
+  - q: "Qui ___ ?"
+    options: ["ce garçon cherche", "ce garçon cherche-t-il", "cherche-t-il ce garçon", "est-ce que cherche ce garçon"]
+    answer: 1
+    explain: "«Кого ищет этот мальчик?»: *qui* — дополнение, подлежащее — существительное → сложная инверсия **Qui ce garçon cherche-t-il ?** (*Qui cherche ce garçon ?* значило бы «Кто ищет мальчика?»)."
+  - q: "___ de neuf depuis la dernière fois ?"
+    options: ["Que", "Quoi", "Qu'est-ce que", "Qui"]
+    answer: 1
+    explain: "*Quoi de* + прилагательное: **Quoi de neuf ?**"
+  - q: "___ devient ton frère ? Je ne l'ai pas vu depuis longtemps."
+    options: ["Que", "Qu'est-ce qui", "Quoi", "Qui"]
+    answer: 0
+    explain: "*Devenir* — именная часть (что с ним стало) → **Que devient** ton frère ? (с инверсией)."

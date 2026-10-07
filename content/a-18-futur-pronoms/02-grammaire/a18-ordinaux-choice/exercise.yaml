@@ -1,0 +1,47 @@
+title: "Порядковые числа и количество"
+type: choice
+intro: "Выбери правильный вариант."
+hints:
+  - "-ième; premier / première; cinquième, neuvième."
+  - "Un kilo, une bouteille, une dizaine + de без артикля."
+items:
+  - q: "Juin est le ___ mois de l'année."
+    options: ["six", "sixième", "sixème"]
+    answer: 1
+    explain: "Порядковое число: *six* + *-ième* → **sixième** (*x* звучит [z])."
+  - q: "C'est la ___ fois que je viens ici."
+    options: ["premier", "première", "unième"]
+    answer: 1
+    explain: "*Premier* согласуется в роде: *fois* — ж. р. → **première**. *Unième* — только в составных (*vingt et unième*)."
+  - q: "Nous habitons au ___ étage."
+    options: ["cinqième", "cinquième", "cinquème"]
+    answer: 1
+    explain: "В *cinquième* после *q* пишется *u*: **cinquième**."
+  - q: "Ouvrez le livre à la ___ leçon. (21)"
+    options: ["vingt et premier", "vingt et unième", "vingt-et-une"]
+    answer: 1
+    explain: "В составных числах «первый» — **unième**: *vingt et unième*."
+  - q: "Le ___ mai, c'est la fête du Travail."
+    options: ["un", "premier", "unième"]
+    answer: 1
+    explain: "Первое число месяца — порядковое: *le **premier** mai*. Остальные даты — количественные: *le deux mai*."
+  - q: "Le quatorze juillet, c'est le ___ juillet."
+    options: ["quatorze", "quatorzième", "quatorzaine"]
+    answer: 0
+    explain: "В датах — количественное число: *le **quatorze** juillet*."
+  - q: "Achète un kilo ___ pommes, s'il te plaît."
+    options: ["des", "de", "de les"]
+    answer: 1
+    explain: "После существительного меры — **de** без артикля: *un kilo de pommes*."
+  - q: "Il y a une vingtaine ___ élèves dans la salle."
+    options: ["des", "de", "d'"]
+    answer: 2
+    explain: "*Une vingtaine* + *de*; перед гласной — **d'**: *une vingtaine d'élèves* — «человек двадцать»."
+  - q: "Je voudrais une bouteille ___ eau."
+    options: ["d'", "de l'", "des"]
+    answer: 0
+    explain: "*Une bouteille* + **d'** без артикля."
+  - q: "«Человек десять» по-французски:"
+    options: ["dix personnes", "une dizaine de personnes", "une dixième de personnes"]
+    answer: 1
+    explain: "Суффикс *-aine* — «примерно»: **une dizaine de** personnes."

@@ -1,0 +1,132 @@
+- id: c12-formation
+  lesson: c-12-conditionnel/01-conditionnel-present
+  q: "Как образуется conditionnel présent?"
+  a: "Основа futur simple + окончания imparfait: *parler-ais, finir-ait, ser-ions, ir-aient*."
+- id: c12-formes-difficiles
+  lesson: c-12-conditionnel/01-conditionnel-present
+  q: "Conditionnel (je): appeler, jeter, acheter, envoyer, cueillir, courir."
+  a: "*j'appellerais, je jetterais, j'achèterais, j'enverrais, je cueillerais, je courrais*."
+- id: c12-courrais-courais
+  lesson: c-12-conditionnel/01-conditionnel-present
+  q: "*je courrais* или *je courais*? *il mourrait* или *il mourait*?"
+  a: "Два *r* — conditionnel («побежал бы», «умер бы»); одно *r* — imparfait («бегал», «умирал»)."
+- id: c12-serai-serais
+  lesson: c-12-conditionnel/01-conditionnel-present
+  q: "Как на слух отличить *je serai* и *je serais*?"
+  a: "Futur — закрытое [e]: *je serai* [səʁe]; conditionnel — открытое [ɛ]: *je serais* [səʁɛ]."
+- id: c12-si-imparfait
+  lesson: c-12-conditionnel/01-conditionnel-present
+  q: "Схема для условия в настоящем / будущем; два её оттенка."
+  a: "*si* + imparfait → conditionnel présent. Возможное (*Si tu venais demain, on irait au marché*) или нереальное (*Si j'étais toi, je refuserais*)."
+- id: c12-jamais-cond-apres-si
+  lesson: c-12-conditionnel/01-conditionnel-present
+  q: "«Если бы я был богат, я бы купил дом»."
+  a: "*Si j'**étais** riche, j'**achèterais** une maison.* После условного *si* — никогда conditionnel: ~~si je serais~~."
+- id: c12-futur-dans-passe
+  lesson: c-12-conditionnel/01-conditionnel-present
+  q: "*Il m'a écrit qu'il arriverait vers midi* — это conditionnel?"
+  a: "Нет, futur dans le passé (та же форма): «написал, что приедет». Conditionnel — гипотеза: *Il arriverait vers midi si la route était dégagée*."
+- id: c12-et-que
+  lesson: c-12-conditionnel/01-conditionnel-present
+  q: "Как ввести второе условие после *si*?"
+  a: "Через *et que*: *Si tu venais et que tu **aies** le temps…* — книжно subjonctif, разговорно то же время, что после *si*."
+- id: c12-cond-passe-forme
+  lesson: c-12-conditionnel/02-conditionnel-passe
+  q: "Conditionnel passé: форма."
+  a: "*aurais / serais* + participe passé, согласование как в passé composé: *j'aurais fait, elle serait partie, nous nous serions trompés*."
+- id: c12-si-pqp
+  lesson: c-12-conditionnel/02-conditionnel-passe
+  q: "«Если бы у меня вчера были билеты, я бы пошёл на матч»."
+  a: "*Si j'**avais eu** des billets hier, je **serais allé** au match.* Si + plus-que-parfait → conditionnel passé (нереальное в прошлом)."
+- id: c12-mixte-1
+  lesson: c-12-conditionnel/02-conditionnel-passe
+  q: "«Если бы я поехал по автостраде, я был бы уже в Лионе»."
+  a: "*Si j'**avais pris** l'autoroute, je **serais** déjà à Lyon.* Прошлое условие → последствие сейчас: si + PQP → conditionnel présent."
+- id: c12-mixte-2
+  lesson: c-12-conditionnel/02-conditionnel-passe
+  q: "«Будь он осторожнее (вообще), он бы не попал в аварию»."
+  a: "*S'il **était** plus prudent, il n'**aurait** pas **eu** cet accident.* Постоянное свойство → прошлое последствие: si + imparfait → conditionnel passé."
+- id: c12-bi-russe
+  lesson: c-12-conditionnel/02-conditionnel-passe
+  q: "Как выбрать время при переводе русского «бы»?"
+  a: "По смыслу: можно ли ещё что-то изменить? Да → conditionnel présent (si + imparfait); нет, всё в прошлом → conditionnel passé (si + plus-que-parfait)."
+- id: c12-deuxieme-forme
+  lesson: c-12-conditionnel/02-conditionnel-passe
+  q: "Что такое 2-я форма conditionnel passé? Примеры."
+  a: "Книжная форма = plus-que-parfait du subjonctif: *j'eusse aimé* = *j'aurais aimé*, *il eût fallu* = *il aurait fallu*, *il fût venu* = *il serait venu*. Только узнавать."
+- id: c12-qui-leut-cru
+  lesson: c-12-conditionnel/02-conditionnel-passe
+  q: "*Qui l'eût cru ? Il eût mieux valu se taire. On eût dit un enfant.*"
+  a: "«Кто бы мог подумать?» «Лучше было бы промолчать». «Можно было подумать, что это ребёнок»."
+- id: c12-eut-eut
+  lesson: c-12-conditionnel/02-conditionnel-passe
+  q: "*il eut fini* / *il eût fini* — разница?"
+  a: "Без циркумфлекса — passé antérieur («как только закончил»); с циркумфлексом — 2-я форма conditionnel passé / subjonctif («закончил бы»)."
+- id: c12-reel
+  lesson: c-12-conditionnel/03-correlation-si
+  q: "Реальное условие: какие времена?"
+  a: "*si* + présent → futur / présent / impératif; *si* + passé composé → présent / futur / impératif: *Si tu as fini, tu peux partir.*"
+- id: c12-meme-si
+  lesson: c-12-conditionnel/03-correlation-si
+  q: "«Даже если пойдёт дождь, мы выйдем» / «Даже если бы ты настаивал…»"
+  a: "*Même s'il **pleut**, nous sortirons. Même si tu **insistais**, je ne céderais pas.* После *même si* — те же времена, что после *si*."
+- id: c12-comme-si
+  lesson: c-12-conditionnel/03-correlation-si
+  q: "Какие времена после *comme si*?"
+  a: "Только imparfait или plus-que-parfait: *Il parle comme s'il **savait** tout. Elle me regardait comme si elle ne m'**avait** jamais **vu**.*"
+- id: c12-si-jamais
+  lesson: c-12-conditionnel/03-correlation-si
+  q: "*si jamais*, *sauf si* — значение и время."
+  a: "«если вдруг», «разве что, если только не»; времена как после условного *si*: *Si jamais tu changes d'avis…; sauf si le train a du retard*."
+- id: c12-si-interrogatif
+  lesson: c-12-conditionnel/03-correlation-si
+  q: "Когда после *si* можно futur и conditionnel?"
+  a: "Когда *si* = «ли» (косвенный вопрос): *Je ne sais pas s'il **viendra**. Elle m'a demandé si je **viendrais**.*"
+- id: c12-si-repetition
+  lesson: c-12-conditionnel/03-correlation-si
+  q: "*Si je me levais tôt, je partais courir.* Что значит *si*?"
+  a: "«Каждый раз, когда» (= *chaque fois que*): одинаковые времена в обеих частях, без conditionnel."
+- id: c12-si-opposition
+  lesson: c-12-conditionnel/03-correlation-si
+  q: "*S'il est riche, il n'est pas heureux pour autant.* Что за *si*?"
+  a: "Противительное / уступительное: «хотя он и богат, …». Indicatif в обеих частях."
+- id: c12-si-elle
+  lesson: c-12-conditionnel/03-correlation-si
+  q: "*si* + *il*, *si* + *elle*, *si* + *on* — элизия?"
+  a: "*s'il, s'ils* — обязательно; *si elle, si on* — без элизии."
+- id: c12-attenuation
+  lesson: c-12-conditionnel/04-autres-emplois
+  q: "Какие глаголы чаще всего смягчают в conditionnel?"
+  a: "*vouloir, aimer, désirer, pouvoir, devoir, falloir*: *J'aimerais…, Pourriez-vous…, Tu devrais…, Il faudrait…*"
+- id: c12-devoir-falloir
+  lesson: c-12-conditionnel/04-autres-emplois
+  q: "«Тебе следовало бы с ним поговорить» / «Следовало бы проветрить зал»."
+  a: "*Tu **devrais** lui parler* (есть адресат → devoir) / *Il **faudrait** aérer la salle* (без адресата → falloir или *on devrait*)."
+- id: c12-condition-sans-si
+  lesson: c-12-conditionnel/04-autres-emplois
+  q: "Способы выразить условие без *si*."
+  a: "*avec / sans* + сущ. (*sans ce bouchon*), *à ta place*, gérondif (*en partant plus tôt*), *sinon*, параллельные фразы (*Tu me le demanderais, je refuserais*), инверсия (*Serait-il ministre, …*)."
+- id: c12-quand-bien-meme
+  lesson: c-12-conditionnel/04-autres-emplois
+  q: "«Даже если бы он извинился, я бы не простил» с *quand bien même*."
+  a: "*Quand bien même il **s'excuserait**, je ne lui **pardonnerais** pas.* Conditionnel в обеих частях."
+- id: c12-au-cas-ou
+  lesson: c-12-conditionnel/04-autres-emplois
+  q: "«Возьми свитер на случай, если будет холодно»."
+  a: "*Prends un pull **au cas où** il **ferait** froid.* После *au cas où* — conditionnel."
+- id: c12-journalistique
+  lesson: c-12-conditionnel/04-autres-emplois
+  q: "*Selon la police, le suspect se serait enfui en Belgique.* Перевод?"
+  a: "«По данным полиции, подозреваемый сбежал (якобы сбежал) в Бельгию». Conditionnel journalistique — непроверенная информация, не «бы»."
+- id: c12-on-dirait
+  lesson: c-12-conditionnel/04-autres-emplois
+  q: "«Можно было подумать, что он увидел привидение»."
+  a: "*On aurait dit qu'il avait vu un fantôme.* Видимость — *on dirait / on aurait dit / on croirait*, не *pouvoir*."
+- id: c12-ne-saurais
+  lesson: c-12-conditionnel/04-autres-emplois
+  q: "*Je ne saurais vous dire…*, *On ne saurait trop insister…* — смысл."
+  a: "*Ne saurais* (с одним *ne*) = *ne peux pas*, soutenu: «Не могу вам сказать…», «Нельзя достаточно подчеркнуть…»."
+- id: c12-ludique-indignation
+  lesson: c-12-conditionnel/04-autres-emplois
+  q: "*On serait des pirates…* / *Moi, je mentirais ?* — какие это conditionnel?"
+  a: "Воображаемый (игра: «давай будто мы пираты») и негодующий («чтобы я да соврал?!»)."

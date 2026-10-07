@@ -1,0 +1,37 @@
+title: "Собери фразу: где прилагательное?"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Реши, где стоит прилагательное — до или после существительного."
+hints:
+  - "Цвет, форма, национальность, длинные прилагательные, причастия — после."
+  - "grand, petit, jeune, vieux, beau, joli, bon, mauvais, nouveau — перед."
+items:
+  - q: "«У неё красное платье»."
+    answers: ["Elle a une robe rouge."]
+    explain: "Цвет — после существительного: *une robe **rouge***."
+  - q: "«Они живут в большом доме»."
+    answers: ["Ils habitent dans une grande maison."]
+    explain: "*grand* — из короткого списка прилагательных, которые стоят **перед**: *une **grande** maison*."
+  - q: "«Я люблю итальянскую кухню»."
+    answers: ["J'aime la cuisine italienne."]
+    explain: "Национальность — после: *la cuisine **italienne***."
+  - q: "«Это трудное упражнение»."
+    answers: ["C'est un exercice difficile."]
+    explain: "Длинное прилагательное — после: *un exercice **difficile***."
+  - q: "«Париж — красивый город»."
+    answers: ["Paris est une belle ville."]
+    explain: "*beau* — перед существительным; *ville* — ж. р. → ***belle***: *une belle ville*."
+  - q: "«У нас круглый стол»."
+    answers: ["Nous avons une table ronde."]
+    explain: "Форма — после существительного: *une table **ronde***."
+  - q: "«Это хороший фильм»."
+    answers: ["C'est un bon film."]
+    explain: "*bon* — перед существительным: *un **bon** film*."
+  - q: "«Уставшие дети спят»."
+    answers: ["Les enfants fatigués dorment."]
+    explain: "Причастие в роли прилагательного — после: *les enfants **fatigués***."
+  - q: "«Он пишет левой рукой»."
+    answers: ["Il écrit de la main gauche."]
+    explain: "*gauche* выделяет единственный предмет → определённый артикль и место после: *la main **gauche***."
+  - q: "«У нас новые соседи»."
+    answers: ["Nous avons de nouveaux voisins."]
+    explain: "*nouveau* — перед существительным; перед прилагательным во мн. ч. *des* → **de**: *de nouveaux voisins*."

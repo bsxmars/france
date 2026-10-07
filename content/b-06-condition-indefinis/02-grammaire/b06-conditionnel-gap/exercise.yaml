@@ -1,0 +1,44 @@
+title: "Conditionnel présent или passé"
+type: gap
+intro: "Поставь глагол в conditionnel présent или passé. В скобках — функция: смягчение, гипотеза, непроверенная информация, упрёк или сожаление."
+hints:
+  - "Conditionnel présent = основа futur + -ais, -ait, -ions, -iez, -aient."
+  - "Факт в прошлом (непроверенный, упрёк, сожаление) → conditionnel passé: aurais / serais + participe passé."
+  - "devoir → devr-, pouvoir → pourr-, falloir → faudr-, vouloir → voudr-."
+items:
+  - q: "Vous ___ (pouvoir) baisser le chauffage d'un degré, s'il vous plaît ? (смягчённая просьба)"
+    answers: ["pourriez"]
+    explain: "Вежливая просьба → conditionnel présent: **pourriez**-vous / vous **pourriez**."
+  - q: "À mon avis, la ville ___ (devoir) interdire les voitures dans le centre. (совет)"
+    answers: ["devrait"]
+    explain: "Совет, рекомендация → conditionnel présent: **devrait**."
+  - q: "Une taxe sur le plastique ___ (permettre) de financer le recyclage. (гипотеза)"
+    answers: ["permettrait", "pourrait permettre"]
+    explain: "Возможное последствие без *si* → conditionnel présent: **permettrait**."
+  - q: "Selon les experts, ces insectes ___ (disparaître) d'ici trente ans. (гипотеза о будущем)"
+    answers: ["disparaîtraient", "disparaitraient", "pourraient disparaître", "pourraient disparaitre"]
+    explain: "Прогноз-гипотеза → **disparaîtraient** (по орфографии 1990 допустимо *disparaitraient*)."
+  - q: "D'après la presse, le maire ___ (signer) l'accord hier soir. (непроверенная информация)"
+    answers: ["aurait signé"]
+    explain: "Непроверенный факт в прошлом → conditionnel passé: **aurait signé**."
+  - q: "Selon les organisateurs, plus de 20 000 personnes ___ (participer) à la marche. (непроверенная информация, прошлое)"
+    answers: ["auraient participé"]
+    explain: "Данные одного источника о прошлом → **auraient participé**."
+  - q: "Le gouvernement ___ (préparer) actuellement une nouvelle loi sur l'eau. (непроверенная информация, настоящее)"
+    answers: ["préparerait"]
+    explain: "Слух о текущем событии → conditionnel présent: **préparerait**."
+  - q: "Tu ___ (devoir) éteindre la lumière en partant ! (упрёк)"
+    answers: ["aurais dû"]
+    explain: "Упрёк о прошлом → **aurais dû** + инфинитив."
+  - q: "Il ___ (falloir) protéger cette forêt il y a vingt ans. (упрёк, безличный)"
+    answers: ["aurait fallu"]
+    explain: "Безличный упрёк → ***il aurait fallu*** + инфинитив."
+  - q: "Je ___ (aimer) voir cette rivière avant la construction du barrage. (сожаление)"
+    answers: ["aurais aimé", "aurais bien aimé"]
+    explain: "Сожаление → **aurais aimé** + инфинитив без предлога."
+  - q: "Nous ___ (pouvoir) éviter cette inondation avec de meilleures digues. (сожаление)"
+    answers: ["aurions pu"]
+    explain: "Упущенная возможность → **aurions pu**."
+  - q: "Sans les bénévoles, la plage ___ (rester) couverte de déchets. (гипотеза в прошлом)"
+    answers: ["serait restée"]
+    explain: "Нереализованная гипотеза в прошлом → conditionnel passé; *rester* — с *être*, согласование с *la plage*: **serait restée**."

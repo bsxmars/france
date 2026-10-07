@@ -1,0 +1,36 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Главное — множественное число существительных. Пунктуация не важна, акценты и дефисы — важны."
+hints:
+  - "Шедевр — chef-d'œuvre, небоскрёб — gratte-ciel, отчёт — compte rendu, витраж — vitrail."
+items:
+  - q: "В этом музее много шедевров."
+    answers: ["Il y a beaucoup de chefs-d'œuvre dans ce musée.", "Dans ce musée, il y a beaucoup de chefs-d'œuvre.", "Ce musée possède beaucoup de chefs-d'œuvre.", "Ce musée a beaucoup de chefs-d'œuvre.", "Ce musée compte beaucoup de chefs-d'œuvre."]
+    explain: "***Chefs-d'œuvre***: изменяется только *chef*, дополнение *d'œuvre* остаётся в ед. ч."
+  - q: "Небоскрёбы Нью-Йорка видны издалека."
+    answers: ["Les gratte-ciel de New York sont visibles de loin.", "Les gratte-ciels de New York sont visibles de loin.", "On voit les gratte-ciel de New York de loin.", "On voit les gratte-ciels de New York de loin.", "Les gratte-ciel de New York se voient de loin.", "Les gratte-ciels de New York se voient de loin."]
+    explain: "Традиционно ***gratte-ciel*** (неизменно), по реформе 1990 — ***gratte-ciels***."
+  - q: "Витражи этой церкви были восстановлены."
+    answers: ["Les vitraux de cette église ont été restaurés.", "Les vitraux de cette église ont été rénovés.", "Les vitraux de cette église furent restaurés."]
+    explain: "*Vitrail* → ***vitraux*** (исключение на *-ail*)."
+  - q: "Мы ездили на три музыкальных фестиваля."
+    answers: ["Nous sommes allés à trois festivals de musique.", "Nous sommes allées à trois festivals de musique.", "On est allés à trois festivals de musique.", "On est allées à trois festivals de musique.", "Nous sommes allés à trois festivals musicaux.", "Nous sommes allées à trois festivals musicaux.", "On est allés à trois festivals musicaux.", "On est allées à trois festivals musicaux."]
+    explain: "***Festivals*** — исключение из *-al → -aux*; а прилагательное *musical* следует правилу: *musicaux*."
+  - q: "Директор прочитал все отчёты о собраниях."
+    answers: ["Le directeur a lu tous les comptes rendus des réunions.", "La directrice a lu tous les comptes rendus des réunions.", "Le directeur a lu tous les comptes rendus de réunions.", "La directrice a lu tous les comptes rendus de réunions."]
+    explain: "***Comptes rendus***: сущ. + причастие, оба изменяются, без дефиса."
+  - q: "Его предки жили в этой деревне."
+    answers: ["Ses aïeux vivaient dans ce village.", "Ses ancêtres vivaient dans ce village.", "Ses aïeux habitaient dans ce village.", "Ses ancêtres habitaient dans ce village.", "Ses aïeux habitaient ce village.", "Ses ancêtres habitaient ce village."]
+    explain: "Предки — ***aïeux*** (книжн.) или *ancêtres*. *Aïeuls* — дедушки и бабушки."
+  - q: "Купи мне штопоры и консервные ножи."
+    answers: ["Achète-moi des tire-bouchons et des ouvre-boîtes.", "Achète-moi des tire-bouchons et des ouvre-boites."]
+    explain: "***Tire-bouchons, ouvre-boîtes***: глагол неизменен, существительное во мн. ч. *Ouvre-boites* — написание по реформе 1990 (без circonflexe)."
+  - q: "У неё красивые голубые глаза."
+    answers: ["Elle a de beaux yeux bleus.", "Elle a des beaux yeux bleus.", "Elle a de jolis yeux bleus.", "Elle a des jolis yeux bleus."]
+    explain: "*Œil* → ***yeux***; *bleu* → *bleus* (исключение на *-eu*: + *s*). Перед прилагательным во мн. ч. в нормативной речи *de* (*de beaux yeux*), в разговорной — *des*."
+  - q: "Семья Мартен приедет на выходные."
+    answers: ["Les Martin viendront pour le week-end.", "Les Martin viennent pour le week-end.", "Les Martin vont venir pour le week-end.", "Les Martin viendront le week-end.", "Les Martin viendront pour le weekend.", "Les Martin viennent pour le weekend.", "Les Martin vont venir pour le weekend."]
+    explain: "Фамилия во мн. ч. не изменяется: ***les Martin***. *Weekend* — написание по реформе 1990."
+  - q: "Эти радуги появились после дождя."
+    answers: ["Ces arcs-en-ciel sont apparus après la pluie."]
+    explain: "***Arcs-en-ciel***: изменяется только *arc*."

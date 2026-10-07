@@ -1,0 +1,43 @@
+title: "Вынесение: поставь местоимение-повтор"
+type: gap
+intro: "Член предложения вынесен в начало или в конец. Впиши местоимение, которое его повторяет или вводит (перед гласной — с апострофом: l', m')."
+hints:
+  - "Прямое дополнение → le, la, l', les; с предлогом à (человек) → lui, leur; à + место или вещь → y; de / partitif → en."
+  - "Подлежащее-местоимение: moi, je; toi, tu; lui, il; eux, ils."
+items:
+  - q: "Ce film, je ___ ai vu trois fois."
+    answers: ["l'"]
+    explain: "Прямое дополнение мужского рода перед гласной → **l'**."
+  - q: "Les clés, tu ___ as mises où ?"
+    answers: ["les"]
+    explain: "Прямое дополнение мн. ч. → **les**; причастие *mises* согласуется с предшествующим *les*."
+  - q: "Le chocolat, j'___ mange trop."
+    answers: ["en"]
+    explain: "Partitif (*du chocolat*) повторяется через **en**."
+  - q: "Mes parents, je ___ téléphone tous les dimanches."
+    answers: ["leur"]
+    explain: "*Téléphoner **à** qn*, мн. ч. → **leur**."
+  - q: "À Venise, nous ___ sommes allés en voyage de noces."
+    answers: ["y"]
+    explain: "Место с *à* → **y**."
+  - q: "___, je ne suis pas d'accord avec toi."
+    answers: ["Moi"]
+    explain: "Вынесенное подлежащее 1-го лица — ударное **moi**, затем *je*."
+  - q: "Ta sœur, tu ___ as dit la vérité ?"
+    answers: ["lui"]
+    explain: "*Dire qch **à** qn*, ед. ч. → **lui**."
+  - q: "Je ___ connais bien, ce quartier."
+    answers: ["le"]
+    explain: "Вынесение вправо: прямое дополнение м. р. → **le**."
+  - q: "De ce projet, on ___ reparlera demain."
+    answers: ["en"]
+    explain: "*Parler **de** qch* → **en**."
+  - q: "Ses promesses, personne n'___ croit plus."
+    answers: ["y"]
+    explain: "*Croire **à** qch* (не к человеку) → **y**."
+  - q: "___, ils ont toujours raison, bien sûr !"
+    answers: ["Eux"]
+    explain: "Вынесенное подлежащее 3-го л. мн. ч. → ударное **eux** (женский — *elles*, но *ils* указывает на мужской / смешанный род)."
+  - q: "Moi, ça ___ étonnerait, qu'il accepte."
+    answers: ["m'"]
+    explain: "Вынесенное придаточное повторено через *ça*; дополнение «меня» перед гласной → **m'**: *ça m'étonnerait*."

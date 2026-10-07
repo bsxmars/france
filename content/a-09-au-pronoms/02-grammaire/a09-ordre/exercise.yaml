@@ -1,0 +1,38 @@
+title: "Собери фразу"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Следи за местом местоимения, наречия и слов автора после прямой речи."
+hints:
+  - "le, la, les — перед глаголом."
+  - "Наречие к глаголу — после глагола; к прилагательному — перед ним."
+  - "После прямой речи — dit-il, dit le professeur."
+items:
+  - q: "«Ты слишком много работаешь»."
+    answers: ["Tu travailles trop."]
+    explain: "Наречие к глаголу — **после** него: *travailles trop*."
+  - q: "«Она очень весёлая»."
+    answers: ["Elle est très gaie."]
+    explain: "*très* относится к прилагательному → **перед** ним: *très gaie*."
+  - q: "«Они встают довольно рано»."
+    answers: ["Ils se lèvent assez tôt."]
+    explain: "*tôt* — к глаголу, после него; *assez* — к наречию *tôt*, перед ним."
+  - q: "«Я её закрываю» (окно)."
+    answers: ["Je la ferme."]
+    explain: "Местоимение **la** — перед глаголом."
+  - q: "«Он его не читает» (журнал)."
+    answers: ["Il ne le lit pas."]
+    explain: "*ne* + **le** + глагол + *pas*."
+  - q: "«Надо их повторить» (слова)."
+    answers: ["Il faut les réviser."]
+    explain: "Местоимение стоит перед инфинитивом, к которому относится: *il faut **les** réviser*."
+  - q: "«Мы тоже говорим по-русски»."
+    answers: ["Nous parlons aussi russe."]
+    explain: "*aussi* относится к глаголу → после него."
+  - q: "«Я там не работаю» (на заводе)."
+    answers: ["Je n'y travaille pas."]
+    explain: "**y** «там» стоит перед глаголом, как местоимение: *ne* + **y** → *n'y* + глагол + *pas*."
+  - q: "«— Закройте окно, — говорит преподаватель»."
+    answers: ["Fermez la fenêtre, dit le professeur."]
+    explain: "После прямой речи — инверсия: **dit le professeur**."
+  - q: "«— Это хорошая мысль, — говорит она»."
+    answers: ["C'est une bonne idée, dit-elle."]
+    explain: "Подлежащее-местоимение после глагола через дефис: **dit-elle**."

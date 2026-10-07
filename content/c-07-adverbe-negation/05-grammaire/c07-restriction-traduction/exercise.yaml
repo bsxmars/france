@@ -1,0 +1,38 @@
+title: "Переведи «только»"
+type: gap
+intro: "Переведи предложение на французский, выбрав нужную ограничительную конструкцию (ne… que, il n'y a que… qui, ne faire que, ne… pas que, seul)."
+hints:
+  - "Только + подлежащее → il n'y a que… qui или seul(e)."
+  - "Только и делает, что… → ne faire que."
+  - "Не только → ne… pas que / pas seulement."
+items:
+  - q: "Я видел его только один раз."
+    answers: ["Je ne l'ai vu qu'une fois.", "Je l'ai vu seulement une fois.", "Je ne l'ai vu qu'une seule fois."]
+    explain: "*Ne… que* + обстоятельство: *je ne l'ai vu **qu'**une fois*; нейтрально — *seulement*."
+  - q: "Только ты можешь ответить на этот вопрос."
+    answers: ["Il n'y a que toi qui puisses répondre à cette question.", "Il n'y a que toi qui peux répondre à cette question.", "Toi seul peux répondre à cette question.", "Toi seule peux répondre à cette question.", "Seul toi peux répondre à cette question."]
+    explain: "Ограничение подлежащего: *il n'y a que toi qui puisses / peux* или *toi seul(e)*."
+  - q: "Она только и делает, что смотрит сериалы."
+    answers: ["Elle ne fait que regarder des séries.", "Elle ne fait que regarder les séries."]
+    explain: "«Только и делает, что…» — *ne faire que* + инфинитив."
+  - q: "Он ест не только мясо."
+    answers: ["Il ne mange pas que de la viande.", "Il ne mange pas seulement de la viande."]
+    explain: "«Не только» — *ne… pas que* или *pas seulement*; частичный артикль *de la* сохраняется."
+  - q: "Музей открыт только по воскресеньям."
+    answers: ["Le musée n'est ouvert que le dimanche.", "Le musée n'ouvre que le dimanche.", "Le musée est ouvert seulement le dimanche."]
+    explain: "*Que* перед ограничиваемым обстоятельством: *n'est ouvert **que** le dimanche*."
+  - q: "Осталось только два билета."
+    answers: ["Il ne reste plus que deux billets.", "Il ne reste que deux billets."]
+    explain: "«Осталось только» — *il ne reste (plus) que*."
+  - q: "Только дети смеялись."
+    answers: ["Il n'y a que les enfants qui riaient.", "Il n'y avait que les enfants qui riaient.", "Seuls les enfants riaient.", "Il n'y a que les enfants qui ont ri.", "Seuls les enfants ont ri."]
+    explain: "Подлежащее: *seuls les enfants riaient* или *il n'y avait que les enfants qui riaient*."
+  - q: "Я лишь выполняю свою работу."
+    answers: ["Je ne fais que mon travail.", "Je ne fais que faire mon travail.", "Je fais seulement mon travail."]
+    explain: "*Je ne fais que mon travail* (ограничение дополнения при *faire*) или *ne faire que* + инфинитив."
+  - q: "У меня только вопросы, никаких ответов."
+    answers: ["Je n'ai que des questions, aucune réponse.", "Je n'ai que des questions, pas de réponses.", "Je n'ai que des questions et aucune réponse."]
+    explain: "После *ne… que* артикль *des* сохраняется: *je n'ai **que des** questions*."
+  - q: "Это всего лишь вопрос времени."
+    answers: ["Ce n'est qu'une question de temps.", "Ce n'est jamais qu'une question de temps.", "C'est seulement une question de temps."]
+    explain: "*Ce n'est qu'une question de temps* — «всего лишь вопрос времени»."

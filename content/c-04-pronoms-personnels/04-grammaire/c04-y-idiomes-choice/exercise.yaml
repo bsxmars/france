@@ -1,0 +1,56 @@
+title: "Идиомы с y"
+type: choice
+intro: "Выбери выражение, подходящее по смыслу. Все варианты грамматичны."
+hints:
+  - "y être — понять / быть готовым; n'y être pour rien — быть ни при чём; y être pour beaucoup — сыграть большую роль."
+  - "s'y prendre — взяться за дело; s'y connaître en — разбираться; s'y retrouver — разобраться."
+  - "il y va de — на кону; ça y est — готово, ну вот."
+items:
+  - q: "Le gâteau est raté ? Montre-moi comment tu ___ , on va trouver l'erreur."
+    options: ["t'y prends", "t'y connais", "y es", "t'y retrouves"]
+    answer: 0
+    explain: "***S'y prendre*** — «действовать, браться за дело»: «покажи, как ты это делаешь»."
+  - q: "Pour choisir un ordinateur, demande à Hugo : il ___ en informatique."
+    options: ["s'y prend", "s'y connaît", "y est pour beaucoup", "n'y est pour rien"]
+    answer: 1
+    explain: "***S'y connaître en qch*** — «разбираться в чём-то»."
+  - q: "La panne de courant ? Je vous assure que je ___ !"
+    options: ["n'y suis pour rien", "m'y connais", "y suis", "m'y retrouve"]
+    answer: 0
+    explain: "***N'y être pour rien*** — «быть ни при чём»."
+  - q: "Si l'équipe a gagné, son entraîneur ___ ."
+    options: ["s'y prend bien", "y est pour beaucoup", "n'y est pour rien", "y regarde à deux fois"]
+    answer: 1
+    explain: "***Y être pour beaucoup*** — «сыграть большую роль, быть во многом причиной»."
+  - q: "___ ! J'ai enfin reçu mon titre de séjour."
+    options: ["Ça y est", "Je n'y suis pour rien", "Il y va", "Vas-y"]
+    answer: 0
+    explain: "***Ça y est !*** — «Ну вот! Наконец-то! Готово!»"
+  - q: "Ne prenez pas ce traitement à la légère : il ___ votre santé."
+    options: ["y est pour", "y va de", "s'y prend de", "s'y connaît en"]
+    answer: 1
+    explain: "***Il y va de qch*** (soutenu) — «речь идёт о, на кону»."
+  - q: "— Tu comprends ce que je veux dire ? — Attends… Ah, ___ : tu parles de l'ancien directeur !"
+    options: ["j'y vais", "j'y suis", "je m'y prends", "je m'y connais"]
+    answer: 1
+    explain: "***J'y suis*** — «понял, догадался»."
+  - q: "Avec toutes ces réformes fiscales, plus personne ___ ."
+    options: ["ne s'y retrouve", "n'y est", "ne s'y prend", "n'y va"]
+    answer: 0
+    explain: "***S'y retrouver*** — «разобраться, сориентироваться»: «уже никто не может разобраться»."
+  - q: "C'est une décision importante : moi, j'___ avant de signer."
+    options: ["y regarderais à deux fois", "y serais pour rien", "y irais", "y connaîtrais"]
+    answer: 0
+    explain: "***Y regarder à deux fois*** — «хорошенько подумать, прежде чем…»."
+  - q: "Le critique ___ de main morte : il a qualifié le film de « désastre »."
+    options: ["n'y est pas allé", "ne s'y est pas pris", "n'y a pas regardé", "n'y était pour rien"]
+    answer: 0
+    explain: "***Ne pas y aller de main morte*** — «не церемониться, рубить сплеча»."
+  - q: "Vous ___ ? Le taxi attend en bas."
+    options: ["y êtes", "vous y connaissez", "y allez de", "vous y retrouvez"]
+    answer: 0
+    explain: "***Vous y êtes ?*** — «Вы готовы?»"
+  - q: "Il a voulu réparer la fuite lui-même, mais il ___ si mal qu'il a inondé la cuisine."
+    options: ["s'y est pris", "s'y est connu", "y a été pour rien", "s'y est retrouvé"]
+    answer: 0
+    explain: "***S'y prendre mal*** — «неумело взяться»; *pris* согласуется с подлежащим, но *il* — м. р., так что *pris*."

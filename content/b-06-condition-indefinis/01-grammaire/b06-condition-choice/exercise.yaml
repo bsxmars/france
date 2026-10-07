@@ -1,0 +1,56 @@
+title: "Какой союз — какое наклонение"
+type: choice
+intro: "Выбери вариант, верный и по смыслу, и по форме глагола."
+hints:
+  - "si, même si, sauf si → indicatif; никогда не futur и не conditionnel после условного si."
+  - "à condition que, pourvu que, à moins que → subjonctif; au cas où → conditionnel."
+  - "en cas de + существительное без артикля; одно подлежащее → à condition de / à moins de + infinitif."
+items:
+  - q: "Si la mairie nous ___ ce terrain, nous y construirons un jardin partagé."
+    options: ["vend", "vendra", "vendrait"]
+    answer: 0
+    explain: "Реальное условие → *si* + présent: **vend**; futur после условного *si* невозможен."
+  - q: "Si nous ___ plus de bénévoles, nous ouvririons aussi le dimanche."
+    options: ["aurions", "avions", "ayons"]
+    answer: 1
+    explain: "Главное в conditionnel présent → *si* + imparfait: **avions**."
+  - q: "Je veux bien participer, à condition qu'on me ___ à l'avance."
+    options: ["prévient", "prévienne", "préviendrait"]
+    answer: 1
+    explain: "*À condition que* → subjonctif: *qu'on me **prévienne***."
+  - q: "Vous pourrez emprunter les outils à condition de les ___ propres."
+    options: ["rendre", "rendiez", "rendez"]
+    answer: 0
+    explain: "Подлежащее одно (*vous*) → ***à condition de** + infinitif*: **rendre**."
+  - q: "La réunion aura lieu jeudi, à moins que la salle ne ___ déjà réservée."
+    options: ["soit", "est", "serait"]
+    answer: 0
+    explain: "*À moins que* → subjonctif: *ne **soit** déjà réservée*; *ne* здесь «пустое», не отрицание: «если только зал не окажется уже занят»."
+  - q: "___ panne d'ascenseur, appelez le gardien."
+    options: ["En cas de", "En cas d'une", "Au cas où"]
+    answer: 0
+    explain: "***En cas de** + существительное без артикля*: *en cas de panne*. *Au cas où* требует придаточного с глаголом."
+  - q: "Garde de l'argent liquide au cas où la carte ne ___ pas."
+    options: ["marche", "marcherait", "marcherai"]
+    answer: 1
+    explain: "*Au cas où* → conditionnel: **marcherait**."
+  - q: "Ce projet peut réussir, ___ chacun y mette un peu du sien."
+    options: ["pourvu que", "si", "au cas où"]
+    answer: 0
+    explain: "Глагол *mette* — subjonctif → нужен союз с subjonctif: **pourvu que** («лишь бы каждый внёс свою лепту»)."
+  - q: "___ votre aide, nous n'aurions jamais terminé à temps."
+    options: ["Sans", "Sinon", "À moins de"]
+    answer: 0
+    explain: "Условие через существительное: ***Sans** votre aide…* = «если бы не ваша помощь»."
+  - q: "Je viendrai à la fête, ___ j'aie un empêchement de dernière minute."
+    options: ["sauf si", "à moins que", "même si"]
+    answer: 1
+    explain: "*J'aie* — subjonctif → **à moins que** (j'aie). С *sauf si* был бы indicatif: *sauf si j'ai…*"
+  - q: "Nous devons trouver un local avant mars, ___ l'association devra fermer."
+    options: ["sinon", "sans", "pourvu que"]
+    answer: 0
+    explain: "«Иначе» → **sinon** + независимое предложение."
+  - q: "Même si le loyer ___, nous resterons dans ce quartier."
+    options: ["augmente", "augmentera", "augmenterait"]
+    answer: 0
+    explain: "*Même si* — как *si*: реальное условие → présent **augmente**."

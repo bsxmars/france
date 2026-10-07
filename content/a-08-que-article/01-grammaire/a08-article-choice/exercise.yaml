@@ -1,0 +1,55 @@
+title: "Артикль: сказуемое и слитные формы"
+type: choice
+intro: "Выбери нужную форму. Прочерк «—» значит, что артикль не нужен."
+hints:
+  - "Профессия без прилагательного — без артикля; с прилагательным — un / une."
+  - "de + le = du, de + les = des; de la, de l' не меняются."
+items:
+  - q: "Ma sœur est ___ secrétaire. — Моя сестра секретарь."
+    options: ["une", "la", "—"]
+    answer: 2
+    explain: "Профессия после *être* без определения → **без артикля**."
+  - q: "Ma sœur est ___ bonne secrétaire. — Моя сестра хороший секретарь."
+    options: ["une", "la", "—"]
+    answer: 0
+    explain: "Есть прилагательное *bonne* → нужен неопределённый артикль **une**."
+  - q: "Paul est ___ professeur sérieux."
+    options: ["un", "le", "—"]
+    answer: 0
+    explain: "Определение *sérieux* → **un** professeur sérieux."
+  - q: "Son père est ___ médecin."
+    options: ["un", "le", "—"]
+    answer: 2
+    explain: "Просто профессия, без прилагательного → **без артикля**."
+  - q: "C'est le livre ___ professeur."
+    options: ["de le", "du", "des"]
+    answer: 1
+    explain: "*de* + *le* сливаются в **du**."
+  - q: "Je lis les cahiers ___ élèves."
+    options: ["de les", "du", "des"]
+    answer: 2
+    explain: "*de* + *les* сливаются в **des**."
+  - q: "C'est la porte ___ classe."
+    options: ["du", "de la", "des"]
+    answer: 1
+    explain: "*la* с *de* **не сливается**: **de la** classe."
+  - q: "C'est l'adresse ___ école."
+    options: ["du", "de l'", "de le"]
+    answer: 1
+    explain: "Перед гласной артикль *l'* — с *de* не сливается: **de l'école**."
+  - q: "Ils parlent ___ film. — Они говорят о фильме."
+    options: ["du", "de le", "de la"]
+    answer: 0
+    explain: "*parler de* + *le film* → **du** film."
+  - q: "Elle habite près ___ parc."
+    options: ["de le", "du", "de"]
+    answer: 1
+    explain: "*près de* + *le parc* → près **du** parc."
+  - q: "C'est la voiture ___ Marc."
+    options: ["de", "du", "de le"]
+    answer: 0
+    explain: "Перед именем артикля нет — сливать нечего: **de** Marc."
+  - q: "Les élèves parlent ___ images. — Ученики говорят о картинках."
+    options: ["des", "de les", "du"]
+    answer: 0
+    explain: "*de* + *les images* → **des** images."

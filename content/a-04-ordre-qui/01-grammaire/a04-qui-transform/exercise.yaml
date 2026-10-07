@@ -1,0 +1,57 @@
+title: "Вопрос к подлежащему"
+type: transform
+intro: "Задай вопрос к подлежащему-человеку с помощью **qui**. Впиши *qui* и глагол в нужной форме."
+hints:
+  - "Qui ставим на место подлежащего, остальное не меняется."
+  - "Глагол после qui — всегда в 3-м лице единственного числа."
+items:
+  - q: "Anna écrit la dictée."
+    key: "QUI"
+    stem: "___ la dictée ?"
+    answers: ["Qui écrit"]
+    explain: "Подлежащее *Anna* → **qui**, глагол без изменений: *Qui écrit la dictée ?*"
+  - q: "Les élèves lisent le texte."
+    key: "QUI"
+    stem: "___ le texte ?"
+    answers: ["Qui lit"]
+    explain: "После *qui* глагол в 3-м лице **ед. ч.**: *lisent* → **lit**."
+  - q: "Paul et Hugo habitent Marseille."
+    key: "QUI"
+    stem: "___ Marseille ?"
+    answers: ["Qui habite"]
+    explain: "*habitent* → **habite**: «Кто живёт в Марселе?»"
+  - q: "Ma fille travaille à la mairie."
+    key: "QUI"
+    stem: "___ à la mairie ?"
+    answers: ["Qui travaille"]
+    explain: "**Qui travaille** à la mairie ? — глагол уже в 3-м лице ед. ч."
+  - q: "Les filles partent avec Léa."
+    key: "QUI"
+    stem: "___ avec Léa ?"
+    answers: ["Qui part"]
+    explain: "*partent* → **part**: после *qui* — ед. ч."
+  - q: "Léa est malade."
+    key: "QUI"
+    stem: "___ malade ?"
+    answers: ["Qui est"]
+    explain: "С глаголом *être*: **Qui est** malade ?"
+  - q: "Les amis d'Anna font les exercices."
+    key: "QUI"
+    stem: "___ les exercices ?"
+    answers: ["Qui fait"]
+    explain: "*font* (мн. ч. от *faire*) → **fait**."
+  - q: "Hugo et sa mère quittent Paris."
+    key: "QUI"
+    stem: "___ Paris ?"
+    answers: ["Qui quitte"]
+    explain: "*quittent* → **quitte**; *Paris* — без артикля."
+  - q: "Les élèves prennent les cahiers."
+    key: "QUI"
+    stem: "___ les cahiers ?"
+    answers: ["Qui prend"]
+    explain: "*prennent* → **prend** (ед. ч. на немое *-d*)."
+  - q: "Anna et Léa disent merci."
+    key: "QUI"
+    stem: "___ merci ?"
+    answers: ["Qui dit"]
+    explain: "*disent* → **dit**: «Кто говорит спасибо?»"

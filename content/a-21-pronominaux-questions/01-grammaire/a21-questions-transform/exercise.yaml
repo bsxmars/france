@@ -1,0 +1,59 @@
+title: "Задай вопрос к выделенному слову"
+type: transform
+intro: |
+  Задай вопрос к выделенной части предложения. Начни вопрос с **ключевого слова** и закончи его на месте пропуска. Вопросительный знак ставить не обязательно.
+hints:
+  - "Предмет: que + инверсия или qu'est-ce que + прямой порядок."
+  - "Человек: qui + инверсия или qui est-ce que + прямой порядок."
+  - "Косвенное дополнение: предлог + qui (люди) / quoi (предметы)."
+items:
+  - q: "Elle lit **un roman**."
+    key: "QUE"
+    stem: "Que ___ ?"
+    answers: ["lit-elle"]
+    explain: "Предмет, прямое дополнение → **que** + инверсия: *Que **lit-elle** ?*"
+  - q: "Tu prépares **le dîner**."
+    key: "QU'EST-CE QUE"
+    stem: "Qu'est-ce que ___ ?"
+    answers: ["tu prépares"]
+    explain: "После *qu'est-ce que* — прямой порядок слов: *Qu'est-ce que **tu prépares** ?*"
+  - q: "Ils attendent **leur professeur**."
+    key: "QUI"
+    stem: "Qui ___ ?"
+    answers: ["attendent-ils"]
+    explain: "Человек, прямое дополнение → **qui** + инверсия: *Qui **attendent-ils** ?*"
+  - q: "Sophie invite **ses voisins**."
+    key: "QUI EST-CE QUE"
+    stem: "Qui est-ce que ___ ?"
+    answers: ["Sophie invite"]
+    explain: "После *qui est-ce que* — прямой порядок: *Qui est-ce que **Sophie invite** ?*"
+  - q: "Sophie invite **ses voisins**."
+    key: "QUI"
+    stem: "Qui ___ ?"
+    answers: ["Sophie invite-t-elle"]
+    explain: "После *qui* с подлежащим-существительным — **сложная инверсия**: *Qui **Sophie invite-t-elle** ?* (*Qui invite Sophie ?* значило бы «кто приглашает Софи?»)."
+  - q: "Nous parlons **à la directrice**."
+    key: "À QUI"
+    stem: "À qui ___ ?"
+    answers: ["parlez-vous", "parlons-nous", "est-ce que vous parlez", "est-ce que nous parlons"]
+    explain: "*parler **à*** + человек → ***à qui***: *À qui **parlez-vous** ?*"
+  - q: "Il parle **de son travail**."
+    key: "DE QUOI"
+    stem: "De quoi ___ ?"
+    answers: ["parle-t-il", "est-ce qu'il parle"]
+    explain: "*parler **de*** + предмет → ***de quoi***: *De quoi **parle-t-il** ?* (*-t-* между гласными)."
+  - q: "Marc voyage **avec ses cousins**."
+    key: "AVEC QUI"
+    stem: "Avec qui ___ ?"
+    answers: ["voyage Marc", "Marc voyage-t-il", "est-ce que Marc voyage"]
+    explain: "Предложение короткое → можно простую инверсию: *Avec qui **voyage Marc** ?* Сложная (*Marc voyage-t-il*) тоже верна."
+  - q: "Les étudiants s'intéressent **au cinéma**."
+    key: "À QUOI"
+    stem: "À quoi ___ ?"
+    answers: ["s'intéressent les étudiants", "les étudiants s'intéressent-ils", "est-ce que les étudiants s'intéressent"]
+    explain: "*s'intéresser **à*** + предмет → ***à quoi***: *À quoi **s'intéressent les étudiants** ?*"
+  - q: "Julie montre ses photos **à sa grand-mère**."
+    key: "À QUI"
+    stem: "À qui ___ ?"
+    answers: ["Julie montre-t-elle ses photos", "est-ce que Julie montre ses photos"]
+    explain: "В предложении есть ещё дополнение (*ses photos*) → **сложная инверсия**: *À qui **Julie montre-t-elle** ses photos ?*"

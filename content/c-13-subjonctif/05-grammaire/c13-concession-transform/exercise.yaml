@@ -1,0 +1,58 @@
+title: "Перефразируй уступку"
+type: transform
+intro: "Перепиши фразу, используя ключевое слово. Сохрани смысл. Впиши недостающую часть целиком."
+hints:
+  - "mais / pourtant / même si → bien que / quoique + subjonctif."
+  - "Il est très X, mais… → si / aussi X qu'il soit, …"
+  - "Tout ce que tu fais… n'importe quoi → quoi que + subjonctif."
+items:
+  - q: "Il est riche, mais il n'est pas heureux."
+    key: "bien que"
+    stem: "___, il n'est pas heureux."
+    answers: ["Bien qu'il soit riche", "Bien que riche"]
+    explain: "*Bien que* + subjonctif ***soit***; при совпадении подлежащих возможен эллипсис *Bien que riche*."
+  - q: "La tâche est très difficile, mais nous la terminerons."
+    key: "si"
+    stem: "___, nous la terminerons."
+    answers: ["Si difficile que soit la tâche", "Si difficile que la tâche soit", "Si difficile qu'elle soit"]
+    explain: "*Si + прилагательное + que* + subjonctif: ***Si difficile que soit la tâche*** (существительное обычно после глагола)."
+  - q: "Tu peux dire n'importe quoi, je ne te croirai pas."
+    key: "quoi que"
+    stem: "___, je ne te croirai pas."
+    answers: ["Quoi que tu dises"]
+    explain: "«Что бы ты ни сказал» → ***Quoi que tu dises***."
+  - q: "Le prix n'a pas d'importance : j'achèterai ce tableau."
+    key: "quel que"
+    stem: "___, j'achèterai ce tableau."
+    answers: ["Quel que soit le prix", "Quel qu'en soit le prix"]
+    explain: "«Какова бы ни была цена» → ***Quel que soit le prix*** (*le prix* — м. р. ед. ч.)."
+  - q: "Il a beaucoup voyagé ; pourtant il ne parle aucune langue étrangère."
+    key: "quoique"
+    stem: "___, il ne parle aucune langue étrangère."
+    answers: ["Quoiqu'il ait beaucoup voyagé"]
+    explain: "*Quoique* + passé du subjonctif (поездки — раньше): ***Quoiqu'il ait beaucoup voyagé***."
+  - q: "Les conditions sont peut-être mauvaises ; l'expédition partira de toute façon."
+    key: "quelles que"
+    stem: "___, l'expédition partira."
+    answers: ["Quelles que soient les conditions"]
+    explain: "*Les conditions* — ж. р. мн. ч. → ***Quelles que soient les conditions***."
+  - q: "Tu iras n'importe où : je t'écrirai."
+    key: "où que"
+    stem: "___, je t'écrirai."
+    answers: ["Où que tu ailles"]
+    explain: "«Куда бы ты ни поехал» → ***Où que tu ailles***."
+  - q: "Cette théorie est séduisante, mais elle n'a jamais été vérifiée."
+    key: "aussi"
+    stem: "___, cette théorie n'a jamais été vérifiée."
+    answers: ["Aussi séduisante qu'elle soit", "Aussi séduisante soit-elle"]
+    explain: "*Aussi + прилагательное + que* + subjonctif: ***Aussi séduisante qu'elle soit***. Книжный вариант без *que* с инверсией: *Aussi séduisante soit-elle*."
+  - q: "Même si elle est malade, elle viendra à la réunion."
+    key: "bien que"
+    stem: "___, elle viendra à la réunion."
+    answers: ["Bien qu'elle soit malade", "Bien que malade"]
+    explain: "*Même si* + indicatif → *bien que* + subjonctif: ***Bien qu'elle soit malade*** (или эллипсис *Bien que malade*)."
+  - q: "N'importe qui peut appeler : dites que je suis absent."
+    key: "qui que"
+    stem: "___, dites que je suis absent."
+    answers: ["Qui que ce soit qui appelle", "Qui que ce soit"]
+    explain: "«Кто бы ни позвонил» → ***Qui que ce soit qui appelle*** (или кратко *Qui que ce soit*)."

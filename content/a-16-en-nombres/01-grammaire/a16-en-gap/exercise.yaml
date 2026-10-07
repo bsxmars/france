@@ -1,0 +1,38 @@
+title: "Ответь с местоимением en"
+type: gap
+intro: "Допиши ответ, заменив существительное местоимением **en**. Ответ — как в подсказке в скобках (да / нет / число / количество). Впиши всё, что стоит на месте пропуска."
+hints:
+  - "un / une в утвердительном ответе повторяются: j'en ai un."
+  - "Слово количества остаётся в конце: j'en ai beaucoup, il y en a trois."
+  - "Отрицание: je n'en ai pas."
+items:
+  - q: "— Tu as un vélo ? — Oui, ___. (да)"
+    answers: ["j'en ai un"]
+    explain: "*En* заменяет *vélo*, *un* повторяется в конце: **j'en ai un**."
+  - q: "— Ta sœur a une voiture ? — Non, ___. (нет)"
+    answers: ["elle n'en a pas"]
+    explain: "Отрицание: *en* между *ne* и глаголом, *un / une* не повторяется: **elle n'en a pas**."
+  - q: "— Vous avez des enfants ? — Oui, nous ___ deux. (два)"
+    answers: ["en avons"]
+    explain: "*En* перед глаголом, число в конце: *nous **en avons** deux*."
+  - q: "— Il y a des fautes dans ma dictée ? — Oui, il ___ trois. (три)"
+    answers: ["y en a"]
+    explain: "С *il y a*: **il y en a** + число. *En* стоит после *y*."
+  - q: "— Tu manges beaucoup de fruits ? — Oui, ___. (много)"
+    answers: ["j'en mange beaucoup"]
+    explain: "*En* заменяет *de fruits*, *beaucoup* остаётся в конце: **j'en mange beaucoup**."
+  - q: "— Vous avez assez de pain ? — Non, nous ___ pas assez. (недостаточно)"
+    answers: ["n'en avons"]
+    explain: "Отрицание: *nous **n'en avons** pas assez* — *en* между *ne* и глаголом."
+  - q: "— Combien de cours avez-vous lundi ? — ___ cinq. (пять)"
+    answers: ["Nous en avons", "J'en ai", "On en a"]
+    explain: "*En* заменяет *de cours*, число остаётся: **nous en avons** cinq (или *j'en ai* cinq)."
+  - q: "Il n'y a plus de pain. ___ ! (купи — на «ты»)"
+    answers: ["Achètes-en"]
+    explain: "Утвердительное повелительное: *en* после глагола через дефис, у глагола I группы перед *en* возвращается *-s*: **achètes-en**."
+  - q: "Ces gâteaux sont pour demain, n'___ pas ! (ешьте — на «вы»)"
+    answers: ["en mangez"]
+    explain: "Отрицательное повелительное: *en* перед глаголом: *n'**en mangez** pas*."
+  - q: "— Tu veux des pommes ? — Oui, je veux ___ deux. (взять)"
+    answers: ["en prendre"]
+    explain: "*En* относится к инфинитиву и стоит перед ним: *je veux **en prendre** deux*."

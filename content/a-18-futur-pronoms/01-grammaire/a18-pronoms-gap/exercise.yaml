@@ -1,0 +1,44 @@
+title: "Le, la, les или lui, leur?"
+type: gap
+intro: "Замени выделенное по смыслу дополнение местоимением: **me, te, le, la, l', les, lui, nous, vous, leur** (или *moi, toi* в повелительном). Решает французский глагол: с *à* — косвенное дополнение."
+hints:
+  - "С à: téléphoner, parler, répondre, écrire, dire, donner, demander, montrer → lui, leur."
+  - "Без предлога: voir, regarder, écouter, attendre, aider, inviter, chercher → le, la, les."
+  - "Утвердительное повелительное: местоимение после глагола, me → moi."
+items:
+  - q: "Tu vois Julie ce soir ? — Oui, je ___ vois à huit heures."
+    answers: ["la"]
+    explain: "*Voir* qn — прямое дополнение, ж. р. → **la**."
+  - q: "Tu parles souvent à ta grand-mère ? — Oui, je ___ parle chaque dimanche."
+    answers: ["lui"]
+    explain: "*Parler **à*** qn — косвенное дополнение → **lui** (и для мужчины, и для женщины)."
+  - q: "Les enfants attendent le bus ? — Oui, ils ___ attendent devant l'école."
+    answers: ["l'"]
+    explain: "*Attendre* — без предлога → *le*; перед гласной — **l'**."
+  - q: "Tes amis t'écrivent ? — Non, ils ne ___ écrivent pas."
+    answers: ["m'"]
+    explain: "«Мне» — *me*, перед гласной **m'**, между *ne* и глаголом."
+  - q: "Vous répondez à vos clients ? — Oui, nous ___ répondons tout de suite."
+    answers: ["leur"]
+    explain: "*Répondre **à*** + мн. ч. → **leur**."
+  - q: "Tu aides tes parents ? — Oui, je ___ aide beaucoup."
+    answers: ["les"]
+    explain: "*Aider* qn — **без** предлога, хотя по-русски «помогать **им**»: → **les**."
+  - q: "Tu demandes l'adresse à Pierre ? — Oui, je ___ demande son adresse."
+    answers: ["lui"]
+    explain: "*Demander qch **à** qn* — человек здесь косвенное дополнение → **lui**, хотя по-русски «спрашиваю **его**»."
+  - q: "Écoutez-___, s'il vous plaît ! (меня)"
+    answers: ["moi"]
+    explain: "Утвердительное повелительное: местоимение после глагола через дефис, *me* → **moi**: *écoutez-moi*."
+  - q: "Ne ___ regarde pas comme ça ! (меня)"
+    answers: ["me"]
+    explain: "В отрицательном повелительном местоимение стоит **перед** глаголом в обычной форме: *ne **me** regarde pas*."
+  - q: "Montre-___ tes photos ! (нам)"
+    answers: ["nous"]
+    explain: "*Montrer qch **à** qn*; утвердительное повелительное → после глагола: *montre-**nous***."
+  - q: "Je vous invite à dîner, et je ___ attends à sept heures. (вас)"
+    answers: ["vous"]
+    explain: "*Attendre* qn → прямое дополнение **vous**, перед глаголом."
+  - q: "Où sont mes clés ? Je ___ cherche partout !"
+    answers: ["les"]
+    explain: "*Chercher* qch — без предлога (как и «искать их»): прямое дополнение, мн. ч. → **les**."

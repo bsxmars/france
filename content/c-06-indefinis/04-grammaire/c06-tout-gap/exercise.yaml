@@ -1,0 +1,43 @@
+title: "Tout, toute, tous, toutes"
+type: gap
+intro: "Вставь **tout** в нужной форме. Определи роль: местоимение, прилагательное или наречие. Подсказка в скобках — смысл."
+hints:
+  - "Наречие (совсем) неизменяемо, но toute / toutes перед прилагательным ж. р. на согласную или h придыхательное."
+  - "tout le = весь; tout un = целый; tout без артикля = всякий, любой."
+items:
+  - q: "Les deux sœurs sont rentrées ___ trempées par l'orage. (совсем)"
+    answers: ["toutes"]
+    explain: "Наречие перед прилагательным ж. р. на согласную (*trempées*) согласуется: **toutes** trempées."
+  - q: "Ma grand-mère était ___ émue en revoyant sa maison natale. (совсем)"
+    answers: ["tout"]
+    explain: "Перед прилагательным на гласную наречие неизменяемо: **tout** émue."
+  - q: "Ses filles sont ___ honteuses de leur conduite. (совсем)"
+    answers: ["toutes"]
+    explain: "*Honteuses* — h придыхательное, считается согласной → **toutes** honteuses."
+  - q: "Les invités sont ___ heureux de vous revoir. (совсем)"
+    answers: ["tout", "tous"]
+    explain: "Мужской род: наречие — **tout** heureux («совсем счастливы»); *tous* [tus] heureux тоже верно, но значит «все счастливы» (местоимение)."
+  - q: "Il a passé ___ une semaine à chercher ses clés. (целую)"
+    answers: ["toute"]
+    explain: "*Tout un / toute une* = «целый»; *semaine* — ж. р. → **toute** une semaine."
+  - q: "___ personne présente dans la salle doit signer le registre. (всякий, любой)"
+    answers: ["Toute"]
+    explain: "*Tout* без артикля = «всякий»; *personne* — ж. р. → **Toute** personne."
+  - q: "Ce bus passe ___ les vingt minutes. (каждые)"
+    answers: ["toutes"]
+    explain: "Периодичность: *tous les / toutes les* + число; *minutes* — ж. р. → **toutes** les vingt minutes."
+  - q: "Mes valises ? Je les ai ___ défaites hier soir. (все)"
+    answers: ["toutes"]
+    explain: "Местоимение «все» относится к *valises* (ж. р. мн. ч.) → **toutes**."
+  - q: "Ne t'inquiète pas, je vais ___ t'expliquer. (всё)"
+    answers: ["tout"]
+    explain: "*Tout*-дополнение при инфинитиве ставится перед местоимениями и инфинитивом: *je vais **tout** t'expliquer*."
+  - q: "La ville ___ entière a fêté la victoire. (вся целиком)"
+    answers: ["tout"]
+    explain: "Перед *entière* (гласная) наречие неизменяемо: *la ville **tout** entière*."
+  - q: "C'était une veste ___ neuve, je l'avais achetée la veille. (совсем)"
+    answers: ["toute"]
+    explain: "*Neuve* — ж. р. на согласную → **toute** neuve."
+  - q: "___ fatiguée qu'elle était, elle a terminé le marathon. (как бы ни была)"
+    answers: ["Toute"]
+    explain: "*Tout … que* + indicatif — уступка; перед *fatiguée* (ж. р., согласная) → **Toute** fatiguée qu'elle était."

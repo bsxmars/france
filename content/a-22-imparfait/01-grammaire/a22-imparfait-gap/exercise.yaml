@@ -1,0 +1,44 @@
+title: "Формы imparfait"
+type: gap
+intro: "Поставь глагол в скобках в imparfait."
+hints:
+  - "Основа — форма nous настоящего времени без -ons: nous prenons → je prenais."
+  - "Окончания: -ais, -ais, -ait, -ions, -iez, -aient. Être: j'étais."
+  - "-cer → ç перед a, -ger → ge перед a, -ier → nous étudiions."
+items:
+  - q: "Quand j'étais petit, nous ___ (habiter) à la campagne."
+    answers: ["habitions"]
+    explain: "*nous habitons* → основа *habit-* + **-ions**: *habitions*."
+  - q: "Tous les matins, mon père ___ (prendre) le bus de sept heures."
+    answers: ["prenait"]
+    explain: "*nous prenons* → *pren-* + **-ait**: *prenait*. Привычка (*tous les matins*) → imparfait."
+  - q: "Les enfants ___ (jouer) dans la cour quand l'orage a commencé."
+    answers: ["jouaient"]
+    explain: "*ils* → **-aient**: *jouaient*. Процесс-фон, на котором произошло событие."
+  - q: "Ce jour-là, il ___ (pleuvoir) depuis le matin."
+    answers: ["pleuvait"]
+    explain: "Безличный *pleuvoir* в imparfait — **il pleuvait**. Описание погоды — imparfait."
+  - q: "Avant, tu ___ (manger) toujours à la cantine ?"
+    answers: ["mangeais"]
+    explain: "Глагол на *-ger*: перед *a* сохраняем *e*, чтобы *g* звучало [ʒ]: **mangeais**."
+  - q: "Le concert ___ (commencer) toujours à huit heures."
+    answers: ["commençait"]
+    explain: "Глагол на *-cer*: перед *a* пишем *ç*: **commençait**."
+  - q: "Vous ___ (étudier) déjà le français à l'école ?"
+    answers: ["étudiiez"]
+    explain: "Основа *étudi-* + окончание *-iez* → два *i*: **étudiiez**."
+  - q: "Elle ___ (être) fatiguée et elle marchait lentement."
+    answers: ["était"]
+    explain: "*Être* — единственный глагол с особой основой: *ét-* → **était**."
+  - q: "Au lycée, nous ___ (finir) nos cours à cinq heures."
+    answers: ["finissions"]
+    explain: "*nous finissons* → *finiss-* + **-ions**: *finissions*."
+  - q: "À cette époque, ils ___ (voir) leurs grands-parents chaque dimanche."
+    answers: ["voyaient"]
+    explain: "*nous voyons* → *voy-* + **-aient**: *voyaient*. Повторение (*chaque dimanche*)."
+  - q: "Il est tard. Si on ___ (rentrer) ?"
+    answers: ["rentrait"]
+    explain: "*Si on…* + imparfait — предложение «а не пойти ли…?»: **rentrait**."
+  - q: "Pour aller au travail, il ___ (falloir) une heure."
+    answers: ["fallait"]
+    explain: "*Il faut* → в imparfait **il fallait**."

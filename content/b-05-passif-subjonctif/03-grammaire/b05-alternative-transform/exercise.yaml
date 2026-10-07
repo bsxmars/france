@@ -1,0 +1,64 @@
+title: "«Неважно…» → que… ou que…"
+type: transform
+intro: |
+  Перефразируй выделенную часть с помощью альтернативы **que… ou que…** (или **que… ou non**) с subjonctif. Используй **ключевое слово** и впиши недостающую часть.
+hints:
+  - "que + subjonctif… ou que + subjonctif…, затем главное предложение."
+  - "Короткая форма: que + subjonctif… ou non."
+  - "être → soit, avoir → ait, faire → fasse, pouvoir → puisse, savoir → sache."
+items:
+  - q: "Peu importe votre âge (jeune ou âgé), vous pouvez vous inscrire à la course."
+    key: "JEUNE"
+    stem: "___ âgé, vous pouvez vous inscrire à la course."
+    answers: ["Que vous soyez jeune ou", "Que vous soyez jeune ou que vous soyez"]
+    explain: "Альтернатива по возрасту → ***Que vous soyez** jeune ou âgé*; второй *que vous soyez* можно опустить."
+  - q: "Peu importe la météo (pluie ou beau temps), le match aura lieu."
+    key: "PLEUVE"
+    stem: "___ beau, le match aura lieu."
+    answers: ["Qu'il pleuve ou qu'il fasse"]
+    explain: "Два разных глагола → оба с *que* и в subjonctif: ***Qu'il pleuve** ou **qu'il fasse** beau*."
+  - q: "Peu importe votre avis sur la question, la décision est prise."
+    key: "D'ACCORD"
+    stem: "___, la décision est prise."
+    answers: ["Que vous soyez d'accord ou non", "Que vous soyez d'accord ou pas", "Que vous soyez d'accord ou pas d'accord"]
+    explain: "Короткая альтернатива → ***Que vous soyez** d'accord **ou non***."
+  - q: "Peu importe le résultat final (victoire ou défaite), l'équipe a très bien joué."
+    key: "GAGNE"
+    stem: "___ perde, l'équipe a très bien joué."
+    answers: ["Qu'elle gagne ou qu'elle", "Que l'équipe gagne ou qu'elle"]
+    explain: "***Qu'elle gagne** ou **qu'elle perde***: у *gagner, perdre* subjonctif *qu'elle gagne / perde*."
+  - q: "Peu importe notre connaissance des règles, le rugby est un beau spectacle."
+    key: "CONNAISSE"
+    stem: "___ pas les règles, le rugby est un beau spectacle."
+    answers: ["Qu'on connaisse les règles ou qu'on ne les connaisse", "Que l'on connaisse les règles ou que l'on ne les connaisse"]
+    explain: "Утверждение и отрицание: ***Qu'on connaisse** les règles **ou qu'on ne les connaisse** pas*."
+  - q: "Peu importe la fréquence de la pratique (souvent ou rarement), le yoga fait du bien."
+    key: "SOUVENT"
+    stem: "___ rarement, le yoga fait du bien."
+    answers: ["Qu'on le pratique souvent ou", "Que l'on le pratique souvent ou", "Qu'on pratique souvent ou", "Que l'on pratique souvent ou", "Qu'on le pratique souvent ou qu'on le pratique"]
+    explain: "***Qu'on le pratique** souvent ou rarement*; общий глагол второй раз не повторяем."
+  - q: "Peu importe ce que ressent la sportive (stress ou sérénité), elle doit rester calme."
+    key: "STRESSÉE"
+    stem: "___ sereine, la sportive doit rester calme."
+    answers: ["Qu'elle soit stressée ou", "Qu'elle soit stressée ou qu'elle soit"]
+    explain: "***Qu'elle soit** stressée ou sereine*; *être* → *soit*."
+  - q: "Peu importe votre position (pour ou contre), votre vote compte."
+    key: "POUR"
+    stem: "___ contre, votre vote compte."
+    answers: ["Que vous soyez pour ou", "Que vous soyez pour ou que vous soyez"]
+    explain: "***Que vous soyez** pour ou contre*: *être* → *soyez*; второй глагол можно опустить."
+  - q: "Peu importe le budget du club (beaucoup ou peu d'argent), les supporters restent fidèles."
+    key: "AIT"
+    stem: "___ peu d'argent, les supporters restent fidèles."
+    answers: ["Que le club ait beaucoup d'argent ou", "Que le club ait beaucoup d'argent ou qu'il ait", "Qu'il ait beaucoup d'argent ou"]
+    explain: "*Avoir* → subjonctif **ait**: ***Que le club ait** beaucoup d'argent ou peu*."
+  - q: "Peu importe qu'on aime ce sport ou qu'on le déteste : il attire les foules. (сделай альтернативу началом фразы)"
+    key: "QU'ON"
+    stem: "___ ce sport, il attire les foules."
+    answers: ["Qu'on aime ou qu'on déteste", "Que l'on aime ou que l'on déteste"]
+    explain: "***Qu'on aime ou qu'on déteste** ce sport*; глаголы на *-er* в 3-м л. ед. ч. subjonctif = indicatif по форме, но конструкция требует именно subjonctif."
+  - q: "L'arbitre n'a pas sifflé : peut-être qu'il n'a pas vu la faute, peut-être qu'il l'a jugée sans gravité."
+    key: "SOIT"
+    stem: "L'arbitre n'a pas sifflé, ___ jugée sans gravité."
+    answers: ["soit qu'il n'ait pas vu la faute, soit qu'il l'ait"]
+    explain: "Альтернатива **причин** в книжном стиле → *soit que… soit que…* + subjonctif; действия раньше главного → subjonctif passé: *qu'il **n'ait pas vu**, qu'il l'**ait jugée*** (согласование с *l'* = la faute)."

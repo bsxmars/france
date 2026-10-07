@@ -1,0 +1,56 @@
+title: "Какое выражение длительности?"
+type: choice
+intro: "Выбери верный вариант."
+hints:
+  - "Закончилось: il y a (назад), pendant (в течение), en (за)."
+  - "Продолжается: depuis, ça fait / il y a … que + présent."
+  - "Будущее: pour (на), dans (через)."
+items:
+  - q: "J'ai acheté mon premier ordinateur ___ vingt ans."
+    options: ["depuis", "il y a", "pendant", "ça fait"]
+    answer: 1
+    explain: "Точка в прошлом, «двадцать лет назад» → **il y a**."
+  - q: "Mon grand-père utilise une tablette ___ l'année dernière."
+    options: ["il y a", "pendant", "depuis", "pour"]
+    answer: 2
+    explain: "Действие продолжается, начало — *l'année dernière* → **depuis**."
+  - q: "___ six mois que je publie des vidéos sur cette plateforme."
+    options: ["Depuis", "Cela fait", "Pendant", "Il y avait"]
+    answer: 1
+    explain: "Промежуток в начале + *que* + présent → **Cela fait** six mois que…"
+  - q: "Pendant le confinement, nous avons fait des visioconférences ___ des heures chaque jour."
+    options: ["depuis", "pendant", "en", "dans"]
+    answer: 1
+    explain: "Длительность законченного действия в прошлом → **pendant** des heures."
+  - q: "Grâce à cette application, j'ai appris les bases du japonais ___ trois mois."
+    options: ["en", "dans", "pour", "depuis"]
+    answer: 0
+    explain: "Сколько потребовалось для результата → **en** trois mois («за три месяца»)."
+  - q: "Je pars en stage à Montréal ___ six mois, de janvier à juin."
+    options: ["pendant", "pour", "depuis", "dans"]
+    answer: 1
+    explain: "Запланированная длительность с *partir* → **pour** six mois («на полгода»)."
+  - q: "Ne t'inquiète pas, la nouvelle version sortira ___ quelques jours."
+    options: ["en", "il y a", "dans", "depuis"]
+    answer: 2
+    explain: "Когда начнётся, от сегодняшнего дня → **dans** quelques jours («через несколько дней»)."
+  - q: "Je n'ai pas reçu de message de lui ___ notre dispute."
+    options: ["depuis", "il y a", "pendant", "pour"]
+    answer: 0
+    explain: "Отрицание + событие-начало → **depuis** notre dispute; глагол в passé composé."
+  - q: "___ qu'elle a son smartphone, ma fille ne lit plus de livres."
+    options: ["Il y a", "Depuis", "Pendant", "Ça fait"]
+    answer: 1
+    explain: "Придаточное, отмечающее начало → **Depuis que**."
+  - q: "Quand je l'ai rencontré, il travaillait dans la cybersécurité ___ dix ans."
+    options: ["il y a", "depuis", "pendant", "en"]
+    answer: 1
+    explain: "«Уже десять лет» в рассказе о прошлом → **depuis** + imparfait (*travaillait*)."
+  - q: "Ce logiciel a été créé ___ 2015 par deux étudiants."
+    options: ["depuis", "il y a", "en", "dans"]
+    answer: 2
+    explain: "Год события → **en** 2015. *Depuis 2015* потребовало бы продолжающегося действия."
+  - q: "J'ai vécu à Berlin ___ quatre ans, puis je suis rentré en France."
+    options: ["depuis", "pendant", "il y a", "pour"]
+    answer: 1
+    explain: "Законченный период в прошлом → **pendant** quatre ans."

@@ -1,0 +1,44 @@
+title: "Поставь gérondif"
+type: gap
+intro: "Поставь глагол в скобках в форму gérondif (en + participe présent). Если в скобках есть местоимение, поставь его на место и согласуй с подлежащим."
+hints:
+  - "Основа nous-формы présent + -ant: nous mangeons → en mangeant."
+  - "Особые формы: en ayant, en étant, en sachant."
+  - "Местоимения — между en и причастием: en me levant, en les voyant."
+items:
+  - q: "Nous avons appris la nouvelle ___ (lire) le journal."
+    answers: ["en lisant"]
+    explain: "*Nous lisons* → **lisant**; gérondif времени/способа: *en lisant*."
+  - q: "Je me suis brûlé ___ (se servir) du café."
+    answers: ["en me servant"]
+    explain: "Возвратное местоимение согласуется с подлежащим *je*: **en me servant**."
+  - q: "___ (commencer) plus tôt, vous finirez avant midi."
+    answers: ["En commençant"]
+    explain: "Условие (= *si vous commencez*). Орфография: *nous commençons* → **commençant** (ç перед *a*)."
+  - q: "Il a obtenu ce poste ___ (être) simplement honnête pendant l'entretien."
+    answers: ["en étant"]
+    explain: "Способ; особая форма *être* → **en étant**."
+  - q: "Elle s'est tordu la cheville ___ (descendre) l'escalier."
+    answers: ["en descendant"]
+    explain: "Время/причина: *pendant qu'elle descendait* → **en descendant**."
+  - q: "Ils ont économisé beaucoup ___ (voyager) hors saison."
+    answers: ["en voyageant"]
+    explain: "Способ. *Nous voyageons* → **voyageant** (с *e* после *g*)."
+  - q: "On apprend une langue ___ (la parler), pas seulement en lisant des manuels."
+    answers: ["en la parlant"]
+    explain: "Местоимение-дополнение между *en* и причастием: **en la parlant**."
+  - q: "___ (avoir) un peu plus de patience, tu obtiendras ce que tu veux."
+    answers: ["En ayant"]
+    explain: "Условие (= *si tu as un peu plus de patience*); особая форма *avoir* → **En ayant**."
+  - q: "Tout ___ (reconnaître) ses mérites, je trouve sa proposition irréaliste."
+    answers: ["en reconnaissant"]
+    explain: "*Tout en* + participe — противопоставление (= *bien que je reconnaisse*): **en reconnaissant**."
+  - q: "Nous nous sommes perdus ___ (s'approcher) de la frontière."
+    answers: ["en nous approchant"]
+    explain: "Подлежащее *nous* → **en nous approchant**."
+  - q: "Les enfants chantaient tout ___ (marcher)."
+    answers: ["en marchant"]
+    explain: "*Tout en* подчёркивает одновременность и длительность: **en marchant**."
+  - q: "Vous gagnerez du temps ___ (remplir) le formulaire en ligne."
+    answers: ["en remplissant"]
+    explain: "Глагол 2-й группы: *nous remplissons* → **en remplissant**; способ/условие."

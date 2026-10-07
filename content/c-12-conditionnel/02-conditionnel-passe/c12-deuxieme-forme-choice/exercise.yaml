@@ -1,0 +1,55 @@
+title: "Узнай вторую форму conditionnel passé"
+type: choice
+intro: "Книжная речь. Пойми фразу: выбери эквивалент или ответ на вопрос."
+hints:
+  - "eût, fût, eussions с циркумфлексом или -ss- = subjonctif / 2-я форма conditionnel passé = «бы»."
+  - "eut, fut без циркумфлекса = passé simple / passé antérieur."
+items:
+  - q: "«J'eusse aimé vous rencontrer plus tôt.» Современный эквивалент:"
+    options: ["J'avais aimé vous rencontrer plus tôt.", "J'aurais aimé vous rencontrer plus tôt.", "J'eus aimé vous rencontrer plus tôt."]
+    answer: 1
+    explain: "*J'eusse aimé* = ***j'aurais aimé*** — «я хотел бы…» (сожаление о прошлом)."
+  - q: "«Qui l'eût cru ?» Перевод:"
+    options: ["Кто бы мог подумать?", "Кто в это поверил?", "Кто этому верит?"]
+    answer: 0
+    explain: "*Eût cru* = *aurait cru*: «Кто бы поверил / мог подумать?» — устойчивый оборот."
+  - q: "«S'il l'eût voulu, il eût réussi.» Современный эквивалент:"
+    options: ["S'il l'a voulu, il a réussi.", "S'il le voulait, il réussirait.", "S'il l'avait voulu, il aurait réussi."]
+    answer: 2
+    explain: "2-я форма в обеих частях: *eût voulu* = *avait voulu*, *eût réussi* = *aurait réussi*. Нереальное в прошлом."
+  - q: "«Il eût mieux valu se taire.» Эквивалент:"
+    options: ["Il aurait mieux valu se taire.", "Il valait mieux se taire.", "Il a mieux valu se taire."]
+    answer: 0
+    explain: "*Il eût mieux valu* = ***il aurait mieux valu*** — «лучше было бы промолчать»."
+  - q: "«On eût dit une statue de marbre.» Перевод:"
+    options: ["Говорили, что это мраморная статуя.", "Можно было подумать, что это мраморная статуя.", "Он сказал: мраморная статуя."]
+    answer: 1
+    explain: "*On eût dit* = *on aurait dit* — «можно было подумать, казалось»."
+  - q: "В какой фразе *eut / eût* — НЕ «бы»?"
+    options: ["Il eût fini plus tôt sans vous.", "S'il eût fini, il serait parti.", "Dès qu'il eut fini, il partit."]
+    answer: 2
+    explain: "*Eut fini* без циркумфлекса после *dès que*, в паре с passé simple — passé antérieur («как только закончил»)."
+  - q: "«Elle fût venue si on l'avait invitée.» Эквивалент:"
+    options: ["Elle était venue si on l'avait invitée.", "Elle serait venue si on l'avait invitée.", "Elle fut venue si on l'avait invitée."]
+    answer: 1
+    explain: "*Fût venue* (с циркумфлексом) = ***serait venue***."
+  - q: "«Nous eussions préféré une autre solution.» Эквивалент:"
+    options: ["Nous aurions préféré une autre solution.", "Nous avions préféré une autre solution.", "Nous eûmes préféré une autre solution."]
+    answer: 0
+    explain: "*Eussions* — subjonctif imparfait *avoir* → 2-я форма = ***aurions préféré***."
+  - q: "2-я форма conditionnel passé для «ils auraient pu»:"
+    options: ["ils eurent pu", "ils eussent pu", "ils eussent pus"]
+    answer: 1
+    explain: "*Avoir* в subjonctif imparfait — *qu'ils eussent* + неизменяемое причастие *pu*: ***ils eussent pu***."
+  - q: "«Je n'eusse jamais imaginé pareille fin.» Перевод:"
+    options: ["Я никогда не представлял себе такого конца.", "Я никогда бы не представил себе такого конца.", "Я никогда не представлю себе такого конца."]
+    answer: 1
+    explain: "*N'eusse jamais imaginé* = *n'aurais jamais imaginé* — «никогда бы не подумал»."
+  - q: "Какая формулировка уместна в современном деловом письме?"
+    options: ["Nous eussions souhaité une réponse plus rapide.", "Nous eûmes souhaité une réponse plus rapide.", "Nous aurions souhaité une réponse plus rapide."]
+    answer: 2
+    explain: "Сегодня 2-я форма звучит архаично, а *eûmes souhaité* — passé antérieur, не по смыслу. Нормально: ***nous aurions souhaité***."
+  - q: "«Il eût suffi d'un mot pour tout arranger.» Перевод:"
+    options: ["Хватило одного слова, чтобы всё уладить.", "Хватит одного слова, чтобы всё уладить.", "Хватило бы одного слова, чтобы всё уладить."]
+    answer: 2
+    explain: "*Il eût suffi* = *il aurait suffi* — «хватило бы» (но слово не было сказано)."

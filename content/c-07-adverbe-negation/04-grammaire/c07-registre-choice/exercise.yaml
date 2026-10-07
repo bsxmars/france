@@ -1,0 +1,55 @@
+title: "Отрицание или ne explétif?"
+type: choice
+intro: "Выбери правильный перевод или вариант. Помни: ne без pas после craindre, avant que, plus… que не отрицает."
+hints:
+  - "ne explétif: сравнение неравенства, craindre / avoir peur, éviter, avant que, à moins que."
+  - "ne без pas при cesser, oser, pouvoir, savoir — это настоящее отрицание."
+items:
+  - q: "« Il ne cesse de se plaindre. »"
+    options: ["Он постоянно жалуется.", "Он перестал жаловаться.", "Он не жалуется."]
+    answer: 0
+    explain: "*Ne cesser de* — «не переставать», то есть «постоянно». *Ne* без *pas* при *cesser* — книжное отрицание."
+  - q: "« J'ai peur qu'elle ne soit déjà partie. »"
+    options: ["Боюсь, что она ещё не ушла.", "Боюсь, что она уже ушла.", "Я не боюсь, что она ушла."]
+    answer: 1
+    explain: "После *avoir peur* в утвердительной форме *ne* — **explétif**, не отрицает."
+  - q: "« Je n'ose vous déranger. »"
+    options: ["Я не смею вас беспокоить.", "Я смею вас побеспокоить.", "Я не хотел вас беспокоить."]
+    answer: 0
+    explain: "*Ne* без *pas* при *oser* — настоящее отрицание книжного стиля: «не смею»."
+  - q: "« Rentrons avant qu'il ne fasse nuit. »"
+    options: ["Вернёмся, пока не стемнело.", "Вернёмся, когда стемнеет.", "Не будем возвращаться до темноты."]
+    answer: 0
+    explain: "*Avant que* + *ne explétif* + subjonctif: «до того как стемнеет». Русское «пока не» содержит «не», но французское *ne* здесь тоже ничего не отрицает."
+  - q: "« Elle est plus âgée qu'elle n'en a l'air. »"
+    options: ["Она старше, чем выглядит.", "Она моложе, чем выглядит.", "Она не выглядит старой."]
+    answer: 0
+    explain: "Сравнение неравенства: *ne* — explétif, *en* — нейтральное местоимение."
+  - q: "« Je ne sais que répondre. »"
+    options: ["Я знаю только, что ответить.", "Я не знаю, что ответить.", "Я не умею отвечать."]
+    answer: 1
+    explain: "*Ne savoir que* + инфинитив — «не знать, что…»; *ne* без *pas* при *savoir* — книжное отрицание (это не *ne… que* «только»)."
+  - q: "« Il ne boit guère. »"
+    options: ["Он совсем не пьёт.", "Он почти не пьёт.", "Он больше не пьёт."]
+    answer: 1
+    explain: "*Ne… guère* — «почти не, мало»."
+  - q: "« Je crains qu'il ne vienne pas. »"
+    options: ["Боюсь, что он придёт.", "Боюсь, что он не придёт.", "Не боюсь, что он придёт."]
+    answer: 1
+    explain: "Здесь есть *pas* — это настоящее отрицание: «боюсь, что он **не** придёт»."
+  - q: "« Il y a dix ans que je ne l'ai vu. »"
+    options: ["Я видел его десять лет назад.", "Я не видел его уже десять лет.", "Я видел его десять лет подряд."]
+    answer: 1
+    explain: "После *il y a… que* со сложным временем *ne* без *pas* — книжное отрицание: «не видел уже десять лет»."
+  - q: "Vous êtes déçu ? — ___ , je m'y attendais."
+    options: ["Nullement", "Point", "Guère"]
+    answer: 0
+    explain: "Отдельным ответом «ничуть» служит **Nullement** (или *Aucunement*). *Point* и *guère* без глагола в ответе так не употребляются."
+  - q: "« Il accepta, non sans hésitation. »"
+    options: ["Он согласился без колебаний.", "Он согласился не без колебаний.", "Он не согласился."]
+    answer: 1
+    explain: "*Non sans* — «не без»: он колебался, но согласился."
+  - q: "« Je ne doute pas qu'il ne dise la vérité. » (очень книжно)"
+    options: ["Я не сомневаюсь, что он говорит правду.", "Я не сомневаюсь, что он лжёт.", "Я сомневаюсь, что он говорит правду."]
+    answer: 0
+    explain: "После отрицаемого *douter* возможно *ne explétif*: смысл утвердительный — «говорит правду»."

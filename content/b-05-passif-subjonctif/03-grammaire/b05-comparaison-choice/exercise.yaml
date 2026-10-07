@@ -1,0 +1,56 @@
+title: "Сравнение, пропорция, альтернатива"
+type: choice
+intro: "Выбери верный вариант. Ловушки — кальки с русского и английского."
+hints:
+  - "très не сочетается с plus, moins, meilleur, mieux."
+  - "Plus…, plus… — без артикля; d'autant plus… que — с d'."
+  - "que… ou que… → subjonctif."
+items:
+  - q: "Ce joueur est ___ connu à l'étranger que dans son pays."
+    options: ["très plus", "bien plus", "plus bien"]
+    answer: 1
+    explain: "«Гораздо более» → **bien plus**; *très plus* невозможно."
+  - q: "« Чем раньше начнёшь, тем лучше » — ___ tu commences tôt, ___ c'est."
+    options: ["Le plus… le mieux", "Plus… mieux", "Plus… plus bien"]
+    answer: 1
+    explain: "Пропорция: ***Plus** tu commences tôt, **mieux** c'est.* С *bien* — *mieux*, артикль не нужен."
+  - q: "Les jeunes regardent ___ la télévision."
+    options: ["de moins en moins", "de moins en moins de", "moins en moins"]
+    answer: 0
+    explain: "С глаголом → **de moins en moins** после глагола; *de* перед существительным здесь не нужен — *la télévision* дополнение глагола *regarder*."
+  - q: "Il y a ___ femmes arbitres dans le football professionnel."
+    options: ["de plus en plus des", "de plus en plus de", "plus en plus de"]
+    answer: 1
+    explain: "С существительным → **de plus en plus de** + без артикля."
+  - q: "Le marathon de Paris attire ___ coureurs que celui de Lyon."
+    options: ["trois fois plus de", "trois fois plus des", "trois plus fois de"]
+    answer: 0
+    explain: "Порядок величины с существительным → **trois fois plus de** coureurs."
+  - q: "Les sportives sont ___ talentueuses que les sportifs."
+    options: ["tout autant", "tout aussi", "tout autant de"]
+    answer: 1
+    explain: "С прилагательным → **tout aussi**; *autant* — с существительным и глаголом."
+  - q: "Je suis ___ déçu que j'avais acheté les billets très cher."
+    options: ["autant plus", "d'autant plus", "de plus en plus"]
+    answer: 1
+    explain: "«Тем более, что» → **d'autant plus** + прилагательное + *que*."
+  - q: "Les droits télévisés coûtent ___ cher que dans les années 1990."
+    options: ["beaucoup plus", "beaucoup de plus", "très plus"]
+    answer: 0
+    explain: "*Cher* при *coûter* — наречие → **beaucoup plus** cher."
+  - q: "___ on soit pour ou contre les Jeux olympiques, ils changent la ville."
+    options: ["Si", "Qu'", "Quoi qu'"]
+    answer: 1
+    explain: "Альтернатива → **Qu'**on soit pour ou contre… + subjonctif. *Si* ввёл бы условие, а *quoi que* — «что бы ни»."
+  - q: "Qu'il ___ ou qu'il fasse beau, le tournoi se jouera en plein air."
+    options: ["pleut", "pleuve", "pleuvra"]
+    answer: 1
+    explain: "*Que… ou que…* → subjonctif: *qu'il **pleuve***."
+  - q: "Elle a abandonné, soit qu'elle ___ blessée, soit qu'elle ait perdu sa motivation."
+    options: ["était", "soit", "est"]
+    answer: 1
+    explain: "*Soit que… soit que…* → subjonctif: *qu'elle **soit** blessée*."
+  - q: "___ soient vos résultats, vous recevrez une médaille de participation."
+    options: ["Quel que", "Quels que", "Quelles que"]
+    answer: 1
+    explain: "*Quel que soit* согласуется с подлежащим: *vos résultats* — м. р. мн. ч. → **Quels que** soient."

@@ -1,0 +1,37 @@
+title: "Найди ошибку в женском роде"
+type: error
+intro: "В каждом предложении **одна** ошибка в форме женского рода. Исправь её и отправь предложение целиком."
+hints:
+  - "Проверь удвоение согласной: -enne, -onne, -elle, -ette."
+  - "Проверь особые формы: belle, vieille, longue, douce, sèche, nouvelle."
+items:
+  - q: "Ma voisine est une femme très gentile."
+    answers: ["Ma voisine est une femme très gentille."]
+    explain: "*gentil* → **gentille**: удвоение *l*."
+  - q: "C'est une chanson italiene."
+    answers: ["C'est une chanson italienne."]
+    explain: "*-ien* → **-ienne**: *italienne*."
+  - q: "Sa sœur est une danseure célèbre."
+    answers: ["Sa sœur est une danseuse célèbre."]
+    explain: "*danseur* → **danseuse**: суффикс *-euse*."
+  - q: "Nous avons visité une vieuse église."
+    answers: ["Nous avons visité une vieille église."]
+    explain: "*vieux* → **vieille** — особая форма."
+  - q: "Cette directeuse est très sévère."
+    answers: ["Cette directrice est très sévère."]
+    explain: "*-teur* → **-trice**: *directrice*."
+  - q: "Elle porte une jupe violete."
+    answers: ["Elle porte une jupe violette."]
+    explain: "*violet* → **violette**: удвоение *t*."
+  - q: "La route est longe et difficile."
+    answers: ["La route est longue et difficile."]
+    explain: "*long* → **longue**: после *g* пишется *u*."
+  - q: "Ma tante est une femme très actife."
+    answers: ["Ma tante est une femme très active."]
+    explain: "*-f* → **-ve**: *active*."
+  - q: "La musique douse m'aide à dormir."
+    answers: ["La musique douce m'aide à dormir."]
+    explain: "*doux* → **douce** — особая форма."
+  - q: "J'ai une nouvel amie à l'école."
+    answers: ["J'ai une nouvelle amie à l'école."]
+    explain: "*Nouvel* — мужской род перед гласной (*un nouvel ami*). С женским существительным — **nouvelle**."

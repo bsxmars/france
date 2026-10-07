@@ -1,0 +1,51 @@
+title: "Артикль и порядок слов"
+type: choice
+intro: "Выбери верный вариант. Род существительного указан в скобках: м. — мужской, ж. — женский."
+hints:
+  - "le — м. р., la — ж. р., l' — перед гласной, les — мн. ч."
+  - "Перед именами людей и перед sa артикль не ставится."
+items:
+  - q: "___ table est petite. (ж.)"
+    options: ["le", "la", "les"]
+    answer: 1
+    explain: "*table* — женского рода (хотя «стол» по-русски мужского), единственное число → **la**: *la table* — «стол маленький»."
+  - q: "___ café est chaud. (м.)"
+    options: ["le", "la", "l'"]
+    answer: 0
+    explain: "*café* — мужской род, начинается с согласной → **le**: *le café est chaud* — «кофе горячий»."
+  - q: "___ ami de Paul parle. (м.)"
+    options: ["le", "la", "l'"]
+    answer: 2
+    explain: "*ami* начинается с гласной: *le* теряет e → **l'ami**. «Друг Поля говорит»."
+  - q: "___ école est grande. (ж.)"
+    options: ["la", "l'", "le"]
+    answer: 1
+    explain: "Перед гласной и *la* превращается в **l'**: *l'école* — «школа большая». По артиклю l' род уже не виден — его подсказывает прилагательное *grande*."
+  - q: "___ sacs sont sur la table."
+    options: ["le", "la", "les"]
+    answer: 2
+    explain: "*sacs* — множественное число → **les** (одинаково для обоих родов). «Сумки на столе». Окончание -s не слышно, число слышно по *les* [le]."
+  - q: "Voici ___ tasse. (ж.)"
+    options: ["un", "une", "le"]
+    answer: 1
+    explain: "«Вот (какая-то, одна) чашка» — неопределённый артикль женского рода **une**."
+  - q: "Voici ___ garage. (м.)"
+    options: ["un", "une", "la"]
+    answer: 0
+    explain: "*garage* — мужской род (несмотря на окончание -e) → **un garage**: «вот гараж»."
+  - q: "Какая фраза верна: «Поль говорит»?"
+    options: ["Le Paul parle.", "Paul parle.", "Parle Paul."]
+    answer: 1
+    explain: "Перед именем человека артикля нет, а подлежащее стоит перед сказуемым: **Paul parle.**"
+  - q: "Какая фраза верна: «Анна ищет свою чашку»?"
+    options: ["Anna cherche la sa tasse.", "Anna cherche sa tasse.", "Anna cherche tasse."]
+    answer: 1
+    explain: "**sa** («свою») заменяет артикль, поэтому *la sa* невозможно, а без всего существительное не остаётся: *Anna cherche **sa** tasse.*"
+  - q: "Какая фраза верна: «Машина большая»?"
+    options: ["Voiture est grande.", "La voiture grande.", "La voiture est grande."]
+    answer: 2
+    explain: "Нужны и артикль (**la** voiture), и глагол-связка **est**: во французском фраза без глагола невозможна."
+  - q: "Какое слово служебное?"
+    options: ["gare", "la", "parle"]
+    answer: 1
+    explain: "**la** — артикль, служебное слово: сам ничего не называет, а показывает род, число и определённость. *gare* (вокзал) и *parle* (говорит) — знаменательные."

@@ -1,0 +1,41 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. В скобках подсказано средство: пассив, se + глагол, se faire или on. Пунктуация не важна, акценты — важны."
+hints:
+  - "Пассив: être в нужном времени + причастие, согласованное с подлежащим."
+  - "se faire + infinitif: fait не согласуется."
+  - "Местоимённый пассив — без исполнителя."
+items:
+  - q: "Закон был принят в прошлом году. (пассив)"
+    answers: ["La loi a été adoptée l'année dernière.", "La loi a été votée l'année dernière.", "La loi a été adoptée l'an dernier.", "La loi a été votée l'an dernier.", "La loi a été adoptée l'année passée.", "La loi a été votée l'année passée."]
+    explain: "Законченное событие → passé composé пассива: **a été adoptée / votée**, согласование с *la loi*."
+  - q: "Эти таблетки принимают после еды. (se + глагол)"
+    answers: ["Ces comprimés se prennent après le repas.", "Ces comprimés se prennent après les repas.", "Ces cachets se prennent après le repas.", "Ces cachets se prennent après les repas."]
+    explain: "Правило приёма → местоимённый пассив: *ces comprimés **se prennent***."
+  - q: "Она подстриглась у парикмахера. (se faire)"
+    answers: ["Elle s'est fait couper les cheveux chez le coiffeur.", "Elle s'est fait couper les cheveux chez la coiffeuse."]
+    explain: "Услугу сделали другие → **s'est fait couper**; *fait* не согласуется."
+  - q: "У него украли телефон в метро. (se faire)"
+    answers: ["Il s'est fait voler son téléphone dans le métro.", "Il s'est fait voler son portable dans le métro."]
+    explain: "Неприятность → **s'est fait voler** son téléphone."
+  - q: "Больницу закроют на ремонт. (пассив)"
+    answers: ["L'hôpital sera fermé pour travaux.", "L'hôpital va être fermé pour travaux.", "L'hôpital sera fermé pour des travaux.", "L'hôpital va être fermé pour des travaux."]
+    explain: "Будущее → **sera fermé** или *va être fermé*."
+  - q: "Этого политика уважают все. (пассив)"
+    answers: ["Cet homme politique est respecté de tous.", "Cet homme politique est respecté par tous.", "Ce politicien est respecté de tous.", "Ce politicien est respecté par tous.", "Cet homme politique est respecté de tout le monde.", "Cet homme politique est respecté par tout le monde."]
+    explain: "Глагол отношения → обычно **de**: *respecté **de** tous* (*par* тоже встречается)."
+  - q: "Нам задали много вопросов. (on)"
+    answers: ["On nous a posé beaucoup de questions.", "On nous a posé de nombreuses questions."]
+    explain: "«Нам» — косвенное дополнение (*poser une question **à** qn*), пассив от него невозможен → **on nous a posé**. Причастие не согласуется: COD *beaucoup de questions* стоит после глагола."
+  - q: "Результаты должны быть опубликованы до конца месяца. (пассив)"
+    answers: ["Les résultats doivent être publiés avant la fin du mois.", "Les résultats devront être publiés avant la fin du mois."]
+    explain: "Модальный глагол + **être publiés**; причастие согласуется с *les résultats*."
+  - q: "Его сбила машина. (se faire)"
+    answers: ["Il s'est fait renverser par une voiture.", "Elle s'est fait renverser par une voiture."]
+    explain: "*Se faire renverser* — «попасть под машину»; исполнитель — **par**."
+  - q: "Это слово больше не употребляется. (se + глагол)"
+    answers: ["Ce mot ne s'emploie plus.", "Ce mot ne s'utilise plus."]
+    explain: "Свойство слова, без исполнителя → **ne s'emploie plus**."
+  - q: "По данным прессы, министра якобы уволили. (пассив, conditionnel)"
+    answers: ["Selon la presse, le ministre aurait été limogé.", "Selon la presse, le ministre aurait été renvoyé.", "D'après la presse, le ministre aurait été limogé.", "D'après la presse, le ministre aurait été renvoyé.", "Selon la presse, le ministre aurait été démis de ses fonctions.", "D'après la presse, le ministre aurait été démis de ses fonctions."]
+    explain: "Непроверенный факт в прошлом → conditionnel passé пассива: **aurait été limogé**."

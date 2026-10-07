@@ -1,0 +1,136 @@
+- id: b04-inv-registre
+  lesson: b-04-inversion-duree-cause/01-grammaire
+  q: "Три способа задать вопрос «Ты придёшь?» и их регистр."
+  a: "*Tu viens ?* — разговорный; *Est-ce que tu viens ?* — нейтральный; *Viens-tu ?* — письменный, официальный."
+- id: b04-inv-simple
+  lesson: b-04-inversion-duree-cause/01-grammaire
+  q: "Простая инверсия: как строится?"
+  a: "Подлежащее-местоимение после глагола через дефис: *Pouvez-vous… ? Utilises-tu… ?* В сложных временах — после вспомогательного: *Avez-vous lu… ?*"
+- id: b04-inv-t
+  lesson: b-04-inversion-duree-cause/01-grammaire
+  q: "Когда вставляется -t-?"
+  a: "Глагол на гласную + *il / elle / on*: *a-t-il, parle-t-elle, va-t-on, sera-t-il*. На *-t / -d* — без вставки: *peut-il, prend-elle*."
+- id: b04-inv-complexe
+  lesson: b-04-inversion-duree-cause/01-grammaire
+  q: "Сложная инверсия: «Это приложение собирает наши данные?»"
+  a: "*Cette application collecte-t-elle nos données ?* — существительное впереди, после глагола повторяющее местоимение *il / elle / ils / elles*."
+- id: b04-inv-pourquoi-que
+  lesson: b-04-inversion-duree-cause/01-grammaire
+  q: "После каких вопросительных слов только сложная, а после каких только простая инверсия с существительным?"
+  a: "**Pourquoi** — только сложная: *Pourquoi ton frère a-t-il… ?* **Que** — только простая: *Que pense ton père ?* После *où, quand, comment* без дополнения — обе."
+- id: b04-inv-je
+  lesson: b-04-inversion-duree-cause/01-grammaire
+  q: "Инверсия с *je*: какие формы употребляются?"
+  a: "Только несколько: *puis-je* (не *peux-je*), *suis-je, ai-je, dois-je, sais-je*. В остальных случаях — *est-ce que*."
+- id: b04-inv-neg
+  lesson: b-04-inversion-duree-cause/01-grammaire
+  q: "Отрицательный вопрос с инверсией и утвердительный ответ."
+  a: "*N'avez-vous pas reçu le code ? Les jeunes ne sont-ils pas trop connectés ?* — *ne* перед блоком, *pas* после. Ответ «да» — **Si**."
+- id: b04-inv-pronoms
+  lesson: b-04-inversion-duree-cause/01-grammaire
+  q: "Где стоят местоимения-дополнения при инверсии: «Вы ему об этом говорили?»"
+  a: "Перед глаголом: *Lui en avez-vous parlé ?* Так же возвратные: *S'est-il inscrit ?*"
+- id: b04-inv-mix
+  lesson: b-04-inversion-duree-cause/01-grammaire
+  q: "*Est-ce que vient-il ?* — что не так?"
+  a: "Смешаны два способа. Либо *Vient-il ?*, либо *Est-ce qu'il vient ?*"
+- id: b04-il-y-a
+  lesson: b-04-inversion-duree-cause/02-grammaire
+  q: "«Пять лет назад» и «уже пять лет»."
+  a: "*il y a cinq ans* + прошедшее (*j'ai créé mon compte il y a cinq ans*); *depuis cinq ans* + présent (*j'utilise ce site depuis cinq ans*)."
+- id: b04-ca-fait-que
+  lesson: b-04-inversion-duree-cause/02-grammaire
+  q: "Как вынести промежуток в начало: «Вот уже месяц, как я ищу работу»?"
+  a: "***Ça fait** / **Il y a** / **Voilà** un mois **que** je cherche du travail.* — только промежуток, не дата; глагол в présent."
+- id: b04-depuis-neg
+  lesson: b-04-inversion-duree-cause/02-grammaire
+  q: "«Я не открывал Фейсбук уже несколько месяцев» — какое время?"
+  a: "Passé composé с отрицанием: *Je **n'ai pas ouvert** Facebook depuis des mois.*"
+- id: b04-pendant-en
+  lesson: b-04-inversion-duree-cause/02-grammaire
+  q: "*Pendant* или *en*: «работал над проектом три месяца», «сделал проект за три месяца»."
+  a: "*J'ai travaillé sur ce projet **pendant** trois mois* (длительность); *J'ai fait ce projet **en** trois mois* (время до результата)."
+- id: b04-pour-dans
+  lesson: b-04-inversion-duree-cause/02-grammaire
+  q: "«Уезжаю на неделю», «вернусь через неделю»."
+  a: "*Je pars **pour** une semaine* (планируемая длительность); *Je reviens **dans** une semaine* (через, от сейчас)."
+- id: b04-depuis-imparfait
+  lesson: b-04-inversion-duree-cause/02-grammaire
+  q: "«Я уже десять лет работал там, когда фирма закрылась»."
+  a: "*Je travaillais là **depuis** dix ans quand l'entreprise a fermé.* — в прошлом *depuis* + imparfait."
+- id: b04-depuis-que
+  lesson: b-04-inversion-duree-cause/02-grammaire
+  q: "*Depuis* перед датой, событием и предложением — примеры."
+  a: "*depuis 2013*, *depuis l'arrivée des smartphones*, *depuis que j'ai supprimé l'application*."
+- id: b04-pendant-erreur
+  lesson: b-04-inversion-duree-cause/02-grammaire
+  q: "*J'habite ici pendant cinq ans* — что не так?"
+  a: "Если живёшь до сих пор — *J'habite ici **depuis** cinq ans*. Если период закончен — *J'**ai habité** ici pendant cinq ans*."
+- id: b04-parce-que-puisque
+  lesson: b-04-inversion-duree-cause/03-grammaire
+  q: "*Parce que* или *puisque*?"
+  a: "**parce que** — новая информация, ответ на *pourquoi*; **puisque** — причина, известная собеседнику, «раз уж»: *Puisque tu es malade, reste à la maison.*"
+- id: b04-comme-car
+  lesson: b-04-inversion-duree-cause/03-grammaire
+  q: "Где стоят *comme* и *car*?"
+  a: "**Comme** — только в начале фразы: *Comme il pleuvait, …*; **car** — только между частями, не в начале: *…, car il pleuvait.*"
+- id: b04-grace-cause
+  lesson: b-04-inversion-duree-cause/03-grammaire
+  q: "*Grâce à*, *à cause de*, *en raison de* — разница."
+  a: "*grâce à* — хороший результат; *à cause de* — плохой; *en raison de* — нейтрально, официально. Все — с существительным."
+- id: b04-parce-que-nom
+  lesson: b-04-inversion-duree-cause/03-grammaire
+  q: "«Из-за пробок я опоздал» — *parce que les embouteillages*?"
+  a: "Нет: после *parce que* — предложение. С существительным — *à cause des embouteillages*."
+- id: b04-a-force-faute
+  lesson: b-04-inversion-duree-cause/03-grammaire
+  q: "*À force de* и *faute de*: значения и примеры."
+  a: "**à force de** + инф. / сущ. — из-за постоянного повторения: *À force de scroller, on oublie l'heure.* **faute de** + сущ. — из-за нехватки: *Faute de temps, je n'ai pas lu.*"
+- id: b04-pretexte
+  lesson: b-04-inversion-duree-cause/03-grammaire
+  q: "Как показать, что не веришь в названную причину?"
+  a: "*sous prétexte que* + indicatif: *Il ne vient pas sous prétexte qu'il est malade.*"
+- id: b04-par-pour
+  lesson: b-04-inversion-duree-cause/03-grammaire
+  q: "«Из любопытства», «уволен за то, что разгласил…»."
+  a: "*par curiosité* (*par* + сущ. без артикля — мотив); *licencié **pour avoir diffusé**…* (*pour* + infinitif passé — причина наказания или награды)."
+- id: b04-etant-donne
+  lesson: b-04-inversion-duree-cause/03-grammaire
+  q: "*Étant donné que*, *vu que*, *non que* — с каким наклонением?"
+  a: "*étant donné que, vu que* — indicatif (установленный факт); *non que* (отвергнутая причина) — subjonctif: *non qu'il le trouve inutile, mais…*"
+- id: b04-consequence-registre
+  lesson: b-04-inversion-duree-cause/04-grammaire
+  q: "Связки следствия от разговорной к официальной."
+  a: "*alors* → *donc* → *c'est pourquoi / c'est pour cela que* → *c'est la raison pour laquelle* → *par conséquent / en conséquence*."
+- id: b04-cest-pourquoi
+  lesson: b-04-inversion-duree-cause/04-grammaire
+  q: "*C'est pourquoi que* — верно?"
+  a: "Нет: **c'est pourquoi** без *que*; но **c'est pour cela que** — с *que*."
+- id: b04-donc-place
+  lesson: b-04-inversion-duree-cause/04-grammaire
+  q: "Где обычно стоит *donc* в сложном времени?"
+  a: "Между вспомогательным и причастием: *Il a **donc** décidé de fermer son compte.*"
+- id: b04-si-bien-que
+  lesson: b-04-inversion-duree-cause/04-grammaire
+  q: "*Si bien que* и *de sorte que*: наклонение."
+  a: "*si bien que* + indicatif — следствие. *de sorte que* + indicatif — следствие, + subjonctif — цель («чтобы»)."
+- id: b04-si-tant
+  lesson: b-04-inversion-duree-cause/04-grammaire
+  q: "*Si*, *tant*, *tant de*, *tellement*: что с чем?"
+  a: "*si / tellement* + прил. / нареч. (*si lent que*); *tant de / tellement de* + сущ. (*tant d'écrans que*); глагол + *tant / tellement* (*il travaille tellement que*)."
+- id: b04-tellement-beaucoup
+  lesson: b-04-inversion-duree-cause/04-grammaire
+  q: "*Il a tellement beaucoup travaillé* — что не так?"
+  a: "*Beaucoup* не усиливают: *Il a **tellement** (или **tant**) travaillé qu'il est tombé malade.*"
+- id: b04-tres-que
+  lesson: b-04-inversion-duree-cause/04-grammaire
+  q: "*Il est très fatigué qu'il dort* — как правильно?"
+  a: "*Très* не вводит следствие: *Il est **si / tellement** fatigué **qu'**il dort debout.*"
+- id: b04-trop-pour
+  lesson: b-04-inversion-duree-cause/04-grammaire
+  q: "«Слишком дорого, чтобы я мог купить»; «слишком молод, чтобы иметь аккаунт»."
+  a: "*trop cher **pour que** je **puisse** l'acheter* (subjonctif); *trop jeune **pour avoir** un compte* (инфинитив при одном подлежащем)."
+- id: b04-dou
+  lesson: b-04-inversion-duree-cause/04-grammaire
+  q: "Что значит *d'où* + существительное?"
+  a: "Сжатое следствие «отсюда»: *Le réseau était saturé, **d'où** les coupures.*"

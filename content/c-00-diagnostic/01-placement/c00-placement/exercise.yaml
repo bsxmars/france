@@ -1,0 +1,248 @@
+title: "Входной тест B2 → C1"
+type: choice
+intro: |
+  45 вопросов — по три на каждый модуль c-01 … c-15. Выбери один вариант. **Не знаешь — пропусти**, не угадывай: так результат по темам будет честным.
+
+  Словарь и справочник не используй. Ориентир по времени — 25–30 минут.
+pass: 1
+items:
+  # c-01. Существительное
+  - q: "Napoléon et Joséphine : l'empereur et l'___ ."
+    options: ["empereuse", "empératrice", "impératrice"]
+    answer: 2
+    topic: "c-01-nom"
+    explain: "Женский род от *empereur* образуется от особой (латинской) основы: ***impératrice***, как *acteur → actrice*, но с изменённым корнем. *Empereuse* и *empératrice* не существуют."
+  - q: "Le pilote a dû contourner ___ ."
+    options: ["une violente orage", "un violent orage", "un violente orage"]
+    answer: 1
+    topic: "c-01-nom"
+    explain: "*Orage* — **мужского** рода, хотя русскому уху и окончанию *-age* иногда хочется женского: ***un violent orage***. Прилагательное согласуется в мужском роде, поэтому *violente* невозможно."
+  - q: "Les ___ de la cathédrale ont été restaurés l'an dernier."
+    options: ["vitrails", "vitrals", "vitraux"]
+    answer: 2
+    topic: "c-01-nom"
+    explain: "*Vitrail* — одно из семи слов на *-ail* с множественным на **-aux**: *bail, corail, émail, soupirail, travail, vantail, vitrail* → ***vitraux***. Остальные слова на *-ail* получают *-s* (*des détails*)."
+  # c-02. Артикль
+  - q: "Ce n'est pas ___ problème, c'est une occasion."
+    options: ["de", "un", "du"]
+    answer: 1
+    topic: "c-02-article"
+    explain: "После отрицания *de* заменяет артикль только при прямом дополнении. После **être** артикль сохраняется: *c'est un problème → ce n'est **pas un** problème*. *Pas de problème* — это другая конструкция (с *il n'y a*)."
+  - q: "Bien ___ gens pensent comme toi."
+    options: ["de", "des", "les"]
+    answer: 1
+    topic: "c-02-article"
+    explain: "*Bien* в значении «много» — исключение среди слов количества: после него стоит **des**, а не *de*: ***bien des** gens*, как *la plupart **des***. (Только *bien d'autres* — с *de*.)"
+  - q: "Ce peintre aimait ___ Paris des années folles."
+    options: ["le", "du", "de"]
+    answer: 0
+    topic: "c-02-article"
+    explain: "Названия городов обычно без артикля, но если город **определён** («Париж эпохи…»), появляется определённый артикль: ***le** Paris des années folles*. Партитив *du* и *de* здесь невозможны."
+  # c-03. Прилагательное
+  - q: "C'est un ___ hôtel, ouvert le mois dernier."
+    options: ["nouveau", "nouvel", "nouvelle"]
+    answer: 1
+    topic: "c-03-adjectif"
+    explain: "Перед существительным мужского рода на гласную или немое *h* — вторая форма: ***nouvel** hôtel*, как *bel ami, vieil homme*. *Hôtel* — мужского рода, поэтому *nouvelle* не подходит."
+  - q: "Elle a acheté des chaussures ___ ."
+    options: ["bleues marines", "bleues marine", "bleu marine"]
+    answer: 2
+    topic: "c-03-adjectif"
+    explain: "Составное прилагательное цвета (цвет + уточнение) **не изменяется**: *des chaussures **bleu marine***, *des yeux bleu clair*. Изменяется только простое прилагательное цвета: *des chaussures bleues*."
+  - q: "Ne t'inquiète pas pour moi : c'est le ___ de mes soucis."
+    options: ["plus moindre", "moindres", "moindre"]
+    answer: 2
+    topic: "c-03-adjectif"
+    explain: "*Moindre* — уже сравнительная форма (от *petit* в абстрактном смысле), *plus* к ней не добавляют: ***le moindre** de mes soucis* — «меньшая из моих забот». *Moindres* — мн. ч., а *le … souci* единственное."
+  # c-04. Личные местоимения
+  - q: "Le voyage a été plus long que nous ne ___ pensions."
+    options: ["la", "le", "les"]
+    answer: 1
+    topic: "c-04-pronoms-personnels"
+    explain: "В сравнительном придаточном нейтральное **le** заменяет целую мысль («что поездка будет такой»): *plus long que nous ne **le** pensions*. Оно не согласуется ни в роде, ни в числе, поэтому ни *la*, ни *les* здесь невозможны."
+  - q: "Quand on est malade, on pense surtout à ___ ."
+    options: ["soi", "lui", "se"]
+    answer: 0
+    topic: "c-04-pronoms-personnels"
+    explain: "При обобщённом подлежащем (*on, chacun, personne, il faut*) ударное возвратное местоимение — ***soi***: *on pense à **soi***. *Lui* указывало бы на другого человека, *se* — безударная форма, после предлога невозможна."
+  - q: "Tu as des cerises ? Donne-___ quelques-unes."
+    options: ["moi-en", "m'en", "en-moi"]
+    answer: 1
+    topic: "c-04-pronoms-personnels"
+    explain: "В утвердительном императиве *moi* перед *en* превращается в **m'**: ***donne-m'en***. *En* всегда последнее, поэтому *en-moi* невозможно, а *moi-en* — частая ошибка."
+  # c-05. Относительные, указательные, притяжательные
+  - q: "C'est un roman ___ j'ai oublié le titre."
+    options: ["que", "duquel", "dont"]
+    answer: 2
+    topic: "c-05-relatifs-demonstratifs"
+    explain: "*Le titre **du roman*** — дополнение существительного с *de* → ***dont***. Порядок слов французский: *dont j'ai oublié le titre* (не «чьё название»). *Duquel* нужен, только если перед существительным стоит предлог (*le roman **au titre duquel** je pense*)."
+  - q: "Voici l'amie ___ j'ai confié mes clés."
+    options: ["que", "à qui", "dont"]
+    answer: 1
+    topic: "c-05-relatifs-demonstratifs"
+    explain: "*Confier qch **à** qn* → предлог сохраняется, для лица — ***à qui*** (или *à laquelle*). *Que* — прямое дополнение, *dont* — дополнение с *de*."
+  - q: "Entre ces deux manteaux, je préfère ___ qui a une capuche."
+    options: ["celui-ci", "celui", "ce"]
+    answer: 1
+    topic: "c-05-relatifs-demonstratifs"
+    explain: "Перед относительным придаточным указательное местоимение стоит **без** *-ci / -là*: ***celui qui** a une capuche*. *Ce qui* — «то, что», для конкретного предмета (*manteau*) не подходит."
+  # c-06. Неопределённые слова, même, tout
+  - q: "Les enfants ont reçu un cadeau ___ ."
+    options: ["chaque", "chacune", "chacun"]
+    answer: 2
+    topic: "c-06-indefinis"
+    explain: "*Chaque* — только перед существительным; самостоятельно, «каждый», — ***chacun***. Род — по *enfants* (м. р.), поэтому не *chacune*."
+  - q: "Après le spectacle, elles étaient ___ contentes."
+    options: ["toutes", "tout", "toute"]
+    answer: 0
+    topic: "c-06-indefinis"
+    explain: "*Tout* «совсем» — наречие, но перед прилагательным **ж. р. на согласную** оно согласуется: ***toutes** contentes* (ср. *tout émues* — перед гласной не изменяется). *Toute* — ед. ч., а подлежащее *elles*."
+  - q: "Je n'ai rien vu ___ dans cette exposition."
+    options: ["intéressant", "d'intéressant", "de intéressant"]
+    answer: 1
+    topic: "c-06-indefinis"
+    explain: "После *rien, personne, quelque chose, quelqu'un* прилагательное вводится через **de** и стоит в м. р.: *rien **d'intéressant***. Перед гласной — элизия: *d'*."
+  # c-07. Наречие и отрицание
+  - q: "Elle a répondu ___ à toutes les questions."
+    options: ["intelligement", "intelligeamment", "intelligemment"]
+    answer: 2
+    topic: "c-07-adverbe-negation"
+    explain: "От прилагательных на *-ent* наречие образуется на **-emment**: *intelligent → **intelligemment*** (произносится [amɑ̃]). От *-ant* — *-amment*: *courant → couramment*."
+  - q: "Il m'a promis de ___ ."
+    options: ["ne dire rien", "rien ne dire", "ne rien dire"]
+    answer: 2
+    topic: "c-07-adverbe-negation"
+    explain: "При инфинитиве обе части отрицания *ne… rien* (как *ne… pas, ne… plus, ne… jamais*) стоят **перед** ним: *de **ne rien dire***. Исключение — *personne*: *de ne voir personne*."
+  - q: "Depuis ce matin, il ne fait ___ se plaindre."
+    options: ["pas que", "que", "rien que"]
+    answer: 1
+    topic: "c-07-adverbe-negation"
+    explain: "***Ne faire que** + infinitif* — «только и делать, что…»: *il ne fait que se plaindre*. *Ne… pas que* значит «не только», а *ne fait rien que* — не норма."
+  # c-08. Переходность, пассив, местоимённые глаголы
+  - q: "Elle ___ les valises au grenier."
+    options: ["est montée", "a monté", "s'est montée"]
+    answer: 1
+    topic: "c-08-voix-pronominaux"
+    explain: "*Monter* с прямым дополнением (*les valises*) — переходный глагол → спрягается с **avoir**: *elle **a monté** les valises*. С *être* — только без дополнения: *elle est montée au grenier*."
+  - q: "Ils se sont ___ toute la soirée au téléphone."
+    options: ["parlé", "parlés", "parlée"]
+    answer: 0
+    topic: "c-08-voix-pronominaux"
+    explain: "*Parler **à** qn* → *se* здесь косвенное дополнение, а причастие согласуется только с прямым, стоящим впереди. Поэтому ***parlé*** не изменяется (как *ils se sont téléphoné, souri, plu*)."
+  - q: "Je me ___ très bien cette soirée."
+    options: ["rappelle de", "rappelle", "souviens"]
+    answer: 1
+    topic: "c-08-voix-pronominaux"
+    explain: "*Se rappeler* — **прямое** дополнение: *je me **rappelle** cette soirée*. С *de* — *se souvenir*: *je me souviens **de** cette soirée*. *Se rappeler de* частотно в разговоре, но норма его не признаёт; *se souvenir* без *de* невозможно."
+  # c-09. Présent и будущие времена
+  - q: "Demain, elle ___ ses parents."
+    options: ["appellera", "appelera", "apellera"]
+    answer: 0
+    topic: "c-09-futurs"
+    explain: "*Appeler* удваивает **l** перед немым *e* — во всех формах futur: *j'appellerai, elle **appellera***. Корень *appel-* пишется с двумя *p*."
+  - q: "Il m'a promis la semaine dernière qu'il ___ le lendemain."
+    options: ["viendra", "vienne", "viendrait"]
+    answer: 2
+    topic: "c-09-futurs"
+    explain: "Будущее по отношению к прошлому (*il m'a promis*, *le lendemain*) → **futur dans le passé**, по форме совпадающее с conditionnel: *qu'il **viendrait***. *Promettre que* требует индикатива, поэтому *vienne* невозможно."
+  - q: "Marie n'a pas répondu à mon message : elle ne l'___ sans doute pas encore lu."
+    options: ["aura", "avait", "eut"]
+    answer: 0
+    topic: "c-09-futurs"
+    explain: "Futur antérieur выражает **предположение о прошлом**: *elle ne l'**aura** sans doute pas encore lu* — «наверное, ещё не прочитала». *Avait lu* требует другого прошлого момента, *eut lu* — книжный passé antérieur."
+  # c-10. Прошедшие времена
+  - q: "Elle ___ sa valise et sortit sans un mot."
+    options: ["prena", "prenit", "prit"]
+    answer: 2
+    topic: "c-10-passes"
+    explain: "Passé simple от *prendre* — на **-i-**, с усечённой основой: *je pris, elle **prit**, ils prirent*. Форм *prena* и *prenit* не существует."
+  - q: "Il ___ en Italie pendant dix ans, puis il est rentré en France."
+    options: ["vivait", "a vécu", "avait vécu"]
+    answer: 1
+    topic: "c-10-passes"
+    explain: "Действие длилось, но его срок **ограничен** (*pendant dix ans*) и оно закончено → passé composé: *il **a vécu***. Imparfait описывает фон без границ; plus-que-parfait ставит действие раньше другого прошлого, а здесь порядок прямой (*puis*)."
+  - q: "Je ___ de rentrer quand tu as appelé."
+    options: ["venais", "suis venu", "viens"]
+    answer: 0
+    topic: "c-10-passes"
+    explain: "«Только что» в плане прошлого — passé immédiat в прошедшем: ***venais de** + infinitif*. *Viens de* — только что относительно настоящего, *suis venu de rentrer* невозможно."
+  # c-11. Согласование времён, императив
+  - q: "Elle m'a expliqué qu'elle ___ son passeport la veille."
+    options: ["avait perdu", "a perdu", "perdait"]
+    answer: 0
+    topic: "c-11-concordance-imperatif"
+    explain: "Главное в прошедшем (*a expliqué*), действие придаточного — **раньше** (*la veille*) → plus-que-parfait: *qu'elle **avait perdu***. Imparfait означал бы одновременность."
+  - q: "Des pommes ? ___ trois, s'il te plaît."
+    options: ["Achètes-en", "Achète-en", "Achetez-en"]
+    answer: 0
+    topic: "c-11-concordance-imperatif"
+    explain: "Императив глаголов на *-er* на *tu* пишется без *-s*, но **перед *en* и *y*** *-s* возвращается ради связки: ***achètes-en***, *vas-y*. *Achetez-en* — форма на *vous*, а *s'il te plaît* требует *tu*."
+  - q: "Ne ___ pas, j'ai encore besoin de toi !"
+    options: ["va-t'en", "t'en vas", "t'en va"]
+    answer: 2
+    topic: "c-11-concordance-imperatif"
+    explain: "В отрицательном императиве местоимения уходят **перед** глагол в обычном порядке: *va-t'en → ne **t'en va** pas*. Форма императива — *va* без *-s*; *vas* — индикатив."
+  # c-12. Conditionnel
+  - q: "Si j'avais su, je ne ___ pas venu."
+    options: ["serai", "serais", "suis"]
+    answer: 1
+    topic: "c-12-conditionnel"
+    explain: "Нереальное условие в прошлом: *si* + plus-que-parfait → **conditionnel passé**: *je ne **serais** pas venu*. *Serai venu* — futur antérieur, в этой схеме невозможен."
+  - q: "Si tu ___ plus tôt hier soir, tu ne serais pas si fatigué maintenant."
+    options: ["t'étais couché", "te couchais", "te serais couché"]
+    answer: 0
+    topic: "c-12-conditionnel"
+    explain: "Смешанная схема: условие в прошлом (*hier soir*) → *si* + plus-que-parfait, следствие в настоящем (*maintenant*) → conditionnel présent: *si tu **t'étais couché**…, tu ne serais pas…*. После условного *si* conditionnel не ставят."
+  - q: "Au cas où il ___ , prends un parapluie."
+    options: ["pleuvrait", "pleuvra", "pleuve"]
+    answer: 0
+    topic: "c-12-conditionnel"
+    explain: "***Au cas où*** («на случай, если») всегда требует **conditionnel**: *au cas où il **pleuvrait***. Ни futur, ни subjonctif после него не ставят."
+  # c-13. Subjonctif
+  - q: "Je doute qu'il ___ la vérité."
+    options: ["sait", "saura", "sache"]
+    answer: 2
+    topic: "c-13-subjonctif"
+    explain: "*Douter que* — сомнение → subjonctif: *je doute qu'il **sache***. У *savoir* особая основа subjonctif: *que je sache, que nous sachions*."
+  - q: "Il faut que nous ___ ce dossier ensemble."
+    options: ["étudiions", "étudions", "étudierons"]
+    answer: 0
+    topic: "c-13-subjonctif"
+    explain: "Subjonctif présent для *nous* = основа + **-ions**: *étudi- + -ions* → *que nous **étudiions*** (два *i*). *Étudions* — индикатив, хотя на слух почти не отличается."
+  - q: "Partons avant qu'il ___ nuit."
+    options: ["fasse", "fait", "fera"]
+    answer: 0
+    topic: "c-13-subjonctif"
+    explain: "***Avant que*** — действие ещё не наступило → subjonctif: *avant qu'il **fasse** nuit*. (Ср. *après que* — с индикативом.)"
+  # c-14. Неличные формы, каузатив
+  - q: "Ce sont des arguments ___ ."
+    options: ["convainquants", "convaincant", "convaincants"]
+    answer: 2
+    topic: "c-14-formes-non-personnelles"
+    explain: "Качество, а не действие → **adjectif verbal**, согласуется: ***convaincants***. Он пишется через *c*; *convainquant* — participe présent (*en convainquant ses collègues*), и он не изменяется."
+  - q: "Il s'est cassé la jambe ___ ."
+    options: ["skiant", "en skiant", "en ayant skié"]
+    answer: 1
+    topic: "c-14-formes-non-personnelles"
+    explain: "Обстоятельство, одновременное с главным действием, с тем же подлежащим → **gérondif**: ***en skiant*** — «катаясь на лыжах». *En ayant skié* означал бы предшествование, а голый *skiant* не выражает обстоятельства."
+  - q: "Ma voiture ? Je ___ ai fait réparer hier."
+    options: ["l'", "lui", "y"]
+    answer: 0
+    topic: "c-14-formes-non-personnelles"
+    explain: "При *faire* + infinitif местоимение-дополнение инфинитива ставится **перед *faire***: *je **l'**ai fait réparer* (*la voiture* — прямое дополнение *réparer*). *Lui* — косвенное дополнение, *y* — обстоятельство места."
+  # c-15. Косвенная речь, косвенный вопрос, выделение
+  - q: "Il m'a demandé ___ je voulais boire."
+    options: ["ce que", "qu'est-ce que", "que"]
+    answer: 0
+    topic: "c-15-discours-relief"
+    explain: "В косвенном вопросе *qu'est-ce que* превращается в ***ce que***: *il m'a demandé **ce que** je voulais*. *Qu'est-ce que* — только в прямом вопросе."
+  - q: "C'est moi qui ___ raison."
+    options: ["a", "avons", "ai"]
+    answer: 2
+    topic: "c-15-discours-relief"
+    explain: "После *c'est… qui* глагол согласуется с **выделенным** местоимением: *c'est **moi** qui **ai***, *c'est toi qui as*, *c'est nous qui avons*."
+  - q: "La semaine dernière, Léa m'a dit : « Je partirai demain. » → Léa m'a dit qu'elle partirait ___ ."
+    options: ["demain", "hier", "le lendemain"]
+    answer: 2
+    topic: "c-15-discours-relief"
+    explain: "Слова сказаны в прошлом, и их «завтра» тоже уже в прошлом → указатель времени меняется: *demain → **le lendemain***, *hier → la veille*, *aujourd'hui → ce jour-là*."

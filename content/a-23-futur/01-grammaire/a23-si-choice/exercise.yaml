@@ -1,0 +1,47 @@
+title: "Si + présent → futur"
+type: choice
+intro: "Выбери верную форму. После si «если» — présent, в главном предложении — futur simple или повелительное наклонение."
+hints:
+  - "Si tu viens demain, nous irons au parc."
+  - "Si = «ли» (je ne sais pas si…) — будущее возможно."
+items:
+  - q: "Si tu ___ libre demain, on ira au parc."
+    options: ["es", "seras", "étais"]
+    answer: 0
+    explain: "После *si* «если» — **présent**: *si tu es*."
+  - q: "S'il fait beau dimanche, nous ___ à la campagne."
+    options: ["irons", "allions", "sommes allés"]
+    answer: 0
+    explain: "Следствие условия о будущем → **futur simple**: *nous irons*."
+  - q: "Si vous ___ Paul, dites-lui bonjour."
+    options: ["voyez", "verrez", "voyiez"]
+    answer: 0
+    explain: "Условие → **présent**: *si vous voyez*. В главном — повелительное *dites*."
+  - q: "Si tu vas à la boulangerie, ___-moi une baguette."
+    options: ["achète", "achèteras", "achètes"]
+    answer: 0
+    explain: "В главном предложении — повелительное наклонение: **achète-moi** (у глаголов на *-er* в *tu* без *-s*)."
+  - q: "Si nous ne partons pas maintenant, nous ___ le train."
+    options: ["manquerons", "manquions", "avons manqué"]
+    answer: 0
+    explain: "Следствие в будущем → **futur simple**: *nous manquerons*."
+  - q: "Je ne sais pas s'il ___ demain : il n'a rien dit."
+    options: ["viendra", "venait", "viens"]
+    answer: 0
+    explain: "Здесь *si* = «ли» (косвенный вопрос), а не «если», поэтому будущее возможно: **viendra**."
+  - q: "Si tu ___ ce livre, tu comprendras tout."
+    options: ["lis", "liras", "lisais"]
+    answer: 0
+    explain: "*Si* «если» + **présent**: *si tu lis*."
+  - q: "S'il ___ demain, le match sera annulé."
+    options: ["pleut", "pleuvra", "pleuvait"]
+    answer: 0
+    explain: "Условие → **présent**: *s'il pleut*."
+  - q: "Si elle a le temps, elle ___ chez toi."
+    options: ["passera", "passait", "est passée"]
+    answer: 0
+    explain: "Следствие → **futur simple**: *elle passera*."
+  - q: "Nous ___ à la plage s'il fait chaud."
+    options: ["irons", "allions", "sommes allés"]
+    answer: 0
+    explain: "Главное предложение может стоять первым; время то же — **futur**: *nous irons*."

@@ -1,0 +1,55 @@
+title: "Opposition или concession?"
+type: choice
+intro: "Выбери связку, которая подходит и по смыслу, и по грамматике (что стоит после неё: существительное, indicatif, subjonctif, инфинитив?)."
+hints:
+  - "malgré, contrairement à + существительное; alors que, même si + indicatif; bien que + subjonctif."
+  - "Сравнение двух разных фактов — opposition; «вопреки ожиданию» — concession."
+items:
+  - q: "___ son frère, Lucie ne supporte pas les fêtes bruyantes."
+    options: ["Contrairement à", "Alors que", "Bien que"]
+    answer: 0
+    explain: "Дальше — существительное (*son frère*) и простое сравнение → **contrairement à**."
+  - q: "Les jeunes achètent de plus en plus d'occasion, ___ leurs parents sont attachés au neuf."
+    options: ["malgré", "alors que", "bien que"]
+    answer: 1
+    explain: "Два разных факта противопоставлены, дальше — предложение в indicatif (*sont*) → **alors que**. После *bien que* было бы *soient*."
+  - q: "___ la crise, les ventes de vélos ont augmenté."
+    options: ["Bien que", "Même si", "Malgré"]
+    answer: 2
+    explain: "Дальше — существительное (*la crise*) → предлог **malgré**. *Bien que* и *même si* требуют предложения."
+  - q: "___ il fasse froid, les terrasses des cafés sont pleines."
+    options: ["Même si", "Bien qu'", "Malgré qu'"]
+    answer: 1
+    explain: "*fasse* — subjonctif → **bien qu'**. После *même si* нужен indicatif (*même s'il fait froid*); *malgré que* — разговорное, на экзамене не используем."
+  - q: "Ce quartier n'est pas dangereux ; ___, c'est l'un des plus calmes de la ville."
+    options: ["au contraire", "pourtant", "malgré tout"]
+    answer: 0
+    explain: "Вторая часть **опровергает** отрицательное утверждение («не опасный — наоборот, самый спокойный») → **au contraire**."
+  - q: "Il a beaucoup révisé ; ___, il a raté son examen."
+    options: ["en revanche", "pourtant", "au contraire"]
+    answer: 1
+    explain: "Результат противоречит ожиданию (много учил — должен был сдать) → concession: **pourtant**."
+  - q: "J'___ beau lui répéter de ranger sa chambre, il ne m'écoute pas."
+    options: ["ai", "suis", "fais"]
+    answer: 0
+    explain: "*Avoir beau* + инфинитив — «сколько ни…»: *j'**ai** beau lui répéter*."
+  - q: "La location est chère ; ___, l'appartement est très bien situé."
+    options: ["en revanche", "bien que", "malgré"]
+    answer: 0
+    explain: "Две характеристики сопоставляются (минус и плюс), связка между двумя независимыми предложениями → **en revanche**."
+  - q: "___ tu ne sois pas d'accord, je vais accepter ce poste."
+    options: ["Même si", "Quoique", "Malgré que"]
+    answer: 1
+    explain: "*sois* — subjonctif → **quoique** (= *bien que*). *Même si* требует indicatif (*même si tu n'es pas d'accord*)."
+  - q: "___ partir en vacances à l'étranger, ils ont redécouvert leur région."
+    options: ["Au lieu de", "Malgré", "Alors que"]
+    answer: 0
+    explain: "Дальше — инфинитив (*partir*) и замена одного действия другим → **au lieu de**."
+  - q: "___ tu me fais des excuses, je ne viendrai pas."
+    options: ["Bien que", "Même si", "Malgré"]
+    answer: 1
+    explain: "*fais* — indicatif (subjonctif был бы *fasses*) → **même si**: «даже если ты извинишься, я не приду». *Bien que* требует subjonctif."
+  - q: "Elle est restée très simple, ___ son immense succès."
+    options: ["malgré", "même si", "alors que"]
+    answer: 0
+    explain: "Дальше — существительное (*son succès*) и смысл «вопреки» → **malgré**."

@@ -1,0 +1,43 @@
+title: "Futur simple или futur antérieur?"
+type: gap
+intro: "Поставь глагол в скобках в futur simple или futur antérieur. Спроси себя: это действие должно **завершиться** раньше другого будущего действия?"
+hints:
+  - "Завершится раньше → futur antérieur; следует за ним → futur simple."
+  - "После quand / dès que о будущем никогда не présent."
+items:
+  - q: "Dès qu'elle aura obtenu son diplôme, elle ___ (chercher) un emploi à l'étranger."
+    answers: ["cherchera"]
+    explain: "Диплом — раньше (*aura obtenu*), поиск работы — следующее действие → futur simple: **cherchera**."
+  - q: "Nous commanderons le dessert quand nous ___ (finir) le plat principal."
+    answers: ["aurons fini", "aurons terminé"]
+    explain: "Основное блюдо должно быть доедено **до** десерта → futur antérieur: **aurons fini**."
+  - q: "Quand tu ___ (venir) à Lyon, je te ferai visiter le vieux quartier."
+    answers: ["viendras"]
+    explain: "Приезд и экскурсия совпадают по времени («когда приедешь — покажу») → futur simple **viendras**. Futur antérieur *seras venu* тут звучит тяжеловесно."
+  - q: "Une fois que les travaux seront terminés, la boulangerie ___ (rouvrir)."
+    answers: ["rouvrira"]
+    explain: "Работы завершатся раньше (*seront terminés*), открытие — потом → futur simple: **rouvrira**."
+  - q: "Je te rendrai ton livre dès que je l'___ (lire)."
+    answers: ["aurai lu"]
+    explain: "Вернуть можно только **прочитав** → futur antérieur **aurai lu**. Причастие не согласуется: *l'* = *ton livre* (м. р.)."
+  - q: "Lorsque vous ___ (arriver) à la gare, prenez le bus numéro 3."
+    answers: ["arriverez", "serez arrivés", "serez arrivé", "serez arrivée", "serez arrivées"]
+    explain: "Возможны оба: *arriverez* — «когда будете на вокзале»; *serez arrivé(e)(s)* — подчёркивает, что сначала надо доехать. Présent (*arrivez*) — ошибка."
+  - q: "Après qu'ils auront visité l'appartement, ils ___ (prendre) leur décision."
+    answers: ["prendront"]
+    explain: "Осмотр — раньше (*auront visité*), решение — следующее → futur simple **prendront**."
+  - q: "Je partirai en vacances seulement quand j'___ (rendre) mon rapport."
+    answers: ["aurai rendu"]
+    explain: "Отчёт должен быть **сдан** до отпуска → futur antérieur **aurai rendu**."
+  - q: "Quand il ___ (faire) beau, nous mangerons dans le jardin."
+    answers: ["fera"]
+    explain: "Состояние погоды и обед совпадают по времени → futur simple **fera**."
+  - q: "Ne m'appelle pas avant 20 heures : je ___ (ne pas encore rentrer)."
+    answers: ["ne serai pas encore rentré", "ne serai pas encore rentrée"]
+    explain: "К моменту в будущем (20 часов) действие ещё **не завершится** → futur antérieur с отрицанием: **ne serai pas encore rentré(e)**."
+  - q: "Aussitôt que le magasin aura reçu les nouvelles chaussures, on vous ___ (prévenir)."
+    answers: ["préviendra"]
+    explain: "Получение — раньше, уведомление — потом → futur simple от *prévenir* (как *venir*): **préviendra**."
+  - q: "Elle ne sera pas tranquille tant qu'elle n'___ (parler) à son médecin."
+    answers: ["aura pas parlé"]
+    explain: "*Tant que … ne … pas* — «пока не»: успокоится только после разговора → futur antérieur: *n'**aura pas parlé***."

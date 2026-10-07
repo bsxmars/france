@@ -1,0 +1,216 @@
+title: "Итоговый тест B1 → B2"
+type: choice
+intro: |
+  40 вопросов — по пять на каждое досье 1–8. Выбери один вариант. **Не знаешь — пропусти**, не угадывай: так сравнение с входным тестом будет честным.
+
+  Словарь не используй. Ориентир по времени — 25–30 минут.
+pass: 1
+items:
+  # Досье 1. Participe présent, futur antérieur, уступка, союзы времени
+  - q: "Ce travail est vraiment ___ : je rentre épuisé chaque soir."
+    options: ["fatiguant", "en fatiguant", "fatigant"]
+    answer: 2
+    topic: "b-01-participe-concession"
+    explain: "Здесь качество, а не действие (*est … épuisé*) → adjectif verbal, и у *fatiguer* он пишется без **u**: ***fatigant***. *Fatiguant* — participe présent (*un travail fatiguant les ouvriers*), *en fatiguant* — gérondif."
+  - q: "___ ce film deux fois, je n'ai pas envie de le revoir."
+    options: ["Voyant", "Ayant vu", "Étant vu"]
+    answer: 1
+    topic: "b-01-participe-concession"
+    explain: "Действие завершилось **раньше** главного и объясняет его → participe composé: ***ayant vu*** (= *comme j'ai déjà vu*). *Voyant* — одновременность, *étant vu* — пассив («будучи увиденным»)."
+  - q: "Marc n'est toujours pas là : il ___ son train."
+    options: ["aura raté", "ratera", "avait raté"]
+    answer: 0
+    topic: "b-01-participe-concession"
+    explain: "Futur antérieur выражает и **предположение о прошлом**: *il **aura raté** son train* — «наверное, опоздал на поезд». *Ratera* — будущее, *avait raté* — предшествование другому прошлому, здесь его нет."
+  - q: "Nous ouvrirons les cadeaux après que tous les invités ___ ."
+    options: ["soient arrivés", "seront arrivés", "arriveraient"]
+    answer: 1
+    topic: "b-01-participe-concession"
+    explain: "Две ловушки сразу. **Après que** по норме требует indicatif (не subjonctif, как *avant que*), а действие в будущем, завершённое раньше другого (*nous ouvrirons*), — это futur antérieur: *après que les invités **seront arrivés***."
+  - q: "___ ses nombreux efforts, il n'a pas obtenu le poste."
+    options: ["Bien que", "Même si", "Malgré", "Alors que"]
+    answer: 2
+    topic: "b-01-participe-concession"
+    explain: "Дальше идёт **существительное** (*ses efforts*), а не предложение → предлог **malgré**. *Bien que, même si, alors que* — союзы, после них нужен глагол: *bien qu'il ait fait des efforts*."
+  # Досье 2. Времена прошедшего, гипотезы о прошлом, passé simple, предлоги места
+  - q: "Hier, j'___ pendant deux heures, puis je suis sorti me promener."
+    options: ["ai travaillé", "travaillais", "avais travaillé"]
+    answer: 0
+    topic: "b-02-recit-passe"
+    explain: "Действие с чёткой длительностью (*pendant deux heures*), за которым следует следующее событие (*puis*), → passé composé: ***j'ai travaillé***. Русское несовершенное «работал два часа» тянет к imparfait, но ограниченный отрезок — это событие."
+  - q: "Avant de partir, elle ___ la valise du placard."
+    options: ["est sortie", "a sortie", "a sorti"]
+    answer: 2
+    topic: "b-02-recit-passe"
+    explain: "С прямым дополнением (*la valise*) *sortir* значит «вынуть» и спрягается с **avoir**: *elle **a sorti** la valise*. Дополнение стоит после глагола → согласования нет."
+  - q: "Si j'avais accepté ce poste à Montréal, j'___ aujourd'hui au Canada."
+    options: ["aurais habité", "habiterais", "habiterai"]
+    answer: 1
+    topic: "b-02-recit-passe"
+    explain: "Смешанная гипотеза: условие в прошлом (*si + plus-que-parfait*), следствие — **сейчас** (*aujourd'hui*) → conditionnel présent: *j'**habiterais***. *Aurais habité* относилось бы к прошлому."
+  - q: "« Ils firent leurs valises et partirent à l'aube. » « Firent » est le passé simple du verbe…"
+    options: ["finir", "fuir", "faire"]
+    answer: 2
+    topic: "b-02-recit-passe"
+    explain: "*Firent* — passé simple от **faire** (*il fit, ils firent*). От *finir* — *ils finirent*, от *fuir* — *ils fuirent*."
+  - q: "Nous avons pique-niqué ___ lac, à l'ombre d'un grand arbre."
+    options: ["au bord du", "à bord du", "au bord de le"]
+    answer: 0
+    topic: "b-02-recit-passe"
+    explain: "«На берегу» → ***au bord de***, *de + le* сливаются в *du*: *au bord du lac*. *À bord de* — «на борту» (корабля, самолёта)."
+  # Досье 3. Сравнение, относительные местоимения, mise en relief, y и en
+  - q: "Voici l'association pour ___ je travaille depuis dix ans."
+    options: ["laquelle", "lequel", "que", "dont"]
+    answer: 0
+    topic: "b-03-comparaison-relatifs"
+    explain: "После предлога (*pour*) о предмете или организации — форма **lequel**, согласованная с антецедентом: *l'association* — ж. р. → ***pour laquelle***."
+  - q: "Le parc près ___ nous habitons ferme à vingt heures."
+    options: ["dont", "duquel", "où", "lequel"]
+    answer: 1
+    topic: "b-03-comparaison-relatifs"
+    explain: "*Près de* — составной предлог. После составных предлогов с *de* (*près de, à côté de, au milieu de*) **dont** не ставится: нужно ***duquel*** (*de + lequel*). Типичная ловушка: «*de* → значит *dont*»."
+  - q: "___ j'ai besoin, c'est d'un peu de calme."
+    options: ["Ce que", "Ce qui", "Ce dont"]
+    answer: 2
+    topic: "b-03-comparaison-relatifs"
+    explain: "*Avoir besoin **de*** → ***ce dont***. Предлог *de* сохраняется и во второй части: *c'est **d'**un peu de calme*."
+  - q: "Ce petit retard est le ___ de mes soucis."
+    options: ["moindre", "moins", "mineur"]
+    answer: 0
+    topic: "b-03-comparaison-relatifs"
+    explain: "«Наименьшая из забот» → ***le moindre*** — превосходная степень от *petit* в абстрактном смысле. *Le moins* — наречие, перед существительным оно требовало бы *de*; *mineur* сравнительной степени не образует."
+  - q: "— Tu te souviens de ton premier professeur ? — Oui, je me souviens très bien ___ ."
+    options: ["en", "lui", "de lui"]
+    answer: 2
+    topic: "b-03-comparaison-relatifs"
+    explain: "*Se souvenir **de** qqn* — речь о **человеке** → ударная форма после предлога: ***de lui***. *En* стоял бы перед глаголом (*je m'en souviens*) и чаще заменяет предметы; *lui* без *de* — это «ему»."
+  # Досье 4. Вопрос с инверсией, длительность, причина и следствие
+  - q: "Quelle question est correcte ?"
+    options: ["Pourquoi a-t-elle ta sœur refusé l'offre ?", "Pourquoi ta sœur a-elle refusé l'offre ?", "Pourquoi ta sœur a-t-elle refusé l'offre ?"]
+    answer: 2
+    topic: "b-04-inversion-duree-cause"
+    explain: "Подлежащее — существительное → **сложная инверсия**: существительное остаётся впереди, после вспомогательного глагола его повторяет местоимение: *ta sœur **a-t-elle** refusé*. Между *a* и *elle* обязательно **-t-**."
+  - q: "Le train part ___ dix minutes : dépêche-toi !"
+    options: ["en", "dans", "pendant", "depuis"]
+    answer: 1
+    topic: "b-04-inversion-duree-cause"
+    explain: "«Через десять минут» от настоящего момента → ***dans***. *En dix minutes* — «за десять минут» (сколько времени заняло действие)."
+  - q: "— Pourquoi tu ne viens pas ? — ___ j'ai trop de travail."
+    options: ["Parce que", "Puisque", "Comme"]
+    answer: 0
+    topic: "b-04-inversion-duree-cause"
+    explain: "Ответ на *pourquoi* → ***parce que***. *Puisque* вводит причину, уже известную собеседнику, а *comme* стоит только в начале фразы перед главным предложением — ответом на вопрос они не бывают."
+  - q: "___ s'entraîner tous les jours, elle a fini par gagner le marathon."
+    options: ["Grâce à", "À force de", "À cause de"]
+    answer: 1
+    topic: "b-04-inversion-duree-cause"
+    explain: "Причина — повторяющееся усилие, и дальше стоит **инфинитив** → ***à force de***. *Grâce à* и *à cause de* ставятся перед существительным (*grâce à son entraînement*)."
+  - q: "Il parlait ___ vite que personne ne le comprenait."
+    options: ["si", "tant", "tellement de"]
+    answer: 0
+    topic: "b-04-inversion-duree-cause"
+    explain: "Перед наречием или прилагательным — ***si*** (или *tellement*) … *que*. *Tant* ставится при глаголе (*il parlait tant que…*), *tellement de* — перед существительным (*tellement de mots*)."
+  # Досье 5. Пассив, subjonctif для позиции, нюансы сравнения
+  - q: "Ma voisine s'est ___ voler son sac dans le métro."
+    options: ["fait", "faite", "faits"]
+    answer: 0
+    topic: "b-05-passif-subjonctif"
+    explain: "*Se faire + infinitif* — «с ней случилось»: у неё украли сумку. Причастие **fait** перед инфинитивом **не согласуется**, даже с подлежащим женского рода: *elle s'est **fait** voler*."
+  - q: "D'ici 2030, deux nouvelles lignes de tramway ___ ."
+    options: ["auront construit", "seront construit", "auront été construites", "auront été construit"]
+    answer: 2
+    topic: "b-05-passif-subjonctif"
+    explain: "Линии не строят сами — нужен **пассив** в futur antérieur (*d'ici 2030* — завершится к сроку): *auront **été construites***. Причастие при *être* согласуется с подлежащим: *lignes* — ж. р., мн. ч."
+  - q: "J'espère que la réforme ___ adoptée avant l'été."
+    options: ["soit", "sera", "serait"]
+    answer: 1
+    topic: "b-05-passif-subjonctif"
+    explain: "**Espérer que** — исключение из «воли и желания»: после него **indicatif**, обычно futur: *j'espère qu'elle **sera** adoptée*. Ср.: *je souhaite qu'elle **soit** adoptée*."
+  - q: "Qu'il ___ ou qu'il neige, la course aura lieu dimanche."
+    options: ["pleuve", "pleut", "pleuvra"]
+    answer: 0
+    topic: "b-05-passif-subjonctif"
+    explain: "Альтернатива ***que… ou que…*** («идёт ли дождь или снег — неважно») → subjonctif: *qu'il **pleuve** ou qu'il neige*."
+  - q: "Le voyage était ___ agréable que nous avions un guide excellent."
+    options: ["de plus en plus", "autant plus", "d'autant plus"]
+    answer: 2
+    topic: "b-05-passif-subjonctif"
+    explain: "«Тем более приятной, что…» → ***d'autant plus … que*** + indicatif. Без *d'* оборота нет, а *de plus en plus* («всё более») с *que* не сочетается."
+  # Досье 6. Условие, conditionnel, неопределённые слова, согласование причастия
+  - q: "Je laisse une clé chez la voisine au cas où tu ___ avant moi."
+    options: ["rentres", "rentrerais", "rentreras"]
+    answer: 1
+    topic: "b-06-condition-indefinis"
+    explain: "**Au cas où** («на случай, если») всегда требует **conditionnel**: *au cas où tu **rentrerais***. Русское «если вернёшься» тянет к présent или futur — это ошибка."
+  - q: "Je veux bien t'aider, pourvu que tu me ___ la vérité."
+    options: ["dises", "dis", "diras"]
+    answer: 0
+    topic: "b-06-condition-indefinis"
+    explain: "**Pourvu que** («лишь бы») требует subjonctif: *que tu **dises***."
+  - q: "Quelle phrase présente l'information comme non vérifiée ?"
+    options: ["L'incendie a été provoqué par une cigarette.", "L'incendie avait été provoqué par une cigarette.", "L'incendie aurait été provoqué par une cigarette."]
+    answer: 2
+    topic: "b-06-condition-indefinis"
+    explain: "Conditionnel journalistique: журналист передаёт непроверенные сведения → conditionnel passé ***aurait été provoqué*** = «по имеющимся данным, было вызвано». Две другие фразы подают это как факт."
+  - q: "___ de ces candidats n'a le profil recherché."
+    options: ["Chaque", "Aucuns", "Tous", "Aucun"]
+    answer: 3
+    topic: "b-06-condition-indefinis"
+    explain: "«Ни один из» → ***aucun… ne***, в единственном числе: *aucun **n'a***. *Chaque* не бывает местоимением (*chacun*), *tous* потребовал бы множественного числа и без *ne*."
+  - q: "Quelle robe as-tu ___ pour la soirée ?"
+    options: ["choisi", "choisie", "choisies"]
+    answer: 1
+    topic: "b-06-condition-indefinis"
+    explain: "Прямое дополнение *quelle robe* стоит **перед** *avoir* → причастие согласуется с ним: ***choisie*** (ж. р., ед. ч.)."
+  # Досье 7. Косвенная речь, двойные местоимения
+  - q: "« Tu viens ce soir ? » m'a demandé Léa. → Léa m'a demandé ___ je venais ce soir-là."
+    options: ["si", "que", "ce que", "est-ce que"]
+    answer: 0
+    topic: "b-07-discours-pronoms"
+    explain: "Общий вопрос (ответ «да / нет») в косвенной речи вводится ***si***. *Est-ce que* в косвенном вопросе не сохраняется, *ce que* — для «что»."
+  - q: "Il a dit : « Je partirai demain. » (C'était il y a un mois.) → Il a dit qu'il partirait ___ ."
+    options: ["demain", "hier", "le lendemain"]
+    answer: 2
+    topic: "b-07-discours-pronoms"
+    explain: "Слова сказаны месяц назад, поэтому «завтра» относительно того дня → ***le lendemain***. *Demain* значило бы завтрашний день от сегодняшнего."
+  - q: "Le médecin m'a dit : « Reposez-vous ! » → Le médecin m'a dit ___ ."
+    options: ["de me reposer", "de vous reposer", "que je me reposais"]
+    answer: 0
+    topic: "b-07-discours-pronoms"
+    explain: "Просьба или совет в повелительном наклонении → ***de + инфинитив***, а лицо меняется на того, кому сказали: *de **me** reposer*. *Que je me reposais* сообщало бы факт («что я отдыхаю»), а не совет."
+  - q: "— Tu as parlé de ce projet à ta directrice ? — Oui, je ___ ai parlé."
+    options: ["en lui", "la lui", "lui en"]
+    answer: 2
+    topic: "b-07-discours-pronoms"
+    explain: "*À ta directrice* → **lui**, *de ce projet* → **en**. **En** всегда идёт последним: *je **lui en** ai parlé*. *La* здесь нет: *parler de* не имеет прямого дополнения."
+  - q: "Ces documents, ne ___ envoie pas avant lundi !"
+    options: ["les-moi", "me les", "les me"]
+    answer: 1
+    topic: "b-07-discours-pronoms"
+    explain: "В **отрицательном** императиве местоимения стоят перед глаголом в обычном порядке: ***ne me les envoie pas***. Порядок *les-moi* с дефисами — только в утвердительном: *envoie-les-moi*."
+  # Досье 8. Subjonctif в относительных придаточных, мнение, вероятность, ne… ni… ni…
+  - q: "Je rêve d'un appartement qui ___ près de la mer et pas trop cher."
+    options: ["soit", "est", "sera"]
+    answer: 0
+    topic: "b-08-subjonctif-negation"
+    explain: "Квартиры пока нет, описывается **желаемое** качество (*je rêve d'un…*) → subjonctif в относительном придаточном: *qui **soit***."
+  - q: "Il me semble que ce musée ___ fermé le lundi."
+    options: ["soit", "est", "sois"]
+    answer: 1
+    topic: "b-08-subjonctif-negation"
+    explain: "***Il me semble que*** = «мне кажется, я думаю» — мнение → indicatif: *est*. Не путай с безличным *il semble que* («похоже, что»), после которого обычно subjonctif."
+  - q: "Il est peu probable que la réunion ___ lieu demain."
+    options: ["ait", "aura", "a"]
+    answer: 0
+    topic: "b-08-subjonctif-negation"
+    explain: "*Il est probable que* + indicatif, но ***peu** probable* переводит в зону сомнения → subjonctif: *qu'elle **ait** lieu*."
+  - q: "Peut-être qu'elle ___ déjà partie : chez elle, tout est éteint."
+    options: ["soit", "est", "ait"]
+    answer: 1
+    topic: "b-08-subjonctif-negation"
+    explain: "***Peut-être que*** — наречие, а не безличный оборот, поэтому после него **indicatif**: *elle **est** partie*. Русское «возможно» тянет к subjonctif, как после *il est possible que*. *Partir* спрягается с *être*, так что *ait* не подходит в любом случае."
+  - q: "Il ne boit ___ ."
+    options: ["ni du café ni du thé", "ni café ni thé", "ni de café ni de thé"]
+    answer: 1
+    topic: "b-08-subjonctif-negation"
+    explain: "После ***ni… ni…*** частичный артикль (*du, de la, des*) исчезает совсем — ни *du*, ни *de*: *il ne boit **ni café ni thé***. Определённый артикль сохранился бы: *il n'aime ni le café ni le thé*."

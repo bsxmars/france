@@ -1,0 +1,43 @@
+title: "Найди ошибку в роде"
+type: error
+intro: "В каждом предложении **одна** ошибка в роде существительного (её видно по артиклю, местоимению или прилагательному). Исправь и отправь предложение целиком."
+hints:
+  - "М. р.: orage, incendie, éloge, musée, silence, rôle, groupe, système, pétale, hémisphère."
+  - "Ж. р.: oasis, icône, orthographe, atmosphère, espèce, interview, idole, méthode, dent."
+items:
+  - q: "Une violente orage a éclaté au-dessus de la ville."
+    answers: ["Un violent orage a éclaté au-dessus de la ville."]
+    explain: "*Orage* — м. р.: ***un violent orage***. Меняются и артикль, и прилагательное."
+  - q: "Le ministre a prononcé une long éloge du savant disparu."
+    answers: ["Le ministre a prononcé un long éloge du savant disparu."]
+    explain: "*Éloge* — м. р.: ***un long éloge***."
+  - q: "Les pompiers ont mis trois heures à maîtriser l'incendie, qui était très étendue."
+    answers: ["Les pompiers ont mis trois heures à maîtriser l'incendie, qui était très étendu."]
+    explain: "*Incendie* — м. р., поэтому причастие-прилагательное в м. р.: ***étendu***."
+  - q: "Après des jours de marche dans le désert, ils ont enfin aperçu un oasis."
+    answers: ["Après des jours de marche dans le désert, ils ont enfin aperçu une oasis."]
+    explain: "*Oasis* — ж. р.: ***une oasis***."
+  - q: "Il régnait dans la salle une atmosphère lourd et tendu."
+    answers: ["Il régnait dans la salle une atmosphère lourde et tendue."]
+    explain: "*Atmosphère* — ж. р.: ***lourde et tendue***. Артикль *une* был верен — ошибка в согласовании прилагательных."
+  - q: "Le silence qui suivit sa déclaration fut pesante."
+    answers: ["Le silence qui suivit sa déclaration fut pesant."]
+    explain: "*Silence* — м. р. (исключение среди слов на *-ence*): ***pesant***."
+  - q: "Dans ce film, elle joue une rôle secondaire mais décisif."
+    answers: ["Dans ce film, elle joue un rôle secondaire mais décisif."]
+    explain: "*Rôle* — м. р. (по-русски «роль» — ж. р., отсюда ошибка): ***un rôle***."
+  - q: "La lycée où j'ai fait mes études a été entièrement rénové."
+    answers: ["Le lycée où j'ai fait mes études a été entièrement rénové."]
+    explain: "*Lycée*, как *musée*, — м. р. несмотря на *-ée*: ***le lycée***."
+  - q: "Cette chanteuse est devenue un véritable icône pour toute une génération."
+    answers: ["Cette chanteuse est devenue une véritable icône pour toute une génération."]
+    explain: "*Icône* — ж. р.: ***une véritable icône***."
+  - q: "Les pétales de cette rose sont toutes fanées."
+    answers: ["Les pétales de cette rose sont tous fanés."]
+    explain: "*Pétale* — м. р.: ***tous fanés***."
+  - q: "Le journaliste a obtenu un interview exclusif du président."
+    answers: ["Le journaliste a obtenu une interview exclusive du président."]
+    explain: "*Interview* — ж. р. (как *une entrevue*): ***une interview exclusive***."
+  - q: "Les soldes d'hiver sont terminées depuis une semaine."
+    answers: ["Les soldes d'hiver sont terminés depuis une semaine."]
+    explain: "*Les soldes* (распродажа) — м. р.: ***terminés***. Ошибку в этом слове делают и носители."

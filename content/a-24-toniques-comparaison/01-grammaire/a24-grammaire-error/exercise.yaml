@@ -1,0 +1,38 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: артикль (de / des), сравнение или местоимение. Исправь её и отправь предложение целиком."
+hints:
+  - "de + прилагательное + существительное во мн. ч.: de belles maisons; но des maisons modernes."
+  - "bon → meilleur; aussi… que; самый … в городе — de la ville."
+  - "Ударное местоимение — без глагола, после предлога, с et, после penser à."
+items:
+  - q: "Il y a des belles maisons dans ce quartier."
+    answers: ["Il y a de belles maisons dans ce quartier."]
+    explain: "Прилагательное перед существительным во мн. ч. → **de** belles maisons."
+  - q: "J'ai acheté de fleurs rouges pour ma mère."
+    answers: ["J'ai acheté des fleurs rouges pour ma mère."]
+    explain: "Прилагательное *rouges* стоит **после** существительного → обычное **des**."
+  - q: "Nous avons passé des longues vacances à la mer."
+    answers: ["Nous avons passé de longues vacances à la mer."]
+    explain: "*Longues* перед существительным → **de** longues vacances."
+  - q: "Ce gâteau est plus bon que l'autre."
+    answers: ["Ce gâteau est meilleur que l'autre."]
+    explain: "Сравнительная степень от *bon* — **meilleur**."
+  - q: "C'est la plus grande ville en France."
+    answers: ["C'est la plus grande ville de France."]
+    explain: "После превосходной степени «в…» передаётся предлогом **de**: *de France*."
+  - q: "C'est la question plus difficile du test."
+    answers: ["C'est la question la plus difficile du test."]
+    explain: "Прилагательное после существительного → артикль дважды: *la question **la plus** difficile*."
+  - q: "Il est aussi grand comme son père."
+    answers: ["Il est aussi grand que son père."]
+    explain: "Вторая часть сравнения вводится **que**: *aussi… que*."
+  - q: "Paul et je, nous allons au cinéma."
+    answers: ["Paul et moi, nous allons au cinéma."]
+    explain: "В паре подлежащих — ударное местоимение: **Paul et moi**."
+  - q: "Ma grand-mère est seule, je lui pense souvent."
+    answers: ["Ma grand-mère est seule, je pense souvent à elle.", "Ma grand-mère est seule, je pense à elle souvent."]
+    explain: "*Penser à qn* не берёт *lui*: только **je pense à elle**."
+  - q: "C'est moi qui a raison."
+    answers: ["C'est moi qui ai raison."]
+    explain: "В *c'est… qui* глагол согласуется с местоимением: *moi* → **ai**."

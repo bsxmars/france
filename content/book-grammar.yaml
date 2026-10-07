@@ -1,0 +1,130 @@
+# Попова И. Н., Казакова Ж. А. Грамматика французского языка. Практический курс (Нестор, 5-е изд., 1997). Только оглавление.
+# n = глава·100 + пункт: 1 Le nom, 2 L'article, 3 L'adjectif, 4 Le pronom, 5 L'adverbe, 6 Négations, 7 Le verbe,
+# 8 Discours indirect, 9 Question indirecte, 10 Mise en relief, 11 Conjugaison. Страницы печатные; упражнения идут в разделе сразу после теории,
+# нумерация начинается с 1 в каждом разделе — ссылайся на упражнения вместе со страницей (ex: "с. 214, упр. 1–4"). Ключей в книге нет.
+# В оглавлении книги неверные страницы у начала Conjugaison (304/382/380) — здесь исправлено на 384 по самим страницам.
+title: "Грамматика французского языка. Практический курс"
+author: "И. Н. Попова, Ж. А. Казакова"
+units:
+  - {n: 101, label: "1.1", title: "Espèces de noms", page: 6}
+  - {n: 102, label: "1.2", title: "Féminin des noms", page: 6}
+  - {n: 103, label: "1.3", title: "Pluriel des noms", page: 10}
+  - {n: 201, label: "2.1", title: "Formes de l'article", page: 12}
+  - {n: 202, label: "2.2", title: "Valeurs de l'article", page: 12}
+  - {n: 203, label: "2.3", title: "Emploi de l'article", page: 14}
+  - {n: 204, label: "2.4", title: "L'article et la préposition de", page: 25}
+  - {n: 301, label: "3.1", title: "Adjectifs qualificatifs", page: 35}
+  - {n: 302, label: "3.2", title: "Féminin des adjectifs", page: 35}
+  - {n: 303, label: "3.3", title: "Adjectifs ayant deux formes au masculin", page: 39}
+  - {n: 304, label: "3.4", title: "Pluriel des adjectifs", page: 40}
+  - {n: 305, label: "3.5", title: "Degrés de comparaison des adjectifs", page: 41}
+  - {n: 306, label: "3.6", title: "Adjectifs employés comme adverbes", page: 46}
+  - {n: 307, label: "3.7", title: "Adjectif interrogatif quel", page: 46}
+  - {n: 308, label: "3.8", title: "Quel adjectif exclamatif", page: 49}
+  - {n: 401, label: "4.1", title: "Pronoms personnels conjoints", page: 50}
+  - {n: 402, label: "4.2", title: "Pronom le neutre", page: 52}
+  - {n: 403, label: "4.3", title: "Pronoms personnels toniques", page: 57}
+  - {n: 404, label: "4.4", title: "Pronom réfléchi soi", page: 60}
+  - {n: 405, label: "4.5", title: "Y, en — pronoms personnels", page: 61}
+  - {n: 406, label: "4.6", title: "Pronom personnel y", page: 62}
+  - {n: 407, label: "4.7", title: "Pronom personnel en", page: 67}
+  - {n: 408, label: "4.8", title: "Pronoms relatifs", page: 80}
+  - {n: 409, label: "4.9", title: "Pronoms démonstratifs", page: 98}
+  - {n: 410, label: "4.10", title: "Pronoms possessifs", page: 109}
+  - {n: 411, label: "4.11", title: "Pronoms interrogatifs", page: 110}
+  - {n: 412, label: "4.12", title: "Pronoms et adjectifs indéfinis", page: 114}
+  - {n: 413, label: "4.13", title: "Même", page: 131}
+  - {n: 414, label: "4.14", title: "Tout", page: 139}
+  - {n: 501, label: "5.1", title: "Adverbes terminés en -ment", page: 152}
+  - {n: 502, label: "5.2", title: "Adverbes terminés en -amment, -emment", page: 153}
+  - {n: 503, label: "5.3", title: "Degrés de comparaison des adverbes", page: 154}
+  - {n: 601, label: "6.1", title: "Négations", page: 158}
+  - {n: 602, label: "6.2", title: "Locutions restrictives", page: 173}
+  - {n: 701, label: "7.1", title: "Verbes transitifs et intransitifs", page: 178}
+  - {n: 702, label: "7.2", title: "Forme passive", page: 178}
+  - {n: 703, label: "7.3", title: "Verbes pronominaux", page: 182}
+  - {n: 704, label: "7.4", title: "Mode indicatif. Présent", page: 190}
+  - {n: 705, label: "7.5", title: "Futur simple", page: 192}
+  - {n: 706, label: "7.6", title: "Futur dans le passé", page: 195}
+  - {n: 707, label: "7.7", title: "Futur immédiat", page: 196}
+  - {n: 708, label: "7.8", title: "Futur immédiat dans le passé", page: 198}
+  - {n: 709, label: "7.9", title: "Futur antérieur", page: 200}
+  - {n: 710, label: "7.10", title: "Futur antérieur dans le passé", page: 203}
+  - {n: 711, label: "7.11", title: "Passé simple", page: 207}
+  - {n: 712, label: "7.12", title: "Passé composé — Passé simple", page: 213}
+  - {n: 713, label: "7.13", title: "Imparfait", page: 213}
+  - {n: 714, label: "7.14", title: "Imparfait — Passé simple — Passé composé", page: 220}
+  - {n: 715, label: "7.15", title: "Plus-que-parfait", page: 232}
+  - {n: 716, label: "7.16", title: "Passé immédiat", page: 236}
+  - {n: 717, label: "7.17", title: "Plus-que-parfait immédiat", page: 237}
+  - {n: 718, label: "7.18", title: "Passé antérieur", page: 238}
+  - {n: 719, label: "7.19", title: "Plus-que-parfait — Plus-que-parfait immédiat — Passé antérieur", page: 241}
+  - {n: 720, label: "7.20", title: "Concordance des temps de l'indicatif", page: 244}
+  - {n: 721, label: "7.21", title: "Mode impératif", page: 252}
+  - {n: 722, label: "7.22", title: "Le conditionnel dans la phrase hypothétique: conditionnel présent", page: 255}
+  - {n: 723, label: "7.23", title: "Conditionnel passé", page: 259}
+  - {n: 724, label: "7.24", title: "Corrélation des temps et des modes dans la phrase conditionnelle avec si", page: 263}
+  - {n: 725, label: "7.25", title: "Autres emplois et valeurs du conditionnel", page: 265}
+  - {n: 726, label: "7.26", title: "Présent du subjonctif", page: 273}
+  - {n: 727, label: "7.27", title: "Passé du subjonctif", page: 276}
+  - {n: 728, label: "7.28", title: "Le subjonctif dans la subordonnée complétive", page: 276}
+  - {n: 729, label: "7.29", title: "Le subjonctif dans la subordonnée relative", page: 297}
+  - {n: 730, label: "7.30", title: "Le subjonctif dans les subordonnées circonstancielles", page: 300}
+  - {n: 731, label: "7.31", title: "Le subjonctif dans la proposition indépendante", page: 316}
+  - {n: 732, label: "7.32", title: "Imparfait du subjonctif", page: 318}
+  - {n: 733, label: "7.33", title: "Plus-que-parfait du subjonctif", page: 320}
+  - {n: 734, label: "7.34", title: "Emploi des temps dans la subordonnée au subjonctif: tableau récapitulatif", page: 322}
+  - {n: 735, label: "7.35", title: "Participe présent", page: 325}
+  - {n: 736, label: "7.36", title: "Participe passé composé", page: 327}
+  - {n: 737, label: "7.37", title: "Adjectif verbal", page: 328}
+  - {n: 738, label: "7.38", title: "Gérondif", page: 331}
+  - {n: 739, label: "7.39", title: "Participe passé", page: 339}
+  - {n: 740, label: "7.40", title: "Proposition participe", page: 346}
+  - {n: 741, label: "7.41", title: "Proposition infinitive", page: 352}
+  - {n: 742, label: "7.42", title: "Constructions causatives", page: 354}
+  - {n: 801, label: "8.1", title: "Discours indirect", page: 369}
+  - {n: 901, label: "9.1", title: "Question indirecte", page: 373}
+  - {n: 1001, label: "10.1", title: "Mise en relief", page: 379}
+  - {n: 1101, label: "11.1", title: "Verbes du 1er groupe", page: 384}
+  - {n: 1102, label: "11.2", title: "Verbes en -oyer, -uyer, -ayer", page: 390}
+  - {n: 1103, label: "11.3", title: "Verbes du IIe groupe", page: 393}
+  - {n: 1104, label: "11.4", title: "Verbes auxiliaires", page: 395}
+  - {n: 1105, label: "11.5", title: "Verbes en -endre, -ondre", page: 398}
+  - {n: 1106, label: "11.6", title: "Verbes en -aître", page: 401}
+  - {n: 1107, label: "11.7", title: "Verbes en -frir, -vrir", page: 404}
+  - {n: 1108, label: "11.8", title: "Verbes en -uire", page: 407}
+  - {n: 1109, label: "11.9", title: "Verbes en -eindre, -aindre, -oindre", page: 409}
+  - {n: 1110, label: "11.10", title: "Verbes du type partir", page: 412}
+  - {n: 1111, label: "11.11", title: "Verbes du groupe dire", page: 416}
+  - {n: 1112, label: "11.12", title: "Verbes du groupe prendre", page: 421}
+  - {n: 1113, label: "11.13", title: "Verbes du groupe tenir, venir", page: 424}
+  - {n: 1114, label: "11.14", title: "aller", page: 428}
+  - {n: 1115, label: "11.15", title: "apercevoir, recevoir", page: 430}
+  - {n: 1116, label: "11.16", title: "s'asseoir", page: 433}
+  - {n: 1117, label: "11.17", title: "battre", page: 434}
+  - {n: 1118, label: "11.18", title: "boire", page: 436}
+  - {n: 1119, label: "11.19", title: "conclure", page: 437}
+  - {n: 1120, label: "11.20", title: "courir", page: 438}
+  - {n: 1121, label: "11.21", title: "croire", page: 442}
+  - {n: 1122, label: "11.22", title: "cueillir", page: 443}
+  - {n: 1123, label: "11.23", title: "devoir", page: 444}
+  - {n: 1124, label: "11.24", title: "écrire", page: 446}
+  - {n: 1125, label: "11.25", title: "faire", page: 447}
+  - {n: 1126, label: "11.26", title: "falloir", page: 449}
+  - {n: 1127, label: "11.27", title: "interrompre", page: 450}
+  - {n: 1128, label: "11.28", title: "lire", page: 451}
+  - {n: 1129, label: "11.29", title: "mourir", page: 452}
+  - {n: 1130, label: "11.30", title: "naître", page: 453}
+  - {n: 1131, label: "11.31", title: "perdre", page: 454}
+  - {n: 1132, label: "11.32", title: "plaire", page: 455}
+  - {n: 1133, label: "11.33", title: "pleuvoir", page: 457}
+  - {n: 1134, label: "11.34", title: "pouvoir", page: 457}
+  - {n: 1135, label: "11.35", title: "rire", page: 458}
+  - {n: 1136, label: "11.36", title: "savoir", page: 459}
+  - {n: 1137, label: "11.37", title: "suffire", page: 461}
+  - {n: 1138, label: "11.38", title: "suivre", page: 462}
+  - {n: 1139, label: "11.39", title: "se taire", page: 464}
+  - {n: 1140, label: "11.40", title: "valoir", page: 465}
+  - {n: 1141, label: "11.41", title: "vivre", page: 467}
+  - {n: 1142, label: "11.42", title: "voir", page: 468}
+  - {n: 1143, label: "11.43", title: "vouloir", page: 470}

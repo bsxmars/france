@@ -1,0 +1,47 @@
+title: "Какое значение у будущего?"
+type: choice
+intro: "Выбери верный перевод или значение формы будущего в предложении."
+hints:
+  - "futur antérieur: предшествование, завершённость к сроку, предположение о прошлом, итог."
+  - "futur simple: будущее, приказ, вежливость, историческая перспектива."
+items:
+  - q: "« Vous fermerez la porte en sortant. »"
+    options: ["Вы, наверное, закрыли дверь.", "Закройте, пожалуйста, дверь, когда будете уходить.", "Вы бы закрыли дверь."]
+    answer: 1
+    explain: "Futur simple 2-го лица — **инструкция, приказ**."
+  - q: "« Je vous demanderai de remplir ce formulaire. »"
+    options: ["Я попрошу вас позже.", "Прошу вас заполнить эту анкету.", "Я бы попросил вас."]
+    answer: 1
+    explain: "**Futur de politesse**: вежливая просьба, по смыслу — настоящее."
+  - q: "« Elle n'est pas au bureau ? Elle sera tombée malade. »"
+    options: ["Она заболеет.", "Она, видимо, заболела.", "Она якобы заболела."]
+    answer: 1
+    explain: "Futur antérieur — **предположение** о прошлом."
+  - q: "« En 1940, de Gaulle part pour Londres ; il ne reviendra qu'en 1944. »"
+    options: ["историческая перспектива", "предположение", "вежливость"]
+    answer: 0
+    explain: "Futur в рассказе о прошлом смотрит вперёд от описываемого момента — **futur historique**."
+  - q: "« Dans deux heures, ils auront fini l'inventaire. »"
+    options: ["Через два часа они уже закончат инвентаризацию.", "Через два часа они начнут инвентаризацию.", "Они, наверное, закончили инвентаризацию."]
+    answer: 0
+    explain: "Завершённость **к моменту в будущем**."
+  - q: "« Eh bien, j'aurai tout entendu ! »"
+    options: ["Я всё услышу.", "Ну, чего только не услышишь!", "Я, наверное, всё слышал."]
+    answer: 1
+    explain: "Futur antérieur **итога**, эмоциональная оценка: «чего только не услышишь!»."
+  - q: "« Selon la presse, le ministre aurait démissionné. »"
+    options: ["Министр, наверное, ушёл в отставку (догадка говорящего).", "По данным прессы, министр якобы ушёл в отставку.", "Министр уйдёт в отставку."]
+    answer: 1
+    explain: "Это *conditionnel passé* непроверенной информации, а не futur antérieur: «якобы»."
+  - q: "« On sonne. Ce sera le livreur. »"
+    options: ["Это будет доставщик (в будущем).", "Это, наверное, доставщик.", "Это был доставщик."]
+    answer: 1
+    explain: "Futur simple **предположения** о настоящем (с *être*): «наверное»."
+  - q: "« Il m'a dit qu'il passerait dès qu'il aurait terminé. »"
+    options: ["Он сказал, что зайдёт, как только закончит.", "Он сказал, что зашёл бы, если бы закончил.", "Он сказал, что зашёл, когда закончил."]
+    answer: 0
+    explain: "Futur dans le passé (*passerait*) и futur antérieur dans le passé (*aurait terminé*) — будущее относительно прошлого, без условия."
+  - q: "« Vous vous serez trompé d'adresse, monsieur. »"
+    options: ["Вы, по-видимому, ошиблись адресом.", "Вы ошибётесь адресом.", "Вы бы ошиблись адресом."]
+    answer: 0
+    explain: "Futur antérieur — вежливое **предположение**, смягчённый упрёк."

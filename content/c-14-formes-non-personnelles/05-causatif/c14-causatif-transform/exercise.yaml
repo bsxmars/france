@@ -1,0 +1,68 @@
+title: "Перефразируй с faire / laisser + infinitif"
+type: transform
+intro: "Перефразируй предложение с помощью каузативной конструкции, используя ключевое слово. Впиши недостающую часть целиком. Местоимения — перед faire (кроме утвердительного повелительного)."
+hints:
+  - "Исполнитель при непереходном инфинитиве — COD (le, la, les); при переходном с дополнением — à qn (lui, leur) или par qn."
+  - "Fait + infinitif не согласуется."
+  - "Se faire + inf: je me suis fait couper les cheveux."
+items:
+  - q: "Le mécanicien a réparé ma voiture (à ma demande)."
+    key: "fait"
+    stem: "J'ai ___ par le mécanicien."
+    answers: ["fait réparer ma voiture"]
+    explain: "Действие совершил механик по моей просьбе → ***fait réparer***; исполнитель через *par*."
+  - q: "Cette blague a provoqué le rire de tout le monde."
+    key: "rire"
+    stem: "Cette blague a ___."
+    answers: ["fait rire tout le monde"]
+    explain: "*Faire rire* = рассмешить; непереходный инфинитив, исполнитель — прямое дополнение: ***fait rire tout le monde***."
+  - q: "Le directeur a demandé à sa secrétaire d'envoyer le contrat au client. (Заменить le contrat местоимением.)"
+    key: "envoyer"
+    stem: "Le directeur ___ par sa secrétaire."
+    answers: ["l'a fait envoyer au client"]
+    explain: "Три дополнения: объект *l'* (договор) перед вспомогательным, адресат *au client*, исполнитель через *par* — иначе два *à* создали бы двусмысленность: ***l'a fait envoyer au client par sa secrétaire***."
+  - q: "On m'a coupé les cheveux chez le coiffeur."
+    key: "fait"
+    stem: "Je ___ chez le coiffeur."
+    answers: ["me suis fait couper les cheveux"]
+    explain: "*Se faire* + infinitif: ***me suis fait couper les cheveux***; *fait* не согласуется."
+  - q: "Ne permettez pas aux enfants de jouer avec les allumettes."
+    key: "laissez"
+    stem: "Ne ___ avec les allumettes."
+    answers: ["laissez pas les enfants jouer", "laissez pas jouer les enfants"]
+    explain: "*Laisser* + инфинитив = позволить; существительное может стоять до или после инфинитива."
+  - q: "Les invités attendent dehors. Dites-leur d'entrer !"
+    key: "faites"
+    stem: "___ !"
+    answers: ["Faites-les entrer"]
+    explain: "Утвердительное повелительное: местоимение после *faire*, через дефис: ***Faites-les entrer***."
+  - q: "Elle a renversé le vase sans le vouloir."
+    key: "tomber"
+    stem: "Elle a ___ sans le vouloir."
+    answers: ["fait tomber le vase"]
+    explain: "«Уронить» = ***faire tomber***."
+  - q: "Les cambrioleurs ont volé son vélo à Sophie."
+    key: "fait"
+    stem: "Sophie ___."
+    answers: ["s'est fait voler son vélo"]
+    explain: "Подлежащее — пострадавшая → ***s'est fait voler son vélo*** (без согласования *fait*)."
+  - q: "Le chef a forcé les employés à rester tard. (Заменить employés местоимением.)"
+    key: "fait"
+    stem: "Le chef ___ tard."
+    answers: ["les a fait rester"]
+    explain: "Непереходный инфинитив → исполнитель — COD *les*, перед вспомогательным; ***les a fait rester***, *fait* неизменяем."
+  - q: "Mon collègue m'a convaincu facilement."
+    key: "laissé"
+    stem: "Je ___ par mon collègue."
+    answers: ["me suis laissé convaincre facilement", "me suis facilement laissé convaincre", "me suis laissée convaincre facilement", "me suis facilement laissée convaincre"]
+    explain: "*Se laisser* + infinitif = «дать себя…»: ***me suis laissé convaincre***. *Laissé* не согласуется: по реформе 1990 — никогда, по традиционному правилу — потому что говорящий не убеждает, а его убеждают. Форму *laissée* засчитываем, но она неточна."
+  - q: "Il a montré ses photos de voyage à ses amis."
+    key: "voir"
+    stem: "Il a ___ à ses amis."
+    answers: ["fait voir ses photos de voyage"]
+    explain: "«Показать» = ***faire voir*** qch à qn."
+  - q: "Le professeur a demandé aux élèves de réciter le poème. (Заменить poème и élèves местоимениями.)"
+    key: "réciter"
+    stem: "Le professeur ___."
+    answers: ["le leur a fait réciter"]
+    explain: "Объект *le* (поэма), исполнитель *leur* (ученики, косвенный, т. к. у инфинитива есть дополнение): ***le leur a fait réciter***."

@@ -1,0 +1,37 @@
+title: "Собери фразу"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Следи за местом прилагательного: обычно после существительного, а petit, grand, jeune, vieux, belle — перед ним. Точку ставить не нужно."
+hints:
+  - "Время: Il est … heures."
+  - "Цвет и характер — после существительного."
+items:
+  - q: "«Который час?»"
+    answers: ["Quelle heure est-il ?"]
+    explain: "Устойчивый вопрос: *Quelle heure est-**il** ?* — *il* формальное, как в ответе."
+  - q: "«Сейчас два часа»."
+    answers: ["Il est deux heures."]
+    explain: "Безличный оборот **il est** + число + *heures* (мн. ч.)."
+  - q: "«Сейчас половина седьмого»."
+    answers: ["Il est six heures et demie."]
+    explain: "«Половина седьмого» = «шесть с половиной»: *six heures **et demie***."
+  - q: "«Я смотрю на голубые цветы»."
+    answers: ["Je regarde les fleurs bleues."]
+    explain: "Цвет — **после** существительного; ж. р. мн. ч. → *bleues*."
+  - q: "«Её младшая сестра серьёзная»."
+    answers: ["Sa sœur cadette est sérieuse."]
+    explain: "*cadette* — после существительного; *sérieuse* — ж. р."
+  - q: "«Этот старый господин живёт один»."
+    answers: ["Ce vieux monsieur habite seul."]
+    explain: "*vieux* — из коротких частых прилагательных → **перед** существительным."
+  - q: "«Моя маленькая комната светлая»."
+    answers: ["Ma petite chambre est claire."]
+    explain: "*petite* — перед существительным; *claire* — после *être*, ж. р."
+  - q: "«Анна уезжает в девять часов»."
+    answers: ["Anna part à neuf heures."]
+    explain: "«Во сколько?» → **à** neuf heures [nœ-vœr]."
+  - q: "«Париж — её родной город»."
+    answers: ["Paris est sa ville natale."]
+    explain: "*natale* — после существительного, ж. р. (*ville*). *Paris* — без артикля."
+  - q: "«Молодые девушки счастливы»."
+    answers: ["Les jeunes filles sont heureuses."]
+    explain: "*jeunes* — перед существительным, мн. ч.; *heureuses* — ж. р. мн. ч."

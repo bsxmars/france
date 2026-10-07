@@ -1,0 +1,43 @@
+title: "Оцени вероятность"
+type: gap
+intro: "Поставь глагол в нужную форму: indicatif (présent или futur — по смыслу) или subjonctif (présent или passé)."
+hints:
+  - "probable, certain, sûr, évident, peut-être que → indicatif; для будущего — futur."
+  - "possible, peu probable, impossible, il se peut, il y a peu de chances → subjonctif; уже случилось — subjonctif passé."
+items:
+  - q: "Il est possible que les écoles ___ (ouvrir) le samedi matin l'an prochain."
+    answers: ["ouvrent"]
+    explain: "*Il est possible que* → subjonctif présent (он же для будущего): **ouvrent**."
+  - q: "Il est probable que les écoles ___ (ouvrir) le samedi matin l'an prochain."
+    answers: ["ouvriront", "ouvrent"]
+    explain: "*Il est probable que* → indicatif; будущее → futur: **ouvriront** (возможно и *ouvrent* — indicatif présent в значении запланированного будущего)."
+  - q: "Il se peut que Marc ___ (être) déjà au courant."
+    answers: ["soit"]
+    explain: "*Il se peut que* → subjonctif: **soit**."
+  - q: "Il est peu probable que ce lycée ___ (obtenir) de meilleurs résultats cette année."
+    answers: ["obtienne"]
+    explain: "*Il est peu probable que* → subjonctif: **obtienne**."
+  - q: "Il est évident que la maîtrise de l'anglais ___ (être) indispensable aujourd'hui."
+    answers: ["est"]
+    explain: "*Il est évident que* → indicatif: **est**."
+  - q: "Peut-être que les universités ___ (devenir) payantes un jour."
+    answers: ["deviendront"]
+    explain: "*Peut-être que* — наречие → indicatif; будущее → **deviendront**."
+  - q: "Il y a peu de chances qu'on ___ (pouvoir) changer le programme cette année."
+    answers: ["puisse"]
+    explain: "*Il y a peu de chances que* → subjonctif: **puisse**."
+  - q: "Il est possible que Sophie ___ (partir) hier soir sans prévenir personne."
+    answers: ["soit partie"]
+    explain: "Действие уже произошло (*hier soir*) → subjonctif passé с *être*: **soit partie** (согласование с *Sophie*)."
+  - q: "Il n'est pas sûr que les candidats ___ (recevoir) leurs résultats avant vendredi."
+    answers: ["reçoivent", "aient reçu"]
+    explain: "*Il n'est pas sûr que* → subjonctif: **reçoivent** (или *aient reçu* — получат ли к пятнице)."
+  - q: "Il est certain que le nombre de candidats ___ (augmenter) l'année dernière."
+    answers: ["a augmenté"]
+    explain: "*Il est certain que* → indicatif; действие в прошлом → passé composé: **a augmenté**."
+  - q: "Il est impossible que les élèves ___ (lire) tout le roman en une semaine."
+    answers: ["lisent", "aient lu"]
+    explain: "*Il est impossible que* → subjonctif: **lisent**; *aient lu* — если говорим о результате (уже прочитали к концу недели)."
+  - q: "Il y a de fortes chances que tu ___ (avoir) une bourse cette année."
+    answers: ["aies", "auras"]
+    explain: "*Il y a de fortes chances que* в норме → subjonctif: **aies** (так в учебнике). Indicatif *auras* тоже встречается и не считается ошибкой, но на DELF надёжнее subjonctif."

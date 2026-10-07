@@ -1,0 +1,128 @@
+- id: b07-indirect-quatre-types
+  lesson: b-07-discours-pronoms/01-grammaire
+  q: "Какая связка в косвенной речи для утверждения, общего вопроса, частного вопроса и приказа?"
+  a: "Утверждение — **que**; вопрос «да / нет» — **si**; частный вопрос — вопросительное слово (*où, quand, pourquoi…*); приказ — **de + инфинитив**."
+- id: b07-ce-que-ce-qui
+  lesson: b-07-discours-pronoms/01-grammaire
+  q: "Во что превращаются qu'est-ce que / que и qu'est-ce qui в косвенном вопросе?"
+  a: "*Qu'est-ce que / que* (дополнение) → **ce que**: *il demande ce que je fais*. *Qu'est-ce qui* (подлежащее) → **ce qui**: *il demande ce qui me dérange*."
+- id: b07-indirect-ordre
+  lesson: b-07-discours-pronoms/01-grammaire
+  q: "Что исчезает в косвенном вопросе?"
+  a: "*Est-ce que*, инверсия с местоимением и вопросительный знак: « Où travailles-tu ? » → *Il demande où **je travaille**.*"
+- id: b07-si-elision
+  lesson: b-07-discours-pronoms/01-grammaire
+  q: "Когда si сокращается?"
+  a: "Только перед *il / ils*: **s'il, s'ils**. Но *si elle, si on*."
+- id: b07-imperatif-de
+  lesson: b-07-discours-pronoms/01-grammaire
+  q: "« Ne soyez pas en retard. » → косвенная речь?"
+  a: "*Il nous demande **de ne pas être** en retard.* Обе части отрицания — перед инфинитивом."
+- id: b07-que-repete
+  lesson: b-07-discours-pronoms/01-grammaire
+  q: "Можно ли опустить que в косвенной речи?"
+  a: "Нет. И при нескольких утверждениях *que* повторяют: *Elle dit que l'équipe est motivée **et qu'**elle mérite une prime.*"
+- id: b07-verbes-introducteurs
+  lesson: b-07-discours-pronoms/01-grammaire
+  q: "Назови 6 глаголов-вводителей с оттенком, кроме dire."
+  a: "Например: *affirmer, avouer, reconnaître, prétendre, confier, préciser, ajouter, répondre*; для вопросов — *vouloir savoir, se demander*; для просьб — *conseiller de, ordonner de, interdire de, proposer de*."
+- id: b07-erreur-qu-est-ce-que
+  lesson: b-07-discours-pronoms/01-grammaire
+  q: "«Он спрашивает, что ты делаешь и придёшь ли ты»."
+  a: "*Il demande **ce que** tu fais et **si** tu viens.*"
+- id: b07-concordance-tableau
+  lesson: b-07-discours-pronoms/02-grammaire
+  q: "Вводящий глагол в прошлом. Во что переходят présent, passé composé, futur, futur antérieur?"
+  a: "présent → **imparfait**; passé composé → **plus-que-parfait**; futur → **conditionnel présent**; futur antérieur → **conditionnel passé**."
+- id: b07-concordance-proche-recent
+  lesson: b-07-discours-pronoms/02-grammaire
+  q: "« Je vais partir. » / « Je viens de signer. » → в пересказе в прошлом?"
+  a: "*Il a dit qu'il **allait** partir* / *qu'il **venait de** signer*."
+- id: b07-concordance-invariables
+  lesson: b-07-discours-pronoms/02-grammaire
+  q: "Какие времена не меняются при согласовании?"
+  a: "Imparfait, plus-que-parfait, conditionnel (présent и passé) и subjonctif: *il a dit qu'il fallait que je **vienne***."
+- id: b07-marqueurs-jours
+  lesson: b-07-discours-pronoms/02-grammaire
+  q: "Aujourd'hui, hier, demain, avant-hier, après-demain — в пересказе о прошлом?"
+  a: "*ce jour-là, **la veille**, **le lendemain**, l'avant-veille, le surlendemain*."
+- id: b07-marqueurs-semaine
+  lesson: b-07-discours-pronoms/02-grammaire
+  q: "La semaine prochaine, le mois dernier, il y a deux jours, dans deux jours, ici — в пересказе?"
+  a: "*la semaine **suivante**, le mois **précédent**, deux jours **plus tôt**, deux jours **plus tard**, **là / là-bas***."
+- id: b07-marqueurs-actuel
+  lesson: b-07-discours-pronoms/02-grammaire
+  q: "Когда указатели времени можно не сдвигать?"
+  a: "Когда сказанное ещё актуально: *Ce matin, il m'a dit que la réunion est reportée à **demain**.* — разговор был сегодня."
+- id: b07-si-conditionnel
+  lesson: b-07-discours-pronoms/02-grammaire
+  q: "Можно ли conditionnel после si в косвенном вопросе?"
+  a: "Да: *Il m'a demandé si je **viendrais**.* Запрет касается только условного *si*."
+- id: b07-traduction-viendrait
+  lesson: b-07-discours-pronoms/02-grammaire
+  q: "«Она спросила, где я работаю, и сказала, что позвонит завтра» (давно)."
+  a: "*Elle m'a demandé où je **travaillais** et m'a dit qu'elle m'**appellerait** **le lendemain**.*"
+- id: b07-doubles-ordre
+  lesson: b-07-discours-pronoms/03-grammaire
+  q: "Порядок местоимений-дополнений перед глаголом?"
+  a: "**me / te / se / nous / vous → le / la / les → lui / leur → y → en**."
+- id: b07-doubles-3e-personne
+  lesson: b-07-discours-pronoms/03-grammaire
+  q: "«Я ему его дам» и «Я тебе его дам»."
+  a: "*Je **le lui** donnerai* (3-е лицо: сначала прямое). *Je **te le** donnerai* (me / te / nous / vous — первыми)."
+- id: b07-doubles-en-y
+  lesson: b-07-discours-pronoms/03-grammaire
+  q: "Где стоят y и en в паре местоимений?"
+  a: "Последними, *en* — в самом конце: *il **m'en** parle, je **t'y** emmène, elle **leur en** a donné, il **y en** a*."
+- id: b07-doubles-impossible
+  lesson: b-07-discours-pronoms/03-grammaire
+  q: "Как сказать «Он меня ей представил»?"
+  a: "*Me* и *lui* не сочетаются → *Il **m'a** présenté **à elle***."
+- id: b07-doubles-pc-accord
+  lesson: b-07-discours-pronoms/03-grammaire
+  q: "Les photos: «он мне их показал» и «он мне их показал несколько» (des photos)."
+  a: "*Il **me les** a montr**ées*** — согласование с *les*; *il **m'en** a montré quelques-unes* — с *en* согласования нет."
+- id: b07-doubles-infinitif
+  lesson: b-07-discours-pronoms/03-grammaire
+  q: "Где местоимения при глаголе + инфинитив? «Я собираюсь ему это объяснить»."
+  a: "Перед инфинитивом: *Je vais **le lui** expliquer.* В отрицании: *Je ne vais pas **le lui** expliquer.*"
+- id: b07-lui-y
+  lesson: b-07-discours-pronoms/03-grammaire
+  q: "Il répond au mail / à son chef — какие местоимения?"
+  a: "*Au mail* (предмет) → **y**: *il y répond*. *À son chef* (человек) → **lui**: *il lui répond*."
+- id: b07-doubles-pronominaux
+  lesson: b-07-discours-pronoms/03-grammaire
+  q: "«Ты это помнишь?», «Я мою их» (руки) — с двумя местоимениями."
+  a: "*Tu **t'en** souviens ?* — *Je **me les** lave.*"
+- id: b07-imperatif-affirmatif
+  lesson: b-07-discours-pronoms/04-grammaire
+  q: "Порядок местоимений в утвердительном императиве?"
+  a: "Глагол-**le / la / les**-**moi / toi / lui / nous / vous / leur**-**y / en**: *Donne-le-moi. Explique-la-leur. Parle-lui-en.*"
+- id: b07-imperatif-negatif
+  lesson: b-07-discours-pronoms/04-grammaire
+  q: "«Не давай мне его», «Не говори им об этом»."
+  a: "Обычный порядок перед глаголом: *Ne **me le** donne pas. Ne **leur en** parle pas.*"
+- id: b07-imperatif-men
+  lesson: b-07-discours-pronoms/04-grammaire
+  q: "Moi / toi перед en в императиве?"
+  a: "Сокращаются: *Donne-**m'en**. Va-**t'en**. Occupe-**t'en**.* (не ~~donne-moi-en~~)."
+- id: b07-imperatif-s
+  lesson: b-07-discours-pronoms/04-grammaire
+  q: "Parle, va, donne + en / y в императиве?"
+  a: "Возвращается *-s*: *Parles-en. Vas-y. Donnes-en. Penses-y.*"
+- id: b07-imperatif-erreur
+  lesson: b-07-discours-pronoms/04-grammaire
+  q: "Что не так: ~~Donne-moi-le~~, ~~Ne donne-le-moi pas~~?"
+  a: "Утвердительный: ***Donne-le-moi*** (le первым). Отрицательный: ***Ne me le donne pas*** (местоимения перед глаголом)."
+- id: b07-imperatif-indirect
+  lesson: b-07-discours-pronoms/04-grammaire
+  q: "« Envoie-le-moi ! » — перескажи в прошлом."
+  a: "*Il m'a demandé **de le lui** envoyer.* — местоимения возвращаются в обычный порядок перед инфинитивом."
+- id: b07-imperatif-les-y
+  lesson: b-07-discours-pronoms/04-grammaire
+  q: "«Положите их туда» / «Не кладите их туда»."
+  a: "*Mettez-**les-y**.* — *Ne **les y** mettez pas.*"
+- id: b07-imperatif-nous-les
+  lesson: b-07-discours-pronoms/04-grammaire
+  q: "«Покажите нам их» / «Не показывайте нам их»."
+  a: "*Montrez-**les-nous**.* — *Ne **nous les** montrez pas.*"

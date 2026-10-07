@@ -1,0 +1,44 @@
+title: "Глаголы, числа и вопрос к подлежащему"
+type: gap
+intro: "Вставь нужную форму: глагол в настоящем времени (в скобках — инфинитив), число словами или вопросительное слово (qui / qu'est-ce qui)."
+hints:
+  - "-endre, -ondre: je réponds, il répond, nous répondons, ils répondent."
+  - "voir: nous voyons, vous voyez, ils voient."
+  - "Человек — qui; предмет — qu'est-ce qui. Глагол после них — в 3-м лице ед. ч."
+items:
+  - q: "Nous ___ le bus depuis vingt minutes. (attendre)"
+    answers: ["attendons"]
+    explain: "*nous* → **attendons**. *Attendre* — без предлога."
+  - q: "Elle ne ___ jamais au téléphone. (répondre)"
+    answers: ["répond"]
+    explain: "3-е лицо ед. ч. глаголов на *-ondre* — без окончания: **répond**."
+  - q: "Vous ___ la tour Eiffel de votre fenêtre ? (voir)"
+    answers: ["voyez"]
+    explain: "*vous* → **voyez**: в формах *nous* и *vous* у *voir* появляется *y*."
+  - q: "Ils ___ des glaces sur la plage. (vendre)"
+    answers: ["vendent"]
+    explain: "*ils* → **vendent**, конечное *d* основы здесь звучит."
+  - q: "Je ___ toujours ces deux mots. (confondre)"
+    answers: ["confonds"]
+    explain: "*je* → основа *confond-* + **-s**: **confonds**."
+  - q: "Les enfants ___ les avions dans le ciel. (voir)"
+    answers: ["voient"]
+    explain: "*ils* → **voient** — звучит так же, как *voit*."
+  - q: "___ descend l'escalier ? — C'est le voisin."
+    answers: ["Qui", "Qui est-ce qui"]
+    explain: "Вопрос о человеке-подлежащем → **qui** или **qui est-ce qui**."
+  - q: "___ fait ce bruit ? — C'est le feu d'artifice."
+    answers: ["Qu'est-ce qui"]
+    explain: "Подлежащее — явление (*le feu d'artifice*) → **qu'est-ce qui**. *Qu'est-ce que* здесь нельзя: сразу за ним идёт глагол."
+  - q: "Dans notre école, il y a 80 élèves : ___ élèves."
+    answers: ["quatre-vingts"]
+    explain: "80 = **quatre-vingts**: после *vingt* ничего нет, поэтому *-s*."
+  - q: "Mon grand-père a 91 ans : ___ ans."
+    answers: ["quatre-vingt-onze"]
+    explain: "91 = 4 × 20 + 11 → **quatre-vingt-onze**, без *et* и без *-s* у *vingt*."
+  - q: "Ce livre a 300 pages : ___ pages."
+    answers: ["trois cents", "trois-cents"]
+    explain: "*cent* умножено и стоит в конце → **trois cents** (по орфографии 1990 — *trois-cents*)."
+  - q: "La salle a 71 places : ___ places."
+    answers: ["soixante et onze", "soixante-et-onze"]
+    explain: "71 = 60 + 11 → **soixante et onze**: *et* есть, как в 21, 31… 61 (по орфографии 1990 — *soixante-et-onze*)."

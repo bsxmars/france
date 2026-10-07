@@ -1,0 +1,43 @@
+title: "Согласуй время"
+type: gap
+intro: "Перескажи слова в прошлом: поставь глагол в скобках в нужное время. Вводящий глагол уже в прошедшем."
+hints:
+  - "présent → imparfait; passé composé → plus-que-parfait; futur → conditionnel présent; futur antérieur → conditionnel passé."
+  - "va faire → allait faire; vient de faire → venait de faire. Imparfait, plus-que-parfait, conditionnel и subjonctif не меняются."
+items:
+  - q: "« Je ne connais pas encore mes collègues. » → Nora m'a dit qu'elle ne ___ (connaître) pas encore ses collègues."
+    answers: ["connaissait"]
+    explain: "Présent → **imparfait**: *connaissait*."
+  - q: "« J'ai quitté mon poste en mars. » → Il nous a raconté qu'il ___ (quitter) son poste en mars."
+    answers: ["avait quitté"]
+    explain: "Passé composé → **plus-que-parfait**: *avait quitté*."
+  - q: "« Vous recevrez la réponse par mail. » → On m'a assuré que je ___ (recevoir) la réponse par mail."
+    answers: ["recevrais"]
+    explain: "Futur simple → **conditionnel présent**: *recevrais* (основа *recevr-* + *-ais*)."
+  - q: "« Je vais changer d'entreprise. » → Mon frère m'a annoncé qu'il ___ (aller) changer d'entreprise."
+    answers: ["allait"]
+    explain: "Futur proche: *aller* в présent → **imparfait**: *allait changer*."
+  - q: "« Nous venons de signer le contrat. » → Ils ont expliqué qu'ils ___ (venir) de signer le contrat."
+    answers: ["venaient"]
+    explain: "Passé récent: *venir* в présent → **imparfait**: *venaient de signer*."
+  - q: "« J'aurai terminé la traduction avant lundi. » → La traductrice a promis qu'elle ___ (terminer) la traduction avant lundi."
+    answers: ["aurait terminé"]
+    explain: "Futur antérieur → **conditionnel passé**: *aurait terminé*."
+  - q: "« Quand j'étais jeune, je voulais être architecte. » → Mon père m'a confié que, quand il était jeune, il ___ (vouloir) être architecte."
+    answers: ["voulait"]
+    explain: "Imparfait **не меняется**: *voulait*."
+  - q: "« Est-ce que vous avez rencontré le directeur ? » → L'assistante m'a demandé si j'___ (rencontrer) le directeur."
+    answers: ["avais rencontré", "avais déjà rencontré"]
+    explain: "Passé composé → **plus-que-parfait**: *si j'**avais rencontré***. После *si* — обычное согласование времён."
+  - q: "« Qu'est-ce que vous ferez si le projet échoue ? » → Le jury m'a demandé ce que je ___ (faire) si le projet échouait."
+    answers: ["ferais"]
+    explain: "Futur → **conditionnel présent**: *ferais*. После *ce que* — обычное согласование."
+  - q: "« Il faut que tu remplisses ce formulaire. » → La secrétaire m'a dit qu'il fallait que je ___ (remplir) ce formulaire."
+    answers: ["remplisse"]
+    explain: "Subjonctif **не меняется** в разговорной и обычной письменной речи: *qu'il fallait que je **remplisse***. Сдвигается только *faut → fallait*."
+  - q: "« Je serais ravi de travailler avec vous. » → Le candidat a répondu qu'il ___ (être) ravi de travailler avec nous."
+    answers: ["serait"]
+    explain: "Conditionnel présent **не меняется**: *serait*."
+  - q: "« Pourquoi est-ce que tu n'es pas venu à la formation ? » → Ma cheffe m'a demandé pourquoi je ___ (ne pas venir) à la formation."
+    answers: ["n'étais pas venu", "n'étais pas venue"]
+    explain: "Passé composé → **plus-que-parfait** с *être*: *je n'étais pas venu(e)*; отрицание обрамляет вспомогательный глагол."

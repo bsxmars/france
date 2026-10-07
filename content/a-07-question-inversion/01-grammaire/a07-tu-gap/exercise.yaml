@@ -1,0 +1,43 @@
+title: "Глаголы в единственном числе"
+type: gap
+intro: "Поставь глагол в настоящее время. Обрати внимание на лицо: je, tu или il / elle."
+hints:
+  - "I группа: tu parles. III группа: je -s, tu -s, il -t."
+  - "Особые формы: tu vas, il va; tu peux; il met."
+items:
+  - q: "Tu ___ (parler) vite."
+    answers: ["parles"]
+    explain: "Глагол I группы, форма *tu* → окончание **-es**: *tu parles* (звучит как *je parle*)."
+  - q: "Tu ___ (étudier) à l'université ?"
+    answers: ["étudies"]
+    explain: "I группа: *étudi-* + **-es** → *tu étudies*."
+  - q: "Tu ___ (lire) ce livre ?"
+    answers: ["lis"]
+    explain: "III группа, форма *tu* → **-s**: *tu lis*."
+  - q: "Tu ___ (écrire) à ta mère."
+    answers: ["écris"]
+    explain: "*je écris → j'écris, tu **écris**, il écrit*: у *tu* окончание **-s**."
+  - q: "Tu ___ (faire) tes exercices."
+    answers: ["fais"]
+    explain: "*je fais, **tu fais**, il fait*."
+  - q: "Tu ___ (mettre) la revue sur la table."
+    answers: ["mets"]
+    explain: "*je mets, **tu mets**, il met* — одно *t*."
+  - q: "Tu ___ (aller) à la gare ?"
+    answers: ["vas"]
+    explain: "*aller* — неправильный: *je vais, **tu vas**, il va*."
+  - q: "Tu ___ (pouvoir) fermer la fenêtre ?"
+    answers: ["peux"]
+    explain: "*je peux, **tu peux**, il peut* — у *je* и *tu* окончание **-x**."
+  - q: "Paul ___ (mettre) le cahier sur la table."
+    answers: ["met"]
+    explain: "*Paul* = *il* → **met**: основа уже кончается на *t*, окончание не добавляется."
+  - q: "Elle ___ (partir) à neuf heures."
+    answers: ["part"]
+    explain: "*je pars, tu pars, **il part***: основа в ед. ч. — *par-*, у *il* к ней добавляется окончание **-t**."
+  - q: "Je ___ (dire) bonjour à Léa."
+    answers: ["dis"]
+    explain: "*je dis, tu dis, il dit*: у *je* окончание **-s**."
+  - q: "Il ___ (servir) le café."
+    answers: ["sert"]
+    explain: "*je sers, tu sers, **il sert***: основа *ser-* (без *v*) + **-t**."

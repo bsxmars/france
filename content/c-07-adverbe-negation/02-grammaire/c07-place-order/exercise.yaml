@@ -1,0 +1,38 @@
+title: "Поставь наречие на место"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Следи за местом наречия в простом и сложном времени, при инфинитиве и после peut-être / aussi."
+hints:
+  - "Простое время: глагол + наречие. Сложное: avoir / être + короткое наречие + причастие."
+  - "hier, demain, ici, tard — после причастия."
+  - "Peut-être, aussi («поэтому») в начале → инверсия."
+items:
+  - q: "«Он редко говорит о своём детстве»."
+    answers: ["Il parle rarement de son enfance."]
+    explain: "В простом времени наречие стоит **после** спрягаемого глагола: *parle rarement*."
+  - q: "«Мы хорошо поработали»."
+    answers: ["Nous avons bien travaillé."]
+    explain: "Короткое *bien* — между вспомогательным глаголом и причастием."
+  - q: "«Она уже всё поняла»."
+    answers: ["Elle a déjà tout compris."]
+    explain: "*Déjà* и *tout* стоят между *a* и причастием, *déjà* — первым."
+  - q: "«Мои родители приехали вчера вечером»."
+    answers: ["Mes parents sont arrivés hier soir."]
+    explain: "Наречия точного времени (*hier soir*) ставятся **после** причастия."
+  - q: "«Чтобы лучше понять, перечитай текст»."
+    answers: ["Pour mieux comprendre, relis le texte."]
+    explain: "Короткое наречие стоит **перед** инфинитивом: *pour mieux comprendre*."
+  - q: "«Он спокойно ответил на все вопросы»."
+    answers: ["Il a répondu calmement à toutes les questions.", "Il a calmement répondu à toutes les questions."]
+    explain: "Длинное наречие на *-ment* чаще стоит после причастия; позиция между *a* и причастием тоже возможна и звучит книжнее."
+  - q: "«Возможно, он забыл о встрече» (письменный стиль, с инверсией)."
+    answers: ["Peut-être a-t-il oublié le rendez-vous."]
+    explain: "После *peut-être* в начале фразы — инверсия: *Peut-être **a-t-il** oublié*."
+  - q: "«Поезд опаздывал, поэтому мы взяли такси» (книжно, с aussi)."
+    answers: ["Le train était en retard, aussi avons-nous pris un taxi."]
+    explain: "*Aussi* в начале части предложения = «поэтому» и требует инверсии: *aussi **avons-nous** pris*."
+  - q: "«Мы слишком много ели на этой неделе»."
+    answers: ["Nous avons trop mangé cette semaine."]
+    explain: "*Trop* — короткое наречие, между *avons* и *mangé*."
+  - q: "«Не стоит слишком настаивать»."
+    answers: ["Il ne faut pas trop insister."]
+    explain: "*Ne… pas* обрамляет *faut*, а *trop* стоит перед инфинитивом *insister*."

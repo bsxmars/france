@@ -1,0 +1,44 @@
+title: "Indicatif или subjonctif?"
+type: gap
+intro: "Поставь глагол в скобках в indicatif или subjonctif. Сначала посмотри на главное предложение: утверждение, мнение — или оценка, требование, сомнение?"
+hints:
+  - "Мнение и уверенность (je pense, je suis sûr, il est évident, il est probable, il me semble, j'espère) → indicatif."
+  - "Необходимость, желание, оценка, сомнение, возможность (il faut, je souhaite, je trouve normal, je doute, il est possible) → subjonctif."
+  - "Глагол мнения в отрицании → subjonctif."
+items:
+  - q: "Je suis convaincue que cette campagne d'information ___ (être) utile."
+    answers: ["est", "sera", "serait"]
+    explain: "*Je suis convaincu(e) que* — уверенность → indicatif: **est** (или *sera*, *serait* по смыслу)."
+  - q: "Je ne suis pas convaincue que cette campagne ___ (être) utile."
+    answers: ["soit"]
+    explain: "Уверенность в отрицании превращается в сомнение → subjonctif: **soit**."
+  - q: "Il est indispensable que les patients ___ (pouvoir) voir un médecin rapidement."
+    answers: ["puissent"]
+    explain: "Необходимость → subjonctif; *pouvoir* — неправильный: *qu'ils **puissent***."
+  - q: "Il me semble que le débat ___ (aller) dans la bonne direction."
+    answers: ["va", "est allé", "ira"]
+    explain: "*Il **me** semble que* — личное мнение → indicatif: **va**. Без *me* (*il semble que*) был бы subjonctif."
+  - q: "Je doute que les députés ___ (faire) passer cette loi avant l'été."
+    answers: ["fassent"]
+    explain: "Сомнение → subjonctif: *qu'ils **fassent***."
+  - q: "J'espère que vous ___ (prendre) le temps de lire ce rapport."
+    answers: ["prendrez", "prenez", "avez pris"]
+    explain: "*Espérer que* — всегда indicatif, обычно futur: **prendrez**."
+  - q: "Je trouve scandaleux qu'on ___ (attendre) six mois pour un rendez-vous."
+    answers: ["attende", "doive attendre", "ait attendu"]
+    explain: "*Je trouve **scandaleux** que* — оценка → subjonctif: **attende**. Ср.: *je trouve que* + indicatif."
+  - q: "Il est évident que la situation ___ (devenir) préoccupante."
+    answers: ["devient", "est devenue", "deviendra", "va devenir"]
+    explain: "Очевидность → indicatif: **devient** / *est devenue*."
+  - q: "Il est possible que le ministre ___ (savoir) déjà la vérité."
+    answers: ["sache"]
+    explain: "Возможность → subjonctif; *savoir* — неправильный: *qu'il **sache***."
+  - q: "Penses-tu vraiment que cette réforme ___ (avoir) des effets positifs ?"
+    answers: ["ait", "aura", "a"]
+    explain: "Вопрос с инверсией ставит мнение под сомнение → обычно subjonctif **ait**; indicatif (*aura*, *a*) тоже допустим, если спрашивающий скорее согласен."
+  - q: "Les médecins regrettent que le gouvernement ne les ___ (consulter) pas avant la réforme."
+    answers: ["ait consultés"]
+    explain: "Чувство → subjonctif, а действие **раньше** главного → subjonctif passé: *qu'il ne les **ait** pas **consultés*** (согласование с *les* = médecins)."
+  - q: "Je ne doute pas que vous ___ (comprendre) l'importance de ce vote."
+    answers: ["comprenez", "comprendrez", "compreniez"]
+    explain: "*Je ne doute pas que* = «я уверен» → обычно indicatif **comprenez**; в книжном стиле встречается и subjonctif (*compreniez*)."

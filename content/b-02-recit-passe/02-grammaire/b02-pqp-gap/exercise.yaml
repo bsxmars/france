@@ -1,0 +1,43 @@
+title: "Что было раньше: plus-que-parfait"
+type: gap
+intro: "Поставь глагол в скобках в **plus-que-parfait**. Пиши всю глагольную форму (вспомогательный глагол + причастие, с наречием, если оно указано в скобках)."
+hints:
+  - "avoir / être в imparfait + participe passé: avais fini, étais parti."
+  - "С être и с местоимением-дополнением перед avoir причастие согласуется."
+items:
+  - q: "Quand je suis arrivé à la gare, le train ___ (partir)."
+    answers: ["était parti", "était déjà parti"]
+    explain: "Поезд ушёл **до** моего прихода → plus-que-parfait. *partir* → *être*: *était parti*."
+  - q: "Elle m'a rendu le livre que je lui ___ (prêter)."
+    answers: ["avais prêté"]
+    explain: "Одолжил раньше, чем она вернула → *avais prêté*. *Le livre* — м. р., согласование не меняет форму."
+  - q: "Ils étaient épuisés parce qu'ils ___ (marcher) toute la journée."
+    answers: ["avaient marché"]
+    explain: "Причина состояния в прошлом, действие было раньше → *avaient marché*."
+  - q: "Je ne connaissais pas Lyon : je n'y ___ (jamais / aller) avant ce voyage."
+    answers: ["étais jamais allé", "étais jamais allée"]
+    explain: "«Никогда раньше» до момента в прошлом → plus-que-parfait. *jamais* стоит между вспомогательным глаголом и причастием: *je n'y étais jamais allé(e)*."
+  - q: "Le client était furieux : nous ___ (oublier) de lui envoyer la facture."
+    answers: ["avions oublié"]
+    explain: "Объяснение задним числом: забыли раньше, чем клиент разозлился → *avions oublié*."
+  - q: "Hier, j'ai enfin vu le film dont tu m'___ (parler)."
+    answers: ["avais parlé"]
+    explain: "Ты рассказывал раньше, чем я посмотрел → *tu m'avais parlé*. *parler à qqn* — косвенное дополнение, согласования нет."
+  - q: "Elle a tout de suite reconnu l'homme qu'elle ___ (voir) la veille."
+    answers: ["avait vu"]
+    explain: "**La veille** — «накануне», раньше момента рассказа → *avait vu*."
+  - q: "Quand nous sommes rentrés, quelqu'un ___ (entrer) dans l'appartement."
+    answers: ["était entré"]
+    explain: "Кто-то вошёл **до** нашего возвращения → *était entré*. *quelqu'un* требует мужского рода."
+  - q: "Les invités ___ (partir) quand Julie est enfin arrivée."
+    answers: ["étaient partis", "étaient déjà partis"]
+    explain: "Гости ушли раньше, чем пришла Жюли → *étaient partis*, согласование с *les invités* (м. р., мн. ч.)."
+  - q: "Il a raté l'examen ; pourtant, il ___ (réviser) pendant des semaines."
+    answers: ["avait révisé"]
+    explain: "Готовился **до** экзамена → *avait révisé*."
+  - q: "Ma sœur était triste parce que son chat ___ (mourir) la semaine précédente."
+    answers: ["était mort"]
+    explain: "**La semaine précédente** — раньше момента рассказа. *mourir* → *être*: *était mort*."
+  - q: "Si seulement tu m'___ (prévenir) !"
+    answers: ["avais prévenu", "avais prévenue"]
+    explain: "Сожаление о прошлом: **si seulement** + plus-que-parfait. *m'* — прямое дополнение перед *avoir*, поэтому женщина напишет *prévenue*."

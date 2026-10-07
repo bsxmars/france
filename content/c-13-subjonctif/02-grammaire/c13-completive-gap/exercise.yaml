@@ -1,0 +1,44 @@
+title: "Indicatif или subjonctif после que"
+type: gap
+intro: "Поставь глагол в нужное наклонение и время. Сначала определи, что выражает главный глагол: факт и уверенность или волю, чувство, сомнение, оценку."
+hints:
+  - "il est certain / probable / évident, il me semble, espérer, ne pas douter → indicatif."
+  - "il semble, il se peut, douter, ne pas penser, craindre, tenir à ce que → subjonctif."
+  - "Действие раньше главного → passé (du subjonctif или composé)."
+items:
+  - q: "Il est évident que cette mesure ___ (avoir) des effets pervers."
+    answers: ["aura", "a", "a eu"]
+    explain: "*Il est évident que* — уверенность → indicatif: ***aura*** (прогноз), *a* или *a eu* — тоже верны по смыслу."
+  - q: "Il est peu probable que le gouvernement ___ (revenir) sur sa décision."
+    answers: ["revienne"]
+    explain: "*Peu probable* — сомнение → subjonctif: ***revienne***. Сравни: *il est probable qu'il reviendra* (indicatif)."
+  - q: "Il me semble que vous ___ (faire) fausse route depuis le début."
+    answers: ["faites", "avez fait", "faisiez"]
+    explain: "*Il **me** semble* = я думаю → indicatif: ***faites*** (или *avez fait*). Без *me* было бы *fassiez*."
+  - q: "Il semble que les négociations ___ (échouer) la nuit dernière."
+    answers: ["aient échoué"]
+    explain: "*Il semble que* без местоимения — неуверенность → subjonctif; событие в прошлом → passé: ***aient échoué***."
+  - q: "Nous veillerons à ce que personne ne ___ (être) oublié."
+    answers: ["soit"]
+    explain: "*Veiller à ce que* — воля → subjonctif: ***soit***."
+  - q: "J'espère que la réunion ne ___ (durer) pas trop longtemps."
+    answers: ["durera", "dure"]
+    explain: "*Espérer que* (утверждение) → indicatif, обычно futur: ***durera*** (*dure* тоже возможно для текущей встречи)."
+  - q: "Je ne doute pas qu'elle ___ (tenir) parole."
+    answers: ["tiendra", "tient", "ne tienne"]
+    explain: "*Ne pas douter* снимает сомнение → indicatif ***tiendra***. В soutenu допустимо *qu'elle ne tienne* (subjonctif + ne explétif)."
+  - q: "Je ne pense pas que ce candidat ___ (pouvoir) convaincre les électeurs."
+    answers: ["puisse"]
+    explain: "Глагол мнения в отрицании → subjonctif: ***puisse***."
+  - q: "Les riverains s'opposent à ce qu'on ___ (construire) une autoroute près du village."
+    answers: ["construise"]
+    explain: "*S'opposer à ce que* — воля (запрет) → subjonctif: ***construise***."
+  - q: "Qu'il ___ (être) le meilleur spécialiste du domaine, nul ne le conteste."
+    answers: ["soit"]
+    explain: "Придаточное стоит в начале фразы → всегда subjonctif: ***soit***."
+  - q: "Je savais qu'il ___ (partir) pour Lyon la veille."
+    answers: ["était parti"]
+    explain: "*Savoir* — глагол знания, факт → indicatif; предшествование в прошлом → plus-que-parfait: ***était parti***."
+  - q: "C'est dommage que tu ___ (ne pas pouvoir) venir à la soirée samedi dernier."
+    answers: ["n'aies pas pu"]
+    explain: "*C'est dommage que* — оценка → subjonctif; событие в прошлом → passé: ***n'aies pas pu***."

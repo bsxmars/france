@@ -1,0 +1,44 @@
+title: "Le, en, y или ne … le"
+type: gap
+intro: "Впиши недостающее местоимение (le, l', la, les, en, y) или сочетание с ne explétif. Если по норме нужен «пустой» ne, впиши его вместе с местоимением."
+hints:
+  - "Le-атрибут не согласуется: fatiguées ? — nous le sommes."
+  - "Le = cela (прямое), en = de cela, y = à cela."
+  - "plus / moins / mieux / autrement … que + ne le + глагол."
+items:
+  - q: "Tu savais que Marc quittait l'entreprise ? — Oui, il me ___ avait dit la semaine dernière."
+    answers: ["l'"]
+    explain: "*Dire qch à qn* — прямое дополнение (весь факт) → нейтральное *le*, перед гласной **l'**."
+  - q: "Les candidates étaient-elles prêtes ? — Elles ___ étaient, mais le jury ne l'était pas."
+    answers: ["l'"]
+    explain: "Нейтральное *le* заменяет прилагательное *prêtes* и не согласуется: *elles **l'**étaient*."
+  - q: "Ce projet est beaucoup plus coûteux que nous ___ avions prévu."
+    answers: ["ne l'", "l'"]
+    explain: "Сравнительное придаточное: *que nous **ne l'**avions prévu* (ne explétif + le). Вариант без *ne* (*que nous l'avions prévu*) тоже допустим."
+  - q: "Vous êtes avocate ? — Je ___ suis depuis dix ans."
+    answers: ["le"]
+    explain: "Существительное без артикля (профессия) заменяется нейтральным **le**, без согласования."
+  - q: "Vous êtes la nouvelle avocate de M. Dubois ? — Oui, je ___ suis."
+    answers: ["la"]
+    explain: "Существительное с определённым артиклем (*la* nouvelle avocate) — конкретное лицо → местоимение согласуется: **la**. Разговорный эквивалент — *c'est moi*."
+  - q: "Il a tort, j'___ suis absolument persuadé."
+    answers: ["en"]
+    explain: "*Être persuadé **de** qch* → **en** (= de cela)."
+  - q: "Un jour, il deviendra célèbre. Moi, je n'___ crois pas."
+    answers: ["y"]
+    explain: "*Croire **à** qch* (верить в это) → **y**. Сравни: *je le crois* = *je crois que c'est vrai*."
+  - q: "Elle était très timide autrefois, mais elle ne ___ est plus du tout."
+    answers: ["l'"]
+    explain: "*L'* заменяет прилагательное *timide* (атрибут при *être*): *elle ne **l'**est plus*."
+  - q: "Ma grand-mère conduit mieux qu'on ne ___ croirait."
+    answers: ["le"]
+    explain: "*Mieux que* + ne explétif + **le**: *qu'on ne **le** croirait*. *Ne* уже есть в тексте."
+  - q: "Tu as rendu les livres à la bibliothèque ? — Pas encore, je ___ ferai demain."
+    answers: ["le"]
+    explain: "*Le* заменяет действие *rendre les livres*: *je **le** ferai* — «я это сделаю». Можно и *je les rendrai*, но в пропуске перед *ferai* — нейтральное **le**."
+  - q: "Son retard m'inquiète ; je ne m'___ attendais pas du tout."
+    answers: ["y"]
+    explain: "*S'attendre **à** qch* → **y**: *je ne m'**y** attendais pas*."
+  - q: "La conférence a duré moins longtemps qu'on ___ annonçait."
+    answers: ["ne l'", "l'"]
+    explain: "*Moins … que* + ne explétif + *le*: *qu'on **ne l'**annonçait*. Без *ne* — разговорнее, но тоже верно."

@@ -1,0 +1,55 @@
+title: "Какой союз времени?"
+type: choice
+intro: "Выбери союз, который подходит по смыслу **и** по наклонению глагола в придаточном."
+hints:
+  - "avant que, jusqu'à ce que, en attendant que + subjonctif."
+  - "pendant que, au moment où, après que, dès que, depuis que + indicatif."
+items:
+  - q: "___ nous avons emménagé ici, nous n'avons jamais eu de problème avec les voisins."
+    options: ["Depuis que", "Avant que", "Pendant que"]
+    answer: 0
+    explain: "«С тех пор как» (переехали и до сих пор) → **depuis que** + indicatif."
+  - q: "Je vais faire la vaisselle ___ tu prépares le café."
+    options: ["avant que", "pendant que", "jusqu'à ce que"]
+    answer: 1
+    explain: "Два действия одновременно, *prépares* здесь — indicatif → **pendant que**."
+  - q: "Il faut tout ranger ___ les invités arrivent."
+    options: ["après que", "avant que", "dès que"]
+    answer: 1
+    explain: "Убрать надо **до** прихода гостей; *arrivent* здесь — subjonctif (совпадает с présent) → **avant que**."
+  - q: "___ le film a commencé, mon téléphone a sonné."
+    options: ["Au moment où", "Jusqu'à ce que", "En attendant que"]
+    answer: 0
+    explain: "Точный момент совпадения двух событий, indicatif (*a commencé*) → **au moment où**."
+  - q: "Les enfants ont joué dans le jardin ___ la nuit tombe."
+    options: ["jusqu'à ce que", "depuis que", "après que"]
+    answer: 0
+    explain: "Играли **до тех пор, пока** не стемнело; *tombe* — subjonctif → **jusqu'à ce que**."
+  - q: "___ j'aurai reçu ton message, je viendrai te chercher."
+    options: ["Avant que", "Dès que", "Pendant que"]
+    answer: 1
+    explain: "«Как только» — сначала получить, потом приехать; futur antérieur → **dès que**."
+  - q: "Assieds-toi ___ le directeur soit disponible."
+    options: ["pendant que", "en attendant que", "depuis que"]
+    answer: 1
+    explain: "*soit* — subjonctif; «пока (в ожидании, что) директор освободится» → **en attendant que**."
+  - q: "___ elle chante, le public reste silencieux."
+    options: ["Tant qu'", "Avant qu'", "Jusqu'à ce qu'"]
+    answer: 0
+    explain: "«Пока (всё время, что) она поёт» — одновременность, indicatif → **tant qu'**."
+  - q: "Je te rendrai ton appareil photo ___ je serai rentré de voyage."
+    options: ["avant que", "une fois que", "jusqu'à ce que"]
+    answer: 1
+    explain: "Сначала вернусь, потом отдам; futur antérieur (indicatif) → **une fois que**."
+  - q: "___ il voit un chien, mon fils veut le caresser."
+    options: ["Chaque fois qu'", "Avant qu'", "Depuis qu'"]
+    answer: 0
+    explain: "Повторяющееся совпадение («каждый раз, когда») → **chaque fois qu'** + indicatif."
+  - q: "Nous sommes partis ___ le concert soit fini, pour éviter la foule."
+    options: ["après que", "avant que", "dès que"]
+    answer: 1
+    explain: "*soit fini* — subjonctif, ушли **до** конца концерта → **avant que**."
+  - q: "On ouvre toujours les fenêtres ___ les peintres sont partis."
+    options: ["jusqu'à ce que", "après que", "en attendant que"]
+    answer: 1
+    explain: "Сначала маляры уходят (*sont partis* — indicatif), потом открываем окна → **après que**."

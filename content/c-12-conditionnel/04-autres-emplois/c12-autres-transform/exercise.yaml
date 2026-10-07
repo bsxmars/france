@@ -1,0 +1,68 @@
+title: "Conditionnel без si"
+type: transform
+intro: "Перефразируй с **ключевым словом**: условие через sans, à ta place, gérondif, инверсию или параллельные фразы; уступка; непроверенная информация; смягчение; видимость."
+hints:
+  - "quand bien même / au cas où + conditionnel."
+  - "Слухи: conditionnel présent — настоящее, passé — прошлое."
+  - "ne saurais = ne peux pas (soutenu); on dirait = как будто."
+items:
+  - q: "Si tu ne m'avais pas aidé, j'aurais échoué à l'examen."
+    key: "SANS"
+    stem: "___, j'aurais échoué à l'examen."
+    answers: ["Sans ton aide", "Sans toi"]
+    explain: "Условие через ***sans*** + существительное с определителем: *Sans ton aide*."
+  - q: "Si j'étais toi, j'accepterais cette offre."
+    key: "PLACE"
+    stem: "___, j'accepterais cette offre."
+    answers: ["À ta place"]
+    explain: "***À ta place*** = *si j'étais toi*."
+  - q: "Même s'il me suppliait, je ne lui prêterais pas ma voiture."
+    key: "QUAND BIEN MÊME"
+    stem: "___, je ne lui prêterais pas ma voiture."
+    answers: ["Quand bien même il me supplierait"]
+    explain: "После *quand bien même* — conditionnel: ***il me supplierait*** (после *même si* был бы imparfait)."
+  - q: "Prends un parapluie : il va peut-être pleuvoir."
+    key: "AU CAS OÙ"
+    stem: "Prends un parapluie ___."
+    answers: ["au cas où il pleuvrait"]
+    explain: "***Au cas où*** + conditionnel: *au cas où il **pleuvrait***."
+  - q: "D'après la police, le cambrioleur est entré par la cave (information non confirmée)."
+    key: "SERAIT"
+    stem: "D'après la police, le cambrioleur ___ par la cave."
+    answers: ["serait entré", "serait passé"]
+    explain: "Непроверенный факт о прошлом → conditionnel passé: ***serait entré***."
+  - q: "Selon un communiqué, le PDG va bientôt démissionner (information non confirmée)."
+    key: "SUR LE POINT"
+    stem: "Selon un communiqué, le PDG ___."
+    answers: ["serait sur le point de démissionner"]
+    explain: "Непроверенная информация о ближайшем будущем → conditionnel présent: ***serait sur le point de** démissionner*."
+  - q: "Je ne peux pas vous expliquer ce phénomène."
+    key: "SAURAIS"
+    stem: "Je ___ ce phénomène."
+    answers: ["ne saurais vous expliquer", "ne saurais pas vous expliquer"]
+    explain: "Soutenu: ***je ne saurais** vous expliquer* (с одним *ne*). С *pas* фраза тоже грамматична, но звучит как «я не смог бы объяснить»."
+  - q: "Ce n'est pas raisonnable de laisser les enfants seuls si tard."
+    key: "FAUDRAIT"
+    stem: "Il ne ___ seuls si tard."
+    answers: ["faudrait pas laisser les enfants"]
+    explain: "Безличный совет без адресата: ***il ne faudrait pas** laisser…*"
+  - q: "Sur cette photo, il ressemble vraiment à son grand-père."
+    key: "DIRAIT"
+    stem: "Sur cette photo, ___ son grand-père."
+    answers: ["on dirait"]
+    explain: "Видимость: ***on dirait*** + существительное («прямо как…»)."
+  - q: "Si tu partais plus tôt, tu éviterais les bouchons."
+    key: "EN"
+    stem: "___, tu éviterais les bouchons."
+    answers: ["En partant plus tôt"]
+    explain: "Условие через gérondif: ***En partant** plus tôt*."
+  - q: "Si vous me le demandiez, je refuserais."
+    key: "DEMANDERIEZ"
+    stem: "Vous me le ___, je refuserais."
+    answers: ["demanderiez"]
+    explain: "Две параллельные фразы в conditionnel: ***Vous me le demanderiez**, je refuserais* = «попросили бы вы — я бы отказал»."
+  - q: "Même s'il était ministre, il devrait respecter la loi."
+    key: "SERAIT-IL"
+    stem: "___, il devrait respecter la loi."
+    answers: ["Serait-il ministre"]
+    explain: "Soutenu: инверсия с conditionnel вместо *même si*: ***Serait-il ministre**, il devrait…*"

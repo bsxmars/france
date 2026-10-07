@@ -1,0 +1,68 @@
+title: "Перескажи в косвенной речи"
+type: transform
+intro: "Перескажи слова в косвенной речи, вводящий глагол — в настоящем. Ключевое слово подсказывает связку. Впиши недостающую часть целиком, без кавычек."
+hints:
+  - "Утверждение → que; общий вопрос → si; qu'est-ce que → ce que; qu'est-ce qui → ce qui; приказ → de + инфинитив."
+  - "Порядок слов в косвенном вопросе прямой: без est-ce que и без инверсии."
+  - "Пересчитай лица и притяжательные: je → il / elle, mon → son, vous → je / nous."
+items:
+  - q: "Inès : « Je cherche un stage en marketing. »"
+    key: "que"
+    stem: "Inès dit ___."
+    answers: ["qu'elle cherche un stage en marketing"]
+    explain: "Утверждение → **que**; *je* → *elle*: *qu'elle cherche un stage*."
+  - q: "Le recruteur (à moi) : « Est-ce que vous avez déjà travaillé à l'étranger ? »"
+    key: "si"
+    stem: "Le recruteur me demande ___."
+    answers: ["si j'ai déjà travaillé à l'étranger"]
+    explain: "Общий вопрос → **si**, *est-ce que* исчезает; *vous* (обращено ко мне) → *je*: *si j'ai déjà travaillé*."
+  - q: "Ma collègue (à moi) : « Qu'est-ce que tu penses du nouveau logiciel ? »"
+    key: "ce que"
+    stem: "Ma collègue me demande ___."
+    answers: ["ce que je pense du nouveau logiciel"]
+    explain: "*Qu'est-ce que* (дополнение) → **ce que**; *tu* → *je*."
+  - q: "Le directeur (à nous) : « Qu'est-ce qui vous pose problème ? »"
+    key: "ce qui"
+    stem: "Le directeur nous demande ___."
+    answers: ["ce qui nous pose problème"]
+    explain: "*Qu'est-ce qui* (подлежащее) → **ce qui**; *vous* → *nous*."
+  - q: "La cheffe d'équipe (à nous) : « Terminez le rapport avant vendredi. »"
+    key: "de"
+    stem: "La cheffe d'équipe nous demande ___."
+    answers: ["de terminer le rapport avant vendredi", "de finir le rapport avant vendredi"]
+    explain: "Приказ → **de + инфинитив**: *de terminer le rapport*."
+  - q: "Le médecin du travail (à Paul) : « Ne restez pas assis toute la journée. »"
+    key: "de"
+    stem: "Le médecin du travail conseille à Paul ___."
+    answers: ["de ne pas rester assis toute la journée"]
+    explain: "Отрицательный приказ → **de ne pas** + инфинитив: оба элемента отрицания перед инфинитивом."
+  - q: "Un client : « Quand est-ce que ma commande arrivera ? »"
+    key: "quand"
+    stem: "Un client veut savoir ___."
+    answers: ["quand sa commande arrivera", "quand arrivera sa commande"]
+    explain: "Вопросительное слово **quand** сохраняется, *est-ce que* исчезает; *ma* → *sa*. С существительным-подлежащим возможна инверсия: *quand arrivera sa commande*."
+  - q: "Hugo : « Pourquoi le patron refuse-t-il ma demande ? »"
+    key: "pourquoi"
+    stem: "Hugo se demande ___."
+    answers: ["pourquoi le patron refuse sa demande"]
+    explain: "**pourquoi** сохраняется, инверсия *refuse-t-il* исчезает: *pourquoi le patron refuse sa demande*; *ma* → *sa*."
+  - q: "Les stagiaires (à moi) : « Tu peux nous aider ? »"
+    key: "si"
+    stem: "Les stagiaires me demandent ___."
+    answers: ["si je peux les aider"]
+    explain: "Общий вопрос → **si**; *tu* → *je*, *nous* (стажёры) → *les*: *si je peux les aider*."
+  - q: "Lucie : « Avec qui est-ce que je vais partager le bureau ? »"
+    key: "avec qui"
+    stem: "Lucie demande ___."
+    answers: ["avec qui elle va partager le bureau"]
+    explain: "**avec qui** сохраняется, *est-ce que* исчезает, порядок прямой; *je* → *elle*."
+  - q: "Mon voisin (à moi) : « Quel métier fais-tu ? »"
+    key: "quel"
+    stem: "Mon voisin me demande ___."
+    answers: ["quel métier je fais"]
+    explain: "**quel** + существительное сохраняется, инверсия *fais-tu* → прямой порядок *je fais*."
+  - q: "La responsable RH : « Nous recrutons deux techniciens et nous formons nos apprentis nous-mêmes. »"
+    key: "que"
+    stem: "La responsable RH explique ___."
+    answers: ["qu'ils recrutent deux techniciens et qu'ils forment leurs apprentis eux-mêmes", "qu'ils recrutent deux techniciens et forment leurs apprentis eux-mêmes", "qu'elles recrutent deux techniciens et qu'elles forment leurs apprentis elles-mêmes"]
+    explain: "Два утверждения → **que** повторяется перед каждым (*et qu'ils forment*); *nous* (фирма) → *ils*, *nos* → *leurs*, *nous-mêmes* → *eux-mêmes*."

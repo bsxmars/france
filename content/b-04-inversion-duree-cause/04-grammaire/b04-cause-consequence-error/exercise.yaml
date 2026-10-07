@@ -1,0 +1,44 @@
+title: "Найди ошибку: причина и следствие"
+type: error
+intro: "В каждом предложении **одна** ошибка в выражении причины или следствия. Исправь её и отправь предложение целиком."
+hints:
+  - "grâce à — хорошее, à cause de — плохое; parce que + предложение, à cause de + существительное."
+  - "Comme — только в начале; car — не в начале."
+  - "si / tellement + прилагательное; tant de / tellement de + существительное; c'est pourquoi без que."
+items:
+  - q: "Grâce à la tempête, il n'y avait plus d'électricité."
+    answers: ["À cause de la tempête, il n'y avait plus d'électricité.", "En raison de la tempête, il n'y avait plus d'électricité."]
+    explain: "Плохой результат → **à cause de** (или нейтральное *en raison de*), не *grâce à*."
+  - q: "Je n'ai pas pu me connecter parce que la panne."
+    answers: ["Je n'ai pas pu me connecter à cause de la panne.", "Je n'ai pas pu me connecter en raison de la panne."]
+    explain: "После *parce que* нужно предложение; с существительным → **à cause de** la panne."
+  - q: "Car il pleuvait, nous sommes restés à la maison."
+    answers: ["Comme il pleuvait, nous sommes restés à la maison.", "Puisqu'il pleuvait, nous sommes restés à la maison.", "Étant donné qu'il pleuvait, nous sommes restés à la maison."]
+    explain: "*Car* не начинает фразу; в начале — **Comme** (или *puisque, étant donné que*)."
+  - q: "Les écrans sont partout, c'est pourquoi que les enfants lisent moins."
+    answers: ["Les écrans sont partout, c'est pourquoi les enfants lisent moins.", "Les écrans sont partout, c'est pour cela que les enfants lisent moins.", "Les écrans sont partout, c'est pour ça que les enfants lisent moins."]
+    explain: "**C'est pourquoi** — без *que* (или *c'est pour cela que*)."
+  - q: "Il y a si de publicités sur ce site qu'on ne voit plus le contenu."
+    answers: ["Il y a tant de publicités sur ce site qu'on ne voit plus le contenu.", "Il y a tellement de publicités sur ce site qu'on ne voit plus le contenu."]
+    explain: "Перед существительным — **tant de / tellement de**; *si* — только с прилагательным и наречием."
+  - q: "Ce film était tant ennuyeux que je me suis endormi."
+    answers: ["Ce film était si ennuyeux que je me suis endormi.", "Ce film était tellement ennuyeux que je me suis endormi."]
+    explain: "С прилагательным — **si / tellement**; *tant* — с глаголом и с *de* + существительное."
+  - q: "Il a tellement beaucoup travaillé qu'il est tombé malade."
+    answers: ["Il a tellement travaillé qu'il est tombé malade.", "Il a tant travaillé qu'il est tombé malade."]
+    explain: "*Beaucoup* не усиливают: **tellement** (или *tant*) уже значит «так много»."
+  - q: "La connexion était très lente que la vidéo s'arrêtait sans cesse."
+    answers: ["La connexion était si lente que la vidéo s'arrêtait sans cesse.", "La connexion était tellement lente que la vidéo s'arrêtait sans cesse."]
+    explain: "*Très* не вводит следствие → **si / tellement** lente que."
+  - q: "— Pourquoi tu ris ? — Puisque cette vidéo est trop drôle !"
+    answers: ["— Pourquoi tu ris ? — Parce que cette vidéo est trop drôle !"]
+    explain: "Ответ на *pourquoi* → **Parce que**; *puisque* опирается на известное и в ответе не употребляется."
+  - q: "La vidéo n'a pas chargé comme le réseau était saturé."
+    answers: ["Comme le réseau était saturé, la vidéo n'a pas chargé.", "La vidéo n'a pas chargé parce que le réseau était saturé.", "La vidéo n'a pas chargé car le réseau était saturé."]
+    explain: "*Comme* (причина) стоит только **в начале**; после главного — *parce que* или *car*."
+  - q: "À force de il regarde des séries, il ne dort plus assez."
+    answers: ["À force de regarder des séries, il ne dort plus assez."]
+    explain: "*À force de* + **инфинитив** (или существительное), не спрягаемый глагол."
+  - q: "Mon disque dur a lâché, si bien que je perde tous mes fichiers."
+    answers: ["Mon disque dur a lâché, si bien que j'ai perdu tous mes fichiers."]
+    explain: "*Si bien que* вводит реальное следствие → **indicatif**: *j'ai perdu*."

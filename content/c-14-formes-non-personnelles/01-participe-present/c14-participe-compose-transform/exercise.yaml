@@ -1,0 +1,68 @@
+title: "Сожми придаточное в причастный оборот"
+type: transform
+intro: "Замени придаточное причастием: participe présent для одновременного действия, participe passé composé (*ayant / étant* + participe passé) для предшествующего. Впиши недостающую часть."
+hints:
+  - "qui + présent / imparfait → participe présent: qui parlent → parlant."
+  - "qui + passé composé / plus-que-parfait, comme + plus-que-parfait → ayant fait / étant parti(e)(s)."
+  - "С глаголами на être étant можно опустить: (étant) arrivés."
+items:
+  - q: "Les voyageurs qui possèdent un billet électronique peuvent embarquer directement."
+    key: "possédant"
+    stem: "Les voyageurs ___ peuvent embarquer directement."
+    answers: ["possédant un billet électronique"]
+    explain: "*Qui possèdent* — одновременное действие → participe présent **possédant**, неизменяемый (обратите внимание: *é* в основе *nous possédons*)."
+  - q: "Les étudiants qui ont déjà validé ce module sont dispensés de l'examen."
+    key: "ayant"
+    stem: "Les étudiants ___ sont dispensés de l'examen."
+    answers: ["ayant déjà validé ce module"]
+    explain: "Действие предшествует (*ont validé*) → participe passé composé **ayant validé**; *déjà* стоит между *ayant* и причастием."
+  - q: "Comme elle avait perdu son passeport, elle a dû rester à l'ambassade."
+    key: "ayant"
+    stem: "___, elle a dû rester à l'ambassade."
+    answers: ["Ayant perdu son passeport"]
+    explain: "Причина + предшествование → **Ayant perdu** (= потеряв паспорт)."
+  - q: "Comme il ne savait pas quoi répondre, il s'est tu."
+    key: "sachant"
+    stem: "___, il s'est tu."
+    answers: ["Ne sachant pas quoi répondre", "Ne sachant que répondre"]
+    explain: "Причина, одновременность → participe présent; у *savoir* особая форма **sachant**. Отрицание обрамляет причастие: *ne sachant pas*. Литературный вариант — *ne sachant que répondre*."
+  - q: "Comme les invités étaient arrivés en avance, nous avons servi l'apéritif plus tôt."
+    key: "étant"
+    stem: "Les invités ___ en avance, nous avons servi l'apéritif plus tôt."
+    answers: ["étant arrivés"]
+    explain: "У оборота своё подлежащее (*les invités*); *arriver* спрягается с *être* → **étant arrivés**, причастие согласуется (м. р. мн. ч.). Это уже proposition participe — подробнее в уроке 4."
+  - q: "Une entreprise qui emploie plus de cinquante salariés doit avoir un comité social."
+    key: "employant"
+    stem: "Une entreprise ___ doit avoir un comité social."
+    answers: ["employant plus de cinquante salariés"]
+    explain: "Определение с прямым дополнением → participe présent **employant** (основа *nous employons*), не согласуется с *entreprise*."
+  - q: "Comme elle s'était levée à l'aube, elle était épuisée le soir."
+    key: "étant"
+    stem: "___, elle était épuisée le soir."
+    answers: ["S'étant levée à l'aube"]
+    explain: "Местоименный глагол в participe passé composé: **s'étant levée**; причастие согласуется с подлежащим *elle*."
+  - q: "Les lettres qui étaient arrivées après la date limite n'ont pas été examinées."
+    key: "arrivées"
+    stem: "Les lettres ___ n'ont pas été examinées."
+    answers: ["arrivées après la date limite", "étant arrivées après la date limite"]
+    explain: "С глаголами на *être* вспомогательное *étant* обычно опускают: **arrivées** (согласование с *lettres*). Полная форма *étant arrivées* тоже верна, но тяжелее."
+  - q: "Comme nous n'avions pas reçu de réponse, nous avons relancé le fournisseur."
+    key: "ayant"
+    stem: "___, nous avons relancé le fournisseur."
+    answers: ["N'ayant pas reçu de réponse", "N'ayant reçu aucune réponse"]
+    explain: "Отрицание обрамляет вспомогательное: ***n'ayant pas reçu*** (как *n'avons pas reçu*). После отрицания *de réponse*."
+  - q: "Les clients qui se plaignent du bruit seront relogés."
+    key: "plaignant"
+    stem: "Les clients ___ seront relogés."
+    answers: ["se plaignant du bruit"]
+    explain: "Местоименный глагол сохраняет *se*: **se plaignant** (основа *nous plaignons*)."
+  - q: "Comme il avait été blessé au genou, le joueur a quitté le terrain."
+    key: "ayant"
+    stem: "___, le joueur a quitté le terrain."
+    answers: ["Ayant été blessé au genou", "Blessé au genou"]
+    explain: "Пассив в participe passé composé — **ayant été blessé**; в живом тексте чаще просто ***Blessé** au genou* (тоже верно)."
+  - q: "Comme elle est née à Lyon, elle connaît bien la gastronomie locale."
+    key: "née"
+    stem: "___, elle connaît bien la gastronomie locale."
+    answers: ["Née à Lyon", "Étant née à Lyon"]
+    explain: "*Naître* спрягается с *être*, *étant* обычно опускают: **Née à Lyon**. *Étant née à Lyon* грамматично, но тяжеловесно."

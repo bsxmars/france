@@ -1,0 +1,43 @@
+title: "Si + imparfait → conditionnel présent"
+type: gap
+intro: "Поставь глагол в imparfait (после si) или в conditionnel présent (в главном предложении)."
+hints:
+  - "После условного si — imparfait, никогда conditionnel."
+  - "Conditionnel = основа futur + -ais: appellerais, enverrais, courrais, cueillerais, faudrait."
+items:
+  - q: "Si tu me le demandais gentiment, je t'___ (appeler) ce soir."
+    answers: ["appellerais"]
+    explain: "Основа futur *appeller-* (двойное *l*) + *-ais*: ***appellerais***."
+  - q: "Si j'avais un jardin, je ___ (cueillir) mes propres fraises."
+    answers: ["cueillerais"]
+    explain: "*Cueillir* образует futur как глагол на -er: *cueiller-* → ***cueillerais***."
+  - q: "Si nous partions maintenant, nous ___ (pouvoir) encore attraper le train."
+    answers: ["pourrions"]
+    explain: "Основа *pourr-* + *-ions*: ***pourrions***."
+  - q: "Si le bus ne passait pas, je ___ (courir) jusqu'à la gare."
+    answers: ["courrais"]
+    explain: "Conditionnel *courir* — два *r*: ***courrais***. *Courais* — imparfait."
+  - q: "Je t'___ (envoyer) une carte si j'avais ton adresse."
+    answers: ["enverrais"]
+    explain: "У *envoyer* особая основа futur *enverr-*: ***enverrais***."
+  - q: "Si vous ___ (être) à ma place, que feriez-vous ?"
+    answers: ["étiez"]
+    explain: "После *si* — imparfait: ***étiez***. Conditionnel — в главном (*feriez*)."
+  - q: "S'il ___ (pleuvoir) demain, on annulerait le pique-nique."
+    answers: ["pleuvait"]
+    explain: "Возможное условие о будущем: *si* + imparfait ***pleuvait*** — не futur и не conditionnel."
+  - q: "Il ___ (falloir) prévenir les voisins si on organisait une fête."
+    answers: ["faudrait"]
+    explain: "*Falloir* → основа *faudr-*: ***il faudrait***."
+  - q: "Si elle ___ (savoir) la vérité, elle ne te parlerait plus."
+    answers: ["savait"]
+    explain: "Условие → imparfait ***savait***."
+  - q: "Nous ___ (acheter) cette maison si elle était moins chère."
+    answers: ["achèterions"]
+    explain: "*Acheter* → *achèter-* (гравис): ***achèterions***."
+  - q: "Si tu jetais un œil à mon texte, tu ___ (voir) tout de suite le problème."
+    answers: ["verrais"]
+    explain: "*Voir* → основа *verr-*: ***verrais***."
+  - q: "Si on lui proposait ce poste, est-ce qu'il ___ (accepter) ?"
+    answers: ["accepterait"]
+    explain: "Главное предложение-вопрос — conditionnel présent: ***accepterait***."

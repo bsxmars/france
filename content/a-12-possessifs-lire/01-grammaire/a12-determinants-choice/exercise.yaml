@@ -1,0 +1,51 @@
+title: "Ce, cet, cette, ces — и его, их"
+type: choice
+intro: "Выбери верное слово. Род существительного указан в скобках, если по нему его не видно."
+hints:
+  - "cet — только м. р. перед гласной или немым h."
+  - "ces — «эти», ses — «его / её» (предметов несколько)."
+items:
+  - q: "___ exercice est facile. (м.)"
+    options: ["Ce", "Cet", "Cette"]
+    answer: 1
+    explain: "*exercice* — м. р. на гласную → **cet**."
+  - q: "___ leçon est longue."
+    options: ["Ce", "Cet", "Cette"]
+    answer: 2
+    explain: "*leçon* — ж. р. → **cette**."
+  - q: "Regarde ___ fleurs !"
+    options: ["ce", "cette", "ces"]
+    answer: 2
+    explain: "Множественное число → **ces** (для обоих родов)."
+  - q: "___ garçon parle bien français."
+    options: ["Ce", "Cet", "Ces"]
+    answer: 0
+    explain: "*garçon* — м. р. на согласную → **ce**."
+  - q: "J'aime ___ école. (ж.)"
+    options: ["cet", "cette", "ce"]
+    answer: 1
+    explain: "Женский род — всегда **cette**, даже перед гласной. *Cet* бывает только у мужского рода."
+  - q: "«Эти дети» — как написать?"
+    options: ["ses enfants", "ces enfants", "cet enfants"]
+    answer: 1
+    explain: "«Эти» — **ces**. *Ses enfants* звучит так же, но значит «его / её дети»."
+  - q: "Léa cherche ___ livres. («свои»)"
+    options: ["ces", "ses", "leurs"]
+    answer: 1
+    explain: "Владелец один (*Léa*), книг много → **ses**. *Ces* — «эти», *leurs* — когда владельцев несколько."
+  - q: "Le professeur parle à ___ élèves. («своим»)"
+    options: ["ses", "leurs", "son"]
+    answer: 0
+    explain: "Владелец один — преподаватель, учеников много → **ses**."
+  - q: "«Её отец работает здесь»."
+    options: ["Sa père travaille ici.", "Son père travaille ici.", "Leur père travaille ici."]
+    answer: 1
+    explain: "*père* — м. р. → **son**; род владелицы значения не имеет."
+  - q: "«Это наш дом и наши друзья»."
+    options: ["C'est notre maison et ce sont nos amis.", "C'est nos maison et ce sont notre amis.", "C'est notre maison et ce sont notres amis."]
+    answer: 0
+    explain: "Один дом — **notre**, несколько друзей — **nos**. Формы *notres* нет."
+  - q: "«Их отец» (у брата и сестры)."
+    options: ["leurs père", "leur père", "son père"]
+    answer: 1
+    explain: "Владельцев двое, отец один → **leur** père (без -s)."

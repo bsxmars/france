@@ -1,0 +1,43 @@
+title: "Женский род прилагательных"
+type: gap
+intro: "Поставь прилагательное в скобках в женский род (и во множественное число, если существительное во мн. ч.)."
+hints:
+  - "-el, -en, -ien, -on → -elle, -enne, -ienne, -onne; -f → -ve; -eux → -euse; -er → -ère."
+  - "Особые формы: belle, nouvelle, vieille, blanche, fraîche, longue, douce, basse, grosse, sèche, publique."
+items:
+  - q: "C'est une ___ idée ! (bon)"
+    answers: ["bonne"]
+    explain: "*-on* → **-onne**: *bonne*."
+  - q: "J'ai reçu une lettre ___ de la mairie. (officiel)"
+    answers: ["officielle"]
+    explain: "*-el* → **-elle**: *officielle*."
+  - q: "Nous habitons dans une maison ___ au centre de la ville. (ancien)"
+    answers: ["ancienne"]
+    explain: "*-ien* → **-ienne**: *ancienne*."
+  - q: "Elle a acheté une voiture ___. (neuf)"
+    answers: ["neuve"]
+    explain: "*-f* → **-ve**: *neuve*."
+  - q: "Ma fille est très ___ de partir en vacances. (heureux)"
+    answers: ["heureuse"]
+    explain: "*-eux* → **-euse**: *heureuse*."
+  - q: "Cette robe est trop ___ pour moi. (cher)"
+    answers: ["chère"]
+    explain: "*-er* → **-ère** с accent grave: *chère*."
+  - q: "Il nous a raconté une ___ histoire. (long)"
+    answers: ["longue"]
+    explain: "Особая форма: *long* → **longue** (*-gue*, чтобы *g* звучало твёрдо)."
+  - q: "Le chat dort sur une serviette ___. (blanc)"
+    answers: ["blanche"]
+    explain: "Особая форма: *blanc* → **blanche**."
+  - q: "J'aime boire de l'eau ___ en été. (frais)"
+    answers: ["fraîche", "fraiche"]
+    explain: "Особая форма: *frais* → **fraîche** с accent circonflexe (орфография 1990 года разрешает и *fraiche*)."
+  - q: "Une ___ dame m'a demandé le chemin. (vieux)"
+    answers: ["vieille"]
+    explain: "Особая форма: *vieux* → **vieille**."
+  - q: "Ses deux filles sont très ___. (beau)"
+    answers: ["belles"]
+    explain: "*beau* → ж. р. **belle**, мн. ч. — **belles**."
+  - q: "Cette bibliothèque est ___ : tout le monde peut y entrer. (public)"
+    answers: ["publique"]
+    explain: "Особая форма: *public* → **publique**."

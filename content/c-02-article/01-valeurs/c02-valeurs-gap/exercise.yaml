@@ -1,0 +1,43 @@
+title: "Вставь артикль"
+type: gap
+intro: "Вставь артикль: определённый, неопределённый или партитивный (с элизией или слиянием, если нужно: l', au, du, des…)."
+hints:
+  - "à + le = au, à + les = aux, de + le = du, de + les = des."
+  - "h придыхательное: le héros, le hasard, les haricots — без элизии."
+items:
+  - q: "En entrant, j'ai aperçu ___ vieil homme assis près de la fenêtre."
+    answers: ["un"]
+    explain: "Человек вводится впервые → **un** (*vieil* — форма перед гласной)."
+  - q: "Dans ce métier, il ne faut rien laisser ___ hasard."
+    answers: ["au"]
+    explain: "*Laisser à + le hasard*: перед *h* придыхательным элизии нет, поэтому слитная форма **au** (а не ~~à l'hasard~~)."
+  - q: "Il a téléphoné ___ directeur pour s'excuser."
+    answers: ["au"]
+    explain: "*Téléphoner à* + *le directeur* → слитная форма **au**."
+  - q: "Les conclusions ___ experts ont surpris tout le monde."
+    answers: ["des"]
+    explain: "*Les conclusions de + les experts* → слитная форма **des**."
+  - q: "___ héros de ce roman est un jeune paysan ambitieux."
+    answers: ["Le"]
+    explain: "*Héros* начинается с *h* придыхательного → без элизии: ***Le** héros*. Герой этого романа — определённый."
+  - q: "___ héroïne du film est interprétée par une actrice inconnue."
+    answers: ["L'"]
+    explain: "В *héroïne* *h* немое → элизия: ***L'**héroïne*."
+  - q: "À midi, il mange toujours ___ soupe et un morceau de fromage."
+    answers: ["de la"]
+    explain: "Неопределённое количество вещества → партитив **de la**."
+  - q: "___ homme est un roseau pensant, écrivait Pascal."
+    answers: ["L'"]
+    explain: "Человек как вид, в общем значении → **l'** (*L'homme est un roseau pensant*)."
+  - q: "Elle a ___ cheveux roux et les yeux verts."
+    answers: ["les"]
+    explain: "Описание внешности (части тела) после *avoir* → определённый артикль: *elle a **les** cheveux roux*."
+  - q: "Je l'ai reconnu ___ moment où il est sorti du taxi."
+    answers: ["au"]
+    explain: "Указательное значение («в тот момент, когда») → *à + le* = **au** *moment où*."
+  - q: "Il y avait ___ monde fou sur la place ce soir-là."
+    answers: ["un"]
+    explain: "Устойчивое *il y a **un** monde fou* — «уйма народу»: неопределённый артикль с оценочным прилагательным."
+  - q: "Nous avons visité ___ Halles, l'ancien ventre de Paris."
+    answers: ["les"]
+    explain: "*Les Halles* — с *h* придыхательным, без связывания [le al]. Определённый артикль входит в название."

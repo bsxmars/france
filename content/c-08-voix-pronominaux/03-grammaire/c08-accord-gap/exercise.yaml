@@ -1,0 +1,44 @@
+title: "Согласуй причастие"
+type: gap
+intro: "Поставь местоимённый глагол в passé composé (впиши вспомогательный глагол и причастие). Реши, нужно ли согласование."
+hints:
+  - "Замени être на avoir: se = «кого?» (COD) → согласование; se = «кому?» (COI) → нет."
+  - "COD после глагола — нет согласования; COD (que, la, les) перед — согласование с ним."
+  - "se parler, se sourire, se succéder, se plaire, se téléphoner — без согласования."
+items:
+  - q: "Elle ___ (se maquiller) en cinq minutes."
+    answers: ["s'est maquillée"]
+    explain: "*Maquiller qn* — *se* = COD (себя) → **maquillée**."
+  - q: "Elle ___ (se brosser) les cheveux devant la glace."
+    answers: ["s'est brossé"]
+    explain: "COD *les cheveux* после глагола, *se* = COI → **brossé** без согласования."
+  - q: "Les deux candidats ___ (se serrer) la main avant le débat."
+    answers: ["se sont serré"]
+    explain: "COD *la main* после глагола, *se* = «друг другу» → **serré**."
+  - q: "Après dix ans, elles ___ (se reconnaître) tout de suite."
+    answers: ["se sont reconnues"]
+    explain: "*Reconnaître qn* → *se* = COD → **reconnues**."
+  - q: "Mes amis et moi, nous ___ (se téléphoner) tous les soirs."
+    answers: ["nous sommes téléphoné"]
+    explain: "*Téléphoner à qn* — *se* = COI → **téléphoné** без согласования."
+  - q: "Ces deux pianistes ___ (se succéder) sur scène toute la soirée."
+    answers: ["se sont succédé"]
+    explain: "*Succéder à qn* — COI → **succédé** неизменно."
+  - q: "Les promesses qu'ils ___ (se faire) n'ont pas été tenues."
+    answers: ["se sont faites"]
+    explain: "COD *que* = *les promesses* (ж. р. мн. ч.) стоит перед глаголом → **faites**."
+  - q: "Ils ___ (se sourire) sans dire un mot."
+    answers: ["se sont souri"]
+    explain: "*Sourire à qn* — COI → **souri**."
+  - q: "Elle ___ (se casser) la jambe au ski."
+    answers: ["s'est cassé"]
+    explain: "COD *la jambe* после глагола → **cassé**."
+  - q: "Paul et Léa ___ (se rencontrer) dans un train."
+    answers: ["se sont rencontrés"]
+    explain: "*Rencontrer qn* — COD → **rencontrés** (смешанная группа → м. р. мн. ч.)."
+  - q: "Elles ___ (se plaire) dès le premier regard."
+    answers: ["se sont plu"]
+    explain: "*Plaire à qn* — COI → **plu** неизменно."
+  - q: "Cette montre, il ___ (se l'offrir) pour ses quarante ans."
+    answers: ["se l'est offerte"]
+    explain: "COD *l'* = *cette montre* (ж. р.) стоит перед глаголом → **offerte**."

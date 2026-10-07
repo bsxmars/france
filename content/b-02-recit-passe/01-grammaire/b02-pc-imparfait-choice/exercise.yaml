@@ -1,0 +1,47 @@
+title: "Событие или фон?"
+type: choice
+intro: "Выбери форму, которая подходит по смыслу. Спрашивай себя: глагол двигает сюжет или рисует декорации?"
+hints:
+  - "Ограниченная длительность (de 2015 à 2022, trois fois) → passé composé."
+  - "savoir, connaître, vouloir, pouvoir меняют смысл: savais — знал, ai su — узнал."
+items:
+  - q: "Quand je suis entré, tout le monde ___ ."
+    options: ["a dansé", "dansait", "avait dansé"]
+    answer: 1
+    explain: "Действие в процессе, когда произошло событие (*je suis entré*) → imparfait: *tout le monde dansait*."
+  - q: "Je ___ trois fois à Rome."
+    options: ["suis allé", "allais", "étais allé"]
+    answer: 0
+    explain: "Число раз названо (**trois fois**) — это подсчёт событий → passé composé: *je suis allé*."
+  - q: "D'habitude, il ___ le bus, mais ce jour-là il a pris un taxi."
+    options: ["a pris", "prenait", "avait pris"]
+    answer: 1
+    explain: "**D'habitude** — привычка → imparfait. А *ce jour-là* — однократное отступление от привычки → passé composé."
+  - q: "Elle ___ dans cette entreprise de 2015 à 2022."
+    options: ["travaillait", "a travaillé", "avait travaillé"]
+    answer: 1
+    explain: "Период с чёткими границами (**de 2015 à 2022**) рассматривается как законченное целое → passé composé."
+  - q: "Il ___ beau, les oiseaux chantaient : c'était une journée parfaite."
+    options: ["a fait", "faisait", "fait"]
+    answer: 1
+    explain: "Погода и описание обстановки → imparfait: *il faisait beau*."
+  - q: "Soudain, quelqu'un ___ mon nom."
+    options: ["criait", "a crié", "avait crié"]
+    answer: 1
+    explain: "**Soudain** — внезапное событие → passé composé: *a crié*."
+  - q: "Quand je l'ai vu hier, il ___ fatigué."
+    options: ["a eu l'air", "avait l'air", "avait eu l'air"]
+    answer: 1
+    explain: "Внешний вид человека — описание → imparfait: *il avait l'air fatigué*."
+  - q: "Quand elle ___ la nouvelle, elle s'est mise à pleurer."
+    options: ["apprenait", "a appris", "apprend"]
+    answer: 1
+    explain: "Два события подряд: узнала → заплакала. Оба в passé composé: *quand elle a appris…, elle s'est mise à pleurer*."
+  - q: "À cette époque-là, nous ___ dans un petit appartement sans ascenseur."
+    options: ["avons habité", "habitions", "avions habité"]
+    answer: 1
+    explain: "**À cette époque-là** — описание жизни в прошлом без границ → imparfait: *nous habitions*."
+  - q: "J'___ Anne à Lyon, dans un cours de salsa."
+    options: ["connaissais", "ai connu", "avais connu"]
+    answer: 1
+    explain: "*connaître* в passé composé — «познакомиться» (событие): *j'ai connu Anne*. *Je connaissais Anne* — «был знаком» (состояние)."

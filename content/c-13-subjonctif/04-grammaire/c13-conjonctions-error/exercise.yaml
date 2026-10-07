@@ -1,0 +1,41 @@
+title: "Найди ошибку после союза"
+type: error
+intro: "В каждом предложении **одна** ошибка: не то наклонение после союза, лишнее отрицание, que вместо инфинитива. Исправь и отправь предложение целиком."
+hints:
+  - "après que + indicatif; avant que + subjonctif."
+  - "à moins que… ne + subjonctif — без pas."
+  - "Одно подлежащее → préposition + infinitif."
+items:
+  - q: "Après qu'il soit rentré, nous avons dîné."
+    answers: ["Après qu'il est rentré, nous avons dîné.", "Après qu'il a été rentré, nous avons dîné.", "Après qu'il fut rentré, nous avons dîné."]
+    explain: "По норме *après que* + indicatif: ***est rentré***. Subjonctif здесь — распространённая ошибка."
+  - q: "Je ne sortirai pas avant que tu as fini tes devoirs."
+    answers: ["Je ne sortirai pas avant que tu aies fini tes devoirs.", "Je ne sortirai pas avant que tu n'aies fini tes devoirs."]
+    explain: "*Avant que* + subjonctif: ***aies fini*** (можно с ne explétif: *n'aies fini*)."
+  - q: "Nous partirons demain, à moins qu'il ne neige pas."
+    answers: ["Nous partirons demain, à moins qu'il ne neige.", "Nous partirons demain, à moins qu'il neige."]
+    explain: "*À moins que* уже значит «если не»; *ne* — explétif, *pas* лишнее: ***à moins qu'il (ne) neige***."
+  - q: "J'économise pour que je puisse acheter une maison."
+    answers: ["J'économise pour pouvoir acheter une maison.", "J'économise pour acheter une maison.", "J'économise afin de pouvoir acheter une maison.", "J'économise afin d'acheter une maison."]
+    explain: "Подлежащее одно (*je*) → *pour* + infinitif: ***pour pouvoir acheter***."
+  - q: "Bien qu'il pleut, nous sortons."
+    answers: ["Bien qu'il pleuve, nous sortons."]
+    explain: "*Bien que* + subjonctif: ***pleuve***."
+  - q: "Il a tout organisé pendant que nous soyons en vacances."
+    answers: ["Il a tout organisé pendant que nous étions en vacances."]
+    explain: "*Pendant que* — реальное одновременное действие → indicatif; фон в прошлом → ***étions***."
+  - q: "Restez assis jusqu'à ce que l'avion ne s'arrête pas complètement."
+    answers: ["Restez assis jusqu'à ce que l'avion s'arrête complètement.", "Restez assis jusqu'à ce que l'avion se soit complètement arrêté.", "Restez assis jusqu'à ce que l'avion se soit arrêté complètement."]
+    explain: "Русское «пока **не** остановится» по-французски без отрицания: ***jusqu'à ce que l'avion s'arrête***."
+  - q: "Il est entré sans que personne ne l'a vu."
+    answers: ["Il est entré sans que personne l'ait vu.", "Il est entré sans que personne ne l'ait vu.", "Il est entré sans que personne le voie.", "Il est entré sans que personne ne le voie."]
+    explain: "*Sans que* + subjonctif: ***l'ait vu*** (или *le voie*). *Ne* после *sans que personne* лучше опустить."
+  - q: "Je vous prête ce livre pourvu que vous me le rendez la semaine prochaine."
+    answers: ["Je vous prête ce livre pourvu que vous me le rendiez la semaine prochaine."]
+    explain: "*Pourvu que* (условие) + subjonctif: ***rendiez***."
+  - q: "Il a crié si fort que tous les voisins se soient réveillés."
+    answers: ["Il a crié si fort que tous les voisins se sont réveillés."]
+    explain: "*Si… que* в утверждении — реальное следствие → indicatif: ***se sont réveillés***."
+  - q: "Ce n'est pas qu'il est méchant, mais il manque de tact."
+    answers: ["Ce n'est pas qu'il soit méchant, mais il manque de tact."]
+    explain: "Отвергаемая причина (*ce n'est pas que*) → subjonctif: ***soit***."

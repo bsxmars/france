@@ -1,0 +1,43 @@
+title: "Мнение: indicatif или subjonctif"
+type: gap
+intro: "Поставь глагол в présent de l'indicatif или в présent du subjonctif (если не указано другое). Утверждаю — indicatif, сомневаюсь — subjonctif."
+hints:
+  - "penser, croire, trouver, être sûr, il me semble, espérer → indicatif."
+  - "ne pas penser / croire / trouver, douter, ne pas être sûr, il semble que → subjonctif."
+items:
+  - q: "Je pense que les écrans ___ (avoir) trop de place dans la vie des enfants."
+    answers: ["ont"]
+    explain: "Утвердительное *je pense que* → indicatif: **ont**."
+  - q: "Je ne pense pas que les écrans ___ (avoir) trop de place dans leur vie."
+    answers: ["aient"]
+    explain: "Отрицание *je ne pense pas que* — сомнение → subjonctif: **aient**."
+  - q: "Mes collègues trouvent que le nouveau directeur ___ (être) trop strict."
+    answers: ["est"]
+    explain: "*Trouver que* в утверждении → indicatif: **est**."
+  - q: "Je doute que les parents ___ (comprendre) vraiment la réforme."
+    answers: ["comprennent"]
+    explain: "*Douter que* → всегда subjonctif: **comprennent**."
+  - q: "Il me semble que cette école ___ (faire) beaucoup pour l'inclusion."
+    answers: ["fait"]
+    explain: "*Il me semble que* = «я считаю» → indicatif: **fait**."
+  - q: "Il semble que le ministère ___ (vouloir) supprimer cette épreuve."
+    answers: ["veuille", "veut"]
+    explain: "*Il semble que* (безличное «похоже») обычно → subjonctif **veuille**; indicatif *veut* тоже встречается, когда факт почти очевиден."
+  - q: "Nous ne sommes pas sûrs que tous les élèves ___ (savoir) se servir d'un dictionnaire."
+    answers: ["sachent"]
+    explain: "*Ne pas être sûr que* → subjonctif: **sachent**."
+  - q: "J'espère que vous ___ (pouvoir) venir à la réunion des parents demain."
+    answers: ["pourrez", "pouvez"]
+    explain: "*Espérer* → indicatif, обычно futur: **pourrez** (présent *pouvez* тоже возможен)."
+  - q: "Trouvez-vous que ce manuel ___ (être) adapté aux débutants ?"
+    answers: ["soit", "est"]
+    explain: "Вопрос с инверсией — сомнение допускается → **soit** (книжно); *est* тоже правилен: говорящий нейтрально спрашивает."
+  - q: "Le fait que l'apprentissage ___ (être) mal considéré en France pose problème."
+    answers: ["soit", "est"]
+    explain: "После *le fait que* чаще **soit** (сдержанная, «обсуждающая» позиция); *est* — когда говорящий подчёркивает реальность факта."
+  - q: "Je ne crois pas qu'il ___ (finir) sa thèse avant l'été. (subjonctif passé)"
+    answers: ["ait fini"]
+    explain: "Сомнение + действие, завершённое к определённому моменту → subjonctif passé: **ait fini**."
+  - q: "Je suis convaincue que l'éducation ___ (être) la clé de l'égalité."
+    answers: ["est"]
+    explain: "*Être convaincu que* — уверенность → indicatif: **est**."

@@ -1,0 +1,57 @@
+title: "Скажи обратное"
+type: transform
+intro: "Выскажи противоположное мнение по ключу. Следи за наклонением: при сомнении — subjonctif, при утверждении — indicatif. Впиши придаточное целиком, начиная с que."
+hints:
+  - "je pense que + indicatif ↔ je ne pense pas que + subjonctif."
+  - "je suis sûr que + indicatif ↔ je doute que / je ne suis pas sûr que + subjonctif."
+items:
+  - q: "Je pense que cette réforme est utile."
+    key: "ne pas penser"
+    stem: "Je ne pense pas ___."
+    answers: ["que cette réforme soit utile"]
+    explain: "Отрицание → сомнение → subjonctif: *que cette réforme **soit** utile*."
+  - q: "Je crois que les enseignants ont assez de moyens."
+    key: "ne pas croire"
+    stem: "Je ne crois pas ___."
+    answers: ["que les enseignants aient assez de moyens"]
+    explain: "*Ne pas croire que* → subjonctif: **aient**."
+  - q: "Je ne trouve pas que ce cours soit ennuyeux."
+    key: "trouver"
+    stem: "Je trouve ___."
+    answers: ["que ce cours est ennuyeux"]
+    explain: "Утвердительное *trouver que* → indicatif: **est**."
+  - q: "Je suis sûre que les élèves savent utiliser internet."
+    key: "douter"
+    stem: "Je doute ___."
+    answers: ["que les élèves sachent utiliser internet", "que les élèves sachent utiliser Internet"]
+    explain: "*Douter que* → subjonctif: **sachent**."
+  - q: "Je ne pense pas que la directrice puisse changer les horaires."
+    key: "penser"
+    stem: "Je pense ___."
+    answers: ["que la directrice peut changer les horaires", "que la directrice pourra changer les horaires", "que la directrice pourrait changer les horaires"]
+    explain: "Утверждение → indicatif: **peut** (или futur *pourra*, conditionnel *pourrait*)."
+  - q: "Il me semble que les jeunes lisent moins qu'avant."
+    key: "il ne me semble pas"
+    stem: "Il ne me semble pas ___."
+    answers: ["que les jeunes lisent moins qu'avant"]
+    explain: "Отрицание → subjonctif: *qu'ils **lisent*** — форма совпадает с indicatif у *lire* в 3-м л. мн. ч."
+  - q: "Je crois que ce lycée obtient de bons résultats."
+    key: "ne pas croire"
+    stem: "Je ne crois pas ___."
+    answers: ["que ce lycée obtienne de bons résultats"]
+    explain: "*Ne pas croire que* → subjonctif: **obtienne**."
+  - q: "Nous sommes certains que le projet a réussi."
+    key: "ne pas être certain"
+    stem: "Nous ne sommes pas certains ___."
+    answers: ["que le projet ait réussi"]
+    explain: "Сомнение + предшествующее действие → subjonctif passé: *que le projet **ait réussi***."
+  - q: "Je ne crois pas que mon fils veuille faire des études longues."
+    key: "croire"
+    stem: "Je crois ___."
+    answers: ["que mon fils veut faire des études longues", "que mon fils voudra faire des études longues", "que mon fils voudrait faire des études longues"]
+    explain: "Утверждение → indicatif: **veut** (или *voudra*, *voudrait*)."
+  - q: "Les inégalités scolaires augmentent. C'est inquiétant. (смягчённое высказывание)"
+    key: "le fait que"
+    stem: "Le fait ___ est inquiétant."
+    answers: ["que les inégalités scolaires augmentent"]
+    explain: "*Le fait que* в сдержанном высказывании → subjonctif *augmentent* (у глаголов на *-er* в 3-м л. мн. ч. форма та же, что в indicatif)."

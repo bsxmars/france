@@ -1,0 +1,68 @@
+title: "Сверни придаточное в proposition participe"
+type: transform
+intro: "Перепиши придаточное причины или времени как proposition participe (оборот со своим подлежащим). Впиши недостающую часть начала фразы без запятой."
+hints:
+  - "Одновременная причина → participe présent: comme le musée ferme → le musée fermant."
+  - "Предшествующая причина → ayant / étant + participe passé."
+  - "Время (когда… закончилось) → participe passé: quand le repas fut terminé → le repas terminé."
+items:
+  - q: "Comme le directeur était absent, la réunion a été reportée."
+    key: "étant"
+    stem: "___, la réunion a été reportée."
+    answers: ["Le directeur étant absent"]
+    explain: "Причина, одновременность; своё подлежащее *le directeur* → **Le directeur étant absent**."
+  - q: "Quand le film fut terminé, les spectateurs sont sortis en silence."
+    key: "terminé"
+    stem: "___, les spectateurs sont sortis en silence."
+    answers: ["Le film terminé", "Le film une fois terminé", "Une fois le film terminé", "Le film étant terminé", "Le film ayant été terminé"]
+    explain: "Время, предшествование → participe passé без вспомогательного: **Le film terminé**. С *une fois* — подчёркнутое немедленное предшествование."
+  - q: "Comme le train avait du retard, nous avons raté la correspondance."
+    key: "ayant"
+    stem: "___, nous avons raté la correspondance."
+    answers: ["Le train ayant du retard", "Le train ayant eu du retard"]
+    explain: "У оборота своё подлежащее *le train*: **Le train ayant du retard** (одновременность) или *ayant eu* (предшествование)."
+  - q: "Comme les négociations avaient échoué, les syndicats ont appelé à la grève."
+    key: "ayant"
+    stem: "___, les syndicats ont appelé à la grève."
+    answers: ["Les négociations ayant échoué"]
+    explain: "*Échouer* спрягается с *avoir* → **Les négociations ayant échoué** (без согласования)."
+  - q: "Dès que la décision fut prise, chacun s'est mis au travail."
+    key: "une fois"
+    stem: "___, chacun s'est mis au travail."
+    answers: ["Une fois la décision prise", "La décision une fois prise"]
+    explain: "*Une fois* + существительное + participe passé = *dès que / une fois que*: **Une fois la décision prise** (согласование *prise*)."
+  - q: "Comme sa mère était partie en voyage, Lucas a gardé ses petits frères."
+    key: "partie"
+    stem: "___, Lucas a gardé ses petits frères."
+    answers: ["Sa mère partie en voyage", "Sa mère étant partie en voyage"]
+    explain: "Глагол на *être*: можно ***Sa mère étant partie*** или короче ***Sa mère partie*** (согласование с *mère*)."
+  - q: "Comme la bibliothèque ferme le dimanche, je travaille à la maison ce jour-là."
+    key: "fermant"
+    stem: "___, je travaille à la maison ce jour-là."
+    answers: ["La bibliothèque fermant le dimanche"]
+    explain: "Причина, одновременность → participe présent: **La bibliothèque fermant le dimanche**."
+  - q: "Quand les invités furent partis, elle a fait la vaisselle."
+    key: "partis"
+    stem: "___, elle a fait la vaisselle."
+    answers: ["Les invités partis", "Les invités une fois partis", "Une fois les invités partis", "Les invités étant partis"]
+    explain: "Время, предшествование → **Les invités partis** (согласование м. р. мн. ч.)."
+  - q: "Comme personne ne voulait parler, le professeur a interrogé un élève au hasard."
+    key: "voulant"
+    stem: "___, le professeur a interrogé un élève au hasard."
+    answers: ["Personne ne voulant parler"]
+    explain: "Отрицательное местоимение-подлежащее + *ne* перед причастием: **Personne ne voulant parler**."
+  - q: "Comme le prix de l'essence avait augmenté, beaucoup de gens ont pris le train."
+    key: "ayant"
+    stem: "___, beaucoup de gens ont pris le train."
+    answers: ["Le prix de l'essence ayant augmenté"]
+    explain: "*Augmenter* (непереходный) спрягается с *avoir* → **ayant augmenté**."
+  - q: "Aussitôt que le contrat fut signé, les travaux ont commencé."
+    key: "aussitôt"
+    stem: "___, les travaux ont commencé."
+    answers: ["Aussitôt le contrat signé", "Le contrat aussitôt signé"]
+    explain: "*Aussitôt* + существительное + participe passé = *aussitôt que*: **Aussitôt le contrat signé**."
+  - q: "Comme la tempête s'était calmée, les bateaux sont sortis du port."
+    key: "étant"
+    stem: "___, les bateaux sont sortis du port."
+    answers: ["La tempête s'étant calmée"]
+    explain: "Местоименный глагол в participe passé composé: **La tempête s'étant calmée** (согласование с *tempête*)."

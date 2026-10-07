@@ -1,0 +1,44 @@
+title: "De, des, du или un?"
+type: gap
+intro: "Вставь de (d'), предлог de с артиклем (du, de la, de l', des) или артикль. Помни: определённое существительное сохраняет артикль."
+hints:
+  - "beaucoup de, peu de, une tasse de — но la plupart des, bien des, encore du."
+  - "Couvert de neige, mais rempli des bagages de mon oncle."
+  - "de + прилагательное + сущ. мн. ч.; но des jeunes gens, des petits pois."
+items:
+  - q: "La plupart ___ invités sont partis avant minuit."
+    answers: ["des"]
+    explain: "*La plupart* + ***des*** + сущ. мн. ч."
+  - q: "Il a passé une grande partie ___ nuit à relire son mémoire."
+    answers: ["de la"]
+    explain: "*Une partie* + **de + определённый артикль**: *une partie **de la** nuit*."
+  - q: "Bien ___ gens ignorent l'histoire de leur propre quartier."
+    answers: ["des"]
+    explain: "*Bien* (= *beaucoup*) требует *des*: ***bien des** gens*."
+  - q: "Les sommets étaient couverts ___ neige fraîche."
+    answers: ["de"]
+    explain: "*Couvert de* + партитив (*de la neige*) → остаётся одно ***de***."
+  - q: "Le coffre était rempli ___ livres que mon père avait collectionnés."
+    answers: ["des"]
+    explain: "Существительное определено придаточным (*que mon père avait collectionnés*) → *de + les* = ***des***."
+  - q: "Nous avons vu ___ jeunes gens qui chantaient dans la rue."
+    answers: ["des"]
+    explain: "*Jeunes gens* — единое понятие, *des* сохраняется: ***des** jeunes gens*."
+  - q: "Ce chercheur a obtenu ___ résultats très prometteurs."
+    answers: ["des"]
+    explain: "Прилагательное стоит **после** существительного → обычный неопределённый артикль: ***des** résultats prometteurs*."
+  - q: "Ce chercheur a obtenu ___ excellents résultats."
+    answers: ["d'"]
+    explain: "Прилагательное **перед** существительным во мн. ч. → ***d'**excellents résultats*."
+  - q: "Je n'ai plus ___ patience avec ce client."
+    answers: ["de"]
+    explain: "Отрицание при прямом дополнении: партитив *de la patience* → ***de** patience*."
+  - q: "Ce n'est pas ___ problème insoluble, voyons !"
+    answers: ["un"]
+    explain: "После *être* артикль при отрицании сохраняется: *ce n'est pas **un** problème*."
+  - q: "Pour ce poste, j'aurais besoin ___ assistant bilingue."
+    answers: ["d'un"]
+    explain: "Неопределённый артикль **ед. ч.** после *avoir besoin de* сохраняется: *besoin **d'un** assistant*."
+  - q: "Il ne boit que ___ eau gazeuse, jamais d'alcool."
+    answers: ["de l'"]
+    explain: "*Ne… que* — ограничение, не отрицание: партитив сохраняется — *il ne boit que **de l'**eau*."

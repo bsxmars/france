@@ -1,0 +1,52 @@
+title: "Артикль после c'est и при национальности"
+type: choice
+intro: "Выбери артикль. Прочерк «—» значит, что артикль не нужен."
+hints:
+  - "C'est + один из многих → un / une."
+  - "C'est + предмет + de + чей → le / la."
+  - "Национальность после être — без артикля; после c'est — с артиклем."
+items:
+  - q: "C'est ___ pharmacie. — Это аптека."
+    options: ["une", "la", "—"]
+    answer: 0
+    explain: "Просто называем предмет, один из многих → неопределённый артикль **une**."
+  - q: "C'est ___ pharmacie de Marc. — Это аптека Марка."
+    options: ["une", "la", "—"]
+    answer: 1
+    explain: "*de Marc* говорит, чья это аптека → предмет определённый → **la**."
+  - q: "Est-ce ___ cahier ? — Это тетрадь?"
+    options: ["un", "le", "—"]
+    answer: 0
+    explain: "Спрашиваем, что это за предмет, принадлежность не указана → **un**."
+  - q: "Ce n'est pas ___ livre de Paul, c'est le livre de Léa."
+    options: ["un", "le", "—"]
+    answer: 1
+    explain: "Есть *de Paul* — «чей» → **le**. В отрицании *ce n'est pas* правило то же."
+  - q: "Anna est ___ russe. — Анна русская."
+    options: ["une", "la", "—"]
+    answer: 2
+    explain: "Национальность после *être* — **без артикля**: *Anna est russe*."
+  - q: "Marc est ___ parisien. — Марк парижанин."
+    options: ["un", "le", "—"]
+    answer: 2
+    explain: "Житель города после *être* — тоже **без артикля**."
+  - q: "C'est ___ Français. — Это француз."
+    options: ["un", "le", "—"]
+    answer: 0
+    explain: "После *c'est* артикль нужен: называем человека → **un** Français (здесь это существительное, с большой буквы)."
+  - q: "C'est ___ usine. — Это завод."
+    options: ["une", "l'", "—"]
+    answer: 0
+    explain: "Просто называем предмет → **une** usine [y-nyzin]."
+  - q: "C'est ___ chambre de ma sœur. — Это комната моей сестры."
+    options: ["une", "la", "—"]
+    answer: 1
+    explain: "*de ma sœur* — «чья» → **la** chambre."
+  - q: "Ma mère est ___ française. — Моя мать француженка."
+    options: ["une", "la", "—"]
+    answer: 2
+    explain: "Национальность после *être* → без артикля: *Ma mère est française*."
+  - q: "Est-ce ___ revue de Léa ? — Это журнал Леи?"
+    options: ["une", "la", "—"]
+    answer: 1
+    explain: "*de Léa* — принадлежность → **la** revue. Вопрос не меняет правила."

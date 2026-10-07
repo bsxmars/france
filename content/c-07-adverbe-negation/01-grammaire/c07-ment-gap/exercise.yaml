@@ -1,0 +1,44 @@
+title: "Образуй наречие"
+type: gap
+intro: "Образуй наречие от прилагательного в скобках и впиши его. Помни об исключениях на -ément и о -amment / -emment."
+hints:
+  - "Согласная в конце → женский род + -ment; гласная (-i, -é, -u, -ai) → мужской род + -ment."
+  - "-ant → -amment, -ent → -emment (две m)."
+  - "profondément, précisément, énormément, gentiment, brièvement — исключения."
+items:
+  - q: "Elle a ___ (profond) changé depuis son séjour au Japon."
+    answers: ["profondément"]
+    explain: "*Profond* входит в группу на **-ément**: *profondément*, а не ~~profondement~~."
+  - q: "Les enfants jouaient ___ (bruyant) dans la cour."
+    answers: ["bruyamment"]
+    explain: "*-ant* → **-amment**: *bruyant → bruyamment*."
+  - q: "Il a ___ (prudent) refusé de se prononcer."
+    answers: ["prudemment"]
+    explain: "*-ent* → **-emment**: *prudent → prudemment*, произносится [prydamɑ̃]."
+  - q: "Le guide nous a ___ (gentil) proposé de porter nos sacs."
+    answers: ["gentiment"]
+    explain: "Исключение: *gentil → **gentiment***, без *l* и без *e*."
+  - q: "Résumez ___ (bref) votre projet en trois phrases."
+    answers: ["brièvement"]
+    explain: "Особая основа: *bref → **brièvement***."
+  - q: "Ce chercheur travaille ___ (assidu) depuis des mois."
+    answers: ["assidûment", "assidument"]
+    explain: "*Assidu* оканчивается на гласную → *-ment* к мужскому роду; традиционно с циркумфлексом **assidûment**, по реформе 1990 года — *assidument*."
+  - q: "C'est ___ (précis) ce que je voulais dire."
+    answers: ["précisément"]
+    explain: "*Précis* → **précisément** (группа на *-ément*)."
+  - q: "Il m'a répondu ___ (sec) qu'il n'avait pas le temps."
+    answers: ["sèchement"]
+    explain: "Женский род *sèche* + *-ment* → **sèchement**; гравис сохраняется."
+  - q: "Nous nous voyons ___ (fréquent) depuis la rentrée."
+    answers: ["fréquemment"]
+    explain: "*Fréquent* → **fréquemment**: *-ent* → *-emment*."
+  - q: "Ils ont ___ (résolu) choisi la voie de la négociation."
+    answers: ["résolument"]
+    explain: "*Résolu* оканчивается на гласную → **résolument**, без *e* (не ~~résoluement~~)."
+  - q: "Il pleuvait ___ (abondant) sur toute la région."
+    answers: ["abondamment"]
+    explain: "*Abondant* → **abondamment**."
+  - q: "Ses amis le suivaient ___ (aveugle), sans jamais discuter."
+    answers: ["aveuglément"]
+    explain: "*Aveugle* → **aveuglément** (группа на *-ément*), «слепо, безоглядно»."

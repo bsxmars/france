@@ -1,0 +1,43 @@
+title: "Найди ошибку в неопределённых словах"
+type: error
+intro: "В каждом предложении **одна** ошибка: форма или артикль неопределённого слова, лишнее pas, место предлога. Исправь её и отправь предложение целиком."
+hints:
+  - "d'autres, de tels, certains — без des; chacun — без существительного; chaque — только с существительным."
+  - "aucun, nul, personne, rien — с ne, но без pas; quiconque — без qui."
+items:
+  - q: "Nous avons envisagé des autres hypothèses avant de conclure."
+    answers: ["Nous avons envisagé d'autres hypothèses avant de conclure."]
+    explain: "Неопределённый артикль мн. ч. перед *autres* → **d'autres** hypothèses. *Des autres* = *de + les autres*."
+  - q: "Je n'avais jamais rencontré des tels obstacles."
+    answers: ["Je n'avais jamais rencontré de tels obstacles."]
+    explain: "Перед *tels* (и вообще после отрицания) — **de**: *de tels obstacles*."
+  - q: "Les deux frères se moquent de l'un l'autre sans arrêt."
+    answers: ["Les deux frères se moquent l'un de l'autre sans arrêt."]
+    explain: "Предлог ставится между частями: **l'un de l'autre**."
+  - q: "Chaque a le droit de s'exprimer."
+    answers: ["Chacun a le droit de s'exprimer."]
+    explain: "Без существительного — местоимение **chacun**."
+  - q: "Il n'a pas aucune raison de se plaindre."
+    answers: ["Il n'a aucune raison de se plaindre."]
+    explain: "*Aucun* — отрицательное слово, *pas* с ним не сочетается: **Il n'a aucune raison**."
+  - q: "Quiconque qui franchit cette ligne sera disqualifié."
+    answers: ["Quiconque franchit cette ligne sera disqualifié."]
+    explain: "*Quiconque* = *celui qui*, сам вводит придаточное: **Quiconque franchit…**"
+  - q: "Des certains experts contestent ces chiffres."
+    answers: ["Certains experts contestent ces chiffres."]
+    explain: "*Certains* во мн. ч. употребляется без артикля: **Certains experts**."
+  - q: "J'ai gardé les photos tel quel, sans retouche."
+    answers: ["J'ai gardé les photos telles quelles, sans retouche."]
+    explain: "*Tel quel* согласуется с существительным: *photos* — ж. р. мн. ч. → **telles quelles**."
+  - q: "Ce stylo est vide, passe-m'en autre, s'il te plaît."
+    answers: ["Ce stylo est vide, passe-m'en un autre, s'il te plaît."]
+    explain: "Местоимение «другой (какой-нибудь)» — с артиклем: **un autre**; *en* при нём обязателен: *passe-m'en un autre*."
+  - q: "Il nous a parlé de quelque chose d'autres."
+    answers: ["Il nous a parlé de quelque chose d'autre."]
+    explain: "После *quelque chose de* прилагательное — м. р. ед. ч.: **d'autre**."
+  - q: "Les invités sont partis chacuns de leur côté."
+    answers: ["Les invités sont partis chacun de leur côté.", "Les invités sont partis chacun de son côté."]
+    explain: "*Chacun* не имеет мн. ч.: **chacun** de leur côté (допустимо и *de son côté*)."
+  - q: "Je l'ai répété à plusieures reprises."
+    answers: ["Je l'ai répété à plusieurs reprises.", "Je l'ai répété à maintes reprises."]
+    explain: "*Plusieurs* не изменяется по родам: **à plusieurs reprises**."

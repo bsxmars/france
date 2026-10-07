@@ -1,0 +1,43 @@
+title: "Найди ошибку в каузативной конструкции"
+type: error
+intro: "В каждом предложении **одна** ошибка: место местоимения или существительного, согласование *fait*, выбор между COD и *à*, лишнее или пропущенное *se*. Исправь и отправь предложение целиком."
+hints:
+  - "Faire + infinitif — неразрывный блок, местоимения перед faire."
+  - "Fait + infinitif — без согласования."
+items:
+  - q: "Je fais les élèves travailler en groupe."
+    answers: ["Je fais travailler les élèves en groupe."]
+    explain: "С *faire* существительное-исполнитель стоит **после** инфинитива: *fais travailler les élèves*."
+  - q: "Ces chemises, je les ai faites repasser au pressing."
+    answers: ["Ces chemises, je les ai fait repasser au pressing."]
+    explain: "*Fait* + infinitif не согласуется: ***les ai fait repasser***."
+  - q: "Ne fais pas les attendre trop longtemps."
+    answers: ["Ne les fais pas attendre trop longtemps."]
+    explain: "В отрицательном повелительном местоимение стоит перед *faire*: ***Ne les fais pas attendre***."
+  - q: "Le guide a fait voir la cathédrale les touristes."
+    answers: ["Le guide a fait voir la cathédrale aux touristes."]
+    explain: "У инфинитива уже есть прямое дополнение (*la cathédrale*) → исполнитель вводится через *à*: ***aux touristes***."
+  - q: "Ce film l'a fait se pleurer."
+    answers: ["Ce film l'a fait pleurer."]
+    explain: "*Pleurer* — не местоименный глагол, *se* здесь лишнее: ***l'a fait pleurer***."
+  - q: "Elle s'est faite opérer du genou l'an dernier."
+    answers: ["Elle s'est fait opérer du genou l'an dernier."]
+    explain: "*Se faire* + infinitif: *fait* не согласуется даже с *être*: ***s'est fait opérer***."
+  - q: "Je voudrais faire le venir à mon bureau."
+    answers: ["Je voudrais le faire venir à mon bureau."]
+    explain: "Местоимение стоит перед *faire*, а не перед инфинитивом: ***le faire venir***."
+  - q: "La maîtresse a fait asseoir-se les enfants."
+    answers: ["La maîtresse a fait asseoir les enfants."]
+    explain: "После *faire* возвратное местоимение у *s'asseoir* опускается: ***faire asseoir***."
+  - q: "Je lui l'ai fait comprendre clairement."
+    answers: ["Je le lui ai fait comprendre clairement."]
+    explain: "Порядок двух местоимений третьего лица: ***le lui***."
+  - q: "Fais les entrer, ils attendent depuis une heure."
+    answers: ["Fais-les entrer, ils attendent depuis une heure.", "Fais-les entrer ils attendent depuis une heure."]
+    explain: "В утвердительном повелительном местоимение после *faire* **через дефис**: ***Fais-les entrer***."
+  - q: "Elle s'est laissé convaincre à son collègue."
+    answers: ["Elle s'est laissé convaincre par son collègue.", "Elle s'est laissée convaincre par son collègue."]
+    explain: "При *se laisser* / *se faire* + infinitif исполнитель вводится через ***par***: *par son collègue*. *Laissé* не согласуется: по реформе 1990 — никогда, а по традиционному правилу — потому что она не выполняет действие *convaincre*, а испытывает его. Форму *laissée* засчитываем, но это неточность."
+  - q: "Je laisse lui lire ce livre."
+    answers: ["Je lui laisse lire ce livre.", "Je le laisse lire ce livre."]
+    explain: "Местоимение-дополнение стоит перед *laisser*: ***Je lui laisse lire*** (или *Je le laisse lire*)."

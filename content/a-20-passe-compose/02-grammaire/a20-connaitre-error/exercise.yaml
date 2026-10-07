@@ -1,0 +1,38 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: форма множественного числа, согласование прилагательного, форма *connaître* или выбор между *connaître* и *savoir*. Исправь её и отправь предложение целиком."
+hints:
+  - "des journaux, des chevaux, des tableaux; но des festivals, des pneus."
+  - "les problèmes sociaux, но les questions sociales."
+  - "connaître + кто / что; savoir + que, où, si… или инфинитив."
+items:
+  - q: "Il y a beaucoup de chevals dans ce village."
+    answers: ["Il y a beaucoup de chevaux dans ce village."]
+    explain: "*un cheval* → **des chevaux**: *-al → -aux*."
+  - q: "J'ai acheté deux tableau au marché."
+    answers: ["J'ai acheté deux tableaux au marché."]
+    explain: "*-eau* во множественном числе → **-eaux**: *deux tableaux*."
+  - q: "Mon neveu a les cheveus blonds."
+    answers: ["Mon neveu a les cheveux blonds."]
+    explain: "*un cheveu* → **des cheveux** с *-x*. (*-s* — только у *pneu* и *bleu*.)"
+  - q: "Ce sont des problèmes socials."
+    answers: ["Ce sont des problèmes sociaux."]
+    explain: "Прилагательное м. р. на *-al* → **-aux**: *sociaux*."
+  - q: "Le 14 juillet et le 11 novembre sont des fêtes nationaux."
+    answers: ["Le 14 juillet et le 11 novembre sont des fêtes nationales.", "Le quatorze juillet et le onze novembre sont des fêtes nationales."]
+    explain: "*fête* — ж. р. → **nationales**. *-aux* бывает только в мужском роде."
+  - q: "Ma sœur a les yeux bleux."
+    answers: ["Ma sœur a les yeux bleus."]
+    explain: "*bleu* — исключение: множественное число на **-s**: *bleus*."
+  - q: "Nous connaîssons bien ce quartier."
+    answers: ["Nous connaissons bien ce quartier."]
+    explain: "Циркумфлекс у *connaître* — только перед *t*: *il connaît*, но **nous connaissons**."
+  - q: "Ils connaisent tous les voisins."
+    answers: ["Ils connaissent tous les voisins."]
+    explain: "Во множественном числе — двойное *s*: **connaissent**."
+  - q: "Je connais qu'elle habite à Lyon."
+    answers: ["Je sais qu'elle habite à Lyon."]
+    explain: "После *connaître* не бывает придаточного с *que*. Знать факт — **savoir**: *Je sais qu'elle habite…*"
+  - q: "Tu sais Marie, la sœur de Paul ?"
+    answers: ["Tu connais Marie, la sœur de Paul ?"]
+    explain: "Знать человека, быть знакомым — **connaître**: *Tu connais Marie ?*"

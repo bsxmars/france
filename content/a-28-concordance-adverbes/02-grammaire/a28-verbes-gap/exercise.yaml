@@ -1,0 +1,41 @@
+title: "Connaître, paraître, disparaître, apercevoir"
+type: gap
+intro: "Поставь глагол в указанное время. Не забывай об accent circonflexe перед t и о ç перед o и u."
+hints:
+  - "je connais, il connaît, nous connaissons, ils connaissent; participe — connu."
+  - "j'aperçois, nous apercevons, ils aperçoivent; participe — aperçu."
+  - "apparaître → être; disparaître, paraître, connaître → avoir."
+items:
+  - q: "Vous ___ ce quartier ? (connaître, présent)"
+    answers: ["connaissez"]
+    explain: "*vous* → основа *connaiss-* + *-ez*: **connaissez**."
+  - q: "Mon grand-père ___ tous les oiseaux de la région. (connaître, présent)"
+    answers: ["connaît", "connait"]
+    explain: "3-е лицо ед. ч.: **connaît** — *î*, потому что дальше идёт *t* (по орфографии 1990 — *connait*)."
+  - q: "Je n'___ pas ta voix au téléphone. (reconnaître, passé composé)"
+    answers: ["ai pas reconnu"]
+    explain: "Passé composé с *avoir*, причастие *reconnu*; *ne… pas* обрамляет вспомогательный глагол: *je n'**ai pas reconnu***."
+  - q: "Le chat ___ sous le lit dès qu'il a entendu l'aspirateur. (disparaître, passé composé)"
+    answers: ["a disparu"]
+    explain: "*Disparaître* — с **avoir**: **a disparu**."
+  - q: "Soudain, deux cyclistes ___ au bout de la rue. (apparaître, passé composé)"
+    answers: ["sont apparus"]
+    explain: "*Apparaître* спрягается с **être**, причастие согласуется с *deux cyclistes*: **sont apparus**."
+  - q: "Ces enfants ___ très contents de leur journée. (paraître, présent)"
+    answers: ["paraissent"]
+    explain: "*ils* → **paraissent** — «выглядят, кажутся»."
+  - q: "Son nouveau roman ___ au printemps prochain. (paraître, futur simple)"
+    answers: ["paraîtra", "paraitra"]
+    explain: "Futur: инфинитив без *-e* + *-a*: **paraîtra**; *î* перед *t*."
+  - q: "Du haut de la tour, nous ___ toute la ville. (apercevoir, présent)"
+    answers: ["apercevons"]
+    explain: "*nous* — основа без изменений: **apercevons**. Перед *e* буква *c* без седили."
+  - q: "Tu ___ le phare là-bas ? (apercevoir, présent)"
+    answers: ["aperçois"]
+    explain: "*tu* → **aperçois**: перед *o* — *ç*, чтобы сохранить звук [s]."
+  - q: "Les randonneurs ___ des chamois sur la montagne. (apercevoir, passé composé)"
+    answers: ["ont aperçu"]
+    explain: "Passé composé с *avoir*, причастие **aperçu** (*ç* перед *u*)."
+  - q: "Quand j'étais petit, je ___ tous les voisins de l'immeuble. (connaître, imparfait)"
+    answers: ["connaissais"]
+    explain: "Imparfait: основа *nous connaiss-ons* + *-ais* → **connaissais**."

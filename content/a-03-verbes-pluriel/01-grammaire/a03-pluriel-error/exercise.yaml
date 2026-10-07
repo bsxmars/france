@@ -1,0 +1,37 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: в форме глагола, в определителе или в окончании множественного числа. Исправь её и отправь предложение целиком."
+hints:
+  - "Во мн. ч.: les, mes, tes, ses, ces + существительное на -s."
+  - "ils / elles + глагол на -ent."
+items:
+  - q: "Les élèves ferme la porte."
+    answers: ["Les élèves ferment la porte."]
+    explain: "*Les élèves* — мн. ч. → глагол на **-ent**: *ferment*."
+  - q: "Léa cherche sa tasses."
+    answers: ["Léa cherche ses tasses."]
+    explain: "Во мн. ч. *sa* → **ses**: *ses tasses*."
+  - q: "Cette places sont grandes."
+    answers: ["Ces places sont grandes."]
+    explain: "Указательное слово во мн. ч. — **ces** для обоих родов."
+  - q: "Les chaises sont petite."
+    answers: ["Les chaises sont petites."]
+    explain: "Прилагательное согласуется с существительным: ж. р., мн. ч. → **petites**."
+  - q: "Paul et Anna parle avec Hugo."
+    answers: ["Paul et Anna parlent avec Hugo."]
+    explain: "Два подлежащих = *ils* → **parlent**."
+  - q: "Les chats est contents."
+    answers: ["Les chats sont contents."]
+    explain: "Глагол *être* во мн. ч. — **sont**."
+  - q: "Hugo, fermes la porte !"
+    answers: ["Hugo, ferme la porte !"]
+    explain: "Повелительное наклонение I группы на «ты» — без *-s*: **ferme**."
+  - q: "Mes ami restent chez Paul."
+    answers: ["Mes amis restent chez Paul."]
+    explain: "После *mes* существительное во мн. ч. с немым *-s*: **amis**."
+  - q: "Elles répétent le mot."
+    answers: ["Elles répètent le mot."]
+    explain: "Перед немым окончанием *-ent* в основе *è*: **répètent**."
+  - q: "Les ma voitures sont ici."
+    answers: ["Mes voitures sont ici."]
+    explain: "Притяжательное слово заменяет артикль; во мн. ч. *ma* → **mes**: *Mes voitures*."

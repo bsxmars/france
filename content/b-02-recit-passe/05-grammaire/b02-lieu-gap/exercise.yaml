@@ -1,0 +1,43 @@
+title: "Где это было?"
+type: gap
+intro: "Вставь предлог места по подсказке в скобках. Не забывай про *de* у составных предлогов и про слияние *de + le = du*, *de + les = des*."
+hints:
+  - "à côté de, en face de, près de, au bord de, au fond de, autour de… — с de."
+  - "dans, sur, sous, devant, derrière, entre, parmi — без de."
+items:
+  - q: "Sur la vieille photo, mon grand-père est assis ___ deux soldats. (между)"
+    answers: ["entre"]
+    explain: "Между двумя людьми / предметами — **entre**."
+  - q: "La maison de mon enfance se trouvait ___ la rivière. (на берегу)"
+    answers: ["au bord de"]
+    explain: "«На берегу» — **au bord de** + артикль: *au bord de la rivière*."
+  - q: "Nous avons retrouvé de vieilles lettres ___ grenier. (в глубине)"
+    answers: ["au fond du"]
+    explain: "*au fond de* + *le grenier* → *de + le* = **du**: *au fond du grenier*."
+  - q: "La boulangerie était juste ___ l'église, de l'autre côté de la place. (напротив)"
+    answers: ["en face de"]
+    explain: "«Напротив» — **en face de**; перед гласной артикль *l'*: *en face de l'église*."
+  - q: "Les enfants jouaient ___ la rue, sans voiture ni danger. (на улице)"
+    answers: ["dans"]
+    explain: "«На улице» = **dans la rue**. Калька *sur la rue* — ошибка."
+  - q: "Un grand portrait du fondateur était accroché ___ la cheminée. (над)"
+    answers: ["au-dessus de"]
+    explain: "«Над» (выше чего-то) — **au-dessus de**, с дефисом."
+  - q: "Le monument aux morts se dresse ___ la place du village. (посреди)"
+    answers: ["au milieu de"]
+    explain: "«Посреди» — **au milieu de**: *au milieu de la place*."
+  - q: "Toute la famille était réunie ___ la table pour le repas de Noël. (вокруг)"
+    answers: ["autour de"]
+    explain: "«Вокруг» — **autour de**: *autour de la table*."
+  - q: "Nous avons marché ___ canal jusqu'au vieux moulin. (вдоль)"
+    answers: ["le long du"]
+    explain: "«Вдоль» — **le long de**; *de + le canal* → **le long du canal**."
+  - q: "J'ai reconnu ma tante ___ les invités grâce à son chapeau rouge. (среди)"
+    answers: ["parmi"]
+    explain: "«Среди» многих — **parmi**. *Entre* — только между двумя или чётко выделенными объектами."
+  - q: "Le château fort a été construit ___ la colline. (на вершине)"
+    answers: ["au sommet de", "en haut de", "sur"]
+    explain: "«На вершине» — **au sommet de** (или *en haut de*; просто *sur la colline* — «на холме» — тоже верно)."
+  - q: "La gare n'est pas loin : elle est ___ , à deux minutes à pied. (рядом)"
+    answers: ["à côté", "tout près", "juste à côté"]
+    explain: "Без дополнения составной предлог становится наречием и теряет *de*: **à côté** (*tout près*)."

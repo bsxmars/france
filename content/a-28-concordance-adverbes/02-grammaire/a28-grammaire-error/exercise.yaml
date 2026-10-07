@@ -1,0 +1,38 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: время в придаточном, форма наречия или глагола. Исправь её и отправь предложение целиком."
+hints:
+  - "Главный глагол в прошлом → imparfait, plus-que-parfait или futur dans le passé."
+  - "poli → poliment, lent → lentement, prudent → prudemment."
+  - "il connaît, ils aperçoivent, il a disparu."
+items:
+  - q: "Il m'a dit qu'il viendra demain soir."
+    answers: ["Il m'a dit qu'il viendrait demain soir."]
+    explain: "Главный глагол в прошлом, действие позже → futur dans le passé: **viendrait**."
+  - q: "Je croyais que tu es à Paris."
+    answers: ["Je croyais que tu étais à Paris."]
+    explain: "Одновременность в плане прошедшего → imparfait: **étais**."
+  - q: "Elle a expliqué qu'elle a raté son train."
+    answers: ["Elle a expliqué qu'elle avait raté son train."]
+    explain: "Опоздала на поезд **раньше**, чем объяснила → plus-que-parfait: **avait raté**."
+  - q: "Nous espérions que vous nous aideriez et que vous serez là."
+    answers: ["Nous espérions que vous nous aideriez et que vous seriez là."]
+    explain: "Оба придаточных после *espérions* — в futur dans le passé: **seriez**."
+  - q: "Le serveur nous a salués poliement."
+    answers: ["Le serveur nous a salués poliment."]
+    explain: "*poli* кончается на гласную → **poliment**, без *e*."
+  - q: "Le vieux monsieur marchait lentment."
+    answers: ["Le vieux monsieur marchait lentement."]
+    explain: "*lent* → ж. р. *lente* → **lentement**."
+  - q: "Elle a répondu patientement à toutes les questions."
+    answers: ["Elle a répondu patiemment à toutes les questions."]
+    explain: "*patient* → *-ent* → **-emment**: **patiemment**."
+  - q: "Ce garçon connaissent tous les joueurs de l'équipe."
+    answers: ["Ce garçon connaît tous les joueurs de l'équipe.", "Ce garçon connait tous les joueurs de l'équipe."]
+    explain: "Подлежащее в ед. ч. → **connaît**."
+  - q: "Les invités ont aperçevu le feu d'artifice de la terrasse."
+    answers: ["Les invités ont aperçu le feu d'artifice de la terrasse."]
+    explain: "Participe passé от *apercevoir* — **aperçu**."
+  - q: "Je ne sais pas encore cette ville, j'arrive juste."
+    answers: ["Je ne connais pas encore cette ville, j'arrive juste."]
+    explain: "Быть знакомым с местом — **connaître** + существительное. *Savoir* — знать факт или уметь: *je sais où est la gare*."

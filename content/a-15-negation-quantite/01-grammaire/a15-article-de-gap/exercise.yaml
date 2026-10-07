@@ -1,0 +1,44 @@
+title: "Артикль или de?"
+type: gap
+intro: "Вставь нужное слово: **de / d'**, **un / une / des** или **le / la / l' / les**. Подумай, есть ли отрицание или слово количества и о чём речь — о «каком-то» предмете или об известном."
+hints:
+  - "Отрицание + un / une / des → de."
+  - "Le, la, les при отрицании остаются."
+  - "Beaucoup, peu, assez, trop, combien + de без артикля."
+items:
+  - q: "Paul a une sœur, mais il n'a pas ___ frère."
+    answers: ["de"]
+    explain: "Отрицание *n'a pas* + прямое дополнение, которое в утверждении было бы с *un* → **de**: *pas de frère*."
+  - q: "Dans notre rue, il n'y a pas ___ école."
+    answers: ["d'"]
+    explain: "*Il n'y a pas* + неопределённое существительное → *de*, а перед гласной — **d'**: *pas d'école*."
+  - q: "Je n'aime pas ___ chats, je préfère les chiens."
+    answers: ["les"]
+    explain: "С *aimer* речь о кошках вообще — определённый артикль **les**, при отрицании он не меняется."
+  - q: "Nous avons beaucoup ___ amis à Paris."
+    answers: ["d'"]
+    explain: "*Beaucoup* + **de** без артикля; перед гласной — **d'**: *beaucoup d'amis*."
+  - q: "Tu as assez ___ argent pour le billet ?"
+    answers: ["d'"]
+    explain: "*Assez* + *de*; *argent* начинается с гласной → **d'argent**."
+  - q: "Elle ne fait pas ___ fautes dans ses dictées."
+    answers: ["de"]
+    explain: "В утверждении было бы *des fautes*; при отрицании *des* → **de**."
+  - q: "Ce n'est pas ___ crayon, c'est un stylo."
+    answers: ["un"]
+    explain: "После *être* (*ce n'est pas*) артикль сохраняется: **un** crayon. Мы не говорим, что карандаша нет, — мы говорим, что это не карандаш."
+  - q: "Il y a trop ___ voitures dans le centre."
+    answers: ["de"]
+    explain: "*Trop* + **de** без артикля: *trop de voitures*."
+  - q: "Je ne regarde pas ___ télévision le matin."
+    answers: ["la"]
+    explain: "*Regarder la télévision* — определённый артикль, и при отрицании он остаётся: *pas **la** télévision*."
+  - q: "J'ai peu ___ temps aujourd'hui."
+    answers: ["de"]
+    explain: "*Peu* + **de**: *peu de temps*. *Temps* не считается — единственное число."
+  - q: "Combien ___ langues parles-tu ?"
+    answers: ["de"]
+    explain: "*Combien* + **de** без артикля: *combien de langues*."
+  - q: "Nous n'avons pas ___ cours samedi."
+    answers: ["de"]
+    explain: "Отрицание + прямое дополнение (*des cours* в утверждении) → **de**."

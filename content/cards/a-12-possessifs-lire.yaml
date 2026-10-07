@@ -1,0 +1,44 @@
+- id: a12-possessifs-table
+  lesson: a-12-possessifs-lire/01-grammaire
+  q: "Притяжательные прилагательные: мой … их (м. р., ж. р., мн. ч.)."
+  a: "*mon / ma / mes, ton / ta / tes, son / sa / ses, notre / nos, votre / vos, leur / leurs*."
+- id: a12-son-sa
+  lesson: a-12-possessifs-lire/01-grammaire
+  q: "«Её брат», «его сестра» — как выбрать son / sa?"
+  a: "По **предмету**, не по владельцу: *son frère* (frère — м. р.), *sa sœur* (sœur — ж. р.)."
+- id: a12-mon-amie
+  lesson: a-12-possessifs-lire/01-grammaire
+  q: "«Моя подруга», «его школа» — почему mon, son?"
+  a: "Перед ж. р. на гласную или немое h — **mon, ton, son**: *mon amie, son école*. Род слова остаётся женским."
+- id: a12-leur-leurs
+  lesson: a-12-possessifs-lire/01-grammaire
+  q: "*leur* или *leurs*?"
+  a: "Владельцев несколько всегда. Предмет один — **leur** (*leur maison*), предметов несколько — **leurs** (*leurs enfants*)."
+- id: a12-demonstratifs
+  lesson: a-12-possessifs-lire/01-grammaire
+  q: "Указательные прилагательные: формы."
+  a: "**ce** livre, **cet** élève / homme (м. р. перед гласной, немым h), **cette** leçon / école, **ces** livres (мн. ч.)."
+- id: a12-ces-ses
+  lesson: a-12-possessifs-lire/01-grammaire
+  q: "*ces* или *ses*?"
+  a: "Звучат одинаково [se]. **ces** — «эти» (*ces livres*), **ses** — «его / её» (*ses livres*)."
+- id: a12-iii-terminaisons
+  lesson: a-12-possessifs-lire/02-grammaire
+  q: "Окончания глаголов III группы в настоящем времени."
+  a: "**-s, -s, -t, -ons, -ez, -ent** (*je pars, tu pars, il part…*). *pouvoir, vouloir*: *je peux, tu veux* — с -x."
+- id: a12-iii-bases
+  lesson: a-12-possessifs-lire/02-grammaire
+  q: "Какие три формы учить у глагола III группы и почему?"
+  a: "***je***, ***nous***, ***ils*** — у глагола может быть 2–3 основы: *je pars — nous partons*, *nous prenons — ils prennent*, *je viens — nous venons — ils viennent*."
+- id: a12-lire
+  lesson: a-12-possessifs-lire/02-grammaire
+  q: "Проспрягай *lire*."
+  a: "*je lis, tu lis, il lit, nous lisons, vous lisez, ils lisent*. Повелительное: *lis ! lisons ! lisez !*"
+- id: a12-ecrire
+  lesson: a-12-possessifs-lire/02-grammaire
+  q: "Проспрягай *écrire*."
+  a: "*j'écris, tu écris, il écrit, nous écrivons, vous écrivez, ils écrivent*. Повелительное: *écris ! écrivons ! écrivez !* Управление: *écrire **à** qn*."
+- id: a12-imperatif-iii
+  lesson: a-12-possessifs-lire/02-grammaire
+  q: "«Читай!» и «Говори!» — в чём разница в написании?"
+  a: "III группа сохраняет -s: ***Lis !*** У глаголов на -er -s нет: ***Parle !***"

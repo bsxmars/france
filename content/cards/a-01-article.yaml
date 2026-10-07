@@ -1,0 +1,28 @@
+- id: a01-ordre
+  lesson: a-01-article/01-grammaire
+  q: "Какой порядок слов во французском утвердительном предложении?"
+  a: "**Прямой**: подлежащее → сказуемое → остальное. *Léa parle français.* И глагол есть всегда: *Le café **est** chaud.*"
+- id: a01-mots-outils
+  lesson: a-01-article/01-grammaire
+  q: "Чем знаменательные слова отличаются от служебных?"
+  a: "Знаменательные называют что-то и бывают членами предложения (*gare, parle, petit*). Служебные помогают другим словам: артикль, *sa*, предлоги *à, de*, союз *et*."
+- id: a01-article-role
+  lesson: a-01-article/01-grammaire
+  q: "Что показывает артикль?"
+  a: "**Род** (м. / ж.), **число** (ед. / мн.) и **определённость** (тот самый / какой-то)."
+- id: a01-articles-defini
+  lesson: a-01-article/01-grammaire
+  q: "Формы определённого артикля?"
+  a: "**le** (м. р.), **la** (ж. р.), **l'** перед гласной и немым h, **les** (мн. ч.): *le café, la gare, l'ami, les sacs*."
+- id: a01-articles-indefini
+  lesson: a-01-article/01-grammaire
+  q: "Формы неопределённого артикля?"
+  a: "**un** (м. р.), **une** (ж. р.), **des** (мн. ч.): *un sac, une tasse, des sacs*."
+- id: a01-sans-article
+  lesson: a-01-article/01-grammaire
+  q: "Когда перед существительным нет артикля (урок 1)?"
+  a: "Перед **притяжательным словом** (*sa tasse*, не ~~la sa tasse~~) и перед **именами людей** (*Paul parle*)."
+- id: a01-la-table
+  lesson: a-01-article/01-grammaire
+  q: "Переведи с артиклем: стол, гараж, школа."
+  a: "*la table* (ж. р.!), *le garage* (м. р.!), *l'école* (ж. р.). Род учи вместе со словом."

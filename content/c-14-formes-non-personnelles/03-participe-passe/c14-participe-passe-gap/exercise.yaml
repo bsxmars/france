@@ -1,0 +1,44 @@
+title: "Participe passé без вспомогательного: форма и согласование"
+type: gap
+intro: "Поставь глагол в скобках в participe passé без вспомогательного глагола и согласуй его. Если короткая форма невозможна (отрицание, непереходный глагол с avoir, «непредельный» местоименный глагол), используй participe passé composé."
+hints:
+  - "Participe passé согласуется с существительным, к которому относится."
+  - "Отрицание → n'étant pas + participe; глаголы с avoir → ayant + participe."
+  - "vu, étant donné, excepté, y compris, ci-joint перед существительным не согласуются."
+items:
+  - q: "Les feuilles ___ (tomber) couvraient tout le trottoir."
+    answers: ["tombées"]
+    explain: "*Tomber* спрягается с *être* → активное завершённое значение (опавшие); согласование с *feuilles*: **tombées**."
+  - q: "C'est une décision ___ (prendre) sans consulter personne."
+    answers: ["prise"]
+    explain: "Переходный глагол → пассивное значение (принятое решение); ж. р.: **prise**."
+  - q: "___ (asseoir) au premier rang, les deux sœurs ne perdaient pas un mot."
+    answers: ["Assises"]
+    explain: "Поза, состояние («сидя») → **Assises**, ж. р. мн. ч."
+  - q: "___ (ne pas arriver) à temps, la candidate n'a pas pu passer l'oral."
+    answers: ["N'étant pas arrivée"]
+    explain: "С отрицанием сокращённая форма невозможна → **N'étant pas arrivée** (согласование с *la candidate*)."
+  - q: "___ (rentrer) tard, les enfants se sont couchés sans dîner."
+    answers: ["Rentrés", "Étant rentrés"]
+    explain: "Непереходный глагол с *être*: предшествование, *étant* обычно опускают — **Rentrés** (м. р. мн. ч.)."
+  - q: "Veuillez trouver ___ (ci-joindre) les documents demandés."
+    answers: ["ci-joint"]
+    explain: "*Ci-joint* перед существительным с артиклем — неизменяемо: ***ci-joint** les documents*."
+  - q: "Les documents ___ (ci-joindre) doivent être signés."
+    answers: ["ci-joints"]
+    explain: "После существительного *ci-joint* согласуется: **ci-joints**."
+  - q: "___ (voir) les circonstances, la réunion est reportée."
+    answers: ["Vu"]
+    explain: "*Vu* перед существительным = «учитывая», предлог → **Vu**, без согласования."
+  - q: "___ (se promener) dans le vieux port, ils sont revenus à l'hôtel."
+    answers: ["S'étant promenés", "Après s'être promenés"]
+    explain: "*Se promener* — «непредельный» местоименный глагол, короткой формы нет: **S'étant promenés** (или *Après s'être promenés*)."
+  - q: "Tout le monde est venu, ___ (excepter) les deux stagiaires."
+    answers: ["excepté"]
+    explain: "*Excepté* перед существительным — неизменяемо: ***excepté** les deux stagiaires*."
+  - q: "Je l'ai retrouvée ___ (cacher) derrière les rideaux."
+    answers: ["cachée"]
+    explain: "Состояние («спрятавшаяся», «прячущаяся там») → participe passé, согласование с *l'* = *la*: **cachée**."
+  - q: "Ce sont des mots ___ (employer) surtout dans la langue juridique."
+    answers: ["employés"]
+    explain: "Переходный глагол, пассив (употребляемые) → **employés**."

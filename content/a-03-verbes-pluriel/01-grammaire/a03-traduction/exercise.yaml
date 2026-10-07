@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Слова — из списка над упражнениями. Акценты обязательны, точку можно не ставить."
+hints:
+  - "Множественное число меняет всё: определитель, существительное, прилагательное, глагол."
+  - "Повелительное: ты → -e, вы → -ez."
+items:
+  - q: "Ученики повторяют слова."
+    answers: ["Les élèves répètent les mots."]
+    explain: "*Les élèves* → глагол на *-ent*, *é* → *è*: **répètent**; *les mots* — немое *-s*."
+  - q: "Анна ищет свои сумки."
+    answers: ["Anna cherche ses sacs."]
+    explain: "«Свои» во мн. ч. → **ses**; *sacs* с немым *-s*."
+  - q: "Закройте дверь!"
+    answers: ["Fermez la porte !"]
+    explain: "Обращение на «вы» → **fermez**, без подлежащего."
+  - q: "Поль, говори!"
+    answers: ["Paul, parle !"]
+    explain: "«Ты» в повелительном → **parle**, без *-s*."
+  - q: "Эти машины маленькие."
+    answers: ["Ces voitures sont petites."]
+    explain: "*cette* → **ces**; *être* → *sont*; *petites* — ж. р., мн. ч."
+  - q: "Мои друзья остаются у Леи."
+    answers: ["Mes amis restent chez Léa."]
+    explain: "**mes amis** (связывание [me-za-mi]); *restent*; «у кого-то» — *chez*."
+  - q: "Женщины переходят площадь."
+    answers: ["Les femmes traversent la place."]
+    explain: "*Les femmes* = *elles* → **traversent**. *Traverser* — без предлога."
+  - q: "Мама готовит кофе."
+    answers: ["Ma mère prépare le café.", "Maman prépare le café.", "La mère prépare le café."]
+    explain: "«Мама» — чаще всего *ma mère*; глагол в 3-м лице ед. ч. **prépare**."
+  - q: "Они любят эти комнаты."
+    answers: ["Ils aiment ces chambres.", "Elles aiment ces chambres."]
+    explain: "**ils** или **elles aiment** [il-zɛm]; *ces chambres* — мн. ч."
+  - q: "Анна и Лея идут с Полем."
+    answers: ["Anna et Léa marchent avec Paul.", "Léa et Anna marchent avec Paul.", "Anna et Léa vont avec Paul.", "Léa et Anna vont avec Paul."]
+    explain: "Два подлежащих = *elles* → **marchent**. «Идти пешком, шагать» — *marcher*; *vont* (от *aller*) тоже верно, его спряжение — позже."

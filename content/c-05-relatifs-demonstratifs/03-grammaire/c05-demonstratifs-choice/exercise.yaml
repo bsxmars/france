@@ -1,0 +1,56 @@
+title: "Celui, celui-ci / celui-là, ce, cela, c'est / il est"
+type: choice
+intro: "Выбери вариант, верный по норме и по смыслу."
+hints:
+  - "Celui / celle + qui, que, dont, de; celui-ci / celui-là — самостоятельно."
+  - "Celui-ci — названный последним; celui-là — названный первым."
+  - "Ce — подлежащее только при être (и devoir / pouvoir + être); при других глаголах — cela / ça."
+items:
+  - q: "De ces deux appartements, je préfère ___ qui donne sur le parc."
+    options: ["celui-ci", "celui", "ce", "lequel"]
+    answer: 1
+    explain: "Перед относительным придаточным — простая форма: **celui qui**."
+  - q: "Mon frère et mon cousin sont nés la même année ; ___ est pourtant beaucoup plus grand que ___ ."
+    options: ["celui / celui", "celui-ci / celui-là", "il / lui", "ce / cela"]
+    answer: 1
+    explain: "Противопоставление двух названных лиц: **celui-ci** (кузен, назван последним) — **celui-là** (брат, назван первым)."
+  - q: "La directrice a appelé la comptable ; ___ n'était pas encore arrivée."
+    options: ["celle-ci", "celle-là", "elle", "celle"]
+    answer: 0
+    explain: "Нужно ясно указать, что не пришла бухгалтер (последняя названная) → **celle-ci** (= *cette dernière*). *Elle* было бы двусмысленным."
+  - q: "Quelle robe vas-tu mettre ? — La verte, ___ que ma sœur m'a offerte."
+    options: ["celle-là", "celle", "cette", "laquelle"]
+    answer: 1
+    explain: "Перед *que* — только простая форма **celle**."
+  - q: "Ce produit ne coûte pas plus cher que ___ du concurrent."
+    options: ["celui", "celui-là", "le sien", "ce"]
+    answer: 0
+    explain: "Простая форма + дополнение с *de*: **celui du** concurrent."
+  - q: "Tu connais la nouvelle collègue ? ___ ingénieure, elle vient de Grenoble."
+    options: ["C'est", "Elle est", "Elle est une", "Ce sont"]
+    answer: 1
+    explain: "Профессия без артикля → **Elle est** ingénieure. С артиклем было бы *C'est **une** ingénieure*; *elle est une ingénieure* — ошибка."
+  - q: "Il n'a pas répondu à mon message, ___ me surprend."
+    options: ["ce qui", "ce", "c'est", "ça qui"]
+    answer: 0
+    explain: "Подхват всей мысли в роли подлежащего глагола *surprendre* → **ce qui**."
+  - q: "On a frappé ? ___ doit être le facteur."
+    options: ["Ce", "Lui", "Il", "Celui"]
+    answer: 0
+    explain: "*Ce* бывает подлежащим при *devoir / pouvoir + être*: **Ce doit être** le facteur (разговорно — *ça doit être*). *Il doit être le facteur* значило бы «он обязан быть почтальоном»."
+  - q: "Écoutez bien ___ : la réunion de demain est annulée."
+    options: ["cela", "ceci", "ce", "celui-ci"]
+    answer: 1
+    explain: "Местоимение **объявляет** то, что последует → **ceci**."
+  - q: "— Tu as aimé le spectacle ? — Bof, ___ ."
+    options: ["comme ça", "comme ci, comme ça", "ça y est", "ça se dit"]
+    answer: 1
+    explain: "«Так себе» → **comme ci, comme ça**."
+  - q: "Parmi les candidats, ___ qui maîtrisent l'anglais auront un avantage."
+    options: ["ceux-ci", "ceux", "ces", "celles-là"]
+    answer: 1
+    explain: "Перед *qui* — простая форма **ceux** (м. р. мн. ч., *candidats*)."
+  - q: "Regarde ces deux vélos : lequel tu prends, ___ ou le bleu ?"
+    options: ["celui rouge", "le rouge", "celui-ci rouge", "ce rouge"]
+    answer: 1
+    explain: "После *celui* нельзя ставить голое прилагательное; «красный» → **le rouge**."

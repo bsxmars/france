@@ -1,0 +1,43 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком, используя неопределённые слова урока. Пунктуация не важна, акценты — важны."
+hints:
+  - "«Говорят / позвонили / здесь не…» → on. «Мы» в разговоре → on + согласование по смыслу."
+  - "Никто / ничего / никакой → ne … personne / rien / aucun, без pas. «Что-то интересное» → quelque chose d'intéressant."
+items:
+  - q: "Говорят, что он уезжает."
+    answers: ["On dit qu'il part.", "On dit qu'il s'en va.", "On dit qu'il va partir."]
+    explain: "Неопределённое подлежащее «говорят» → **on dit**."
+  - q: "Мы с сестрой вернулись поздно. (говорит женщина, разговорный стиль, on)"
+    answers: ["Ma sœur et moi, on est rentrées tard.", "Ma sœur et moi, on est revenues tard.", "Ma sœur et moi on est rentrées tard.", "Ma sœur et moi on est revenues tard.", "Ma sœur et moi, on est rentrées tard", "On est rentrées tard, ma sœur et moi."]
+    explain: "*On* = *nous*: глагол в ед. ч., причастие с *être* согласуется по смыслу — две женщины → **rentrées**."
+  - q: "Никто, кроме тебя, этого не знает."
+    answers: ["Personne d'autre que toi ne le sait.", "Personne sauf toi ne le sait.", "Personne à part toi ne le sait.", "Personne ne le sait à part toi.", "Personne ne le sait sauf toi.", "Personne ne le sait, sauf toi.", "Personne ne le sait, à part toi.", "Personne d'autre que toi ne sait cela.", "Personne ne sait cela à part toi.", "Personne ne sait ça à part toi.", "Personne d'autre que toi ne sait ça."]
+    explain: "*Personne* — подлежащее с *ne* без *pas*; «другой» → **personne d'autre que toi**; «это» как дополнение — *le* или *cela*."
+  - q: "Он не сказал ничего интересного."
+    answers: ["Il n'a rien dit d'intéressant.", "Il n'a dit rien d'intéressant."]
+    explain: "*Rien* в сложном времени стоит перед причастием, прилагательное — через *de*: **Il n'a rien dit d'intéressant.**"
+  - q: "У меня нет никакого желания туда идти."
+    answers: ["Je n'ai aucune envie d'y aller.", "Je n'ai nulle envie d'y aller."]
+    explain: "*Aucun(e)* = «никакой», с *ne* без *pas*: **Je n'ai aucune envie d'y aller.** Книжный вариант — *nulle envie*."
+  - q: "Каждый из нас сделал свою часть работы."
+    answers: ["Chacun de nous a fait sa part du travail.", "Chacun d'entre nous a fait sa part du travail.", "Chacun de nous a fait sa part de travail.", "Chacun d'entre nous a fait sa part de travail.", "Chacun de nous a fait sa part.", "Chacun d'entre nous a fait sa part."]
+    explain: "«Каждый из» без существительного → **chacun de nous / d'entre nous**; глагол в 3-м л. ед. ч., притяжательное — *sa*."
+  - q: "Эти книги стоят по десять евро каждая."
+    answers: ["Ces livres coûtent dix euros chacun.", "Ces livres coûtent chacun dix euros.", "Ces livres valent dix euros chacun."]
+    explain: "*Livre* — м. р., поэтому **chacun** (по-русски «каждая книга» — но согласуем с французским словом). *Chaque* без существительного — ошибка."
+  - q: "Не открывай дверь кому попало."
+    answers: ["N'ouvre pas la porte à n'importe qui.", "N'ouvrez pas la porte à n'importe qui."]
+    explain: "«Кто попало / кто угодно» → **n'importe qui**."
+  - q: "Можешь позвонить мне в любое время."
+    answers: ["Tu peux m'appeler à n'importe quelle heure.", "Tu peux m'appeler n'importe quand.", "Tu peux me téléphoner à n'importe quelle heure.", "Tu peux me téléphoner n'importe quand.", "Vous pouvez m'appeler à n'importe quelle heure.", "Vous pouvez m'appeler n'importe quand.", "Tu peux m'appeler à toute heure.", "Vous pouvez me téléphoner n'importe quand.", "Vous pouvez me téléphoner à n'importe quelle heure."]
+    explain: "«В любое время» → **n'importe quand** или **à n'importe quelle heure** (книжно — *à toute heure*)."
+  - q: "Всякий, кто видел этот фильм, его помнит."
+    answers: ["Quiconque a vu ce film s'en souvient.", "Quiconque a vu ce film s'en rappelle.", "Quiconque a vu ce film le garde en mémoire."]
+    explain: "«Всякий, кто» → **quiconque** + глагол в 3-м л. ед. ч., без *qui*: *Quiconque a vu…*"
+  - q: "Пришло около двухсот человек."
+    answers: ["Quelque deux cents personnes sont venues.", "Il est venu quelque deux cents personnes.", "Environ deux cents personnes sont venues.", "Il est venu environ deux cents personnes."]
+    explain: "«Около» перед числительным — **quelque** (наречие, без *-s*) или *environ*. Причастие согласуется с *personnes*: *venues*."
+  - q: "Надо уважать свободу других."
+    answers: ["Il faut respecter la liberté d'autrui.", "Il faut respecter la liberté des autres.", "On doit respecter la liberté d'autrui.", "On doit respecter la liberté des autres."]
+    explain: "«Других (людей)» в общем смысле → книжное **autrui** или *les autres*: *la liberté d'autrui / des autres*."

@@ -1,0 +1,44 @@
+title: "Императив: трудные формы"
+type: gap
+intro: "Поставь глагол в императив (лицо указано в скобках). Где сказано «passé», нужен passé de l'impératif."
+hints:
+  - "aie, sache, veuille — без -s; sois — с -s."
+  - "-er, aller, ouvrir, offrir, cueillir: tu parle, va, ouvre; но vas-y, penses-y, manges-en."
+  - "Passé de l'impératif: aie / soyez + participe passé."
+items:
+  - q: "___ (avoir, tu) un peu de patience, il arrive dans cinq minutes."
+    answers: ["Aie"]
+    explain: "Императив *avoir* — ***aie*** (без *-s*, хотя в субъюнктиве *que tu aies*)."
+  - q: "___ (être, vous) prudents sur la route, il a gelé cette nuit."
+    answers: ["Soyez"]
+    explain: "Императив *être*: *sois, soyons, **soyez***."
+  - q: "___ (savoir, tu) que je ne te prêterai plus un centime."
+    answers: ["Sache"]
+    explain: "Императив *savoir* — ***sache*** (без *-s*); *sache que* — твёрдое предупреждение."
+  - q: "___ (vouloir, vous) bien patienter quelques instants."
+    answers: ["Veuillez"]
+    explain: "***Veuillez*** + инфинитив — вежливая официальная просьба."
+  - q: "Ces cerises sont délicieuses : ___ (goûter + en, tu) !"
+    answers: ["goûtes-en"]
+    explain: "Перед *en*, относящимся к императиву, у глагола на -er возвращается *-s*: ***goûtes-en***."
+  - q: "Le musée est juste à côté : ___ (aller + y, tu) à pied !"
+    answers: ["vas-y"]
+    explain: "*Va* + *y* → ***vas-y*** (связывающее *-s*)."
+  - q: "___ (aller, tu) chercher ton frère à l'école, s'il te plaît."
+    answers: ["Va"]
+    explain: "Без *y* и *en* — ***va*** без *-s*."
+  - q: "___ (ne pas s'inquiéter, vous), tout est réglé."
+    answers: ["Ne vous inquiétez pas"]
+    explain: "Отрицательный императив возвратного глагола: местоимение перед глаголом, ***ne vous inquiétez pas***."
+  - q: "___ (finir, tu, passé) ton rapport avant vendredi, s'il te plaît."
+    answers: ["Aie fini"]
+    explain: "Действие должно быть завершено к сроку → passé de l'impératif: ***aie fini***."
+  - q: "Les enfants, ___ (rentrer, vous, passé) avant la nuit !"
+    answers: ["soyez rentrés"]
+    explain: "*Rentrer* с *être*; passé de l'impératif с согласованием (*les enfants*): ***soyez rentrés***."
+  - q: "On étouffe ici : ___ (ouvrir, tu) la fenêtre."
+    answers: ["ouvre"]
+    explain: "*Ouvrir* спрягается как глагол на -er → ***ouvre*** без *-s*."
+  - q: "Il est tard : ___ (se dépêcher, nous) !"
+    answers: ["dépêchons-nous"]
+    explain: "1-е лицо мн. ч. — призыв «давайте»: ***dépêchons-nous*** (местоимение после глагола, через дефис)."

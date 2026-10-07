@@ -1,0 +1,44 @@
+title: "Найди ошибку: conditionnel"
+type: error
+intro: "В каждом предложении **одна** ошибка: форма conditionnel, время, лишний предлог, наклонение после si или que. Исправь и отправь предложение целиком."
+hints:
+  - "После условного si — никогда conditionnel."
+  - "Упрёк о прошлом — conditionnel passé (aurais dû), а не passé composé (as dû)."
+  - "aurais dû / aurais aimé + инфинитив без de."
+items:
+  - q: "Si j'aurais su, je serais venu plus tôt."
+    answers: ["Si j'avais su, je serais venu plus tôt.", "Si j'avais su, je serais venue plus tôt."]
+    explain: "После *si* — plus-que-parfait: ***Si j'avais su***."
+  - q: "Tu as dû me dire que tu ne venais pas !"
+    answers: ["Tu aurais dû me dire que tu ne venais pas !"]
+    explain: "Упрёк → conditionnel passé: ***Tu aurais dû***. *Tu as dû* = «тебе пришлось / ты, наверное…»."
+  - q: "J'aurais aimé de visiter cette réserve naturelle."
+    answers: ["J'aurais aimé visiter cette réserve naturelle."]
+    explain: "После *aurais aimé* — инфинитив без предлога: *j'aurais aimé **visiter***."
+  - q: "Selon nos informations, le directeur aurait démissionner hier."
+    answers: ["Selon nos informations, le directeur aurait démissionné hier."]
+    explain: "Conditionnel passé = *aurait* + **participe passé**: *aurait **démissionné***."
+  - q: "Je voudrai un renseignement, s'il vous plaît."
+    answers: ["Je voudrais un renseignement, s'il vous plaît."]
+    explain: "Вежливая просьба → conditionnel: ***voudrais*** (*voudrai* — futur)."
+  - q: "On aurait pu éviter la crise si on aurait écouté les scientifiques."
+    answers: ["On aurait pu éviter la crise si on avait écouté les scientifiques."]
+    explain: "После *si* — plus-que-parfait: *si on **avait écouté***; conditionnel passé — только в главном предложении."
+  - q: "Vous devriez pu me demander mon avis avant de décider."
+    answers: ["Vous auriez pu me demander mon avis avant de décider."]
+    explain: "Упрёк о прошлом с *pouvoir* → ***auriez pu*** + инфинитив."
+  - q: "J'aurais préféré que tu me le dirais plus tôt."
+    answers: ["J'aurais préféré que tu me le dises plus tôt.", "J'aurais préféré que tu me l'aies dit plus tôt."]
+    explain: "*Préférer que* → subjonctif: *que tu me le **dises*** (или *me l'**aies dit***)."
+  - q: "Le gouvernement serait en train de préparé une nouvelle loi sur l'eau."
+    answers: ["Le gouvernement serait en train de préparer une nouvelle loi sur l'eau."]
+    explain: "Conditionnel журналиста верен, но после *en train de* — инфинитив: ***préparer***."
+  - q: "La nouvelle usine pourrait créer cent emplois, mais elle détruirerait un espace naturel."
+    answers: ["La nouvelle usine pourrait créer cent emplois, mais elle détruirait un espace naturel."]
+    explain: "Основа conditionnel *détruire* — *détruir-*: ***détruirait***."
+  - q: "Nous aurions du réduire nos déchets bien avant la crise."
+    answers: ["Nous aurions dû réduire nos déchets bien avant la crise."]
+    explain: "Причастие *devoir* — ***dû*** с циркумфлексом (в м. р. ед. ч.)."
+  - q: "D'après un témoin, deux personnes seraient blessé dans l'accident."
+    answers: ["D'après un témoin, deux personnes seraient blessées dans l'accident."]
+    explain: "Conditionnel журналиста верен, но причастие с *être* согласуется с *deux personnes* (ж. р. мн. ч.) → ***blessées***."

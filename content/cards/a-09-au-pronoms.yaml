@@ -1,0 +1,36 @@
+- id: a09-au-aux
+  lesson: a-09-au-pronoms/01-grammaire
+  q: "*à + le*, *à + les*, *à + la*, *à + l'*?"
+  a: "**au**, **aux**; *à la*, *à l'* не сливаются: *au cinéma, aux élèves, à la gare, à l'école*."
+- id: a09-jusque
+  lesson: a-09-au-pronoms/01-grammaire
+  q: "«До метро», «до вокзала», «до шести часов»?"
+  a: "*jusqu'**au** métro*, *jusqu'**à la** gare*, *jusqu'**à** six heures* — *jusque* + *à* и обычное слияние с артиклем."
+- id: a09-il-faut
+  lesson: a-09-au-pronoms/01-grammaire
+  q: "«Надо закрыть окно», «Не надо читать»?"
+  a: "*Il faut fermer la fenêtre.* *Il **ne** faut **pas** lire.* После *il faut* — инфинитив."
+- id: a09-meteo
+  lesson: a-09-au-pronoms/01-grammaire
+  q: "«Идёт дождь», «Жарко», «Хорошая погода»?"
+  a: "*Il pleut. Il fait chaud. Il fait beau.* Безличное *il* обязательно."
+- id: a09-heure
+  lesson: a-09-au-pronoms/01-grammaire
+  q: "«Десять часов» — c'est или il est?"
+  a: "***Il est*** *dix heures.* Время — безличный оборот с *être*."
+- id: a09-le-la-les
+  lesson: a-09-au-pronoms/02-grammaire
+  q: "Замени дополнение: *Je ferme la fenêtre. Il ne lit pas ce livre.*"
+  a: "*Je **la** ferme.* *Il **ne le** lit **pas**.* Местоимение — прямо перед глаголом."
+- id: a09-pronom-infinitif
+  lesson: a-09-au-pronoms/02-grammaire
+  q: "Куда ставить *le* в *Il faut lire ce texte*?"
+  a: "Перед инфинитивом: *Il faut **le** lire.*"
+- id: a09-adverbe
+  lesson: a-09-au-pronoms/02-grammaire
+  q: "Где наречие: «Ты слишком много работаешь», «Он очень весёлый»?"
+  a: "*Tu travailles **trop*** — после глагола; *Il est **très** gai* — перед прилагательным."
+- id: a09-dit-il
+  lesson: a-09-au-pronoms/02-grammaire
+  q: "«— Спасибо, — говорит она»?"
+  a: "*— Merci, **dit-elle**.* После прямой речи — инверсия."

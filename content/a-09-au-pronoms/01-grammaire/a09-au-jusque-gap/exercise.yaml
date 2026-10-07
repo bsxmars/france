@@ -1,0 +1,43 @@
+title: "À + артикль, jusqu'à"
+type: gap
+intro: "Вставь предлог à с артиклем (au, aux, à la, à l') или jusqu'à с артиклем, если он нужен. Род существительного указан в скобках."
+hints:
+  - "à + le = au, à + les = aux; à la, à l' не сливаются."
+  - "jusque + à = jusqu'à; дальше то же слияние: jusqu'au, jusqu'aux."
+items:
+  - q: "Je vais ___ cinéma. (м.)"
+    answers: ["au"]
+    explain: "*à* + *le cinéma* → **au** cinéma."
+  - q: "Léa va ___ pharmacie. (ж.)"
+    answers: ["à la"]
+    explain: "*la* с *à* не сливается → **à la** pharmacie."
+  - q: "Nous allons ___ école. (ж.)"
+    answers: ["à l'"]
+    explain: "Перед гласной артикль *l'*, он не сливается → **à l'**."
+  - q: "Je téléphone ___ directeur. (м.)"
+    answers: ["au"]
+    explain: "*téléphoner à* + *le directeur* → **au** directeur."
+  - q: "Le professeur parle ___ élèves. (мн.)"
+    answers: ["aux"]
+    explain: "*à* + *les élèves* → **aux** élèves [o-ze-lɛv]."
+  - q: "Je téléphone ___ Marc."
+    answers: ["à"]
+    explain: "Перед именем артикля нет → просто **à** Marc."
+  - q: "Ils vont ___ musée. (м.)"
+    answers: ["au"]
+    explain: "*à* + *le musée* → **au** musée."
+  - q: "Je donne les livres ___ amis de Paul. (мн.)"
+    answers: ["aux"]
+    explain: "*donner à* + *les amis* → **aux** amis."
+  - q: "Il va à pied ___ métro. — Он идёт пешком до метро. (м.)"
+    answers: ["jusqu'au"]
+    explain: "*jusque* + *à* + *le métro* → **jusqu'au** métro."
+  - q: "Nous allons ___ gare. — Мы идём до вокзала. (ж.)"
+    answers: ["jusqu'à la"]
+    explain: "*jusqu'à* + *la gare* — *la* не сливается: **jusqu'à la** gare."
+  - q: "Je reste ici ___ six heures. — Я здесь до шести часов."
+    answers: ["jusqu'à"]
+    explain: "Перед числом артикля нет → **jusqu'à** six heures."
+  - q: "Lis le texte ___ dernières lignes. — Читай текст до последних строк. (мн.)"
+    answers: ["jusqu'aux"]
+    explain: "*jusqu'à* + *les dernières lignes* → **jusqu'aux**."

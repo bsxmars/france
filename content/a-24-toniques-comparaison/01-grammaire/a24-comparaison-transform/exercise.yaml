@@ -1,0 +1,58 @@
+title: "Сравни иначе"
+type: transform
+intro: "Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово**, не меняя его формы."
+hints:
+  - "plus / moins / aussi + прилагательное + que."
+  - "Превосходная: le / la / les plus…; после существительного артикль дважды."
+  - "bon → meilleur, le meilleur; mauvais → plus mauvais / pire."
+items:
+  - q: "Ma chambre est petite. La chambre de Léa est plus grande."
+    key: "MOINS"
+    stem: "Ma chambre est ___ que la chambre de Léa."
+    answers: ["moins grande"]
+    explain: "Меньше по размеру = **moins grande**; *grande* согласуется с *chambre*."
+  - q: "Ce film est bon. L'autre film est moins bon."
+    key: "MEILLEUR"
+    stem: "Ce film est ___ l'autre."
+    answers: ["meilleur que"]
+    explain: "Сравнительная степень от *bon* — **meilleur que** (не *plus bon*)."
+  - q: "Aucune rue du quartier n'est aussi large que cette rue."
+    key: "PLUS"
+    stem: "C'est la rue ___ du quartier."
+    answers: ["la plus large"]
+    explain: "*Large* стоит после существительного → артикль дважды: *la rue **la plus large***. «В квартале» — *du quartier*."
+  - q: "Aucune pièce de l'appartement n'est aussi petite que la cuisine."
+    key: "PLUS"
+    stem: "La cuisine est ___ pièce de l'appartement."
+    answers: ["la plus petite"]
+    explain: "*Petite* стоит перед существительным → *la plus petite pièce*."
+  - q: "Dans notre classe, personne n'est aussi bon en maths que Julie."
+    key: "MEILLEURE"
+    stem: "Julie est ___ élève de la classe en maths."
+    answers: ["la meilleure"]
+    explain: "Превосходная от *bonne* — **la meilleure**."
+  - q: "L'hiver dernier était froid. Cet hiver, il fait moins froid."
+    key: "MOINS"
+    stem: "Cet hiver est ___ que l'hiver dernier."
+    answers: ["moins froid"]
+    explain: "**moins froid que** — сравнение «меньше»."
+  - q: "C'est un grand et beau parc. Il n'y a pas de parc plus grand et plus beau dans la ville."
+    key: "PLUS"
+    stem: "C'est le parc ___ de la ville."
+    answers: ["le plus grand et le plus beau"]
+    explain: "Существительное уже стоит перед пропуском, поэтому оба прилагательных — после него, с артиклем и *plus* перед каждым: **le plus grand et le plus beau**."
+  - q: "Anne est mon amie. Je n'ai pas d'amie plus proche."
+    key: "MEILLEURE"
+    stem: "Anne est ___ amie."
+    answers: ["ma meilleure"]
+    explain: "Вместо артикля — притяжательное: **ma meilleure amie**."
+  - q: "Ce café est mauvais. Le café de la gare est encore plus mauvais."
+    key: "PIRE"
+    stem: "Le café de la gare est ___ que ce café."
+    answers: ["pire", "encore pire"]
+    explain: "*Plus mauvais* = **pire**."
+  - q: "Paris est une très belle ville. Peu de villes au monde sont aussi belles."
+    key: "UNE"
+    stem: "Paris est ___ villes du monde."
+    answers: ["une des plus belles"]
+    explain: "«Одна из самых…» — **une des plus belles** villes; «в мире» — *du monde*."

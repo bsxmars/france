@@ -1,0 +1,44 @@
+title: "Найди ошибку в сравнении"
+type: error
+intro: "В каждом предложении **одна** ошибка в сравнении. Исправь её и отправь предложение целиком."
+hints:
+  - "aussi — с прилагательным и наречием; autant — с существительным и глаголом."
+  - "De — только перед существительным: plus de temps, но plus cher."
+  - "bon → meilleur, bien → mieux; le mieux / le plus с глаголом — всегда le."
+items:
+  - q: "Ce roman est plus bon que son adaptation au cinéma."
+    answers: ["Ce roman est meilleur que son adaptation au cinéma."]
+    explain: "Сравнительная степень *bon* — **meilleur**."
+  - q: "Ma sœur lit aussi que moi, au moins un livre par semaine."
+    answers: ["Ma sœur lit autant que moi, au moins un livre par semaine."]
+    explain: "С глаголом равенство — **autant**, а не *aussi*."
+  - q: "Il y a aussi de spectateurs que l'année dernière."
+    answers: ["Il y a autant de spectateurs que l'année dernière."]
+    explain: "С существительным — **autant de**."
+  - q: "Ce musée est beaucoup plus de fréquenté que l'autre."
+    answers: ["Ce musée est beaucoup plus fréquenté que l'autre."]
+    explain: "*Fréquenté* — прилагательное (причастие) → **plus** без *de*."
+  - q: "C'est la chanson la plus connue en le monde."
+    answers: ["C'est la chanson la plus connue du monde.", "C'est la chanson la plus connue au monde."]
+    explain: "После superlatif «в мире» — **du monde** (или устойчивое *au monde*); *en le* не существует."
+  - q: "C'est l'actrice française plus célèbre à l'étranger."
+    answers: ["C'est l'actrice française la plus célèbre à l'étranger."]
+    explain: "Прилагательное после существительного → артикль повторяется: *l'actrice **la plus** célèbre*."
+  - q: "De toute la classe, c'est Julie qui parle la mieux anglais."
+    answers: ["De toute la classe, c'est Julie qui parle le mieux anglais."]
+    explain: "С глаголом (*parle*) — наречие, артикль неизменяемый: **le mieux**."
+  - q: "Cette solution est le plus meilleure de toutes."
+    answers: ["Cette solution est la meilleure de toutes."]
+    explain: "*Meilleur* уже содержит «более»; superlatif — **la meilleure** (согласуется с *solution*)."
+  - q: "Elle chante meilleur que sa mère."
+    answers: ["Elle chante mieux que sa mère."]
+    explain: "*Chanter* как? — наречие *bien* → **mieux**."
+  - q: "Ce film a eu plus du succès que prévu."
+    answers: ["Ce film a eu plus de succès que prévu."]
+    explain: "После *plus* количество — **de** без артикля: *plus de succès*."
+  - q: "Plus on lit, le plus on a envie de lire."
+    answers: ["Plus on lit, plus on a envie de lire."]
+    explain: "Пропорция «чем больше…, тем больше…» — **plus…, plus…** без артикля."
+  - q: "Les billets coûtent de plus et plus cher chaque année."
+    answers: ["Les billets coûtent de plus en plus cher chaque année."]
+    explain: "«Всё дороже» — устойчивое **de plus en plus**."

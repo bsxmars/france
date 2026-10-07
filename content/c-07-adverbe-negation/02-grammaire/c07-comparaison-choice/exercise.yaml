@@ -1,0 +1,56 @@
+title: "Mieux или meilleur, plus или davantage"
+type: choice
+intro: "Выбери вариант, верный по норме. Обрати внимание: при глаголе нужно наречие, а артикль превосходной степени наречия не согласуется."
+hints:
+  - "mieux — при глаголе, meilleur — при существительном."
+  - "pis — только в tant pis, de mal en pis, qui pis est, au pis aller."
+  - "davantage — после глагола, не перед прилагательным."
+items:
+  - q: "Depuis qu'elle prend des cours, elle chante ___."
+    options: ["meilleur", "mieux", "plus bien"]
+    answer: 1
+    explain: "При глаголе *chanter* — наречие: сравнительная степень *bien* → **mieux**."
+  - q: "Ce sont les filles qui ont couru ___ vite."
+    options: ["les plus", "le plus", "la plus"]
+    answer: 1
+    explain: "В превосходной степени наречия артикль **le** не согласуется с подлежащим."
+  - q: "Il pleut, il a perdu ses clés, et ___, sa voiture est en panne."
+    options: ["qui pis est", "qui plus mal est", "qui pire"]
+    answer: 0
+    explain: "Книжное устойчивое выражение — **qui pis est** «что ещё хуже»."
+  - q: "Si tu veux progresser, il faut lire ___."
+    options: ["davantage", "plus de", "le davantage"]
+    answer: 0
+    explain: "**Davantage** стоит после глагола и не требует продолжения. *Plus de* потребовал бы существительного."
+  - q: "Aujourd'hui, il s'exprime ___ qu'il y a un an."
+    options: ["très mieux", "bien mieux", "plus mieux"]
+    answer: 1
+    explain: "*Mieux* усиливается словами **bien** или *beaucoup*: *bien mieux*. ~~Très mieux~~ и ~~plus mieux~~ невозможны."
+  - q: "Merci de me prévenir ___."
+    options: ["le plus tôt possible", "le plus tôt possibles", "au plus tôt que possible"]
+    answer: 0
+    explain: "«Как можно раньше» — **le plus tôt possible**, *possible* неизменяемо."
+  - q: "___ on attend, ___ les billets sont chers."
+    options: ["Plus… plus", "Le plus… le plus", "Plus… et le plus"]
+    answer: 0
+    explain: "Пропорция «чем… тем…» — **plus…, plus…** без артикля."
+  - q: "Je l'admire ___ qu'il n'a jamais cherché la gloire."
+    options: ["d'autant plus", "autant plus", "de plus en plus"]
+    answer: 0
+    explain: "«Тем более что» — **d'autant plus que**."
+  - q: "Cette année, l'équipe a joué ___ que la saison dernière."
+    options: ["plus mal", "pis", "plus mauvais"]
+    answer: 0
+    explain: "Вне устойчивых выражений сравнительная степень *mal* — **plus mal**; *pis* архаично, *mauvais* — прилагательное."
+  - q: "Il ne conduit pas ___ vite que tu le crois."
+    options: ["si", "tant", "autant"]
+    answer: 0
+    explain: "В отрицании равенство при наречии часто выражается **si… que** (возможно и *aussi*). *Tant / autant* — с глаголом или существительным."
+  - q: "De tous mes collègues, c'est Marc qui travaille ___."
+    options: ["le moins", "la moins", "moins que"]
+    answer: 0
+    explain: "Превосходная степень *peu* → **le moins**."
+  - q: "Elle a obtenu une note ___ que la mienne."
+    options: ["meilleure", "mieux", "plus bonne"]
+    answer: 0
+    explain: "Здесь сравниваются существительные (*une note*), нужно прилагательное в женском роде: **meilleure**."

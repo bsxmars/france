@@ -1,0 +1,136 @@
+- id: c09-pres-valeurs
+  lesson: c-09-futurs/01-grammaire
+  q: "Шесть значений présent"
+  a: "Момент речи; длительность с *depuis*; общая истина; близкое будущее; недавнее прошлое (*j'arrive de…*); présent de narration."
+- id: c09-pres-depuis
+  lesson: c-09-futurs/01-grammaire
+  q: "«Я живу здесь три года»"
+  a: "*J'habite ici depuis trois ans* / *Ça fait trois ans que j'habite ici* — présent, а не ~~j'ai habité~~."
+- id: c09-pres-depuis-pc
+  lesson: c-09-futurs/01-grammaire
+  q: "Когда с depuis ставится passé composé?"
+  a: "В отрицании и при завершённом действии с длящимся результатом: *Je ne l'ai pas vu depuis un mois. Il est parti depuis lundi.*"
+- id: c09-pres-si
+  lesson: c-09-futurs/01-grammaire
+  q: "S'il ___ (pleuvoir) demain, on restera ici."
+  a: "*pleut* — после условного *si* présent вместо будущего. Но *je ne sais pas s'il pleuvra* (si = «ли»)."
+- id: c09-pres-recent
+  lesson: c-09-futurs/01-grammaire
+  q: "Je viens vous demander un conseil. Je sors d'une réunion. — какое время по смыслу?"
+  a: "Недавнее прошлое: «я пришёл…», «я только что с совещания». Типичные глаголы: *venir, arriver, sortir, revenir, apporter, amener*."
+- id: c09-pres-futur
+  lesson: c-09-futurs/01-grammaire
+  q: "Nous partons lundi. — почему présent?"
+  a: "Близкое, решённое будущее с указанием времени."
+- id: c09-pres-narration
+  lesson: c-09-futurs/01-grammaire
+  q: "Что такое présent de narration?"
+  a: "Présent в рассказе о прошлом вместо passé simple / composé для живости: *Soudain, une porte claque.* Фон остаётся в imparfait."
+- id: c09-pres-en-train
+  lesson: c-09-futurs/01-grammaire
+  q: "être en train de — обязательно ли?"
+  a: "Нет: это уточнение «как раз сейчас», а не обязательная форма процесса, как английская continuous."
+- id: c09-fs-formation
+  lesson: c-09-futurs/02-grammaire
+  q: "Как образуется futur simple?"
+  a: "Инфинитив + *-ai, -as, -a, -ons, -ez, -ont*; глаголы на *-re* теряют *e*: *prendr-ai*."
+- id: c09-fs-ortho
+  lesson: c-09-futurs/02-grammaire
+  q: "appeler, jeter, acheter, employer, payer → futur (je)"
+  a: "*j'appellerai, je jetterai, j'achèterai, j'emploierai, je paierai / payerai.*"
+- id: c09-fs-rr
+  lesson: c-09-futurs/02-grammaire
+  q: "Какие глаголы имеют двойное r во futur?"
+  a: "*pourrai, verrai, enverrai, courrai, mourrai, acquerrai* — двойное *r* слышно."
+- id: c09-fs-irreg
+  lesson: c-09-futurs/02-grammaire
+  q: "Основы futur: être, avoir, aller, faire, savoir, valoir, falloir, cueillir"
+  a: "*ser-, aur-, ir-, fer-, saur-, vaudr-, faudr-, cueiller-.*"
+- id: c09-fs-e-muet
+  lesson: c-09-futurs/02-grammaire
+  q: "oublier, continuer, jouer → futur (je)"
+  a: "*j'oublierai, je continuerai, je jouerai* — немое *e* пишется."
+- id: c09-fs-valeurs
+  lesson: c-09-futurs/02-grammaire
+  q: "Значения futur simple, кроме будущего"
+  a: "Приказ (*Vous prendrez ce cachet*), вежливость (*Je vous demanderai de…*), историческая перспектива (*il sera sacré empereur*), общая истина, предположение (*Ce sera le facteur*)."
+- id: c09-fi-forme
+  lesson: c-09-futurs/02-grammaire
+  q: "Futur immédiat: форма, место местоимений и отрицания"
+  a: "*aller* (présent) + inf.; местоимение перед инфинитивом: *je vais le lui dire*; отрицание вокруг *aller*: *je ne vais pas rester*."
+- id: c09-fi-vs-fs
+  lesson: c-09-futurs/02-grammaire
+  q: "Elle va avoir un bébé / Elle aura des enfants"
+  a: "Futur immédiat — связь с настоящим (она беременна, признаки налицо); futur simple — будущее отдельно от настоящего."
+- id: c09-fi-quand
+  lesson: c-09-futurs/02-grammaire
+  q: "Можно ли сказать «quand je vais finir»?"
+  a: "Нет: после *quand* — *quand je finirai* или *quand j'aurai fini*."
+- id: c09-fp-forme
+  lesson: c-09-futurs/03-grammaire
+  q: "Какую форму имеет futur dans le passé?"
+  a: "Форму conditionnel présent: основа futur + *-ais, -ais, -ait, -ions, -iez, -aient* (*viendrait*), но без значения условия."
+- id: c09-fp-emploi
+  lesson: c-09-futurs/03-grammaire
+  q: "Il a dit qu'il ___ (venir) demain."
+  a: "*viendrait* — после глагола в прошедшем futur → futur dans le passé."
+- id: c09-fp-si
+  lesson: c-09-futurs/03-grammaire
+  q: "« Si tu viens, je serai content » → Il a dit que…"
+  a: "*…que si je venais, il serait content* (si + imparfait, futur dans le passé)."
+- id: c09-fip-forme
+  lesson: c-09-futurs/03-grammaire
+  q: "Futur immédiat dans le passé — форма"
+  a: "*aller* в imparfait + инфинитив: *j'allais partir*."
+- id: c09-fip-interrompu
+  lesson: c-09-futurs/03-grammaire
+  q: "«Я уже собирался выходить, когда зазвонил телефон»"
+  a: "*J'allais sortir quand le téléphone a sonné.* — прерванное намерение."
+- id: c09-fip-imminent
+  lesson: c-09-futurs/03-grammaire
+  q: "Le train allait partir — перевод"
+  a: "«Поезд вот-вот должен был отойти». Синонимы: *était sur le point de partir*; *devait partir* — «должен был (по плану)»."
+- id: c09-fp-distinguer
+  lesson: c-09-futurs/03-grammaire
+  q: "il allait partir / il était parti / il venait de partir"
+  a: "собирался уехать / уже уехал / только что уехал."
+- id: c09-fp-tolerance
+  lesson: c-09-futurs/03-grammaire
+  q: "Il a annoncé qu'il démissionnera en juin — ошибка?"
+  a: "Допустимо, если июнь ещё впереди (пресса, речь), но в письменной норме надёжнее *qu'il démissionnerait*."
+- id: c09-fa-forme
+  lesson: c-09-futurs/04-grammaire
+  q: "Futur antérieur — форма"
+  a: "*avoir / être* во futur simple + причастие: *j'aurai fini, elle sera partie, ils se seront levés.*"
+- id: c09-fa-anteriorite
+  lesson: c-09-futurs/04-grammaire
+  q: "«Когда прочитаешь книгу, верни её»"
+  a: "*Quand tu auras lu le livre, rends-le-moi.* — действие придаточного завершится раньше."
+- id: c09-fa-conjonctions
+  lesson: c-09-futurs/04-grammaire
+  q: "После каких союзов чаще всего стоит futur antérieur?"
+  a: "*quand, lorsque, dès que, aussitôt que, après que* (+ indicatif!), *une fois que, sitôt que.*"
+- id: c09-fa-delai
+  lesson: c-09-futurs/04-grammaire
+  q: "«Через час я уже закончу»"
+  a: "*Dans une heure, j'aurai terminé.* — завершённость к моменту в будущем."
+- id: c09-fa-probabilite
+  lesson: c-09-futurs/04-grammaire
+  q: "Il n'est pas là ? Il aura raté son train. — значение"
+  a: "Предположение о прошлом: «он, наверное, опоздал на поезд»."
+- id: c09-fa-bilan
+  lesson: c-09-futurs/04-grammaire
+  q: "J'aurai tout vu ! Vous aurez compris que… — значение"
+  a: "Futur antérieur итога: «чего только не увидишь!», «вы, конечно, поняли, что…»."
+- id: c09-fa-vs-cond
+  lesson: c-09-futurs/04-grammaire
+  q: "Il aura oublié / Il aurait oublié"
+  a: "«Наверное, забыл» (догадка говорящего) / «якобы забыл» (чужая непроверенная информация, conditionnel passé)."
+- id: c09-fap-forme
+  lesson: c-09-futurs/04-grammaire
+  q: "Futur antérieur dans le passé — форма и пример"
+  a: "Форма conditionnel passé: *Il a dit qu'il appellerait dès qu'il aurait reçu la réponse.*"
+- id: c09-fap-schema
+  lesson: c-09-futurs/04-grammaire
+  q: "Перенос в план прошлого: viendra, sera venu, va venir"
+  a: "*viendrait, serait venu, allait venir.*"

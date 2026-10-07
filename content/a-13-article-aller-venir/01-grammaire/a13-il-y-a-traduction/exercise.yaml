@@ -1,0 +1,41 @@
+title: "Il y a или être? Переведи"
+type: gap
+intro: "Переведи фразу целиком. Смотри на порядок слов в русском: предмет в начале — être, предмет в конце — il y a. Акценты обязательны, точку можно не ставить."
+hints:
+  - "«Тетрадь на столе» → Le cahier est sur la table."
+  - "«На столе тетрадь» → Sur la table il y a un cahier / Il y a un cahier sur la table."
+  - "Отрицание: il n'y a pas de / d'."
+items:
+  - q: "На столе книга."
+    answers: ["Sur la table il y a un livre.", "Sur la table, il y a un livre.", "Il y a un livre sur la table."]
+    explain: "Предмет в конце — сообщаем, **что** там есть → **il y a un** livre. Оборот можно поставить в начало или после указания места."
+  - q: "Книга на столе."
+    answers: ["Le livre est sur la table."]
+    explain: "Предмет в начале, он известен — говорим, **где** он → **le** livre **est** sur la table."
+  - q: "В комнате два окна."
+    answers: ["Dans la chambre il y a deux fenêtres.", "Dans la chambre, il y a deux fenêtres.", "Il y a deux fenêtres dans la chambre.", "Dans la pièce il y a deux fenêtres.", "Dans la pièce, il y a deux fenêtres.", "Il y a deux fenêtres dans la pièce."]
+    explain: "По-русски глагола нет, по-французски — **il y a**: *il y a deux fenêtres*."
+  - q: "Около вокзала есть кафе."
+    answers: ["Près de la gare il y a un café.", "Près de la gare, il y a un café.", "Il y a un café près de la gare."]
+    explain: "«Есть» о наличии → **il y a un** café."
+  - q: "Кафе около вокзала."
+    answers: ["Le café est près de la gare."]
+    explain: "Кафе уже известно, говорим, где оно → **le** café **est**…"
+  - q: "На этой улице нет магазинов."
+    answers: ["Dans cette rue il n'y a pas de magasins.", "Dans cette rue, il n'y a pas de magasins.", "Il n'y a pas de magasins dans cette rue.", "Dans cette rue il n'y a pas de magasin.", "Dans cette rue, il n'y a pas de magasin.", "Il n'y a pas de magasin dans cette rue."]
+    explain: "Отрицание: *il n'y a pas* **de** magasins (артикль *des* → *de*). «На улице» — *dans la rue*."
+  - q: "Что лежит на столе?"
+    answers: ["Qu'est-ce qu'il y a sur la table ?", "Qu'y a-t-il sur la table ?", "Il y a quoi sur la table ?"]
+    explain: "«Что там есть?» — ***Qu'est-ce qu'il y a*** / ***Qu'y a-t-il*** sur la table ?"
+  - q: "Здесь есть школа?"
+    answers: ["Est-ce qu'il y a une école ici ?", "Y a-t-il une école ici ?", "Il y a une école ici ?"]
+    explain: "Вопрос «да / нет» с *il y a*: ***Est-ce qu'il y a*** / ***Y a-t-il*** une école ici ?"
+  - q: "В саду дети."
+    answers: ["Dans le jardin il y a des enfants.", "Dans le jardin, il y a des enfants.", "Il y a des enfants dans le jardin."]
+    explain: "Предмет в конце → **il y a des** enfants (*des* — «какие-то, несколько»)."
+  - q: "Дети в саду."
+    answers: ["Les enfants sont dans le jardin."]
+    explain: "Известные дети, говорим, где они → **les** enfants **sont** dans le jardin."
+  - q: "Под стулом нет сумки."
+    answers: ["Sous la chaise il n'y a pas de sac.", "Sous la chaise, il n'y a pas de sac.", "Il n'y a pas de sac sous la chaise."]
+    explain: "*il n'y a pas* **de** sac — после отрицания артикль *un* превращается в *de*."

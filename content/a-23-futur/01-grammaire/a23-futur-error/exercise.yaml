@@ -1,0 +1,37 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: неверная основа futur simple или будущее после si «если». Исправь её и отправь предложение целиком."
+hints:
+  - "Si tu viens…, а не si tu viendras…"
+  - "ir-, fer-, ser-, viendr-, verr-, pourr-, faudr-; -re: prendre → je prendrai."
+items:
+  - q: "Si tu viendras demain, nous irons au cinéma."
+    answers: ["Si tu viens demain, nous irons au cinéma."]
+    explain: "После *si* «если» будущее не ставится → **si tu viens**."
+  - q: "Nous allerons au musée samedi."
+    answers: ["Nous irons au musée samedi."]
+    explain: "*Aller* в futur — основа **ir-**: *nous irons*."
+  - q: "Ils faireront leurs devoirs ce soir."
+    answers: ["Ils feront leurs devoirs ce soir."]
+    explain: "*Faire* → основа **fer-**: *ils feront*."
+  - q: "Tu voiras la mer de ta chambre."
+    answers: ["Tu verras la mer de ta chambre."]
+    explain: "*Voir* → основа **verr-**: *tu verras*."
+  - q: "Je serais à la maison à six heures, je te le promets."
+    answers: ["Je serai à la maison à six heures, je te le promets."]
+    explain: "Обещание о будущем → futur **je serai**. *Serais* — «был бы», другое наклонение."
+  - q: "Elle venira avec son frère."
+    answers: ["Elle viendra avec son frère."]
+    explain: "*Venir* → основа **viendr-**: *elle viendra*."
+  - q: "S'il pleuvra, nous resterons à la maison."
+    answers: ["S'il pleut, nous resterons à la maison."]
+    explain: "Условие с *si* → **présent**: *s'il pleut*."
+  - q: "Vous pouverez partir à cinq heures."
+    answers: ["Vous pourrez partir à cinq heures."]
+    explain: "*Pouvoir* → основа **pourr-**: *vous pourrez*."
+  - q: "Demain, je prendrerai le bus."
+    answers: ["Demain, je prendrai le bus."]
+    explain: "Глагол на *-re* теряет *e*: *prendr-* + *-ai* → **prendrai**."
+  - q: "Il fallera partir tôt."
+    answers: ["Il faudra partir tôt."]
+    explain: "*Il faut* → futur **il faudra**."

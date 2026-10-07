@@ -1,0 +1,43 @@
+title: "Согласование причастия"
+type: gap
+intro: "Поставь глагол в **passé composé** и согласуй причастие, если нужно. Пиши всю форму: вспомогательный глагол + причастие (и возвратное местоимение, если оно не стоит в предложении)."
+hints:
+  - "être → согласование с подлежащим; avoir → с прямым дополнением, только если оно стоит впереди (le, la, les, que, quel)."
+  - "se laver les mains, se téléphoner, se parler — согласования нет."
+items:
+  - q: "Ma sœur ___ (naître) à Marseille."
+    answers: ["est née"]
+    explain: "*naître* → *être*, согласование с подлежащим (*ma sœur*, ж. р.) → *née*."
+  - q: "Hier soir, Léa et Chloé ___ (rentrer) très tard."
+    answers: ["sont rentrées"]
+    explain: "*rentrer* без дополнения → *être*. Две женщины → *rentrées*."
+  - q: "Dimanche, nous ___ (se promener) au bord de la Seine."
+    answers: ["nous sommes promenés", "nous sommes promenées"]
+    explain: "Возвратный глагол → *être*. *nous* — смешанная или мужская группа: *promenés*; женская: *promenées*."
+  - q: "Elle ___ (se laver) les mains avant de passer à table."
+    answers: ["s'est lavé"]
+    explain: "Прямое дополнение (**les mains**) стоит **после** глагола, *se* — «себе» → согласования нет: *s'est lavé*."
+  - q: "Les lettres que nous ___ (recevoir) ce matin venaient de l'étranger."
+    answers: ["avons reçues"]
+    explain: "*que* = *les lettres* (ж. р., мн. ч.) — прямое дополнение перед *avoir* → *reçues*."
+  - q: "Ces photos ? Je les ___ (prendre) en Islande."
+    answers: ["ai prises"]
+    explain: "*les* = *ces photos* стоит перед *avoir* → *prises* (согласование здесь даже слышно: [priz])."
+  - q: "Pendant un an, ils ___ (se téléphoner) tous les jours."
+    answers: ["se sont téléphoné"]
+    explain: "*téléphoner **à** qqn* → *se* — косвенное дополнение, согласования нет: *se sont téléphoné*."
+  - q: "Quelle robe as-tu ___ (choisir) pour le mariage ?"
+    answers: ["choisie"]
+    explain: "*quelle robe* — прямое дополнение впереди → *choisie*."
+  - q: "Mes amis ___ (venir) me voir à l'hôpital."
+    answers: ["sont venus"]
+    explain: "*venir* → *être*, *mes amis* (м. р., мн. ч.) → *venus*."
+  - q: "Ma voisine ___ (acheter) une voiture, puis elle l'a revendue un an après."
+    answers: ["a acheté"]
+    explain: "*avoir*, прямое дополнение (**une voiture**) стоит **после** глагола → без согласования. А вот *l'a revendue* — *l'* впереди, поэтому *revendue*."
+  - q: "Les vacances ___ (passer) trop vite."
+    answers: ["sont passées"]
+    explain: "*passer* без прямого дополнения («пролететь») → *être*; *les vacances* — ж. р., мн. ч. → *passées*."
+  - q: "Anne, tu ___ (sortir) hier soir ?"
+    answers: ["es sortie"]
+    explain: "*sortir* без дополнения → *être*; обращаемся к Анне → *sortie*."

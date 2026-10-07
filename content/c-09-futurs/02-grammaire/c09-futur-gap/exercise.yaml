@@ -1,0 +1,44 @@
+title: "Futur simple трудных глаголов"
+type: gap
+intro: "Поставь глагол в скобках во futur simple. Следи за удвоением согласных, è, y → i и неправильными основами."
+hints:
+  - "appeler, jeter → ll, tt; acheter, lever → è; -oyer, -uyer → -oierai, -uierai."
+  - "pouvoir, voir, envoyer, courir, mourir, acquérir — два r."
+  - "-ier, -uer, -ouer: немое e пишется (oublierai)."
+items:
+  - q: "Je vous ___ (rappeler) dès que j'aurai des nouvelles."
+    answers: ["rappellerai"]
+    explain: "*Rappeler* удваивает *l* перед немым *e*: **rappellerai**."
+  - q: "Nous ___ (acheter) les billets en ligne."
+    answers: ["achèterons"]
+    explain: "*Acheter*: *e* → **è** перед немым слогом: *achèterons*."
+  - q: "Elle ___ (employer) une méthode plus simple la prochaine fois."
+    answers: ["emploiera"]
+    explain: "*-oyer*: *y* → *i* перед немым *e*: **emploiera**."
+  - q: "Ils ___ (courir) le marathon de Paris en avril."
+    answers: ["courront"]
+    explain: "*Courir* → основа *courr-*: **courront**, два *r*."
+  - q: "Tu ___ (cueillir) des cerises chez ma tante."
+    answers: ["cueilleras"]
+    explain: "*Cueillir* образует futur как глагол I группы: **cueilleras**."
+  - q: "Je n'___ (oublier) jamais ce voyage."
+    answers: ["oublierai"]
+    explain: "Немое *e* после *i* пишется: **oublierai** (не ~~oublirai~~)."
+  - q: "Vous ___ (payer) à la caisse, s'il vous plaît."
+    answers: ["paierez", "payerez"]
+    explain: "*-ayer*: обе формы допустимы — **paierez** и *payerez*. Futur здесь — вежливая инструкция."
+  - q: "Avec ce diplôme, elle ___ (acquérir) une vraie reconnaissance."
+    answers: ["acquerra"]
+    explain: "*Acquérir* → основа *acquerr-*: **acquerra** (без аксана, два *r*)."
+  - q: "Il ___ (falloir) partir tôt pour éviter les bouchons."
+    answers: ["faudra"]
+    explain: "*Falloir* → **faudra**."
+  - q: "Je ___ (s'asseoir) près de la fenêtre."
+    answers: ["m'assiérai", "m'assoirai", "m'asseoirai"]
+    explain: "У *s'asseoir* две нормы: **m'assiérai** и *m'assoirai* (традиционно *m'asseoirai*, реформа 1990 — *m'assoirai*)."
+  - q: "Quand vous ___ (voir) le résultat, vous serez surpris."
+    answers: ["verrez"]
+    explain: "После *quand* с будущим смыслом — futur; *voir* → **verrez**."
+  - q: "Nous ___ (jeter) un coup d'œil à votre projet ce week-end."
+    answers: ["jetterons"]
+    explain: "*Jeter* удваивает *t*: **jetterons**."

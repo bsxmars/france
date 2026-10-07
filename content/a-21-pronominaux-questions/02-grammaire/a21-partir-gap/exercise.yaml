@@ -1,0 +1,43 @@
+title: "Partir, sortir, dormir, sentir…"
+type: gap
+intro: "Вставь нужную форму глагола в скобках: в настоящем времени, если не указано иное. Местоименный глагол пиши вместе с местоимением."
+hints:
+  - "Ед. ч. теряет согласную: je pars, je dors, je sens, je sers, je mens; мн. ч. — nous partons, nous dormons…"
+  - "Passé composé: partir, sortir, s'endormir — с être; dormir, sentir, servir, mentir — с avoir."
+items:
+  - q: "Le train pour Lyon ___ à midi. (partir)"
+    answers: ["part"]
+    explain: "3-е лицо ед. ч.: основа теряет *t*, а окончание *-t* остаётся: **part**."
+  - q: "Je ___ mal quand il fait chaud. (dormir)"
+    answers: ["dors"]
+    explain: "В ед. ч. основа *dorm-* теряет *m*: **je dors**."
+  - q: "Nous ___ souvent le samedi soir. (sortir)"
+    answers: ["sortons"]
+    explain: "Во мн. ч. согласная возвращается: **nous sortons**."
+  - q: "Tu ___ ! Ce n'est pas vrai ! (mentir)"
+    answers: ["mens"]
+    explain: "*mentir* → *ment-* теряет *t*: **tu mens**."
+  - q: "Comment tu ___ aujourd'hui ? — Mieux, merci. (se sentir)"
+    answers: ["te sens"]
+    explain: "*se sentir* — «чувствовать себя»; *tu* → **te sens**."
+  - q: "Les bébés ___ beaucoup. (dormir)"
+    answers: ["dorment"]
+    explain: "*ils* → основа *dorm-* + *-ent*: **dorment**."
+  - q: "Dans ce café, on ___ un très bon chocolat chaud. (servir)"
+    answers: ["sert"]
+    explain: "*servir*, 3-е лицо ед. ч.: *serv-* теряет *v* → **sert**."
+  - q: "Ne ___ pas sans moi ! (partir, vous)"
+    answers: ["partez"]
+    explain: "Повелительное, форма *vous*: **partez**."
+  - q: "Hier, mes amies ___ à minuit. (sortir, passé composé)"
+    answers: ["sont sorties"]
+    explain: "*sortir* — с **être**; *mes amies* — ж. р. мн. ч.: **sont sorties**."
+  - q: "Cette nuit, j'___ dix heures ! (dormir, passé composé)"
+    answers: ["ai dormi"]
+    explain: "*dormir* — с **avoir**: *j'**ai dormi***."
+  - q: "Les enfants ___ tout de suite. (s'endormir, passé composé)"
+    answers: ["se sont endormis"]
+    explain: "Местоименный глагол → **être**; *les enfants* → **se sont endormis**."
+  - q: "Elle ___ pour l'Italie la semaine dernière. (partir, passé composé)"
+    answers: ["est partie"]
+    explain: "*partir* — с **être**; *elle* → **est partie**."

@@ -1,0 +1,32 @@
+- id: a15-cela
+  lesson: a-15-negation-quantite/01-grammaire
+  q: "Что такое *cela* и как его заменяют в разговоре?"
+  a: "«Это» — целая мысль или факт; бывает подлежащим, дополнением, стоит после предлога: *Cela m'intéresse. Je comprends cela. Parlons de cela.* В разговоре — **ça**."
+- id: a15-pas-de
+  lesson: a-15-negation-quantite/01-grammaire
+  q: "«У меня нет брата», «Здесь нет деревьев»."
+  a: "*Je n'ai pas **de** frère. Il n'y a pas **d'arbres** ici.* — при отрицании *un, une, des* → **de**."
+- id: a15-pas-le
+  lesson: a-15-negation-quantite/01-grammaire
+  q: "Меняется ли *le, la, les* при отрицании?"
+  a: "Нет: *Je n'aime pas **les** pommes.* И после *être* артикль остаётся: *Ce n'est pas **un** stylo.*"
+- id: a15-quantite
+  lesson: a-15-negation-quantite/01-grammaire
+  q: "Много, мало, достаточно, слишком много, сколько — + существительное?"
+  a: "*beaucoup **de**, peu **de**, assez **de**, trop **de**, combien **de*** — без артикля: *beaucoup d'amis, peu de temps*."
+- id: a15-combien-sujet
+  lesson: a-15-negation-quantite/01-grammaire
+  q: "«Сколько туристов приезжает сюда летом?» — какой порядок слов?"
+  a: "*Combien de touristes **viennent** ici en été ?* — *combien* при подлежащем → прямой порядок."
+- id: a15-combien-objet
+  lesson: a-15-negation-quantite/01-grammaire
+  q: "«Сколько у тебя книг?», «Сколько у Поля сестёр?»"
+  a: "*Combien de livres **as-tu** ?* *Combien de sœurs **Paul a-t-il** ?* — *combien* при дополнении → инверсия."
+- id: a15-avoir
+  lesson: a-15-negation-quantite/01-grammaire
+  q: "Проспрягай *avoir* в настоящем времени и повелительном наклонении."
+  a: "*j'ai, tu as, il a, nous avons, vous avez, ils ont*; повелительное: ***aie, ayons, ayez***."
+- id: a15-ai-je
+  lesson: a-15-negation-quantite/01-grammaire
+  q: "Как спросить «есть ли у меня…?» в 1-м лице?"
+  a: "*Est-ce que j'ai… ?* или с инверсией ***ai-je*** *… ?*"

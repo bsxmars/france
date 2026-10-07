@@ -1,0 +1,44 @@
+- id: a25-ps-emploi
+  lesson: a-25-passe-simple-adverbes/01-grammaire
+  q: "Где употребляется passé simple и чем он отличается от passé composé?"
+  a: "Только в письменном повествовании (литература, история). Выражает событие, целиком оставшееся в прошлом. Passé composé — разговорное, связано с настоящим."
+- id: a25-ps-terminaisons
+  lesson: a-25-passe-simple-adverbes/01-grammaire
+  q: "Три типа окончаний passé simple (на примере parler, finir, vouloir)?"
+  a: "*je parlai, il parla, ils parl**èrent***; *je finis, il finit, ils fin**irent***; *je voulus, il voulut, ils voul**urent***. У *nous / vous* — circonflexe: *-âmes, -îmes, -ûmes*."
+- id: a25-ps-irreguliers
+  lesson: a-25-passe-simple-adverbes/01-grammaire
+  q: "Passé simple (il): avoir, être, faire, voir, venir, naître?"
+  a: "*il **eut**, il **fut**, il **fit**, il **vit**, il **vint**, il **naquit***."
+- id: a25-ps-oir
+  lesson: a-25-passe-simple-adverbes/01-grammaire
+  q: "Какой тип passé simple у глаголов на -oir? Исключение?"
+  a: "На **u**: *il put, il sut, il dut, il reçut, il fallut, il plut*. Исключение — *voir*: *il **vit***."
+- id: a25-ps-ir-u
+  lesson: a-25-passe-simple-adverbes/01-grammaire
+  q: "Какие глаголы на -ir(e) имеют passé simple на u?"
+  a: "*lire — il **lut**, courir — il **courut**, mourir — il **mourut***. Остальные — на *i*: *il dit, il partit, il ouvrit*."
+- id: a25-ps-imparfait
+  lesson: a-25-passe-simple-adverbes/01-grammaire
+  q: "Passé simple или imparfait в рассказе?"
+  a: "Passé simple — события сюжета (*Soudain, il **entra***). Imparfait — фон, описание, состояние (*La nuit **était** froide*)."
+- id: a25-adv-comparatif
+  lesson: a-25-passe-simple-adverbes/02-grammaire
+  q: "Сравнительная и превосходная степень наречия *vite*?"
+  a: "*plus / moins / aussi vite que*; *le plus vite, le moins vite* — артикль всегда **le**."
+- id: a25-adv-speciaux
+  lesson: a-25-passe-simple-adverbes/02-grammaire
+  q: "Степени сравнения beaucoup, peu, bien?"
+  a: "*beaucoup → **plus**, le plus*; *peu → **moins**, le moins*; *bien → **mieux**, le mieux* (но *aussi bien, moins bien*)."
+- id: a25-mieux-meilleur
+  lesson: a-25-passe-simple-adverbes/02-grammaire
+  q: "«Он поёт лучше» и «Этот кофе лучше»?"
+  a: "*Il chante **mieux*** — наречие (как?). *Ce café est **meilleur*** — прилагательное (какой?)."
+- id: a25-plus-mal
+  lesson: a-25-passe-simple-adverbes/02-grammaire
+  q: "«Я вижу хуже» и «Погода хуже»?"
+  a: "*Je vois **plus mal*** — наречие. *Le temps est **plus mauvais*** (*pire*) — прилагательное."
+- id: a25-plus-de
+  lesson: a-25-passe-simple-adverbes/02-grammaire
+  q: "Как сравнить количество: «больше книг», «больше всего книг»?"
+  a: "***plus de** livres que*; *C'est lui qui a **le plus de** livres.* Также *moins de, autant de*."

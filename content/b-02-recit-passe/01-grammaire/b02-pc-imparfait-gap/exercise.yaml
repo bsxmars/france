@@ -1,0 +1,43 @@
+title: "Passé composé или imparfait"
+type: gap
+intro: "Поставь глагол в скобках в **passé composé** или **imparfait**. Пиши только глагольную форму (со вспомогательным глаголом и возвратным местоимением, если они нужны). Акценты проверяются."
+hints:
+  - "Событие, «а что потом?» → passé composé. Фон, описание, привычка → imparfait."
+  - "Глаголы движения и возвратные глаголы — с être, причастие согласуется с подлежащим."
+items:
+  - q: "Quand j'étais petit, je ___ (passer) mes vacances chez ma grand-mère en Bretagne."
+    answers: ["passais"]
+    explain: "Повторяющееся действие на фоне периода (**quand j'étais petit**) → imparfait: *je passais*."
+  - q: "Hier soir, nous ___ (regarder) un film coréen."
+    answers: ["avons regardé"]
+    explain: "Законченное событие в определённый момент (**hier soir**) → passé composé с *avoir*."
+  - q: "Il ___ (pleuvoir) quand je suis sorti du bureau."
+    answers: ["pleuvait"]
+    explain: "Погода — фон, на котором происходит событие (*je suis sorti*) → imparfait: *il pleuvait*."
+  - q: "Ce matin, Julie ___ (se lever) à six heures."
+    answers: ["s'est levée"]
+    explain: "Однократное событие → passé composé. Возвратный глагол → *être*, причастие согласуется с подлежащим (Julie): *s'est levée*."
+  - q: "Tout à coup, la lumière ___ (s'éteindre)."
+    answers: ["s'est éteinte"]
+    explain: "**Tout à coup** — внезапное событие → passé composé. *s'éteindre* возвратный → *être*; *la lumière* ж. р. → *éteinte*."
+  - q: "Autrefois, les gens ___ (écrire) beaucoup plus de lettres."
+    answers: ["écrivaient"]
+    explain: "**Autrefois** + привычка в прошлом → imparfait. Основа от *nous écrivons* → *écriv-* + *-aient*."
+  - q: "Pendant que je ___ (préparer) le dîner, mon fils faisait ses devoirs."
+    answers: ["préparais"]
+    explain: "**Pendant que** — два параллельных процесса → imparfait в обеих частях."
+  - q: "Mon frère ___ (vivre) cinq ans à Montréal, puis il est rentré en France."
+    answers: ["a vécu"]
+    explain: "Длительность названа и закрыта (**cinq ans**, потом вернулся) → passé composé. Причастие *vivre* — **vécu**."
+  - q: "Le restaurant ___ (être) plein, alors nous sommes allés ailleurs."
+    answers: ["était"]
+    explain: "Описание ситуации, причина события → imparfait: *le restaurant était plein*."
+  - q: "Elle ___ (avoir) vingt ans quand elle a créé sa première start-up."
+    answers: ["avait"]
+    explain: "Возраст — это состояние, фон → imparfait: *elle avait vingt ans*. Событие — *elle a créé*."
+  - q: "Les enfants ___ (aller) au parc, puis ils ont pris une glace."
+    answers: ["sont allés", "sont allées"]
+    explain: "Последовательность событий (**puis**) → passé composé. *aller* → *être*, причастие согласуется: *sont allés* (группа девочек — *sont allées*)."
+  - q: "Je ne ___ (savoir) pas que tu parlais russe !"
+    answers: ["savais"]
+    explain: "*savoir* в imparfait — «знал» (состояние). *J'ai su* значило бы «узнал» — здесь не подходит."

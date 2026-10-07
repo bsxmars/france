@@ -1,0 +1,136 @@
+- id: c08-trans-types
+  lesson: c-08-voix-pronominaux/01-grammaire
+  q: "Transitif direct, transitif indirect, intransitif — чем различаются?"
+  a: "Прямое дополнение без предлога (*acheter un livre* → *le*); косвенное с *à / de* (*parler à qn* → *lui*, *douter de qch* → *en*); без дополнения (*dormir*)."
+- id: c08-trans-direct-ru
+  lesson: c-08-voix-pronominaux/01-grammaire
+  q: "Прямое дополнение во французском, косвенное в русском: 6 глаголов"
+  a: "*aider qn* (помогать кому), *attendre qn*, *écouter qn*, *chercher qch*, *épouser qn* (жениться на), *se rappeler qch* (вспоминать о), *fuir qn* (бежать от)."
+- id: c08-trans-indirect-ru
+  lesson: c-08-voix-pronominaux/01-grammaire
+  q: "Косвенное дополнение во французском, прямое в русском: 6 глаголов"
+  a: "*obéir à qn* (слушаться кого), *ressembler à*, *se souvenir de*, *douter de*, *renoncer à*, *assister à*, *nuire à*, *profiter de*."
+- id: c08-trans-rappeler
+  lesson: c-08-voix-pronominaux/01-grammaire
+  q: "se rappeler / se souvenir — управление"
+  a: "*Je me rappelle cette histoire* (прямое). *Je me souviens de cette histoire* (с *de*). ~~Je me rappelle de~~ — ненормативно."
+- id: c08-aux-double
+  lesson: c-08-voix-pronominaux/01-grammaire
+  q: "Какие глаголы спрягаются то с être, то с avoir?"
+  a: "*monter, descendre, sortir, rentrer, passer, retourner*: без прямого дополнения — *être* (*elle est sortie*), с прямым дополнением — *avoir* (*elle a sorti le chien*)."
+- id: c08-aux-passer
+  lesson: c-08-voix-pronominaux/01-grammaire
+  q: "Je suis passé chez toi / J'ai passé un mois à Rome"
+  a: "*Être* — «зайти» (движение); *avoir* — «провести (время)», «сдавать (экзамен)», «передать» — с прямым дополнением."
+- id: c08-aux-demeurer
+  lesson: c-08-voix-pronominaux/01-grammaire
+  q: "Il a demeuré / il est demeuré"
+  a: "*Il a demeuré à Lyon* — жил, проживал. *Il est demeuré silencieux* — остался (состояние)."
+- id: c08-aux-etat
+  lesson: c-08-voix-pronominaux/01-grammaire
+  q: "Elle a beaucoup changé / Elle est très changée"
+  a: "*Avoir* — процесс, действие; *être* + причастие как прилагательное — результат-состояние. Так же *vieillir, grandir*."
+- id: c08-aux-accord
+  lesson: c-08-voix-pronominaux/01-grammaire
+  q: "Les valises qu'elle a ___ (monter)"
+  a: "*montées*: с *avoir* причастие согласуется с COD *que* (= *les valises*), стоящим перед глаголом."
+- id: c08-pass-forme
+  lesson: c-08-voix-pronominaux/02-grammaire
+  q: "Как образуется пассив и чем выражается время?"
+  a: "*être* в нужном времени + причастие, согласованное с подлежащим: *a été publiée, sera publiée, avait été publiée, fut publiée*."
+- id: c08-pass-modal
+  lesson: c-08-voix-pronominaux/02-grammaire
+  q: "On doit réparer la route. → пассив?"
+  a: "*La route doit être réparée.* — в пассив ставится только инфинитив; так же *va être, vient d'être*."
+- id: c08-pass-de
+  lesson: c-08-voix-pronominaux/02-grammaire
+  q: "Когда агент вводится de, а не par?"
+  a: "После глаголов чувства (*aimer, respecter, craindre*), знания (*connaître, ignorer*), сопровождения и расположения (*accompagner, suivre, entourer, couvrir, remplir, composer*). *Par* — активное действие."
+- id: c08-pass-de-article
+  lesson: c-08-voix-pronominaux/02-grammaire
+  q: "entouré ___ arbres, couvert ___ neige"
+  a: "*entouré d'arbres, couvert de neige* — неопределённый и частичный артикли после *de* выпадают."
+- id: c08-pass-impossible
+  lesson: c-08-voix-pronominaux/02-grammaire
+  q: "Какие глаголы не образуют пассив?"
+  a: "Непереходные и косвенно-переходные (*on m'a conseillé*, не ~~j'ai été conseillé~~), *avoir, pouvoir, coûter, peser, valoir*. Исключения с пассивом: *obéir, désobéir, pardonner*."
+- id: c08-pass-etat
+  lesson: c-08-voix-pronominaux/02-grammaire
+  q: "La porte est fermée — действие или состояние?"
+  a: "Состояние-результат (= *on a fermé la porte*): у предельных глаголов пассивный présent ≈ активный passé composé. У длящихся (*il est aimé*) — то же время, что в активе."
+- id: c08-pass-on
+  lesson: c-08-voix-pronominaux/02-grammaire
+  q: "On a vendu la maison → пассив. Есть ли агент?"
+  a: "*La maison a été vendue.* — при *on* агент не выражается."
+- id: c08-pass-style
+  lesson: c-08-voix-pronominaux/02-grammaire
+  q: "Il a été décidé de… — где уместно?"
+  a: "Безличный пассив — административный и официальный стиль. В живой речи — *on a décidé de…*"
+- id: c08-pron-types
+  lesson: c-08-voix-pronominaux/03-grammaire
+  q: "Четыре типа местоимённых глаголов"
+  a: "réfléchis (*se laver*), réciproques (*s'écrire*), essentiellement pronominaux (*s'enfuir*), à sens passif (*se vendre*)."
+- id: c08-pron-algo
+  lesson: c-08-voix-pronominaux/03-grammaire
+  q: "Алгоритм согласования у réfléchis / réciproques"
+  a: "Замени *être* на *avoir* и найди COD. *Se* = COD → согласование; *se* = COI или COD после глагола → нет; COD (*que, la, les*) перед глаголом → согласование с ним."
+- id: c08-pron-mains
+  lesson: c-08-voix-pronominaux/03-grammaire
+  q: "Elle s'est lavée / Elle s'est lavé les mains"
+  a: "*Lavée*: *se* = COD. *Lavé les mains*: COD *les mains* после глагола, *se* = COI → без согласования."
+- id: c08-pron-coi-liste
+  lesson: c-08-voix-pronominaux/03-grammaire
+  q: "При каких глаголах причастие никогда не согласуется (se = COI)?"
+  a: "*se parler, se téléphoner, se sourire, se répondre, se mentir, se nuire, se plaire, se succéder, se ressembler, se permettre, se rendre compte.*"
+- id: c08-pron-que
+  lesson: c-08-voix-pronominaux/03-grammaire
+  q: "Les lettres qu'ils se sont ___ (écrire)"
+  a: "*écrites*: COD *que* (= *les lettres*) стоит перед глаголом."
+- id: c08-pron-reciproque
+  lesson: c-08-voix-pronominaux/03-grammaire
+  q: "Как снять двусмысленность «себя / друг друга»?"
+  a: "*l'un l'autre, les uns les autres* (с нужным предлогом: *l'un de l'autre, l'un à l'autre*), *entre eux, mutuellement*."
+- id: c08-pron-imperatif
+  lesson: c-08-voix-pronominaux/03-grammaire
+  q: "Повелительное наклонение se lever (tu, утверд. и отриц.)"
+  a: "*Lève-toi !* — *Ne te lève pas !*"
+- id: c08-pron-infinitif
+  lesson: c-08-voix-pronominaux/03-grammaire
+  q: "Nous allons ___ promener. Tu as raison de ___ en occuper."
+  a: "*nous promener*, *t'en occuper* — при инфинитиве местоимение совпадает с подлежащим."
+- id: c08-pron-fait
+  lesson: c-08-voix-pronominaux/03-grammaire
+  q: "Elle s'est fait opérer / Elle s'est laissé convaincre — согласование?"
+  a: "*Fait* + инфинитив не согласуется никогда; *laissé* + инфинитив по реформе 1990 года тоже неизменно."
+- id: c08-essent-liste
+  lesson: c-08-voix-pronominaux/04-grammaire
+  q: "Назови 8 собственно местоимённых глаголов"
+  a: "*s'absenter, s'abstenir, s'écrier, s'emparer de, s'enfuir, s'envoler, s'évanouir, se méfier de, se moquer de, se repentir, se souvenir de, s'en aller.*"
+- id: c08-essent-accord
+  lesson: c-08-voix-pronominaux/04-grammaire
+  q: "Согласование у собственно местоимённых глаголов"
+  a: "С подлежащим: *Elles se sont évanouies.* Исключение — *s'arroger* + COD после глагола: *Ils se sont arrogé des droits.*"
+- id: c08-essent-sens
+  lesson: c-08-voix-pronominaux/04-grammaire
+  q: "douter / se douter; apercevoir / s'apercevoir"
+  a: "*douter* — сомневаться, *se douter* — подозревать, догадываться; *apercevoir* — заметить (увидеть), *s'apercevoir de* — осознать, обнаружить."
+- id: c08-essent-sens2
+  lesson: c-08-voix-pronominaux/04-grammaire
+  q: "plaindre / se plaindre; passer / se passer de; servir / se servir de"
+  a: "жалеть / жаловаться; проходить / обходиться без; служить, подавать / пользоваться."
+- id: c08-essent-rendre-compte
+  lesson: c-08-voix-pronominaux/04-grammaire
+  q: "Elle s'est ___ compte de son erreur."
+  a: "*rendu* — без согласования: *compte* формально прямое дополнение после глагола."
+- id: c08-passif-pron
+  lesson: c-08-voix-pronominaux/04-grammaire
+  q: "Местоимённый пассив: признаки"
+  a: "Подлежащее — предмет, 3-е лицо, агента нет, часто норма: *Ce vin se boit frais. Cela ne se fait pas.* Причастие — по подлежащему: *Les billets se sont vendus.*"
+- id: c08-passif-pron-agent
+  lesson: c-08-voix-pronominaux/04-grammaire
+  q: "Ce livre se lit par les étudiants — верно?"
+  a: "Нет: местоимённый пассив агента не допускает. С агентом — *Ce livre est lu par les étudiants.*"
+- id: c08-passif-pron-impers
+  lesson: c-08-voix-pronominaux/04-grammaire
+  q: "il se trouve que, il se peut que — значение и наклонение"
+  a: "*Il se trouve que* + indicatif — «оказывается, так вышло, что»; *il se peut que* + subjonctif — «возможно, что»."

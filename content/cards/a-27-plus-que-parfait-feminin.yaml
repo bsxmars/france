@@ -1,0 +1,48 @@
+- id: a27-pqp-formation
+  lesson: a-27-plus-que-parfait-feminin/01-grammaire
+  q: "Как образуется plus-que-parfait?"
+  a: "Imparfait *avoir / être* + participe passé: *j'**avais** fini, elle **était** partie, nous **nous étions** levés*."
+- id: a27-pqp-emploi
+  lesson: a-27-plus-que-parfait-feminin/01-grammaire
+  q: "Когда нужен plus-que-parfait?"
+  a: "Для действия, случившегося **раньше** другого прошедшего: *Quand je suis arrivé, le train **était** déjà **parti**.*"
+- id: a27-trois-temps
+  lesson: a-27-plus-que-parfait-feminin/01-grammaire
+  q: "Passé composé, imparfait, plus-que-parfait — роли в рассказе?"
+  a: "Событие — *je suis sorti*; фон — *il faisait froid*; то, что было ещё раньше, — *il avait neigé*."
+- id: a27-uire
+  lesson: a-27-plus-que-parfait-feminin/01-grammaire
+  q: "Спряжение *traduire*: présent, futur, participe passé."
+  a: "*je traduis, il traduit, nous tradui**s**ons, ils tradui**s**ent*; *je traduirai*; *traduit*. Так же *conduire, construire, détruire, produire*."
+- id: a27-pleuvoir
+  lesson: a-27-plus-que-parfait-feminin/01-grammaire
+  q: "Формы *pleuvoir*?"
+  a: "*il pleut, il pleuvait, il a plu, il plut, il pleuvra*."
+- id: a27-falloir
+  lesson: a-27-plus-que-parfait-feminin/01-grammaire
+  q: "«Нужно», «пришлось», «придётся» с *falloir*."
+  a: "*il faut*; *il a fallu* (*il fallut*); *il faudra*. Кому — местоимение: *il **me** faut, il **leur** a fallu*."
+- id: a27-il-ne-faut-pas
+  lesson: a-27-plus-que-parfait-feminin/01-grammaire
+  q: "Что значит *Il ne faut pas fumer ici*?"
+  a: "«Здесь **нельзя** курить» (не следует). «Не нужно, незачем» — *ce n'est pas la peine de…*"
+- id: a27-fem-e
+  lesson: a-27-plus-que-parfait-feminin/02-grammaire
+  q: "Главное правило женского рода и как оно меняет звучание?"
+  a: "+ немое *-e*: *étudiant → étudiante* (звучит *t*), *voisin → voisine* (носовой гласный распадается). На *-e* — без изменений: *un / une élève*."
+- id: a27-fem-double
+  lesson: a-27-plus-que-parfait-feminin/02-grammaire
+  q: "Какие окончания удваивают согласную в женском роде?"
+  a: "*-en, -ien, -on, -el*, часть слов на *-et*, *paysan*: *européenne, parisienne, bonne, naturelle, muette, paysanne*."
+- id: a27-fem-f-er-eux
+  lesson: a-27-plus-que-parfait-feminin/02-grammaire
+  q: "Женский род: *sportif, étranger, heureux*?"
+  a: "*-f → -ve*: *sportive*; *-er → -ère*: *étrangère*; *-eux → -euse*: *heureuse*."
+- id: a27-fem-suffixes
+  lesson: a-27-plus-que-parfait-feminin/02-grammaire
+  q: "Женский род: *danseur, directeur, hôte*?"
+  a: "*danseuse* (-eur → -euse), *directrice* (-teur → -trice), *hôtesse* (-e → -esse)."
+- id: a27-fem-speciaux
+  lesson: a-27-plus-que-parfait-feminin/02-grammaire
+  q: "Женский род: *beau, vieux, nouveau, blanc, long, doux, frais*?"
+  a: "*belle, vieille, nouvelle, blanche, longue, douce, fraîche*."

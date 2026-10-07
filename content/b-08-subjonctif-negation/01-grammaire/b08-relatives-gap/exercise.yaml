@@ -1,0 +1,44 @@
+title: "Indicatif или subjonctif в относительном придаточном"
+type: gap
+intro: "Поставь глагол в скобках в présent de l'indicatif или в présent du subjonctif. Сначала реши: предмет уже существует (факт) или это пожелание, цель, отрицание?"
+hints:
+  - "Chercher, vouloir, avoir besoin de, il faut, rêver de + un / une / des … qui → subjonctif."
+  - "Personne qui, rien qui, aucun… qui, il n'y a pas de… qui → subjonctif."
+  - "Конкретный существующий предмет (le, la, mon…) → indicatif."
+items:
+  - q: "Les parents cherchent une école qui ___ (être) ouverte le mercredi."
+    answers: ["soit"]
+    explain: "Школа желаемая, ещё не найдена (*cherchent une école*) → subjonctif: **soit**."
+  - q: "Mon fils va dans une école qui ___ (être) ouverte le mercredi."
+    answers: ["est"]
+    explain: "Школа существует, факт → indicatif: **est**."
+  - q: "Nous avons besoin d'un logiciel qui ___ (pouvoir) corriger les copies automatiquement."
+    answers: ["puisse"]
+    explain: "Требование к ещё не найденному предмету (*avoir besoin d'un…*) → subjonctif: **puisse**."
+  - q: "Je ne connais aucun élève qui ___ (faire) ses devoirs avec plaisir."
+    answers: ["fasse"]
+    explain: "Отрицание существования (*aucun élève qui*) → subjonctif: **fasse**."
+  - q: "Il faut une réforme qui ___ (rendre) l'université plus accessible."
+    answers: ["rende"]
+    explain: "Цель (*il faut une réforme qui…*) → subjonctif: **rende**."
+  - q: "Y a-t-il quelqu'un ici qui ___ (savoir) utiliser ce projecteur ?"
+    answers: ["sache"]
+    explain: "Вопрос о существовании (*y a-t-il quelqu'un qui*) → subjonctif: **sache**."
+  - q: "J'ai enfin trouvé une tutrice qui ___ (savoir) expliquer les maths simplement."
+    answers: ["sait"]
+    explain: "Нашёл — значит, тьютор существует → indicatif: **sait**."
+  - q: "Les étudiants rêvent d'un campus où ils ___ (pouvoir) travailler la nuit."
+    answers: ["puissent"]
+    explain: "Мечта (*rêvent d'un campus où*) → subjonctif: **puissent**."
+  - q: "Le ministère veut des enseignants qui ___ (connaître) les nouvelles technologies."
+    answers: ["connaissent"]
+    explain: "Пожелание (*veut des enseignants qui*) → subjonctif: **connaissent** (в 3-м л. мн. ч. форма совпадает с indicatif)."
+  - q: "Il n'y a rien dans ce programme qui me ___ (plaire)."
+    answers: ["plaise"]
+    explain: "*Il n'y a rien qui* → subjonctif: **plaise**."
+  - q: "Je voudrais un stage qui me ___ (permettre) de découvrir un autre pays."
+    answers: ["permette"]
+    explain: "Желаемая стажировка → subjonctif: **permette**."
+  - q: "C'est le seul professeur qui ___ (prendre) le temps d'écouter chaque élève."
+    answers: ["prenne", "prend"]
+    explain: "После *le seul* обычно **prenne** (subjonctif подчёркивает субъективную оценку); *prend* тоже возможно, если это просто констатация факта."

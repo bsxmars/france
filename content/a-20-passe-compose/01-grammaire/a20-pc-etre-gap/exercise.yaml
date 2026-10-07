@@ -1,0 +1,44 @@
+title: "Avoir или être? Согласование"
+type: gap
+intro: "Поставь глагол в passé composé. Сначала реши, *avoir* или *être*, потом согласуй причастие с подлежащим, если нужно."
+hints:
+  - "aller, venir, arriver, partir, entrer, sortir, monter, descendre, naître, mourir, rester, tomber, rentrer, revenir, devenir — с être."
+  - "При être причастие согласуется с подлежащим: -e, -s, -es."
+  - "Если пол не ясен из контекста (je, tu, nous, vous), подойдут разные формы."
+items:
+  - q: "Mes parents ___ à Nice en mai. (aller)"
+    answers: ["sont allés"]
+    explain: "*aller* — с **être**; *mes parents* — м. р. мн. ч.: **sont allés**."
+  - q: "Ma cousine ___ hier soir. (arriver)"
+    answers: ["est arrivée"]
+    explain: "*arriver* — с **être**; *ma cousine* — ж. р.: **est arrivée**."
+  - q: "Les filles ___ du cinéma à dix heures. (sortir)"
+    answers: ["sont sorties"]
+    explain: "*sortir* — с **être**; *les filles* — ж. р. мн. ч.: **sont sorties**."
+  - q: "Victor Hugo ___ en 1802. (naître)"
+    answers: ["est né"]
+    explain: "*naître* — с **être**, причастие **né**: *Victor Hugo **est né** en 1802*."
+  - q: "Tu ___ à la maison toute la journée ? (rester)"
+    answers: ["es resté", "es restée"]
+    explain: "*rester* — с **être**: **es resté** (о мужчине) или **es restée** (о женщине)."
+  - q: "Anne et Marc ___ très tard. (rentrer)"
+    answers: ["sont rentrés"]
+    explain: "*rentrer* — с **être**; в группе есть мужчина → м. р. мн. ч.: **sont rentrés**."
+  - q: "Elle ___ dans l'escalier. (tomber)"
+    answers: ["est tombée"]
+    explain: "*tomber* — с **être**; *elle* → **est tombée**."
+  - q: "Nous ___ deux heures dans le parc. (marcher)"
+    answers: ["avons marché"]
+    explain: "*marcher* не входит в список глаголов с *être* → **avons marché**, без согласования."
+  - q: "Madame Dupont, vous ___ à Paris en quelle année ? (venir)"
+    answers: ["êtes venue"]
+    explain: "*venir* — с **être**. Вежливое *vous* к одной женщине → **êtes venue**, без *-s*."
+  - q: "Sa fille ___ médecin. (devenir)"
+    answers: ["est devenue"]
+    explain: "*devenir* — с **être**; *sa fille* → **est devenue**."
+  - q: "Les touristes ___ la tour Eiffel. (visiter)"
+    answers: ["ont visité"]
+    explain: "*visiter* — переходный глагол → **avoir**: **ont visité**; с подлежащим не согласуется."
+  - q: "Nous ___ au cinquième étage à pied. (monter)"
+    answers: ["sommes montés", "sommes montées"]
+    explain: "*monter* (без прямого дополнения) — с **être**; *nous*: **sommes montés** или **sommes montées**, если это только женщины."

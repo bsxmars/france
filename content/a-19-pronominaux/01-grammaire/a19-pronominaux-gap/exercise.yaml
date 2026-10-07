@@ -1,0 +1,44 @@
+title: "Местоименные глаголы, I группа, prendre"
+type: gap
+intro: "Вставь нужную форму глагола в настоящем времени или в повелительном наклонении (в скобках — инфинитив). Если глагол местоименный, впиши его вместе с местоимением: *me lève*, *t'habilles*, *dépêche-toi*."
+hints:
+  - "me, te, se, nous, vous, se — местоимение согласуется с подлежащим."
+  - "Утвердительное повелительное: глагол + -toi / -nous / -vous."
+  - "nous commençons, nous mangeons; j'achète, nous achetons; j'appelle, nous appelons."
+items:
+  - q: "Le matin, je ___ à sept heures. (se réveiller)"
+    answers: ["me réveille"]
+    explain: "*je* → местоимение **me** + *réveille*: **je me réveille**."
+  - q: "Tu ___ toujours très vite ! (s'habiller)"
+    answers: ["t'habilles"]
+    explain: "*te* перед гласной (*h* немое) → **t'**: **tu t'habilles**."
+  - q: "Mes amis ___ à la politique. (s'intéresser)"
+    answers: ["s'intéressent"]
+    explain: "3-е лицо мн. ч. → **se**, перед гласной **s'**: **ils s'intéressent** à…"
+  - q: "Le dimanche, nous ne ___ pas avant dix heures. (se lever)"
+    answers: ["nous levons"]
+    explain: "*nous* → местоимение **nous** + *levons*. В форме *nous* у *lever* остаётся немое *e*, без *è*."
+  - q: "___, le train part dans cinq minutes ! (se dépêcher, tu)"
+    answers: ["Dépêche-toi"]
+    explain: "Утвердительное повелительное: местоимение после глагола, *te* → **toi**: **Dépêche-toi !**"
+  - q: "Ne ___ pas, nous avons le temps. (s'arrêter, vous)"
+    answers: ["vous arrêtez"]
+    explain: "В отрицательном повелительном местоимение остаётся перед глаголом: *Ne **vous arrêtez** pas !*"
+  - q: "Demain, je dois ___ très tôt. (se lever)"
+    answers: ["me lever"]
+    explain: "Инфинитив после *devoir*, но местоимение согласуется с подлежащим *je*: **me lever**."
+  - q: "Nous ___ la leçon à neuf heures. (commencer)"
+    answers: ["commençons"]
+    explain: "У глаголов на *-cer* перед *o* пишется **ç**: **commençons**."
+  - q: "Le soir, nous ___ en famille. (manger)"
+    answers: ["mangeons"]
+    explain: "У глаголов на *-ger* перед *o* добавляется **e**: **mangeons**."
+  - q: "Elle ___ toujours le pain dans cette boulangerie. (acheter)"
+    answers: ["achète"]
+    explain: "*acheter*: перед немым окончанием *e* → **è**: **elle achète**."
+  - q: "Comment ___-vous ? — Je m'appelle Marc. (s'appeler)"
+    answers: ["vous appelez"]
+    explain: "Инверсия: *Comment **vous appelez**-vous ?* В форме *vous* одно *l*."
+  - q: "Les élèves ne ___ pas bien la règle. (comprendre)"
+    answers: ["comprennent"]
+    explain: "*comprendre* спрягается как *prendre*: *ils* → **comprennent**, с двумя *n*."

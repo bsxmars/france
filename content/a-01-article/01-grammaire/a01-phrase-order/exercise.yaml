@@ -1,0 +1,37 @@
+title: "Собери фразу"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Помни: подлежащее — первым, перед существительным — артикль. Точку ставить не нужно."
+hints:
+  - "Порядок: подлежащее → глагол → всё остальное."
+  - "Имена людей — без артикля."
+items:
+  - q: "«Лея говорит по-французски»."
+    answers: ["Léa parle français."]
+    explain: "Подлежащее **Léa** (без артикля — это имя) → сказуемое **parle** → *français*. Название языка после *parler* идёт без артикля."
+  - q: "«Поль идёт на вокзал»."
+    answers: ["Paul va à la gare."]
+    explain: "**Paul** → **va** → *à la gare*. *à* — предлог «в, на», *la* — артикль: вокзал конкретный."
+  - q: "«Хьюго любит салат»."
+    answers: ["Hugo aime la salade."]
+    explain: "После *aimer* (любить) существительное идёт с определённым артиклем: *aime **la** salade*."
+  - q: "«Кофе горячий»."
+    answers: ["Le café est chaud."]
+    explain: "Без глагола нельзя: «кофе **есть** горячий» — *Le café **est** chaud*."
+  - q: "«Стол маленький»."
+    answers: ["La table est petite."]
+    explain: "*table* — женского рода → **la**, и прилагательное тоже в женском роде: *petit**e***."
+  - q: "«Сумка на столе»."
+    answers: ["Le sac est sur la table."]
+    explain: "«Сумка **есть** на столе»: *Le sac **est** sur la table*. Два существительных — два артикля."
+  - q: "«Анна ищет свою машину»."
+    answers: ["Anna cherche sa voiture."]
+    explain: "**sa** («свою») стоит вместо артикля: *sa voiture*."
+  - q: "«Друг Поля в школе»."
+    answers: ["L'ami de Paul est à l'école."]
+    explain: "*l'ami* и *l'école* — артикль с апострофом перед гласной. *de Paul* — «Поля» (предлог *de* передаёт русский родительный падеж)."
+  - q: "«Чашки на столе»."
+    answers: ["Les tasses sont sur la table."]
+    explain: "Множественное число: **les** tasses, глагол тоже во мн. ч. — **sont**."
+  - q: "«Вокзал большой»."
+    answers: ["La gare est grande."]
+    explain: "*gare* — ж. р.: **la** gare, *grand**e***."

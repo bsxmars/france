@@ -1,0 +1,59 @@
+title: "Вопрос с où и d'où"
+type: transform
+intro: "Задай вопрос к обстоятельству места с помощью слова из ключа. Допиши вопрос целиком. Принимаются все верные варианты порядка слов."
+hints:
+  - "Местоимение: Où vas-tu ?"
+  - "Существительное: Où va Pierre ? = Où Pierre va-t-il ?"
+  - "Есть ещё и дополнение-существительное → только Où Pierre achète-t-il… ?"
+  - "С je — où est-ce que."
+items:
+  - q: "Il travaille à l'usine."
+    key: "OÙ"
+    stem: "___ ?"
+    answers: ["Où travaille-t-il", "Où est-ce qu'il travaille"]
+    explain: "Местоимение → простая инверсия: **Où travaille-t-il ?** (*-t-* между гласными)."
+  - q: "Tu vas au cinéma."
+    key: "OÙ"
+    stem: "___ ?"
+    answers: ["Où vas-tu", "Où est-ce que tu vas"]
+    explain: "**Où vas-tu ?** или *Où est-ce que tu vas ?*"
+  - q: "Vous allez à la bibliothèque."
+    key: "OÙ"
+    stem: "___ ?"
+    answers: ["Où allez-vous", "Où est-ce que vous allez"]
+    explain: "**Où allez-vous ?** — *vous* за глаголом через дефис."
+  - q: "Paul habite à Lyon."
+    key: "OÙ"
+    stem: "___ ?"
+    answers: ["Où habite Paul", "Où Paul habite-t-il", "Où est-ce que Paul habite"]
+    explain: "Подлежащее-существительное, дополнения нет → обе инверсии: **Où habite Paul ?** / **Où Paul habite-t-il ?**"
+  - q: "Léa est à la pharmacie."
+    key: "OÙ"
+    stem: "___ ?"
+    answers: ["Où est Léa", "Où Léa est-elle", "Où est-ce que Léa est"]
+    explain: "**Où est Léa ?** — самый естественный вариант; можно и *Où Léa est-elle ?*"
+  - q: "Marc achète les journaux près du métro."
+    key: "OÙ"
+    stem: "___ ?"
+    answers: ["Où Marc achète-t-il les journaux", "Où est-ce que Marc achète les journaux"]
+    explain: "Подлежащее и дополнение — существительные → только **сложная инверсия**: *Où Marc achète-t-il les journaux ?*"
+  - q: "Je travaille à la bibliothèque."
+    key: "OÙ"
+    stem: "___ ?"
+    answers: ["Où est-ce que je travaille"]
+    explain: "С *je* — **Où est-ce que je travaille ?**"
+  - q: "Ils arrivent de Moscou."
+    key: "D'OÙ"
+    stem: "___ ?"
+    answers: ["D'où arrivent-ils", "D'où est-ce qu'ils arrivent"]
+    explain: "Исходная точка — *de Moscou* → **d'où**: *D'où arrivent-ils ?*"
+  - q: "Les étudiants reviennent de Paris."
+    key: "D'OÙ"
+    stem: "___ ?"
+    answers: ["D'où reviennent les étudiants", "D'où les étudiants reviennent-ils", "D'où est-ce que les étudiants reviennent"]
+    explain: "С существительным — обе инверсии: **D'où reviennent les étudiants ?** / **D'où les étudiants reviennent-ils ?**"
+  - q: "Vous venez de la gare."
+    key: "D'OÙ"
+    stem: "___ ?"
+    answers: ["D'où venez-vous", "D'où est-ce que vous venez"]
+    explain: "**D'où venez-vous ?** — откуда вы идёте."

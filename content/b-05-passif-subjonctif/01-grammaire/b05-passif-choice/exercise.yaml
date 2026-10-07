@@ -1,0 +1,56 @@
+title: "Пассив, se + глагол, on или se faire"
+type: choice
+intro: "Выбери вариант, который грамматически верен и подходит по смыслу."
+hints:
+  - "Общее правило о предмете, без исполнителя → se + глагол (se boit, se dit)."
+  - "Действие над человеком — услуга или неприятность → se faire + infinitif; fait не согласуется."
+  - "Пассив только от прямого дополнения; для «мне сказали» — on."
+items:
+  - q: "Ce fromage ___ avec du pain, jamais seul."
+    options: ["se mange", "se fait manger", "est mangé de"]
+    answer: 0
+    explain: "Общая норма, подлежащее — предмет, исполнитель не нужен → местоимённый пассив **se mange**."
+  - q: "Hier soir, mon voisin ___ sa voiture devant chez lui."
+    options: ["a été volé", "s'est fait voler", "s'est volé"]
+    answer: 1
+    explain: "У человека украли его вещь → **s'est fait voler** sa voiture. ~~A été volé sa voiture~~ невозможно: у пассива не бывает своего прямого дополнения."
+  - q: "« Нам сообщили об изменении » — ___ du changement."
+    options: ["Nous avons été informés", "Nous nous sommes informés", "On nous a informé"]
+    answer: 0
+    explain: "*Informer qn* — прямое дополнение, поэтому пассив возможен: **nous avons été informés**. В *on nous a informé* не хватает согласования (*informés*), а *nous nous sommes informés* — «мы сами навели справки»."
+  - q: "« Мне посоветовали этого врача » — ___ ce médecin."
+    options: ["J'ai été conseillé", "On m'a conseillé", "Je me suis conseillé"]
+    answer: 1
+    explain: "*Conseiller qch **à** qn* — «мне» здесь косвенное дополнение, пассив невозможен → **On m'a conseillé**."
+  - q: "Elle ___ par un grand chirurgien parisien."
+    options: ["s'est faite opérer", "s'est fait opérer", "s'est opérée"]
+    answer: 1
+    explain: "*Se faire + infinitif*: **fait** не согласуется. *S'est opérée* значило бы «прооперировала себя сама»."
+  - q: "Les places pour le concert ___ en moins d'une heure."
+    options: ["se sont vendues", "se sont vendu", "ont vendu"]
+    answer: 0
+    explain: "Местоимённый пассив в passé composé — с *être* и согласованием с подлежащим: **se sont vendues**."
+  - q: "Cette salle de réunion est toujours remplie ___ fumée."
+    options: ["par la", "de", "de la"]
+    answer: 1
+    explain: "*Rempli* — состояние → **de**; неопределённое количество — без артикля: *remplie **de** fumée*."
+  - q: "« Ça ___ pas ! » — dit la mère à son fils qui mange avec les doigts."
+    options: ["ne se fait", "n'est pas fait", "ne se fait faire"]
+    answer: 0
+    explain: "Норма поведения → местоимённый пассив: *Ça **ne se fait** pas* — «Так не делают»."
+  - q: "Le nouveau traitement ___ dans trois hôpitaux depuis janvier."
+    options: ["se teste par les médecins", "est testé", "se fait tester"]
+    answer: 1
+    explain: "Нейтральное сообщение о процессе → пассив **est testé**. С *se teste* нельзя называть исполнителя, а *se faire tester* говорят о человеке («сдать анализ»)."
+  - q: "L'homme politique ___ par les manifestants à la sortie de la mairie."
+    options: ["s'est fait siffler", "s'est sifflé", "a sifflé"]
+    answer: 0
+    explain: "Неприятность, которой подвергся человек, исполнитель через *par* → **s'est fait siffler**."
+  - q: "Les conclusions du rapport ___ demain matin."
+    options: ["seront rendues publiques", "se rendront publiques par la commission", "se feront rendre publiques"]
+    answer: 0
+    explain: "Будущее событие, исполнитель не важен → пассив **seront rendues publiques**. При местоимённом пассиве исполнителя не называют."
+  - q: "Le mot « événement » ___ aussi « évènement » depuis 1990."
+    options: ["est écrit par", "s'écrit", "se fait écrire"]
+    answer: 1
+    explain: "Правило письма → местоимённый пассив: *ce mot **s'écrit**…*"

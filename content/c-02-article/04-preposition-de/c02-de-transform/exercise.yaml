@@ -1,0 +1,57 @@
+title: "Скажи в отрицательной форме"
+type: transform
+intro: "Перестрой фразу по ключу. Впиши в пропуск всё, что стоит после отрицания или после ключевого слова. Следи за артиклем: de, un, du или le?"
+hints:
+  - "Прямое дополнение: un, des, du → de. Определённый артикль остаётся."
+  - "После être, при противопоставлении и с ne… que артикль не меняется."
+items:
+  - q: "Il a acheté des cadeaux pour ses neveux."
+    key: "ne… pas"
+    stem: "Il n'a pas acheté ___ pour ses neveux."
+    answers: ["de cadeaux"]
+    explain: "Прямое дополнение при отрицании: *des* → ***de** cadeaux*."
+  - q: "J'ai lu les articles que tu m'as envoyés."
+    key: "ne… pas"
+    stem: "Je n'ai pas lu ___ que tu m'as envoyés."
+    answers: ["les articles"]
+    explain: "Определённый артикль при отрицании сохраняется: ***les** articles*."
+  - q: "C'est une bonne idée."
+    key: "ne… pas"
+    stem: "Ce n'est pas ___."
+    answers: ["une bonne idée"]
+    explain: "После *être* артикль не меняется: *ce n'est pas **une** bonne idée*."
+  - q: "Elle prend du sucre dans son café."
+    key: "ne… jamais"
+    stem: "Elle ne prend jamais ___ dans son café."
+    answers: ["de sucre"]
+    explain: "Партитив при отрицании *ne… jamais* → ***de** sucre*."
+  - q: "Il boit du vin."
+    key: "mais du jus de pomme"
+    stem: "Il ne boit pas ___, mais du jus de pomme."
+    answers: ["du vin"]
+    explain: "Противопоставление: отрицается не наличие напитка, а его вид → партитив сохраняется: *pas **du** vin, mais du jus*."
+  - q: "Nous avons du temps libre."
+    key: "ne… plus"
+    stem: "Nous n'avons plus ___."
+    answers: ["de temps libre"]
+    explain: "Партитив → ***de** temps libre*."
+  - q: "Il a dit des mots gentils."
+    key: "ne… pas un seul"
+    stem: "Il n'a pas dit ___ gentil."
+    answers: ["un seul mot"]
+    explain: "Эмфатическое «ни одного»: *pas **un seul** mot* — неопределённый артикль сохраняется."
+  - q: "J'aime le fromage de chèvre."
+    key: "ne… pas"
+    stem: "Je n'aime pas ___."
+    answers: ["le fromage de chèvre"]
+    explain: "После *aimer* — общее значение, определённый артикль сохраняется: ***le** fromage*."
+  - q: "Elle mange de la viande et du poisson."
+    key: "ne… ni… ni"
+    stem: "Elle ne mange ___."
+    answers: ["ni viande ni poisson"]
+    explain: "*Ni… ni…* при прямом дополнении — без артикля: *ni viande ni poisson*."
+  - q: "Il y a des places libres dans la salle."
+    key: "ne… plus"
+    stem: "Il n'y a plus ___ dans la salle."
+    answers: ["de places libres"]
+    explain: "*Il y a* + неопределённый → при отрицании ***de** places libres*."

@@ -1,0 +1,37 @@
+title: "Собери фразу с инфинитивом или причастным оборотом"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Следи за местом местоимения при глаголе восприятия и за порядком слов в обороте."
+hints:
+  - "Местоимение — перед глаголом восприятия (и перед вспомогательным)."
+  - "Proposition participe: подлежащее + participe, потом главное предложение."
+items:
+  - q: "«Я слышал, как они вернулись около полуночи»."
+    answers: ["Je les ai entendus rentrer vers minuit."]
+    explain: "Местоимение *les* перед *ai*; причастие согласовано (*entendus*): они сами возвращались."
+  - q: "«Мы смотрели, как солнце садится за горами»."
+    answers: ["Nous regardions le soleil se coucher derrière les montagnes."]
+    explain: "*Regarder* + существительное + инфинитив; у инфинитива есть обстоятельство, поэтому существительное лучше перед ним."
+  - q: "«Она почувствовала, что краснеет»."
+    answers: ["Elle s'est sentie rougir."]
+    explain: "Одно подлежащее → *se sentir* + инфинитив; согласование *sentie* (она сама краснеет)."
+  - q: "«Когда работа была закончена, все пошли домой»."
+    answers: ["Le travail terminé, tout le monde est rentré."]
+    explain: "Proposition participe времени: *Le travail terminé*, затем главное предложение."
+  - q: "«Так как погода испортилась, мы отменили прогулку»."
+    answers: ["Le temps s'étant gâté, nous avons annulé la promenade."]
+    explain: "Причина + предшествование → *s'étant gâté*; своё подлежащее *le temps*."
+  - q: "«Ты когда-нибудь видел, чтобы он злился?»"
+    answers: ["Tu l'as déjà vu se fâcher ?"]
+    explain: "*L'* перед *as*; инфинитив местоименного глагола *se fâcher*."
+  - q: "«Едва приехав, он уже хотел уехать»."
+    answers: ["À peine arrivé, il voulait déjà repartir."]
+    explain: "*À peine* + participe passé = «едва…»; подлежащее совпадает с главным."
+  - q: "«Я услышал, как кто-то стучит в дверь»."
+    answers: ["J'ai entendu frapper à la porte."]
+    explain: "Неопределённое подлежащее не выражается: *entendre frapper*."
+  - q: "«Поскольку никто не возражал, предложение было принято»."
+    answers: ["Personne ne s'y opposant, la proposition a été adoptée."]
+    explain: "Proposition participe с отрицательным подлежащим: *Personne ne s'y opposant*."
+  - q: "«Как только решение было принято, она позвонила адвокату»."
+    answers: ["Une fois la décision prise, elle a appelé son avocat."]
+    explain: "*Une fois* + существительное + participe passé = *une fois que…*."

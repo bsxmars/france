@@ -1,0 +1,37 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: форма faire, место y / en или порядок слов в вопросе. Исправь её и напиши всё предложение."
+hints:
+  - "fais, fais, fait, faisons, faites, font."
+  - "y / en — перед глаголом; после — только в утвердительном повелительном."
+items:
+  - q: "Qu'est-ce que vous faisez ce soir ?"
+    answers: ["Qu'est-ce que vous faites ce soir ?"]
+    explain: "У *faire* особая форма: **vous faites**."
+  - q: "Les élèves faisent des progrès."
+    answers: ["Les élèves font des progrès."]
+    explain: "*ils* → **font**."
+  - q: "Je fait mes exercices."
+    answers: ["Je fais mes exercices."]
+    explain: "*je* → **fais** (с -s), *fait* — только 3-е лицо."
+  - q: "Nous faison une promenade."
+    answers: ["Nous faisons une promenade."]
+    explain: "*nous* → **faisons**, с окончанием *-ons*."
+  - q: "Tu vas à la poste ? — Oui, je vais y."
+    answers: ["Tu vas à la poste ? — Oui, j'y vais."]
+    explain: "*y* стоит **перед** глаголом: *j'y vais*."
+  - q: "Y allez !"
+    answers: ["Allez-y !"]
+    explain: "В утвердительном повелительном *y* — **после** глагола через дефис: *Allez-y !*"
+  - q: "Va-y, Paul !"
+    answers: ["Vas-y, Paul !"]
+    explain: "Перед *y* повелительное *va* получает **-s**: *Vas-y*."
+  - q: "Il n'en sort pas de la maison."
+    answers: ["Il ne sort pas de la maison.", "Il n'en sort pas."]
+    explain: "*en* уже заменяет *de la maison* — повторять место нельзя. Либо *il ne sort pas de la maison*, либо *il n'en sort pas*."
+  - q: "Quand arrive ton ami de Lyon ?"
+    answers: ["Quand ton ami arrive-t-il de Lyon ?"]
+    explain: "Подлежащее-существительное + обстоятельство *de Lyon* → нужна **сложная** инверсия: *ton ami arrive-t-il*."
+  - q: "Comment travaille-il ?"
+    answers: ["Comment travaille-t-il ?"]
+    explain: "Между гласной *-e* и *il* — вставка **-t-**: *travaille-t-il*."

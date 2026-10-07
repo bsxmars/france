@@ -1,0 +1,37 @@
+title: "Глагол être и c'est"
+type: gap
+intro: "Вставь форму глагола être в настоящем времени или оборот c'est / est-ce."
+hints:
+  - "je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont."
+  - "Вопрос «это…?» — est-ce…? с дефисом."
+items:
+  - q: "Je ___ ici. — Я здесь."
+    answers: ["suis"]
+    explain: "1-е лицо ед. ч.: **je suis**."
+  - q: "Tu ___ malade ? — Ты болен?"
+    answers: ["es"]
+    explain: "2-е лицо ед. ч.: **tu es** (звучит как *est* — [ɛ])."
+  - q: "Léa ___ contente. — Лея довольна."
+    answers: ["est"]
+    explain: "*Léa* = *elle* → **est**. Прилагательное в женском роде: *content**e***."
+  - q: "Nous ___ à Paris. — Мы в Париже."
+    answers: ["sommes"]
+    explain: "1-е лицо мн. ч.: **nous sommes**."
+  - q: "Vous ___ là ? — Вы здесь?"
+    answers: ["êtes"]
+    explain: "2-е лицо мн. ч.: **vous êtes** — с ê."
+  - q: "Paul et Hugo ___ amis. — Поль и Хьюго — друзья."
+    answers: ["sont"]
+    explain: "Два человека = *ils* → **sont**. Русское тире на месте связки во французском — глагол *être*."
+  - q: "La chaise ___ petite. — Стул маленький."
+    answers: ["est"]
+    explain: "Связку нельзя пропускать: *la chaise **est** petite*."
+  - q: "___ mon chat. — Это мой кот."
+    answers: ["C'est"]
+    explain: "«Это…» = **c'est**: *ce* + *est*, гласная *e* выпала, пишем апостроф."
+  - q: "___ ta voiture ? — Это твоя машина?"
+    answers: ["Est-ce"]
+    explain: "Вопрос: *c'est* → **est-ce** (перестановка и дефис). Ответ: *C'est ma voiture*."
+  - q: "Les tasses ___ sur la table. — Чашки на столе."
+    answers: ["sont"]
+    explain: "Подлежащее во мн. ч. (*les tasses* = *elles*) → **sont**."

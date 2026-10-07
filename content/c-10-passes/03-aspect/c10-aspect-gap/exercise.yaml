@@ -1,0 +1,44 @@
+title: "Imparfait или passé composé: граница действия"
+type: gap
+intro: "Разговорный рассказ. Поставь глагол в imparfait или passé composé. Смотри на обстоятельства времени, а не на русский вид."
+hints:
+  - "pendant, toute la journée, longtemps, trois fois, en dix minutes → граница → passé composé."
+  - "d'habitude, toujours, chaque fois (без ограниченного срока), à mesure que → imparfait."
+  - "savais — знал, ai su / ai appris — узнал; croyais — думал (ошибочно)."
+items:
+  - q: "Hier, nous ___ (attendre) le bus pendant quarante minutes sous la pluie."
+    answers: ["avons attendu"]
+    explain: "*Pendant quarante minutes* — длительность ограничена → passé composé, хотя по-русски «ждали»."
+  - q: "Quand j'étais étudiant, j'___ (attendre) toujours le bus devant la poste."
+    answers: ["attendais"]
+    explain: "Привычка без границ (*quand j'étais étudiant, toujours*) → imparfait."
+  - q: "J'___ (lire) ce roman trois fois, et je le relirais volontiers."
+    answers: ["ai lu"]
+    explain: "Повторение посчитано (*trois fois*) → passé composé."
+  - q: "Le concert ___ (durer) trois heures, rappels compris."
+    answers: ["a duré"]
+    explain: "Конкретный концерт с указанной длительностью — законченный отрезок → passé composé."
+  - q: "À l'époque, les trajets en diligence ___ (durer) des jours entiers."
+    answers: ["duraient"]
+    explain: "*À l'époque* — обычное положение дел без границы → imparfait."
+  - q: "C'est en lisant le journal que j'___ (apprendre) sa démission."
+    answers: ["ai appris"]
+    explain: "Момент получения знания — событие → passé composé (*j'ai appris* / *j'ai su* = «узнал»)."
+  - q: "Elle ___ (savoir) depuis longtemps que son frère lui mentait."
+    answers: ["savait"]
+    explain: "Знание как состояние, длившееся до момента рассказа → imparfait: «знала»."
+  - q: "Grâce à ton plan, nous ___ (pouvoir) enfin trouver la maison."
+    answers: ["avons pu"]
+    explain: "*Pouvoir* в passé composé = «удалось, смогли» (результат, *enfin*). *Pouvions* — лишь «имели возможность»."
+  - q: "À mesure que la soirée avançait, l'ambiance ___ (devenir) plus détendue."
+    answers: ["devenait"]
+    explain: "Постепенное изменение параллельно другому процессу (*à mesure que*) → imparfait, хотя по-русски «стала»."
+  - q: "Il ___ (être) malade toute la semaine dernière, mais maintenant il va mieux."
+    answers: ["a été"]
+    explain: "Болезнь ограничена (*toute la semaine dernière*) и закончилась → passé composé: «проболел»."
+  - q: "Tiens, tu es déjà rentré ? Je ___ (croire) que tu dînais chez tes parents."
+    answers: ["croyais"]
+    explain: "Мнение, которое сейчас оказалось ошибочным, → imparfait: *je croyais* — «а я думал…»."
+  - q: "Cet été, elle ___ (nager) dans le lac une bonne vingtaine de fois."
+    answers: ["est venu"]
+    explain: "Повторения посчитаны (*une vingtaine de fois*) → passé composé: ***a nagé***."

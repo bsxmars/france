@@ -1,0 +1,40 @@
+- id: a24-toniques-formes
+  lesson: a-24-toniques-comparaison/01-grammaire
+  q: "Ударные местоимения: я, ты, он, она, мы, вы, они (м. / ж.)."
+  a: "*moi, toi, lui, elle, nous, vous, **eux**, elles*."
+- id: a24-toniques-emploi
+  lesson: a-24-toniques-comparaison/01-grammaire
+  q: "Когда нужно ударное местоимение?"
+  a: "Без глагола (*Moi !*), после *c'est* и предлога (*avec lui*), для выделения (*Moi, je…*), в паре подлежащих (*Paul et moi*), с *même, seul, aussi*, после *que* в сравнении."
+- id: a24-paul-et-moi
+  lesson: a-24-toniques-comparaison/01-grammaire
+  q: "«Мы с Полем идём в кино»."
+  a: "*Paul et **moi**, **nous** allons au cinéma.*"
+- id: a24-penser-a-lui
+  lesson: a-24-toniques-comparaison/01-grammaire
+  q: "«Я думаю о нём», «Обратись к ней»."
+  a: "*Je pense **à lui**. Adresse-toi **à elle**.* — *penser à, s'adresser à, s'intéresser à, faire attention à* + ударное."
+- id: a24-cest-moi-qui
+  lesson: a-24-toniques-comparaison/01-grammaire
+  q: "«Это я прав», «Это мы опоздали»."
+  a: "*C'est moi qui **ai** raison. C'est nous qui **sommes** en retard.* — глагол согласуется с местоимением."
+- id: a24-comparatif
+  lesson: a-24-toniques-comparaison/01-grammaire
+  q: "«Больше / меньше / такой же большой, как…»."
+  a: "***plus** grand **que**, **moins** grand **que**, **aussi** grand **que***."
+- id: a24-superlatif-place
+  lesson: a-24-toniques-comparaison/01-grammaire
+  q: "«Самая маленькая комната» и «самая тихая улица»."
+  a: "*la plus petite chambre* (прилагательное перед); *la rue **la** plus calme* (после — артикль дважды)."
+- id: a24-superlatif-de
+  lesson: a-24-toniques-comparaison/01-grammaire
+  q: "«Самая высокая башня в городе», «один из самых красивых парков»."
+  a: "*la plus haute tour **de** la ville*; ***un des** plus beaux parcs*."
+- id: a24-meilleur-pire
+  lesson: a-24-toniques-comparaison/01-grammaire
+  q: "Сравнительная и превосходная от *bon* и *mauvais*."
+  a: "*bon → **meilleur**, le meilleur* (не *plus bon*); *mauvais → plus mauvais / **pire**, le plus mauvais / le pire*."
+- id: a24-de-belles
+  lesson: a-24-toniques-comparaison/01-grammaire
+  q: "*Des* или *de*: «красивые цветы», «красные цветы»?"
+  a: "***de** belles fleurs* — прилагательное перед существительным; ***des** fleurs rouges* — после. Но *des jeunes gens, des grands-parents*."

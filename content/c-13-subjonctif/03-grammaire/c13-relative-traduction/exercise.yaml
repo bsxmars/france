@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Реши, нужно ли subjonctif в относительном придаточном, и подбери время (présent или passé). Пунктуация не важна, акценты — важны."
+hints:
+  - "«Самый…, который я когда-либо…» → le plus… que j'aie jamais + participe."
+  - "«Нет никого, кто бы…», «есть ли кто-нибудь, кто…» → subjonctif."
+items:
+  - q: "Это самая интересная книга, которую я когда-либо читал."
+    answers: ["C'est le livre le plus intéressant que j'aie jamais lu.", "C'est le plus intéressant livre que j'aie jamais lu.", "C'est le livre le plus intéressant que j'ai jamais lu.", "C'est le livre le plus passionnant que j'aie jamais lu.", "C'est le roman le plus intéressant que j'aie jamais lu."]
+    explain: "Superlatif + *jamais* → passé du subjonctif ***aie lu***. Indicatif *ai lu* — разговорный вариант, засчитываем, но в письменной речи лучше subjonctif."
+  - q: "Она единственная, кто меня понимает."
+    answers: ["C'est la seule qui me comprenne.", "Elle est la seule qui me comprenne.", "C'est la seule qui me comprend.", "Elle est la seule qui me comprend.", "C'est la seule à me comprendre.", "Elle est la seule à me comprendre."]
+    explain: "*La seule qui* → обычно subjonctif ***comprenne***; indicatif *comprend* — констатация. Ещё естественнее: *la seule **à** me comprendre*."
+  - q: "Здесь нет никого, кто говорил бы по-немецки."
+    answers: ["Il n'y a personne ici qui parle allemand.", "Il n'y a personne ici qui parle l'allemand.", "Ici, il n'y a personne qui parle allemand.", "Il n'y a ici personne qui parle allemand.", "Personne ici ne parle allemand.", "Ici, personne ne parle allemand."]
+    explain: "*Il n'y a personne qui* → subjonctif *parle* (форма совпадает с indicatif). Простое *Personne ici ne parle allemand* тоже верно."
+  - q: "Есть ли у вас сотрудник, который мог бы заняться этим делом?"
+    answers: ["Avez-vous un collaborateur qui puisse s'occuper de cette affaire ?", "Avez-vous un employé qui puisse s'occuper de cette affaire ?", "Est-ce que vous avez un collaborateur qui puisse s'occuper de cette affaire ?", "Vous avez un collaborateur qui puisse s'occuper de cette affaire ?", "Avez-vous un collaborateur qui pourrait s'occuper de cette affaire ?", "Avez-vous un employé qui pourrait s'occuper de cette affaire ?", "Avez-vous un collaborateur qui puisse s'occuper de ce dossier ?", "Avez-vous un employé qui puisse s'occuper de ce dossier ?"]
+    explain: "Вопрос о существовании → subjonctif ***puisse***; conditionnel *pourrait* — мягкий вариант, тоже верен."
+  - q: "Это первый человек, который пришёл."
+    answers: ["C'est la première personne qui soit venue.", "C'est la première personne qui est venue.", "C'est la première personne à être venue.", "C'est le premier qui soit venu.", "C'est le premier qui est venu.", "C'est le premier à être venu."]
+    explain: "*Le premier / la première qui* → passé du subjonctif *soit venu(e)*; если это просто констатация, допустим indicatif *est venu(e)*; ещё чаще — *le premier **à** être venu*."
+  - q: "Я не знаю ни одного политика, который бы сдержал все свои обещания."
+    answers: ["Je ne connais aucun homme politique qui ait tenu toutes ses promesses.", "Je ne connais aucun politicien qui ait tenu toutes ses promesses.", "Je ne connais pas un seul homme politique qui ait tenu toutes ses promesses.", "Je ne connais pas un homme politique qui ait tenu toutes ses promesses.", "Je ne connais aucun politique qui ait tenu toutes ses promesses.", "Je ne connais pas un seul politicien qui ait tenu toutes ses promesses."]
+    explain: "Отрицание существования + действие в прошлом → passé du subjonctif ***ait tenu***."
+  - q: "Нам нужен зал, который вместил бы двести человек."
+    answers: ["Il nous faut une salle qui puisse accueillir deux cents personnes.", "Nous avons besoin d'une salle qui puisse accueillir deux cents personnes.", "On a besoin d'une salle qui puisse accueillir deux cents personnes.", "Il nous faut une salle qui puisse contenir deux cents personnes.", "Nous avons besoin d'une salle qui puisse contenir deux cents personnes.", "Il nous faut une salle qui accueille deux cents personnes.", "Nous avons besoin d'une salle qui accueille deux cents personnes.", "Il nous faut une salle qui pourrait accueillir deux cents personnes.", "Nous avons besoin d'une salle qui pourrait accueillir deux cents personnes."]
+    explain: "Требование к неизвестному предмету → subjonctif ***puisse accueillir*** / *accueille*; conditionnel *pourrait* — мягкий вариант."
+  - q: "Это единственное, что я могу вам предложить."
+    answers: ["C'est la seule chose que je puisse vous proposer.", "C'est tout ce que je peux vous proposer.", "C'est la seule chose que je peux vous proposer.", "C'est la seule chose que je puisse vous offrir.", "C'est tout ce que je puis vous proposer."]
+    explain: "*La seule chose que* → subjonctif ***puisse***; indicatif *peux* — разговорно. *C'est tout ce que je peux…* — без superlatif, indicatif."
+  - q: "Мало кто из студентов понял этот текст."
+    answers: ["Rares sont les étudiants qui aient compris ce texte.", "Rares sont les étudiants qui ont compris ce texte.", "Peu d'étudiants ont compris ce texte.", "Il y a peu d'étudiants qui aient compris ce texte.", "Il y a peu d'étudiants qui ont compris ce texte."]
+    explain: "*Rares sont… qui* / *peu de… qui* — скрытое отрицание → subjonctif ***aient compris*** (стильно), indicatif — разговорно. Просто *Peu d'étudiants ont compris* — без придаточного."
+  - q: "Ты знаешь кого-нибудь, кто умеет чинить велосипеды?"
+    answers: ["Tu connais quelqu'un qui sache réparer les vélos ?", "Tu connais quelqu'un qui sait réparer les vélos ?", "Connais-tu quelqu'un qui sache réparer les vélos ?", "Est-ce que tu connais quelqu'un qui sache réparer les vélos ?", "Est-ce que tu connais quelqu'un qui sait réparer les vélos ?", "Tu connais quelqu'un qui sache réparer des vélos ?", "Tu connais quelqu'un qui sait réparer des vélos ?", "Connais-tu quelqu'un qui sache réparer des vélos ?", "Est-ce que tu connais quelqu'un qui sache réparer des vélos ?", "Connais-tu quelqu'un qui sait réparer les vélos ?"]
+    explain: "Вопрос о существовании → subjonctif ***sache***; в разговоре часто indicatif *sait* — тоже принимается."

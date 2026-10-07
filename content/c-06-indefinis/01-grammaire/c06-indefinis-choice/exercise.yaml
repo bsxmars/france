@@ -1,0 +1,55 @@
+title: "Chaque или chacun, aucun или nul, quelque или quelconque"
+type: choice
+intro: "Выбери вариант, верный по норме. Все варианты — настоящие французские слова, но подходит только один."
+hints:
+  - "Прилагательные: chaque, quelque, aucun, nul + существительное. Местоимения: chacun, quelqu'un, aucun, nul, personne, rien."
+  - "Отрицательные слова — с ne, но без pas."
+items:
+  - q: "Ces billets coûtent quinze euros ___."
+    options: ["chaque", "chacun", "chacune"]
+    answer: 1
+    explain: "Без существительного нужно местоимение; *billets* — м. р. → **chacun**. *Chaque* без существительного — разговорная небрежность."
+  - q: "___ candidat recevra une convocation par courriel."
+    options: ["Chacun", "Chaque", "Tout chaque"]
+    answer: 1
+    explain: "Перед существительным — прилагательное **chaque**."
+  - q: "Il a vécu à Lyon pendant ___ temps, puis il est parti."
+    options: ["quelque", "quelques", "quelconque"]
+    answer: 0
+    explain: "*Temps* в значении «некоторое время» — ед. ч.: **quelque** temps (книжное «какое-то время»)."
+  - q: "Ne prends pas ce prétexte : invente une raison ___ et viens."
+    options: ["quelque", "quelconque", "quelqu'une"]
+    answer: 1
+    explain: "«Какую-нибудь, любую» после существительного — **quelconque**."
+  - q: "Je n'ai ___ envie de recommencer cette discussion."
+    options: ["pas aucune", "aucune", "nulle pas"]
+    answer: 1
+    explain: "*Aucun* уже отрицательное: *ne … aucune*, без *pas*."
+  - q: "___ n'est censé ignorer la loi."
+    options: ["Nul", "Aucun pas", "Quiconque"]
+    answer: 0
+    explain: "Книжное местоимение **nul** = «никто»; формула юридического языка."
+  - q: "Les deux équipes ont fait match ___ : un partout."
+    options: ["aucun", "nul", "rien"]
+    answer: 1
+    explain: "После существительного *nul* не отрицание, а «нулевой»: **match nul** — ничья."
+  - q: "Il y a eu ___ grave pendant mon absence ?"
+    options: ["quelque chose", "quelque chose de", "quelqu'un de"]
+    answer: 1
+    explain: "Прилагательное после *quelque chose* вводится через *de*: **quelque chose de** grave."
+  - q: "Ce n'est pas un restaurant pour ___ : il faut réserver des mois à l'avance."
+    options: ["n'importe qui", "quiconque qui", "autrui"]
+    answer: 0
+    explain: "«Не для кого попало» — **n'importe qui**. *Autrui* в такой конструкции не употребляется, *quiconque qui* неграмматично."
+  - q: "Elle connaît ce quartier mieux que ___."
+    options: ["aucun", "quiconque", "autrui"]
+    answer: 1
+    explain: "После сравнения «лучше, чем кто бы то ни было» — **quiconque**."
+  - q: "Ne pas convoiter le bien d'___ : c'est une vieille règle morale."
+    options: ["autrui", "aucun", "quiconque"]
+    answer: 0
+    explain: "*Autrui* — «ближний, другие», только дополнение после предлога: *le bien d'**autrui***."
+  - q: "___ efforts qu'il fasse, il n'arrivera pas à la convaincre."
+    options: ["Quelque", "Quelques", "Quels que"]
+    answer: 1
+    explain: "*Quelque … que* + subjonctif = «какие бы ни»; перед существительным *quelque* — прилагательное и согласуется: **Quelques** efforts qu'il fasse. *Quels que* ставится перед глаголом *être*: *quels que soient ses efforts*."

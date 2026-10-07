@@ -1,0 +1,55 @@
+title: "Артикль и предлоги à — de"
+type: choice
+intro: "Выбери артикль или предлог с артиклем. Думай, о каком предмете речь: о любом, о конкретном или о понятии вообще."
+hints:
+  - "Единственный в обстановке, уже упомянутый, понятие вообще → le, la, les."
+  - "Куда — à (au, aux); откуда — de (du, des)."
+items:
+  - q: "Fermez ___ porte, s'il vous plaît. (в комнате одна дверь)"
+    options: ["une", "la"]
+    answer: 1
+    explain: "Дверь в этой комнате одна, все понимают какая → **la** porte."
+  - q: "J'aime ___ musique. — Я люблю музыку."
+    options: ["une", "la", "—"]
+    answer: 1
+    explain: "Понятие в общем смысле после *aimer* → **la** musique."
+  - q: "Une jeune fille entre. ___ jeune fille est très gaie."
+    options: ["Une", "La"]
+    answer: 1
+    explain: "Девушку уже упомянули → во второй раз **la**."
+  - q: "Je lis ___ revue. — Я читаю (какой-то) журнал."
+    options: ["une", "la"]
+    answer: 0
+    explain: "Журнал не уточнён, один из многих → **une**."
+  - q: "Prenez ___ journal qui est sur la table."
+    options: ["un", "le"]
+    answer: 1
+    explain: "Уточнение *qui est sur la table* указывает именно на эту газету → **le**."
+  - q: "J'ai mal à ___ tête. — У меня болит голова."
+    options: ["ma", "la", "une"]
+    answer: 1
+    explain: "С частями тела определённый артикль заменяет притяжательное: à **la** tête."
+  - q: "___ lune est belle ce soir. — Луна сегодня красивая."
+    options: ["Une", "La"]
+    answer: 1
+    explain: "Луна одна в мире → **la** lune."
+  - q: "Ils arrivent ___ Paris demain. — Они приезжают в Париж."
+    options: ["à", "de"]
+    answer: 0
+    explain: "Направление «куда» → **à** Paris."
+  - q: "Ils arrivent ___ Moscou. — Они приезжают из Москвы."
+    options: ["à", "de"]
+    answer: 1
+    explain: "Исходная точка «откуда» → **de** Moscou."
+  - q: "Je reviens ___ stade. — Я возвращаюсь со стадиона."
+    options: ["au", "du", "de le"]
+    answer: 1
+    explain: "Откуда → *de*; *de* + *le stade* = **du**."
+  - q: "Elle va ___ bibliothèque. — Она идёт в библиотеку."
+    options: ["à la", "de la", "au"]
+    answer: 0
+    explain: "Куда → *à*; *bibliothèque* — ж. р., не сливается: **à la**."
+  - q: "Nous revenons ___ cours à six heures. — Мы возвращаемся с занятий."
+    options: ["aux", "des", "de les"]
+    answer: 1
+    explain: "Откуда → *de*; *de* + *les cours* = **des**."

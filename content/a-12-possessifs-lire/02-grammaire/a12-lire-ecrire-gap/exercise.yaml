@@ -1,0 +1,44 @@
+title: "Lire, écrire и другие глаголы III группы"
+type: gap
+intro: "Поставь глагол в скобках в настоящее время. Если в скобках «!» — нужно повелительное наклонение. Впиши только пропущенное слово."
+hints:
+  - "lis, lis, lit, lisons, lisez, lisent."
+  - "écris, écris, écrit, écrivons, écrivez, écrivent."
+  - "III группа в ед. ч.: -s, -s, -t; pouvoir, vouloir: -x, -x, -t."
+items:
+  - q: "Le soir, je ___ un livre. (lire)"
+    answers: ["lis"]
+    explain: "*je* → короткая основа + **-s**: *je lis*."
+  - q: "Mon père ___ son journal. (lire)"
+    answers: ["lit"]
+    explain: "3-е лицо ед. ч. III группы → **-t**: *il lit*."
+  - q: "Nous ___ beaucoup en français. (lire)"
+    answers: ["lisons"]
+    explain: "*nous* → полная основа *lis-* + *-ons*: **lisons** [li-zɔ̃]."
+  - q: "Les élèves ___ le texte. (lire)"
+    answers: ["lisent"]
+    explain: "*ils* → полная основа: **lisent**, слышно [z]."
+  - q: "Tu ___ souvent à ta sœur ? (écrire)"
+    answers: ["écris"]
+    explain: "*tu* → **écris**, как *j'écris*."
+  - q: "Vous ___ vite ! (écrire)"
+    answers: ["écrivez"]
+    explain: "*vous* → полная основа *écriv-* + *-ez*: **écrivez**."
+  - q: "Mes amis ___ une lettre à Paul. (écrire)"
+    answers: ["écrivent"]
+    explain: "*ils* → **écrivent**, звучит [v]. *Écrire à qn* — писать кому-то."
+  - q: "Léa ___ son nom au tableau. (écrire)"
+    answers: ["écrit"]
+    explain: "3-е лицо ед. ч. → **écrit**, *t* не произносится."
+  - q: "___ cette phrase, s'il te plaît ! (lire !)"
+    answers: ["Lis", "lis"]
+    explain: "Повелительное «ты» III группы = форма *tu lis* без местоимения: **Lis** ! (с -s, в отличие от *parle !*)."
+  - q: "___ les mots dans vos cahiers ! (écrire !)"
+    answers: ["Écrivez", "écrivez"]
+    explain: "Обращение к «вы» (*vos cahiers*) → **Écrivez** !"
+  - q: "Je ne ___ pas sortir ce soir. (pouvoir)"
+    answers: ["peux"]
+    explain: "*pouvoir* в 1-м лице ед. ч. — с **-x**: *je peux*."
+  - q: "Ils ___ demain matin. (partir)"
+    answers: ["partent"]
+    explain: "Полная основа *part-* во мн. ч.: **partent** (ср. *il part* — короткая основа без звука [t])."

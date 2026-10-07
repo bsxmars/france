@@ -1,0 +1,43 @@
+title: "Как бы ни, что бы ни, кто бы ни"
+type: gap
+intro: "Вставь пропущенное: союз уступки или глагол в нужной форме (указан в скобках). Пиши только то, что нужно на месте пропуска."
+hints:
+  - "quel que soit / quelle que soit / quels que soient / quelles que soient."
+  - "Порядок: si + прилагательное + que + местоимение + глагол; или que + глагол + существительное."
+items:
+  - q: "Quoi que vous ___ (décider), prévenez-moi."
+    answers: ["décidiez"]
+    explain: "*Quoi que* + subjonctif: ***décidiez***."
+  - q: "Où qu'il ___ (aller), il emporte son ordinateur."
+    answers: ["aille"]
+    explain: "*Où que* + subjonctif: ***aille***."
+  - q: "Qui que vous ___ (être), vous devez présenter une pièce d'identité."
+    answers: ["soyez"]
+    explain: "*Qui que* + subjonctif *être*: ***soyez***."
+  - q: "___ que soient vos qualifications, vous passerez un entretien. (quel)"
+    answers: ["Quelles"]
+    explain: "Подлежащее *vos qualifications* — ж. р. мн. ч. → ***Quelles*** que soient."
+  - q: "___ que soit le résultat, nous serons fiers de vous. (quel)"
+    answers: ["Quel"]
+    explain: "*Le résultat* — м. р. ед. ч. → ***Quel*** que soit."
+  - q: "Bien qu'elle ___ (partir) tôt, elle a raté son train."
+    answers: ["soit partie"]
+    explain: "*Bien que* + subjonctif; уход — до опоздания → passé: ***soit partie***."
+  - q: "Si compétents qu'ils ___ (être), ils ne pourront pas finir à temps."
+    answers: ["soient"]
+    explain: "*Si + прилагательное + que* → subjonctif: ***soient***."
+  - q: "Même si vous ___ (avoir) raison, vous auriez dû être plus diplomate."
+    answers: ["aviez", "avez"]
+    explain: "*Même si* + indicatif (никогда subjonctif): ***aviez*** (или *avez*)."
+  - q: "D'où qu'ils ___ (venir), les réfugiés seront accueillis."
+    answers: ["viennent"]
+    explain: "*D'où que* + subjonctif: ***viennent***."
+  - q: "Quelque ___ (sincère) qu'elles paraissent, ces excuses ne me suffisent pas."
+    answers: ["sincères"]
+    explain: "*Quelque + прилагательное + que*: *quelque* — наречие, неизменяемо, а прилагательное согласуется с *ces excuses*: ***sincères***."
+  - q: "Quoique le texte ___ (être) bref, il contient l'essentiel."
+    answers: ["soit"]
+    explain: "*Quoique* = *bien que* + subjonctif: ***soit***."
+  - q: "Le projet est intéressant, encore qu'il ___ (falloir) en revoir le budget."
+    answers: ["faille"]
+    explain: "*Encore que* (книжная оговорка) + subjonctif: ***faille***."

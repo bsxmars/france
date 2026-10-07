@@ -1,0 +1,43 @@
+title: "Même или mêmes, moi-même или eux-mêmes"
+type: gap
+intro: "Вставь **même** в нужной форме — одно слово или местоимение с дефисом. Подсказка в скобках — русский смысл."
+hints:
+  - "Прилагательное (тот же / сам) согласуется: les mêmes, les enfants mêmes. Наречие (даже) — неизменяемо: même les enfants."
+  - "С ударными местоимениями — дефис: lui-même, nous-mêmes, vous-même (вежл. ед. ч.)."
+items:
+  - q: "Ces deux candidates ont obtenu exactement les ___ notes. (одинаковые)"
+    answers: ["mêmes"]
+    explain: "Прилагательное перед *notes* (мн. ч.) → **mêmes**."
+  - q: "___ les meilleurs élèves ont échoué à cette épreuve. (даже)"
+    answers: ["Même"]
+    explain: "«Даже» — наречие, не изменяется: **Même** les meilleurs élèves."
+  - q: "Les témoins ___ ont fini par se contredire. (сами)"
+    answers: ["mêmes", "eux-mêmes"]
+    explain: "После существительного *même* = «сами» и согласуется: *les témoins **mêmes*** (или *eux-mêmes*)."
+  - q: "Ils ont construit leur maison ___. (сами)"
+    answers: ["eux-mêmes"]
+    explain: "«Сами» после глагола → ударное местоимение + *même*: **eux-mêmes**."
+  - q: "Madame, vous l'avez constaté vous-___. (сами, вежливо, одной женщине)"
+    answers: ["même"]
+    explain: "Вежливое *vous* к одному лицу → **vous-même**, без *-s*."
+  - q: "Mes amies et moi, nous avons organisé la fête nous-___. (сами)"
+    answers: ["mêmes"]
+    explain: "Несколько человек → **nous-mêmes**."
+  - q: "Il ne m'a ___ pas remercié. (даже)"
+    answers: ["même"]
+    explain: "*Même* = «даже», неизменяемо, перед *pas*: *ne m'a **même** pas remercié*."
+  - q: "C'est le jour ___ de la signature que tout s'est écroulé. (в тот самый день)"
+    answers: ["même"]
+    explain: "После *jour* (ед. ч.) *même* = «самый»: *le jour **même***."
+  - q: "Ce garçon est la gentillesse ___. (сама доброта)"
+    answers: ["même"]
+    explain: "После абстрактного существительного → «воплощение»: *la gentillesse **même***."
+  - q: "Ta montre me plaît, je voudrais la ___. (такую же)"
+    answers: ["même"]
+    explain: "Местоимение *la même* — «такую же»; ед. ч., *même* без *-s*."
+  - q: "___ si tu insistes, je ne changerai pas d'avis. (даже)"
+    answers: ["Même"]
+    explain: "**Même si** + indicatif — «даже если»."
+  - q: "Il a fait cette démarche de lui-___, sans qu'on le lui demande. (по собственной инициативе)"
+    answers: ["même"]
+    explain: "*De lui-même* — «сам, по своей воле»."

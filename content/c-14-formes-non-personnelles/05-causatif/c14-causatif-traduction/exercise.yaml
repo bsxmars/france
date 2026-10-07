@@ -1,0 +1,43 @@
+title: "Переведи с каузативной конструкцией"
+type: gap
+intro: "Переведи фразу целиком, используя faire, se faire, laisser или se laisser + infinitif. Пунктуация не важна, акценты — важны."
+hints:
+  - "Уронить — faire tomber, показать — faire voir, вызвать — faire venir, впустить — laisser / faire entrer."
+  - "Сделал не сам, а кто-то по просьбе → faire + infinitif."
+items:
+  - q: "Я отремонтировал машину в гараже возле дома."
+    answers: ["J'ai fait réparer ma voiture au garage près de chez moi.", "J'ai fait réparer ma voiture dans le garage près de chez moi.", "J'ai fait réparer la voiture au garage près de chez moi.", "J'ai fait réparer ma voiture au garage à côté de chez moi.", "J'ai fait réparer la voiture au garage à côté de chez moi."]
+    explain: "Чинил механик, а не я → ***J'ai fait réparer***. Русский глагол каузацию не показывает, французский — показывает."
+  - q: "Не заставляйте нас ждать!"
+    answers: ["Ne nous faites pas attendre !", "Ne nous fais pas attendre !"]
+    explain: "Отрицательное повелительное: местоимение перед *faire* — ***Ne nous faites pas attendre***."
+  - q: "Она уронила чашку."
+    answers: ["Elle a fait tomber la tasse.", "Elle a fait tomber sa tasse.", "Elle a laissé tomber la tasse.", "Elle a laissé tomber sa tasse.", "Elle fit tomber la tasse.", "Elle laissa tomber la tasse."]
+    explain: "«Уронить» = ***faire tomber*** (нечаянно задеть) или ***laisser tomber*** (выпустить из рук)."
+  - q: "Он подстригся вчера."
+    answers: ["Il s'est fait couper les cheveux hier.", "Hier, il s'est fait couper les cheveux."]
+    explain: "Стриг парикмахер → *se faire* + infinitif: ***s'est fait couper les cheveux***."
+  - q: "Покажите мне ваши документы."
+    answers: ["Faites-moi voir vos papiers.", "Faites-moi voir vos documents.", "Montrez-moi vos papiers.", "Montrez-moi vos documents."]
+    explain: "«Показать» = *faire voir* (или просто *montrer*); в утвердительном повелительном *moi* после глагола: ***Faites-moi voir***."
+  - q: "Отпустите детей, они устали."
+    answers: ["Laissez partir les enfants, ils sont fatigués.", "Laissez les enfants partir, ils sont fatigués.", "Laissez partir les enfants : ils sont fatigués.", "Laissez les enfants partir : ils sont fatigués."]
+    explain: "«Отпустить» = ***laisser partir***; с *laisser* существительное может стоять до или после инфинитива."
+  - q: "Она умеет заставить себя слушать."
+    answers: ["Elle sait se faire obéir.", "Elle sait se faire écouter.", "Elle sait se faire entendre."]
+    explain: "*Se faire* + infinitif с пассивным оттенком: ***se faire obéir / écouter***."
+  - q: "Его чуть не сбила машина."
+    answers: ["Il a failli se faire renverser par une voiture.", "Il a failli être renversé par une voiture.", "Il a manqué de se faire renverser par une voiture."]
+    explain: "Неприятное событие с подлежащим-жертвой → ***se faire renverser***; пассив *être renversé* тоже верен."
+  - q: "Не дайте себя запугать."
+    answers: ["Ne vous laissez pas intimider.", "Ne te laisse pas intimider."]
+    explain: "«Дать себя…» = ***se laisser*** + infinitif."
+  - q: "Я велел ему переделать работу."
+    answers: ["Je lui ai fait refaire le travail.", "Je lui ai fait refaire son travail.", "Je lui ai fait refaire ce travail."]
+    explain: "У инфинитива есть дополнение (*le travail*) → исполнитель косвенный: ***lui ai fait refaire***."
+  - q: "Пусть он говорит, это интересно."
+    answers: ["Laisse-le parler, c'est intéressant.", "Laissez-le parler, c'est intéressant.", "Laisse-le parler : c'est intéressant.", "Laissez-le parler : c'est intéressant."]
+    explain: "«Пусть» в значении «не мешай» → ***laisser*** + infinitif; местоимение после повелительного через дефис."
+  - q: "Эта новость заставила их задуматься."
+    answers: ["Cette nouvelle les a fait réfléchir.", "Cette nouvelle les fit réfléchir."]
+    explain: "Непереходный инфинитив → исполнитель — COD *les*, перед *a*; ***fait*** без согласования."

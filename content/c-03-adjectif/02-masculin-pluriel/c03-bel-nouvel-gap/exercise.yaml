@@ -1,0 +1,40 @@
+title: "Beau или bel, vieux или vieil?"
+type: gap
+intro: "Впиши прилагательное из скобок в нужной форме (род, число, вторая форма мужского рода)."
+hints:
+  - "bel, nouvel, vieil, fol, mol — только непосредственно перед существительным м. р. ед. ч. на гласную или h немое."
+  - "Во мн. ч. второй формы нет: de beaux arbres, de vieux amis."
+items:
+  - q: "Nous avons visité un ___ (beau) édifice de la Renaissance."
+    answers: ["bel"]
+    explain: "Перед существительным м. р. на гласную → ***bel*** *édifice*."
+  - q: "Cet hôtel est très ___ (vieux), mais confortable."
+    answers: ["vieux"]
+    explain: "Прилагательное — сказуемое после *est*, не перед существительным → обычная форма ***vieux***."
+  - q: "On célèbre le ___ (nouveau) An le 31 décembre au soir."
+    answers: ["Nouvel"]
+    explain: "*Le Nouvel An* — перед гласной ***Nouvel***, с прописной буквы."
+  - q: "Ils ont emménagé dans un ___ (nouveau) appartement près du port."
+    answers: ["nouvel"]
+    explain: "Перед *appartement* (гласная) → ***nouvel***."
+  - q: "Je te présente un ___ (vieux) ami de mon père."
+    answers: ["vieil"]
+    explain: "Перед *ami* → ***vieil***. Во мн. ч. было бы *de vieux amis*."
+  - q: "Ce ___ (vieux) héros de la Résistance raconte la guerre aux lycéens."
+    answers: ["vieux"]
+    explain: "*Héros* начинается с *h* придыхательного → обычная форма ***vieux***."
+  - q: "Ils ont planté de ___ (beau) arbres fruitiers dans le jardin."
+    answers: ["beaux"]
+    explain: "Мн. ч.: второй формы нет → ***beaux*** (связывание [bozaʁbʁ])."
+  - q: "Il avait gardé le ___ (fou) espoir de la revoir un jour."
+    answers: ["fol"]
+    explain: "Перед существительным м. р. на гласную → ***fol*** *espoir* (книжная форма). В обычной речи прилагательное ставят после: *un espoir fou*."
+  - q: "C'est un homme ___ (beau) et cultivé."
+    answers: ["beau"]
+    explain: "Прилагательное стоит **после** существительного → ***beau***, хотя дальше идёт *et*."
+  - q: "Elle porte toujours de ___ (vieux) robes de sa grand-mère."
+    answers: ["vieilles"]
+    explain: "Ж. р. мн. ч. → ***vieilles***."
+  - q: "Ce soir-là, il y avait un ___ (beau) orage sur la mer."
+    answers: ["bel"]
+    explain: "*Orage* — м. р. (см. главу о существительном), начинается с гласной → ***bel*** *orage*."

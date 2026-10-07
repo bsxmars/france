@@ -1,0 +1,44 @@
+title: "Ответь отрицательно"
+type: gap
+intro: "Ответь отрицательно, используя отрицание в скобках. Впиши недостающую часть ответа (с ne и глаголом)."
+hints:
+  - "rien, jamais, plus — между вспомогательным глаголом и причастием; personne, nulle part — после причастия."
+  - "Personne и rien в начале предложения: Personne ne…, Rien ne…"
+  - "Pas с этими словами не ставится."
+items:
+  - q: "— Tu attends quelqu'un ? — Non, je ___. (personne)"
+    answers: ["n'attends personne"]
+    explain: "Простое время: *ne* + глагол + **personne**: *je n'attends personne*."
+  - q: "— Vous avez vu quelqu'un dans le jardin ? — Non, nous ___. (personne)"
+    answers: ["n'avons vu personne"]
+    explain: "Сложное время: **personne** — после причастия: *nous n'avons vu personne*."
+  - q: "— Qui a téléphoné ? — ___ a téléphoné. (personne)"
+    answers: ["Personne n'"]
+    explain: "*Personne* — подлежащее, стоит в начале, сразу за ним *ne*: **Personne n'**a téléphoné."
+  - q: "— Il a mangé quelque chose ? — Non, il ___. (rien)"
+    answers: ["n'a rien mangé"]
+    explain: "**Rien** в сложном времени — между *a* и причастием: *il n'a rien mangé*."
+  - q: "— Qu'est-ce qui te fait peur ? — ___ me fait peur. (rien)"
+    answers: ["Rien ne"]
+    explain: "*Rien* — подлежащее → **Rien ne** me fait peur."
+  - q: "— Tu es déjà allé en Corse ? — Non, je ___ en Corse. (jamais)"
+    answers: ["ne suis jamais allé", "ne suis jamais allée"]
+    explain: "**Jamais** — между вспомогательным *suis* и причастием: *je ne suis jamais allé(e)*."
+  - q: "— Ils habitent toujours à Marseille ? — Non, ils ___ à Marseille. (plus)"
+    answers: ["n'habitent plus"]
+    explain: "«Больше не живут» → *ne … **plus***: *ils n'habitent plus*."
+  - q: "— Tu as cherché ton portable partout ? — Oui, mais je ___. (nulle part, le trouver)"
+    answers: ["ne l'ai trouvé nulle part"]
+    explain: "**Nulle part** в сложном времени — после причастия: *je ne l'ai trouvé nulle part*."
+  - q: "— Tu veux aller où ce soir ? — Je ___. (nulle part, vouloir aller)"
+    answers: ["ne veux aller nulle part"]
+    explain: "При инфинитиве **nulle part** — после инфинитива: *je ne veux aller nulle part*."
+  - q: "— Tu peux me dire quelque chose ? — Non, je ___. (rien, pouvoir dire)"
+    answers: ["ne peux rien dire", "ne peux rien te dire", "ne peux rien vous dire"]
+    explain: "**Rien** — дополнение инфинитива — стоит **перед** ним: *je ne peux rien dire*."
+  - q: "— Tu bois du thé ou du café ? — Je ___. (ni … ni)"
+    answers: ["ne bois ni thé ni café"]
+    explain: "*Ni … ni* без *pas*; артикль в общем значении опускается: *je ne bois **ni** thé **ni** café*."
+  - q: "— Il t'a dit quelque chose depuis ? — Non, il ___. (plus rien, dire)"
+    answers: ["ne m'a plus rien dit"]
+    explain: "Два отрицания: **plus** перед **rien**, оба — между *a* и причастием: *il ne m'a plus rien dit*."

@@ -1,0 +1,43 @@
+title: "Подними регистр"
+type: gap
+intro: "Впиши одно слово, чтобы получилась книжная (soutenu) конструкция с указанным в скобках смыслом."
+hints:
+  - "point, guère, nullement; ne без pas при cesser, oser, pouvoir, savoir."
+  - "non sans, non loin, non pas, si ce n'est."
+items:
+  - q: "Il n'y a ___ de touristes en novembre. (почти нет)"
+    answers: ["guère"]
+    explain: "*Ne… guère de* — «почти нет»: *il n'y a **guère** de touristes*."
+  - q: "Je ne suis ___ convaincu par ses arguments. (ничуть)"
+    answers: ["nullement", "aucunement", "point"]
+    explain: "«Ничуть не» в книжном стиле — **nullement** или *aucunement*; *point* тоже возможно («вовсе не»)."
+  - q: "Elle ne ___ de répéter la même histoire. (не перестаёт)"
+    answers: ["cesse", "cessait", "cessa"]
+    explain: "*Ne cesser de* + инфинитив без *pas* — книжное отрицание: *elle ne **cesse** de répéter*."
+  - q: "Je ne ___ accepter une telle proposition. (не могу, книжная форма 1-го лица)"
+    answers: ["puis"]
+    explain: "*Je ne puis* — книжная форма *je ne peux* в отрицании без *pas*."
+  - q: "Il habite ___ loin de la gare. (неподалёку)"
+    answers: ["non"]
+    explain: "*Non loin de* — «недалеко от»; *non* служит приставкой."
+  - q: "Ils sont tous venus, ___ ce n'est Paul. (если не считать)"
+    answers: ["si"]
+    explain: "*Si ce n'est* — «кроме, если не считать»; *ne* без *pas* в устойчивом обороте."
+  - q: "C'est une invitation, ___ pas un ordre. (а не)"
+    answers: ["non"]
+    explain: "Книжное противопоставление — *non pas*: *une invitation, **non** pas un ordre*."
+  - q: "Le voyage a été plus fatigant que nous ___ l'imaginions. (ne explétif)"
+    answers: ["ne"]
+    explain: "Сравнение неравенства при утвердительной главной: *que nous **ne** l'imaginions*."
+  - q: "Prenez garde qu'on ___ vous voie. (чтобы вас не увидели — с ne explétif)"
+    answers: ["ne"]
+    explain: "После *prendre garde que* в значении предосторожности ставится *ne explétif*: *qu'on **ne** vous voie*."
+  - q: "Ils ont quitté la maison, ___ sans regret. (не без сожаления)"
+    answers: ["non"]
+    explain: "*Non sans* + существительное — «не без»."
+  - q: "Je ne ___ s'il acceptera notre offre. (не знаю, книжно без pas)"
+    answers: ["sais"]
+    explain: "*Je ne sais si…* — книжное отрицание с *savoir* без *pas*."
+  - q: "Il ne lit ___ que des journaux sportifs. (почти только)"
+    answers: ["guère"]
+    explain: "*Ne… guère que* — «почти только»."

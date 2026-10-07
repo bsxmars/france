@@ -1,0 +1,38 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: место или форма *en*, число, форма *être* или *mettre*. Исправь её и отправь предложение целиком."
+hints:
+  - "En — перед глаголом; после глагола только в утвердительном повелительном."
+  - "un / une после en в утверждении повторяется."
+  - "sois, soyons, soyez; il met, ils mettent."
+items:
+  - q: "Un stylo ? Oui, j'ai un."
+    answers: ["Un stylo ? Oui, j'en ai un."]
+    explain: "Без дополнения глагол *avoir* не стоит: нужно **en** — *j'en ai un*."
+  - q: "Des frères ? Non, je n'ai pas en."
+    answers: ["Des frères ? Non, je n'en ai pas."]
+    explain: "*En* стоит **перед** глаголом, между *ne* и глаголом: *je **n'en ai** pas*."
+  - q: "Des bonbons ? Prends en deux !"
+    answers: ["Des bonbons ? Prends-en deux !"]
+    explain: "В утвердительном повелительном *en* после глагола пишется **через дефис**: *prends-en*."
+  - q: "Ce sont de bonnes pommes, apporte-en !"
+    answers: ["Ce sont de bonnes pommes, apportes-en !"]
+    explain: "У глаголов I группы перед *en* в повелительном 2-го лица возвращается *-s*: **apportes-en**."
+  - q: "Il y a vingt-et-deux places dans le bus."
+    answers: ["Il y a vingt-deux places dans le bus."]
+    explain: "*Et* бывает только в 21, 31, 41, 51, 61: 22 — **vingt-deux**."
+  - q: "Mon frère a trente un ans."
+    answers: ["Mon frère a trente et un ans.", "Mon frère a trente-et-un ans."]
+    explain: "31 = **trente et un** — с *et*."
+  - q: "Êtes tranquilles, tout va bien !"
+    answers: ["Soyez tranquilles, tout va bien !"]
+    explain: "Повелительное от *être* — неправильное: **soyez**, а не *êtes*."
+  - q: "Elle mette sa robe bleue."
+    answers: ["Elle met sa robe bleue."]
+    explain: "*elle* → **met**: в единственном числе одна *t* и без окончания."
+  - q: "Nous metons la table à sept heures."
+    answers: ["Nous mettons la table à sept heures."]
+    explain: "Во множественном числе у *mettre* две *t*: **mettons**."
+  - q: "Des livres sur la table ? Oui, il en y a beaucoup."
+    answers: ["Des livres sur la table ? Oui, il y en a beaucoup."]
+    explain: "В обороте *il y a* местоимение *en* стоит **после** *y*: **il y en a**."

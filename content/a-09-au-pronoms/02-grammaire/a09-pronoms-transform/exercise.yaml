@@ -1,0 +1,64 @@
+title: "Замени дополнение местоимением"
+type: transform
+intro: "Замени выделенное по смыслу прямое дополнение местоимением из ключа и допиши предложение."
+hints:
+  - "Местоимение — прямо перед своим глаголом."
+  - "Отрицание: ne + le + глагол + pas."
+  - "С инфинитивом: il faut le lire."
+  - "Перед гласной: l'."
+items:
+  - q: "Je ferme la fenêtre."
+    key: "LA"
+    stem: "Je ___."
+    answers: ["la ferme"]
+    explain: "*la fenêtre* → **la**, перед глаголом: *Je la ferme*."
+  - q: "Paul lit ce livre."
+    key: "LE"
+    stem: "Paul ___."
+    answers: ["le lit"]
+    explain: "*ce livre* — м. р. → **le**: *Paul le lit*."
+  - q: "Elle corrige ses fautes."
+    key: "LES"
+    stem: "Elle ___."
+    answers: ["les corrige"]
+    explain: "*ses fautes* — мн. ч. → **les**: *Elle les corrige*."
+  - q: "Il ne lit pas ce texte."
+    key: "LE"
+    stem: "Il ___ pas."
+    answers: ["ne le lit"]
+    explain: "Местоимение между *ne* и глаголом: *Il **ne le lit** pas*."
+  - q: "Je n'aime pas ces fleurs."
+    key: "LES"
+    stem: "Je ___ pas."
+    answers: ["ne les aime"]
+    explain: "*Je **ne les aime** pas* — *les* не сокращается (связывание [le-zɛm])."
+  - q: "J'écris cette phrase."
+    key: "L'"
+    stem: "Je ___."
+    answers: ["l'écris"]
+    explain: "*la* перед гласной → **l'**: *Je l'écris*."
+  - q: "Léa aime le cinéma."
+    key: "L'"
+    stem: "Léa ___."
+    answers: ["l'aime"]
+    explain: "*le* перед гласной → **l'**: *Léa l'aime*."
+  - q: "Il faut lire ce texte."
+    key: "LE"
+    stem: "Il faut ___."
+    answers: ["le lire"]
+    explain: "Местоимение относится к *lire* → стоит перед инфинитивом: *Il faut **le lire***."
+  - q: "Je veux fermer la porte."
+    key: "LA"
+    stem: "Je veux ___."
+    answers: ["la fermer"]
+    explain: "Перед инфинитивом, к которому относится: *Je veux **la fermer***."
+  - q: "Corrige-t-elle ses fautes ?"
+    key: "LES"
+    stem: "___ ?"
+    answers: ["Les corrige-t-elle"]
+    explain: "При инверсии местоимение всё равно перед глаголом: ***Les corrige-t-elle ?***"
+  - q: "Regardes-tu les images ?"
+    key: "LES"
+    stem: "___ ?"
+    answers: ["Les regardes-tu"]
+    explain: "***Les regardes-tu ?*** — *les* перед глаголом, *tu* после."

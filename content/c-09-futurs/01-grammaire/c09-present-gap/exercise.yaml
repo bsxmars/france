@@ -1,0 +1,38 @@
+title: "Présent, futur или passé composé?"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму: présent, futur simple или passé composé."
+hints:
+  - "После si условного — présent, в главном — futur."
+  - "depuis / il y a… que + продолжающееся действие → présent."
+  - "si «ли» (косвенный вопрос) → будущее возможно."
+items:
+  - q: "S'il ___ (faire) beau dimanche, nous irons à la mer."
+    answers: ["fait"]
+    explain: "После условного *si* — **présent**, даже если речь о будущем."
+  - q: "Je ne sais pas encore si elle ___ (venir) à la fête samedi."
+    answers: ["viendra"]
+    explain: "Здесь *si* = «ли» (косвенный вопрос) → будущее **viendra** возможно и нужно."
+  - q: "Ça fait trois semaines que je ___ (chercher) un appartement."
+    answers: ["cherche"]
+    explain: "Поиск продолжается → **présent** с *ça fait… que*."
+  - q: "Mon frère ___ (partir) depuis lundi ; la maison est bien calme."
+    answers: ["est parti"]
+    explain: "Завершённое действие, результат которого длится: *est parti depuis lundi*."
+  - q: "Je ___ (ne pas voir) Paul depuis des mois."
+    answers: ["n'ai pas vu"]
+    explain: "В отрицании с *depuis* обычен passé composé: *je n'ai pas vu Paul depuis des mois*."
+  - q: "Si vous ___ (avoir) des questions, n'hésitez pas à m'écrire."
+    answers: ["avez"]
+    explain: "*Si* + présent, в главном — императив."
+  - q: "Quand tu ___ (être) grand, tu comprendras."
+    answers: ["seras"]
+    explain: "После *quand* с будущим смыслом — **futur** (в отличие от *si*)."
+  - q: "Il y a longtemps qu'elle ___ (enseigner) dans ce lycée."
+    answers: ["enseigne"]
+    explain: "*Il y a… que* + продолжающееся действие → présent."
+  - q: "Excusez mon retard, je ___ (sortir) d'une réunion interminable."
+    answers: ["sors"]
+    explain: "*Sortir de* в présent — «только что вышел»: недавнее прошлое."
+  - q: "Même s'il ___ (pleuvoir) demain, le match aura lieu."
+    answers: ["pleut"]
+    explain: "*Même si* ведёт себя как условное *si* → présent."

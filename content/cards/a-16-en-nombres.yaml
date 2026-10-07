@@ -1,0 +1,32 @@
+- id: a16-en-un
+  lesson: a-16-en-nombres/01-grammaire
+  q: "— Tu as un vélo ? Ответь «да» и «нет» с *en*."
+  a: "*Oui, j'en ai **un**. — Non, je n'en ai pas.* В утверждении *un / une* повторяется, в отрицании — нет."
+- id: a16-en-quantite
+  lesson: a-16-en-nombres/01-grammaire
+  q: "«У меня их много», «Их три» (о книгах)."
+  a: "*J'en ai **beaucoup**. Il y en a **trois**.* — слово количества остаётся в конце."
+- id: a16-en-place
+  lesson: a-16-en-nombres/01-grammaire
+  q: "Где стоит *en*?"
+  a: "Перед глаголом (*j'en prends*), перед инфинитивом (*je veux en prendre*), после глагола только в утвердительном повелительном: *prends-en !* но *n'en prends pas !*"
+- id: a16-achetes-en
+  lesson: a-16-en-nombres/01-grammaire
+  q: "«Купи (их)!» на «ты» с *en*."
+  a: "***Achètes-en !*** — у глаголов I группы перед *en* возвращается *-s*. Но: *N'en achète pas !*"
+- id: a16-et-un
+  lesson: a-16-en-nombres/01-grammaire
+  q: "Где в числах до 69 пишется *et*?"
+  a: "Только в 21, 31, 41, 51, 61: *vingt **et** un, soixante **et** un*. Остальные — через дефис: *vingt-deux, quarante-sept*."
+- id: a16-prononciation
+  lesson: a-16-en-nombres/01-grammaire
+  q: "Как звучат *six livres, six amis, neuf ans, le onze*?"
+  a: "[si livʁ] — без [s] перед согласной; [si-za-mi] — связывание; [nœ-vɑ̃]; *le onze* — без элизии."
+- id: a16-etre-imperatif
+  lesson: a-16-en-nombres/01-grammaire
+  q: "Повелительное наклонение *être*."
+  a: "***sois, soyons, soyez*** — *Sois prudent ! Soyez attentifs !*"
+- id: a16-mettre
+  lesson: a-16-en-nombres/01-grammaire
+  q: "Проспрягай *mettre* в настоящем времени."
+  a: "*je mets, tu mets, il **met**, nous **mettons**, vous mettez, ils **mettent*** — в ед. ч. одна *t*, во мн. ч. две."

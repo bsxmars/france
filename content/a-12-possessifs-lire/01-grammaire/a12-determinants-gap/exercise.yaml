@@ -1,0 +1,43 @@
+title: "Чей? Притяжательное по смыслу"
+type: gap
+intro: "Вставь притяжательное прилагательное, которое соответствует подлежащему (владелец — тот, кто действует). Род существительного указан в скобках, если его не видно."
+hints:
+  - "Владелец — лицо: mon / ton / son / notre / votre / leur. Предмет — род и число."
+  - "Ж. р. на гласную → mon, ton, son."
+items:
+  - q: "Nous parlons à ___ professeur."
+    answers: ["notre"]
+    explain: "Владелец *nous*, предмет один → **notre** (одинаково для обоих родов)."
+  - q: "Vous fermez ___ livres ?"
+    answers: ["vos"]
+    explain: "Владелец *vous*, книг несколько → **vos**."
+  - q: "Je téléphone à ___ sœur."
+    answers: ["ma"]
+    explain: "Владелец *je*, *sœur* — ж. р. → **ma**. По-русски просто «звоню сестре», по-французски притяжательное нужно."
+  - q: "Les élèves écoutent ___ professeur."
+    answers: ["leur"]
+    explain: "Владельцев много, преподаватель один → **leur** (без -s)."
+  - q: "Les enfants cherchent ___ photos."
+    answers: ["leurs"]
+    explain: "Владельцы — *les enfants*, фотографий несколько → **leurs**."
+  - q: "Marie aime beaucoup ___ frère."
+    answers: ["son"]
+    explain: "*frère* — м. р. → **son**, хотя владелица — женщина («своего брата»)."
+  - q: "Paul cherche ___ clé. (ж.)"
+    answers: ["sa"]
+    explain: "*clé* — ж. р. → **sa**, хотя владелец — мужчина («свой ключ»)."
+  - q: "Tu aimes ___ école ? (ж.)"
+    answers: ["ton"]
+    explain: "*école* — ж. р., но начинается с гласной → **ton** вместо *ta*."
+  - q: "J'invite ___ amie Léa."
+    answers: ["mon"]
+    explain: "*amie* — ж. р. на гласную → **mon** (звучит [mɔ̃-na-mi])."
+  - q: "Il lit ___ journal le matin."
+    answers: ["son"]
+    explain: "Владелец *il*, *journal* — м. р. → **son**. По-русски «читает газету» — без притяжательного."
+  - q: "Anne et Paul habitent avec ___ enfants."
+    answers: ["leurs"]
+    explain: "Владельцы — двое, детей несколько → **leurs**; перед гласной слышно [z]: *leurs enfants*."
+  - q: "Tu montres ___ photos à Léa ?"
+    answers: ["tes"]
+    explain: "Владелец *tu*, фотографий несколько → **tes**."

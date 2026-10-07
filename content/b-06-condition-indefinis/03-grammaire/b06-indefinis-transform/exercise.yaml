@@ -1,0 +1,69 @@
+title: "Замени группу местоимением"
+type: transform
+intro: |
+  Замени выделенную по смыслу группу неопределённым **местоимением** с ключевым словом. Если группа — дополнение, не забудь **en**. Впиши недостающую часть.
+hints:
+  - "chaque X → chacun / chacune; quelques X → quelques-uns / quelques-unes; aucun X → aucun."
+  - "Дополнение с количеством → en перед глаголом: j'en ai lu plusieurs."
+  - "tous les X → tous; в сложном времени: je les ai tous lus."
+items:
+  - q: "Chaque citoyen devrait se sentir concerné."
+    key: "CHACUN"
+    stem: "___ devrait se sentir concerné."
+    answers: ["Chacun"]
+    explain: "*Chaque citoyen* → **Chacun**; глагол остаётся в ед. ч."
+  - q: "Chaque association recevra une subvention."
+    key: "CHACUNE"
+    stem: "___ des associations recevra une subvention."
+    answers: ["Chacune"]
+    explain: "Женский род (*association*) → **Chacune** des associations."
+  - q: "Quelques voisines sont venues aider."
+    key: "QUELQUES"
+    stem: "___ sont venues aider."
+    answers: ["Quelques-unes"]
+    explain: "*Quelques voisines* (ж. р.) → местоимение **Quelques-unes**, через дефис."
+  - q: "J'ai lu plusieurs articles sur les lanceurs d'alerte."
+    key: "EN"
+    stem: "J'___ sur les lanceurs d'alerte."
+    answers: ["en ai lu plusieurs"]
+    explain: "Дополнение с количеством → ***en** + plusieurs*: *j'en ai lu plusieurs*."
+  - q: "Je n'ai trouvé aucune solution."
+    key: "AUCUNE"
+    stem: "Je ___."
+    answers: ["n'en ai trouvé aucune"]
+    explain: "*Aucune solution* → ***en** + aucune*: *je n'en ai trouvé aucune* — без *pas*."
+  - q: "Aucun candidat n'a répondu à nos questions."
+    key: "AUCUN"
+    stem: "___ à nos questions."
+    answers: ["Aucun n'a répondu"]
+    explain: "Подлежащее → *en* не нужен: ***Aucun** n'a répondu*."
+  - q: "Certains lanceurs d'alerte sont considérés comme des héros."
+    key: "CERTAINS"
+    stem: "___ comme des héros."
+    answers: ["Certains sont considérés"]
+    explain: "Местоимение-подлежащее ***Certains*** — без *en*."
+  - q: "J'ai rencontré quelques élus pendant la campagne."
+    key: "QUELQUES-UNS"
+    stem: "J'___ pendant la campagne."
+    answers: ["en ai rencontré quelques-uns"]
+    explain: "Дополнение → ***en** ai rencontré **quelques-uns***."
+  - q: "J'ai lu tous les rapports de la commission."
+    key: "TOUS"
+    stem: "Les rapports de la commission, je ___."
+    answers: ["les ai tous lus"]
+    explain: "Определённое дополнение → *les*; *tous* — между *ai* и причастием; причастие согласуется с *les* (м. р. мн. ч.): *je les ai **tous** lus*."
+  - q: "La plupart des participants étaient des jeunes."
+    key: "PLUPART"
+    stem: "___ des jeunes."
+    answers: ["La plupart étaient"]
+    explain: "Местоимение ***La plupart*** — глагол во мн. ч.: *étaient*."
+  - q: "Nous avons d'autres propositions."
+    key: "EN"
+    stem: "Nous ___."
+    answers: ["en avons d'autres"]
+    explain: "*D'autres* в роли дополнения → ***en** avons d'autres*."
+  - q: "Tous les habitants sont d'accord."
+    key: "TOUS"
+    stem: "Ils ___ d'accord."
+    answers: ["sont tous"]
+    explain: "Местоимение *tous* после глагола: *ils sont **tous** d'accord* — читается [tus]."

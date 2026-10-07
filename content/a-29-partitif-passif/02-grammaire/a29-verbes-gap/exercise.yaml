@@ -1,0 +1,40 @@
+title: "Ouvrir, offrir, souffrir, devoir"
+type: gap
+intro: "Поставь глагол в указанное время."
+hints:
+  - "j'ouvre, tu ouvres, il ouvre — как глаголы на -er; participe — ouvert, offert, couvert, souffert."
+  - "je dois, nous devons, ils doivent; participe — dû; futur — je devrai."
+items:
+  - q: "La boulangerie ___ à sept heures. (ouvrir, présent)"
+    answers: ["ouvre"]
+    explain: "3-е лицо ед. ч., окончание как у I группы: **ouvre**."
+  - q: "Tu m'___ ton aide, c'est très gentil. (offrir, présent)"
+    answers: ["offres"]
+    explain: "*tu* → **offres** — с *-s*, как *tu parles*."
+  - q: "Les champs ___ de fleurs au printemps. (se couvrir, présent)"
+    answers: ["se couvrent"]
+    explain: "*ils* → **se couvrent**; после *se couvrir de* — без артикля."
+  - q: "Mes grands-parents m'___ un vélo pour mes dix ans. (offrir, passé composé)"
+    answers: ["ont offert"]
+    explain: "Passé composé с *avoir*, причастие на *-ert*: **ont offert**."
+  - q: "Elle ___ de la chaleur l'été dernier. (souffrir, passé composé)"
+    answers: ["a souffert"]
+    explain: "Причастие **souffert**: *elle **a souffert***."
+  - q: "___ la porte, s'il te plaît ! (ouvrir, impératif, tu)"
+    answers: ["Ouvre"]
+    explain: "Повелительное 2-го лица ед. ч. — **без -s**, как у глаголов на *-er*: *Ouvre !*"
+  - q: "Les scientifiques ___ une nouvelle espèce de poisson. (découvrir, passé composé)"
+    answers: ["ont découvert"]
+    explain: "*découvrir* → причастие **découvert**: *ont découvert*."
+  - q: "Nous ___ rendre ce livre avant vendredi. (devoir, présent)"
+    answers: ["devons"]
+    explain: "*nous* → **devons**: основа *dev-*."
+  - q: "Ils ___ encore cent euros à la banque. (devoir, présent)"
+    answers: ["doivent"]
+    explain: "*ils* → **doivent** — основа *doiv-*."
+  - q: "Le train était en retard, alors j'___ prendre un taxi. (devoir, passé composé)"
+    answers: ["ai dû"]
+    explain: "«Пришлось» → passé composé: **ai dû** — *dû* с циркумфлексом."
+  - q: "Demain, vous ___ vous lever très tôt. (devoir, futur simple)"
+    answers: ["devrez"]
+    explain: "Futur: основа *devr-* + *-ez* → **devrez** — «вам придётся»."

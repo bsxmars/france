@@ -1,0 +1,43 @@
+title: "Сначала одно, потом другое"
+type: gap
+intro: "Поставь глагол в скобках в futur antérieur. Следи за вспомогательным глаголом и согласованием."
+hints:
+  - "futur antérieur = aurai / serai + participe passé."
+  - "Глаголы движения и возвратные — с être, причастие согласуется с подлежащим."
+items:
+  - q: "Tu pourras sortir quand tu ___ (faire) tes devoirs."
+    answers: ["auras fait", "auras fini"]
+    explain: "Сначала сделать уроки, потом гулять → futur antérieur от *faire* (с *avoir*): **auras fait**."
+  - q: "Dès que nous ___ (s'installer), nous vous inviterons à dîner."
+    answers: ["nous serons installés", "nous serons installées", "serons installés", "serons installées"]
+    explain: "Возвратный глагол → *être*: *dès que nous **nous serons installés*** (или *installées*); возвратное *nous* стоит перед вспомогательным глаголом. Вариант *nous serons installés* («будем устроены») тоже грамматичен."
+  - q: "Une fois que les enfants ___ (partir) en colonie, la maison sera bien calme."
+    answers: ["seront partis"]
+    explain: "*partir* — с *être*, согласование с *les enfants*: **seront partis**."
+  - q: "Lorsque tu ___ (lire) cet article, tu ne verras plus les supermarchés de la même façon."
+    answers: ["auras lu"]
+    explain: "Прочитать целиком — раньше, чем изменится взгляд → **auras lu**."
+  - q: "D'ici la fin de l'année, la mairie ___ (ouvrir) trois nouveaux marchés bio."
+    answers: ["aura ouvert"]
+    explain: "*D'ici* + срок — действие завершится к моменту в будущем → **aura ouvert**."
+  - q: "On connaîtra la vérité quand la police ___ (interroger) tous les témoins."
+    answers: ["aura interrogé"]
+    explain: "Сначала допросить всех свидетелей, потом узнать правду → **aura interrogé**."
+  - q: "Rappelle-moi dès que tu ___ (prendre) ta décision."
+    answers: ["auras pris"]
+    explain: "Главная часть — императив, придаточное с *dès que* о будущем → futur antérieur: **auras pris**."
+  - q: "Dans deux ans, elle ___ (devenir) cheffe de son propre restaurant."
+    answers: ["sera devenue"]
+    explain: "*Dans deux ans* — к этому моменту действие завершится; *devenir* — с *être*, согласование с *elle*: **sera devenue**."
+  - q: "Après que vous ___ (remplir) le formulaire, vous recevrez un code par e-mail."
+    answers: ["aurez rempli"]
+    explain: "*Après que* + изъявительное; о будущем, действие раньше главного → **aurez rempli**."
+  - q: "Ne t'inquiète pas : quand tu rentreras, j'___ (préparer) le dîner."
+    answers: ["aurai préparé", "aurai déjà préparé"]
+    explain: "К моменту твоего возвращения ужин уже будет готов → futur antérieur **aurai préparé**."
+  - q: "Mes voisins ne sont toujours pas rentrés ? Ils ___ (rester) dîner chez leurs amis."
+    answers: ["seront restés"]
+    explain: "Предположение о том, что уже случилось («наверное, остались») → futur antérieur: **seront restés**."
+  - q: "Quand elles ___ (se reposer), elles reprendront la route."
+    answers: ["se seront reposées"]
+    explain: "Возвратный глагол → *être*, согласование с *elles*: **se seront reposées**."

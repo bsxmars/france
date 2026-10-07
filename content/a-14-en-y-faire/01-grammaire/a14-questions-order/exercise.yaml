@@ -1,0 +1,38 @@
+title: "Собери вопрос"
+type: order
+intro: "Собери вопрос с quand или comment по русскому смыслу. Порядок слов: местоимение — простая инверсия; существительное + дополнение или обстоятельство — сложная инверсия."
+hints:
+  - "Quand vient-il ? Comment travaillez-vous ?"
+  - "Quand ton ami arrive-t-il de Lyon ?"
+  - "С je — est-ce que."
+items:
+  - q: "«Когда вы уезжаете?»"
+    answers: ["Quand partez-vous ?"]
+    explain: "Подлежащее — местоимение → простая инверсия: ***partez-vous***."
+  - q: "«Как он пишет?»"
+    answers: ["Comment écrit-il ?"]
+    explain: "Простая инверсия: *écrit-il* — *t* уже есть, *-t-* не нужно."
+  - q: "«Когда она приезжает?»"
+    answers: ["Quand arrive-t-elle ?"]
+    explain: "*arrive* кончается на гласную → вставка **-t-**: *arrive-t-elle*."
+  - q: "«Какая у тебя комната?»"
+    answers: ["Comment est ta chambre ?", "Comment ta chambre est-elle ?"]
+    explain: "С *être* *comment* = «какой?»; подлежащее-существительное без дополнений → простая инверсия: *est ta chambre*."
+  - q: "«Когда твой брат возвращается из Парижа?»"
+    answers: ["Quand ton frère revient-il de Paris ?"]
+    explain: "Существительное-подлежащее + обстоятельство *de Paris* → только **сложная** инверсия: *ton frère revient-il*."
+  - q: "«Как ученики делают упражнения?»"
+    answers: ["Comment les élèves font-ils les exercices ?", "Comment les élèves font-ils leurs exercices ?"]
+    explain: "Есть прямое дополнение *les exercices* → **сложная** инверсия: *les élèves font-ils*."
+  - q: "«Как я произношу это слово?»"
+    answers: ["Comment est-ce que je prononce ce mot ?"]
+    explain: "С *je* вопрос строят через ***est-ce que***."
+  - q: "«Когда начинается фильм?»"
+    answers: ["Quand commence le film ?", "Quand le film commence-t-il ?"]
+    explain: "Существительное без дополнений → можно простую инверсию (*commence le film*) или сложную (*le film commence-t-il*)."
+  - q: "«Когда вы идёте туда?»"
+    answers: ["Quand y allez-vous ?"]
+    explain: "*y* стоит перед глаголом и в вопросе: ***y allez-vous***."
+  - q: "«Как поживает твоя мама?»"
+    answers: ["Comment va ta mère ?", "Comment ta mère va-t-elle ?"]
+    explain: "*aller* = «поживать»; простая инверсия *va ta mère* (или сложная *ta mère va-t-elle*)."

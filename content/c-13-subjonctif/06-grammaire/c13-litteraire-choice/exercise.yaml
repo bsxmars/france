@@ -1,0 +1,56 @@
+title: "Узнай литературную форму"
+type: choice
+intro: "Прочитай фразу в литературном регистре и выбери верное толкование или современный эквивалент выделенной формы."
+hints:
+  - "qu'il fût / fît / eût — imparfait du subjonctif (с circonflexe); il fut / fit / eut — passé simple."
+  - "eût + participe = plus-que-parfait du subjonctif = conditionnel passé или plus-que-parfait."
+  - "Инверсия без вопроса: eût-il, fût-il, dût-il = даже если."
+items:
+  - q: "« Il fallait qu'il partît avant l'aube. » Современный эквивалент partît:"
+    options: ["parte", "partait", "partirait"]
+    answer: 0
+    explain: "*Il fallait que* + subjonctif; imparfait du subjonctif ***partît*** → в современной речи présent du subjonctif ***parte***."
+  - q: "« Elle regrettait qu'il ne fût pas venu. » Современный эквивалент ne fût pas venu:"
+    options: ["ne soit pas venu", "n'était pas venu", "ne serait pas venu"]
+    answer: 0
+    explain: "Plus-que-parfait du subjonctif (предшествование в прошлом) → в современной речи passé du subjonctif ***ne soit pas venu***."
+  - q: "« Il eût été plus sage d'attendre. » Значит:"
+    options: ["Было бы разумнее подождать.", "Было разумно подождать.", "Было ли разумно подождать?"]
+    answer: 0
+    explain: "*Eût été* = conditionnel passé *aurait été* («было бы»)."
+  - q: "« Il fut surpris qu'on le reconnût. » Какая форма — passé simple?"
+    options: ["fut", "reconnût", "обе"]
+    answer: 0
+    explain: "***Fut*** без circonflexe — passé simple *être*; *reconnût* — imparfait du subjonctif после *surpris que*."
+  - q: "« Venez me voir, ne fût-ce qu'un instant. » Значит:"
+    options: ["хотя бы на минуту", "только не на минуту", "если это была минута"]
+    answer: 0
+    explain: "***Ne fût-ce que*** = «хотя бы»."
+  - q: "« Il ira jusqu'au tribunal, dût-il y consacrer toutes ses économies. » Значит:"
+    options: ["даже если ему придётся потратить все сбережения", "потому что он должен потратить сбережения", "если только он не потратит сбережения"]
+    answer: 0
+    explain: "*Dût-il* — инверсия с imparfait du subjonctif *devoir* = «даже если ему придётся»."
+  - q: "« S'il l'eût voulu, il eût réussi. » Современный эквивалент:"
+    options: ["S'il l'avait voulu, il aurait réussi.", "S'il le voulait, il réussirait.", "S'il l'a voulu, il a réussi."]
+    answer: 0
+    explain: "Plus-que-parfait du subjonctif в обеих частях = *si* + plus-que-parfait / conditionnel passé (нереальное условие в прошлом)."
+  - q: "« Plût au ciel qu'il fût encore parmi nous ! » Это:"
+    options: ["сожаление-пожелание: если бы он был ещё с нами!", "утверждение: он ещё с нами", "вопрос: с нами ли он ещё?"]
+    answer: 0
+    explain: "*Plût au ciel que* (imparfait du subjonctif *plaire*) — нереальное пожелание, «дай бог, чтобы…, но увы»."
+  - q: "« Quoiqu'il eût beaucoup lu, il parlait peu. » eût lu обозначает действие:"
+    options: ["предшествующее главному", "одновременное с главным", "последующее"]
+    answer: 0
+    explain: "Plus-que-parfait du subjonctif выражает **предшествование** в плане прошлого (= *ait lu* в современной речи)."
+  - q: "« Un ministre, fût-il le plus habile, ne peut tout régler seul. » Значит:"
+    options: ["даже будь он самым ловким", "так как он самый ловкий", "был ли он самым ловким"]
+    answer: 0
+    explain: "*Fût-il* — уступительная инверсия = «будь он даже»."
+  - q: "« Elle attendit qu'il eût fini de parler. » Современный эквивалент:"
+    options: ["qu'il ait fini", "qu'il avait fini", "qu'il aurait fini"]
+    answer: 0
+    explain: "*Attendre que* + subjonctif; plus-que-parfait du subjonctif → passé du subjonctif ***ait fini***."
+  - q: "« Il ne trouvait personne qui pût l'aider. » pût — это:"
+    options: ["imparfait du subjonctif de pouvoir", "passé simple de pouvoir", "conditionnel de pouvoir"]
+    answer: 0
+    explain: "Отрицание существования → subjonctif; ***pût*** с circonflexe — imparfait du subjonctif (passé simple — *il put*)."

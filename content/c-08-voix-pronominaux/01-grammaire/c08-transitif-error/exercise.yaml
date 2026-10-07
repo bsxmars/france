@@ -1,0 +1,40 @@
+title: "Управление глагола: найди ошибку"
+type: error
+intro: "В каждом предложении одна ошибка в управлении глагола, в выборе местоимения или вспомогательного глагола. Перепиши предложение правильно."
+hints:
+  - "aider, attendre, écouter, se rappeler — прямое дополнение; obéir, téléphoner, ressembler, se souvenir — косвенное."
+  - "Прямое дополнение у monter, sortir, rentrer, passer → avoir."
+items:
+  - q: "Mon frère m'a demandé si je pouvais lui aider à déménager."
+    answers: ["Mon frère m'a demandé si je pouvais l'aider à déménager."]
+    explain: "*Aider qn* — прямое дополнение: **l'aider**, не *lui*."
+  - q: "Ces enfants n'obéissent jamais leurs parents."
+    answers: ["Ces enfants n'obéissent jamais à leurs parents."]
+    explain: "*Obéir **à** qn* — косвенное управление."
+  - q: "Je me rappelle de notre première rencontre."
+    answers: ["Je me rappelle notre première rencontre.", "Je me souviens de notre première rencontre."]
+    explain: "*Se rappeler qch* — прямо-переходный; с *de* — *se souvenir de*."
+  - q: "Elle ressemble beaucoup sa grand-mère."
+    answers: ["Elle ressemble beaucoup à sa grand-mère."]
+    explain: "*Ressembler **à** qn*."
+  - q: "Nous avons attendu pour le bus pendant une demi-heure."
+    answers: ["Nous avons attendu le bus pendant une demi-heure."]
+    explain: "*Attendre qn / qch* — без предлога (калька с английского *wait for* или русского «ждать чего»)."
+  - q: "Il est sorti la voiture du garage."
+    answers: ["Il a sorti la voiture du garage."]
+    explain: "У *sortir* есть прямое дополнение *la voiture* → **avoir**."
+  - q: "Je l'ai téléphoné hier soir, mais il n'a pas répondu."
+    answers: ["Je lui ai téléphoné hier soir, mais il n'a pas répondu."]
+    explain: "*Téléphoner **à** qn* → местоимение **lui**."
+  - q: "Le médecin lui a conseillé de renoncer le tabac."
+    answers: ["Le médecin lui a conseillé de renoncer au tabac."]
+    explain: "*Renoncer **à** qch* → *au tabac*."
+  - q: "Les nouvelles mesures risquent de nuire les petites entreprises."
+    answers: ["Les nouvelles mesures risquent de nuire aux petites entreprises."]
+    explain: "*Nuire **à** qn / qch* → *aux petites entreprises*."
+  - q: "Après la fête, ils ont rentré très tard."
+    answers: ["Après la fête, ils sont rentrés très tard."]
+    explain: "Без прямого дополнения *rentrer* спрягается с **être**: *ils sont rentrés*."
+  - q: "J'ai assisté la conférence du professeur Martin."
+    answers: ["J'ai assisté à la conférence du professeur Martin."]
+    explain: "*Assister **à** qch* «присутствовать»; *assister qn* значит «помогать, ассистировать»."

@@ -1,0 +1,68 @@
+title: "Едва… как, как только, только что"
+type: transform
+intro: "Перестрой предложение с **ключевым словом**. Книжный рассказ — passé antérieur и инверсия после à peine; косвенная речь — venait de; разговор — passé composé."
+hints:
+  - "À peine + passé antérieur с инверсией… que + passé simple."
+  - "Существительное-подлежащее при инверсии: à peine le rideau fut-il tombé que…"
+  - "Vient de → venait de, если точка отсчёта в прошлом."
+items:
+  - q: "Il entra dans la salle. Aussitôt, tout le monde se tut."
+    key: "DÈS QUE"
+    stem: "___ dans la salle, tout le monde se tut."
+    answers: ["Dès qu'il fut entré", "Dès qu'il entra"]
+    explain: "Книжная пара: ***Dès qu'il fut entré**…, tout le monde se tut.* Passé simple (*dès qu'il entra*) тоже возможен, но passé antérieur точнее передаёт «сразу после»."
+  - q: "Dès qu'il eut posé le pied sur le quai, le train repartit."
+    key: "À PEINE"
+    stem: "___ que le train repartit."
+    answers: ["À peine eut-il posé le pied sur le quai"]
+    explain: "*À peine* в начале → инверсия местоимения: ***À peine eut-il posé** le pied… **que**…*"
+  - q: "Quand la cloche eut sonné, les élèves se ruèrent dans la cour."
+    key: "À PEINE"
+    stem: "___ que les élèves se ruèrent dans la cour."
+    answers: ["À peine la cloche eut-elle sonné"]
+    explain: "Подлежащее — существительное → сложная инверсия: ***À peine la cloche eut-elle sonné**…*"
+  - q: "Aussitôt qu'elle eut signé la lettre, elle la déchira."
+    key: "À PEINE"
+    stem: "___ qu'elle la déchira."
+    answers: ["À peine eut-elle signé la lettre"]
+    explain: "***À peine eut-elle signé** la lettre **qu'**elle la déchira* — «едва она подписала письмо, как разорвала его»."
+  - q: "Le chef d'orchestre leva sa baguette ; aussitôt, le silence se fit."
+    key: "AUSSITÔT QUE"
+    stem: "___ sa baguette, le silence se fit."
+    answers: ["Aussitôt que le chef d'orchestre eut levé", "Aussitôt que le chef d'orchestre leva"]
+    explain: "***Aussitôt que le chef d'orchestre eut levé**…* — passé antérieur в придаточном, passé simple в главном."
+  - q: "Il a dit : « Je viens de trouver un appartement. »"
+    key: "VENAIT"
+    stem: "Il m'a dit qu'il ___ un appartement."
+    answers: ["venait de trouver"]
+    explain: "В косвенной речи после прошедшего *vient de* → ***venait de trouver***."
+  - q: "Elle a écrit : « Nous venons d'adopter un chien. »"
+    key: "VENAIENT"
+    stem: "Elle a écrit qu'ils ___ un chien."
+    answers: ["venaient d'adopter"]
+    explain: "Согласование времён: *venons d'adopter* → ***venaient d'adopter***."
+  - q: "Il avait juste fini de dîner quand on l'appela au téléphone."
+    key: "VENAIT"
+    stem: "Il ___ quand on l'appela au téléphone."
+    answers: ["venait de dîner", "venait de finir de dîner", "venait de finir son dîner"]
+    explain: "«Только что» перед другим прошедшим → plus-que-parfait immédiat: ***venait de dîner***."
+  - q: "Les invités arrivèrent et l'on servit aussitôt l'apéritif."
+    key: "DÈS QUE"
+    stem: "___, on servit l'apéritif."
+    answers: ["Dès que les invités furent arrivés", "Dès que les invités arrivèrent"]
+    explain: "*Arriver* спрягается с *être* → passé antérieur ***furent arrivés*** (согласование с *les invités*)."
+  - q: "Les randonneurs marchèrent deux heures, puis ils atteignirent le refuge."
+    key: "APRÈS QUE"
+    stem: "___ deux heures, ils atteignirent le refuge."
+    answers: ["Après qu'ils eurent marché", "Après que les randonneurs eurent marché"]
+    explain: "*Après que* + indicatif (не субъюнктив!), в паре с passé simple → ***après qu'ils eurent marché***."
+  - q: "Il comprit la situation immédiatement."
+    key: "EUT"
+    stem: "En un instant, il ___ la situation."
+    answers: ["eut compris"]
+    explain: "Passé antérieur в самостоятельном предложении с *en un instant* подчёркивает мгновенное завершение: ***eut compris***."
+  - q: "Разговор: « J'ai reçu ton SMS et je suis parti tout de suite. »"
+    key: "DÈS QUE"
+    stem: "___, je suis parti."
+    answers: ["Dès que j'ai reçu ton SMS", "Dès que j'ai reçu ton message"]
+    explain: "В устной речи вместо пары passé antérieur + passé simple — два passé composé: ***Dès que j'ai reçu** ton SMS, je suis parti.*"

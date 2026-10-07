@@ -1,0 +1,69 @@
+title: "Упрекни или пожалей"
+type: transform
+intro: |
+  Выскажи упрёк или сожаление в conditionnel passé с **ключевым словом**. Впиши недостающую часть.
+hints:
+  - "aurais dû / aurais pu / aurait fallu / aurais aimé / aurais préféré + инфинитив без предлога."
+  - "Отрицание обнимает вспомогательный глагол: je n'aurais pas dû…"
+  - "Другое подлежащее → que + subjonctif."
+items:
+  - q: "Tu n'as pas fermé la fenêtre et le chauffage a marché toute la nuit."
+    key: "DÛ"
+    stem: "Tu ___ la fenêtre."
+    answers: ["aurais dû fermer"]
+    explain: "Упрёк → ***aurais dû** + infinitif*: *tu aurais dû fermer*."
+  - q: "Je n'ai pas pris le train ; maintenant je suis bloqué dans les bouchons."
+    key: "DÛ"
+    stem: "J'___ le train."
+    answers: ["aurais dû prendre"]
+    explain: "Сожаление о своём решении → ***j'aurais dû** prendre*."
+  - q: "Vous avez jeté ces bouteilles avec les ordures ! Il y avait une poubelle de tri."
+    key: "PU"
+    stem: "Vous ___ dans la poubelle de tri !"
+    answers: ["auriez pu les jeter", "auriez pu jeter ces bouteilles", "auriez pu jeter les bouteilles"]
+    explain: "Упрёк «могли бы и…» → ***auriez pu** les jeter*; местоимение — перед инфинитивом."
+  - q: "La mairie n'a pas consulté les habitants avant de couper les arbres."
+    key: "FALLU"
+    stem: "Il ___ les habitants avant de couper les arbres."
+    answers: ["aurait fallu consulter"]
+    explain: "Безличный упрёк → ***il aurait fallu** consulter*."
+  - q: "La mairie n'a pas consulté les habitants avant de couper les arbres."
+    key: "QUE"
+    stem: "Il aurait fallu ___ les habitants."
+    answers: ["que la mairie consulte", "que la mairie ait consulté", "qu'elle consulte", "qu'elle ait consulté"]
+    explain: "*Il aurait fallu que* + subjonctif (présent или passé): *que la mairie **consulte*** / ***ait consulté***."
+  - q: "Je ne suis pas allé à la manifestation pour le climat. Je le regrette."
+    key: "AIMÉ"
+    stem: "J'___ à la manifestation pour le climat."
+    answers: ["aurais aimé aller", "aurais bien aimé aller", "aurais aimé participer"]
+    explain: "Сожаление → ***j'aurais aimé** aller* — без предлога *de*."
+  - q: "Mon frère a acheté une voiture diesel ; moi, je voulais qu'il achète une électrique."
+    key: "PRÉFÉRÉ"
+    stem: "J'___ une électrique."
+    answers: ["aurais préféré qu'il achète", "aurais préféré qu'il ait acheté", "aurais préféré qu'il en achète", "aurais préféré qu'il en ait acheté"]
+    explain: "Другое подлежащее → ***j'aurais préféré qu'il achète*** (subjonctif)."
+  - q: "J'ai dit à tout le monde que le projet était annulé. C'était une erreur."
+    key: "PAS"
+    stem: "Je ___ à tout le monde."
+    answers: ["n'aurais pas dû le dire", "n'aurais pas dû dire ça", "n'aurais pas dû en parler"]
+    explain: "Сожаление в отрицании: ***je n'aurais pas dû** le dire* — *ne… pas* обнимает *aurais*."
+  - q: "Les politiques n'ont pas mis en place de mesures préventives."
+    key: "PU"
+    stem: "Les politiques ___ des mesures préventives."
+    answers: ["auraient pu mettre en place"]
+    explain: "Упрёк третьим лицам → ***auraient pu** mettre en place*."
+  - q: "Nous n'avons pas planté d'arbres dans la cour de l'école. Dommage !"
+    key: "VOULU"
+    stem: "Nous ___ des arbres dans la cour de l'école."
+    answers: ["aurions voulu planter", "aurions bien voulu planter"]
+    explain: "Сожаление → ***aurions voulu** planter*."
+  - q: "Tu ne m'as pas prévenu que la réunion était annulée !"
+    key: "DÛ"
+    stem: "Tu ___ que la réunion était annulée !"
+    answers: ["aurais dû me prévenir", "aurais dû me dire"]
+    explain: "Упрёк → ***tu aurais dû** me prévenir*; местоимение *me* перед инфинитивом."
+  - q: "Elle n'a pas posé sa candidature au conseil de quartier. Elle le regrette."
+    key: "DÛ"
+    stem: "Elle ___ sa candidature au conseil de quartier."
+    answers: ["aurait dû poser"]
+    explain: "Сожаление о чужом решении → ***aurait dû** poser*."

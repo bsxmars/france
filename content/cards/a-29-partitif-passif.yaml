@@ -1,0 +1,48 @@
+- id: a29-partitif-formes
+  lesson: a-29-partitif-passif/01-grammaire
+  q: "Формы частичного артикля и когда он нужен?"
+  a: "*du* (м. р.), *de la* (ж. р.), *de l'* (перед гласной); неопределённое количество вещества или понятия: *du pain, de la patience, de l'eau*."
+- id: a29-partitif-defini
+  lesson: a-29-partitif-passif/01-grammaire
+  q: "«Я пью чай» и «Я люблю чай»."
+  a: "*Je bois **du** thé* (какое-то количество) — *J'aime **le** thé* (вообще; после aimer, adorer, préférer — определённый артикль)."
+- id: a29-partitif-de
+  lesson: a-29-partitif-passif/01-grammaire
+  q: "Когда du / de la / des превращаются в de?"
+  a: "После отрицания: *pas **de** café*; после слов количества: *beaucoup **de** sucre, un kilo **de** pommes*; после *de*-оборотов: *besoin **d'argent**, couvert **de** neige*. Но: *ce n'est pas **du** vin*."
+- id: a29-faire-du
+  lesson: a-29-partitif-passif/01-grammaire
+  q: "«Заниматься спортом», «кататься на велосипеде», «ветрено»."
+  a: "*faire **du** sport, faire **du** vélo, il fait **du** vent*."
+- id: a29-passif-forme
+  lesson: a-29-partitif-passif/01-grammaire
+  q: "Как образуется страдательная форма?"
+  a: "**être** в нужном времени + participe passé, согласованное с подлежащим: *elle est invitée, elle a été invitée, elle sera invitée*."
+- id: a29-passif-par-de
+  lesson: a-29-partitif-passif/01-grammaire
+  q: "*Par* или *de* перед исполнителем в пассиве?"
+  a: "**par** — активный исполнитель: *écrit par Hugo*; **de** — чувства и состояние: *aimé de tous, couvert de neige, entouré d'arbres*."
+- id: a29-passif-on
+  lesson: a-29-partitif-passif/01-grammaire
+  q: "«Мне подарили книгу» — можно ли *Je suis offert…*?"
+  a: "Нет: подлежащим пассива становится только прямое дополнение. *On m'a offert un livre* / *Un livre m'a été offert*."
+- id: a29-pluriel-al-eau
+  lesson: a-29-partitif-passif/02-grammaire
+  q: "Множественное число: journal, bateau, jeu, nez, bal, pneu."
+  a: "*journaux, bateaux, jeux, nez, bals, pneus*."
+- id: a29-pluriel-exceptions
+  lesson: a-29-partitif-passif/02-grammaire
+  q: "Множественное число: travail, œil, genou, monsieur, détail."
+  a: "*travaux, yeux, genoux, messieurs, détails*."
+- id: a29-ouvrir
+  lesson: a-29-partitif-passif/02-grammaire
+  q: "*Ouvrir*: présent, impératif (tu), participe passé."
+  a: "*j'ouvre, tu ouvres, il ouvre, nous ouvrons, vous ouvrez, ils ouvrent*; *Ouvre !* (без -s); *ouvert* (так же *offert, couvert, souffert*)."
+- id: a29-devoir
+  lesson: a-29-partitif-passif/02-grammaire
+  q: "Проспрягай *devoir* в présent; participe passé и futur?"
+  a: "*je dois, tu dois, il doit, nous devons, vous devez, ils doivent*; *dû*; *je devrai*."
+- id: a29-devoir-sens
+  lesson: a-29-partitif-passif/02-grammaire
+  q: "«Мне пришлось уйти», «Он, должно быть, устал», «Я тебе должен 10 евро»."
+  a: "*J'**ai dû** partir. Il **doit** être fatigué. Je te **dois** dix euros.*"

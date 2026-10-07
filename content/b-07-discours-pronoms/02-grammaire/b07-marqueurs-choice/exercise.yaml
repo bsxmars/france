@@ -1,0 +1,51 @@
+title: "Указатели времени и места"
+type: choice
+intro: "Разговор был давно (несколько месяцев назад). Выбери, как передать указатель времени или места в пересказе."
+hints:
+  - "demain → le lendemain, hier → la veille, aujourd'hui → ce jour-là, ici → là."
+  - "prochain → suivant, dernier → précédent; il y a… → … plus tôt; dans… → … plus tard."
+items:
+  - q: "« Je commence demain. » → Elle m'a dit qu'elle commençait ___."
+    options: ["demain", "le lendemain", "la veille"]
+    answer: 1
+    explain: "*Demain* → **le lendemain** (следующий день после момента речи)."
+  - q: "« J'ai rencontré le client hier. » → Il a expliqué qu'il avait rencontré le client ___."
+    options: ["la veille", "le lendemain", "hier"]
+    answer: 0
+    explain: "*Hier* → **la veille** (накануне)."
+  - q: "« Aujourd'hui, je suis seul au bureau. » → Il m'a écrit que ___, il était seul au bureau."
+    options: ["aujourd'hui", "ce jour-là", "ce jour-ci"]
+    answer: 1
+    explain: "*Aujourd'hui* → **ce jour-là**."
+  - q: "« Le contrat se termine le mois prochain. » → On m'a annoncé que le contrat se terminait ___."
+    options: ["le mois dernier", "le mois précédent", "le mois suivant"]
+    answer: 2
+    explain: "*Prochain* → **suivant**: *le mois suivant*."
+  - q: "« J'ai été embauchée il y a deux semaines. » → Elle m'a raconté qu'elle avait été embauchée ___."
+    options: ["deux semaines plus tôt", "dans deux semaines", "deux semaines plus tard"]
+    answer: 0
+    explain: "*Il y a deux semaines* → **deux semaines plus tôt** (или *auparavant*)."
+  - q: "« Je pars en mission dans trois jours. » → Il a annoncé qu'il partait en mission ___."
+    options: ["il y a trois jours", "trois jours plus tard", "trois jours plus tôt"]
+    answer: 1
+    explain: "*Dans trois jours* → **trois jours plus tard** (или *trois jours après*)."
+  - q: "« Ici, tout le monde se tutoie. » → Elle m'a expliqué que ___, tout le monde se tutoyait."
+    options: ["ici", "là-bas", "là-dessus"]
+    answer: 1
+    explain: "*Ici* → **là-bas** / *là*: место говорящего — не наше место."
+  - q: "« Ce soir, je dîne avec mon équipe. » → Il m'a dit que ___, il dînait avec son équipe."
+    options: ["ce soir-là", "ce soir", "la veille au soir"]
+    answer: 0
+    explain: "*Ce soir* → **ce soir-là**."
+  - q: "« La réunion a eu lieu lundi dernier. » → Elle a précisé que la réunion avait eu lieu ___."
+    options: ["le lundi suivant", "lundi prochain", "le lundi précédent"]
+    answer: 2
+    explain: "*Dernier* → **précédent**: *le lundi précédent*."
+  - q: "« Maintenant, je travaille à domicile. » → Il m'a confié qu'___, il travaillait à domicile."
+    options: ["à ce moment-là", "maintenant-là", "à présent-là"]
+    answer: 0
+    explain: "*Maintenant* → **à ce moment-là** (или *alors*). *Maintenant-là* не существует."
+  - q: "Разговор был сегодня утром: « Je t'appelle demain. » Как естественнее пересказать сейчас?"
+    options: ["Il m'a dit qu'il m'appellerait demain.", "Il m'a dit qu'il m'appellerait la veille.", "Il m'a dit qu'il m'appelait hier."]
+    answer: 0
+    explain: "Разговор был сегодня — «завтра» для нас всё ещё **demain**, сдвигать указатель не нужно. Время всё равно согласуется: *appellerait*."

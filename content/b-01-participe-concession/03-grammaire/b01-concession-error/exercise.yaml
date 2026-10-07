@@ -1,0 +1,37 @@
+title: "Найди ошибку в связке"
+type: error
+intro: "В каждом предложении **одна** ошибка: неверное наклонение после связки, связка не с той частью речи или не тот смысл. Исправь её и отправь предложение целиком (есть несколько верных исправлений — подойдёт любое)."
+hints:
+  - "bien que, quoique + subjonctif; même si, alors que + indicatif; malgré + существительное."
+  - "Après même si — никаких futur и conditionnel."
+items:
+  - q: "Bien qu'il est très fatigué, il continue à travailler."
+    answers: ["Bien qu'il soit très fatigué, il continue à travailler.", "Même s'il est très fatigué, il continue à travailler."]
+    explain: "*Bien que* требует **subjonctif**: *bien qu'il **soit***. Или замени связку: *même s'il est*."
+  - q: "Même s'il fasse beau demain, nous resterons à la maison."
+    answers: ["Même s'il fait beau demain, nous resterons à la maison.", "Bien qu'il fasse beau demain, nous resterons à la maison."]
+    explain: "*Même si* + **indicatif**, причём présent даже о будущем: *même s'il **fait** beau demain*."
+  - q: "Malgré il pleuvait, les enfants jouaient dehors."
+    answers: ["Bien qu'il pleuve, les enfants jouaient dehors.", "Même s'il pleuvait, les enfants jouaient dehors.", "Malgré la pluie, les enfants jouaient dehors.", "Bien qu'il plût, les enfants jouaient dehors."]
+    explain: "*Malgré* — предлог, после него существительное: ***malgré la pluie***. С предложением — *bien qu'il pleuve* или *même s'il pleuvait*."
+  - q: "Même s'il pleuvra, le marché aura lieu."
+    answers: ["Même s'il pleut, le marché aura lieu."]
+    explain: "После *si* (и *même si*) futur невозможен → présent: *même s'il **pleut***."
+  - q: "Quoiqu'elle a beaucoup d'amis, elle se sent souvent seule."
+    answers: ["Quoiqu'elle ait beaucoup d'amis, elle se sent souvent seule.", "Bien qu'elle ait beaucoup d'amis, elle se sent souvent seule.", "Même si elle a beaucoup d'amis, elle se sent souvent seule."]
+    explain: "*Quoique* = *bien que* + **subjonctif**: *quoiqu'elle **ait***."
+  - q: "Il a refusé ce poste bien qu'on lui proposait un très bon salaire."
+    answers: ["Il a refusé ce poste bien qu'on lui propose un très bon salaire.", "Il a refusé ce poste bien qu'on lui ait proposé un très bon salaire.", "Il a refusé ce poste alors qu'on lui proposait un très bon salaire.", "Il a refusé ce poste même si on lui proposait un très bon salaire.", "Il a refusé ce poste bien qu'on lui proposât un très bon salaire."]
+    explain: "*Bien que* + **subjonctif** и в рассказе о прошлом: *bien qu'on lui **propose*** (или *ait proposé*). Imparfait возможен после *alors que* или *même si*."
+  - q: "Nous avons beau d'insister, il refuse de venir."
+    answers: ["Nous avons beau insister, il refuse de venir."]
+    explain: "*Avoir beau* + инфинитив **без предлога**: *nous avons beau **insister***."
+  - q: "Au lieu de il prend le métro, il marche une heure chaque matin."
+    answers: ["Au lieu de prendre le métro, il marche une heure chaque matin."]
+    explain: "*Au lieu de* + **инфинитив**: *au lieu de **prendre** le métro*."
+  - q: "Contrairement que son frère, Hugo adore les maths."
+    answers: ["Contrairement à son frère, Hugo adore les maths."]
+    explain: "*Contrairement* требует предлога **à**: *contrairement **à** son frère*."
+  - q: "Bien que tu as raison, je ne changerai pas d'avis."
+    answers: ["Bien que tu aies raison, je ne changerai pas d'avis.", "Même si tu as raison, je ne changerai pas d'avis.", "Quoique tu aies raison, je ne changerai pas d'avis."]
+    explain: "*Bien que* + **subjonctif**: *bien que tu **aies** raison*."

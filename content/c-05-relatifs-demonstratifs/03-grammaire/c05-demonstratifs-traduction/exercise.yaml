@@ -1,0 +1,44 @@
+title: "Переведи на французский: указательные местоимения"
+type: gap
+intro: "Переведи фразу целиком, используя указательное местоимение (*celui, celle-ci, cela…*). Пунктуация не важна, акценты — важны."
+hints:
+  - "«…чем у Марка / чем компьютер Марка» → que celui de Marc."
+  - "«Тот, кто…», «те, кто…» → celui qui, ceux qui."
+  - "«Последний» о втором из двух названных → celui-ci / celle-ci (= ce dernier)."
+items:
+  - q: "Мой телефон новее, чем у Анны."
+    answers: ["Mon téléphone est plus récent que celui d'Anne.", "Mon portable est plus récent que celui d'Anne.", "Mon téléphone est plus neuf que celui d'Anne.", "Mon portable est plus neuf que celui d'Anne."]
+    explain: "«Чем (телефон) Анны» → **celui d'Anne**; повторять *téléphone* не нужно."
+  - q: "Те, кто опоздает, не смогут войти."
+    answers: ["Ceux qui arriveront en retard ne pourront pas entrer.", "Ceux qui seront en retard ne pourront pas entrer."]
+    explain: "Обобщённое «те, кто» → **ceux qui**; в придаточном времени будущее — futur."
+  - q: "Эта книга не та, о которой я тебе говорил."
+    answers: ["Ce livre n'est pas celui dont je t'ai parlé.", "Ce n'est pas le livre dont je t'ai parlé."]
+    explain: "«Та, о которой» → **celui dont** (*livre* м. р., *parler de* → *dont*)."
+  - q: "Я позвонил врачу, но тот не ответил."
+    answers: ["J'ai appelé le médecin, mais celui-ci n'a pas répondu.", "J'ai téléphoné au médecin, mais celui-ci n'a pas répondu.", "J'ai appelé le médecin mais celui-ci n'a pas répondu.", "J'ai téléphoné au médecin mais celui-ci n'a pas répondu."]
+    explain: "«Тот» = последний названный → **celui-ci** (*celui-là* в этом значении невозможно)."
+  - q: "Из двух дорог я выбираю ту, что идёт вдоль реки."
+    answers: ["Des deux routes, je choisis celle qui longe la rivière.", "Des deux routes, je choisis celle qui va le long de la rivière.", "Des deux chemins, je choisis celui qui longe la rivière.", "Entre les deux routes, je choisis celle qui longe la rivière."]
+    explain: "Простая форма + *qui*: **celle qui** longe la rivière."
+  - q: "Это меня совсем не удивляет."
+    answers: ["Cela ne m'étonne pas du tout.", "Ça ne m'étonne pas du tout.", "Cela ne me surprend pas du tout.", "Ça ne me surprend pas du tout."]
+    explain: "Подлежащее при глаголе, отличном от *être* → **cela** (разговорно *ça*), а не *ce*."
+  - q: "Это, должно быть, ошибка."
+    answers: ["Ce doit être une erreur.", "Ça doit être une erreur.", "Cela doit être une erreur.", "C'est sans doute une erreur."]
+    explain: "*Ce* возможен при *devoir + être*: **Ce doit être** une erreur; разговорно — *ça doit être*."
+  - q: "Запомните следующее: никто не выходит до конца экзамена."
+    answers: ["Retenez ceci : personne ne sort avant la fin de l'examen.", "Retenez bien ceci : personne ne sort avant la fin de l'examen.", "Retenez ceci : personne ne sort avant la fin de l'épreuve.", "Souvenez-vous de ceci : personne ne sort avant la fin de l'examen."]
+    explain: "Местоимение объявляет последующее → **ceci**."
+  - q: "Он врач. Это прекрасный врач."
+    answers: ["Il est médecin. C'est un excellent médecin.", "Il est médecin. C'est un très bon médecin.", "Il est médecin, c'est un excellent médecin.", "Il est médecin, c'est un très bon médecin."]
+    explain: "Профессия без артикля → **il est** médecin; существительное с артиклем и прилагательным → **c'est un** excellent médecin."
+  - q: "Ну вот, готово, можно идти!"
+    answers: ["Ça y est, on peut y aller !", "Ça y est, on peut partir !", "Ça y est, nous pouvons partir !", "Ça y est, on peut y aller."]
+    explain: "«Ну вот, готово» → **ça y est**."
+  - q: "Мои взгляды отличаются от взглядов моих родителей."
+    answers: ["Mes opinions sont différentes de celles de mes parents.", "Mes idées sont différentes de celles de mes parents.", "Mes opinions diffèrent de celles de mes parents.", "Mes idées diffèrent de celles de mes parents.", "Mes points de vue sont différents de ceux de mes parents.", "Mes points de vue diffèrent de ceux de mes parents."]
+    explain: "«Взглядов родителей» → **celles de** mes parents (*opinions, idées* ж. р.) или **ceux de** (*points de vue*)."
+  - q: "Возьми тот чемодан, что поменьше."
+    answers: ["Prends la valise la plus petite.", "Prends la plus petite valise.", "Prends la plus petite.", "Prends celle qui est la plus petite.", "Prends la petite valise.", "Prends la petite."]
+    explain: "После *celle* нельзя ставить голое прилагательное (~~celle petite~~): **la plus petite** (valise) или *celle qui est la plus petite*."

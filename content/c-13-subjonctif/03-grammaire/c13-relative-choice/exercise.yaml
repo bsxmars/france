@@ -1,0 +1,56 @@
+title: "Оценка или факт?"
+type: choice
+intro: "Выбери форму, которая подходит по смыслу и по норме письменной речи. Спроси себя: предмет утверждается как реальный и проверяемый факт — или его ищут, отрицают, о нём спрашивают, его оценивают?"
+hints:
+  - "le plus…, le seul, le premier, le dernier, ne… que + qui / que → обычно subjonctif."
+  - "Объективный факт, расписание, конкретный эпизод → indicatif."
+  - "personne / rien / aucun / y a-t-il / connaissez-vous… qui → subjonctif."
+items:
+  - q: "C'est le discours le plus courageux qu'un ministre ___ jamais prononcé."
+    options: ["a", "ait", "avait"]
+    answer: 1
+    explain: "Superlatif + *jamais* → subjonctif: ***ait*** prononcé."
+  - q: "Je ne connais aucune entreprise qui ___ ses employés aussi bien."
+    options: ["traite", "traitait", "traitera"]
+    answer: 0
+    explain: "Отрицание существования (*aucune entreprise qui*) → subjonctif ***traite*** (форма совпадает с indicatif)."
+  - q: "Paris est la ville qui ___ le plus de touristes en France, selon les statistiques."
+    options: ["attire", "attirât", "ait attiré"]
+    answer: 0
+    explain: "Статистический факт (*selon les statistiques*) → indicatif: ***attire***."
+  - q: "Y a-t-il un médecin parmi vous qui ___ intervenir ?"
+    options: ["peut", "puisse", "pouvait"]
+    answer: 1
+    explain: "Вопрос о существовании → subjonctif: ***puisse***."
+  - q: "Il y a dans cette équipe une personne qui ___ le japonais."
+    options: ["sache", "sait", "ait su"]
+    answer: 1
+    explain: "Существование утверждается → indicatif: ***sait***."
+  - q: "Il n'y a que toi qui ___ me faire rire dans un moment pareil."
+    options: ["saches", "sais", "saurais"]
+    answer: 0
+    explain: "*Ne… que* — ограничение, близкое к *le seul* → subjonctif: ***saches***."
+  - q: "C'est la seule fois où je ___ vraiment peur, c'était en 2015."
+    options: ["aie eu", "ai eu", "eusse"]
+    answer: 1
+    explain: "Констатация конкретного эпизода (*c'était en 2015*) → indicatif: ***ai eu***."
+  - q: "Nous cherchons un logement qui ___ proche d'une école."
+    options: ["est", "soit", "sera"]
+    answer: 1
+    explain: "Поиск + неопределённый артикль → subjonctif: ***soit***."
+  - q: "Nous avons enfin trouvé le logement qui ___ proche de l'école de notre fils."
+    options: ["est", "soit", "fût"]
+    answer: 0
+    explain: "Жильё найдено, определённый артикль → indicatif: ***est***."
+  - q: "C'est le premier film de ce réalisateur que je ___ vraiment."
+    options: ["aime", "aimais", "aimerai"]
+    answer: 0
+    explain: "*Le premier… que* → subjonctif ***aime*** (у *-er* совпадает с indicatif)."
+  - q: "Je ne vois pas d'argument qui ___ me faire changer d'avis."
+    options: ["puisse", "peut", "a pu"]
+    answer: 0
+    explain: "Отрицание существования (*je ne vois pas de… qui*) → subjonctif: ***puisse***."
+  - q: "Il n'y a guère de musées qui ___ ouverts le lundi."
+    options: ["sont", "soient", "seraient"]
+    answer: 1
+    explain: "*Il n'y a guère* — скрытое отрицание → в норме письменной речи subjonctif: ***soient***."

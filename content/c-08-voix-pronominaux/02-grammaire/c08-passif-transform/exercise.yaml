@@ -1,0 +1,68 @@
+title: "Переведи в пассив"
+type: transform
+intro: "Перефразируй предложение в пассиве, сохранив время. Впиши недостающую часть."
+hints:
+  - "Время передаёт être; причастие согласуется с подлежащим."
+  - "devoir / pouvoir / aller / venir de + être + причастие."
+  - "Подлежащее on → агента нет."
+items:
+  - q: "Un jeune architecte a dessiné ce pont."
+    key: "passif"
+    stem: "Ce pont ___ par un jeune architecte."
+    answers: ["a été dessiné"]
+    explain: "Passé composé актива → *a été* + причастие: *a été dessiné*."
+  - q: "On fermera la piscine pendant les travaux."
+    key: "passif"
+    stem: "La piscine ___ pendant les travaux."
+    answers: ["sera fermée"]
+    explain: "Futur → *sera*; *on* исчезает; *fermée* согласуется с *la piscine*."
+  - q: "Ses voisins l'estiment beaucoup."
+    key: "passif + de"
+    stem: "Il ___ ses voisins."
+    answers: ["est beaucoup estimé de", "est très estimé de", "est beaucoup estimé par"]
+    explain: "Глагол отношения *estimer* → агент чаще с **de**: *il est beaucoup estimé de ses voisins*."
+  - q: "On doit envoyer les dossiers avant vendredi."
+    key: "passif"
+    stem: "Les dossiers ___ avant vendredi."
+    answers: ["doivent être envoyés"]
+    explain: "Модальный глагол остаётся, в пассив ставится инфинитив: *doivent être envoyés*."
+  - q: "On vient de restaurer la cathédrale."
+    key: "passif"
+    stem: "La cathédrale ___."
+    answers: ["vient d'être restaurée"]
+    explain: "*Venir de* + *être* + причастие: *vient d'être restaurée*."
+  - q: "Le maire inaugura la nouvelle bibliothèque en 1998."
+    key: "passif (passé simple)"
+    stem: "La nouvelle bibliothèque ___ par le maire en 1998."
+    answers: ["fut inaugurée"]
+    explain: "Passé simple → *fut* + причастие: *fut inaugurée*."
+  - q: "Des centaines de bénévoles avaient préparé la fête."
+    key: "passif"
+    stem: "La fête ___ par des centaines de bénévoles."
+    answers: ["avait été préparée"]
+    explain: "Plus-que-parfait → *avait été* + *préparée*."
+  - q: "Une épaisse couche de neige couvrait les toits."
+    key: "passif + de"
+    stem: "Les toits ___ une épaisse couche de neige."
+    answers: ["étaient couverts d'"]
+    explain: "*Couvrir* — описание состояния → **de**, элизия перед *une*: *couverts d'une épaisse couche*."
+  - q: "Il faut que le directeur signe ce contrat."
+    key: "passif (subjonctif)"
+    stem: "Il faut que ce contrat ___ par le directeur."
+    answers: ["soit signé"]
+    explain: "Subjonctif présent пассива: *soit signé*."
+  - q: "On va annoncer les résultats à midi."
+    key: "passif"
+    stem: "Les résultats ___ à midi."
+    answers: ["vont être annoncés"]
+    explain: "*Aller* + *être* + причастие: *vont être annoncés*."
+  - q: "Ses parents l'accompagnaient toujours à l'école."
+    key: "passif"
+    stem: "Elle ___ à l'école par ses parents."
+    answers: ["était toujours accompagnée"]
+    explain: "Imparfait → *était*; *toujours* между *était* и причастием; *accompagnée* (ж. р.). Здесь конкретное действие, поэтому *par*."
+  - q: "On aura réparé la route avant l'hiver."
+    key: "passif"
+    stem: "La route ___ avant l'hiver."
+    answers: ["aura été réparée"]
+    explain: "Futur antérieur → *aura été* + *réparée*."

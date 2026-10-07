@@ -1,0 +1,28 @@
+- id: a17-qui-quest-ce-qui
+  lesson: a-17-question-nombres/01-grammaire
+  q: "Вопрос к подлежащему: «Кто поёт?» и «Что шумит?»"
+  a: "*Qui (qui est-ce qui) chante ?* — о человеке; *Qu'est-ce qui fait du bruit ?* — о предмете. Глагол — в 3-м лице ед. ч."
+- id: a17-qui-que
+  lesson: a-17-question-nombres/01-grammaire
+  q: "*Qu'est-ce qui* или *qu'est-ce que*?"
+  a: "*qui* — если дальше сразу глагол (что-то делает само): *qu'est-ce **qui** se passe ?*; *que* — если дальше подлежащее: *qu'est-ce **que** tu fais ?*"
+- id: a17-70-90
+  lesson: a-17-question-nombres/01-grammaire
+  q: "70, 71, 80, 81, 90, 91 по-французски?"
+  a: "*soixante-dix, soixante **et** onze, quatre-vingt**s**, quatre-vingt-un, quatre-vingt-dix, quatre-vingt-onze*."
+- id: a17-vingt-cent-s
+  lesson: a-17-question-nombres/01-grammaire
+  q: "Когда *vingt* и *cent* пишутся с -s?"
+  a: "Когда они умножены и после них нет числа: *quatre-vingt**s***, *deux cent**s***. Но *quatre-vingt-deux*, *deux cent dix*. *Mille* не меняется: *deux mille*."
+- id: a17-endre
+  lesson: a-17-question-nombres/01-grammaire
+  q: "Проспрягай *répondre* в настоящем времени."
+  a: "*je réponds, tu réponds, il **répond**, nous répondons, vous répondez, ils répondent* — в 3-м лице ед. ч. без окончания."
+- id: a17-attendre
+  lesson: a-17-question-nombres/01-grammaire
+  q: "«Я жду автобус», «Я отвечаю Марии»."
+  a: "*J'**attends** le bus* — без предлога. *Je **réponds à** Marie* — с *à*."
+- id: a17-voir
+  lesson: a-17-question-nombres/01-grammaire
+  q: "Проспрягай *voir* в настоящем времени."
+  a: "*je vois, tu vois, il voit, nous **voyons**, vous **voyez**, ils voient*."

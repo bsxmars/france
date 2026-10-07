@@ -1,0 +1,40 @@
+title: "Mettre, permettre, promettre…"
+type: gap
+intro: "Вставь глагол группы mettre в нужной форме (в скобках — инфинитив и время, если оно не настоящее)."
+hints:
+  - "je mets, il met, nous mettons, ils mettent; participe passé mis; futur je mettrai."
+  - "permettre / promettre à qn de + infinitif."
+items:
+  - q: "Le matin, je ___ toujours un pull, il fait froid. (mettre)"
+    answers: ["mets"]
+    explain: "*je* → **mets**: одна *t* в единственном числе. *Mettre un pull* — надевать."
+  - q: "Les enfants ___ la table pendant que je fais la cuisine. (mettre)"
+    answers: ["mettent"]
+    explain: "*ils* → **mettent**, две *t* во множественном числе. *Mettre la table* — накрывать на стол."
+  - q: "Ma mère ne me ___ pas de sortir le soir. (permettre)"
+    answers: ["permet"]
+    explain: "*elle* → **permet**; *permettre **à** qn **de** faire*."
+  - q: "Nous vous ___ de revenir bientôt. (promettre)"
+    answers: ["promettons"]
+    explain: "*nous* → **promettons**; *promettre **à** qn **de** + инфинитив*."
+  - q: "Après le repas, tout le monde s'est ___ au travail. (mettre, passé composé)"
+    answers: ["mis"]
+    explain: "*Se mettre à* qch — приняться; причастие **mis** (с *s'est* — être, мужской род общего *tout le monde*)."
+  - q: "Ils ont ___ leur départ au lendemain. (remettre, passé composé)"
+    answers: ["remis"]
+    explain: "*Remettre à demain / au lendemain* — отложить; причастие **remis**."
+  - q: "Vous ___ ce paquet au directeur, s'il vous plaît. (remettre)"
+    answers: ["remettez"]
+    explain: "*vous* → **remettez**; *remettre qch à qn* — вручить."
+  - q: "La radio ___ ce concert ce soir. (transmettre)"
+    answers: ["transmet"]
+    explain: "*elle* → **transmet**: «передаёт концерт по радио»."
+  - q: "Je ___ tes livres à leur place demain. (remettre, futur simple)"
+    answers: ["remettrai"]
+    explain: "Futur от *mettre* и производных: **je remettrai** (две *t*)."
+  - q: "Tu ___ ta réputation avec ces mensonges. (compromettre)"
+    answers: ["compromets"]
+    explain: "*tu* → **compromets**: основа *-met-* + *s*."
+  - q: "Soudain, l'enfant se ___ à pleurer. (mettre, passé simple)"
+    answers: ["mit"]
+    explain: "Passé simple от *mettre* — **il mit**: «вдруг ребёнок заплакал»."

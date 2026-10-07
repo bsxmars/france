@@ -1,0 +1,44 @@
+title: "Множественное число"
+type: gap
+intro: "Поставь существительное (и прилагательное, если оно есть) во множественное число."
+hints:
+  - "-s, -x, -z — без изменений; -au, -eau, -eu → +x; -al → -aux."
+  - "bal, festival, carnaval + s; travail → travaux; œil → yeux."
+  - "bijou, caillou, chou, genou, hibou, joujou, pou → +x."
+items:
+  - q: "un gâteau → des ___"
+    answers: ["gâteaux"]
+    explain: "На *-eau* → **+x**: *gâteaux*."
+  - q: "un animal → des ___"
+    answers: ["animaux"]
+    explain: "На *-al* → **-aux**: *animaux*."
+  - q: "un festival → des ___"
+    answers: ["festivals"]
+    explain: "Исключение из правила *-al*: **festivals** (как *bals, carnavals*)."
+  - q: "un prix → des ___"
+    answers: ["prix"]
+    explain: "Слова на *-x* не меняются: **prix**."
+  - q: "un genou → des ___"
+    answers: ["genoux"]
+    explain: "*Genou* — одно из семи слов на *-ou* с **-x**: *genoux*."
+  - q: "un trou → des ___"
+    answers: ["trous"]
+    explain: "Обычно *-ou* → **+s**: *trous*."
+  - q: "le travail → les ___"
+    answers: ["travaux"]
+    explain: "Исключение: *travail* → **travaux**."
+  - q: "un détail → des ___"
+    answers: ["détails"]
+    explain: "Большинство слов на *-ail* → **+s**: *détails*."
+  - q: "un œil bleu → des ___"
+    answers: ["yeux bleus"]
+    explain: "*œil* → **yeux**; прилагательное *bleu* → *bleus* (у *bleu*, как у *pneu*, — **s**)."
+  - q: "un hôpital régional → des ___"
+    answers: ["hôpitaux régionaux"]
+    explain: "И существительное, и прилагательное на *-al* → **-aux**: *hôpitaux régionaux*."
+  - q: "un vieux pneu → de ___"
+    answers: ["vieux pneus"]
+    explain: "*vieux* оканчивается на *-x* — не меняется; *pneu* — исключение с **s**: *vieux pneus*. Перед прилагательным *des* → *de*."
+  - q: "monsieur → ___"
+    answers: ["messieurs"]
+    explain: "*mon* + *sieur* → **mes**sieur**s**: изменяются обе части."

@@ -1,0 +1,43 @@
+title: "Из passé simple — в passé composé"
+type: gap
+intro: "Перепиши глагол из книжного рассказа в passé composé, как сказал бы его рассказчик в разговоре. Следи за вспомогательным глаголом и согласованием."
+hints:
+  - "Сначала найди инфинитив: fut → être, fit → faire, vint → venir."
+  - "Глаголы движения и возвратные — с être, причастие согласуется с подлежащим."
+items:
+  - q: "Elle ouvrit la fenêtre. → Elle ___ la fenêtre."
+    answers: ["a ouvert"]
+    explain: "*ouvrit* — от **ouvrir**, причастие *ouvert*: **a ouvert**."
+  - q: "Ils partirent à l'aube. → Ils ___ à l'aube."
+    answers: ["sont partis"]
+    explain: "*partirent* — от **partir** (с *être*): **sont partis**, согласование с *ils*."
+  - q: "Le roi fut surpris par cette nouvelle. → Le roi ___ surpris par cette nouvelle."
+    answers: ["a été"]
+    explain: "*fut* — от **être**; passé composé от *être* — **a été**."
+  - q: "Nous attendîmes longtemps sur le quai. → Nous ___ longtemps sur le quai."
+    answers: ["avons attendu"]
+    explain: "*attendîmes* — от **attendre** (тип на *-i-*): **avons attendu**."
+  - q: "La jeune femme se leva sans un mot. → La jeune femme ___ sans un mot."
+    answers: ["s'est levée"]
+    explain: "*se leva* — возвратный *se lever* → *être*, согласование с подлежащим: **s'est levée**."
+  - q: "Il mit son manteau et sortit. → Il ___ son manteau et il est sorti."
+    answers: ["a mis"]
+    explain: "*mit* — от **mettre**: **a mis**. (*sortit* → *est sorti*.)"
+  - q: "Mes grands-parents vinrent s'installer à Lyon en 1950. → Mes grands-parents ___ s'installer à Lyon en 1950."
+    answers: ["sont venus"]
+    explain: "*vinrent* — от **venir** (тип на *-in-*), с *être*: **sont venus**."
+  - q: "Elle écrivit trois romans avant ses trente ans. → Elle ___ trois romans avant ses trente ans."
+    answers: ["a écrit"]
+    explain: "*écrivit* — от **écrire**: **a écrit**."
+  - q: "Les soldats durent quitter la ville. → Les soldats ___ quitter la ville."
+    answers: ["ont dû"]
+    explain: "*durent* — от **devoir**: **ont dû** (с циркумфлексом в мужском роде ед. ч.)."
+  - q: "On ne retrouva jamais le trésor. → On n'___ jamais le trésor."
+    answers: ["a retrouvé"]
+    explain: "*retrouva* — глагол на *-er*: **a retrouvé**; *jamais* стоит после вспомогательного глагола."
+  - q: "Ils firent la paix en 1648. → Ils ___ la paix en 1648."
+    answers: ["ont fait"]
+    explain: "*firent* — от **faire**: **ont fait**. Не путай с *furent* (*être*)."
+  - q: "Cette découverte changea sa vie. → Cette découverte ___ sa vie."
+    answers: ["a changé"]
+    explain: "*changea* — глагол на *-er* (*e* после *g* сохраняет звук [ʒ]): **a changé**."

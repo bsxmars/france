@@ -1,0 +1,44 @@
+title: "Какое время в придаточном?"
+type: gap
+intro: "Поставь глагол в скобках в нужное время. Смотри на главный глагол (настоящее или прошедшее?) и на то, когда происходит действие придаточного: одновременно, раньше или позже."
+hints:
+  - "Главный глагол в прошлом: одновременно → imparfait, раньше → plus-que-parfait, позже → futur dans le passé."
+  - "Главный глагол в настоящем: présent, passé composé, futur simple — как по смыслу."
+  - "Futur dans le passé = основа будущего + -ais, -ait, -ions, -iez, -aient."
+items:
+  - q: "Ma sœur m'a dit qu'elle ___ trop pour se reposer. (travailler — сейчас, в тот момент)"
+    answers: ["travaillait"]
+    explain: "Главный глагол в прошлом (*a dit*), действие одновременное → imparfait: **travaillait**."
+  - q: "Je ne savais pas que vous ___ déjà ce film. (voir — раньше)"
+    answers: ["aviez vu", "aviez déjà vu"]
+    explain: "*Savais* — прошлое, фильм посмотрели **раньше** → plus-que-parfait: **aviez vu**."
+  - q: "Le guide nous a prévenus que le musée ___ à cinq heures. (fermer — позже)"
+    answers: ["fermerait"]
+    explain: "Главный глагол в прошлом, музей закроется **позже** → futur dans le passé: **fermerait**."
+  - q: "Mon père espérait que nous ___ le voir pendant les vacances. (venir)"
+    answers: ["viendrions"]
+    explain: "*Espérer* смотрит в будущее; главный глагол в imparfait → futur dans le passé от *venir*: основа *viendr-* + *-ions* → **viendrions**."
+  - q: "Je pense qu'il ___ raison hier. (avoir)"
+    answers: ["a eu", "avait"]
+    explain: "Главный глагол в **présent** → план настоящего: о прошлом говорим passé composé (**a eu**) или imparfait (**avait**, если «был прав» — состояние). Сдвига нет."
+  - q: "On m'a demandé pourquoi je ___ le français. (apprendre — сейчас)"
+    answers: ["apprenais"]
+    explain: "Косвенный вопрос после глагола в прошлом, одновременность → imparfait: **apprenais**."
+  - q: "Elle a répondu qu'elle ne ___ jamais à Marseille. (aller — раньше, до этого)"
+    answers: ["était jamais allée"]
+    explain: "Опыт до момента разговора → plus-que-parfait. *Aller* спрягается с *être*, причастие согласуется с *elle*: **était jamais allée**."
+  - q: "Les enfants étaient sûrs que le Père Noël leur ___ des cadeaux. (apporter)"
+    answers: ["apporterait"]
+    explain: "Подарки ещё впереди, главный глагол в прошлом → futur dans le passé: **apporterait**."
+  - q: "Nous ne savions pas si le directeur ___ notre lettre. (recevoir — уже, раньше)"
+    answers: ["avait reçu", "avait déjà reçu"]
+    explain: "Получил ли он письмо **до** этого момента → plus-que-parfait: **avait reçu** (ç перед *u*)."
+  - q: "Je te promets que je ___ à l'heure demain. (être)"
+    answers: ["serai"]
+    explain: "Главный глагол в présent (*promets*), действие в будущем → обычный futur simple: **serai**. Без *s* на конце!"
+  - q: "Il m'a expliqué qu'il ___ ses clés et qu'il ne pouvait pas entrer. (perdre)"
+    answers: ["avait perdu"]
+    explain: "Ключи потерял **раньше**, чем рассказал → plus-que-parfait: **avait perdu**."
+  - q: "Tout le monde savait que ce voyage ___ difficile. (être — потом)"
+    answers: ["serait"]
+    explain: "Путешествие ещё предстояло → futur dans le passé от *être*: **serait**."

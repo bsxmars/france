@@ -1,0 +1,68 @@
+title: "Перенеси в план прошлого"
+type: transform
+intro: "Переведи прямую речь в косвенную после главного глагола в прошедшем времени. Впиши недостающую часть."
+hints:
+  - "futur simple → futur dans le passé (= форма conditionnel présent)."
+  - "aller (présent) + inf. → allait + inf."
+  - "si + présent → si + imparfait."
+items:
+  - q: "Paul m'a dit : « Je te téléphonerai ce soir. »"
+    key: "discours indirect"
+    stem: "Paul m'a dit qu'il ___ le soir même."
+    answers: ["me téléphonerait"]
+    explain: "*Téléphonerai* → **téléphonerait**; *te* → *me*; *ce soir* → *le soir même*."
+  - q: "Ils nous ont annoncé : « Nous allons déménager. »"
+    key: "discours indirect"
+    stem: "Ils nous ont annoncé qu'ils ___."
+    answers: ["allaient déménager"]
+    explain: "*Allons* + инфинитив → **allaient déménager**."
+  - q: "Elle a affirmé : « Je ne recommencerai plus. »"
+    key: "discours indirect"
+    stem: "Elle a affirmé qu'elle ___."
+    answers: ["ne recommencerait plus"]
+    explain: "Futur → futur dans le passé: **ne recommencerait plus**."
+  - q: "Le guide a prévenu : « Il fera froid au sommet. »"
+    key: "discours indirect"
+    stem: "Le guide a prévenu qu'il ___ froid au sommet."
+    answers: ["ferait"]
+    explain: "*Fera* → **ferait**."
+  - q: "Mon père a dit : « Si tu as ton bac, je t'offrirai un voyage. »"
+    key: "discours indirect"
+    stem: "Mon père a dit que si j'avais mon bac, il ___ un voyage."
+    answers: ["m'offrirait"]
+    explain: "*Si* + présent → *si* + imparfait (*avais*), futur → futur dans le passé: **m'offrirait**."
+  - q: "Je me demandais : « Quand finiront-ils les travaux ? »"
+    key: "question indirecte"
+    stem: "Je me demandais quand ils ___ les travaux."
+    answers: ["finiraient"]
+    explain: "Косвенный вопрос после глагола в прошедшем → **finiraient**, прямой порядок слов."
+  - q: "Vous nous aviez juré : « Nous serons à l'heure. »"
+    key: "discours indirect"
+    stem: "Vous nous aviez juré que vous ___ à l'heure."
+    answers: ["seriez"]
+    explain: "*Serons* → **seriez** (лицо меняется на *vous*)."
+  - q: "Elle m'a demandé : « Est-ce que tu vas accepter ce poste ? »"
+    key: "question indirecte"
+    stem: "Elle m'a demandé si j'___ ce poste."
+    answers: ["allais accepter", "accepterais"]
+    explain: "*Vas accepter* → **allais accepter**; допустим и futur dans le passé *accepterais*."
+  - q: "Le médecin a assuré : « Le patient pourra sortir lundi. »"
+    key: "discours indirect"
+    stem: "Le médecin a assuré que le patient ___ sortir le lundi suivant."
+    answers: ["pourrait"]
+    explain: "*Pourra* → **pourrait**; *lundi* → *le lundi suivant*."
+  - q: "Ils ont crié : « Le bateau va couler ! »"
+    key: "discours indirect"
+    stem: "Ils ont crié que le bateau ___."
+    answers: ["allait couler"]
+    explain: "*Va couler* → **allait couler** — ближайшее будущее в прошлом."
+  - q: "Tu m'avais dit : « Je t'aiderai. »"
+    key: "discours indirect"
+    stem: "Tu m'avais dit que tu ___."
+    answers: ["m'aiderais"]
+    explain: "*T'aiderai* → **m'aiderais**."
+  - q: "Je savais : « Elle réussira. »"
+    key: "futur dans le passé"
+    stem: "Je savais qu'elle ___."
+    answers: ["réussirait", "allait réussir"]
+    explain: "После *je savais* — **réussirait** (или *allait réussir*), не ~~réussira~~."

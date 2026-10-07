@@ -1,0 +1,128 @@
+- id: b06-si-indicatif
+  lesson: b-06-condition-indefinis/01-grammaire
+  q: "Какие времена после условного *si*? Три схемы."
+  a: "*si* + présent → futur / présent / impératif; *si* + imparfait → conditionnel présent; *si* + plus-que-parfait → conditionnel passé. Никогда не futur и не conditionnel после *si*."
+- id: b06-a-condition-que
+  lesson: b-06-condition-indefinis/01-grammaire
+  q: "«При условии, что каждый заплатит свою долю» / «при условии, что найдём (мы) деньги»."
+  a: "*à condition que chacun **paie** sa part* (subjonctif); *à condition **de trouver** l'argent* (одно подлежащее → infinitif)."
+- id: b06-pourvu-que
+  lesson: b-06-condition-indefinis/01-grammaire
+  q: "*Pourvu que*: два значения и наклонение."
+  a: "+ subjonctif: «лишь бы» (достаточное условие) — *Tout ira bien pourvu qu'on **communique***; восклицание-пожелание — *Pourvu qu'il **fasse** beau !*"
+- id: b06-a-moins-que
+  lesson: b-06-condition-indefinis/01-grammaire
+  q: "«Выйдем в 8, если только не пойдёт дождь» — двумя способами."
+  a: "*à moins qu'il (**ne**) **pleuve*** (subjonctif, «пустое» *ne*) = *sauf s'il **pleut*** (indicatif). Одно подлежащее: *à moins de* + inf."
+- id: b06-au-cas-ou
+  lesson: b-06-condition-indefinis/01-grammaire
+  q: "«Возьми зонт на случай, если пойдёт дождь»."
+  a: "*Prends un parapluie **au cas où** il **pleuvrait*** — после *au cas où* conditionnel."
+- id: b06-en-cas-de
+  lesson: b-06-condition-indefinis/01-grammaire
+  q: "Условие без придаточного: «в случае пожара», «без вашей помощи», «разделяя расходы»."
+  a: "*en cas d'incendie* (без артикля), *sans votre aide*, *en partageant les frais* (gérondif)."
+- id: b06-si-et-que
+  lesson: b-06-condition-indefinis/01-grammaire
+  q: "Как ввести второе условие после *si*?"
+  a: "*et que* (не второе *si*): *Si vous venez **et que** vous **ayez** le temps…* — книжно subjonctif, разговорно indicatif."
+- id: b06-condition-synthese
+  lesson: b-06-condition-indefinis/01-grammaire
+  q: "Наклонение: si, sauf si, à condition que, pourvu que, à moins que, au cas où, en cas de."
+  a: "*si, sauf si, même si* + indicatif; *à condition que, pourvu que, à moins que, si tant est que* + subjonctif; *au cas où* + conditionnel; *en cas de* + существительное."
+- id: b06-conditionnel-formation
+  lesson: b-06-condition-indefinis/02-grammaire
+  q: "Conditionnel présent: как образуется? *je* от devoir, pouvoir, falloir (il), voir."
+  a: "Основа futur + *-ais, -ais, -ait, -ions, -iez, -aient*: *je devrais, je pourrais, il faudrait, je verrais*."
+- id: b06-attenuation
+  lesson: b-06-condition-indefinis/02-grammaire
+  q: "Три вида смягчения conditionnel."
+  a: "Просьба: *Je voudrais… Pourriez-vous… ?*; совет: *Tu devrais… Il faudrait…*; осторожное утверждение: *La solution serait de… Je dirais que…*"
+- id: b06-hypothese
+  lesson: b-06-condition-indefinis/02-grammaire
+  q: "«Такой налог принёс бы миллиарды» — что выражает conditionnel без *si*?"
+  a: "Гипотезу, возможное последствие: *Une telle taxe **rapporterait** des milliards.* Часто с *pourrait*: *pourrait entraîner*."
+- id: b06-journalistique
+  lesson: b-06-condition-indefinis/02-grammaire
+  q: "«По данным полиции, якобы 10 000 человек вышли на демонстрацию»."
+  a: "*Selon la police, 10 000 personnes **auraient manifesté*** — conditionnel журналиста: непроверенный факт (прошлое → conditionnel passé)."
+- id: b06-reproche
+  lesson: b-06-condition-indefinis/02-grammaire
+  q: "Упрёк: «тебе следовало предупредить», «вы могли бы закрыть дверь», «надо было действовать раньше»."
+  a: "*Tu **aurais dû** prévenir. Vous **auriez pu** fermer la porte. Il **aurait fallu** agir plus tôt.*"
+- id: b06-regret
+  lesson: b-06-condition-indefinis/02-grammaire
+  q: "Сожаление: «я хотел бы там быть», «я бы предпочёл, чтобы ты пришёл»."
+  a: "*J'**aurais aimé / voulu** être là* (без *de*); *J'**aurais préféré que** tu **viennes** / sois venu* (subjonctif)."
+- id: b06-as-du-aurais-du
+  lesson: b-06-condition-indefinis/02-grammaire
+  q: "*Tu as dû partir*, *tu devrais partir*, *tu aurais dû partir* — разница?"
+  a: "«Тебе пришлось уйти / ты, наверное, ушёл»; «тебе следует уйти» (совет); «тебе следовало уйти» (упрёк)."
+- id: b06-futur-ou-conditionnel
+  lesson: b-06-condition-indefinis/02-grammaire
+  q: "*Je voudrai* или *je voudrais*? *Je parlerai* или *je parlerais*?"
+  a: "*-ai* — futur simple [e], *-ais* — conditionnel [ɛ]. Вежливая просьба — ***je voudrais***; обещание — *je parlerai demain*."
+- id: b06-chaque-chacun
+  lesson: b-06-condition-indefinis/03-grammaire
+  q: "*Chaque* или *chacun*: ___ citoyen; ___ d'entre nous."
+  a: "*chaque citoyen* (перед сущ., всегда ед. ч.); *chacun / chacune d'entre nous* (местоимение, глагол в ед. ч.)."
+- id: b06-aucun
+  lesson: b-06-condition-indefinis/03-grammaire
+  q: "«Ни один кандидат не ответил»; «Ответов? Ни одного»."
+  a: "***Aucun** candidat **n'**a répondu* (без *pas*); *— Des réponses ? — **Aucune**.*"
+- id: b06-la-plupart
+  lesson: b-06-condition-indefinis/03-grammaire
+  q: "«Большинство людей думают, что…»"
+  a: "***La plupart des** gens **pensent** que…* — *des* + мн. ч., глагол во мн. ч."
+- id: b06-quelques-uns
+  lesson: b-06-condition-indefinis/03-grammaire
+  q: "Местоимения от *quelques, plusieurs, certains*."
+  a: "*quelques-uns / quelques-unes* (через дефис); *plusieurs* (неизм.); *certains / certaines* — все без артикля."
+- id: b06-en-quantite
+  lesson: b-06-condition-indefinis/03-grammaire
+  q: "«Статьи? Я прочитал несколько» / «Решений? Не вижу ни одного»."
+  a: "*J'**en** ai lu plusieurs. Je n'**en** vois aucune.* — количественное местоимение-дополнение требует *en*."
+- id: b06-tous-pronom
+  lesson: b-06-condition-indefinis/03-grammaire
+  q: "Как читается *tous* в *Ils sont tous d'accord* и где стоит в *je les ai… lus*?"
+  a: "[tus] — местоимение с произносимым *s*; между *avoir* и причастием: *je les ai **tous** lus*."
+- id: b06-n-importe
+  lesson: b-06-condition-indefinis/03-grammaire
+  q: "«Кто угодно», «что угодно», «где угодно», «какой угодно (сюжет)»."
+  a: "*n'importe qui, n'importe quoi, n'importe où, n'importe quel sujet* (местоимение — *n'importe lequel*)."
+- id: b06-quelque-chose-de
+  lesson: b-06-condition-indefinis/03-grammaire
+  q: "«Что-то важное», «ничего нового», «кто-то смелый»."
+  a: "*quelque chose **d'**important, rien **de** nouveau, quelqu'un **de** courageux* — *de* + прилагательное м. р."
+- id: b06-accord-regle
+  lesson: b-06-condition-indefinis/04-grammaire
+  q: "С чем согласуется participe passé при *avoir*?"
+  a: "С прямым дополнением (COD), если оно стоит **перед** глаголом: *la veste que j'ai achet**ée***. С подлежащим — никогда."
+- id: b06-accord-cas
+  lesson: b-06-condition-indefinis/04-grammaire
+  q: "Какие COD оказываются перед *avoir*?"
+  a: "Местоимения *me, te, le, la, l', nous, vous, les*; относительное *que*; *quel(le)(s)…?*, *combien de…?*; восклицание *quelles… !*"
+- id: b06-accord-pas
+  lesson: b-06-condition-indefinis/04-grammaire
+  q: "Когда согласования нет, хотя что-то стоит перед *avoir*?"
+  a: "*en* (*j'en ai vu*), косвенное *lui, leur* (*je leur ai écrit*), нейтральное *le*, безличные глаголы, *fait* + infinitif."
+- id: b06-accord-que
+  lesson: b-06-condition-indefinis/04-grammaire
+  q: "*La campagne qu'ils ont ___ (concevoir)*; *les promesses que la marque a ___ (faire)*."
+  a: "*conçue*, *faites* — *que* берёт род и число антецедента."
+- id: b06-accord-oral
+  lesson: b-06-condition-indefinis/04-grammaire
+  q: "Где согласование слышно? Примеры."
+  a: "У причастий на согласный: *faite* [fɛt], *prise* [pʁiz], *mise*, *écrite*, *dite*, *ouverte*, *offerte*: *la robe que j'ai **mise***."
+- id: b06-accord-sujet
+  lesson: b-06-condition-indefinis/04-grammaire
+  q: "Верно ли ~~Elle a achetée une robe~~?"
+  a: "Нет: с *avoir* подлежащее не влияет → *Elle a **acheté** une robe*. Но *la robe qu'elle a **achetée***."
+- id: b06-accord-pronominal
+  lesson: b-06-condition-indefinis/04-grammaire
+  q: "*Elle s'est lavée* / *Elle s'est lavé les mains* / *Ils se sont parlé* — почему так?"
+  a: "Логика COD: *se* = COD → *lavée*; COD *les mains* после глагола → *lavé*; *se* = «друг с другом» (косвенное) → *parlé*."
+- id: b06-accord-temps
+  lesson: b-06-condition-indefinis/04-grammaire
+  q: "Работает ли правило вне passé composé? *Quand vous l'aurez ___ (recevoir, la lettre)*; *après l'avoir ___ (lire, la lettre)*."
+  a: "Да, во всех сложных формах с *avoir*: *l'aurez **reçue***, *après l'avoir **lue***."

@@ -1,0 +1,43 @@
+title: "Переведи косвенный вопрос"
+type: gap
+intro: "Переведи фразу целиком. Реши, нужен ли si, ce qui, ce que или вопросительное слово, и согласуй время. Пунктуация не важна, акценты — важны."
+hints:
+  - "«ли» → si; «что» — подлежащее → ce qui, дополнение → ce que."
+  - "«Не знаю, что сказать / куда идти» → инфинитив: que dire, quoi dire, où aller."
+items:
+  - q: "Я не знаю, придёт ли он."
+    answers: ["Je ne sais pas s'il viendra.", "Je ne sais pas s'il va venir.", "Je ne sais pas s'il vient.", "J'ignore s'il viendra.", "J'ignore s'il va venir."]
+    explain: "«ли» → **si**, перед *il* — *s'il*. После *si* вопроса futur возможен (это не условие)."
+  - q: "Она спросила меня, что меня беспокоит."
+    answers: ["Elle m'a demandé ce qui m'inquiétait.", "Elle m'a demandé ce qui me préoccupait.", "Elle m'a demandé ce qui me tracassait.", "Elle m'a demandé ce qui m'inquiète.", "Elle m'a demandé ce qui me préoccupe."]
+    explain: "«Что» — подлежащее → **ce qui**; после прошедшего — imparfait (présent допустим, если беспокоит и сейчас)."
+  - q: "Скажи мне, что ты хочешь на день рождения."
+    answers: ["Dis-moi ce que tu veux pour ton anniversaire.", "Dis-moi ce que tu voudrais pour ton anniversaire.", "Dis-moi ce que tu veux pour ton anniv.", "Dites-moi ce que vous voulez pour votre anniversaire."]
+    explain: "«Что» — дополнение → **ce que**; не ~~qu'est-ce que~~ и не ~~quoi~~."
+  - q: "Я не знал, что сказать."
+    answers: ["Je ne savais pas quoi dire.", "Je ne savais que dire.", "Je ne savais pas que dire.", "Je n'ai pas su quoi dire.", "Je ne savais quoi dire."]
+    explain: "Тот же субъект, вопрос «что делать» → инфинитив: **quoi dire** / книжное **que dire**."
+  - q: "Спроси у него, где живут его родители."
+    answers: ["Demande-lui où habitent ses parents.", "Demande-lui où ses parents habitent.", "Demande-lui où vivent ses parents.", "Demande-lui où ses parents vivent.", "Demandez-lui où habitent ses parents.", "Demandez-lui où ses parents habitent.", "Demandez-lui où vivent ses parents.", "Demandez-lui où ses parents vivent."]
+    explain: "Подлежащее-существительное, у глагола нет дополнения → возможна инверсия **où habitent ses parents**; прямой порядок тоже верен."
+  - q: "Мы спросили у детей, почему они бросили игру."
+    answers: ["Nous avons demandé aux enfants pourquoi ils avaient arrêté de jouer.", "On a demandé aux enfants pourquoi ils avaient arrêté de jouer.", "Nous avons demandé aux enfants pourquoi ils avaient arrêté le jeu.", "On a demandé aux enfants pourquoi ils avaient arrêté le jeu.", "Nous avons demandé aux enfants pourquoi ils avaient abandonné le jeu.", "On a demandé aux enfants pourquoi ils avaient abandonné le jeu.", "Nous avons demandé aux enfants pourquoi ils avaient abandonné la partie.", "On a demandé aux enfants pourquoi ils avaient abandonné la partie."]
+    explain: "*Pourquoi* + прямой порядок; предшествование в прошлом → plus-que-parfait **avaient arrêté**."
+  - q: "Вы не знаете случайно, во сколько открывается музей?"
+    answers: ["Vous ne savez pas par hasard à quelle heure ouvre le musée ?", "Vous ne savez pas par hasard à quelle heure le musée ouvre ?", "Vous ne savez pas à quelle heure ouvre le musée par hasard ?", "Vous ne savez pas, par hasard, à quelle heure ouvre le musée ?", "Vous ne savez pas, par hasard, à quelle heure le musée ouvre ?", "Savez-vous par hasard à quelle heure ouvre le musée ?", "Savez-vous par hasard à quelle heure le musée ouvre ?"]
+    explain: "*À quelle heure* сохраняется; подлежащее-существительное без дополнения → можно **ouvre le musée**."
+  - q: "Я хотел бы знать, кто взял мой зонт."
+    answers: ["Je voudrais savoir qui a pris mon parapluie.", "J'aimerais savoir qui a pris mon parapluie.", "Je voudrais bien savoir qui a pris mon parapluie.", "J'aimerais bien savoir qui a pris mon parapluie."]
+    explain: "*Qui*-подлежащее, прямой порядок: **qui a pris**."
+  - q: "Он спросил меня, о чём я думаю."
+    answers: ["Il m'a demandé à quoi je pensais.", "Il m'a demandé à quoi je pense."]
+    explain: "*Penser **à** qch* → **à quoi** (с предлогом *quoi* возможно); после прошедшего — imparfait."
+  - q: "Никто не понимал, что происходит."
+    answers: ["Personne ne comprenait ce qui se passait.", "Personne ne comprenait ce qu'il se passait.", "Personne ne comprenait ce qui arrivait."]
+    explain: "**ce qui se passait** (подлежащее — *ce*) или **ce qu'il se passait** (безличное *il*) — обе формы нормативны."
+  - q: "Она не знала, к кому обратиться."
+    answers: ["Elle ne savait pas à qui s'adresser.", "Elle ne savait à qui s'adresser.", "Elle ne savait pas à qui elle devait s'adresser.", "Elle ne savait pas à qui demander.", "Elle ne savait pas vers qui se tourner."]
+    explain: "Тот же субъект → инфинитивный вопрос **à qui s'adresser** (возвратное местоимение — 3-го лица)."
+  - q: "Уточните, пожалуйста, какой из двух документов нужно подписать."
+    answers: ["Précisez, s'il vous plaît, lequel des deux documents il faut signer.", "Pourriez-vous préciser lequel des deux documents il faut signer ?", "Précisez, s'il vous plaît, lequel des deux documents je dois signer.", "Précisez, s'il vous plaît, lequel des deux documents doit être signé.", "Merci de préciser lequel des deux documents il faut signer.", "Précisez-moi, s'il vous plaît, lequel des deux documents il faut signer."]
+    explain: "«Какой из двух» → **lequel des deux** (мужской род: *document*); порядок прямой."

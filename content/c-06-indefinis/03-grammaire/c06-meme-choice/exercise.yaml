@@ -1,0 +1,50 @@
+title: "Тот же, сам или даже: смысл и обороты с même"
+type: choice
+intro: "Выбери вариант, верный по смыслу и по норме."
+hints:
+  - "le même … que; même si + indicatif; à même le sol; être à même de; tout de même; cela revient au même."
+items:
+  - q: "Il a le ___ âge que sa femme."
+    options: ["même", "mêmes", "même que"]
+    answer: 0
+    explain: "*Le même … que*: прилагательное в ед. ч. — **même**, *que* уже стоит после существительного."
+  - q: "Les campeurs ont dormi ___ le sol, sans tente."
+    options: ["même", "à même", "de même"]
+    answer: 1
+    explain: "**À même le sol** — «прямо на земле»."
+  - q: "Après sa formation, elle sera ___ diriger une équipe."
+    options: ["même de", "à même de", "de même"]
+    answer: 1
+    explain: "**Être à même de** + инфинитив — «быть в состоянии» (книжн.)."
+  - q: "Que tu prennes le train ou la voiture, ça revient ___ : trois heures de trajet."
+    options: ["au même", "à même", "le même"]
+    answer: 0
+    explain: "**Cela / ça revient au même** — «это одно и то же»."
+  - q: "Il pleuvait, mais nous sommes ___ sortis."
+    options: ["même", "tout de même", "de même"]
+    answer: 1
+    explain: "«Всё-таки» — **tout de même** (или *quand même*)."
+  - q: "___ s'il faisait beau, je resterais à la maison : je suis épuisé."
+    options: ["Même", "Quand même", "De même"]
+    answer: 0
+    explain: "«Даже если» → **même si**; после *si* — imparfait, а conditionnel — в главном предложении."
+  - q: "Le roi ___ assistait à la cérémonie."
+    options: ["même", "mêmes", "lui-mêmes"]
+    answer: 0
+    explain: "После существительного ед. ч. «сам король» → *le roi **même*** (или *le roi lui-même*)."
+  - q: "Les ministres ___ ont reconnu leur erreur."
+    options: ["eux-même", "mêmes-eux", "eux-mêmes"]
+    answer: 2
+    explain: "«Сами министры» → **eux-mêmes** (мн. ч. и в *eux*, и в *mêmes*)."
+  - q: "J'ai pris des notes et j'ai ___ enregistré toutes les conférences."
+    options: ["même", "mêmes", "à même"]
+    answer: 0
+    explain: "«Я даже записал» — наречие **même**, неизменяемое, между вспомогательным глаголом и причастием."
+  - q: "Il travaille dur, ___ que son frère."
+    options: ["de même", "même", "à même"]
+    answer: 0
+    explain: "**De même que** — «так же как»."
+  - q: "C'est ___ qu'ils se sont rencontrés, dans ce café."
+    options: ["ici même", "même ici", "ici mêmes"]
+    answer: 0
+    explain: "«Именно здесь» → **ici même** (*même* после слова подчёркивает его). *Même ici* = «даже здесь»."

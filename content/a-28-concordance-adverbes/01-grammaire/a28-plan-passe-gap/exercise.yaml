@@ -1,0 +1,41 @@
+title: "Из настоящего — в прошедшее"
+type: gap
+intro: "Главный глагол переведён в прошедшее время. Измени глагол придаточного по правилу согласования времён."
+hints:
+  - "présent → imparfait"
+  - "passé composé → plus-que-parfait"
+  - "futur simple → futur dans le passé"
+items:
+  - q: "Léa dit qu'elle est fatiguée. → Léa a dit qu'elle ___ fatiguée."
+    answers: ["était"]
+    explain: "Présent → imparfait: *est* → **était**."
+  - q: "Je sais que tu as fini ton travail. → Je savais que tu ___ ton travail."
+    answers: ["avais fini"]
+    explain: "Passé composé → plus-que-parfait: *as fini* → **avais fini**."
+  - q: "Paul promet qu'il nous écrira. → Paul a promis qu'il nous ___."
+    answers: ["écrirait"]
+    explain: "Futur simple → futur dans le passé: *écrira* → **écrirait**."
+  - q: "Ils annoncent que le concert n'aura pas lieu. → Ils ont annoncé que le concert n'___ pas lieu."
+    answers: ["aurait"]
+    explain: "*Aura* → **aurait**: основа *aur-* сохраняется, окончание — как в imparfait."
+  - q: "Elle me demande où je vais. → Elle m'a demandé où j'___."
+    answers: ["allais"]
+    explain: "Косвенный вопрос, présent → imparfait: **allais**."
+  - q: "Le médecin dit que le malade pourra sortir lundi. → Le médecin a dit que le malade ___ sortir lundi."
+    answers: ["pourrait"]
+    explain: "*Pourra* → **pourrait**: основа *pourr-* (с двумя r) — та же, что в futur simple."
+  - q: "Je crois qu'ils sont partis. → Je croyais qu'ils ___."
+    answers: ["étaient partis"]
+    explain: "Passé composé с *être* → plus-que-parfait с *être*: **étaient partis**, причастие согласуется с *ils*."
+  - q: "Nous comprenons qu'il faudra attendre. → Nous avons compris qu'il ___ attendre."
+    answers: ["faudrait"]
+    explain: "Безличное *il faudra* → **il faudrait**."
+  - q: "Marc demande si nous verrons ce spectacle. → Marc a demandé si nous ___ ce spectacle."
+    answers: ["verrions"]
+    explain: "После *si* в косвенном вопросе futur simple → futur dans le passé: *verrons* → **verrions**."
+  - q: "Anne raconte ce qu'elle a fait le week-end. → Anne a raconté ce qu'elle ___ le week-end."
+    answers: ["avait fait"]
+    explain: "Passé composé → plus-que-parfait: **avait fait**."
+  - q: "Tu dis que tu ne connais personne ici. → Tu as dit que tu ne ___ personne ici."
+    answers: ["connaissais"]
+    explain: "Présent → imparfait: основа *connaiss-* + *-ais* → **connaissais**."

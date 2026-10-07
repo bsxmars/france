@@ -1,0 +1,44 @@
+title: "Согласуй время придаточного"
+type: gap
+intro: "Поставь глагол в нужное время индикатива или conditionnel. Сначала определи план главного предложения, потом отношение: одновременно, раньше или позже."
+hints:
+  - "Главное в прошедшем: одновременно → imparfait, раньше → plus-que-parfait, позже → conditionnel présent."
+  - "Позже, но раньше другого будущего → conditionnel passé (dès qu'il aurait fini)."
+  - "Главное в настоящем: présent / passé composé / futur — как обычно."
+items:
+  - q: "Heureusement, j'ai vite compris que je ___ (se tromper) de salle."
+    answers: ["m'étais trompé", "m'étais trompée"]
+    explain: "Главное в прошедшем, ошибка случилась раньше → plus-que-parfait: ***je m'étais trompé(e)***."
+  - q: "Elle m'a assuré qu'elle me ___ (rappeler) dès le lendemain."
+    answers: ["rappellerait"]
+    explain: "Следование в плане прошедшего → futur dans le passé: ***rappellerait*** (двойное *ll*, как в futur *rappellera*)."
+  - q: "Nous ignorions que le musée ___ (être) fermé pour travaux ce jour-là."
+    answers: ["était"]
+    explain: "Одновременность в плане прошедшего → imparfait: ***était***."
+  - q: "Il m'a demandé si je ___ (pouvoir) l'aider le week-end suivant."
+    answers: ["pourrais"]
+    explain: "Косвенный вопрос с *si* («ли») в плане прошедшего, действие в будущем → ***pourrais***. После *si* «ли» conditionnel возможен — это не условное *si*."
+  - q: "Je savais qu'il ___ (partir) dès qu'il aurait trouvé du travail."
+    answers: ["partirait"]
+    explain: "Будущее относительно прошлого → futur dans le passé: ***partirait***."
+  - q: "Elle m'a promis qu'elle me rendrait le livre dès qu'elle l'___ (lire)."
+    answers: ["aurait lu"]
+    explain: "Действие, которое завершится до другого «будущего в прошлом» (*rendrait*) → futur antérieur dans le passé: ***aurait lu***."
+  - q: "Le témoin a déclaré qu'il ___ (voir) l'accusé sortir de l'immeuble vers minuit."
+    answers: ["avait vu"]
+    explain: "Предшествование в плане прошедшего → plus-que-parfait: ***avait vu***."
+  - q: "Quand je l'ai rencontré, il m'a raconté qu'il ___ (travailler) alors dans une banque."
+    answers: ["travaillait"]
+    explain: "Одновременно с моментом рассказа (*alors*) → imparfait: ***travaillait***."
+  - q: "Le directeur affirme que les résultats ___ (être) meilleurs l'année prochaine."
+    answers: ["seront"]
+    explain: "Главное в présent → обычный futur: ***seront***."
+  - q: "Il dit qu'il ___ (perdre) ses clés hier soir dans le métro."
+    answers: ["a perdu"]
+    explain: "План настоящего (*dit*), действие раньше → passé composé: ***a perdu***."
+  - q: "Je croyais que tu ___ (déjà partir) en vacances !"
+    answers: ["étais déjà parti", "étais déjà partie"]
+    explain: "Предшествование в плане прошедшего → plus-que-parfait: ***tu étais (déjà) parti(e)***."
+  - q: "Ils pensaient que la réunion ___ (durer) une heure ; elle en a duré trois."
+    answers: ["durerait"]
+    explain: "Ожидание в прошлом о будущем → futur dans le passé: ***durerait***."

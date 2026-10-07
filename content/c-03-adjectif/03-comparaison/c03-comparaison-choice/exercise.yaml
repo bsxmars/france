@@ -1,0 +1,52 @@
+title: "Pire, moindre, le plus: выбери форму"
+type: choice
+intro: "Выбери вариант, который верен по норме и по смыслу."
+hints:
+  - "pire — о моральном и абстрактном; plus mauvais — о конкретном качестве."
+  - "moindre — абстрактное «меньший, малейший»; plus petit — о размере."
+  - "Сравнение предмета с самим собой → le plus (неизменяемое)."
+items:
+  - q: "Cette solution serait un ___ mal : au moins, personne ne perdrait son emploi."
+    options: ["moindre", "plus petit", "pire"]
+    answer: 0
+    explain: "Устойчивое ***un moindre mal*** — «меньшее зло» (абстрактное значение)."
+  - q: "Cet appartement est ___ que celui que nous avons visité hier : il n'y a qu'une chambre."
+    options: ["moindre", "plus petit", "le moindre"]
+    answer: 1
+    explain: "Речь о размере → ***plus petit***. *Moindre* — только в абстрактном смысле."
+  - q: "La trahison d'un ami est ___ que toutes les injustices."
+    options: ["plus mauvaise", "pire", "plus pire"]
+    answer: 1
+    explain: "Моральная оценка → ***pire***. *Plus pire* — грубая ошибка (*pire* уже сравнительная степень)."
+  - q: "Ce café est encore ___ que celui de la gare : il est imbuvable."
+    options: ["plus mauvais", "moindre", "le pire"]
+    answer: 0
+    explain: "Конкретное качество (вкус) → обычно ***plus mauvais***; *pire* здесь тоже возможно в разговорной речи, но *moindre* и *le pire* не подходят по конструкции."
+  - q: "C'est le soir que la vieille ville est ___ animée."
+    options: ["la plus", "le plus", "les plus"]
+    answer: 1
+    explain: "Один и тот же предмет сравнивается с собой в разное время → неизменяемое ***le plus***."
+  - q: "De toutes les villes de la région, c'est Arles qui est ___ animée le soir."
+    options: ["la plus", "le plus", "plus"]
+    answer: 0
+    explain: "Сравнение с другими городами → согласуемое ***la plus***."
+  - q: "Ce dossier est ___ complexes : il faudra des semaines pour l'étudier."
+    options: ["des plus", "le plus", "plus que"]
+    answer: 0
+    explain: "Книжное ***des plus*** + прил. мн. ч. = «крайне»: *un dossier **des plus complexes***."
+  - q: "C'est le roman ___ intéressant que j'aie lu cette année."
+    options: ["le plus", "plus", "très"]
+    answer: 0
+    explain: "Прилагательное после существительного → артикль повторяется: *le roman **le plus** intéressant*; дальше subjonctif *que j'aie lu*."
+  - q: "Ce gâteau est vraiment ___ que celui de la pâtisserie d'en face."
+    options: ["plus bon", "meilleur", "mieux"]
+    answer: 1
+    explain: "Сравнительная степень от *bon* — ***meilleur*** (прилагательное после *être*). *Mieux* — наречие."
+  - q: "Il n'est pas ___ distrait qu'il veut bien le dire."
+    options: ["si", "tant", "autant"]
+    answer: 0
+    explain: "В отрицании *aussi* часто заменяется на ***si***: *il n'est pas **si** distrait que…*"
+  - q: "Les loyers sont ___ élevés à Paris qu'à Lyon."
+    options: ["très plus", "bien plus", "plus très"]
+    answer: 1
+    explain: "Усиление сравнения — ***bien / beaucoup / nettement plus***. ~~Très plus~~ невозможно."

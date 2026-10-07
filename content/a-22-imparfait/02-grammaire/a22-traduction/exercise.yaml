@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу на французский целиком. Пунктуация не важна, акценты — важны."
+hints:
+  - "«Это» при глаголах знать, говорить, делать → le перед глаголом."
+  - "«Так как» в начале фразы — comme; «потому что» после главного — parce que."
+items:
+  - q: "Я не могу это объяснить."
+    answers: ["Je ne peux pas l'expliquer.", "Je ne peux pas expliquer cela.", "Je ne peux pas expliquer ça.", "Je ne peux l'expliquer.", "Je ne puis l'expliquer."]
+    explain: "*Pouvoir* + инфинитив; «это» → **le** перед инфинитивом: *je ne peux pas **l'expliquer*** (или *expliquer cela*)."
+  - q: "— Ты знаешь, что он уехал? — Да, знаю. (переведи ответ)"
+    answers: ["Oui, je le sais."]
+    explain: "По-русски «это» опущено, по-французски нужно **le**: *je le sais*."
+  - q: "Почему ты не хочешь есть?"
+    answers: ["Pourquoi ne veux-tu pas manger ?", "Pourquoi est-ce que tu ne veux pas manger ?", "Pourquoi tu ne veux pas manger ?"]
+    explain: "*Pourquoi* + инверсия: **ne veux-tu pas**; или *est-ce que*. *Tu veux* — с *-x*."
+  - q: "Так как я устал, я остался дома. (начни с comme; говорит мужчина)"
+    answers: ["Comme j'étais fatigué, je suis resté à la maison.", "Comme j'étais fatigué, je suis resté chez moi."]
+    explain: "**Comme** — причина впереди. *J'étais fatigué* — состояние (imparfait), *je suis resté* — факт (passé composé)."
+  - q: "Он не пришёл, потому что был болен."
+    answers: ["Il n'est pas venu parce qu'il était malade.", "Il n'est pas venu, car il était malade."]
+    explain: "Причина после главного → **parce que** (*parce qu'il*) или *car*. Болезнь — состояние → imparfait."
+  - q: "Можно войти?"
+    answers: ["Puis-je entrer ?", "Est-ce que je peux entrer ?", "Je peux entrer ?", "On peut entrer ?", "Peut-on entrer ?", "Est-ce qu'on peut entrer ?"]
+    explain: "Вежливо — **Puis-je entrer ?**; разговорно — *Je peux entrer ?*"
+  - q: "Передай мне соль, пожалуйста. (вместо «пожалуйста» — vouloir)"
+    answers: ["Passe-moi le sel, veux-tu ?"]
+    explain: "*Veux-tu ?* в конце фразы смягчает просьбу, как *s'il te plaît*."
+  - q: "Они хотят посмотреть город."
+    answers: ["Ils veulent visiter la ville.", "Elles veulent visiter la ville.", "Ils veulent voir la ville.", "Elles veulent voir la ville."]
+    explain: "*ils* → **veulent** + инфинитив без предлога."
+  - q: "Вчера мы не смогли прийти."
+    answers: ["Hier, nous n'avons pas pu venir.", "Nous n'avons pas pu venir hier.", "Hier, on n'a pas pu venir.", "On n'a pas pu venir hier."]
+    explain: "Однократный факт → passé composé: **n'avons pas pu** + инфинитив."
+  - q: "Приходите, если хотите."
+    answers: ["Venez si vous voulez.", "Venez si vous le voulez.", "Viens si tu veux.", "Viens si tu le veux."]
+    explain: "*Si vous voulez* или с *le* среднего рода: *si vous **le** voulez* (= если хотите прийти)."

@@ -1,0 +1,58 @@
+title: "Факт → гипотеза"
+type: transform
+intro: |
+  Первое предложение — то, что произошло на самом деле. Закончи гипотезу «а если бы всё было иначе». Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "Факт утвердительный → в гипотезе отрицание, и наоборот."
+  - "si + plus-que-parfait → conditionnel passé (или présent, если последствие — сейчас)."
+items:
+  - q: "Je n'ai pas pris de parapluie. J'ai été trempé."
+    key: "AVAIS"
+    stem: "Si j'___ un parapluie, je n'aurais pas été trempé."
+    answers: ["avais pris"]
+    explain: "Факт «не взял» → гипотеза «если бы взял»: *si* + plus-que-parfait **avais pris**."
+  - q: "Il a raté son train parce qu'il s'est réveillé trop tard."
+    key: "RÉVEILLÉ"
+    stem: "S'il ___ trop tard, il n'aurait pas raté son train."
+    answers: ["ne s'était pas réveillé"]
+    explain: "Факт «проснулся поздно» → гипотеза с отрицанием. *se réveiller* в plus-que-parfait: *s'était réveillé*; *ne … pas* обнимает *s'était*: **ne s'était pas réveillé**."
+  - q: "Mon grand-père a quitté son village. Il a rencontré ma grand-mère à Paris."
+    key: "AURAIT"
+    stem: "Si mon grand-père n'avait pas quitté son village, il ___ ma grand-mère à Paris."
+    answers: ["n'aurait pas rencontré", "n'aurait jamais rencontré"]
+    explain: "Прошлое → прошлое: conditionnel passé *rencontrer* (с *avoir*): **n'aurait pas rencontré**. Прямое дополнение стоит после глагола — согласования нет."
+  - q: "Nous n'avons pas réservé. Nous n'avons pas eu de table."
+    key: "AURIONS"
+    stem: "Si nous avions réservé, nous ___ une table."
+    answers: ["aurions eu"]
+    explain: "Прошлое → прошлое: conditionnel passé **aurions eu**."
+  - q: "Elle n'a pas fait d'études de droit, donc aujourd'hui elle n'est pas avocate."
+    key: "SERAIT"
+    stem: "Si elle avait fait des études de droit, elle ___ aujourd'hui."
+    answers: ["serait avocate"]
+    explain: "Последствие — **сейчас** (*aujourd'hui*) → conditionnel présent: **serait avocate**."
+  - q: "Tu ne m'as pas aidé : j'ai dû tout faire seul. C'est un reproche."
+    key: "PU"
+    stem: "Tu ___ m'aider !"
+    answers: ["aurais pu"]
+    explain: "Упрёк о прошлом → conditionnel passé от *pouvoir*: *Tu **aurais pu** m'aider !* — «мог бы и помочь»."
+  - q: "Les résistants ont été prévenus à temps. Ils n'ont pas été arrêtés."
+    key: "AVAIENT"
+    stem: "Si les résistants n'___ prévenus à temps, ils auraient été arrêtés."
+    answers: ["avaient pas été"]
+    explain: "Пассив в plus-que-parfait: *avaient été prévenus*; отрицание обнимает *avaient*: *n'**avaient pas été***."
+  - q: "J'ai eu ton aide, et j'ai réussi."
+    key: "SANS"
+    stem: "___ , je n'aurais pas réussi."
+    answers: ["Sans ton aide"]
+    explain: "*Sans* + существительное заменяет условие «если бы не…»: ***Sans ton aide**, je n'aurais pas réussi.*"
+  - q: "Il ne parle pas bien anglais. C'est pour ça qu'il n'a pas obtenu le poste."
+    key: "PARLAIT"
+    stem: "S'il ___ , il aurait obtenu le poste."
+    answers: ["parlait bien anglais", "parlait mieux anglais", "parlait anglais"]
+    explain: "Условие — постоянное свойство (сейчас и всегда) → imparfait **parlait**, последствие в прошлом → conditionnel passé."
+  - q: "Je regrette : je n'ai pas appris le piano quand j'étais petit."
+    key: "SEULEMENT"
+    stem: "___ le piano quand j'étais petit !"
+    answers: ["Si seulement j'avais appris"]
+    explain: "Сожаление о прошлом: ***Si seulement** + plus-que-parfait*: *Si seulement j'avais appris le piano !*"

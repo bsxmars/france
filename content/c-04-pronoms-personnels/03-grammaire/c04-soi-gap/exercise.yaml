@@ -1,0 +1,44 @@
+title: "Soi или lui, elle, eux"
+type: gap
+intro: "Впиши ударное местоимение: soi (с même или без), lui, elle, eux, elles. Решает, обобщённый субъект или конкретный."
+hints:
+  - "on, chacun, personne, nul, tout le monde, il faut, инфинитив → soi."
+  - "Конкретный человек → lui, elle, eux, elles."
+  - "Выражения: cela va de soi, en soi, chez soi, maîtrise de soi, soi-disant."
+items:
+  - q: "Quand on est malade, on préfère rester chez ___."
+    answers: ["soi"]
+    explain: "Обобщённое *on* → **chez soi**."
+  - q: "Après la fête, les invités sont rentrés chez ___ vers minuit."
+    answers: ["eux"]
+    explain: "Подлежащее конкретное, мн. ч. (*les invités*) → **chez eux**."
+  - q: "Personne n'aime entendre dire du mal de ___."
+    answers: ["soi"]
+    explain: "*Personne* — неопределённый субъект → **soi**."
+  - q: "Ma sœur est très exigeante envers ___-même."
+    answers: ["elle"]
+    explain: "Конкретное лицо женского рода → **elle-même**."
+  - q: "Il faut savoir rire de ___-même."
+    answers: ["soi"]
+    explain: "Безличное *il faut* + инфинитив → обобщённо: **soi-même**."
+  - q: "Cela va de ___ : les frais de transport sont remboursés."
+    answers: ["soi"]
+    explain: "Устойчивое выражение ***cela va de soi*** — «само собой разумеется»."
+  - q: "Le problème en ___ n'est pas grave ; ce sont ses conséquences qui m'inquiètent."
+    answers: ["soi"]
+    explain: "***En soi*** — «само по себе»; выражение неизменяемо, даже при определённом существительном."
+  - q: "Chacun doit répondre de ___ devant la loi."
+    answers: ["soi"]
+    explain: "*Chacun* — обобщённый субъект → **soi**."
+  - q: "Mon voisin ne parle que de ___ ; c'est épuisant."
+    answers: ["lui", "lui-même"]
+    explain: "Конкретный человек (*mon voisin*) → **lui** (или *lui-même* с усилением)."
+  - q: "Dans un entretien d'embauche, la maîtrise de ___ est essentielle."
+    answers: ["soi"]
+    explain: "***La maîtrise de soi*** — «самообладание», устойчивое выражение с обобщённым смыслом."
+  - q: "Les deux sœurs ne comptent que sur ___-mêmes."
+    answers: ["elles"]
+    explain: "Конкретный субъект, ж. р. мн. ч. → **elles-mêmes**."
+  - q: "Tout le monde a ses défauts, et l'on ne se voit jamais bien ___-même."
+    answers: ["soi"]
+    explain: "*L'on* — обобщённый субъект → **soi-même**."

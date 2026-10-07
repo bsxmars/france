@@ -1,0 +1,44 @@
+title: "Составные существительные во множественном числе"
+type: gap
+intro: "Поставь составное существительное из скобок во множественное число. Принимаются и традиционное написание, и написание по реформе 1990 года. Дефисы обязательны."
+hints:
+  - "Изменяются только существительные и прилагательные; глагол, наречие, предлог — никогда."
+  - "Сущ. + предлог + сущ.: изменяется только первое (des chefs-d'œuvre)."
+  - "Реформа 1990: глагол / предлог + сущ. → s только в конце во мн. ч. (des après-midis)."
+items:
+  - q: "Au marché, elle a acheté deux ___ (chou-fleur) et des carottes."
+    answers: ["choux-fleurs"]
+    explain: "Два существительных-приложения: оба изменяются — ***choux-fleurs*** (*chou* → *choux*, исключение на *-ou*)."
+  - q: "Les ___ (coffre-fort) de la banque ont été forcés pendant la nuit."
+    answers: ["coffres-forts"]
+    explain: "Сущ. + прил.: оба изменяются — ***coffres-forts***."
+  - q: "Après l'orage, on a vu deux ___ (arc-en-ciel) au-dessus de la vallée."
+    answers: ["arcs-en-ciel"]
+    explain: "*En ciel* — дополнение с предлогом, не изменяется: ***arcs-en-ciel***."
+  - q: "Range les ___ (tire-bouchon) dans le tiroir de la cuisine."
+    answers: ["tire-bouchons"]
+    explain: "Глагол *tirer* не изменяется; *bouchon* — по смыслу во мн. ч.: ***tire-bouchons***."
+  - q: "Nous avons passé tous nos ___ (après-midi) à la plage."
+    answers: ["après-midi", "après-midis"]
+    explain: "Предлог + сущ.: традиционно ***après-midi*** (неизменно), по реформе 1990 — ***après-midis***."
+  - q: "Les ___ (haut-parleur) diffusaient une musique assourdissante."
+    answers: ["haut-parleurs"]
+    explain: "*Haut* здесь наречие (*parler haut*) — не изменяется: ***haut-parleurs***."
+  - q: "Mes deux ___ (grand-mère) habitent en Normandie."
+    answers: ["grands-mères", "grand-mères"]
+    explain: "Сегодня рекомендуют ***grands-mères***; старое написание ***grand-mères*** тоже допустимо."
+  - q: "La maternité a accueilli six ___ (nouveau-né) cette nuit."
+    answers: ["nouveau-nés"]
+    explain: "*Nouveau* здесь наречие («новорождённые» = «только что рождённые») — не изменяется: ***nouveau-nés***."
+  - q: "Ce journaliste a rédigé plusieurs ___ (compte rendu) du procès."
+    answers: ["comptes rendus"]
+    explain: "Сущ. + причастие: оба изменяются, дефиса нет — ***comptes rendus***."
+  - q: "Il collectionne les ___ (timbre-poste) du monde entier."
+    answers: ["timbres-poste"]
+    explain: "*Poste* — дополнение (= *de la poste*), не изменяется: ***timbres-poste***."
+  - q: "Les ___ (laissez-passer) seront distribués à l'entrée."
+    answers: ["laissez-passer"]
+    explain: "Глагол + глагол — ничего не изменяется: ***laissez-passer***."
+  - q: "Les enfants faisaient voler leurs ___ (cerf-volant) sur la plage."
+    answers: ["cerfs-volants"]
+    explain: "Сущ. + прил. (*volant*): оба изменяются — ***cerfs-volants***."

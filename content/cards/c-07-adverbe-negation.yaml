@@ -1,0 +1,168 @@
+- id: c07-ment-regle
+  lesson: c-07-adverbe-negation/01-grammaire
+  q: "От какой формы прилагательного образуется наречие на -ment?"
+  a: "Согласная в мужском роде → **женский род** + -ment (*lente → lentement, sèche → sèchement*). Гласная (-i, -é, -u, -ai) → **мужской род** + -ment (*poli → poliment, vrai → vraiment*)."
+- id: c07-ment-ement
+  lesson: c-07-adverbe-negation/01-grammaire
+  q: "Назови 6–8 наречий на -ément."
+  a: "*profondément, précisément, énormément, confusément, commodément, aveuglément, intensément, expressément, conformément, communément.*"
+- id: c07-ment-exceptions
+  lesson: c-07-adverbe-negation/01-grammaire
+  q: "gentil, bref, gai, nul → наречия?"
+  a: "*gentiment, brièvement, gaiement (gaîment), nullement.*"
+- id: c07-ment-grievement
+  lesson: c-07-adverbe-negation/01-grammaire
+  q: "grièvement или gravement?"
+  a: "*Grièvement* — только с ранениями и ожогами (*grièvement blessé*). С болезнью и в остальных случаях — *gravement* (*gravement malade*)."
+- id: c07-ment-circonflexe
+  lesson: c-07-adverbe-negation/01-grammaire
+  q: "Какие наречия на -ûment пишутся с циркумфлексом?"
+  a: "*assidûment, continûment, crûment, dûment, goulûment*; по реформе 1990 года допустимо без него: *assidument*."
+- id: c07-amment-emment
+  lesson: c-07-adverbe-negation/01-grammaire
+  q: "Как образуются и произносятся наречия от прилагательных на -ant и -ent?"
+  a: "*-ant → -amment* (*constamment*), *-ent → -emment* (*évidemment*); две *m*; оба окончания звучат [amɑ̃]."
+- id: c07-amment-exceptions
+  lesson: c-07-adverbe-negation/01-grammaire
+  q: "Какие прилагательные на -ent дают наречие на -entement?"
+  a: "*lent → lentement, présent → présentement, véhément → véhémentement.*"
+- id: c07-adj-adverbe
+  lesson: c-07-adverbe-negation/01-grammaire
+  q: "Ces livres coûtent ___ (cher). Согласуется ли прилагательное?"
+  a: "Нет: *coûtent **cher***. Так же *parler bas / fort, sentir bon, voir clair, travailler dur, refuser net*."
+- id: c07-sans-adverbe
+  lesson: c-07-adverbe-negation/01-grammaire
+  q: "Есть ли наречие от content, charmant, fâché?"
+  a: "Наречия от *content, charmant, fâché* нет: *d'un air content, avec charme, de manière fâchée*."
+- id: c07-comp-bien-mal
+  lesson: c-07-adverbe-negation/02-grammaire
+  q: "Сравнительная и превосходная степень bien, mal, beaucoup, peu?"
+  a: "*bien → mieux, le mieux*; *mal → plus mal (pis), le plus mal (le pis)*; *beaucoup → plus / davantage, le plus*; *peu → moins, le moins*."
+- id: c07-comp-article
+  lesson: c-07-adverbe-negation/02-grammaire
+  q: "C'est elle qui chante ___ mieux. Какой артикль?"
+  a: "**le**: артикль превосходной степени наречия не согласуется."
+- id: c07-comp-pis
+  lesson: c-07-adverbe-negation/02-grammaire
+  q: "Где сохранилось наречие pis?"
+  a: "*tant pis, de mal en pis, qui pis est, au pis aller.* В остальных случаях — *plus mal*."
+- id: c07-comp-davantage
+  lesson: c-07-adverbe-negation/02-grammaire
+  q: "Где ставится davantage?"
+  a: "После глагола или в конце фразы: *Il faut travailler davantage.* Не перед прилагательным: ~~davantage rapide~~ → *plus rapide*."
+- id: c07-comp-possible
+  lesson: c-07-adverbe-negation/02-grammaire
+  q: "«Как можно скорее / раньше»"
+  a: "*le plus vite possible, le plus tôt possible* — *possible* неизменяемо."
+- id: c07-comp-plus-plus
+  lesson: c-07-adverbe-negation/02-grammaire
+  q: "«Чем больше читаешь, тем лучше пишешь»"
+  a: "*Plus on lit, mieux on écrit.* — без артикля и без *que*."
+- id: c07-place-compose
+  lesson: c-07-adverbe-negation/02-grammaire
+  q: "Где стоит короткое наречие (bien, déjà, souvent, trop) в passé composé?"
+  a: "Между вспомогательным глаголом и причастием: *J'ai **bien** dormi.* Наречия времени и места (*hier, ici, tard*) — после причастия."
+- id: c07-place-inversion
+  lesson: c-07-adverbe-negation/02-grammaire
+  q: "Peut-être / aussi / à peine в начале фразы — что меняется?"
+  a: "В письменном языке — инверсия: *Peut-être a-t-il oublié. Aussi avons-nous refusé* (aussi = «поэтому»). Без инверсии: *Peut-être qu'il a oublié*."
+- id: c07-neg-pas
+  lesson: c-07-adverbe-negation/03-grammaire
+  q: "Можно ли сказать «je ne vois pas personne»?"
+  a: "Нет. *Personne, rien, jamais, plus, aucun, nulle part, ni… ni* заменяют *pas*: *Je ne vois personne.*"
+- id: c07-neg-place-compose
+  lesson: c-07-adverbe-negation/03-grammaire
+  q: "Место отрицаний в сложных временах?"
+  a: "*pas, rien, jamais, plus* — между вспомогательным и причастием (*je n'ai rien vu*); *personne, aucun, nulle part, ni… ni* — после причастия (*je n'ai vu personne*)."
+- id: c07-neg-infinitif
+  lesson: c-07-adverbe-negation/03-grammaire
+  q: "Отрицание при инфинитиве: «решил ничего не говорить» / «решил никого не видеть»"
+  a: "*J'ai décidé de **ne rien** dire.* — *J'ai décidé de **ne** voir **personne**.* (*personne, aucun, nulle part* — после инфинитива)."
+- id: c07-neg-chaines
+  lesson: c-07-adverbe-negation/03-grammaire
+  q: "Порядок в цепочке отрицаний?"
+  a: "*plus* первым: *plus jamais, plus rien, plus personne*; *jamais* перед *rien / personne*: *Il ne dit jamais rien.*"
+- id: c07-neg-sujet
+  lesson: c-07-adverbe-negation/03-grammaire
+  q: "Personne / rien / aucun в роли подлежащего"
+  a: "В начале, *ne* перед глаголом, без *pas*: *Personne n'est venu. Rien ne bouge. Aucun élève n'a répondu.*"
+- id: c07-neg-positif
+  lesson: c-07-adverbe-negation/03-grammaire
+  q: "Когда rien, personne, jamais означают «что-либо, кто-либо, когда-либо»?"
+  a: "Без *ne*: в вопросе, после *si*, *sans*, *avant de*, *trop… pour*, после глаголов сомнения и отказа, во второй части сравнения (*mieux que personne, plus que jamais*)."
+- id: c07-neg-un-seul
+  lesson: c-07-adverbe-negation/03-grammaire
+  q: "«Он не сказал ни слова»"
+  a: "*Il n'a pas dit un mot / un seul mot.* — артикль *un* сохраняется как числительное."
+- id: c07-neg-pas-etre
+  lesson: c-07-adverbe-negation/03-grammaire
+  q: "pour ne pas être reconnu / pour n'être pas reconnu — в чём разница?"
+  a: "Смысл один; *n'être pas, n'avoir pas* — книжный порядок с инфинитивами *être* и *avoir*."
+- id: c07-reg-point-guere
+  lesson: c-07-adverbe-negation/04-grammaire
+  q: "ne… point, ne… guère, nullement — значения"
+  a: "*ne… point* — вовсе не (книжн.); *ne… guère* — почти не, мало; *nullement / aucunement* — ничуть, нисколько."
+- id: c07-reg-ne-seul
+  lesson: c-07-adverbe-negation/04-grammaire
+  q: "При каких глаголах ne может отрицать без pas?"
+  a: "*cesser, oser, pouvoir, savoir* (+ инфинитив): *Il ne cesse de pleuvoir. Je n'ose le dire. Je ne puis accepter. Je ne sais que faire.*"
+- id: c07-reg-ne-seul-autres
+  lesson: c-07-adverbe-negation/04-grammaire
+  q: "Устойчивые обороты с ne без pas"
+  a: "*si ce n'est, si je ne me trompe, n'importe, qu'à cela ne tienne, il y a longtemps que je ne l'ai vu, que ne le disiez-vous !*"
+- id: c07-reg-expletif-def
+  lesson: c-07-adverbe-negation/04-grammaire
+  q: "Что такое ne explétif и где он стоит?"
+  a: "*Ne* без отрицательного смысла: после сравнения неравенства (*plus… que je ne pensais*), *craindre / avoir peur que*, *éviter / empêcher que*, *avant que, à moins que, de peur que*."
+- id: c07-reg-expletif-sens
+  lesson: c-07-adverbe-negation/04-grammaire
+  q: "Je crains qu'il ne vienne. / Je crains qu'il ne vienne pas."
+  a: "«Боюсь, что он **придёт**» (ne explétif) — «Боюсь, что он **не** придёт» (настоящее отрицание с *pas*)."
+- id: c07-reg-non
+  lesson: c-07-adverbe-negation/04-grammaire
+  q: "non sans, non loin, non pas, non seulement"
+  a: "*non sans hésitation* — не без колебаний; *non loin de* — недалеко от; *un choix, non pas une obligation* — а не; *non seulement… mais aussi* — не только… но и."
+- id: c07-reg-non-plus
+  lesson: c-07-adverbe-negation/04-grammaire
+  q: "Je n'ai pas faim. — Moi ___ ."
+  a: "*Moi non plus.* (не ~~moi aussi~~): *non plus* — отрицательная пара к *aussi*."
+- id: c07-reg-pas-seul
+  lesson: c-07-adverbe-negation/04-grammaire
+  q: "Pas без ne — где это норма, а где фамильярность?"
+  a: "Норма в эллиптических фразах: *Pas aujourd'hui. Pas trop vite ! Pas du tout.* Опущение *ne* при глаголе (*Je sais pas*) — разговорное, на экзамене DALF его избегают."
+- id: c07-rest-ne-que
+  lesson: c-07-adverbe-negation/05-grammaire
+  q: "Где ставится que в ne… que?"
+  a: "Непосредственно перед ограничиваемым словом: *Je ne peux que répéter* (только повторить) ≠ *Je ne peux répéter que ça* (повторить только это)."
+- id: c07-rest-article
+  lesson: c-07-adverbe-negation/05-grammaire
+  q: "Il ne boit que ___ eau. Какой артикль?"
+  a: "*que **de l'**eau* — после *ne… que* артикль не меняется на *de*: это не отрицание."
+- id: c07-rest-sujet
+  lesson: c-07-adverbe-negation/05-grammaire
+  q: "«Только ты можешь мне помочь»"
+  a: "*Il n'y a que toi qui puisses (peux) m'aider.* / *Toi seul peux m'aider.* — *ne… que* не ограничивает подлежащее."
+- id: c07-rest-ne-faire-que
+  lesson: c-07-adverbe-negation/05-grammaire
+  q: "ne faire que + infinitif — два значения"
+  a: "1) «лишь»: *Je ne fais que constater.* 2) «только и делать, что»: *Il ne fait que se plaindre.* (Книжн. *ne faire que de* + inf. = «только что».)"
+- id: c07-rest-pas-que
+  lesson: c-07-adverbe-negation/05-grammaire
+  q: "Il n'écrit que des romans / Il n'écrit pas que des romans"
+  a: "«Пишет только романы» — «пишет не только романы»."
+- id: c07-rest-plus-que
+  lesson: c-07-adverbe-negation/05-grammaire
+  q: "ne… plus que, ne… jamais que, ne… guère que"
+  a: "*Il ne reste plus qu'une place* — осталось только; *ce n'est jamais qu'un jeu* — всего лишь; *il ne lit guère que des polars* — почти только."
+- id: c07-rest-rien-que
+  lesson: c-07-adverbe-negation/05-grammaire
+  q: "rien que — значение и пример"
+  a: "«Одно лишь, только»: *Rien qu'à le voir, on comprend tout. Des livres, rien que des livres.*"
+- id: c07-rest-seulement-debut
+  lesson: c-07-adverbe-negation/05-grammaire
+  q: "Seulement в начале фразы"
+  a: "= «но, только вот»: *C'est une bonne idée. Seulement, c'est cher.*"
+- id: c07-rest-compose
+  lesson: c-07-adverbe-negation/05-grammaire
+  q: "«Я прочитал только две главы»"
+  a: "*Je n'ai lu que deux chapitres.* — *ne* перед *ai*, *que* после причастия, перед дополнением."

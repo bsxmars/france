@@ -1,0 +1,56 @@
+title: "Participe présent или adjectif verbal?"
+type: choice
+intro: "Выбери форму. Все варианты существуют во французском — реши, глагольная это форма (действие, неизменяемая) или прилагательное (признак, согласуется), и проверь орфографию."
+hints:
+  - "Дополнение, обстоятельство, наречие после, отрицание → participe présent, без согласования."
+  - "Сказуемое после être, простое определение, наречие перед → adjectif verbal, согласуется."
+  - "-quant / -guant → -cant / -gant; -ant → -ent у négliger, précéder, différer, exceller…"
+items:
+  - q: "Les personnes ___ dans la commune peuvent s'inscrire gratuitement."
+    options: ["résidant", "résidentes", "résidantes"]
+    answer: 0
+    explain: "За формой следует обстоятельство места (*dans la commune*) — это действие = *qui résident* → participe présent **résidant**, неизменяемый. *Résident(e)* — существительное или прилагательное без дополнения."
+  - q: "Cette exposition est vraiment ___."
+    options: ["surprenant", "surprenante", "surprenants"]
+    answer: 1
+    explain: "Именная часть сказуемого после *est* → adjectif verbal, согласуется с *exposition*: **surprenante**."
+  - q: "Il nous a fait un discours long et ___."
+    options: ["fatiguant", "fatigant", "fatigants"]
+    answer: 1
+    explain: "Простое определение без дополнения → adjectif verbal *fatigant* (без *u*), м. р. ед. ч. под *discours*: **fatigant**."
+  - q: "C'est un médicament ___ les défenses de l'organisme."
+    options: ["stimulant", "stimulante", "stimulants"]
+    answer: 0
+    explain: "Есть прямое дополнение (*les défenses*) → participe présent **stimulant**, неизменяемый. Совпадение с прилагательным м. р. здесь случайно: важна функция."
+  - q: "Les deux experts ont présenté des avis ___."
+    options: ["différant", "différents", "différants"]
+    answer: 1
+    explain: "Признак без дополнения → adjectif verbal на *-ent*: **différents**. *Différant* (participe) нужен с дополнением: *des avis différant sur un point*."
+  - q: "Les deux experts ont présenté des avis ___ sur un point essentiel."
+    options: ["différant", "différents", "différentes"]
+    answer: 0
+    explain: "Есть обстоятельство *sur un point essentiel* = *qui diffèrent sur…* → participe présent **différant**."
+  - q: "Je cherche un collaborateur ne ___ jamais les détails."
+    options: ["négligeant", "négligent", "négligeants"]
+    answer: 0
+    explain: "Отрицание *ne… jamais* и прямое дополнение → глагольная форма **négligeant** (с *e* после *g*, неизменяемая)."
+  - q: "Un collaborateur ___ ne restera pas longtemps chez nous."
+    options: ["négligeant", "négligent", "négligente"]
+    answer: 1
+    explain: "Постоянное качество, без дополнений → adjectif verbal **négligent** (на *-ent*, без *e* после *g*)."
+  - q: "Les élèves toujours ___ sont appréciés des professeurs."
+    options: ["souriant", "souriants", "sourient"]
+    answer: 1
+    explain: "Наречие стоит **перед** формой (*toujours souriants*) → adjectif verbal, согласуется: **souriants**."
+  - q: "Les élèves ___ toujours aux plaisanteries du professeur l'encouragent."
+    options: ["souriant", "souriants", "sourient"]
+    answer: 0
+    explain: "Есть косвенное дополнение (*aux plaisanteries*) → participe présent **souriant**, неизменяемый."
+  - q: "Le personnel ___ de la compagnie est en grève."
+    options: ["naviguant", "navigant", "navigants"]
+    answer: 1
+    explain: "Устойчивое сочетание *le personnel navigant* (лётный состав): прилагательное без *u* — **navigant**."
+  - q: "Lisez attentivement les pages ___ le premier chapitre."
+    options: ["précédant", "précédentes", "précédents"]
+    answer: 0
+    explain: "Прямое дополнение *le premier chapitre* (= *qui précèdent le premier chapitre*) → participe présent **précédant**."

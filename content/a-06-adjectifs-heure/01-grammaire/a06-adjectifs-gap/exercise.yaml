@@ -1,0 +1,43 @@
+title: "Согласуй прилагательное"
+type: gap
+intro: "Поставь прилагательное из скобок в нужный род и число."
+hints:
+  - "Ж. р.: + -e; -eux → -euse; -et → -ette; на немое -e — без изменений."
+  - "Мн. ч.: + -s; на -s и -x — без изменений."
+items:
+  - q: "Ma sœur est très ___ (sérieux)."
+    answers: ["sérieuse"]
+    explain: "*sœur* — ж. р.; *-eux* → **-euse**."
+  - q: "Les fleurs sont ___ (bleu)."
+    answers: ["bleues"]
+    explain: "*fleurs* — ж. р., мн. ч. → *bleu* + *-e* + *-s* = **bleues**. На слух — как *bleu*."
+  - q: "La mère part et la fille reste ___ (seul)."
+    answers: ["seule"]
+    explain: "*la fille* — ж. р. → **seule**; звучит так же, как *seul*."
+  - q: "Léa est ___ (prêt) à sept heures."
+    answers: ["prête"]
+    explain: "Немое *-t* в ж. р. начинает звучать: *prêt* [prɛ] → **prête** [prɛt]."
+  - q: "Anna a les yeux ___ (gris). — У Анны серые глаза."
+    answers: ["gris"]
+    explain: "*les yeux* — м. р., мн. ч.; *gris* уже оканчивается на *-s* → не меняется."
+  - q: "Mes sœurs ___ (cadet) habitent Lille."
+    answers: ["cadettes"]
+    explain: "ж. р.: *-et* → *-ette*; мн. ч. → **cadettes**."
+  - q: "Ces élèves ne sont pas ___ (paresseux). (о девочках)"
+    answers: ["paresseuses"]
+    explain: "Девочки: ж. р. мн. ч. → *paresseuse* + *-s* = **paresseuses**."
+  - q: "Hugo est ___ (heureux) : il va à Paris."
+    answers: ["heureux"]
+    explain: "*Hugo* — м. р. ед. ч. → форма не меняется: **heureux**."
+  - q: "Cette salle est ___ (clair)."
+    answers: ["claire"]
+    explain: "*salle* — ж. р. → **claire**; *r* звучит в обеих формах."
+  - q: "La dictée n'est pas ___ (difficile)."
+    answers: ["difficile"]
+    explain: "Прилагательное на немое *-e* в ж. р. не меняется: **difficile**."
+  - q: "Regardez ces ___ (vieux) livres."
+    answers: ["vieux"]
+    explain: "*vieux* оканчивается на *-x* → во мн. ч. не меняется; стоит **перед** существительным."
+  - q: "Paul et Anna sont ___ (distrait)."
+    answers: ["distraits"]
+    explain: "Мужчина и женщина вместе → м. р. мн. ч.: **distraits**."

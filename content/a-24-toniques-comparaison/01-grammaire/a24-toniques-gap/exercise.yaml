@@ -1,0 +1,43 @@
+title: "Ударные местоимения"
+type: gap
+intro: "Вставь ударное местоимение (moi, toi, lui, elle, nous, vous, eux, elles). В скобках — подсказка по-русски."
+hints:
+  - "Без глагола, после предлога, после c'est, для выделения — ударное местоимение."
+  - "Penser à, s'adresser à, s'intéresser à + à lui / à elle / à eux."
+items:
+  - q: "___, je préfère le thé. (я)"
+    answers: ["Moi"]
+    explain: "Выделение подлежащего: **Moi**, je… — «а я…»."
+  - q: "Qui a pris mon stylo ? — ___ ! (он)"
+    answers: ["Lui"]
+    explain: "Короткий ответ без глагола → **lui**."
+  - q: "Paul et ___, nous partons demain. (я)"
+    answers: ["moi"]
+    explain: "Два подлежащих → ударное **moi**, затем обобщающее *nous*."
+  - q: "Ce soir, je dîne chez ___. (они, м. р.)"
+    answers: ["eux"]
+    explain: "После предлога — ударное; 3-е лицо мн. ч. м. р. — **eux**."
+  - q: "Elle est partie sans ___. (ты)"
+    answers: ["toi"]
+    explain: "После предлога *sans* → **toi**."
+  - q: "C'est ___ qui avez raison. (вы)"
+    answers: ["vous"]
+    explain: "*C'est **vous** qui avez* — глагол согласуется с *vous*."
+  - q: "Ils ont fait ce gâteau ___-mêmes. (они, м. р.)"
+    answers: ["eux"]
+    explain: "«Сами» — ударное + *même(s)*: **eux-mêmes**."
+  - q: "Ma sœur habite loin, je pense souvent à ___. (она)"
+    answers: ["elle"]
+    explain: "*Penser à qn* требует *à* + ударное: **à elle** (не *je lui pense*)."
+  - q: "Mon frère est plus grand que ___. (я)"
+    answers: ["moi"]
+    explain: "После *que* в сравнении — ударное: **que moi**."
+  - q: "___ aussi, nous aimons ce film. (мы)"
+    answers: ["Nous"]
+    explain: "С *aussi* — ударное: **Nous aussi**, nous…"
+  - q: "Voilà le directeur, adresse-toi à ___. (к нему)"
+    answers: ["lui"]
+    explain: "*S'adresser à qn* — *à* + ударное: **à lui**."
+  - q: "___ seule connaît la réponse. (она)"
+    answers: ["Elle"]
+    explain: "С *seul(e)* — ударное, подлежащее не повторяется: **Elle seule** connaît…"

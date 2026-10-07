@@ -1,0 +1,69 @@
+title: "Займи позицию"
+type: transform
+intro: |
+  Начни фразу с **ключевого оборота** и впиши недостающую часть. Подумай: subjonctif, indicatif или инфинитив (если подлежащее одно)?
+hints:
+  - "il faut, il est important, je souhaite, je regrette, je doute, c'est une honte → subjonctif."
+  - "je suis sûr, il est évident, je trouve que → indicatif."
+  - "Одно подлежащее у двух глаголов → инфинитив."
+items:
+  - q: "Les écarts de salaire entre hommes et femmes diminuent."
+    key: "JE ME RÉJOUIS"
+    stem: "Je me réjouis que les écarts de salaire entre hommes et femmes ___."
+    answers: ["diminuent"]
+    explain: "Чувство → subjonctif; у *diminuer* формы *ils* совпадают в обоих наклонениях: **diminuent**."
+  - q: "Les écoles font une place à l'égalité filles-garçons."
+    key: "IL EST ESSENTIEL"
+    stem: "Il est essentiel que les écoles ___ une place à l'égalité filles-garçons."
+    answers: ["fassent"]
+    explain: "Необходимость → subjonctif: *qu'elles **fassent***."
+  - q: "Les mentalités changent vite."
+    key: "JE DOUTE"
+    stem: "Je doute que les mentalités ___ vite."
+    answers: ["changent"]
+    explain: "Сомнение → subjonctif: **changent** (форма совпадает с indicatif у глаголов на *-er* в 3-м л. мн. ч.)."
+  - q: "La parité est une réalité dans les entreprises."
+    key: "JE NE PENSE PAS"
+    stem: "Je ne pense pas que la parité ___ une réalité dans les entreprises."
+    answers: ["soit"]
+    explain: "Глагол мнения в отрицании → subjonctif: **soit**."
+  - q: "La parité n'est pas encore une réalité dans les entreprises."
+    key: "IL EST CLAIR"
+    stem: "Il est clair que la parité ___ pas encore une réalité dans les entreprises."
+    answers: ["n'est"]
+    explain: "Очевидность → indicatif; смысл требует отрицания: *la parité **n'est** pas encore…*"
+  - q: "Les femmes ont accès aux mêmes postes que les hommes."
+    key: "IL FAUDRAIT"
+    stem: "Il faudrait que les femmes ___ accès aux mêmes postes que les hommes."
+    answers: ["aient"]
+    explain: "*Il faudrait que* — смягчённое требование → subjonctif: *qu'elles **aient***."
+  - q: "On n'a pas encore traduit ce rapport en anglais."
+    key: "C'EST DOMMAGE"
+    stem: "C'est dommage qu'on ___ encore traduit ce rapport en anglais."
+    answers: ["n'ait pas"]
+    explain: "Оценка → subjonctif; действие уже (не) произошло → subjonctif passé: *qu'on **n'ait pas** traduit*."
+  - q: "Je participerai au débat de ce soir. (Je souhaite…)"
+    key: "SOUHAITE"
+    stem: "Je ___ au débat de ce soir."
+    answers: ["souhaite participer"]
+    explain: "Подлежащее одно (*je* хочу, *je* участвую) → инфинитив: *Je souhaite **participer***."
+  - q: "Vous participerez au débat de ce soir. (Je souhaite…)"
+    key: "SOUHAITE"
+    stem: "Je ___ au débat de ce soir."
+    answers: ["souhaite que vous participiez"]
+    explain: "Подлежащие разные → *que* + subjonctif: *que vous **participiez***."
+  - q: "Nous avons obtenu ce financement. Nous en sommes fiers."
+    key: "FIERS"
+    stem: "Nous sommes ___ ce financement."
+    answers: ["fiers d'avoir obtenu"]
+    explain: "Одно подлежащее (*nous*), действие раньше → инфинитив прошедшего времени: *fiers **d'avoir obtenu***."
+  - q: "Les journalistes connaissent les chiffres exacts."
+    key: "IL EST PEU PROBABLE"
+    stem: "Il est peu probable que les journalistes ___ les chiffres exacts."
+    answers: ["connaissent"]
+    explain: "*Peu probable* — сомнение → subjonctif: **connaissent** (совпадает с indicatif)."
+  - q: "Ce débat se termine sans solution."
+    key: "JE CRAINS"
+    stem: "Je crains que ce débat ___ sans solution."
+    answers: ["ne se termine", "se termine"]
+    explain: "Опасение → subjonctif: **se termine**; в письменной речи после *craindre que* часто ставят «пустое» *ne*: *qu'il **ne** se termine*."

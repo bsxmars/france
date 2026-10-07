@@ -1,0 +1,43 @@
+title: "Идиомы с en"
+type: gap
+intro: "Впиши выражение с en в нужной форме (глагол из скобок). Местоимения-дополнения и отрицание — тоже в пропуск."
+hints:
+  - "s'en aller, en vouloir à qn, en avoir assez, n'en pouvoir plus, en finir avec, en venir à, s'en faire, en être à, s'en prendre à, s'en sortir."
+  - "Сложные времена: il s'en est allé, elle s'en est sortie; императив: va-t'en, ne t'en fais pas."
+items:
+  - q: "Il est déjà minuit : nous ___ (s'en aller, présent)."
+    answers: ["nous en allons"]
+    explain: "*S'en aller* в présent: **nous nous en allons** — *en* стоит после возвратного местоимения."
+  - q: "Tu es encore fâché ? Tu ___ (en vouloir, présent) toujours de ne pas t'avoir invité ?"
+    answers: ["m'en veux"]
+    explain: "***En vouloir à qn de qch*** — «сердиться на кого-то за что-то»: *tu **m'en veux***."
+  - q: "Ne ___ (s'en faire, impératif, tu) : l'examen se passera bien."
+    answers: ["t'en fais pas"]
+    explain: "Отрицательный императив: ***Ne t'en fais pas*** — «не волнуйся»."
+  - q: "On travaille depuis six heures ce matin ; je ___ (n'en pouvoir plus, présent)."
+    answers: ["n'en peux plus"]
+    explain: "***N'en pouvoir plus*** — «выбиться из сил»: *je **n'en peux plus***."
+  - q: "J'___ (en avoir assez, présent) de tes retards continuels !"
+    answers: ["en ai assez"]
+    explain: "***En avoir assez de qch*** — «надоело»: *j'**en ai assez** de…*"
+  - q: "Où ___ (en être, tu, présent) de ta thèse ? — J'en suis au dernier chapitre."
+    answers: ["en es-tu", "tu en es"]
+    explain: "***En être à*** — «дойти до этапа»: *Où **en es-tu** ?* — «На каком ты этапе?»"
+  - q: "Je ne comprends pas où vous voulez ___ (en venir) avec toutes ces questions."
+    answers: ["en venir"]
+    explain: "***En venir à*** — «клонить к»: *où voulez-vous **en venir** ?*"
+  - q: "Ce n'est pas ma faute ! Pourquoi est-ce que tu ___ (s'en prendre, présent) à moi ?"
+    answers: ["t'en prends"]
+    explain: "***S'en prendre à qn*** — «нападать, винить»: *tu **t'en prends** à moi*."
+  - q: "Elle a perdu son emploi, mais elle ___ (s'en sortir, passé composé) très bien."
+    answers: ["s'en est sortie"]
+    explain: "***S'en sortir*** — «справиться»; возвратный глагол с *être*, причастие согласуется с подлежащим: *elle **s'en est sortie***."
+  - q: "Ce conflit dure depuis des années ; il faut enfin ___ (en finir)."
+    answers: ["en finir"]
+    explain: "***En finir (avec qch)*** — «покончить»: *il faut **en finir***."
+  - q: "Partez ! ___ (s'en aller, impératif, vous) immédiatement !"
+    answers: ["Allez-vous-en"]
+    explain: "Утвердительный императив *s'en aller*: ***Allez-vous-en*** — с двумя дефисами."
+  - q: "Les invités ___ (s'en aller, passé composé) sans dire au revoir."
+    answers: ["s'en sont allés"]
+    explain: "*S'en aller* в passé composé: *en* между *se* и *être*: **ils s'en sont allés** (согласование с подлежащим)."

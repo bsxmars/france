@@ -1,0 +1,47 @@
+title: "Какое значение у présent?"
+type: choice
+intro: "Определи значение présent в предложении."
+hints:
+  - "depuis / ça fait… que — длительность; venir, arriver, sortir, apporter — недавнее прошлое."
+  - "Указание на будущее время → présent вместо будущего; рассказ о прошлом → présent de narration."
+items:
+  - q: "« Je t'apporte les clés que tu as oubliées chez moi. »"
+    options: ["недавнее прошлое", "общая истина", "будущее"]
+    answer: 0
+    explain: "*Apporter* в présent = «я принёс»: действие только что совершилось, результат налицо."
+  - q: "« L'avion décolle dans vingt minutes. »"
+    options: ["момент речи", "будущее", "привычка"]
+    answer: 1
+    explain: "Указание *dans vingt minutes* → présent вместо будущего: решённое, близкое событие."
+  - q: "« Les chats voient dans l'obscurité. »"
+    options: ["общая истина", "момент речи", "недавнее прошлое"]
+    answer: 0
+    explain: "Факт вне времени → **présent de vérité générale**."
+  - q: "« Nous habitons ce quartier depuis dix ans. »"
+    options: ["длительность до момента речи", "будущее", "рассказ о прошлом"]
+    answer: 0
+    explain: "*Depuis* + présent: действие началось в прошлом и продолжается."
+  - q: "« Le 14 juillet 1789, les Parisiens s'emparent de la Bastille. »"
+    options: ["общая истина", "présent de narration", "будущее"]
+    answer: 1
+    explain: "Историческое событие в présent — **présent de narration (historique)**."
+  - q: "« Ne m'attends pas, j'arrive dans un quart d'heure. »"
+    options: ["недавнее прошлое", "будущее", "момент речи"]
+    answer: 1
+    explain: "С *dans un quart d'heure* — ближайшее будущее."
+  - q: "« D'où viens-tu ? — J'arrive de la piscine. »"
+    options: ["недавнее прошлое", "будущее", "привычка"]
+    answer: 0
+    explain: "*Arriver de* — «только что пришёл из»: недавнее прошлое."
+  - q: "« Chut ! Le bébé dort. »"
+    options: ["момент речи", "общая истина", "будущее"]
+    answer: 0
+    explain: "Действие происходит прямо сейчас — **présent actuel**."
+  - q: "« Il marchait seul dans la forêt. Tout à coup, un cerf surgit devant lui. »"
+    options: ["présent de narration", "будущее", "длительность"]
+    answer: 0
+    explain: "Внезапное событие на фоне imparfait — **présent de narration**, оживляет рассказ."
+  - q: "« Vous tournez à gauche après la pharmacie, puis vous continuez tout droit. »"
+    options: ["инструкция, мягкий приказ", "общая истина", "недавнее прошлое"]
+    answer: 0
+    explain: "Présent в объяснении маршрута — мягкая замена императива."

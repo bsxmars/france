@@ -1,0 +1,96 @@
+- id: c11-plan-present
+  lesson: c-11-concordance-imperatif/01-concordance
+  q: "Главное в présent / futur: какие времена в придаточном?"
+  a: "Как в самостоятельном предложении: одновременно — présent, раньше — passé composé (imparfait для фона), позже — futur. *Elle affirme que son fils travaille / a déménagé / reviendra.*"
+- id: c11-plan-passe
+  lesson: c-11-concordance-imperatif/01-concordance
+  q: "Главное в прошедшем: одновременность, предшествование, следование?"
+  a: "imparfait / plus-que-parfait / conditionnel présent (futur dans le passé). *Elle a affirmé que son fils travaillait / avait déménagé / reviendrait.*"
+- id: c11-futur-ant-passe
+  lesson: c-11-concordance-imperatif/01-concordance
+  q: "«Она сказала, что переедет, как только найдёт работу»."
+  a: "*Elle a dit qu'elle **déménagerait** dès qu'elle **aurait trouvé** du travail.* Futur antérieur в плане прошедшего → conditionnel passé."
+- id: c11-invariables
+  lesson: c-11-concordance-imperatif/01-concordance
+  q: "Какие времена прямой речи не меняются после прошедшего главного?"
+  a: "Imparfait, plus-que-parfait и conditionnel: *« Je vivais à Lille » → Il a raconté qu'il vivait à Lille.*"
+- id: c11-erreur-type
+  lesson: c-11-concordance-imperatif/01-concordance
+  q: "«Я понял, что ошибся», «Я знал, что он ответит»."
+  a: "*J'ai compris que je **m'étais trompé**. Je savais qu'il **répondrait**.* Русское время в придаточное не переносится."
+- id: c11-verites
+  lesson: c-11-concordance-imperatif/01-concordance
+  q: "Когда можно не согласовывать времена?"
+  a: "Общеизвестная истина (*Il a rappelé que l'eau **bout** à 100 °C*) и факт, верный в момент речи (*Elle m'a dit qu'elle **habite** à Lyon*). Согласование при этом тоже правильно."
+- id: c11-si-interrogatif
+  lesson: c-11-concordance-imperatif/01-concordance
+  q: "«Он спросил, приду ли я» — можно ли conditionnel после *si*?"
+  a: "Да: *Il m'a demandé **si** je **viendrais**.* Это *si* «ли» (косвенный вопрос), а не условное *si*."
+- id: c11-relatives
+  lesson: c-11-concordance-imperatif/01-concordance
+  q: "Подчиняются ли относительные придаточные строгому согласованию?"
+  a: "Нет, время выбирается по смыслу: *J'ai rencontré hier la femme qui **sera** notre directrice.*"
+- id: c11-imp-irreguliers
+  lesson: c-11-concordance-imperatif/02-imperatif
+  q: "Императив: être, avoir, savoir, vouloir (tu / vous)."
+  a: "*sois / soyez; aie / ayez; sache / sachez; veuille / veuillez.* Без *-s*: ~~aies~~, ~~saches~~."
+- id: c11-imp-s
+  lesson: c-11-concordance-imperatif/02-imperatif
+  q: "Когда у *parle, va, ouvre* появляется -s?"
+  a: "Перед *y* и *en*, относящимися к императиву: *vas-y, penses-y, manges-en, cueilles-en*. Но *va en chercher* (en — при инфинитиве) — без -s."
+- id: c11-imp-passe
+  lesson: c-11-concordance-imperatif/02-imperatif
+  q: "Passé de l'impératif: форма и смысл."
+  a: "*aie / soyez* + причастие: действие должно быть завершено к сроку. *Aie fini avant midi. Soyez rentrés avant minuit.*"
+- id: c11-imp-valeurs
+  lesson: c-11-concordance-imperatif/02-imperatif
+  q: "Значения императива, кроме приказа."
+  a: "Просьба, совет, пожелание (*Passez de bonnes fêtes*), призыв в 1-м л. мн. ч. (*Allons-y*), условие (*Bougez, et je tire*), уступка (*Riez tant que vous voudrez…*)."
+- id: c11-veuillez
+  lesson: c-11-concordance-imperatif/02-imperatif
+  q: "Вежливые формулы императива в soutenu."
+  a: "*Veuillez patienter. Veuillez agréer… Ayez l'obligeance de… Soyez assez aimable pour… Sachez que…*"
+- id: c11-sois-soit
+  lesson: c-11-concordance-imperatif/02-imperatif
+  q: "«Будь спокоен»: *sois* или *soit*?"
+  a: "***Sois** tranquille.* *Soit* — 3-е лицо субъюнктива (*qu'il soit*) или союз *soit… soit*."
+- id: c11-imp-remplacants
+  lesson: c-11-concordance-imperatif/02-imperatif
+  q: "Чем ещё можно выразить побуждение?"
+  a: "Инфинитив в инструкциях (*Ne pas se pencher*), futur (*Tu prendras ce médicament*), conditionnel (*Tu devrais…*), *que* + subjonctif для 3-го лица (*Qu'il entre !*)."
+- id: c11-imp-pronominaux
+  lesson: c-11-concordance-imperatif/02-imperatif
+  q: "Императив *se lever* и *s'inquiéter*: утверждение и отрицание (tu, vous)."
+  a: "*Lève-toi / Ne te lève pas; Inquiétez-vous / Ne vous inquiétez pas.*"
+- id: c11-ordre-affirmatif
+  lesson: c-11-concordance-imperatif/03-imperatif-pronoms
+  q: "Порядок местоимений в утвердительном императиве."
+  a: "глагол — le/la/les — moi/toi/lui/nous/vous/leur — y — en, через дефис: *Donne-le-moi. Parle-lui-en. Envoyez-les-nous.*"
+- id: c11-ordre-negatif
+  lesson: c-11-concordance-imperatif/03-imperatif-pronoms
+  q: "«Не давай мне его!», «Не говори ему об этом!»"
+  a: "*Ne **me le** donne pas ! Ne **lui en** parle pas !* В отрицании — обычный порядок перед глаголом, без дефисов."
+- id: c11-moi-en
+  lesson: c-11-concordance-imperatif/03-imperatif-pronoms
+  q: "«Дай мне немного», «Займись этим», «Уходи!»"
+  a: "*Donne-**m'en** un peu. Occupe-**t'en**. Va-**t'en** !* Перед *en*: moi → m', toi → t'."
+- id: c11-va-ten
+  lesson: c-11-concordance-imperatif/03-imperatif-pronoms
+  q: "*Va-t'en* или *va-t-en*? Почему?"
+  a: "***Va-t'en***: *t'* — местоимение *te* (*s'en aller*), поэтому апостроф. *-t-* через дефисы — связующая буква в вопросе: *Va-t-il venir ?*"
+- id: c11-inf-pronom
+  lesson: c-11-concordance-imperatif/03-imperatif-pronoms
+  q: "«Сходи за ним» / «Дай ему уйти»."
+  a: "*Va **le** chercher* (местоимение при инфинитиве, без дефиса) / *Laisse-**le** partir* (при *laisser, faire* — к императиву через дефис)."
+- id: c11-moi-toi
+  lesson: c-11-concordance-imperatif/03-imperatif-pronoms
+  q: "*Lève-te* или *Lève-toi*? *Regarde-me* или *Regarde-moi*?"
+  a: "В конце утвердительного императива — ударные формы: ***Lève-toi. Regarde-moi.***"
+- id: c11-ne-pas-trait
+  lesson: c-11-concordance-imperatif/03-imperatif-pronoms
+  q: "Есть ли дефисы в отрицательном императиве с местоимениями?"
+  a: "Нет: *Ne t'en fais pas. N'y va pas. Ne le lui dis pas.*"
+- id: c11-faites-le-lui
+  lesson: c-11-concordance-imperatif/03-imperatif-pronoms
+  q: "«Заставьте его это понять» / «Не заставляй их ждать»."
+  a: "*Faites-**le-lui** comprendre. / Ne **les** fais pas attendre.* При *faire* + инфинитив местоимения — при императиве."

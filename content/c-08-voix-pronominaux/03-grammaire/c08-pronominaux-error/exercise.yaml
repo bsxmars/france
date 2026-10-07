@@ -1,0 +1,40 @@
+title: "Тонкая ошибка в местоимённом глаголе"
+type: error
+intro: "В каждом предложении одна ошибка: лишнее или пропущенное согласование, неверное местоимение при инфинитиве или в повелительном наклонении. Перепиши предложение правильно."
+hints:
+  - "Ищи COD: где он и что стоит перед глаголом."
+  - "При инфинитиве местоимение совпадает с подлежащим: je dois me…, tu as raison de t'…"
+items:
+  - q: "Elle s'est lavée les mains avant de passer à table."
+    answers: ["Elle s'est lavé les mains avant de passer à table."]
+    explain: "COD *les mains* после глагола, *se* = COI → **lavé**."
+  - q: "Ils se sont parlés pendant toute la nuit."
+    answers: ["Ils se sont parlé pendant toute la nuit."]
+    explain: "*Parler à qn* — *se* = COI → **parlé** без согласования."
+  - q: "Les deux sœurs se sont écrit des lettres qu'elles se sont ensuite lu à voix haute."
+    answers: ["Les deux sœurs se sont écrit des lettres qu'elles se sont ensuite lues à voix haute."]
+    explain: "Во второй части COD *que* (= *des lettres*) стоит перед глаголом → **lues**. В первой COD *des lettres* — после, поэтому *écrit* верно."
+  - q: "Nous avons décidé de se retrouver devant le cinéma."
+    answers: ["Nous avons décidé de nous retrouver devant le cinéma."]
+    explain: "При инфинитиве местоимение согласуется с подлежащим: *nous… de **nous** retrouver*."
+  - q: "Ne t'inquiète pas et assieds-te ici."
+    answers: ["Ne t'inquiète pas et assieds-toi ici."]
+    explain: "В утвердительном повелительном *te* → **toi**: *assieds-toi*."
+  - q: "Elle s'est permise de me corriger devant tout le monde."
+    answers: ["Elle s'est permis de me corriger devant tout le monde."]
+    explain: "*Permettre à soi* — *se* = COI → **permis** неизменно."
+  - q: "Ils se sont téléphonés pour fixer un rendez-vous."
+    answers: ["Ils se sont téléphoné pour fixer un rendez-vous."]
+    explain: "*Téléphoner à qn* → COI → **téléphoné**."
+  - q: "Les deux équipes se sont affronté en finale."
+    answers: ["Les deux équipes se sont affrontées en finale."]
+    explain: "*Affronter qn* — *se* = COD «друг друга» → **affrontées** (ж. р. мн. ч.)."
+  - q: "Elle s'est coupée le doigt en épluchant les légumes."
+    answers: ["Elle s'est coupé le doigt en épluchant les légumes."]
+    explain: "COD *le doigt* после глагола → **coupé**."
+  - q: "Tu as raison de s'en occuper toi-même."
+    answers: ["Tu as raison de t'en occuper toi-même."]
+    explain: "Подлежащее *tu* → при инфинитиве **t'**: *de t'en occuper*."
+  - q: "Les ministres se sont succédés à la tribune."
+    answers: ["Les ministres se sont succédé à la tribune."]
+    explain: "*Succéder à qn* — COI → **succédé**."

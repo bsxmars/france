@@ -1,0 +1,38 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: порядок слов после que / qu'est-ce que, артикль при сказуемом или слитный артикль. Исправь её и отправь предложение целиком."
+hints:
+  - "Que + инверсия; qu'est-ce que + прямой порядок."
+  - "Профессия + прилагательное → un / une."
+  - "de le → du, de les → des."
+items:
+  - q: "Que tu cherches ?"
+    answers: ["Que cherches-tu ?", "Qu'est-ce que tu cherches ?"]
+    explain: "После *que* нужна инверсия: **Que cherches-tu ?** (или *Qu'est-ce que tu cherches ?*)."
+  - q: "Qu'est-ce que regarde-t-il ?"
+    answers: ["Qu'est-ce qu'il regarde ?", "Que regarde-t-il ?"]
+    explain: "После *qu'est-ce que* порядок прямой: **Qu'est-ce qu'il regarde ?**"
+  - q: "Que Paul achète-t-il ?"
+    answers: ["Qu'achète Paul ?", "Qu'est-ce que Paul achète ?"]
+    explain: "После *que* с существительным — простая инверсия: **Qu'achète Paul ?**"
+  - q: "Que écrit-elle ?"
+    answers: ["Qu'écrit-elle ?"]
+    explain: "Перед гласной *que* теряет *e*: **Qu'écrit-elle ?**"
+  - q: "Que je fais ?"
+    answers: ["Qu'est-ce que je fais ?", "Que fais-je ?"]
+    explain: "С *je* вопрос строят через **qu'est-ce que**: *Qu'est-ce que je fais ?*"
+  - q: "Sa mère est bonne actrice."
+    answers: ["Sa mère est une bonne actrice."]
+    explain: "Есть прилагательное *bonne* → нужен артикль: **une** bonne actrice."
+  - q: "Léa est une secrétaire."
+    answers: ["Léa est secrétaire."]
+    explain: "Профессия без определения после *être* — **без артикля**: *Léa est secrétaire*."
+  - q: "C'est le bureau de le directeur."
+    answers: ["C'est le bureau du directeur."]
+    explain: "*de* + *le* → **du**."
+  - q: "Je regarde les cahiers de les élèves."
+    answers: ["Je regarde les cahiers des élèves."]
+    explain: "*de* + *les* → **des**."
+  - q: "Ils habitent près du gare."
+    answers: ["Ils habitent près de la gare."]
+    explain: "*gare* — ж. р., *la* с *de* не сливается: près **de la** gare."

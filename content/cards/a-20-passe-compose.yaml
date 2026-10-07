@@ -1,0 +1,44 @@
+- id: a20-pc-formation
+  lesson: a-20-passe-compose/01-grammaire
+  q: "Как образуется passé composé?"
+  a: "*avoir* или *être* в настоящем времени + participe passé: *j'**ai parlé**, elle **est partie***."
+- id: a20-participes
+  lesson: a-20-passe-compose/01-grammaire
+  q: "Participe passé: faire, prendre, voir, lire, écrire, mettre, avoir, être?"
+  a: "*fait, pris, vu, lu, écrit, mis, eu, été*. I группа → *-é* (*parlé*), II группа → *-i* (*fini*)."
+- id: a20-etre-liste
+  lesson: a-20-passe-compose/01-grammaire
+  q: "Какие глаголы спрягаются в passé composé с *être*?"
+  a: "*aller — venir, arriver — partir, entrer — sortir, monter — descendre, naître — mourir, rester, tomber, rentrer, revenir, devenir*. Остальные — с *avoir*."
+- id: a20-accord-etre
+  lesson: a-20-passe-compose/01-grammaire
+  q: "«Мои сёстры приехали», «Мои братья уехали»."
+  a: "*Mes sœurs **sont arrivées**. Mes frères **sont partis**.* — при *être* причастие согласуется с подлежащим."
+- id: a20-negation-question
+  lesson: a-20-passe-compose/01-grammaire
+  q: "«Я не понял», «Ты закончил?» (инверсия)"
+  a: "*Je **n'ai pas** compris. **As-tu** fini ?* — меняется вспомогательный глагол, причастие стоит после."
+- id: a20-pronoms
+  lesson: a-20-passe-compose/01-grammaire
+  q: "Где местоимение-дополнение в passé composé? «Я его не видел»."
+  a: "Перед вспомогательным глаголом: *Je **ne l'ai pas** vu.*"
+- id: a20-adverbes
+  lesson: a-20-passe-compose/01-grammaire
+  q: "Где ставить *bien, beaucoup, déjà, encore* и где *hier, tard, ici*?"
+  a: "Короткие — между вспомогательным глаголом и причастием: *Il a **déjà** fini.* Время и место — после причастия: *Il est rentré **tard**.*"
+- id: a20-pluriel-noms
+  lesson: a-20-passe-compose/02-grammaire
+  q: "Множественное число: bateau, jeu, journal, travail?"
+  a: "*des bateau**x**, des jeu**x**, des journ**aux**, des trav**aux***. Исключения: *des festivals, des pneus*."
+- id: a20-pluriel-adj
+  lesson: a-20-passe-compose/02-grammaire
+  q: "*les problèmes ___ / les questions ___* (social)"
+  a: "*les problèmes **sociaux** / les questions **sociales*** — *-aux* только в мужском роде. *beau → beaux, nouveau → nouveaux, bleu → bleus*."
+- id: a20-connaitre
+  lesson: a-20-passe-compose/02-grammaire
+  q: "Проспрягай *connaître* в настоящем времени."
+  a: "*je connais, tu connais, il conna**î**t, nous conna**ss**ons, vous conna**ss**ez, ils conna**ss**ent*; причастие — *connu*."
+- id: a20-connaitre-savoir
+  lesson: a-20-passe-compose/02-grammaire
+  q: "*Connaître* или *savoir*: «Я знаю Пьера», «Я знаю, где он живёт»."
+  a: "*Je **connais** Pierre* — знакомство (+ существительное). *Je **sais** où il habite* — факт (+ придаточное или инфинитив)."

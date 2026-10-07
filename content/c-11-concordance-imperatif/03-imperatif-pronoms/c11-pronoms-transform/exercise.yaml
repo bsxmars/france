@@ -1,0 +1,68 @@
+title: "Местоимения при императиве"
+type: transform
+intro: "Замени выделенные по смыслу дополнения местоимениями или поменяй утверждение на отрицание (и наоборот). **Ключевое слово** должно быть в ответе."
+hints:
+  - "Утверждение: глагол-le-moi / глагол-lui-en / -m'en / -t'en, всё через дефис."
+  - "Отрицание: ne + me/te/se/nous/vous + le/la/les + lui/leur + y + en + глагол + pas."
+  - "Местоимение при инфинитиве — перед инфинитивом (va le chercher); при laisser / faire — после императива (laisse-le partir)."
+items:
+  - q: "Donne ce livre à ton frère."
+    key: "LUI"
+    stem: "___ !"
+    answers: ["Donne-le-lui"]
+    explain: "Прямое *le* раньше косвенного *lui*: ***Donne-le-lui***."
+  - q: "Ne prête pas ta voiture à tes voisins."
+    key: "LEUR"
+    stem: "___ !"
+    answers: ["Ne la leur prête pas"]
+    explain: "Отрицание: местоимения перед глаголом, *la* → *leur*: ***Ne la leur prête pas***."
+  - q: "Parle de ce projet à ta directrice."
+    key: "EN"
+    stem: "___ !"
+    answers: ["Parle-lui-en"]
+    explain: "*À ta directrice* → *lui*, *de ce projet* → *en*: ***Parle-lui-en***."
+  - q: "Donne-moi un peu de café."
+    key: "EN"
+    stem: "___ un peu !"
+    answers: ["Donne-m'en"]
+    explain: "Перед *en* ударное *moi* сокращается: ***Donne-m'en** un peu*."
+  - q: "Va-t'en !"
+    key: "PAS"
+    stem: "___ !"
+    answers: ["Ne t'en va pas"]
+    explain: "Отрицание *s'en aller*: ***Ne t'en va pas***."
+  - q: "Ne t'occupe pas de cette affaire."
+    key: "T'EN"
+    stem: "___ !"
+    answers: ["Occupe-t'en"]
+    explain: "Утверждение: *toi* + *en* → ***Occupe-t'en***."
+  - q: "Ne vous souvenez pas de ce détail."
+    key: "EN"
+    stem: "___ !"
+    answers: ["Souvenez-vous-en"]
+    explain: "Утвердительная форма возвратного глагола с *en*: ***Souvenez-vous-en***."
+  - q: "Envoyez-nous les photos du mariage."
+    key: "LES"
+    stem: "___ !"
+    answers: ["Envoyez-les-nous"]
+    explain: "Прямое *les* перед косвенным *nous*: ***Envoyez-les-nous***."
+  - q: "Ne va pas à cette réunion."
+    key: "Y"
+    stem: "___ !"
+    answers: ["N'y va pas"]
+    explain: "*À cette réunion* → *y*; в отрицании перед глаголом: ***N'y va pas*** (без *-s*: *y* стоит не после *va*)."
+  - q: "Montre-moi ces lettres."
+    key: "ME"
+    stem: "___ !"
+    answers: ["Ne me les montre pas"]
+    explain: "Отрицание: *me* → *les* → глагол: ***Ne me les montre pas***."
+  - q: "Laisse ton fils partir."
+    key: "LE"
+    stem: "___ partir !"
+    answers: ["Laisse-le"]
+    explain: "При *laisser* + инфинитив местоимение присоединяется к императиву: ***Laisse-le** partir*."
+  - q: "Va chercher les enfants à l'école."
+    key: "LES"
+    stem: "___ à l'école !"
+    answers: ["Va les chercher"]
+    explain: "*Les* — дополнение к *chercher* → перед инфинитивом, без дефиса: ***Va les chercher***."

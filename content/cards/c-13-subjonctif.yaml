@@ -1,0 +1,220 @@
+- id: c13-formes-base
+  lesson: c-13-subjonctif/01-grammaire
+  q: "От какой формы образуется présent du subjonctif и какие у него окончания?"
+  a: "От основы *ils* présent de l'indicatif (*ils finiss-ent*) + *-e, -es, -e, -ions, -iez, -ent*: *que je **finisse**, que nous **finissions***."
+- id: c13-formes-deux-bases
+  lesson: c-13-subjonctif/01-grammaire
+  q: "que je prenne → que nous ___ ; que je boive → que nous ___ ; que je voie → que nous ___"
+  a: "*que nous **prenions**, **buvions**, **voyions*** — формы *nous / vous* от основы *nous* (как в imparfait)."
+- id: c13-formes-ier
+  lesson: c-13-subjonctif/01-grammaire
+  q: "Subjonctif nous от étudier, rire, payer, croire."
+  a: "*que nous **étudiions**, **riions**, **payions**, **croyions*** — два i или y + i."
+- id: c13-formes-etre-avoir
+  lesson: c-13-subjonctif/01-grammaire
+  q: "Subjonctif être и avoir в nous / vous и в 3-м л. ед. ч."
+  a: "*que nous **soyons**, que vous **soyez**, que nous **ayons**, que vous **ayez*** — без i; *qu'il **soit**, qu'il **ait*** — без -e."
+- id: c13-formes-irreguliers
+  lesson: c-13-subjonctif/01-grammaire
+  q: "Subjonctif (que je / que nous): aller, faire, pouvoir, savoir, vouloir, valoir."
+  a: "*aille / allions; fasse / fassions; puisse / puissions; sache / sachions; veuille / voulions; vaille / valions*."
+- id: c13-formes-passe
+  lesson: c-13-subjonctif/01-grammaire
+  q: "Как образуется passé du subjonctif и что он выражает?"
+  a: "*aie / sois* (subj.) + participe passé: *qu'il **ait fini**, qu'elle **soit partie***. Предшествование главному действию или завершённость к сроку."
+- id: c13-formes-pas-de-futur
+  lesson: c-13-subjonctif/01-grammaire
+  q: "«Сомневаюсь, что он успеет» — какое время subjonctif?"
+  a: "Présent: *Je doute qu'il **ait** le temps.* Будущего времени у subjonctif нет."
+- id: c13-formes-falloir
+  lesson: c-13-subjonctif/01-grammaire
+  q: "Subjonctif falloir и pleuvoir."
+  a: "*qu'il **faille***, *qu'il **pleuve***."
+- id: c13-compl-groupes
+  lesson: c-13-subjonctif/02-grammaire
+  q: "Четыре группы глаголов, после которых в complétive ставится subjonctif."
+  a: "Воля (*vouloir, exiger, tenir à ce que*), чувство (*regretter, craindre, être content*), сомнение / отрицание (*douter, nier, ne pas penser, il semble*), оценка (*il faut, il est important, c'est dommage*)."
+- id: c13-compl-semble
+  lesson: c-13-subjonctif/02-grammaire
+  q: "Il semble que… / Il me semble que… — какое наклонение?"
+  a: "*Il semble que* + subjonctif (неуверенность); *il me semble que* + indicatif (= je pense)."
+- id: c13-compl-dire
+  lesson: c-13-subjonctif/02-grammaire
+  q: "Il dit qu'elle part / Il dit qu'elle parte — разница?"
+  a: "*part* — сообщает факт (indicatif); *parte* — велит ей уйти (subjonctif)."
+- id: c13-compl-comprendre
+  lesson: c-13-subjonctif/02-grammaire
+  q: "Je comprends qu'il est fatigué / qu'il soit fatigué — разница?"
+  a: "*est* — понимаю, осознаю факт; *soit* — нахожу это естественным, не удивляюсь."
+- id: c13-compl-admettre-supposer
+  lesson: c-13-subjonctif/02-grammaire
+  q: "admettre, supposer: когда indicatif, когда subjonctif?"
+  a: "*J'admets que j'**ai** tort* (признаю) — *Je n'admets pas qu'on me **parle** ainsi* (не допускаю). *Je suppose qu'il **viendra*** (полагаю) — ***Supposons** qu'il **vienne*** (допустим)."
+- id: c13-compl-esperer-douter
+  lesson: c-13-subjonctif/02-grammaire
+  q: "espérer que, ne pas douter que — наклонение?"
+  a: "Indicatif: *J'espère qu'il **viendra***; *Je ne doute pas qu'il **viendra*** (soutenu: *qu'il ne vienne*)."
+- id: c13-compl-ne-expletif
+  lesson: c-13-subjonctif/02-grammaire
+  q: "Je crains qu'il ne pleuve / Je crains qu'il ne pleuve pas — разница?"
+  a: "Первое: боюсь, что **пойдёт** дождь (*ne* explétif, не отрицает). Второе: боюсь, что дождя **не будет**."
+- id: c13-compl-tete
+  lesson: c-13-subjonctif/02-grammaire
+  q: "Какое наклонение в придаточном с que в начале фразы: «Qu'il ___ compétent, personne ne le conteste»?"
+  a: "Всегда subjonctif: ***Qu'il soit** compétent, personne ne le conteste.*"
+- id: c13-compl-infinitif
+  lesson: c-13-subjonctif/02-grammaire
+  q: "«Я хочу уйти» — que je parte?"
+  a: "Нет: одно подлежащее → инфинитив: *Je veux **partir***. *Que* + subjonctif — только при разных подлежащих."
+- id: c13-rel-superlatif
+  lesson: c-13-subjonctif/03-grammaire
+  q: "«Это лучший фильм, который я когда-либо видел»."
+  a: "*C'est le meilleur film que j'**aie** jamais **vu**.* — superlatif + *jamais* → passé du subjonctif."
+- id: c13-rel-seul
+  lesson: c-13-subjonctif/03-grammaire
+  q: "После каких слов, кроме superlatif, в relative обычно subjonctif?"
+  a: "*le seul, l'unique, le premier, le dernier, le principal, ne… que*: *Vous êtes la seule qui **puisse** m'aider.*"
+- id: c13-rel-fait
+  lesson: c-13-subjonctif/03-grammaire
+  q: "Когда после le seul / le premier ставят indicatif?"
+  a: "Когда это объективный проверяемый факт: *Le premier train qui **part** demain est à 6 h.*"
+- id: c13-rel-negation
+  lesson: c-13-subjonctif/03-grammaire
+  q: "Il n'y a personne qui ___ (savoir) / Y a-t-il quelqu'un qui ___ (savoir) ?"
+  a: "*qui **sache*** в обоих случаях: отрицание и вопрос о существовании → subjonctif."
+- id: c13-rel-but
+  lesson: c-13-subjonctif/03-grammaire
+  q: "Nous cherchons un local qui ___ / Nous avons trouvé le local qui ___ (pouvoir) accueillir 100 personnes."
+  a: "*un local qui **puisse*** (требование, неопределённый артикль) — *le local qui **peut*** (найден, факт)."
+- id: c13-rel-rares
+  lesson: c-13-subjonctif/03-grammaire
+  q: "«Rares sont ceux qui ___ (comprendre)…» — какое наклонение в хорошем стиле?"
+  a: "Subjonctif: *Rares sont ceux qui **aient compris*** — скрытое отрицание (*rares, peu de, guère*)."
+- id: c13-rel-conditionnel
+  lesson: c-13-subjonctif/03-grammaire
+  q: "Je cherche un assistant qui parlerait chinois — допустимо?"
+  a: "Да, conditionnel — мягкий, гипотетический вариант после поиска и вопроса; норма — *qui **parle***."
+- id: c13-rel-a-inf
+  lesson: c-13-subjonctif/03-grammaire
+  q: "Как сказать «он единственный, кто понимает» без придаточного?"
+  a: "*Il est **le seul à** comprendre.* — *le seul / le premier / le dernier à* + infinitif."
+- id: c13-rel-dont-ou
+  lesson: c-13-subjonctif/03-grammaire
+  q: "«Я не знаю места, где можно было бы бесплатно припарковаться»."
+  a: "*Je ne connais pas d'endroit **où** l'on **puisse** se garer gratuitement.* — subjonctif возможен после любого относительного слова."
+- id: c13-conj-temps
+  lesson: c-13-subjonctif/04-grammaire
+  q: "avant que, jusqu'à ce que, après que — какое наклонение?"
+  a: "*avant que, jusqu'à ce que, en attendant que* + subjonctif; *après que* + indicatif (по норме)."
+- id: c13-conj-jusqua
+  lesson: c-13-subjonctif/04-grammaire
+  q: "«Подождите, пока он не придёт»."
+  a: "*Attendez **jusqu'à ce qu'**il **vienne*** / *qu'il **vienne***. Без отрицания!"
+- id: c13-conj-but
+  lesson: c-13-subjonctif/04-grammaire
+  q: "Союзы цели с subjonctif и их инфинитивные пары."
+  a: "*pour que / pour, afin que / afin de, de peur que (ne) / de peur de, de crainte que (ne) / de crainte de*."
+- id: c13-conj-de-sorte
+  lesson: c-13-subjonctif/04-grammaire
+  q: "de sorte que + subjonctif или indicatif?"
+  a: "Цель → subjonctif (*Parlez de sorte qu'on vous **entende***); результат → indicatif (*Il a parlé de sorte qu'on l'**a entendu***)."
+- id: c13-conj-non-que
+  lesson: c-13-subjonctif/04-grammaire
+  q: "Как выразить отвергаемую причину?"
+  a: "*non que, non pas que, ce n'est pas que* + subjonctif: *Ce n'est pas qu'il **soit** paresseux, mais il est épuisé.*"
+- id: c13-conj-condition
+  lesson: c-13-subjonctif/04-grammaire
+  q: "Союзы условия с subjonctif."
+  a: "*à condition que, pourvu que, à moins que (ne), pour peu que, à supposer que, en admettant que, soit que… soit que*."
+- id: c13-conj-a-moins
+  lesson: c-13-subjonctif/04-grammaire
+  q: "«Приду, если только не пойдёт дождь»."
+  a: "*Je viendrai, **à moins qu'**il **ne pleuve**.* — *ne* explétif, без *pas*."
+- id: c13-conj-trop
+  lesson: c-13-subjonctif/04-grammaire
+  q: "«Слишком поздно, чтобы мы успели»."
+  a: "*Il est **trop** tard **pour que** nous **ayons** le temps.* — *trop / assez… pour que* + subjonctif."
+- id: c13-conj-sans-que
+  lesson: c-13-subjonctif/04-grammaire
+  q: "«Он вышел так, что никто не заметил»."
+  a: "*Il est sorti **sans que** personne le **remarque** / l'**ait remarqué**.* — без *ne* после *personne*."
+- id: c13-conj-si-que
+  lesson: c-13-subjonctif/04-grammaire
+  q: "Si tu as le temps et que tu ___ (vouloir) m'aider… — какая форма в литературной норме?"
+  a: "*et que tu **veuilles*** — *que* вместо повторного *si* требует subjonctif (в разговоре — *veux*)."
+- id: c13-conc-bien-que
+  lesson: c-13-subjonctif/05-grammaire
+  q: "bien que, quoique, encore que, même si, alors que — наклонение?"
+  a: "*bien que, quoique, encore que* + subjonctif; *même si, alors que, tandis que* + indicatif."
+- id: c13-conc-quoique
+  lesson: c-13-subjonctif/05-grammaire
+  q: "quoique vs quoi que"
+  a: "*quoique* = *bien que* (хотя): *Quoiqu'il **soit** tard…* *quoi que* = что бы ни: *Quoi qu'il **fasse**…*"
+- id: c13-conc-quel-que
+  lesson: c-13-subjonctif/05-grammaire
+  q: "«Каковы бы ни были условия / причины / риски»."
+  a: "***Quelles** que soient les conditions / les raisons*, ***quels** que soient les risques* — *quel* согласуется с подлежащим."
+- id: c13-conc-si-adj
+  lesson: c-13-subjonctif/05-grammaire
+  q: "«Как бы трудно это ни было»."
+  a: "***Si / aussi** difficile **que** ce **soit***; книжно: *pour difficile que…*, *quelque difficile que…* (*quelque* не изменяется)."
+- id: c13-conc-qui-que
+  lesson: c-13-subjonctif/05-grammaire
+  q: "кто бы ни / кто бы то ни было / что бы то ни было / как бы то ни было"
+  a: "*qui que tu sois / qui que ce soit / quoi que ce soit / quoi qu'il en soit*."
+- id: c13-conc-ou-que
+  lesson: c-13-subjonctif/05-grammaire
+  q: "«Куда бы ты ни пошёл», «откуда бы они ни пришли»."
+  a: "***Où que** tu **ailles***, ***d'où qu'**ils **viennent***."
+- id: c13-conc-ellipse
+  lesson: c-13-subjonctif/05-grammaire
+  q: "Bien que fatiguée, elle a fini — правильно?"
+  a: "Да: эллипсис после *bien que / quoique* при совпадении подлежащих (= *bien qu'elle fût / soit fatiguée*)."
+- id: c13-conc-sans-ne
+  lesson: c-13-subjonctif/05-grammaire
+  q: "«Что бы он ни делал» — Quoi qu'il ne fasse?"
+  a: "Нет: ***Quoi qu'il fasse*** — русское *ни* не отрицание, *ne* не ставится."
+- id: c13-conc-quelque-nom
+  lesson: c-13-subjonctif/05-grammaire
+  q: "«Какие бы усилия вы ни прилагали» (книжно)."
+  a: "***Quelques** efforts **que** vous **fassiez**…* — *quelque* + существительное согласуется в числе."
+- id: c13-conc-avoir-beau
+  lesson: c-13-subjonctif/05-grammaire
+  q: "«Сколько я ни объяснял, он не понял» — без subjonctif."
+  a: "*J'**ai eu beau** expliquer, il n'a pas compris.* — *avoir beau* + infinitif."
+- id: c13-conc-quand-bien-meme
+  lesson: c-13-subjonctif/05-grammaire
+  q: "Quand bien même il ___ (être) d'accord… — какое наклонение?"
+  a: "Conditionnel: *Quand bien même il **serait** d'accord, ce serait trop tard.*"
+- id: c13-indep-ordre
+  lesson: c-13-subjonctif/06-grammaire
+  q: "«Пусть он войдёт!», «Пусть никто не двигается!»"
+  a: "***Qu'il entre !*** ***Que personne ne bouge !*** — приказ третьему лицу через *que* + subjonctif."
+- id: c13-indep-souhait
+  lesson: c-13-subjonctif/06-grammaire
+  q: "Формулы пожелания с subjonctif без que."
+  a: "*Vive… ! Puisse-t-il… ! Plaise / Fasse le ciel que… ! Ainsi soit-il. Dieu vous bénisse ! Grand bien vous fasse !*"
+- id: c13-indep-figees
+  lesson: c-13-subjonctif/06-grammaire
+  q: "Будь что будет / любой ценой / насколько я знаю / ладно, пусть так"
+  a: "*advienne que pourra / coûte que coûte / que je sache / soit !*"
+- id: c13-imparf-formation
+  lesson: c-13-subjonctif/06-grammaire
+  q: "Как образуется imparfait du subjonctif? qu'il ___ (parler, finir, venir, être, avoir)"
+  a: "От passé simple (2-е л. ед. ч.) + *-sse…*: *qu'il **parlât, finît, vînt, fût, eût***."
+- id: c13-imparf-circonflexe
+  lesson: c-13-subjonctif/06-grammaire
+  q: "il fut / qu'il fût, il fit / qu'il fît — в чём разница?"
+  a: "Без circonflexe — passé simple; с circonflexe — imparfait du subjonctif."
+- id: c13-imparf-concordance
+  lesson: c-13-subjonctif/06-grammaire
+  q: "Je doutais qu'il vînt / qu'il fût venu — современные эквиваленты?"
+  a: "*qu'il **vienne*** (одновременность / будущее) и *qu'il **soit venu*** (предшествование)."
+- id: c13-pqp-conditionnel
+  lesson: c-13-subjonctif/06-grammaire
+  q: "Il eût été préférable… ; S'il l'eût su, il fût venu — что это за формы?"
+  a: "Plus-que-parfait du subjonctif в значении conditionnel passé / plus-que-parfait: *il aurait été…; s'il l'avait su, il serait venu*."
+- id: c13-pqp-inversion
+  lesson: c-13-subjonctif/06-grammaire
+  q: "ne fût-ce que, dût-il, fût-il — значения?"
+  a: "*ne fût-ce que* — хотя бы; *dût-il* — даже если ему придётся; *fût-il* — будь он даже."

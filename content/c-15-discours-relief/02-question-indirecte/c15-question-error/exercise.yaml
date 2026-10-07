@@ -1,0 +1,43 @@
+title: "Найди ошибку в косвенном вопросе"
+type: error
+intro: "В каждом предложении **одна** ошибка: вопросительное слово, порядок слов, время или наклонение. Исправь её и отправь предложение целиком."
+hints:
+  - "Ce qui — подлежащее, ce que — дополнение; quoi — только с предлогом или перед инфинитивом."
+  - "Без est-ce que и без инверсии местоимения."
+items:
+  - q: "Je ne comprends pas qu'est-ce que tu veux dire."
+    answers: ["Je ne comprends pas ce que tu veux dire."]
+    explain: "*Qu'est-ce que* в косвенном вопросе → **ce que**."
+  - q: "Dis-moi quand est-ce que tu rentres."
+    answers: ["Dis-moi quand tu rentres."]
+    explain: "*Est-ce que* в косвенном вопросе не используется: **quand tu rentres**."
+  - q: "Je me demande où habite-t-il maintenant."
+    answers: ["Je me demande où il habite maintenant."]
+    explain: "Местоимение-подлежащее в косвенном вопросе не инвертируется: **où il habite**."
+  - q: "Personne ne sait ce qu'est arrivé au directeur."
+    answers: ["Personne ne sait ce qui est arrivé au directeur."]
+    explain: "«Что случилось» — вопрос о подлежащем → **ce qui** est arrivé."
+  - q: "Il voulait savoir si nous viendrons au mariage."
+    answers: ["Il voulait savoir si nous viendrions au mariage."]
+    explain: "Вводящий глагол в прошедшем → будущее в прошедшем: **viendrions**."
+  - q: "Explique-moi quoi tu cherches exactement."
+    answers: ["Explique-moi ce que tu cherches exactement."]
+    explain: "*Quoi* без предлога и не перед инфинитивом невозможно; дополнение → **ce que**."
+  - q: "Je ne sais pas si répondre à ce message."
+    answers: ["Je ne sais pas s'il faut répondre à ce message.", "Je ne sais pas si je dois répondre à ce message.", "Je ne sais pas si je vais répondre à ce message.", "Je ne sais pas si je réponds à ce message."]
+    explain: "После *si* инфинитив невозможен: **s'il faut répondre** / *si je dois répondre*."
+  - q: "On m'a demandé si elle soit vraiment malade."
+    answers: ["On m'a demandé si elle était vraiment malade.", "On m'a demandé si elle est vraiment malade."]
+    explain: "Косвенный вопрос — изъявительное наклонение; после прошедшего → **était** (présent *est* — если она больна и сейчас)."
+  - q: "Nous ignorons pourquoi est parti Marc si tôt."
+    answers: ["Nous ignorons pourquoi Marc est parti si tôt."]
+    explain: "После *pourquoi* инверсия существительного не делается (а здесь ещё и есть обстоятельство): **pourquoi Marc est parti**."
+  - q: "Elle m'a demandé ce que me plaisait dans ce métier."
+    answers: ["Elle m'a demandé ce qui me plaisait dans ce métier."]
+    explain: "«Что мне нравится» — подлежащее → **ce qui**."
+  - q: "Je ne sais plus à qui que je dois m'adresser."
+    answers: ["Je ne sais plus à qui je dois m'adresser.", "Je ne sais plus à qui m'adresser."]
+    explain: "Лишнее *que*: **à qui je dois m'adresser** (или инфинитивный вопрос *à qui m'adresser*)."
+  - q: "Le guide nous a demandé lequel de ces musées nous préférons."
+    answers: ["Le guide nous a demandé lequel de ces musées nous préférions."]
+    explain: "Вводящий глагол в прошедшем → présent прямого вопроса становится imparfait: **préférions**."

@@ -1,0 +1,44 @@
+title: "Поставь существительное во множественное число"
+type: gap
+intro: "Впиши существительное из скобок во множественном числе."
+hints:
+  - "-al → -aux, кроме bals, carnavals, chacals, festivals, récitals, régals."
+  - "-ail → -ails, кроме baux, coraux, émaux, soupiraux, travaux, vantaux, vitraux."
+  - "-ou → -ous, кроме bijoux, cailloux, choux, genoux, hiboux, joujoux, poux."
+items:
+  - q: "Les ___ (corail) de la Grande Barrière souffrent du réchauffement des océans."
+    answers: ["coraux"]
+    explain: "*Corail* входит в список исключений на *-ail*: ***coraux***."
+  - q: "Les ___ (récital) de ce pianiste affichent complet des mois à l'avance."
+    answers: ["récitals"]
+    explain: "*Récital* — исключение из *-al → -aux*: ***récitals***."
+  - q: "Le jardinier a planté des ___ (chou) et des poireaux."
+    answers: ["choux"]
+    explain: "*Chou* — одно из семи слов на *-ou* с **-x**: ***choux***."
+  - q: "Les ___ (pneu) d'hiver sont obligatoires dans certaines régions de montagne."
+    answers: ["pneus"]
+    explain: "*Pneu* — исключение среди слов на *-eu*: **+ s** — ***pneus*** (так же *bleus, émeus*)."
+  - q: "Ils ont signé des ___ (bail) de neuf ans pour leurs locaux commerciaux."
+    answers: ["baux"]
+    explain: "*Bail* (договор аренды) → ***baux***: особая форма."
+  - q: "Les ___ (éventail) espagnols sont souvent peints à la main."
+    answers: ["éventails"]
+    explain: "*Éventail* следует общему правилу для *-ail*: ***éventails***."
+  - q: "Elle a gardé tous les ___ (bijou) de sa grand-mère."
+    answers: ["bijoux"]
+    explain: "*Bijou* → ***bijoux*** (одно из семи исключений на *-ou*)."
+  - q: "Dans la savane, on entendait au loin les cris des ___ (chacal)."
+    answers: ["chacals"]
+    explain: "*Chacal* — исключение из *-al → -aux*: ***chacals***."
+  - q: "Les ___ (landau) des années cinquante sont aujourd'hui des objets de collection."
+    answers: ["landaus"]
+    explain: "*Landau* — исключение среди слов на *-au*: ***landaus*** (так же *sarraus*)."
+  - q: "La lumière entrait à peine par les ___ (soupirail) de la cave."
+    answers: ["soupiraux"]
+    explain: "*Soupirail* → ***soupiraux*** (исключение на *-ail*)."
+  - q: "Les ___ (émail) de Limoges sont célèbres depuis le Moyen Âge."
+    answers: ["émaux"]
+    explain: "*Émail* → ***émaux*** — изделия из эмали (исключение на *-ail*)."
+  - q: "Les enfants jetaient des ___ (caillou) dans la rivière."
+    answers: ["cailloux"]
+    explain: "*Caillou* → ***cailloux*** (исключение на *-ou*)."

@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу на французский целиком. Пунктуация не важна, акценты — важны."
+hints:
+  - "Вставать — se lever, торопиться — se dépêcher, ошибаться — se tromper, гулять — se promener."
+  - "Начинаться — commencer, оставаться — rester: без se."
+items:
+  - q: "Я ложусь в одиннадцать часов."
+    answers: ["Je me couche à onze heures.", "Je me couche à 11 heures.", "Je me couche à 23 heures.", "Je me couche à vingt-trois heures."]
+    explain: "«Ложиться» — *se coucher*; с *je* → **je me couche**."
+  - q: "Вы ошибаетесь."
+    answers: ["Vous vous trompez.", "Tu te trompes."]
+    explain: "*se tromper* — ошибаться: **vous vous trompez** (или *tu te trompes*)."
+  - q: "Не торопись!"
+    answers: ["Ne te dépêche pas !"]
+    explain: "Отрицательное повелительное: местоимение перед глаголом: ***Ne te dépêche pas !***"
+  - q: "Давайте погуляем в парке."
+    answers: ["Promenons-nous dans le parc.", "Allons nous promener dans le parc."]
+    explain: "«Давайте…» — повелительное в форме *nous*: **Promenons-nous**. Можно и *Allons nous promener*."
+  - q: "Ты интересуешься музыкой?"
+    answers: ["Tu t'intéresses à la musique ?", "Est-ce que tu t'intéresses à la musique ?", "T'intéresses-tu à la musique ?"]
+    explain: "*s'intéresser **à*** qch: **tu t'intéresses à la musique**. В инверсии: *T'intéresses-tu… ?*"
+  - q: "Урок начинается в девять часов."
+    answers: ["La leçon commence à neuf heures.", "La leçon commence à 9 heures.", "Le cours commence à neuf heures.", "Le cours commence à 9 heures."]
+    explain: "«Начинаться» — *commencer* **без** *se*: *La leçon **commence**…*"
+  - q: "Мы начинаем упражнение."
+    answers: ["Nous commençons l'exercice.", "On commence l'exercice."]
+    explain: "*commencer* с *nous*: перед *o* — **ç**: **nous commençons**."
+  - q: "Как зовут твою сестру?"
+    answers: ["Comment s'appelle ta sœur ?", "Comment ta sœur s'appelle-t-elle ?", "Ta sœur s'appelle comment ?", "Comment est-ce que ta sœur s'appelle ?"]
+    explain: "«Как зовут…?» — *Comment s'appelle… ?*; *s'appeler* в 3-м лице ед. ч. — с двумя *l*: **s'appelle**."
+  - q: "Я понимаю, но я не говорю по-французски."
+    answers: ["Je comprends, mais je ne parle pas français.", "Je comprends mais je ne parle pas français."]
+    explain: "*comprendre* → **je comprends**, с *-ds*."
+  - q: "Они учатся плавать."
+    answers: ["Ils apprennent à nager.", "Elles apprennent à nager."]
+    explain: "«Учиться делать» — *apprendre **à*** + инфинитив; *ils* → **apprennent** с двумя *n*."

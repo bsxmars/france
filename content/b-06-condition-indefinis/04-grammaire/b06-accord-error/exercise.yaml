@@ -1,0 +1,44 @@
+title: "Исправь согласование"
+type: error
+intro: "В каждом предложении **одна** ошибка согласования participe passé: либо не хватает окончания, либо оно лишнее. Исправь и отправь предложение целиком."
+hints:
+  - "С avoir подлежащее не важно; важен COD перед глаголом."
+  - "en, lui, leur, fait + infinitif → без согласования."
+  - "У que — род и число антецедента."
+items:
+  - q: "Elle a achetée un manteau en laine recyclée."
+    answers: ["Elle a acheté un manteau en laine recyclée."]
+    explain: "С *avoir* причастие не согласуется с подлежащим, а COD (*un manteau*) — после глагола: **acheté**."
+  - q: "Cette campagne publicitaire, je l'avais trouvé trop agressive."
+    answers: ["Cette campagne publicitaire, je l'avais trouvée trop agressive."]
+    explain: "*L'* = cette campagne (ж. р.) перед *avoir* → **trouvée**."
+  - q: "Les chaussures que j'ai commandé sont arrivées abîmées."
+    answers: ["Les chaussures que j'ai commandées sont arrivées abîmées."]
+    explain: "*Que* = les chaussures (ж. р. мн. ч.) → **commandées**."
+  - q: "Nous avons rencontré de jeunes créateurs et nous les avons aidé à vendre leurs produits."
+    answers: ["Nous avons rencontré de jeunes créateurs et nous les avons aidés à vendre leurs produits."]
+    explain: "*Les* = de jeunes créateurs (м. р. мн. ч.) → **aidés**."
+  - q: "Des soldes, j'en ai faites dans tous les magasins du centre."
+    answers: ["Des soldes, j'en ai fait dans tous les magasins du centre."]
+    explain: "С *en* согласования нет: *j'en ai **fait***."
+  - q: "Mes amies ? Je leur ai offertes des bons d'achat."
+    answers: ["Mes amies ? Je leur ai offert des bons d'achat."]
+    explain: "*Leur* — косвенное дополнение; COD *des bons d'achat* — после глагола → **offert**."
+  - q: "Quelle application as-tu installé pour comparer les prix ?"
+    answers: ["Quelle application as-tu installée pour comparer les prix ?"]
+    explain: "*Quelle application* (ж. р.) перед *avoir* → **installée**."
+  - q: "La robe que je me suis fait faire m'a coûté une fortune, mais je l'ai porté une seule fois."
+    answers: ["La robe que je me suis fait faire m'a coûté une fortune, mais je l'ai portée une seule fois."]
+    explain: "*Fait faire* верно без согласования, а вот *l'* = la robe → **portée**."
+  - q: "Toutes les marques que le journaliste a cité ont été coupées au montage."
+    answers: ["Toutes les marques que le journaliste a citées ont été coupées au montage."]
+    explain: "*Que* = les marques (ж. р. мн. ч.) → **citées**."
+  - q: "Les réactions que les clients ont eu étaient démesurées."
+    answers: ["Les réactions que les clients ont eues étaient démesurées."]
+    explain: "*Que* = les réactions (ж. р. мн. ч.) → **eues**."
+  - q: "Cette offre, on nous l'a présenté comme exceptionnelle."
+    answers: ["Cette offre, on nous l'a présentée comme exceptionnelle."]
+    explain: "*Nous* здесь косвенное дополнение («нам»), а COD — *l'* = cette offre (ж. р.) → **présentée**."
+  - q: "Combien d'heures avez-vous passé à faire du shopping en ligne cette semaine ?"
+    answers: ["Combien d'heures avez-vous passées à faire du shopping en ligne cette semaine ?"]
+    explain: "*Passer du temps* — переходный глагол, *combien d'heures* (ж. р. мн. ч.) — COD перед *avoir* → **passées**."

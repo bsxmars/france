@@ -1,0 +1,57 @@
+title: "Соедини два предложения"
+type: transform
+intro: "Соедини два предложения в одно с помощью qui или que (ключевое слово). Впиши недостающую часть — придаточное целиком."
+hints:
+  - "Повторяющееся существительное во втором предложении заменяется на qui или que."
+  - "Que перед гласной — qu'."
+items:
+  - q: "J'ai acheté un roman. Ce roman est très drôle."
+    key: "que"
+    stem: "Le roman ___ est très drôle."
+    answers: ["que j'ai acheté"]
+    explain: "Роман я купил — он дополнение → **que** j'ai acheté."
+  - q: "Une dame attend devant la porte. Cette dame veut te voir."
+    key: "qui"
+    stem: "La dame ___ veut te voir."
+    answers: ["qui attend devant la porte"]
+    explain: "Дама сама ждёт — подлежащее → **qui** attend devant la porte."
+  - q: "Nous avons loué un appartement. L'appartement est près de la gare."
+    key: "que"
+    stem: "L'appartement ___ est près de la gare."
+    answers: ["que nous avons loué"]
+    explain: "Квартиру сняли мы → дополнение → **que** nous avons loué."
+  - q: "Le train part à huit heures. Je prends ce train."
+    key: "qui"
+    stem: "Je prends le train ___."
+    answers: ["qui part à huit heures"]
+    explain: "Поезд отправляется сам → подлежащее → **qui** part à huit heures."
+  - q: "Paul m'a recommandé un médecin. Ce médecin est très bon."
+    key: "que"
+    stem: "Le médecin ___ est très bon."
+    answers: ["que Paul m'a recommandé", "que m'a recommandé Paul"]
+    explain: "Врача порекомендовал Поль → дополнение → **que** Paul m'a recommandé (возможна инверсия: *que m'a recommandé Paul*)."
+  - q: "Des enfants jouent dans la cour. Ces enfants sont mes neveux."
+    key: "qui"
+    stem: "Les enfants ___ sont mes neveux."
+    answers: ["qui jouent dans la cour"]
+    explain: "Дети играют сами → **qui** jouent; глагол во мн. ч., как *les enfants*."
+  - q: "Elle a une idée. Elle adore cette idée."
+    key: "que"
+    stem: "C'est une idée ___."
+    answers: ["qu'elle adore"]
+    explain: "Идею она обожает → дополнение → *que*, перед *elle* — **qu'**elle adore."
+  - q: "Une lettre est arrivée ce matin. Cette lettre vient de Lyon."
+    key: "qui"
+    stem: "La lettre ___ vient de Lyon."
+    answers: ["qui est arrivée ce matin"]
+    explain: "Письмо пришло само → подлежащее → **qui** est arrivée ce matin."
+  - q: "Mes parents habitent une maison. Cette maison a un grand jardin."
+    key: "que"
+    stem: "La maison ___ a un grand jardin."
+    answers: ["que mes parents habitent", "qu'habitent mes parents"]
+    explain: "Дом — дополнение (*habiter une maison*) → **que** mes parents habitent; с инверсией — *qu'habitent mes parents*."
+  - q: "Ce garçon m'a aidé. Je remercie ce garçon."
+    key: "qui"
+    stem: "Je remercie le garçon ___."
+    answers: ["qui m'a aidé"]
+    explain: "Мальчик сам помог → подлежащее → **qui** m'a aidé."

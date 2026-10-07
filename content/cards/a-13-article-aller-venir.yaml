@@ -1,0 +1,44 @@
+- id: a13-un-une-des
+  lesson: a-13-article-aller-venir/01-grammaire
+  q: "Формы неопределённого артикля и когда он нужен."
+  a: "**un, une, des**: «один»; «что это?» (*c'est une table*); «какой-то, один из» (*prends un stylo*); новый предмет в рассказе; неопределённое множество (*des fleurs*)."
+- id: a13-un-le
+  lesson: a-13-article-aller-venir/01-grammaire
+  q: "*Il y a une photo sur la table. ___ photo est belle.* Какой артикль?"
+  a: "**La** — фотография уже названа и стала известной. Новое — *un / une / des*, известное — *le / la / les*."
+- id: a13-il-y-a
+  lesson: a-13-article-aller-venir/01-grammaire
+  q: "Что значит *il y a* и какой артикль после него?"
+  a: "«Есть, имеется, лежит, стоит…», одна форма для ед. и мн. ч. После него — обычно **неопределённый** артикль: *Il y a des livres sur la table.*"
+- id: a13-il-n-y-a-pas-de
+  lesson: a-13-article-aller-venir/01-grammaire
+  q: "«На столе нет тетради / тетрадей»."
+  a: "*Sur la table il n'y a pas **de** cahier / cahiers.* После отрицания *un, une, des* → **de** (*d'* перед гласной)."
+- id: a13-il-y-a-etre
+  lesson: a-13-article-aller-venir/01-grammaire
+  q: "«Книга на столе» и «На столе книга»."
+  a: "*Le livre **est** sur la table.* (предмет в начале → être) — *Sur la table **il y a** un livre.* (предмет в конце → il y a)."
+- id: a13-y-a-t-il
+  lesson: a-13-article-aller-venir/01-grammaire
+  q: "Вопросы с *il y a*: «Здесь есть кафе?», «Что на столе?»"
+  a: "*Y a-t-il / Est-ce qu'il y a un café ici ?* — *Qu'est-ce qu'il y a / Qu'y a-t-il sur la table ?*"
+- id: a13-aller
+  lesson: a-13-article-aller-venir/02-grammaire
+  q: "Проспрягай *aller* и дай повелительное."
+  a: "*je vais, tu vas, il va, nous allons, vous allez, ils vont*. Повелительное: ***va !*** (без -s) *allons ! allez !*"
+- id: a13-futur-proche
+  lesson: a-13-article-aller-venir/02-grammaire
+  q: "«Я сейчас позвоню», «Фильм сейчас начнётся»."
+  a: "*aller* + инфинитив: *Je **vais téléphoner**. Le film **va commencer**.* Отрицание: *je ne vais pas sortir*."
+- id: a13-venir
+  lesson: a-13-article-aller-venir/02-grammaire
+  q: "Проспрягай *venir*."
+  a: "*je viens, tu viens, il vient, nous venons, vous venez, ils vie**nn**ent*. Так же: *revenir, devenir, prévenir, tenir, retenir*."
+- id: a13-aller-venir
+  lesson: a-13-article-aller-venir/02-grammaire
+  q: "*Aller* или *venir*? «Иду!» в ответ на зов."
+  a: "*aller* — туда, от говорящего (*aller **à** / **chez***); *venir* — сюда, к говорящему (*venir **de*** — откуда). «Иду!» — ***Je viens !***"
+- id: a13-devenir
+  lesson: a-13-article-aller-venir/02-grammaire
+  q: "«Он хочет стать инженером»."
+  a: "*Il veut **devenir ingénieur**.* После *devenir*, как после *être*, профессия без артикля."

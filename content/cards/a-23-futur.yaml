@@ -1,0 +1,48 @@
+- id: a23-futur-formation
+  lesson: a-23-futur/01-grammaire
+  q: "Как образуется futur simple? *parler, écrire* (je)."
+  a: "Инфинитив + *-ai, -as, -a, -ons, -ez, -ont*: *je **parlerai***; у глаголов на *-re* конечное *e* выпадает: *j'**écrirai***."
+- id: a23-futur-bases-1
+  lesson: a-23-futur/01-grammaire
+  q: "Futur (je): *être, avoir, aller, faire, venir*."
+  a: "*je **serai**, j'**aurai**, j'**irai**, je **ferai**, je **viendrai***."
+- id: a23-futur-bases-2
+  lesson: a-23-futur/01-grammaire
+  q: "Futur (je / il): *voir, pouvoir, vouloir, savoir, devoir, falloir*."
+  a: "*je **verrai**, je **pourrai**, je **voudrai**, je **saurai**, je **devrai**, il **faudra***."
+- id: a23-serai-serais
+  lesson: a-23-futur/01-grammaire
+  q: "*Je serai* или *je serais* — «я буду дома в шесть»?"
+  a: "***Je serai*** [səʁe] — futur, «буду». *Je serais* [səʁɛ] — «был бы»."
+- id: a23-si-present
+  lesson: a-23-futur/01-grammaire
+  q: "«Если ты придёшь завтра, мы пойдём в кино»."
+  a: "***Si tu viens** demain, nous **irons** au cinéma.* После *si* «если» — présent, в главном — futur или повелительное."
+- id: a23-si-li
+  lesson: a-23-futur/01-grammaire
+  q: "Когда после *si* можно будущее?"
+  a: "Когда *si* = «ли»: *Je ne sais pas **s'il viendra***. После *si* «если» — только présent."
+- id: a23-interro-negative
+  lesson: a-23-futur/02-grammaire
+  q: "«Разве ты не работаешь?», «Разве он не пришёл?» с инверсией."
+  a: "***Ne** travailles-tu **pas** ?* — ***N'a-t-il pas** travaillé ?* — *pas* после местоимения, причастие в конце."
+- id: a23-si-reponse
+  lesson: a-23-futur/02-grammaire
+  q: "*Tu ne viens pas ?* — «Да нет, иду!»"
+  a: "***Si**, je viens !* — на отрицательный вопрос возражают словом *si*, не *oui*."
+- id: a23-tout
+  lesson: a-23-futur/02-grammaire
+  q: "«Я всё понимаю», «Я всё понял», «Он хочет всё знать»."
+  a: "*Je comprends **tout**. J'ai **tout** compris. Il veut **tout** savoir.*"
+- id: a23-tout-le-monde
+  lesson: a-23-futur/02-grammaire
+  q: "«Всё готово» и «Все готовы»."
+  a: "***Tout** est prêt.* — ***Tout le monde** est prêt* / *Ils sont **tous** prêts.*"
+- id: a23-dire
+  lesson: a-23-futur/02-grammaire
+  q: "Проспрягай *dire*. А *interdire* с *vous*?"
+  a: "*je dis, tu dis, il dit, nous disons, vous **dites**, ils disent*; *dit*. Но *vous **interdisez***."
+- id: a23-dire-de
+  lesson: a-23-futur/02-grammaire
+  q: "«Скажи Полю, чтобы он закрыл дверь»."
+  a: "*Dis **à** Paul **de** fermer la porte.* — *dire à qn de* + инфинитив."

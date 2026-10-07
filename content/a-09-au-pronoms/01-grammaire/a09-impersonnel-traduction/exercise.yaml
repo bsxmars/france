@@ -1,0 +1,38 @@
+title: "Переведи: надо, дождь, погода, время"
+type: gap
+intro: "Переведи фразу целиком. Не забывай безличное il. Акценты обязательны, точку можно не ставить."
+hints:
+  - "Надо + инфинитив = il faut + инфинитив."
+  - "Погода: il fait beau / chaud / froid / mauvais; дождь: il pleut."
+  - "Время: il est … heures."
+items:
+  - q: "Надо закрыть окно."
+    answers: ["Il faut fermer la fenêtre."]
+    explain: "**Il faut** + инфинитив: *fermer*. Окно в этой комнате одно, известное → *la fenêtre*."
+  - q: "Идёт дождь."
+    answers: ["Il pleut."]
+    explain: "*pleuvoir* — только безличный: **il pleut**."
+  - q: "Жарко."
+    answers: ["Il fait chaud."]
+    explain: "Погода — **il fait** + прилагательное."
+  - q: "Сегодня хорошая погода."
+    answers: ["Il fait beau aujourd'hui.", "Aujourd'hui, il fait beau."]
+    explain: "«Хорошая погода» — **il fait beau**."
+  - q: "Холодно, закрой окно."
+    answers: ["Il fait froid, ferme la fenêtre."]
+    explain: "**Il fait froid**; «закрой» — повелительная форма *ferme* (у глаголов I группы без *-s*)."
+  - q: "Десять часов."
+    answers: ["Il est dix heures."]
+    explain: "Время — безличный оборот с *être*: **il est** dix heures."
+  - q: "Не надо читать этот текст."
+    answers: ["Il ne faut pas lire ce texte."]
+    explain: "Отрицание обнимает *faut*: **il ne faut pas** + инфинитив."
+  - q: "Надо прочитать эту книгу?"
+    answers: ["Faut-il lire ce livre ?", "Est-ce qu'il faut lire ce livre ?", "Il faut lire ce livre ?"]
+    explain: "Безличное *il* ведёт себя как обычное местоимение: инверсия **Faut-il**… или *Est-ce qu'il faut*…"
+  - q: "Сейчас час, надо идти на вокзал."
+    answers: ["Il est une heure, il faut aller à la gare."]
+    explain: "**Il est une heure** (час — *une heure*, ж. р.), **il faut aller** à la gare."
+  - q: "Плохая погода, идёт дождь."
+    answers: ["Il fait mauvais, il pleut."]
+    explain: "**Il fait mauvais** — плохая погода; **il pleut** — идёт дождь."

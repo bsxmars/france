@@ -1,0 +1,55 @@
+title: "Passé simple или passé composé, событие или состояние"
+type: choice
+intro: "Все варианты грамматически возможны. Выбери тот, что подходит по регистру текста и по смыслу (событие или состояние)."
+hints:
+  - "Авторский рассказ в романе, сказке, биографии → passé simple; диалог, письмо, новости → passé composé."
+  - "Passé simple глаголов состояния = наступление: eut peur — испугался, sut — узнал, put — смог."
+items:
+  - q: "Роман: «Il ouvrit la fenêtre et regarda la mer. Le lendemain, il ___ le village sans dire adieu.»"
+    options: ["a quitté", "quitta", "quittait"]
+    answer: 1
+    explain: "Авторское повествование ведётся в passé simple, следующее событие цепочки — тоже: ***quitta***."
+  - q: "Там же, реплика героини: «« Tu ___ mon frère ce matin ? » demanda-t-elle.»"
+    options: ["vis", "as vu", "voyais"]
+    answer: 1
+    explain: "В прямой речи — живой разговор, *ce matin* связано с моментом речи → passé composé: ***as vu***."
+  - q: "Письмо другу: «Hier, nous ___ une longue promenade au bord du lac.»"
+    options: ["fîmes", "faisions", "avons fait"]
+    answer: 2
+    explain: "Переписка — разговорный регистр, *hier* связано с настоящим → passé composé: ***avons fait***."
+  - q: "Биография в passé simple: «Elle épousa un médecin de Rouen et ___ un fils au printemps 1832.»"
+    options: ["eut", "avait", "a eu"]
+    answer: 0
+    explain: "Событие в ряду событий биографии; *eut un fils* = «родила сына». *Avait* означало бы «у неё был сын» (состояние)."
+  - q: "Роман: «Quand tout ___ prêt, on passa à table.»"
+    options: ["fut", "était", "a été"]
+    answer: 0
+    explain: "Одно событие в повествовании: «когда всё было готово (наступил момент)» → ***fut***; главное предложение тоже в passé simple."
+  - q: "Роман: «En apprenant la vérité, il ___ honte de sa conduite et baissa les yeux.»"
+    options: ["avait", "a eu", "eut"]
+    answer: 2
+    explain: "Внезапно возникшее чувство — событие: ***eut honte*** = «ему стало стыдно». *Avait honte* — длящееся состояние."
+  - q: "Газетная заметка о вчерашнем дне: «Hier soir, la ministre ___ une déclaration à la télévision.»"
+    options: ["fit", "a fait", "faisait"]
+    answer: 1
+    explain: "Новости о недавних событиях пишутся в passé composé: ***a fait***."
+  - q: "Реплика в романе: «« Je ___ toute la nuit », avoua-t-il en souriant.»"
+    options: ["dormis", "ai dormi", "dormais"]
+    answer: 1
+    explain: "Прямая речь → passé composé; *toute la nuit* — ограниченная длительность, не imparfait: ***ai dormi***."
+  - q: "Рассказ в passé simple, герой сделал одну попытку: «Malgré tous ses efforts, il ne ___ ouvrir la porte.»"
+    options: ["put", "pouvait", "a pu"]
+    answer: 0
+    explain: "Результат одной попытки — событие: ***ne put*** = «не смог». Обрати внимание: *ne* без *pas* при *pouvoir* — книжный оборот."
+  - q: "Рассказ в passé simple: «Il ___ la nouvelle par un voisin le soir même.»"
+    options: ["savait", "sut", "a su"]
+    answer: 1
+    explain: "*Sut* = «узнал» (событие). *Savait* — «знал» (состояние), не подходит к *le soir même*."
+  - q: "Исторический очерк: «Pendant ces années terribles, ils ___ la faim, la peur, puis l'exil.»"
+    options: ["connaissaient", "ont connu", "connurent"]
+    answer: 2
+    explain: "Очерк ведётся в passé simple; период ограничен (*pendant ces années*) → ***connurent*** = «пережили, испытали»."
+  - q: "Сказка: «Le roi ___ que sa fille épouserait le plus courageux des chevaliers.»"
+    options: ["décida", "a décidé", "décidait"]
+    answer: 0
+    explain: "Сказка — классический жанр passé simple; однократное решение → ***décida***."

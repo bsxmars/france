@@ -1,0 +1,37 @@
+title: "Найди ошибку: союзы времени"
+type: error
+intro: "В каждом предложении **одна** ошибка: наклонение после союза, время о будущем, союз вместо предлога или наоборот. Исправь её и отправь предложение целиком."
+hints:
+  - "après que + indicatif, avant que + subjonctif."
+  - "Одно подлежащее → avant de + инфинитив, après + infinitif passé."
+items:
+  - q: "Je t'appellerai quand j'arrive à la gare."
+    answers: ["Je t'appellerai quand j'arriverai à la gare.", "Je t'appellerai quand je serai arrivé à la gare.", "Je t'appellerai quand je serai arrivée à la gare."]
+    explain: "После *quand* о будущем — **futur**: *quand j'**arriverai*** (или *je serai arrivé(e)*)."
+  - q: "Je dois finir ce rapport avant que je parte en vacances."
+    answers: ["Je dois finir ce rapport avant de partir en vacances."]
+    explain: "Подлежащее одно и то же (*je … je*) → не союз, а **avant de** + инфинитив: *avant de **partir***."
+  - q: "Elle se repose toujours une heure après qu'elle soit rentrée du travail."
+    answers: ["Elle se repose toujours une heure après qu'elle est rentrée du travail.", "Elle se repose toujours une heure après être rentrée du travail."]
+    explain: "*Après que* по норме требует **indicatif**: *après qu'elle **est rentrée***. Подлежащее общее — ещё лучше *après **être rentrée***."
+  - q: "Nous resterons ici jusqu'à ce que le train arrivera."
+    answers: ["Nous resterons ici jusqu'à ce que le train arrive."]
+    explain: "*Jusqu'à ce que* + **subjonctif**: *le train **arrive***."
+  - q: "Je n'ai pas vu mes cousins depuis que trois ans."
+    answers: ["Je n'ai pas vu mes cousins depuis trois ans."]
+    explain: "Перед сроком (*trois ans*) — **предлог** *depuis*, без *que*. *Depuis que* — союз, после него предложение: *depuis qu'ils ont déménagé*."
+  - q: "Pendant que le cours, il dessinait dans son cahier."
+    answers: ["Pendant le cours, il dessinait dans son cahier.", "Pendant que le professeur parlait, il dessinait dans son cahier."]
+    explain: "Перед существительным — **предлог** *pendant*: *pendant le cours*. *Pendant que* требует предложения."
+  - q: "Je lirai le contrat en attendant que tu reviens."
+    answers: ["Je lirai le contrat en attendant que tu reviennes."]
+    explain: "*En attendant que* + **subjonctif**: *que tu **reviennes***."
+  - q: "Après manger, nous sommes allés nous promener."
+    answers: ["Après avoir mangé, nous sommes allés nous promener.", "Après avoir mangé, nous sommes allées nous promener.", "Après le repas, nous sommes allés nous promener."]
+    explain: "После *après* — **infinitif passé**: *après **avoir mangé***."
+  - q: "Dès qu'il a reçu son salaire la semaine prochaine, il achètera un vélo."
+    answers: ["Dès qu'il aura reçu son salaire la semaine prochaine, il achètera un vélo.", "Dès qu'il recevra son salaire la semaine prochaine, il achètera un vélo."]
+    explain: "Речь о будущем (*la semaine prochaine*) → *dès qu'il **aura reçu*** (futur antérieur) или *recevra*."
+  - q: "Elle a pleuré jusqu'à ce que sa mère la prenait dans ses bras."
+    answers: ["Elle a pleuré jusqu'à ce que sa mère la prenne dans ses bras."]
+    explain: "*Jusqu'à ce que* + **subjonctif** и в прошлом: *jusqu'à ce que sa mère la **prenne***."

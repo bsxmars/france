@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу на французский целиком. Числа можно писать словами или цифрами, если не сказано иное. Пунктуация не важна, акценты — важны."
+hints:
+  - "«Что…?» о подлежащем — qu'est-ce qui; «кто…?» — qui."
+  - "«Видно», «слышно» — on voit, on entend."
+items:
+  - q: "Кто ждёт Поля?"
+    answers: ["Qui attend Paul ?", "Qui est-ce qui attend Paul ?"]
+    explain: "Вопрос к подлежащему-человеку: **qui** (или *qui est-ce qui*) + глагол в 3-м лице ед. ч.: *attend*."
+  - q: "Что тебя интересует?"
+    answers: ["Qu'est-ce qui t'intéresse ?"]
+    explain: "«Что» — подлежащее (оно интересует) → **qu'est-ce qui**. Местоимение *te* перед глаголом: *t'intéresse*."
+  - q: "Отсюда виден собор."
+    answers: ["D'ici, on voit la cathédrale.", "On voit la cathédrale d'ici.", "D'ici on voit la cathédrale."]
+    explain: "«Виден» — безлично: **on voit**."
+  - q: "Отовсюду слышна музыка."
+    answers: ["De tous côtés, on entend de la musique.", "On entend de la musique de tous côtés.", "On entend la musique de tous côtés.", "De tous côtés, on entend la musique.", "Partout, on entend de la musique.", "On entend de la musique partout.", "Partout, on entend la musique.", "On entend la musique partout."]
+    explain: "«Слышна» → **on entend**; «отовсюду» — *de tous côtés* или *partout*."
+  - q: "Мы продаём наш дом."
+    answers: ["Nous vendons notre maison.", "On vend notre maison."]
+    explain: "*vendre* → **nous vendons**."
+  - q: "Подождите меня, пожалуйста!"
+    answers: ["Attendez-moi, s'il vous plaît !", "Attends-moi, s'il te plaît !"]
+    explain: "Повелительное от *attendre*: **attendez** / **attends**; местоимение после глагола через дефис: *attendez-**moi***."
+  - q: "Я часто вижусь с родителями."
+    answers: ["Je vois souvent mes parents.", "Je vois mes parents souvent."]
+    explain: "*Voir* qn — «видеться с кем-то»: **je vois** mes parents."
+  - q: "Это мой брат отвечает на письма."
+    answers: ["C'est mon frère qui répond aux lettres."]
+    explain: "Выделяем подлежащее: **c'est** mon frère **qui répond**; *répondre **à*** + *les lettres* → *aux lettres*."
+  - q: "Праздник начинается тринадцатого июля. (число — словами)"
+    answers: ["La fête commence le treize juillet."]
+    explain: "Дата: **le treize juillet** — артикль + количественное число, без предлога."
+  - q: "В нашем городе девяносто восемь тысяч жителей. (число — словами)"
+    answers: ["Dans notre ville, il y a quatre-vingt-dix-huit mille habitants.", "Il y a quatre-vingt-dix-huit mille habitants dans notre ville.", "Notre ville a quatre-vingt-dix-huit mille habitants.", "Dans notre ville, il y a quatre-vingt-dix-huit-mille habitants.", "Il y a quatre-vingt-dix-huit-mille habitants dans notre ville.", "Notre ville a quatre-vingt-dix-huit-mille habitants."]
+    explain: "98 000 = **quatre-vingt-dix-huit mille**: 4 × 20 + 18, *mille* без *-s*."

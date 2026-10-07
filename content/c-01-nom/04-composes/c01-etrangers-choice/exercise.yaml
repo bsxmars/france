@@ -1,0 +1,51 @@
+title: "Заимствования и составные слова: что верно?"
+type: choice
+intro: "Выбери верную форму. Если несколько форм нормативны, выбирай вариант, который это отражает."
+hints:
+  - "Рекомендация 1990: французское s у заимствований — des matchs, des scénarios, des maximums."
+  - "Неизменяемые латинские выражения: des post-scriptum, des statu quo."
+items:
+  - q: "Ce week-end, l'équipe a gagné deux ___ d'affilée."
+    options: ["matchs ou matches", "seulement matches", "seulement matchs"]
+    answer: 0
+    explain: "Обе формы нормативны: ***matchs*** (французская, рекомендуемая) и ***matches*** (английская)."
+  - q: "Le réalisateur a refusé trois ___ avant d'accepter celui-ci. (forme recommandée en 1990)"
+    options: ["scénarii", "scénarios", "scénario"]
+    answer: 1
+    explain: "Рекомендуется французское мн. ч. ***scénarios***. Итальянское *scénarii* / *scenarii* встречается, но звучит книжно и вычурно."
+  - q: "Les murs du métro étaient couverts de ___."
+    options: ["graffitis", "graffitos", "graffities"]
+    answer: 0
+    explain: "***Graffitis*** — рекомендуемая французская форма (традиционно также *des graffiti*)."
+  - q: "Le gouvernement a revalorisé les ___ sociaux."
+    options: ["minimums", "minima", "les deux formes sont possibles"]
+    answer: 2
+    explain: "В административном языке закрепилось ***les minima sociaux***, но французская форма ***minimums*** тоже нормативна."
+  - q: "Elle a ajouté deux ___ à la fin de sa lettre."
+    options: ["post-scriptums", "post-scriptum", "posts-scriptum"]
+    answer: 1
+    explain: "Латинское выражение не изменяется: ***des post-scriptum***."
+  - q: "Les ___ de cet hôtel préparent des cocktails remarquables."
+    options: ["barmans ou barmen", "seulement barmen", "seulement barmans"]
+    answer: 0
+    explain: "Нормативны обе формы: английская ***barmen*** и французская ***barmans*** (рекомендована в 1990 году)."
+  - q: "Pour le pique-nique, nous avons préparé des ___ au jambon."
+    options: ["sandwich", "sandwichs", "sandwichies"]
+    answer: 1
+    explain: "***Sandwichs*** (французская форма); английская *sandwiches* тоже допустима, но её здесь нет среди вариантов."
+  - q: "Il y a trois ___ dans le parking de l'immeuble."
+    options: ["sous-sol", "sous-sols", "sous-sole"]
+    answer: 1
+    explain: "Предлог + сущ.: изменяется только существительное — ***sous-sols***."
+  - q: "Cette crise a fait beaucoup de ___ cet hiver."
+    options: ["sans-abri ou sans-abris", "seulement sans-abris", "seulement sans-abri"]
+    answer: 0
+    explain: "Традиционно ***sans-abri*** (неизменно), по реформе 1990 — ***sans-abris***. Обе формы верны."
+  - q: "Sa voiture a besoin de nouveaux ___."
+    options: ["essuies-glaces", "essuie-glaces", "essuie-glace"]
+    answer: 1
+    explain: "Глагол *essuyer* не изменяется, *glace* — по смыслу во мн. ч.: ***essuie-glaces***."
+  - q: "Les ___ de Schubert sont chantés en allemand."
+    options: ["lieder ou lieds", "seulement lieder", "seulement lieds"]
+    answer: 0
+    explain: "Немецкое мн. ч. ***lieder*** традиционно и очень употребительно; французское ***lieds*** допускается. Обе формы нормативны."

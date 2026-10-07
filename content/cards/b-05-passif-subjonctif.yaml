@@ -1,0 +1,100 @@
+- id: b05-passif-temps
+  lesson: b-05-passif-subjonctif/01-grammaire
+  q: "Пассив от «on publiera / on aurait publié / il faut qu'on publie» (l'étude)."
+  a: "*l'étude **sera publiée** / **aurait été publiée** / il faut que l'étude **soit publiée***: время пассива = время *être*."
+- id: b05-passif-modal
+  lesson: b-05-passif-subjonctif/01-grammaire
+  q: "«Эти лекарства могли бы скоро выписывать фармацевты» — пассив."
+  a: "*Ces médicaments **pourraient** bientôt **être prescrits** par les pharmaciens*: модальный глагол в своём времени + *être* + причастие."
+- id: b05-passif-cod
+  lesson: b-05-passif-subjonctif/01-grammaire
+  q: "Почему нельзя ~~Je suis demandé mon avis~~? Как сказать «у меня спросили мнение»?"
+  a: "Подлежащим пассива становится только прямое дополнение. *On m'a demandé mon avis* / *Mon avis m'a été demandé*."
+- id: b05-passif-par-de
+  lesson: b-05-passif-subjonctif/01-grammaire
+  q: "Par или de: respecté ___ tous; présenté ___ la ministre; couvert ___ neige."
+  a: "*respecté **de** tous* (отношение), *présenté **par** la ministre* (действие), *couvert **de** neige* (состояние, без артикля)."
+- id: b05-pronominal-passif
+  lesson: b-05-passif-subjonctif/01-grammaire
+  q: "Что выражает *Ce vin se boit frais*? Можно ли добавить исполнителя?"
+  a: "Местоимённый пассив — общее правило, норма. Исполнителя не называют: ~~se boit par…~~. В сложных временах — *être*: *les billets se sont vendus*."
+- id: b05-se-faire
+  lesson: b-05-passif-subjonctif/01-grammaire
+  q: "«Ей сделали операцию», «у него украли телефон»."
+  a: "*Elle **s'est fait opérer***; *Il **s'est fait voler** son téléphone*. *Fait* перед инфинитивом не согласуется."
+- id: b05-passif-choix
+  lesson: b-05-passif-subjonctif/01-grammaire
+  q: "Четыре способа не называть / отодвинуть исполнителя."
+  a: "être + p.p. (*la loi a été votée*), se + глагол (*ça ne se fait pas*), *on* (*on a voté la loi*), se faire + inf. (*il s'est fait vacciner*)."
+- id: b05-passif-etre-pc
+  lesson: b-05-passif-subjonctif/01-grammaire
+  q: "«Меня проинформировали» в passé composé пассива."
+  a: "*J'**ai été** informé(e)* — у *être* сложные времена с *avoir*, не ~~je suis été~~."
+- id: b05-subj-quand
+  lesson: b-05-passif-subjonctif/02-grammaire
+  q: "Пять групп оборотов с subjonctif для позиции."
+  a: "Необходимость (*il faut, il est important que*), желание (*je souhaite que*), оценка и чувство (*je trouve normal, je regrette que*), сомнение и возможность (*je doute, il est possible que*), цель (*pour que*)."
+- id: b05-indicatif-opinion
+  lesson: b-05-passif-subjonctif/02-grammaire
+  q: "Какое наклонение после *je pense, je trouve, je suis sûr, il est évident, il est probable, j'espère que*?"
+  a: "**Indicatif** (или conditionnel): *Je pense qu'il **a** raison. J'espère qu'il **viendra**.*"
+- id: b05-subj-negation
+  lesson: b-05-passif-subjonctif/02-grammaire
+  q: "*Je pense qu'elle a raison* → в отрицании?"
+  a: "*Je **ne** pense **pas** qu'elle **ait** raison* — мнение в отрицании → subjonctif. Наоборот: *je ne doute pas que* + обычно indicatif."
+- id: b05-subj-pieges
+  lesson: b-05-passif-subjonctif/02-grammaire
+  q: "Ловушки: probable / possible; il me semble / il semble; je trouve que / je trouve normal que."
+  a: "*il est probable que* + ind., *il est possible que* + subj.; *il me semble que* + ind., *il semble que* + subj.; *je trouve que* + ind., *je trouve normal que* + subj."
+- id: b05-subj-infinitif
+  lesson: b-05-passif-subjonctif/02-grammaire
+  q: "«Я хочу участвовать» и «Я хочу, чтобы ты участвовал»."
+  a: "*Je veux **participer*** (одно подлежащее → инфинитив) — *Je veux **que tu participes***."
+- id: b05-subj-formes
+  lesson: b-05-passif-subjonctif/02-grammaire
+  q: "Subjonctif (que je / qu'ils): être, avoir, faire, pouvoir, savoir, aller."
+  a: "*sois / soient, aie / aient, fasse / fassent, puisse / puissent, sache / sachent, aille / aillent*."
+- id: b05-subj-passe
+  lesson: b-05-passif-subjonctif/02-grammaire
+  q: "«Жаль, что ты не купил дженерик» — какой subjonctif?"
+  a: "Subjonctif passé (действие раньше главного): *Je regrette que tu **n'aies pas acheté** le générique.*"
+- id: b05-esperer
+  lesson: b-05-passif-subjonctif/02-grammaire
+  q: "*J'espère que* и *je souhaite que* — одинаковое наклонение?"
+  a: "Нет: *j'espère que* + **indicatif** (*qu'il viendra*), *je souhaite que* + **subjonctif** (*qu'il vienne*)."
+- id: b05-crains-ne
+  lesson: b-05-passif-subjonctif/02-grammaire
+  q: "«Боюсь, что дебаты закончатся ничем» — что за *ne*?"
+  a: "*Je crains que le débat **ne** se termine sans solution*: subjonctif + «пустое» *ne* (не отрицание), необязательное в разговорной речи."
+- id: b05-de-plus-en-plus
+  lesson: b-05-passif-subjonctif/03-grammaire
+  q: "«Всё дороже», «всё больше зрителей», «играет всё лучше»."
+  a: "*de plus en plus cher*, *de plus en plus **de** spectateurs*, *il joue **de mieux en mieux***."
+- id: b05-bien-plus
+  lesson: b-05-passif-subjonctif/03-grammaire
+  q: "«Гораздо дороже», «гораздо лучше» — и почему не *très*?"
+  a: "*bien / beaucoup plus cher*, *bien meilleur / beaucoup mieux*. *Très* не сочетается со сравнительной степенью."
+- id: b05-fois-plus
+  lesson: b-05-passif-subjonctif/03-grammaire
+  q: "«Втрое дороже», «вдвое меньше болельщиков», «зарабатывает в десять раз больше»."
+  a: "*trois fois plus cher*, *deux fois moins **de** supporters*, *il gagne dix fois plus*."
+- id: b05-tout-aussi
+  lesson: b-05-passif-subjonctif/03-grammaire
+  q: "*Tout aussi* или *tout autant*: ___ passionnant; ___ d'émotions."
+  a: "*tout **aussi** passionnant* (прилагательное), *tout **autant** d'émotions* (существительное; и с глаголом: *il travaille tout autant*)."
+- id: b05-plus-plus
+  lesson: b-05-passif-subjonctif/03-grammaire
+  q: "«Чем больше тренируешься, тем больше прогрессируешь»."
+  a: "***Plus** on s'entraîne, **plus** on progresse* — без артикля и без *que* (не ~~le plus…~~)."
+- id: b05-d-autant-plus
+  lesson: b-05-passif-subjonctif/03-grammaire
+  q: "«Поражение тем обиднее, что команда вела 2:0»."
+  a: "*La défaite est **d'autant plus** décevante **que** l'équipe menait 2 à 0* — *d'autant plus* + прил. + *que* + indicatif."
+- id: b05-alternative
+  lesson: b-05-passif-subjonctif/03-grammaire
+  q: "«В дождь или в солнце матч состоится»; «согласны вы или нет»."
+  a: "***Qu'il pleuve ou qu'il fasse** beau, le match aura lieu*; ***que vous soyez** d'accord **ou non***: альтернатива → subjonctif."
+- id: b05-soit-que
+  lesson: b-05-passif-subjonctif/03-grammaire
+  q: "*Soit que… soit que…* и *quel que soit* — что значат и чего требуют?"
+  a: "*soit que… soit que…* + subj. — «то ли…, то ли…» (причины); *quel(le)(s) que soit / soient* + сущ. — «каким бы ни был»: *quels que soient vos résultats*."

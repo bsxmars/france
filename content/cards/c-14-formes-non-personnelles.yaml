@@ -1,0 +1,168 @@
+- id: c14-pp-formation
+  lesson: c-14-formes-non-personnelles/01-participe-present
+  q: "Как образуется participe présent? Какие три исключения?"
+  a: "Основа *nous*-формы présent + *-ant*: *nous finissons → finissant*. Исключения: ***ayant*** (avoir), ***étant*** (être), ***sachant*** (savoir)."
+- id: c14-pp-invariable
+  lesson: c-14-formes-non-personnelles/01-participe-present
+  q: "Согласуется ли participe présent? Des étudiantes ___ (parler) trois langues."
+  a: "Нет, никогда: *des étudiantes **parlant** trois langues*."
+- id: c14-participe-compose
+  lesson: c-14-formes-non-personnelles/01-participe-present
+  q: "Что выражает participe passé composé и как он строится?"
+  a: "Действие, предшествующее главному: ***ayant / étant* + participe passé** — *ayant terminé, étant partie*. С глаголами на *être* *étant* обычно опускают: *(étant) arrivés*."
+- id: c14-av-criteres
+  lesson: c-14-formes-non-personnelles/01-participe-present
+  q: "Participe présent или adjectif verbal: по каким признакам решить?"
+  a: "Participe: дополнение, обстоятельство, наречие **после**, отрицание — действие, неизменяем. Adjectif verbal: после *être*, простое определение, наречие **перед** — признак, согласуется."
+- id: c14-fatigant
+  lesson: c-14-formes-non-personnelles/01-participe-present
+  q: "fatiguant / fatigant, convainquant / convaincant — в чём разница?"
+  a: "*-guant, -quant* — participe présent (с дополнением: *un travail **fatiguant** les yeux*); *-gant, -cant* — прилагательное (*un travail **fatigant***, *un argument **convaincant***)."
+- id: c14-negligent
+  lesson: c-14-formes-non-personnelles/01-participe-present
+  q: "Назови пары -ant / -ent (participe / adjectif)."
+  a: "*négligeant / négligent, précédant / précédent, différant / différent, excellant / excellent, équivalant / équivalent, influant / influent, divergeant / divergent, résidant / résident, adhérant / adhérent, émergeant / émergent*."
+- id: c14-souriant
+  lesson: c-14-formes-non-personnelles/01-participe-present
+  q: "Une élève souriant toujours / une élève toujours souriante — почему по-разному?"
+  a: "Наречие **после** формы → participe (неизменяем); наречие **перед** → adjectif verbal (согласуется)."
+- id: c14-pp-relative
+  lesson: c-14-formes-non-personnelles/01-participe-present
+  q: "Чем заменяют participe présent в разговорной речи?"
+  a: "Относительным придаточным: *les clients **possédant** une carte* → *les clients **qui possèdent** une carte*; причинный оборот — придаточным с *comme*."
+- id: c14-gerondif-forme
+  lesson: c-14-formes-non-personnelles/02-gerondif
+  q: "Форма gérondif и главное условие его употребления?"
+  a: "*en* + participe présent (*en lisant*). Подлежащее gérondif = подлежащее главного предложения."
+- id: c14-gerondif-valeurs
+  lesson: c-14-formes-non-personnelles/02-gerondif
+  q: "Какие значения выражает gérondif?"
+  a: "Время (*en traversant le parc*), способ (*en pratiquant*), условие (*en partant maintenant* = *si…*), сопутствующее действие, иногда причину."
+- id: c14-tout-en
+  lesson: c-14-formes-non-personnelles/02-gerondif
+  q: "Что добавляет tout en?"
+  a: "Одновременность и длительность (*tout en conduisant*) или уступку = *bien que*: *Tout en reconnaissant ses qualités, je…*"
+- id: c14-gerondif-pronominal
+  lesson: c-14-formes-non-personnelles/02-gerondif
+  q: "«Я порезался, бреясь»."
+  a: "*Je me suis coupé **en me rasant**.* — возвратное местоимение по лицу подлежащего."
+- id: c14-sans-inf
+  lesson: c-14-formes-non-personnelles/02-gerondif
+  q: "Как передать «не глядя», «не попрощавшись»?"
+  a: "**sans + infinitif**: *sans regarder, sans dire au revoir*; прошедшее — *sans avoir lu*. Не ~~en ne regardant pas~~."
+- id: c14-ne-sachant-pas
+  lesson: c-14-formes-non-personnelles/02-gerondif
+  q: "«Не зная города, он заблудился» — почему не sans connaître?"
+  a: "Это причина → participe с отрицанием: ***Ne connaissant pas** la ville, il s'est perdu.* *Sans* — для способа и сопутствующего обстоятельства."
+- id: c14-participe-vs-gerondif
+  lesson: c-14-formes-non-personnelles/02-gerondif
+  q: "J'ai vu mon ami sortant du cinéma / en sortant du cinéma — кто выходил?"
+  a: "*sortant* — друг (participe относится к дополнению); *en sortant* — я (gérondif относится к подлежащему)."
+- id: c14-voyant-que
+  lesson: c-14-formes-non-personnelles/02-gerondif
+  q: "«Видя, что её не понимают, она замолчала»."
+  a: "*Voyant qu'on ne la **comprenait** pas, elle s'est tue.* — внутри оборота согласование времён по главному."
+- id: c14-ppasse-transitif
+  lesson: c-14-formes-non-personnelles/03-participe-passe
+  q: "Какое значение у participe passé переходного глагола без вспомогательного?"
+  a: "Пассивное: *des maisons **construites** en 1900* — построенные; *un professeur **respecté*** — уважаемый (время зависит от вида и контекста)."
+- id: c14-ppasse-intransitif
+  lesson: c-14-formes-non-personnelles/03-participe-passe
+  q: "Какое значение у participe passé глаголов на être (arriver, tomber, partir)?"
+  a: "Активное, завершённое, предшествующее: *les feuilles **tombées*** — опавшие; ***Rentrée** chez elle, elle…* — вернувшись."
+- id: c14-ppasse-negation
+  lesson: c-14-formes-non-personnelles/03-participe-passe
+  q: "«Не приехав вовремя, она пропустила начало»."
+  a: "***N'étant pas arrivée** à temps, elle a manqué le début.* — с отрицанием сокращённая форма невозможна."
+- id: c14-assis
+  lesson: c-14-formes-non-personnelles/03-participe-passe
+  q: "«Сидя на скамейке» — assis или s'asseyant?"
+  a: "***Assis(e)*** — состояние. *S'asseyant* — «садясь» (процесс); *s'étant assis(e)* — «сев» (действие)."
+- id: c14-arrivant-arrive
+  lesson: c-14-formes-non-personnelles/03-participe-passe
+  q: "les trains arrivant / les trains arrivés — разница?"
+  a: "*arrivant* — прибывающие (одновременно, незавершённо); *arrivés* — прибывшие (завершённое, предшествующее)."
+- id: c14-ci-joint
+  lesson: c-14-formes-non-personnelles/03-participe-passe
+  q: "Когда не согласуются ci-joint, vu, excepté, y compris, étant donné?"
+  a: "Перед существительным (они работают как предлоги): ***ci-joint** la copie, **vu** les circonstances*. После — согласуются: *la copie **ci-jointe***."
+- id: c14-ppasse-avoir
+  lesson: c-14-formes-non-personnelles/03-participe-passe
+  q: "Можно ли сказать «Dormi une heure, il…»?"
+  a: "Нет: непереходные глаголы с *avoir* и *aller* без вспомогательного не употребляются → *Ayant dormi une heure / Après avoir dormi une heure, il…*"
+- id: c14-ppasse-promener
+  lesson: c-14-formes-non-personnelles/03-participe-passe
+  q: "«Погуляв в парке, они вернулись» — почему не promenés?"
+  a: "У «непредельных» местоименных глаголов короткой формы нет: ***S'étant promenés** dans le parc, ils sont rentrés.*"
+- id: c14-prop-participe
+  lesson: c-14-formes-non-personnelles/04-propositions
+  q: "Что такое proposition participe?"
+  a: "Причастный оборот со **своим** подлежащим: ***Le repas terminé**, tout le monde est sorti.* ***La pluie ayant cessé**, nous sommes repartis.* Стиль — письменный."
+- id: c14-prop-participe-valeurs
+  lesson: c-14-formes-non-personnelles/04-propositions
+  q: "Participe présent / passé composé / passé в proposition participe — какие значения?"
+  a: "présent — одновременная причина (*Le musée fermant à 17 h…*); passé composé — предшествующая причина (*Le vol ayant été annulé…*); passé — время (*Les invités partis…*)."
+- id: c14-une-fois
+  lesson: c-14-formes-non-personnelles/04-propositions
+  q: "«Как только решение было принято, …» — короткой конструкцией."
+  a: "***Une fois la décision prise**, …* (также *aussitôt / sitôt le contrat signé*, *à peine arrivé*)."
+- id: c14-pendante
+  lesson: c-14-formes-non-personnelles/04-propositions
+  q: "Почему неверно «Ayant raté le bus, mon patron m'a renvoyé» (если автобус пропустил я)?"
+  a: "Подлежащее оборота должно совпадать с подлежащим главного: *Ayant raté le bus, **je** suis arrivé en retard* — или своё подлежащее: *Le bus étant parti, …*"
+- id: c14-prop-infinitive
+  lesson: c-14-formes-non-personnelles/04-propositions
+  q: "После каких глаголов proposition infinitive? «Я слышу, как соседи ругаются»."
+  a: "*voir, regarder, entendre, écouter, sentir* (+ *laisser*): *J'entends les voisins se disputer* / *se disputer les voisins*."
+- id: c14-infinitive-pronom
+  lesson: c-14-formes-non-personnelles/04-propositions
+  q: "Где местоимение в proposition infinitive? «Я видел, как они ушли»."
+  a: "Перед глаголом восприятия: *Je **les** ai vus partir.*"
+- id: c14-entendu-frapper
+  lesson: c-14-formes-non-personnelles/04-propositions
+  q: "«Я услышал, как стучат в дверь»."
+  a: "*J'ai entendu **frapper** à la porte.* — неопределённое подлежащее не выражается."
+- id: c14-accord-perception
+  lesson: c-14-formes-non-personnelles/04-propositions
+  q: "Les musiciennes que j'ai entendu(es) jouer / la sonate que j'ai entendu(e) jouer?"
+  a: "*les musiciennes que j'ai **entendues** jouer* (они играют — согласование); *la sonate que j'ai **entendu** jouer* (её играют — без согласования)."
+- id: c14-se-sentir-inf
+  lesson: c-14-formes-non-personnelles/04-propositions
+  q: "«Он почувствовал, что краснеет»."
+  a: "*Il **s'est senti** rougir.* — одно подлежащее → местоименная форма."
+- id: c14-faire-bloc
+  lesson: c-14-formes-non-personnelles/05-causatif
+  q: "Где стоит исполнитель при faire + infinitif? «Учитель заставляет учеников читать»."
+  a: "После инфинитива: *Le professeur fait **lire les élèves**.* Между *faire* и инфинитивом — только наречие."
+- id: c14-faire-pronoms
+  lesson: c-14-formes-non-personnelles/05-causatif
+  q: "Место местоимений при faire + infinitif?"
+  a: "Перед *faire*: *Je **le** fais travailler. Ne **les** faites pas attendre.* В утвердительном повелительном — после: ***Faites-les** entrer.*"
+- id: c14-faire-a-par
+  lesson: c-14-formes-non-personnelles/05-causatif
+  q: "Когда исполнитель — COD, а когда à / par?"
+  a: "Непереходный инфинитив или переходный без дополнения → COD (*l'a fait pleurer*). Переходный с дополнением → *à* (*leur a fait réciter un poème*); при двусмысленности — *par*."
+- id: c14-fait-invariable
+  lesson: c-14-formes-non-personnelles/05-causatif
+  q: "Ces robes, je les ai fait(es) faire? Elle s'est fait(e) voler?"
+  a: "*Fait* + infinitif **всегда неизменяем**: *je les ai **fait** faire*, *elle s'est **fait** voler son sac*."
+- id: c14-se-faire
+  lesson: c-14-formes-non-personnelles/05-causatif
+  q: "«Я подстригся», «его сбила машина», «её слушаются»."
+  a: "*Je me suis fait couper les cheveux. Il s'est fait renverser par une voiture. Elle sait se faire obéir.*"
+- id: c14-faire-asseoir
+  lesson: c-14-formes-non-personnelles/05-causatif
+  q: "Faire + местоименный глагол: что происходит с se?"
+  a: "Обычно опускается: *faire asseoir, faire taire, faire évanouir*. Иногда сохраняется ради смысла: *faire **se** retourner* (обернуться) ≠ *faire retourner* (вернуться)."
+- id: c14-faire-un-verbe
+  lesson: c-14-formes-non-personnelles/05-causatif
+  q: "faire voir, faire tomber, faire venir, faire savoir, faire entrer — одним русским глаголом."
+  a: "показать, уронить, вызвать, сообщить, ввести / впустить."
+- id: c14-laisser
+  lesson: c-14-formes-non-personnelles/05-causatif
+  q: "Чем laisser + infinitif отличается от faire по порядку слов?"
+  a: "Существительное может стоять между ними: *J'ai laissé les enfants entrer* = *laissé entrer les enfants*. С переходным: *Je le laisse lire ce livre* / *Je lui laisse lire ce livre* / *Je le lui laisse lire*."
+- id: c14-se-laisser
+  lesson: c-14-formes-non-personnelles/05-causatif
+  q: "«Она дала себя убедить» — и как согласовать laissé?"
+  a: "*Elle s'est **laissé** convaincre* — по реформе 1990 неизменяемо (традиционное *laissée* тоже допустимо)."

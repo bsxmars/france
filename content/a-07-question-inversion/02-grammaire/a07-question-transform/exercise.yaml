@@ -1,0 +1,68 @@
+title: "Задай вопрос"
+type: transform
+intro: "Преврати утверждение в вопрос способом, который указан в ключе: ИНВЕРСИЯ или EST-CE QUE. Впиши недостающую часть вопроса."
+hints:
+  - "Местоимение → простая инверсия с дефисом: Lis-tu ?"
+  - "Глагол на -a / -e + il, elle → -t-: Va-t-il ?"
+  - "Существительное остаётся впереди и повторяется местоимением: Paul travaille-t-il ?"
+items:
+  - q: "Il lit une revue."
+    key: "ИНВЕРСИЯ"
+    stem: "___ une revue ?"
+    answers: ["Lit-il"]
+    explain: "Подлежащее — местоимение → простая инверсия: **Lit-il**. Глагол кончается на *-t*, вставлять *-t-* не нужно."
+  - q: "Tu parles russe."
+    key: "ИНВЕРСИЯ"
+    stem: "___ russe ?"
+    answers: ["Parles-tu"]
+    explain: "*tu* переходит за глагол через дефис: **Parles-tu**. Окончание *-es* сохраняется."
+  - q: "Elle va à la pharmacie."
+    key: "ИНВЕРСИЯ"
+    stem: "___ à la pharmacie ?"
+    answers: ["Va-t-elle"]
+    explain: "*va* кончается на гласную *-a*, *elle* — на гласную → вставное **-t-**: *Va-t-elle*."
+  - q: "Il habite Paris."
+    key: "ИНВЕРСИЯ"
+    stem: "___ Paris ?"
+    answers: ["Habite-t-il"]
+    explain: "*habite* кончается на *-e* → **Habite-t-il**."
+  - q: "Elle est malade."
+    key: "ИНВЕРСИЯ"
+    stem: "___ malade ?"
+    answers: ["Est-elle"]
+    explain: "*est* кончается на *-t* → просто **Est-elle**, читается [ɛ-tɛl]."
+  - q: "Paul travaille à l'usine."
+    key: "ИНВЕРСИЯ"
+    stem: "Paul ___ à l'usine ?"
+    answers: ["travaille-t-il"]
+    explain: "Подлежащее — имя → сложная инверсия: *Paul* остаётся, после глагола — **-t-il**."
+  - q: "Les sœurs de Marc habitent Lyon."
+    key: "ИНВЕРСИЯ"
+    stem: "Les sœurs de Marc ___ Lyon ?"
+    answers: ["habitent-elles"]
+    explain: "*les sœurs* — ж. р. мн. ч. → повторяем местоимением **elles**: *habitent-elles*. Глагол кончается на *-t*, вставка не нужна."
+  - q: "Léa et Marc étudient le russe."
+    key: "ИНВЕРСИЯ"
+    stem: "Léa et Marc ___ le russe ?"
+    answers: ["étudient-ils"]
+    explain: "Два подлежащих разного рода → местоимение мужского рода мн. ч. **ils**: *étudient-ils*."
+  - q: "Il a une sœur."
+    key: "ИНВЕРСИЯ"
+    stem: "___ une sœur ?"
+    answers: ["A-t-il"]
+    explain: "*a* — гласная → **A-t-il** [a-til]."
+  - q: "Je lis vite."
+    key: "EST-CE QUE"
+    stem: "___ vite ?"
+    answers: ["Est-ce que je lis"]
+    explain: "С *je* инверсию не делают → **Est-ce que je lis** vite ? — порядок слов прямой."
+  - q: "Claire ferme la fenêtre."
+    key: "EST-CE QUE"
+    stem: "___ la fenêtre ?"
+    answers: ["Est-ce que Claire ferme"]
+    explain: "После *est-ce que* — обычный порядок: **Est-ce que Claire ferme** la fenêtre ?"
+  - q: "Elle écrit à sa mère."
+    key: "EST-CE QUE"
+    stem: "___ à sa mère ?"
+    answers: ["Est-ce qu'elle écrit"]
+    explain: "Перед *elle* гласная: *que* → **qu'**: *Est-ce qu'elle écrit*."

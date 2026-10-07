@@ -1,0 +1,47 @@
+title: "Imparfait или passé composé"
+type: choice
+intro: "Выбери время. Спроси себя: это факт или картина, привычка, фон?"
+hints:
+  - "Привычка, описание, процесс-фон → imparfait."
+  - "Однократное событие и действие в рамках (toute la journée, longtemps, deux heures) → passé composé."
+items:
+  - q: "Hier, je ___ toute la journée à la bibliothèque."
+    options: ["travaillais", "ai travaillé"]
+    answer: 1
+    explain: "Действие ограничено рамками (*toute la journée*) и завершено → **passé composé**."
+  - q: "Quand j'avais dix ans, je ___ au football tous les samedis."
+    options: ["jouais", "ai joué"]
+    answer: 0
+    explain: "Привычка в прошлом (*tous les samedis*) → **imparfait**."
+  - q: "Je lisais le journal quand le téléphone ___."
+    options: ["sonnait", "a sonné"]
+    answer: 1
+    explain: "*Je lisais* — фон, звонок — однократное событие на нём → **passé composé**."
+  - q: "Pendant que maman préparait le dîner, papa ___ la table."
+    options: ["mettait", "a mis"]
+    answer: 0
+    explain: "Два параллельных процесса (*pendant que*) — оба в **imparfait**."
+  - q: "La maison de mes grands-parents ___ petite, mais très claire."
+    options: ["était", "a été"]
+    answer: 0
+    explain: "Описание (каким был дом) → **imparfait**."
+  - q: "Tu as lu cet article ? — Oui, je ___."
+    options: ["le lisais", "l'ai lu"]
+    answer: 1
+    explain: "Вопрос о факте: «читал?» = «прочитал?» → **passé composé**, хотя по-русски несовершенный вид."
+  - q: "Nous ___ longtemps sans dire un mot."
+    options: ["marchions", "avons marché"]
+    answer: 1
+    explain: "*Longtemps* задаёт рамки действия → **passé composé** («долго шли / прошли»)."
+  - q: "Il ___ beau, alors nous sommes sortis."
+    options: ["faisait", "a fait"]
+    answer: 0
+    explain: "Погода — описание, фон для события *nous sommes sortis* → **imparfait**."
+  - q: "On s'ennuie ici. Si on ___ au cinéma ?"
+    options: ["allait", "est allé", "va aller"]
+    answer: 0
+    explain: "*Si on* + **imparfait** — предложение «может, пойдём?»."
+  - q: "D'habitude, elle ___ à six heures, mais ce soir-là elle est rentrée à minuit."
+    options: ["rentrait", "est rentrée"]
+    answer: 0
+    explain: "*D'habitude* — привычка → **imparfait**; однократное *ce soir-là* — passé composé."

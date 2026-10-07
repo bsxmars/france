@@ -1,0 +1,44 @@
+title: "Найди ошибку: si"
+type: error
+intro: "В каждом предложении **одна** ошибка: время после si, время в главном, элизия. Исправь и отправь предложение целиком."
+hints:
+  - "После условного si, même si, si jamais, sauf si — ни futur, ни conditionnel."
+  - "si + il → s'il."
+  - "Si «ли» — futur или conditionnel возможны."
+items:
+  - q: "S'il fera beau dimanche, nous irons à la plage."
+    answers: ["S'il fait beau dimanche, nous irons à la plage."]
+    explain: "Условное *si* + présent: ***S'il fait beau***. Futur — только в главном."
+  - q: "Même si tu me supplierais, je ne changerais pas d'avis."
+    answers: ["Même si tu me suppliais, je ne changerais pas d'avis."]
+    explain: "*Même si* подчиняется правилам *si*: imparfait ***suppliais*** (основа *suppli-* + *-ais*)."
+  - q: "Il fait comme s'il ne m'a pas vu."
+    answers: ["Il fait comme s'il ne m'avait pas vu."]
+    explain: "После *comme si* — imparfait или plus-que-parfait: ***ne m'avait pas vu***."
+  - q: "Je me demande si il acceptera notre proposition."
+    answers: ["Je me demande s'il acceptera notre proposition."]
+    explain: "*Si* + *il* → ***s'il*** (элизия обязательна). Futur после *si* «ли» правилен."
+  - q: "Si tu aurais besoin d'aide, appelle-moi."
+    answers: ["Si tu as besoin d'aide, appelle-moi."]
+    explain: "Реальное условие → présent ***as***; conditionnel после *si* невозможен."
+  - q: "Si j'avais su, je ne serai pas venu."
+    answers: ["Si j'avais su, je ne serais pas venu.", "Si j'avais su, je ne serais pas venue."]
+    explain: "*Si* + plus-que-parfait → conditionnel passé: ***serais*** (с *-s*), а не futur *serai*."
+  - q: "Si vous aviez pris un taxi hier, vous arriveriez à l'heure."
+    answers: ["Si vous aviez pris un taxi hier, vous seriez arrivés à l'heure.", "Si vous aviez pris un taxi hier, vous seriez arrivé à l'heure.", "Si vous aviez pris un taxi hier, vous seriez arrivée à l'heure.", "Si vous aviez pris un taxi hier, vous seriez arrivées à l'heure."]
+    explain: "Последствие тоже в прошлом (*hier*) → conditionnel passé: ***seriez arrivé(e)(s)***."
+  - q: "Si jamais tu verras Paul, dis-lui que je le cherche."
+    answers: ["Si jamais tu vois Paul, dis-lui que je le cherche."]
+    explain: "*Si jamais* + présent: ***vois***."
+  - q: "Si elle aurait été là, elle t'aurait aidé."
+    answers: ["Si elle avait été là, elle t'aurait aidé.", "Si elle avait été là, elle t'aurait aidée."]
+    explain: "После *si* — plus-que-parfait: ***avait été***."
+  - q: "Elle m'a demandé si je viendrai à son mariage."
+    answers: ["Elle m'a demandé si je viendrais à son mariage."]
+    explain: "*Si* «ли» после прошедшего → futur dans le passé: ***viendrais***."
+  - q: "Quand j'étais petit, si mon père rentrait tôt, il jouerait avec nous."
+    answers: ["Quand j'étais petit, si mon père rentrait tôt, il jouait avec nous.", "Quand j'étais petite, si mon père rentrait tôt, il jouait avec nous."]
+    explain: "*Si* = «каждый раз когда» → imparfait в обеих частях: ***jouait***."
+  - q: "Sauf si le train aura du retard, j'arriverai à midi."
+    answers: ["Sauf si le train a du retard, j'arriverai à midi."]
+    explain: "*Sauf si* + présent, как условное *si*: ***a***."

@@ -1,0 +1,36 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу на французский целиком. Пунктуация не важна, акценты — важны. «Ты» — tu; числа пиши словами."
+hints:
+  - "назад — il y a; уже (продолжается) — depuis + présent; за — en; на — pour; через — dans; в течение — pendant."
+items:
+  - q: "Я живу в Лионе уже пять лет."
+    answers: ["J'habite à Lyon depuis cinq ans.", "J'habite Lyon depuis cinq ans.", "Je vis à Lyon depuis cinq ans.", "Ça fait cinq ans que j'habite à Lyon.", "Cela fait cinq ans que j'habite à Lyon.", "Il y a cinq ans que j'habite à Lyon.", "Ça fait cinq ans que je vis à Lyon.", "Cela fait cinq ans que je vis à Lyon.", "Il y a cinq ans que je vis à Lyon."]
+    explain: "Живу до сих пор → **depuis** + présent (или *ça fait / il y a … que*). ~~pendant cinq ans~~ здесь ошибка."
+  - q: "Я жил в Лионе пять лет, потом переехал в Париж."
+    answers: ["J'ai habité à Lyon pendant cinq ans, puis j'ai déménagé à Paris.", "J'ai vécu à Lyon pendant cinq ans, puis j'ai déménagé à Paris.", "J'ai habité à Lyon cinq ans, puis j'ai déménagé à Paris.", "J'ai vécu à Lyon cinq ans, puis j'ai déménagé à Paris.", "J'ai habité à Lyon pendant cinq ans, puis je suis parti à Paris.", "J'ai vécu à Lyon pendant cinq ans, puis je suis parti à Paris.", "J'ai habité à Lyon pendant cinq ans, ensuite j'ai déménagé à Paris.", "J'ai vécu à Lyon pendant cinq ans, ensuite j'ai déménagé à Paris."]
+    explain: "Законченный период → passé composé + **pendant** (его можно опустить)."
+  - q: "Я скачал это приложение два дня назад."
+    answers: ["J'ai téléchargé cette application il y a deux jours.", "Il y a deux jours, j'ai téléchargé cette application.", "J'ai téléchargé cette appli il y a deux jours."]
+    explain: "«Назад» → **il y a** + passé composé."
+  - q: "Она написала эту программу за неделю."
+    answers: ["Elle a écrit ce programme en une semaine.", "Elle a écrit ce logiciel en une semaine."]
+    explain: "«За» — время, потребовавшееся для результата → **en** une semaine."
+  - q: "Мы уезжаем на три дня."
+    answers: ["Nous partons pour trois jours.", "On part pour trois jours."]
+    explain: "Планируемая длительность → **pour** trois jours."
+  - q: "Фильм начнётся через десять минут."
+    answers: ["Le film commence dans dix minutes.", "Le film va commencer dans dix minutes.", "Le film commencera dans dix minutes."]
+    explain: "«Через» от сегодняшнего момента → **dans**."
+  - q: "Я не пользовался Фейсбуком с прошлого лета."
+    answers: ["Je n'ai pas utilisé Facebook depuis l'été dernier.", "Je n'utilise plus Facebook depuis l'été dernier.", "Je n'ai plus utilisé Facebook depuis l'été dernier."]
+    explain: "Отрицание с *depuis*: ни разу с тех пор → passé composé (*je n'ai pas utilisé*); можно и *je n'utilise plus*."
+  - q: "Вот уже месяц, как он ищет работу."
+    answers: ["Ça fait un mois qu'il cherche du travail.", "Cela fait un mois qu'il cherche du travail.", "Il y a un mois qu'il cherche du travail.", "Voilà un mois qu'il cherche du travail.", "Il cherche du travail depuis un mois.", "Ça fait un mois qu'il cherche un emploi.", "Cela fait un mois qu'il cherche un emploi.", "Il y a un mois qu'il cherche un emploi.", "Voilà un mois qu'il cherche un emploi.", "Il cherche un emploi depuis un mois.", "Il cherche un travail depuis un mois.", "Ça fait un mois qu'il cherche un travail."]
+    explain: "Промежуток в начале → **ça fait / il y a / voilà** un mois **que** + présent."
+  - q: "Когда ты позвонил, я уже два часа работал над этим проектом."
+    answers: ["Quand tu as appelé, je travaillais sur ce projet depuis deux heures.", "Je travaillais sur ce projet depuis deux heures quand tu as appelé.", "Quand tu m'as appelé, je travaillais sur ce projet depuis deux heures.", "Je travaillais sur ce projet depuis deux heures quand tu m'as appelé.", "Quand tu as téléphoné, je travaillais sur ce projet depuis deux heures.", "Je travaillais sur ce projet depuis deux heures quand tu as téléphoné.", "Quand tu m'as téléphoné, je travaillais sur ce projet depuis deux heures.", "Je travaillais sur ce projet depuis deux heures quand tu m'as téléphoné."]
+    explain: "«Уже… когда» в прошлом → **depuis** + imparfait, прерывающее действие — passé composé."
+  - q: "С тех пор как у нас есть интернет, мы больше не смотрим телевизор."
+    answers: ["Depuis que nous avons Internet, nous ne regardons plus la télévision.", "Depuis qu'on a Internet, on ne regarde plus la télé.", "Depuis que nous avons Internet, nous ne regardons plus la télé.", "Depuis qu'on a Internet, on ne regarde plus la télévision."]
+    explain: "Придаточное начала → **depuis que** + présent (состояние продолжается)."

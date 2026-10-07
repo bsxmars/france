@@ -1,0 +1,43 @@
+title: "Autre, certain, plusieurs, tel"
+type: gap
+intro: "Вставь нужную форму (одно или несколько слов на месте пропуска). Следи за артиклем: d'autres, de tels."
+hints:
+  - "un autre / d'autres / les autres; l'un l'autre, l'un de l'autre, les uns sur les autres."
+  - "un tel / une telle / de tels / de telles; tel que (например); tel quel (как есть)."
+items:
+  - q: "Cette solution ne convient pas ; il faut en trouver ___. (другую)"
+    answers: ["une autre"]
+    explain: "*Solution* — ж. р., «другую (какую-нибудь)» → **une autre**; *en* уже стоит перед глаголом."
+  - q: "Certains collègues ont signé la pétition, ___ ont préféré attendre. (другие)"
+    answers: ["d'autres"]
+    explain: "«Другие (ещё какие-то)» в паре с *certains* → **d'autres**."
+  - q: "Je suis arrivé le premier et j'ai attendu ___. (остальных)"
+    answers: ["les autres"]
+    explain: "«Остальные» (все прочие из известной группы) → **les autres**."
+  - q: "Ces deux chercheurs se citent souvent ___. (друг друга)"
+    answers: ["l'un l'autre", "mutuellement"]
+    explain: "*Citer qn* — прямое дополнение, без предлога: **l'un l'autre** (или *mutuellement*)."
+  - q: "Les membres de l'équipe comptent ___. (друг на друга)"
+    answers: ["les uns sur les autres"]
+    explain: "*Compter **sur*** + больше двух человек → **les uns sur les autres**; предлог в середине."
+  - q: "Je n'avais jamais entendu ___ absurdité. (такой)"
+    answers: ["une telle", "pareille", "une pareille"]
+    explain: "Ед. ч., ж. р. → **une telle** absurdité (синоним — *pareille absurdité*)."
+  - q: "On ne peut pas laisser passer ___ propos. (такие)"
+    answers: ["de tels", "de pareils"]
+    explain: "Мн. ч. перед существительным: *des* → *de*: **de tels** propos (не *des tels*)."
+  - q: "Il collectionne les instruments anciens, ___ le luth et la viole. (такие как)"
+    answers: ["tels que", "comme"]
+    explain: "*Tel que* при перечислении согласуется со словом *instruments* (м. р. мн. ч.) → **tels que**; проще — *comme*."
+  - q: "Je n'ai rien corrigé : j'ai envoyé le rapport ___. (как есть)"
+    answers: ["tel quel"]
+    explain: "«Как есть, без изменений» → **tel quel**, согласуется с *rapport*."
+  - q: "Il a ___ talent, mais il manque de rigueur. (некоторый, определённый)"
+    answers: ["un certain"]
+    explain: "*Certain* перед существительным = «некоторый, определённый», в ед. ч. с артиклем: **un certain** talent."
+  - q: "Leur victoire était ___ dès la première mi-temps. (несомненной)"
+    answers: ["certaine", "sûre"]
+    explain: "*Certain* как атрибут = «несомненный»: *victoire* → **certaine** (или *sûre*)."
+  - q: "J'ai lu ses romans ; j'en ai même relu ___. (несколько)"
+    answers: ["plusieurs", "quelques-uns"]
+    explain: "Местоимение с *en*: **plusieurs** (неизменяемое) или **quelques-uns**."

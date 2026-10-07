@@ -1,0 +1,32 @@
+- id: a02-possessifs
+  lesson: a-02-etre/01-grammaire
+  q: "Мой / твой / его-её перед словом ж. р. и м. р.?"
+  a: "Ж. р.: **ma, ta, sa** (*ma chaise*). М. р.: **mon, ton, son** (*mon chat*)."
+- id: a02-son-sa
+  lesson: a-02-etre/01-grammaire
+  q: "«Её сумка» — *sa sac* или *son sac*?"
+  a: "***son sac***: форма зависит от **рода предмета** (*sac* — м. р.), а не от владельца."
+- id: a02-mon-amie
+  lesson: a-02-etre/01-grammaire
+  q: "«Моя подруга», «его школа»?"
+  a: "*mon amie*, *son école*: перед словом ж. р. на гласную — **mon, ton, son**."
+- id: a02-demonstratifs
+  lesson: a-02-etre/01-grammaire
+  q: "Этот / эта: формы указательного слова?"
+  a: "**ce** (м. р.: *ce chat*), **cet** (м. р. перед гласной: *cet ami*), **cette** (ж. р.: *cette chaise*)."
+- id: a02-determinant-article
+  lesson: a-02-etre/01-grammaire
+  q: "Можно ли сказать *la ma chaise*, *la cette table*?"
+  a: "**Нет**: притяжательные и указательные слова заменяют артикль. *ma chaise, cette table*."
+- id: a02-etre
+  lesson: a-02-etre/01-grammaire
+  q: "Проспрягай être в настоящем времени."
+  a: "je **suis**, tu **es**, il/elle **est**, nous **sommes**, vous **êtes**, ils/elles **sont**."
+- id: a02-copule
+  lesson: a-02-etre/01-grammaire
+  q: "Переведи: «Стул маленький»."
+  a: "*La chaise **est** petite.* Связку *être* во французском не пропускают."
+- id: a02-c-est
+  lesson: a-02-etre/01-grammaire
+  q: "Из чего состоит c'est и как задать с ним вопрос?"
+  a: "*ce* «это» + *est* «есть»; апостроф — выпавшее e. Вопрос: **est-ce** + … ? (*Est-ce ta tasse ?*) или *C'est ta tasse ?* с интонацией."

@@ -1,0 +1,44 @@
+title: "Время глагола при выражениях длительности"
+type: gap
+intro: "Поставь глагол в скобках в нужное время: présent, passé composé, imparfait или futur. Смотри, продолжается ли действие."
+hints:
+  - "depuis / ça fait … que + действие продолжается → présent; в рассказе о прошлом → imparfait."
+  - "depuis + отрицание (с тех пор не было) → passé composé."
+  - "il y a (назад), pendant, en + законченное действие → passé composé."
+items:
+  - q: "Je ___ (utiliser) ce gestionnaire de mots de passe depuis trois ans et j'en suis très content."
+    answers: ["utilise"]
+    explain: "*Depuis* + действие продолжается → **présent**: *j'utilise* (рус. «пользуюсь уже три года»)."
+  - q: "Ça fait une semaine que mon ordinateur ___ (ne pas démarrer) correctement."
+    answers: ["ne démarre pas", "n'a pas démarré"]
+    explain: "Проблема длится до сих пор → **présent**: *ne démarre pas*. Если смысл «ни разу не запустился нормально» — *n'a pas démarré*."
+  - q: "Ça fait une semaine que je ___ (ne pas allumer) mon ordinateur : je fais une pause."
+    answers: ["n'ai pas allumé"]
+    explain: "С тех пор действия **не было ни разу** → passé composé с отрицанием: *je n'ai pas allumé*."
+  - q: "Nous ___ (installer) la fibre il y a deux mois."
+    answers: ["avons installé"]
+    explain: "*Il y a* (назад) — законченное действие → **passé composé**."
+  - q: "Mes parents ___ (vivre) sans téléphone portable pendant trente ans."
+    answers: ["ont vécu"]
+    explain: "Законченный период → *pendant* + **passé composé**: *ont vécu*."
+  - q: "Quand Internet est arrivé chez nous, mon père ___ (écrire) des lettres à la main depuis toujours."
+    answers: ["écrivait"]
+    explain: "«Уже давно…, когда» в прошлом → *depuis* + **imparfait**."
+  - q: "Les techniciens ___ (résoudre) la panne en une heure hier soir."
+    answers: ["ont résolu"]
+    explain: "*En* + результат в прошлом → passé composé: *ont résolu*."
+  - q: "Ne quitte pas, je te ___ (rappeler) dans cinq minutes !"
+    answers: ["rappelle", "rappellerai"]
+    explain: "*Dans* — будущее; в разговоре часто **présent** (*je te rappelle*), можно и futur *rappellerai* (две *l*)."
+  - q: "Il y a des années qu'elle ___ (travailler) dans le numérique."
+    answers: ["travaille"]
+    explain: "*Il y a … que* + действие продолжается → **présent**."
+  - q: "Depuis que nous ___ (déménager), nous n'avons plus de télévision."
+    answers: ["avons déménagé"]
+    explain: "*Depuis que* + однократное событие-начало → **passé composé**: *nous avons déménagé*."
+  - q: "L'été prochain, je ___ (partir) en Islande pour deux semaines, sans téléphone."
+    answers: ["partirai", "pars", "vais partir"]
+    explain: "*L'été prochain* + *pour* → будущее: *je partirai* (или *je vais partir*, *je pars*)."
+  - q: "Je ___ (ne pas voir) mon cousin depuis son départ au Canada."
+    answers: ["n'ai pas vu"]
+    explain: "Отрицание + *depuis*: с того момента ни разу → **passé composé**: *je n'ai pas vu*."

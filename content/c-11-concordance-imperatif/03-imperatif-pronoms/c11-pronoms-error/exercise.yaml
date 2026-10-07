@@ -1,0 +1,44 @@
+title: "Найди ошибку: императив и местоимения"
+type: error
+intro: "В каждом предложении **одна** ошибка: порядок или форма местоимения, дефис, апостроф, буква -s. Исправь и отправь предложение целиком."
+hints:
+  - "Donne-le-moi / Ne me le donne pas."
+  - "moi, toi перед en → m'en, t'en."
+  - "Va les chercher (при инфинитиве), но Laisse-le partir (при laisser)."
+items:
+  - q: "Donne-moi-le tout de suite !"
+    answers: ["Donne-le-moi tout de suite !"]
+    explain: "Прямое дополнение раньше косвенного: ***Donne-le-moi***. *Donne-moi-le* — просторечие."
+  - q: "Ne le me dis pas !"
+    answers: ["Ne me le dis pas !"]
+    explain: "Перед глаголом *me* всегда раньше *le*: ***Ne me le dis pas***."
+  - q: "Va-les chercher à la gare."
+    answers: ["Va les chercher à la gare."]
+    explain: "*Les* относится к инфинитиву *chercher* → без дефиса: ***Va les chercher***."
+  - q: "Ne donne-le-lui pas !"
+    answers: ["Ne le lui donne pas !"]
+    explain: "В отрицании местоимения перед глаголом: ***Ne le lui donne pas***."
+  - q: "Donne-moi-en deux, s'il te plaît."
+    answers: ["Donne-m'en deux, s'il te plaît."]
+    explain: "Перед *en* — ***m'en***."
+  - q: "Va-t-en, je ne veux plus te voir !"
+    answers: ["Va-t'en, je ne veux plus te voir !"]
+    explain: "Здесь *t'* — местоимение *te* (*s'en aller*), поэтому апостроф: ***Va-t'en***. *-t-* с дефисами — связующая буква в вопросе (*va-t-il*)."
+  - q: "Pense-y bien avant de signer."
+    answers: ["Penses-y bien avant de signer."]
+    explain: "Перед *y*, относящимся к императиву, возвращается *-s*: ***Penses-y***."
+  - q: "Me laisse tranquille !"
+    answers: ["Laisse-moi tranquille !"]
+    explain: "Утвердительный императив: местоимение после глагола, в ударной форме: ***Laisse-moi***."
+  - q: "Ne t'en fais-pas, tout ira bien."
+    answers: ["Ne t'en fais pas, tout ira bien."]
+    explain: "Между глаголом и *pas* дефис не ставится: ***Ne t'en fais pas***."
+  - q: "Laisse le entrer, il fait froid dehors."
+    answers: ["Laisse-le entrer, il fait froid dehors."]
+    explain: "При *laisser* + инфинитив местоимение присоединяется к императиву: ***Laisse-le entrer***."
+  - q: "Souviens-toi-en quand tu seras grand."
+    answers: ["Souviens-t'en quand tu seras grand.", "Souviens-t'en quand tu seras grande."]
+    explain: "*toi* + *en* → ***t'en***: *Souviens-t'en*."
+  - q: "Lève-te, il est déjà huit heures !"
+    answers: ["Lève-toi, il est déjà huit heures !"]
+    explain: "В конце утвердительного императива — ударная форма: ***Lève-toi***."

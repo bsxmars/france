@@ -1,0 +1,44 @@
+title: "Если бы тогда…"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму. Сначала реши, к чему относится каждая часть — к прошлому или к настоящему."
+hints:
+  - "Прошлое → прошлое: si + plus-que-parfait, conditionnel passé."
+  - "Последствие видно сейчас (aujourd'hui, maintenant) → conditionnel présent."
+  - "После si — никогда не conditionnel."
+items:
+  - q: "Si tu m'avais prévenu, je ___ (venir) te chercher à la gare."
+    answers: ["serais venu", "serais venue"]
+    explain: "Условие в прошлом (*avais prévenu*) → conditionnel passé. *venir* спрягается с *être*: **serais venu(e)**."
+  - q: "Si nous ___ (partir) plus tôt, nous n'aurions pas raté le début du film."
+    answers: ["étions partis", "étions parties"]
+    explain: "После *si* в гипотезе о прошлом — plus-que-parfait: **étions partis** (*partir* — с *être*, согласование с *nous*)."
+  - q: "S'il avait plu ce jour-là, la cérémonie ___ (avoir) lieu dans la salle des fêtes."
+    answers: ["aurait eu"]
+    explain: "Прошлое → прошлое: conditionnel passé от *avoir* = *avoir* + *eu* → **aurait eu**."
+  - q: "Si j'avais accepté ce poste à Montréal, je ___ (vivre) au Canada aujourd'hui."
+    answers: ["vivrais"]
+    explain: "Смешанная гипотеза: последствие **сейчас** (*aujourd'hui*) → conditionnel présent: **vivrais**."
+  - q: "Si elle ___ (ne pas rencontrer) ce professeur, elle ne serait jamais devenue historienne."
+    answers: ["n'avait pas rencontré"]
+    explain: "Условие в прошлом → plus-que-parfait; отрицание обнимает вспомогательный глагол: **n'avait pas rencontré**."
+  - q: "Les soldats ___ (se rendre) plus vite s'ils avaient su que la guerre était finie."
+    answers: ["se seraient rendus"]
+    explain: "Главная часть гипотезы о прошлом → conditionnel passé возвратного глагола: **se seraient rendus** (с *être*, согласование с *les soldats*)."
+  - q: "Si j'étais plus organisé, j'___ (ne pas oublier) ton anniversaire la semaine dernière."
+    answers: ["n'aurais pas oublié"]
+    explain: "Условие — постоянное свойство (imparfait *étais*), последствие — в прошлом (*la semaine dernière*) → conditionnel passé: **n'aurais pas oublié**."
+  - q: "Sans l'aide de mes grands-parents, je ___ (ne jamais pouvoir) faire ces études."
+    answers: ["n'aurais jamais pu"]
+    explain: "*Sans* + существительное заменяет *si*-часть; речь о прошлом → conditionnel passé: **n'aurais jamais pu**. *Jamais* стоит между вспомогательным глаголом и причастием."
+  - q: "Si seulement nous ___ (écouter) les conseils de notre guide !"
+    answers: ["avions écouté"]
+    explain: "*Si seulement* + plus-que-parfait — сожаление о прошлом: **avions écouté**."
+  - q: "Tu ___ (devoir) me dire la vérité dès le début : maintenant, c'est trop tard."
+    answers: ["aurais dû"]
+    explain: "Упрёк задним числом → conditionnel passé от *devoir*: **aurais dû** — «тебе следовало бы»."
+  - q: "Si les archives n'avaient pas brûlé, les historiens ___ (connaître) mieux cette période aujourd'hui."
+    answers: ["connaîtraient", "connaitraient"]
+    explain: "Условие в прошлом, последствие **сегодня** (*aujourd'hui*) → conditionnel présent: **connaîtraient** (по орфографии 1990 допустимо *connaitraient*)."
+  - q: "À ta place, je ___ (refuser) cette proposition l'année dernière."
+    answers: ["aurais refusé"]
+    explain: "*À ta place* — совет задним числом о прошлом (*l'année dernière*) → conditionnel passé: **aurais refusé**."

@@ -1,0 +1,55 @@
+title: "Действие или качество?"
+type: choice
+intro: "Выбери верную форму. Есть дополнение, отрицание или наречие после формы — это participe présent (неизменяемый). Описывается качество — adjectif verbal (согласуется, иногда пишется иначе)."
+hints:
+  - "-quant / -cant, -guant / -gant, -ant / -ent: первое — действие, второе — качество."
+  - "Можно поставить très → скорее всего adjectif verbal."
+items:
+  - q: "Les résultats de cette enquête sont vraiment ___ ."
+    options: ["surprenant", "surprenants", "surprenantes"]
+    answer: 1
+    explain: "Качество (*vraiment*), прилагательное согласуется с *les résultats* (м. р., мн. ч.): **surprenants**."
+  - q: "Elle portait une robe rouge ___ ."
+    options: ["provoquant", "provocant", "provocante"]
+    answer: 2
+    explain: "Качество платья → adjectif verbal, написание **-cant**, согласование с *une robe*: **provocante**."
+  - q: "Des tenues ___ des réactions violentes ont été interdites à l'école."
+    options: ["provoquant", "provocantes", "provoquantes"]
+    answer: 0
+    explain: "Есть прямое дополнение (*des réactions*) — это действие: participe présent **provoquant**, неизменяемый."
+  - q: "Le mois ___ , les ventes avaient déjà chuté."
+    options: ["précédant", "précédent", "précédente"]
+    answer: 1
+    explain: "«Предыдущий месяц» — качество, прилагательное **précédent** (м. р.) пишется через *-ent*."
+  - q: "Les jours ___ l'examen, elle dormait très mal."
+    options: ["précédant", "précédents", "précédent"]
+    answer: 0
+    explain: "*L'examen* — прямое дополнение: «дни, предшествующие экзамену» → participe présent **précédant**, неизменяемый."
+  - q: "En quelques années, cette revue de design est devenue très ___ ."
+    options: ["influant", "influent", "influente"]
+    answer: 2
+    explain: "Качество (*très*) → прилагательное на *-ent*: *influent*; согласуется с *cette revue* (ж. р.): **influente**."
+  - q: "Ses arguments n'étaient pas assez ___ pour le jury."
+    options: ["convainquants", "convaincants", "convaincant"]
+    answer: 1
+    explain: "Качество (*assez*) → adjectif verbal **convaincants**: *-cant*, мн. ч. по *ses arguments*."
+  - q: "On cherche un artisan ___ dans le travail du cuir."
+    options: ["excellant", "excellente", "excellent"]
+    answer: 0
+    explain: "*Dans l'art de…* — дополнение при глаголе *exceller dans*: «преуспевающий в» → participe présent **excellant**. Прилагательное было бы *un excellent artisan*."
+  - q: "Dans la salle du défilé, il faisait une chaleur ___ ."
+    options: ["étouffant", "étouffante", "étouffantes"]
+    answer: 1
+    explain: "Качество жары («удушающая») → adjectif verbal, согласуется с *une chaleur* (ж. р., ед. ч.): **étouffante**."
+  - q: "Nous cherchons des vendeurs ___ l'anglais et l'espagnol."
+    options: ["parlant", "parlants", "parlantes"]
+    answer: 0
+    explain: "Есть дополнение (*l'anglais*) = *qui parlent* → participe présent **parlant**, неизменяемый."
+  - q: "Ce sont des gens très ___ : ils remarquent tout."
+    options: ["intriguant", "intrigants", "intriguants"]
+    answer: 1
+    explain: "Качество (*très*) → adjectif verbal на **-gant**: **intrigants** (мн. ч.). Форма на *-guant* — только действие: *en intriguant ses voisins*."
+  - q: "Les enfants ___ à leurs parents reçoivent un petit cadeau."
+    options: ["obéissant", "obéissants", "obéissantes"]
+    answer: 0
+    explain: "Есть дополнение (*à leurs parents*) — это действие → participe présent **obéissant**, неизменяемый. Без дополнения: *des enfants obéissants*."

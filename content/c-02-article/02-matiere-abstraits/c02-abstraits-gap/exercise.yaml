@@ -1,0 +1,43 @@
+title: "Le, du или un перед неисчисляемым"
+type: gap
+intro: "Вставь подходящий артикль: определённый (le, la, l'), партитивный (du, de la, de l') или неопределённый (un, une). Если артикль не нужен, напиши «—»."
+hints:
+  - "Понятие вообще или определённое контекстом → le, la. Некоторая мера → du, de la. С определением-прилагательным → un, une."
+  - "avec + абстрактное без определения → без артикля (avec soin)."
+items:
+  - q: "Pour réussir dans ce métier, il faut ___ persévérance."
+    answers: ["de la"]
+    explain: "*Il faut* + некоторая мера качества → партитив **de la**."
+  - q: "___ persévérance de cette athlète a impressionné ses entraîneurs."
+    answers: ["La"]
+    explain: "Качество конкретного человека (*de cette athlète*) → **la**."
+  - q: "Elle a fait preuve d'___ persévérance remarquable."
+    answers: ["une"]
+    explain: "Абстрактное с определением-прилагательным (*remarquable*) → **une**; перед ним *d'*."
+  - q: "Il faisait ___ brouillard si épais qu'on ne voyait pas à dix mètres."
+    answers: ["un"]
+    explain: "Явление природы с определением (*si épais que…*) → **un** (сравни: *il fait du brouillard*)."
+  - q: "Ce matin, il fait ___ brouillard sur toute la côte."
+    answers: ["du"]
+    explain: "Погода без определения → партитив: *il fait **du** brouillard*."
+  - q: "Ma grand-mère préférait ___ thé vert au café."
+    answers: ["le"]
+    explain: "После *préférer* — вещество в общем значении: ***le** thé*."
+  - q: "Garçon, deux cafés et ___ thé au citron, s'il vous plaît !"
+    answers: ["un"]
+    explain: "Порция (чашка) → исчисляемое: ***un** thé*."
+  - q: "Le chirurgien a opéré avec ___ soin, sans la moindre précipitation."
+    answers: ["—", "-"]
+    explain: "*Avec* + абстрактное без определения → **без артикля**: *avec soin* (= *soigneusement*)."
+  - q: "Il y a ___ vrai dans ce que tu dis, mais tu exagères un peu."
+    answers: ["du"]
+    explain: "Субстантивированное прилагательное с партитивом: *il y a **du** vrai* — есть доля правды."
+  - q: "Ses parents l'ont poussé à faire ___ musique dès l'âge de cinq ans."
+    answers: ["de la"]
+    explain: "Занятие с *faire* → партитив: *faire **de la** musique*."
+  - q: "___ musique adoucit les mœurs, dit le proverbe."
+    answers: ["La"]
+    explain: "Понятие в общем значении → **la**."
+  - q: "Quitter un emploi stable en pleine crise ? Mais c'est ___ folie !"
+    answers: ["de la"]
+    explain: "Экспрессивная оценка: *c'est **de la** folie* — это безумие."

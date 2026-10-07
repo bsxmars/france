@@ -1,0 +1,58 @@
+title: "Сейчас сделаю, только что сделал"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы. Если в ключе местоимение — замени им существительное.
+hints:
+  - "Скоро, собираюсь → aller + infinitif; только что → venir de + infinitif."
+  - "Местоимение стоит перед инфинитивом: je vais lui parler, il vient de les voir."
+items:
+  - q: "Dans cinq minutes, je prépare le café."
+    key: "VAIS"
+    stem: "Je ___ le café."
+    answers: ["vais préparer"]
+    explain: "Действие скоро произойдёт → *futur immédiat*: **vais préparer**."
+  - q: "Le cours commence à neuf heures. Maintenant, il est neuf heures une."
+    key: "VIENT"
+    stem: "Le cours ___."
+    answers: ["vient de commencer"]
+    explain: "«Только что» → *passé immédiat*: **vient de commencer**."
+  - q: "Mes amis arrivent à la gare à six heures. Maintenant, il est six heures deux."
+    key: "VIENNENT"
+    stem: "Mes amis ___ à la gare."
+    answers: ["viennent d'arriver"]
+    explain: "*venir de* + инфинитив на гласную → **viennent d'arriver**."
+  - q: "Nous avons l'intention de visiter le musée samedi."
+    key: "ALLONS"
+    stem: "Samedi, nous ___ le musée."
+    answers: ["allons visiter"]
+    explain: "«Собираемся» → *futur immédiat*: **allons visiter**."
+  - q: "Je vais téléphoner à ma sœur."
+    key: "LUI"
+    stem: "Je ___."
+    answers: ["vais lui téléphoner"]
+    explain: "*Téléphoner **à*** → **lui**; местоимение — перед инфинитивом: *je vais **lui** téléphoner*."
+  - q: "Paul vient de voir ses cousins."
+    key: "LES"
+    stem: "Paul ___."
+    answers: ["vient de les voir"]
+    explain: "*Voir* — прямое дополнение → **les**, перед инфинитивом. *De les* не сливается в *des*: это местоимение, а не артикль."
+  - q: "Nous allons écrire à nos parents."
+    key: "LEUR"
+    stem: "Nous ___."
+    answers: ["allons leur écrire"]
+    explain: "*Écrire **à*** → **leur**, перед инфинитивом: *allons **leur** écrire*."
+  - q: "Tu vas inviter Claire ?"
+    key: "L'"
+    stem: "Tu ___ ?"
+    answers: ["vas l'inviter"]
+    explain: "*Inviter* — без предлога → *la*, перед гласной **l'**: *vas **l'inviter***."
+  - q: "Elle vient de répondre au professeur."
+    key: "LUI"
+    stem: "Elle ___."
+    answers: ["vient de lui répondre"]
+    explain: "*Répondre **à*** → **lui**: *vient de **lui** répondre*."
+  - q: "Je ne vais pas attendre Marc."
+    key: "L'"
+    stem: "Je ne ___."
+    answers: ["vais pas l'attendre"]
+    explain: "Отрицание охватывает *aller*: *ne vais pas*; *attendre* — прямое дополнение → *le*, перед гласной **l'attendre**."

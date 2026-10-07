@@ -1,0 +1,37 @@
+title: "Собери фразу с двумя местоимениями"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Следи за порядком двух местоимений и за их местом относительно вспомогательного глагола и инфинитива."
+hints:
+  - "Порядок: me / te / se / nous / vous → le / la / les → lui / leur → y → en."
+  - "Passé composé: местоимения перед avoir / être. Глагол + инфинитив: перед инфинитивом."
+items:
+  - q: "«Договор? Я ему его уже отправил» (договор — le contrat, клиенту)."
+    answers: ["Je le lui ai déjà envoyé."]
+    explain: "**le lui** перед *ai*; *déjà* — между вспомогательным и причастием."
+  - q: "«Отчёт? Я тебе его пришлю завтра»."
+    answers: ["Je te l'enverrai demain.", "Demain je te l'enverrai."]
+    explain: "**te le** → перед гласной *l'*: *je te l'enverrai*."
+  - q: "«Он нам об этом никогда не говорил»."
+    answers: ["Il ne nous en a jamais parlé."]
+    explain: "**nous en** перед *a*; отрицание *ne … jamais* обрамляет *nous en a*."
+  - q: "«Эти документы? Я не могу вам их дать»."
+    answers: ["Je ne peux pas vous les donner."]
+    explain: "Местоимения относятся к инфинитиву: *ne peux pas **vous les** donner*."
+  - q: "«Ключи? Она им их вернула» (ключи — les clés)."
+    answers: ["Elle les leur a rendues."]
+    explain: "**les leur** (оба 3-го лица — сначала прямое); *rendues* согласуется с *les clés*."
+  - q: "«Таблиц? Я ему их пришлю две» (таблицы — des tableaux)."
+    answers: ["Je lui en enverrai deux."]
+    explain: "*Des tableaux* + число → **en**; *lui* перед *en*: *je **lui en** enverrai deux*."
+  - q: "«Ты помнишь об этом?»"
+    answers: ["Tu t'en souviens ?", "Est-ce que tu t'en souviens ?"]
+    explain: "*Se souvenir de* → **t'en**."
+  - q: "«Я только что им об этом сказал»."
+    answers: ["Je viens de leur en parler.", "Je viens de le leur dire."]
+    explain: "*Venir de* + инфинитив: местоимения перед инфинитивом — *de **leur en** parler* (или *de **le leur** dire*)."
+  - q: "«Она нас туда отвезла» (на конференцию)."
+    answers: ["Elle nous y a emmenés.", "Elle nous y a emmenées."]
+    explain: "**nous y** перед *a*; *emmenés* согласуется с *nous* (прямое дополнение)."
+  - q: "«Эту новость? Он мне её не сообщил»."
+    answers: ["Il ne me l'a pas annoncée.", "Il ne me l'a pas apprise."]
+    explain: "**me la** → *me l'* перед *a*; отрицание обрамляет блок; *annoncée* согласуется с *la* (*la nouvelle*)."

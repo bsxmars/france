@@ -1,0 +1,68 @@
+title: "Скажи в императиве"
+type: transform
+intro: "Перефразируй с **ключевым словом**, используя императив: обычный, passé de l'impératif, вежливую формулу или императив-условие."
+hints:
+  - "devoir / il faut → императив; je propose que nous → 1-е лицо мн. ч."
+  - "Je vous prie de… → Veuillez… / Ayez l'obligeance de…"
+  - "Si tu… , je… → Imperatif, et je…"
+items:
+  - q: "Vous devez vous inscrire avant le 15 mars."
+    key: "INSCRIVEZ"
+    stem: "___ avant le 15 mars."
+    answers: ["Inscrivez-vous"]
+    explain: "Утвердительный императив возвратного глагола: ***Inscrivez-vous***."
+  - q: "Tu ne dois pas te fâcher pour si peu."
+    key: "FÂCHE"
+    stem: "___ pour si peu."
+    answers: ["Ne te fâche pas"]
+    explain: "Отрицательный императив: ***Ne te fâche pas*** — *te* перед глаголом, без дефиса."
+  - q: "Je propose qu'on n'en parle plus."
+    key: "PARLONS"
+    stem: "___ plus."
+    answers: ["N'en parlons"]
+    explain: "Предложение «давайте не будем» → ***N'en parlons plus*** (в отрицании *en* перед глаголом)."
+  - q: "Tu dois être plus patient avec ta sœur."
+    key: "SOIS"
+    stem: "___ avec ta sœur."
+    answers: ["Sois plus patient", "Sois plus patiente"]
+    explain: "Императив *être*: ***Sois** plus patient*."
+  - q: "Je veux que vous sachiez que je ne céderai pas."
+    key: "SACHEZ"
+    stem: "___ céderai pas."
+    answers: ["Sachez que je ne"]
+    explain: "***Sachez que…*** — твёрдое, официальное «знайте, что…»."
+  - q: "Je vous prie de patienter quelques minutes."
+    key: "VEUILLEZ"
+    stem: "___ quelques minutes."
+    answers: ["Veuillez patienter"]
+    explain: "Вежливая официальная просьба: ***Veuillez** + infinitif*."
+  - q: "Je vous prie de fermer la porte en sortant."
+    key: "OBLIGEANCE"
+    stem: "___ la porte en sortant."
+    answers: ["Ayez l'obligeance de fermer", "Ayez l'obligeance de bien vouloir fermer"]
+    explain: "Формула soutenu: ***Ayez l'obligeance de** + infinitif*."
+  - q: "Il faut que tes valises soient prêtes avant huit heures."
+    key: "AIE"
+    stem: "___ tes valises avant huit heures."
+    answers: ["Aie préparé", "Aie fait", "Aie bouclé"]
+    explain: "Результат к сроку → passé de l'impératif: ***Aie préparé** tes valises*."
+  - q: "Il faut que vous soyez partis avant l'arrivée des invités."
+    key: "SOYEZ"
+    stem: "___ avant l'arrivée des invités."
+    answers: ["Soyez partis", "Soyez parties", "Soyez parti", "Soyez partie"]
+    explain: "Passé de l'impératif с *être*: ***Soyez partis*** (согласование с подразумеваемым *vous*)."
+  - q: "Si tu dis un mot de plus, je m'en vais."
+    key: "ET"
+    stem: "___ je m'en vais."
+    answers: ["Dis un mot de plus, et"]
+    explain: "Условие через императив + *et*: ***Dis un mot de plus, et** je m'en vais*."
+  - q: "Même si vous criez, personne ne vous entendra."
+    key: "CRIEZ"
+    stem: "___, personne ne vous entendra."
+    answers: ["Criez tant que vous voudrez", "Criez autant que vous voudrez", "Criez tant que vous voulez", "Criez autant que vous voulez"]
+    explain: "Уступка через императив: ***Criez tant que vous voudrez**, personne…* = «сколько ни кричите»."
+  - q: "Tu peux aller au jardin, il fait beau."
+    key: "Y"
+    stem: "___, il fait beau !"
+    answers: ["Vas-y"]
+    explain: "*Va* + *y* → ***Vas-y*** с возвращённым *-s*."

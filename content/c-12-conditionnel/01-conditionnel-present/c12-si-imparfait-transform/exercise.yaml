@@ -1,0 +1,67 @@
+title: "Переиграй настоящее"
+type: transform
+intro: "Ситуация реальна. Опиши, что было бы при обратном условии: si + imparfait → conditionnel présent. Используй **ключевое слово**."
+hints:
+  - "Отрицание меняется на утверждение и наоборот: il n'a pas → s'il avait."
+  - "si + il → s'il; si + elle — без элизии."
+items:
+  - q: "Il n'a pas de voiture, alors il ne vient jamais nous voir."
+    key: "SI"
+    stem: "___ une voiture, il viendrait nous voir."
+    answers: ["S'il avait"]
+    explain: "*Si* + *il* → *s'il*; условие в настоящем → imparfait: ***S'il avait***."
+  - q: "Je ne parle pas allemand ; je ne peux pas postuler à ce poste."
+    key: "POURRAIS"
+    stem: "Si je parlais allemand, je ___ à ce poste."
+    answers: ["pourrais postuler"]
+    explain: "Главное — conditionnel présent: ***pourrais postuler***."
+  - q: "Tu ne fais pas de sport, c'est pour ça que tu es toujours fatigué."
+    key: "SERAIS"
+    stem: "Si tu faisais du sport, tu ___ fatigué."
+    answers: ["ne serais pas", "serais moins", "ne serais pas toujours", "serais moins souvent"]
+    explain: "Нереальное в настоящем: ***tu ne serais pas** fatigué*."
+  - q: "Elle est malade ; elle ne vient pas à la fête."
+    key: "SI"
+    stem: "___ malade, elle viendrait à la fête."
+    answers: ["Si elle n'était pas"]
+    explain: "*Si elle* — без элизии; условие → ***Si elle n'était pas***."
+  - q: "Nous n'avons pas assez d'argent pour voyager cet été."
+    key: "VOYAGERIONS"
+    stem: "Si nous avions assez d'argent, nous ___ cet été."
+    answers: ["voyagerions"]
+    explain: "Conditionnel présent 1-го л. мн. ч.: ***voyagerions*** (*-ger-* + *-ions*)."
+  - q: "Il fait froid ; les enfants ne jouent pas dehors."
+    key: "FAISAIT"
+    stem: "Les enfants joueraient dehors ___ froid."
+    answers: ["s'il ne faisait pas", "s'il faisait moins"]
+    explain: "Придаточное может стоять после главного: *…dehors **s'il ne faisait pas** froid*."
+  - q: "Je ne connais personne dans cette ville, je me sens seul."
+    key: "CONNAISSAIS"
+    stem: "Si je ___ dans cette ville, je ne me sentirais pas seul."
+    answers: ["connaissais quelqu'un", "connaissais du monde", "connaissais des gens"]
+    explain: "*Personne* → *quelqu'un* в утвердительной форме: ***Si je connaissais quelqu'un***."
+  - q: "Vous ne lisez pas les consignes, alors vous faites des erreurs."
+    key: "FERIEZ"
+    stem: "Si vous lisiez les consignes, vous ___ d'erreurs."
+    answers: ["ne feriez pas", "feriez moins"]
+    explain: "Conditionnel *faire* — *fer-*: ***vous ne feriez pas** d'erreurs* (после отрицания *de*)."
+  - q: "Mon frère ne m'aide pas, alors je ne finis pas à temps."
+    key: "AIDAIT"
+    stem: "Si mon frère m'___, je finirais à temps."
+    answers: ["aidait"]
+    explain: "После *si* — imparfait: ***m'aidait***."
+  - q: "Tu ne jettes jamais les vieux journaux ; l'appartement est encombré."
+    key: "JETAIS"
+    stem: "Si tu ___, l'appartement ne serait pas encombré."
+    answers: ["jetais les vieux journaux"]
+    explain: "Imparfait *jeter* — одно *t*: ***jetais*** (двойное *t* только в présent (кроме nous, vous), futur и conditionnel: *jetterais*)."
+  - q: "Je n'ai pas le temps, je ne t'accompagne pas."
+    key: "ACCOMPAGNERAIS"
+    stem: "Si j'avais le temps, je ___."
+    answers: ["t'accompagnerais"]
+    explain: "***Je t'accompagnerais*** — местоимение перед глаголом."
+  - q: "Il pleut ; nous ne pouvons pas dîner sur la terrasse."
+    key: "POURRIONS"
+    stem: "S'il ne pleuvait pas, nous ___ sur la terrasse."
+    answers: ["pourrions dîner"]
+    explain: "***Nous pourrions dîner*** — conditionnel présent в главном."

@@ -1,0 +1,39 @@
+title: "Même: «тот же» или «даже»"
+type: choice
+intro: "Выбери верный вариант. Русский перевод подсказывает значение *même*."
+hints:
+  - "«Тот же» — le / la / les + même(s) + существительное."
+  - "«Даже» — même не изменяется; в сложном времени — между вспомогательным глаголом и причастием; в отрицании — перед pas."
+items:
+  - q: "Мы родились в один и тот же день. — Nous sommes nés ___ jour."
+    options: ["un même", "le même", "même le"]
+    answer: 1
+    explain: "«Один и тот же» — **le même** + существительное, с определённым артиклем."
+  - q: "У них одинаковые привычки. — Ils ont ___ habitudes."
+    options: ["les même", "les mêmes", "mêmes les"]
+    answer: 1
+    explain: "*Même*-прилагательное согласуется в числе: **les mêmes** habitudes."
+  - q: "Даже мой брат пришёл. — ___ est venu."
+    options: ["Même mon frère", "Mon même frère", "Mon frère même pas"]
+    answer: 0
+    explain: "*Même* «даже» стоит **перед** словом, к которому относится: ***Même** mon frère est venu.*"
+  - q: "Она говорит по-английски и даже по-японски. — Elle parle anglais et ___ japonais."
+    options: ["même", "mêmes", "le même"]
+    answer: 0
+    explain: "Наречие «даже» не изменяется: **même** japonais."
+  - q: "Я ему писал, я ему даже звонил. — Je lui ai écrit, je lui ___."
+    options: ["ai téléphoné même", "même ai téléphoné", "ai même téléphoné"]
+    answer: 2
+    explain: "В сложном времени *même* стоит между вспомогательным глаголом и причастием: *je lui **ai même téléphoné***."
+  - q: "Он даже не поздоровался. — Il ___ dit bonjour."
+    options: ["n'a pas même", "n'a même pas", "même n'a pas"]
+    answer: 1
+    explain: "В отрицании *même* — **перед** *pas*: *Il **n'a même pas** dit bonjour.*"
+  - q: "Она всегда возвращается в одно и то же время. — Elle rentre toujours à ___ heure."
+    options: ["la même", "une même", "même la"]
+    answer: 0
+    explain: "«В одно и то же время» — ***à la même heure***."
+  - q: "Он работает даже по воскресеньям. — Il travaille ___."
+    options: ["le dimanche même", "même le dimanche", "le même dimanche"]
+    answer: 1
+    explain: "«Даже» — перед словом, к которому относится: ***même** le dimanche*. *Le même dimanche* — «в то же воскресенье»."

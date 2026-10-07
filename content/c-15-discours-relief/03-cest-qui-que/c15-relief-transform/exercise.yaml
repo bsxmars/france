@@ -1,0 +1,68 @@
+title: "Выдели слово рамкой c'est… qui / que"
+type: transform
+intro: "Выдели слово, указанное в скобках, с помощью c'est… qui или c'est… que. Ключевое слово показывает, как начать. Впиши продолжение фразы целиком."
+hints:
+  - "Подлежащее → qui; глагол согласуется с выделенным словом (c'est moi qui suis)."
+  - "Дополнение, обстоятельство → que; предлог остаётся внутри рамки (c'est à lui que)."
+  - "Местоимения → ударные формы: me → moi, lui → à lui / à elle, nous → nous."
+items:
+  - q: "J'ai oublié les clés. (je)"
+    key: "moi"
+    stem: "C'est ___."
+    answers: ["moi qui ai oublié les clés"]
+    explain: "*Je* → **moi**; глагол согласуется с *moi*: **ai oublié**."
+  - q: "Nous nous sommes perdus. (nous)"
+    key: "nous"
+    stem: "C'est ___."
+    answers: ["nous qui nous sommes perdus"]
+    explain: "С *nous* — *c'est*, не *ce sont*; глагол и возвратное местоимение — 1-е лицо мн. ч.: **nous nous sommes perdus**."
+  - q: "Les voisins ont appelé les pompiers. (les voisins)"
+    key: "ce sont"
+    stem: "___ qui ont appelé les pompiers."
+    answers: ["Ce sont les voisins"]
+    explain: "3-е лицо мн. ч. → **Ce sont** les voisins qui… (в разговоре и *C'est les voisins*)."
+  - q: "Je cherche ce dictionnaire depuis une semaine. (ce dictionnaire)"
+    key: "que"
+    stem: "C'est ___."
+    answers: ["ce dictionnaire que je cherche depuis une semaine"]
+    explain: "Прямое дополнение → **que**."
+  - q: "Je lui ai confié mon secret. (lui = à Claire)"
+    key: "à elle"
+    stem: "C'est ___."
+    answers: ["à elle que j'ai confié mon secret"]
+    explain: "*Lui* (косвенное, женщина) → **à elle**; связка — *que*, не ~~à qui~~."
+  - q: "Nous avons rencontré ces femmes au festival. (ces femmes)"
+    key: "ce sont"
+    stem: "___ que nous avons rencontrées au festival."
+    answers: ["Ce sont ces femmes"]
+    explain: "3-е лицо мн. ч. → **Ce sont**; причастие *rencontrées* согласуется с предшествующим COD *ces femmes*."
+  - q: "Ils se sont mariés à Marseille. (à Marseille)"
+    key: "que"
+    stem: "C'est ___."
+    answers: ["à Marseille qu'ils se sont mariés"]
+    explain: "Обстоятельство места → **c'est à Marseille que**."
+  - q: "On progresse en pratiquant tous les jours. (en pratiquant tous les jours)"
+    key: "qu'on"
+    stem: "C'est ___."
+    answers: ["en pratiquant tous les jours qu'on progresse", "en pratiquant tous les jours que l'on progresse"]
+    explain: "Герундий-обстоятельство тоже выделяется: **c'est en pratiquant… qu'on progresse**."
+  - q: "Tu m'as appelé ? (tu)"
+    key: "toi"
+    stem: "Est-ce ___ ?"
+    answers: ["toi qui m'as appelé", "toi qui m'as appelée"]
+    explain: "Вопрос переносится на *c'est*: *Est-ce **toi qui m'as appelé(e)** ?* — глагол во 2-м лице."
+  - q: "Paul n'a pas cassé le vase. (Paul)"
+    key: "ce n'est pas"
+    stem: "___ qui a cassé le vase."
+    answers: ["Ce n'est pas Paul"]
+    explain: "Отрицание переносится на рамку: **Ce n'est pas Paul** qui a cassé le vase."
+  - q: "Je fais tout ça pour vous. (pour vous)"
+    key: "que"
+    stem: "C'est ___."
+    answers: ["pour vous que je fais tout ça", "pour vous que je fais tout cela"]
+    explain: "Предлог *pour* остаётся в рамке: **c'est pour vous que**."
+  - q: "Nous parlions de ce problème hier. (de ce problème)"
+    key: "que"
+    stem: "C'est ___."
+    answers: ["de ce problème que nous parlions hier"]
+    explain: "Предлог *de* в рамке, связка *que*: **c'est de ce problème que**; ~~dont~~ здесь было бы двойным выражением *de*."

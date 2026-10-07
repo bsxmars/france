@@ -1,0 +1,37 @@
+title: "Собери фразу: место прилагательных"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Главное — поставить прилагательные на нужное место."
+hints:
+  - "Цвет, форма, национальность — после; beau, petit, grand, jeune, vieux, nouveau — перед."
+  - "Смысл «бывший», «собственный», «прошлый» зависит от места."
+items:
+  - q: "«Они купили красивый маленький белый дом»."
+    answers: ["Ils ont acheté une jolie petite maison blanche."]
+    explain: "*Jolie, petite* — перед существительным, *blanche* (цвет) — после."
+  - q: "«Мы встретили бывшего министра в поезде»."
+    answers: ["Nous avons rencontré l'ancien ministre dans le train."]
+    explain: "«Бывший» → *ancien* перед существительным."
+  - q: "«Он живёт в своём собственном доме»."
+    answers: ["Il habite dans sa propre maison."]
+    explain: "«Собственный» → *propre* перед существительным."
+  - q: "«На прошлой неделе шёл сильный дождь»."
+    answers: ["La semaine dernière, il a beaucoup plu."]
+    explain: "«Прошлая» → *dernière* после существительного: *la semaine dernière*."
+  - q: "«Это был великий французский писатель»."
+    answers: ["C'était un grand écrivain français."]
+    explain: "*Grand* (великий) — перед, *français* (национальность) — после."
+  - q: "«Она носит длинное чёрное пальто»."
+    answers: ["Elle porte un long manteau noir."]
+    explain: "*Long* (размер) — перед существительным, *noir* (цвет) — после."
+  - q: "«У нас был замечательный вечер» (восторженно, книжно)."
+    answers: ["Nous avons passé une magnifique soirée."]
+    explain: "Стилистическая препозиция: *une **magnifique** soirée* — эмоциональнее, чем *une soirée magnifique*."
+  - q: "«Это единственный ребёнок в семье»."
+    answers: ["C'est le seul enfant de la famille."]
+    explain: "«Единственный» → *seul* перед существительным. *Un enfant seul* — одинокий."
+  - q: "«Европейская экономическая политика меняется»."
+    answers: ["La politique économique européenne change."]
+    explain: "Относительные прилагательные — после, без *et*: сначала *économique* (вид политики), затем *européenne*."
+  - q: "«Мой дорогой друг, спасибо за письмо»."
+    answers: ["Mon cher ami, merci pour ta lettre."]
+    explain: "«Дорогой, милый» → *cher* перед существительным."

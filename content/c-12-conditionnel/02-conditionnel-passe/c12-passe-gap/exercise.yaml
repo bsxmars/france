@@ -1,0 +1,44 @@
+title: "Нереальное в прошлом и смешанные схемы"
+type: gap
+intro: "Поставь глагол в plus-que-parfait (после si), conditionnel passé или — если последствие относится к настоящему — conditionnel présent."
+hints:
+  - "si + plus-que-parfait → conditionnel passé."
+  - "maintenant, aujourd'hui в главном → conditionnel présent (смешанная схема)."
+  - "Согласование причастия — как в passé composé."
+items:
+  - q: "Si j'___ (savoir) que tu étais malade, je serais venu te voir."
+    answers: ["avais su"]
+    explain: "Условие в прошлом → plus-que-parfait: ***avais su***."
+  - q: "Si tu avais mis ton réveil, tu ___ (se lever) à l'heure."
+    answers: ["te serais levé", "te serais levée"]
+    explain: "Возвратный глагол → *être*: ***te serais levé(e)***."
+  - q: "Nous ___ (ne pas se perdre) si nous avions pris une carte."
+    answers: ["ne nous serions pas perdus", "ne nous serions pas perdues"]
+    explain: "Отрицание обнимает вспомогательный глагол: ***ne nous serions pas perdus***."
+  - q: "Si le chemin avait été balisé, la randonneuse ___ (ne pas s'égarer)."
+    answers: ["ne se serait pas égarée"]
+    explain: "Возвратный глагол → *être*, согласование с *la randonneuse*: ***ne se serait pas égarée***."
+  - q: "S'ils ___ (partir) plus tôt, ils n'auraient pas raté l'avion."
+    answers: ["étaient partis"]
+    explain: "После *si* — plus-que-parfait с *être*: ***étaient partis***."
+  - q: "Si tu avais pris ton parapluie, tu ___ (ne pas être) trempé maintenant."
+    answers: ["ne serais pas"]
+    explain: "Смешанная схема: условие в прошлом, последствие сейчас (*maintenant*) → conditionnel présent ***ne serais pas***."
+  - q: "S'il ___ (être) moins têtu, il aurait accepté notre aide."
+    answers: ["était", "avait été"]
+    explain: "Постоянное качество → *s'il **était** moins têtu* (смешанная схема); если речь о его поведении в тот конкретный раз — *s'il **avait été***."
+  - q: "Sans ton aide, je n'___ (jamais réussir) cet examen."
+    answers: ["aurais jamais réussi"]
+    explain: "Условие выражено через *sans*, речь о прошлом экзамене → conditionnel passé: ***n'aurais jamais réussi***."
+  - q: "Si on n'avait pas arrosé le jardin, toutes les fleurs ___ (sécher)."
+    answers: ["auraient séché"]
+    explain: "*Sécher* спрягается с *avoir*: ***auraient séché***."
+  - q: "Elle ___ (devoir) nous prévenir : nous l'aurions attendue."
+    answers: ["aurait dû"]
+    explain: "Упрёк о прошлом → conditionnel passé *devoir*: ***aurait dû***."
+  - q: "Si vous m'aviez demandé mon avis, je vous ___ (dire) de refuser."
+    answers: ["aurais dit"]
+    explain: "Нереальное в прошлом: ***aurais dit***."
+  - q: "Si j'avais accepté ce poste à Montréal, je ___ (vivre) au Canada aujourd'hui."
+    answers: ["vivrais"]
+    explain: "*Aujourd'hui* — последствие в настоящем → conditionnel présent ***vivrais***."

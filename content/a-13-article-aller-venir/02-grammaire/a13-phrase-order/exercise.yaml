@@ -1,0 +1,37 @@
+title: "Собери фразу"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Точку ставить не нужно."
+hints:
+  - "Куда — à (au, à la, aux), к кому — chez; откуда — de (du, de la)."
+  - "aller + инфинитив — ближайшее будущее."
+items:
+  - q: "«Мы идём в кино»."
+    answers: ["Nous allons au cinéma."]
+    explain: "*nous **allons*** + *au* (= *à le*) cinéma."
+  - q: "«Они возвращаются из Парижа»."
+    answers: ["Ils reviennent de Paris."]
+    explain: "*ils **reviennent*** + *de* (откуда); перед названием города артикля нет."
+  - q: "«Иди к Полю!»"
+    answers: ["Va chez Paul !"]
+    explain: "Повелительное **va** (без -s); к человеку — **chez**."
+  - q: "«Я сейчас позвоню сестре»."
+    answers: ["Je vais téléphoner à ma sœur."]
+    explain: "Ближайшее будущее: *je **vais** téléphoner*; с родственниками — притяжательное *ma*."
+  - q: "«Откуда вы идёте?»"
+    answers: ["D'où venez-vous ?"]
+    explain: "*D'où* — «откуда», инверсия: ***venez-vous*** ?"
+  - q: "«Она хочет стать врачом»."
+    answers: ["Elle veut devenir médecin."]
+    explain: "После *devenir* профессия без артикля: *devenir **médecin***."
+  - q: "«Дети идут со стадиона»."
+    answers: ["Les enfants viennent du stade."]
+    explain: "*ils **viennent*** + *du* (= *de le*) stade."
+  - q: "«Мы не пойдём в музей завтра»."
+    answers: ["Nous n'allons pas au musée demain.", "Demain nous n'allons pas au musée."]
+    explain: "Отрицание обнимает *aller*: *nous **n'allons pas***; *au musée*."
+  - q: "«Предупреди своих друзей!»"
+    answers: ["Préviens tes amis !"]
+    explain: "Повелительное «ты» от *prévenir* — **préviens** (как *viens !*); *tes amis*."
+  - q: "«Что ты держишь в руке?»"
+    answers: ["Qu'est-ce que tu tiens à la main ?"]
+    explain: "*tu **tiens*** — *tenir* спрягается как *venir*; «в руке» — *à la main*."

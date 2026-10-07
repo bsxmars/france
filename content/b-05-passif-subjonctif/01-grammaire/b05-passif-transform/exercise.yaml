@@ -1,0 +1,69 @@
+title: "Выдвини объект: из актива в пассив"
+type: transform
+intro: |
+  Перестрой предложение так, чтобы прямое дополнение стало подлежащим. Используй **ключевое слово**, сохрани время и наклонение. Впиши недостающую часть.
+hints:
+  - "Время пассива = время глагола être; причастие согласуется с новым подлежащим."
+  - "Модальный глагол (pouvoir, devoir) остаётся в своём времени, дальше — être + participe passé."
+  - "Чувства и состояние → de; конкретное действие → par; on исчезает."
+items:
+  - q: "L'Assemblée nationale a adopté la réforme des retraites en mars."
+    key: "ADOPTÉE"
+    stem: "La réforme des retraites ___ en mars."
+    answers: ["a été adoptée par l'Assemblée nationale"]
+    explain: "Passé composé → **a été** + *adoptée* (согласуется с *la réforme*); исполнитель — **par**."
+  - q: "On fermera trois maternités dans la région l'année prochaine."
+    key: "SERONT"
+    stem: "Trois maternités ___ dans la région l'année prochaine."
+    answers: ["seront fermées"]
+    explain: "Futur simple → **seront fermées**; *on* исчезает, причастие — ж. р. мн. ч."
+  - q: "Les pharmaciens pourraient bientôt vacciner les adultes."
+    key: "ÊTRE"
+    stem: "Les adultes ___ les pharmaciens."
+    answers: ["pourraient bientôt être vaccinés par", "pourraient être bientôt vaccinés par", "pourraient être vaccinés bientôt par"]
+    explain: "*Pouvoir* сохраняет conditionnel, в инфинитив уходит *être*: **pourraient être vaccinés par**."
+  - q: "Quand l'enquête a commencé, la direction avait déjà détruit les documents."
+    key: "DÉTRUITS"
+    stem: "Quand l'enquête a commencé, les documents ___ la direction."
+    answers: ["avaient déjà été détruits par", "avaient été déjà détruits par"]
+    explain: "Plus-que-parfait → **avaient été détruits**; *déjà* обычно встаёт после *avaient*."
+  - q: "D'ici juin, les chercheurs auront analysé toutes les données."
+    key: "AURONT"
+    stem: "D'ici juin, toutes les données ___ les chercheurs."
+    answers: ["auront été analysées par"]
+    explain: "Futur antérieur → **auront été analysées**, согласование с *les données* (ж. р. мн. ч.)."
+  - q: "Tous les habitants du quartier respectent ce vieux médecin."
+    key: "DE"
+    stem: "Ce vieux médecin ___ tous les habitants du quartier."
+    answers: ["est respecté de"]
+    explain: "Глагол отношения (*respecter*) → исполнитель вводится через **de**."
+  - q: "Des montagnes entourent la petite ville."
+    key: "ENTOURÉE"
+    stem: "La petite ville ___ montagnes."
+    answers: ["est entourée de"]
+    explain: "Состояние → **de**, и *des* после *de* выпадает: *entourée **de** montagnes*."
+  - q: "Il faut que le médecin signe l'ordonnance."
+    key: "SOIT"
+    stem: "Il faut que l'ordonnance ___ le médecin."
+    answers: ["soit signée par"]
+    explain: "После *il faut que* — subjonctif: пассив в subjonctif = **soit** + *signée*."
+  - q: "Selon la presse, la police aurait arrêté deux suspects."
+    key: "ARRÊTÉS"
+    stem: "Selon la presse, deux suspects ___."
+    answers: ["auraient été arrêtés", "auraient été arrêtés par la police"]
+    explain: "Conditionnel passé (непроверенная информация) → **auraient été arrêtés**; *par la police* можно опустить — исполнитель очевиден."
+  - q: "On ne doit pas prendre ce médicament pendant la grossesse."
+    key: "PRIS"
+    stem: "Ce médicament ___ pendant la grossesse."
+    answers: ["ne doit pas être pris"]
+    explain: "Отрицание обнимает модальный глагол: **ne doit pas être pris**; *on* исчезает."
+  - q: "À cette époque, une infirmière accompagnait toujours le chirurgien."
+    key: "ÉTAIT"
+    stem: "À cette époque, le chirurgien ___ une infirmière."
+    answers: ["était toujours accompagné d'", "était toujours accompagné par", "était accompagné d'", "était accompagné par"]
+    explain: "Imparfait → **était accompagné**; с *accompagner* возможны оба предлога: **d'**une infirmière (состояние) и **par** une infirmière."
+  - q: "Les journalistes ont beaucoup critiqué le nouveau plan."
+    key: "CRITIQUÉ"
+    stem: "Le nouveau plan ___ les journalistes."
+    answers: ["a été beaucoup critiqué par", "a beaucoup été critiqué par"]
+    explain: "Passé composé → **a été critiqué**; наречие *beaucoup* — после *a* или после *été*."

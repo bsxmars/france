@@ -1,0 +1,57 @@
+title: "Добавь определение — смени артикль"
+type: transform
+intro: "Перестрой фразу по ключу: добавь определение или дополнение к абстрактному существительному. Впиши в пропуск артикль, существительное и определение."
+hints:
+  - "du courage → un courage exceptionnel (прилагательное) → le courage de ce pompier (дополнение «чей?»)."
+  - "Прилагательное + дополнение «чей?» → снова определённый артикль."
+items:
+  - q: "Il a du courage."
+    key: "exceptionnel"
+    stem: "Il a ___."
+    answers: ["un courage exceptionnel"]
+    explain: "Абстрактное + прилагательное → **un**: *un courage exceptionnel*."
+  - q: "Elle parle avec patience."
+    key: "infinie"
+    stem: "Elle parle avec ___."
+    answers: ["une patience infinie"]
+    explain: "*Avec patience* (без артикля) → с определением появляется **une**: *avec une patience infinie*."
+  - q: "Il y avait du vent ce jour-là."
+    key: "glacial"
+    stem: "Il soufflait ce jour-là ___."
+    answers: ["un vent glacial"]
+    explain: "Явление природы с прилагательным → **un vent glacial**."
+  - q: "Elle a beaucoup de talent."
+    key: "rare"
+    stem: "Elle a ___."
+    answers: ["un talent rare"]
+    explain: "С определением *rare* → **un talent rare**; *beaucoup de* исчезает."
+  - q: "Il a du caractère."
+    key: "impossible"
+    stem: "Il a ___."
+    answers: ["un caractère impossible"]
+    explain: "*Avoir du caractère* (быть с характером) → *avoir **un** caractère impossible* (иметь невыносимый характер)."
+  - q: "Il a un caractère difficile."
+    key: "son frère"
+    stem: "Personne ne supporte ___."
+    answers: ["le caractère difficile de son frère"]
+    explain: "Прилагательное + дополнение принадлежности → определённый артикль: ***le** caractère difficile de son frère*."
+  - q: "Il y a de la tristesse dans sa voix."
+    key: "profonde"
+    stem: "Il y a ___ dans sa voix."
+    answers: ["une profonde tristesse", "une tristesse profonde"]
+    explain: "С прилагательным → **une**: *une profonde tristesse* (перед существительным — книжно и экспрессивно) или *une tristesse profonde*."
+  - q: "Il pleuvait."
+    key: "pluie fine"
+    stem: "Il tombait ___."
+    answers: ["une pluie fine", "une fine pluie"]
+    explain: "Явление природы с прилагательным → **une pluie fine** (или *une fine pluie*)."
+  - q: "Ce sauveteur a eu du courage."
+    key: "admirer"
+    stem: "Tout le monde admire ___ de ce sauveteur."
+    answers: ["le courage"]
+    explain: "Качество, определённое дополнением *de ce sauveteur* → **le courage**."
+  - q: "Il travaille avec soin."
+    key: "méticuleux"
+    stem: "Il travaille avec ___."
+    answers: ["un soin méticuleux"]
+    explain: "*Avec soin* → *avec **un** soin méticuleux*."

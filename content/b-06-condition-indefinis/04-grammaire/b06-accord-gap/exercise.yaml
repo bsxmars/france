@@ -1,0 +1,44 @@
+title: "Согласуй причастие"
+type: gap
+intro: "Поставь глагол в скобках в форму participe passé и согласуй его, если нужно. Найди прямое дополнение: стоит ли оно перед avoir?"
+hints:
+  - "le, la, l', les, que, quel(le)(s), combien de перед avoir → согласование с ними."
+  - "en, lui, leur, COD после глагола → без согласования."
+  - "У que род и число антецедента: la pub que… → -e."
+items:
+  - q: "Cette veste, je l'ai ___ (acheter) sur Internet."
+    answers: ["achetée"]
+    explain: "*L'* = cette veste (ж. р.) перед *avoir* → **achetée**."
+  - q: "Les baskets que tu as ___ (choisir) sont fabriquées en France."
+    answers: ["choisies"]
+    explain: "*Que* = les baskets (ж. р. мн. ч.) → **choisies**."
+  - q: "Ma sœur a ___ (dépenser) tout son salaire en vêtements."
+    answers: ["dépensé"]
+    explain: "COD *tout son salaire* стоит **после** глагола; подлежащее с *avoir* не влияет → **dépensé**."
+  - q: "Quelles marques avez-vous ___ (comparer) avant d'acheter ?"
+    answers: ["comparées"]
+    explain: "*Quelles marques* (ж. р. мн. ч.) перед *avoir* → **comparées**."
+  - q: "Des promotions, j'en ai ___ (voir) partout cette semaine."
+    answers: ["vu"]
+    explain: "С *en* — без согласования: **vu**."
+  - q: "La publicité que l'agence a ___ (faire) pour cette voiture a choqué beaucoup de gens."
+    answers: ["faite"]
+    explain: "*Que* = la publicité (ж. р.) → **faite** — согласование здесь и слышно: [fɛt]."
+  - q: "Les vendeurs ? Je leur ai ___ (demander) un remboursement."
+    answers: ["demandé"]
+    explain: "*Leur* — косвенное дополнение (*demander **à** qn*) → **demandé**."
+  - q: "Ces vieux jeans, ma grand-mère les a ___ (transformer) en sacs."
+    answers: ["transformés"]
+    explain: "*Les* = ces vieux jeans (м. р. мн. ч.) → **transformés**."
+  - q: "Combien de colis avez-vous ___ (recevoir) ce mois-ci ?"
+    answers: ["reçus"]
+    explain: "*Combien de colis* (м. р. мн. ч.) перед *avoir* → **reçus**."
+  - q: "La lettre de réclamation, quand l'auras-tu ___ (écrire) ?"
+    answers: ["écrite"]
+    explain: "Futur antérieur, *l'* = la lettre (ж. р.) → **écrite** [ekʁit]."
+  - q: "Les clientes que le vendeur a ___ (convaincre) sont revenues le lendemain."
+    answers: ["convaincues"]
+    explain: "*Que* = les clientes (ж. р. мн. ч.) → **convaincues**."
+  - q: "Cette robe, je l'ai ___ (mettre) une seule fois, puis je l'ai revendue."
+    answers: ["mise"]
+    explain: "*L'* = cette robe (ж. р.) → **mise** — слышно [miz]."

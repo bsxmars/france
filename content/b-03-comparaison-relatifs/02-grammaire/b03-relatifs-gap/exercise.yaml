@@ -1,0 +1,44 @@
+title: "Qui, que, dont, où, lequel"
+type: gap
+intro: "Вставь относительное местоимение (с предлогом, если он нужен в пропуске). Смотри на управление глагола в придаточном."
+hints:
+  - "parler de, avoir besoin de, être fier de, se souvenir de → dont."
+  - "Место и время (le jour, l'année, l'époque) → où."
+  - "participer à, penser à, répondre à → auquel / à laquelle / auxquels / auxquelles; для людей — à qui."
+items:
+  - q: "La pièce ___ tout le monde parle se joue jusqu'en juin."
+    answers: ["dont"]
+    explain: "*Parler **de** la pièce* → **dont**."
+  - q: "Je me souviens très bien du soir ___ nous avons vu ce spectacle."
+    answers: ["où"]
+    explain: "«В тот вечер, когда» — время → **où**."
+  - q: "C'est une actrice ___ le talent est reconnu dans le monde entier."
+    answers: ["dont"]
+    explain: "*Le talent **de** cette actrice* — «чей талант» → **dont** + артикль *le*."
+  - q: "Le festival ___ nous participons cette année a lieu à Cannes."
+    answers: ["auquel"]
+    explain: "*Participer **à** le festival* → à + lequel = **auquel**."
+  - q: "Ce sont des questions ___ je n'ai jamais réfléchi."
+    answers: ["auxquelles"]
+    explain: "*Réfléchir **à** des questions* (ж. р. мн. ч.) → **auxquelles**."
+  - q: "Le scénariste ___ elle travaille depuis dix ans vient de mourir."
+    answers: ["avec qui", "avec lequel"]
+    explain: "*Travailler **avec** quelqu'un*, антецедент — человек → **avec qui** (или более официально *avec lequel*)."
+  - q: "Voici la salle de concert à côté ___ j'habitais quand j'étais étudiant."
+    answers: ["de laquelle"]
+    explain: "*À côté de* — составной предлог, *la salle* ж. р. → **de laquelle**; *dont* здесь невозможно."
+  - q: "Le livre ___ tu m'as prêté était passionnant."
+    answers: ["que"]
+    explain: "*Prêter le livre* — прямое дополнение → **que**."
+  - q: "Ils ont réalisé quatre documentaires, ___ deux sur le patrimoine breton."
+    answers: ["dont"]
+    explain: "«Из них» при числительном → **dont**."
+  - q: "C'est l'ordinateur sans ___ je ne pourrais pas travailler."
+    answers: ["lequel"]
+    explain: "Предлог *sans* + предмет м. р. → **lequel**."
+  - q: "Le village ___ ils ont grandi a beaucoup changé."
+    answers: ["où", "dans lequel"]
+    explain: "Место → **où**; *dans lequel* тоже правильно, но тяжелее."
+  - q: "Il a enfin obtenu le rôle ___ il rêvait depuis toujours."
+    answers: ["dont"]
+    explain: "*Rêver **de** quelque chose* → **dont**."

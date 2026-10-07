@@ -1,0 +1,44 @@
+title: "Y или en — и на своём месте"
+type: gap
+intro: "Ответь на вопрос, заменив место словом **y** или **en**. Впиши только пропущенное (одно слово или слово с дефисом)."
+hints:
+  - "à, dans, sur, chez + место → y; de + место → en."
+  - "Перед глаголом; в утвердительном повелительном — после глагола через дефис."
+  - "Vas-y, restes-y: -s перед y."
+items:
+  - q: "Tu vas à la bibliothèque ? — Oui, j'___ vais."
+    answers: ["y"]
+    explain: "*à la bibliothèque* (куда) → **y**, перед глаголом: *j'y vais*."
+  - q: "Vous venez de la poste ? — Oui, nous ___ venons."
+    answers: ["en"]
+    explain: "*de la poste* (откуда) → **en**: *nous en venons*."
+  - q: "Paul est dans sa chambre ? — Non, il n'___ est pas."
+    answers: ["y"]
+    explain: "*dans sa chambre* (где) → **y**; *ne* перед *y* → *n'*: *il n'y est pas*."
+  - q: "Elle revient de Paris lundi ? — Oui, elle ___ revient lundi."
+    answers: ["en"]
+    explain: "*de Paris* → **en**: *elle en revient lundi*."
+  - q: "Ton cahier est sur la table ? — Oui, il ___ est."
+    answers: ["y"]
+    explain: "*sur la table* → **y**: *il y est*."
+  - q: "Tu vas au parc ? Alors ___ ! («иди туда»)"
+    answers: ["vas-y"]
+    explain: "Утвердительное повелительное: *y* после глагола через дефис, *va* получает **-s**: *vas-y*."
+  - q: "Ne restez pas dans le jardin, il pleut ! N'___ restez pas !"
+    answers: ["y"]
+    explain: "В **отрицательном** повелительном *y* стоит перед глаголом: *n'y restez pas*."
+  - q: "Les enfants sortent du stade à cinq heures ? — Oui, ils ___ sortent à cinq heures."
+    answers: ["en"]
+    explain: "*du stade* (= *de le stade*, откуда) → **en**."
+  - q: "Quand allez-vous à la campagne ? — Nous allons ___ aller samedi."
+    answers: ["y"]
+    explain: "Место относится к инфинитиву *aller* → **y** перед инфинитивом: *nous allons y aller*."
+  - q: "Vous êtes à l'université demain ? — Non, nous n'___ sommes pas."
+    answers: ["y"]
+    explain: "*à l'université* → **y**: *nous n'y sommes pas*."
+  - q: "Le train arrive à Lyon à midi ? — Oui, il ___ arrive à midi."
+    answers: ["y"]
+    explain: "*à Lyon* (куда) → **y**: *il y arrive*."
+  - q: "Tu es au café ? Bon, ___ ! J'arrive. («оставайся там»)"
+    answers: ["restes-y"]
+    explain: "Утвердительное повелительное: *reste* + **-s** + *-y*: *restes-y* [ʁɛst-zi]."

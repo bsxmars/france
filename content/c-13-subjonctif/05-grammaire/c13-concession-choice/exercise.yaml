@@ -1,0 +1,56 @@
+title: "Quoique или quoi que, quel que или quelque"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу и по форме. Проверь: «хотя» или «что бы ни»? Согласование quel с подлежащим после être?"
+hints:
+  - "quoique = bien que (хотя); quoi que = что бы ни."
+  - "quel(le)(s) que + être + подлежащее: quel согласуется с подлежащим."
+  - "même si, alors que → indicatif."
+items:
+  - q: "___ il fasse beau, il emporte toujours un parapluie."
+    options: ["Quoi qu'", "Quoiqu'", "Même s'"]
+    answer: 1
+    explain: "«Хотя погода хорошая» → ***Quoiqu'*** (= *bien qu'*). *Même s'* потребовал бы indicatif: *même s'il fait beau*."
+  - q: "___ il fasse, ses parents le soutiennent."
+    options: ["Quoiqu'", "Quoi qu'", "Bien qu'"]
+    answer: 1
+    explain: "«Что бы он ни делал» — у *fasse* нет дополнения, его роль играет *quoi* → ***Quoi qu'***."
+  - q: "___ soit la météo, la course aura lieu."
+    options: ["Quel que", "Quelle que", "Quelque"]
+    answer: 1
+    explain: "Подлежащее *la météo* — ж. р. ед. ч. → ***Quelle que*** soit."
+  - q: "___ soient les obstacles, nous continuerons."
+    options: ["Quelles que", "Quels que", "Quelques"]
+    answer: 1
+    explain: "*Les obstacles* — м. р. мн. ч. → ***Quels que*** soient."
+  - q: "___ efforts qu'il fasse, il n'arrive pas à rattraper son retard."
+    options: ["Quels que", "Quelques", "Quoique"]
+    answer: 1
+    explain: "*Quelque + существительное + que* (книжно) — «какие бы усилия ни»; *quelque* согласуется в числе: ***Quelques*** efforts."
+  - q: "Si ___ qu'elle soit, cette solution reste la meilleure."
+    options: ["coûteuse", "coûteux", "coûteusement"]
+    answer: 0
+    explain: "*Si + прилагательное + que*: прилагательное согласуется с *elle* (*cette solution*) → ***coûteuse***."
+  - q: "Ne parle de ce projet à ___."
+    options: ["qui que ce soit", "quiconque soit", "qui que soit"]
+    answer: 0
+    explain: "«Никому, кому бы то ни было» → застывший оборот ***qui que ce soit***."
+  - q: "___ il en soit, nous devons prendre une décision avant ce soir."
+    options: ["Quoique", "Quoi qu'", "Quel qu'"]
+    answer: 1
+    explain: "Вводный оборот «как бы то ни было» → ***Quoi qu'il en soit***."
+  - q: "Il a refusé le poste, ___ le salaire était excellent."
+    options: ["bien que", "alors que", "quoique"]
+    answer: 1
+    explain: "После пропуска стоит indicatif *était* → нужен союз с indicatif: ***alors que*** (противопоставление фактов). *Bien que / quoique* потребовали бы *fût / soit*."
+  - q: "___ tu ailles, je te retrouverai."
+    options: ["Où que", "Partout où", "Quoique"]
+    answer: 0
+    explain: "«Куда бы ты ни пошёл» + subjonctif *ailles* → ***Où que***. *Partout où* требует indicatif (*partout où tu vas*)."
+  - q: "___ épuisé, il a tenu à finir la course."
+    options: ["Bien qu'", "Bien que", "Quoi que"]
+    answer: 1
+    explain: "Эллипсис после уступительного союза: ***Bien que*** épuisé (= bien qu'il fût épuisé). Без гласной следом элизии нет."
+  - q: "Aussi surprenant que cela ___, la proposition a été adoptée à l'unanimité."
+    options: ["paraît", "paraisse", "paraîtra"]
+    answer: 1
+    explain: "*Aussi + прилагательное + que* → subjonctif: ***paraisse***."

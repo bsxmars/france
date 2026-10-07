@@ -1,0 +1,43 @@
+title: "Женский род существительных"
+type: gap
+intro: "Поставь существительное в скобках в женский род."
+hints:
+  - "-en, -ien, -on → -enne, -ienne, -onne; -f → -ve; -er, -ier → -ère, -ière."
+  - "-eur → -euse; -teur → -trice; -e → -esse (hôte, maître, poète)."
+items:
+  - q: "Ma voisine est une vraie ___. (Parisien)"
+    answers: ["Parisienne", "parisienne"]
+    explain: "*-ien* → **-ienne**, с удвоением *n*."
+  - q: "Au cirque, nous avons vu une ___ avec ses petits. (lion)"
+    answers: ["lionne"]
+    explain: "*-on* → **-onne**: *une lionne*."
+  - q: "Ma cousine est une grande ___ : elle court tous les matins. (sportif)"
+    answers: ["sportive"]
+    explain: "*-f* → **-ve**: *une sportive*."
+  - q: "Dans notre groupe, il y a une ___ qui vient du Brésil. (étranger)"
+    answers: ["étrangère"]
+    explain: "*-er* → **-ère** с accent grave: *une étrangère*."
+  - q: "La ___ de ce magasin est très aimable. (vendeur)"
+    answers: ["vendeuse"]
+    explain: "*-eur* (от глагола *vendre*) → **-euse**: *la vendeuse*."
+  - q: "Cette ___ a joué dans trois films cette année. (acteur)"
+    answers: ["actrice"]
+    explain: "*-teur* → **-trice**: *une actrice*."
+  - q: "La ___ de l'école a parlé aux parents. (directeur)"
+    answers: ["directrice"]
+    explain: "*-teur* → **-trice**: *la directrice*."
+  - q: "L'___ nous a accueillis avec un sourire. (hôte)"
+    answers: ["hôtesse"]
+    explain: "*hôte* → **hôtesse**: суффикс *-esse*."
+  - q: "Ma grand-mère était ___ dans une ferme. (ouvrier)"
+    answers: ["ouvrière"]
+    explain: "*-ier* → **-ière**: *ouvrière*."
+  - q: "La ___ a vendu ses légumes au marché. (paysan)"
+    answers: ["paysanne"]
+    explain: "*Paysan* — исключение среди слов на *-an*: удваивает *n* → **paysanne**."
+  - q: "Ta sœur est la ___ de la famille ? (cadet)"
+    answers: ["cadette"]
+    explain: "*cadet* → **cadette**: удвоение *t*."
+  - q: "La ___ de la chorale a une voix magnifique. (chanteur)"
+    answers: ["chanteuse"]
+    explain: "*chanteur* (от *chanter*) → **chanteuse**."

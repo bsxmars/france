@@ -1,0 +1,67 @@
+title: "Без повторов: y, en, à lui, de lui"
+type: transform
+intro: "Ответь на вопрос, заменив выделенное дополнение местоимением (ключевое слово). Впиши недостающую часть ответа."
+hints:
+  - "Предмет: à → y, de → en. Человек: penser à → à lui / à elle; parler de → de lui / d'elle; parler à → lui / leur."
+  - "Сложное время: j'y ai…, je n'en ai pas…; повелительное: penses-y, parles-en."
+items:
+  - q: "Tu t'intéresses **à l'histoire du cinéma** ?"
+    key: "y"
+    stem: "Oui, ___ depuis le lycée."
+    answers: ["je m'y intéresse"]
+    explain: "*S'intéresser à* + предмет → **y** между возвратным местоимением и глаголом: *je m'y intéresse*."
+  - q: "Tu t'intéresses **à cette réalisatrice** ?"
+    key: "elle"
+    stem: "Oui, ___ depuis son premier film."
+    answers: ["je m'intéresse à elle"]
+    explain: "Человек после *s'intéresser à* → **à elle** после глагола; *y* для людей не используют."
+  - q: "Vous avez parlé **de votre projet** au producteur ?"
+    key: "en"
+    stem: "Non, nous ___ ."
+    answers: ["ne lui en avons pas encore parlé", "ne lui en avons pas parlé", "ne lui en avons jamais parlé"]
+    explain: "*Parler **de** qch **à** qn* → **lui** (кому) + **en** (о чём): *nous ne lui en avons pas parlé*. *En* всегда последнее."
+  - q: "Elle parle souvent **de son grand-père** ?"
+    key: "lui"
+    stem: "Oui, ___ ."
+    answers: ["elle parle souvent de lui"]
+    explain: "*Parler **de*** + человек → **de lui** после глагола (в письменной норме)."
+  - q: "Tu as répondu **aux journalistes** ?"
+    key: "leur"
+    stem: "Oui, ___ ce matin."
+    answers: ["je leur ai répondu"]
+    explain: "*Répondre **à** qn* — косвенное дополнение без сохранения предлога → **leur** перед вспомогательным."
+  - q: "Tu penses encore **à ton ancien collègue** ?"
+    key: "lui"
+    stem: "Oui, ___ ."
+    answers: ["je pense encore à lui", "je pense encore souvent à lui"]
+    explain: "*Penser **à*** + человек → **à lui** после глагола: *je pense encore à lui*. *Je lui pense* — грубая ошибка."
+  - q: "Il a besoin **de son téléphone** pour travailler ?"
+    key: "en"
+    stem: "Oui, ___ absolument."
+    answers: ["il en a besoin"]
+    explain: "*Avoir besoin **de*** + предмет → **en**: *il en a besoin*."
+  - q: "Je dois réfléchir **à ta proposition** ? (повелительное)"
+    key: "y"
+    stem: "Oui, ___ !"
+    answers: ["réfléchis-y", "réfléchissez-y"]
+    explain: "Утвердительное повелительное: местоимение после глагола через дефис → **réfléchis-y**."
+  - q: "Je peux parler **de ce secret** à mes amis ? (отрицательное повелительное)"
+    key: "en"
+    stem: "Non, ___ à personne !"
+    answers: ["n'en parle", "n'en parlez"]
+    explain: "Отрицательное повелительное: местоимение перед глаголом → **n'en parle** à personne."
+  - q: "Vous avez tourné **deux films** cette année ?"
+    key: "en"
+    stem: "Oui, nous ___ ."
+    answers: ["en avons tourné deux"]
+    explain: "Количество → **en** + число в конце: *nous en avons tourné deux*. Причастие с *en* не согласуется."
+  - q: "Tu te méfies **des réseaux sociaux** ?"
+    key: "en"
+    stem: "Oui, ___ beaucoup."
+    answers: ["je m'en méfie"]
+    explain: "*Se méfier **de*** + предмет → **en**: *je m'en méfie*."
+  - q: "Tu te méfies **de ce critique** ?"
+    key: "lui"
+    stem: "Oui, ___ ."
+    answers: ["je me méfie de lui"]
+    explain: "*Se méfier **de*** + человек → **de lui** после глагола."

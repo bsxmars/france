@@ -1,0 +1,43 @@
+title: "De, à и форма je"
+type: gap
+intro: "Вставь предлог **de** (d') или **à**, а в пунктах со скобками — глагол в форме je."
+hints:
+  - "«Чей? чего?» → de; «где? куда? когда? кому?» → à."
+  - "je parle, j'aime; je lis, j'écris, je fais, je pars; je vais."
+items:
+  - q: "C'est le cahier ___ ma sœur. — Это тетрадь моей сестры."
+    answers: ["de"]
+    explain: "«Чья тетрадь?» — родительный падеж → **de**."
+  - q: "Je vais ___ la fabrique à pied."
+    answers: ["à"]
+    explain: "Направление «куда?» → **à** la fabrique."
+  - q: "Paul part ___ six heures."
+    answers: ["à"]
+    explain: "Время «во сколько?» → **à** six heures."
+  - q: "J'écris ___ mon père. — Я пишу своему отцу."
+    answers: ["à"]
+    explain: "«Кому?» — дательный падеж → **à** mon père."
+  - q: "Le directeur ___ la clinique est jeune."
+    answers: ["de"]
+    explain: "«Директор чего?» → **de** la clinique."
+  - q: "Le livre ___ Anna est ici."
+    answers: ["d'"]
+    explain: "*de* перед гласной → **d'Anna**."
+  - q: "L'exercice est ___ la page neuf."
+    answers: ["à"]
+    explain: "Место «на какой странице?» → **à** la page neuf."
+  - q: "Je ___ (lire) le texte de la page six."
+    answers: ["lis"]
+    explain: "III группа, форма *je* → **lis** (на *-s*; *il lit* — на *-t*)."
+  - q: "Je ___ (regarder) les images."
+    answers: ["regarde"]
+    explain: "I группа → **regarde**, как *il regarde*."
+  - q: "Je ___ (faire) les exercices."
+    answers: ["fais"]
+    explain: "*faire* → **je fais** (*il fait*)."
+  - q: "Je ___ (partir) avec ma famille."
+    answers: ["pars"]
+    explain: "*partir* → **je pars** (*il part*)."
+  - q: "J'___ (acheter) les fleurs de Léa."
+    answers: ["achète"]
+    explain: "I группа → *-e*, и *e* основы → *è*: **j'achète**."

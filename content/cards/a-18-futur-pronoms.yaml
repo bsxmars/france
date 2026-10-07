@@ -1,0 +1,56 @@
+- id: a18-futur-immediat
+  lesson: a-18-futur-pronoms/01-grammaire
+  q: "«Я сейчас позвоню», «Что ты собираешься делать?»"
+  a: "*Je **vais téléphoner**. Qu'est-ce que tu **vas faire** ?* — *aller* + инфинитив (futur immédiat)."
+- id: a18-passe-immediat
+  lesson: a-18-futur-pronoms/01-grammaire
+  q: "«Поезд только что ушёл», «Я только что приехал»."
+  a: "*Le train **vient de partir**. Je **viens d'arriver**.* — *venir de* + инфинитив (passé immédiat)."
+- id: a18-pronoms-table
+  lesson: a-18-futur-pronoms/01-grammaire
+  q: "Прямое и косвенное дополнение 3-го лица: «его, её, их» / «ему, ей, им»."
+  a: "Прямое: ***le, la, les***. Косвенное (глагол с *à*): ***lui*** (и ему, и ей), ***leur***. *Me, te, nous, vous* — одинаковы для обоих."
+- id: a18-lui-le
+  lesson: a-18-futur-pronoms/01-grammaire
+  q: "«Я ему помогаю», «Я ему звоню», «Я его спрашиваю»."
+  a: "*Je **l'aide*** (aider qn), *je **lui** téléphone* (téléphoner à qn), *je **lui** demande* (demander à qn). Решает французский глагол, а не русский падеж."
+- id: a18-pronom-place
+  lesson: a-18-futur-pronoms/01-grammaire
+  q: "Где стоит местоимение-дополнение: *je ne ___ vois pas*, *je vais ___ écrire*?"
+  a: "Перед глаголом: *je ne **la** vois pas*; перед инфинитивом, к которому относится: *je vais **lui** écrire*, *il vient de **les** voir*."
+- id: a18-imperatif-pronom
+  lesson: a-18-futur-pronoms/01-grammaire
+  q: "«Посмотри на меня!» и «Не смотри на меня!»"
+  a: "*Regarde-**moi** !* — после глагола, *me* → *moi*. *Ne **me** regarde pas !* — перед глаголом."
+- id: a18-de-le
+  lesson: a-18-futur-pronoms/01-grammaire
+  q: "«Я только что его видел» — *du* или *de le*?"
+  a: "*Je viens **de le** voir.* С местоимением *le, les* слияния нет; *du, des* — только с артиклем."
+- id: a18-quantite-noms
+  lesson: a-18-futur-pronoms/02-grammaire
+  q: "Кило яблок, бутылка воды, человек двадцать."
+  a: "*un kilo **de** pommes, une bouteille **d'eau**, une vingtaine **de** personnes* — после существительных меры *de* без артикля."
+- id: a18-ordinaux
+  lesson: a-18-futur-pronoms/02-grammaire
+  q: "1-й, 2-й, 5-й, 9-й, 21-й по-французски."
+  a: "*premier / première, deuxième (second), cinquième, neuvième, vingt et unième*."
+- id: a18-dates
+  lesson: a-18-futur-pronoms/02-grammaire
+  q: "«Первое мая», «второе мая»."
+  a: "*le **premier** mai* — порядковое; но *le **deux** mai* — в остальных датах количественное."
+- id: a18-finir
+  lesson: a-18-futur-pronoms/02-grammaire
+  q: "Проспрягай *finir* в настоящем времени."
+  a: "*je finis, tu finis, il finit, nous fin**iss**ons, vous fin**iss**ez, ils fin**iss**ent*; повелительное: *finis, finissons, finissez*."
+- id: a18-ii-groupe
+  lesson: a-18-futur-pronoms/02-grammaire
+  q: "Как отличить глагол II группы от *partir, sortir*?"
+  a: "По форме *nous*: *nous fin**iss**ons, choisissons* — II группа; *nous partons* — III группа."
+- id: a18-savoir
+  lesson: a-18-futur-pronoms/02-grammaire
+  q: "Проспрягай *savoir*; повелительное наклонение."
+  a: "*je sais, tu sais, il sait, nous savons, vous savez, ils savent*; ***sache*** (без -s), *sachons, sachez*."
+- id: a18-savoir-inf
+  lesson: a-18-futur-pronoms/02-grammaire
+  q: "«Она умеет плавать», «Я не знаю, куда идти»."
+  a: "*Elle **sait** nager* (savoir + инфинитив = уметь). *Je ne **sais** pas où aller.*"

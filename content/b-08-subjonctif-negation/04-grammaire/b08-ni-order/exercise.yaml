@@ -1,0 +1,37 @@
+title: "Собери фразу с ni… ni…"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Следи за местом ne и ni и за тем, что pas здесь не нужен."
+hints:
+  - "ne + глагол + ni… ni…; в passé composé — ni… ni… после причастия."
+  - "Подлежащие: Ni… ni… ne + глагол."
+items:
+  - q: "«Я не говорю ни по-немецки, ни по-итальянски»."
+    answers: ["Je ne parle ni allemand ni italien."]
+    explain: "*Ne* перед глаголом, *ni* перед каждым языком; без *pas*."
+  - q: "«Ни Марк, ни Софи не сдали экзамен»."
+    answers: ["Ni Marc ni Sophie n'ont réussi l'examen."]
+    explain: "Подлежащие: **Ni** Marc **ni** Sophie **n'ont** réussi — *ne* перед вспомогательным, глагол во мн. ч."
+  - q: "«У него нет ни диплома, ни опыта»."
+    answers: ["Il n'a ni diplôme ni expérience."]
+    explain: "Неопределённый / частичный артикль исчезает: *ni diplôme ni expérience*."
+  - q: "«Этот фильм ни интересный, ни смешной»."
+    answers: ["Ce film n'est ni intéressant ni drôle."]
+    explain: "Два прилагательных: *n'est **ni** intéressant **ni** drôle*."
+  - q: "«Я не видел ни учителя, ни директора»."
+    answers: ["Je n'ai vu ni le professeur ni le directeur."]
+    explain: "*Ni… ni…* — после причастия *vu*; определённые артикли остаются."
+  - q: "«Она ушла, не попрощавшись и не заплатив»."
+    answers: ["Elle est partie sans dire au revoir ni payer."]
+    explain: "**sans** + инфинитив **ni** + инфинитив."
+  - q: "«Ни тот, ни другой не пришли»."
+    answers: ["Ni l'un ni l'autre ne sont venus.", "Ni l'un ni l'autre n'est venu."]
+    explain: "*Ni l'un ni l'autre* как подлежащее + *ne* + глагол (обычно мн. ч.)."
+  - q: "«Мы не хотим ни уезжать, ни оставаться»."
+    answers: ["Nous ne voulons ni partir ni rester."]
+    explain: "Два инфинитива после *vouloir*: *ne voulons **ni** partir **ni** rester*."
+  - q: "«Он путешествует без телефона и без компьютера»."
+    answers: ["Il voyage sans téléphone ni ordinateur."]
+    explain: "**sans** X **ni** Y, без артиклей."
+  - q: "«Я не люблю ни чай, ни кофе»."
+    answers: ["Je n'aime ni le thé ni le café."]
+    explain: "После *aimer* определённый артикль сохраняется: *ni **le** thé ni **le** café*."

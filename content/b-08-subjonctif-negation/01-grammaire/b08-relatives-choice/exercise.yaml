@@ -1,0 +1,50 @@
+title: "Факт или пожелание?"
+type: choice
+intro: "Выбери форму, которая подходит по смыслу. Иногда меняется артикль — смотри, существует ли предмет для говорящего."
+hints:
+  - "un / une / des + желаемое качество → subjonctif; le / la + известный предмет → indicatif."
+items:
+  - q: "Je cherche un colocataire qui ___ calme et qui ne fume pas."
+    options: ["est", "soit", "a été"]
+    answer: 1
+    explain: "Соседа ещё ищут — описано желаемое качество → **soit**."
+  - q: "Je cherche le colocataire qui ___ calme ; on m'a dit qu'il habitait au deuxième."
+    options: ["est", "soit", "fût"]
+    answer: 0
+    explain: "Определённый артикль и конкретный, существующий человек → indicatif: **est**."
+  - q: "Ce lycée propose des cours qui ___ les élèves à l'oral du bac."
+    options: ["préparent", "aient préparé", "préparions"]
+    answer: 0
+    explain: "Констатация: курсы существуют → indicatif présent **préparent**."
+  - q: "Nous souhaitons des cours qui ___ les élèves plus autonomes."
+    options: ["rendent", "rendaient", "ont rendu"]
+    answer: 0
+    explain: "Пожелание → subjonctif: **rendent** (форма 3-го л. мн. ч. совпадает с indicatif). Прошедшие времена не подходят: речь о желаемом будущем положении дел."
+  - q: "Je ne vois aucune solution qui ___ satisfaire tout le monde."
+    options: ["peut", "puisse", "pouvait"]
+    answer: 1
+    explain: "*Aucune solution qui* — отрицание существования → **puisse**."
+  - q: "Connais-tu une école de langues qui ___ m'accueillir en juillet ?"
+    options: ["puisse", "pouvait", "a pu"]
+    answer: 0
+    explain: "Вопрос о существовании подходящей школы → subjonctif **puisse**. Прошедшие времена не подходят по смыслу (июль ещё впереди)."
+  - q: "L'école de ma sœur propose des cours qui ___ le dimanche."
+    options: ["aient lieu", "ont lieu", "aient eu lieu"]
+    answer: 1
+    explain: "Существующая школа, факт → indicatif: **ont lieu**."
+  - q: "Il faudrait des bourses qui ___ aux étudiants de partir à l'étranger."
+    options: ["permettent", "permettaient", "ont permis"]
+    answer: 0
+    explain: "Цель после *il faudrait des…* → subjonctif **permettent**. Прошедшие времена не подходят: речь о желаемом."
+  - q: "Je cherche un manuel qui ___ expliquer le subjonctif simplement."
+    options: ["sait", "sache", "savait"]
+    answer: 1
+    explain: "Учебник ещё ищут → subjonctif **sache**."
+  - q: "Les enseignants demandent un emploi du temps qui leur ___ de se réunir."
+    options: ["laisse", "laissait", "a laissé"]
+    answer: 0
+    explain: "Требование (*demandent un…*) → subjonctif **laisse** (совпадает по форме с indicatif présent)."
+  - q: "Personne dans l'équipe n'a d'expérience qui ___ utile pour ce projet."
+    options: ["soit", "est", "était"]
+    answer: 0
+    explain: "Отрицание (*personne n'a… qui*) → subjonctif **soit**."

@@ -1,0 +1,44 @@
+title: "Нюансируй сравнение"
+type: gap
+intro: "Вставь недостающее слово или выражение по подсказке в скобках. Помни: aussi — с прилагательным, autant — с существительным и глаголом; перед существительным — de."
+hints:
+  - "Тенденция: de plus en plus (de), de moins en moins (de), de mieux en mieux."
+  - "Сила: bien / beaucoup plus; tout aussi, tout autant; deux fois plus / moins."
+  - "Пропорция: Plus…, plus… — без артикля; причина: d'autant plus… que."
+items:
+  - q: "Les places pour les matchs de rugby sont ___ chères. (всё дороже)"
+    answers: ["de plus en plus"]
+    explain: "Тенденция с прилагательным → **de plus en plus** chères."
+  - q: "Il y a ___ licenciés dans les petits clubs de village. (всё меньше)"
+    answers: ["de moins en moins de"]
+    explain: "С существительным → **de moins en moins de** + существительное без артикля."
+  - q: "Depuis qu'elle a changé d'entraîneur, elle joue ___. (всё лучше)"
+    answers: ["de mieux en mieux"]
+    explain: "С глаголом и наречием *bien* → **de mieux en mieux**, не ~~de plus en plus bien~~."
+  - q: "Le cyclisme est ___ populaire en France qu'en Russie. (гораздо более)"
+    answers: ["bien plus", "beaucoup plus"]
+    explain: "Усиление разницы → **bien / beaucoup plus** + прилагательное; *très plus* невозможно."
+  - q: "Ce sport demande ___ concentration que les échecs. (столь же много, ничуть не меньше)"
+    answers: ["tout autant de", "autant de"]
+    explain: "Равенство с существительным, с усилением → **tout autant de**."
+  - q: "Les spectateurs sont ___ nombreux qu'à la dernière édition. (ничуть не менее, столь же)"
+    answers: ["tout aussi", "aussi"]
+    explain: "Равенство с прилагательным → **tout aussi** nombreux; *tout* подчёркивает «ничуть не меньше»."
+  - q: "Une joueuse de football gagne en moyenne ___ qu'un joueur. (в десять раз меньше)"
+    answers: ["dix fois moins"]
+    explain: "Порядок величины с глаголом → **dix fois moins** que."
+  - q: "Cette saison, notre équipe a marqué ___ buts que l'an dernier. (вдвое больше)"
+    answers: ["deux fois plus de"]
+    explain: "С существительным → **deux fois plus de** buts."
+  - q: "Plus les salaires des joueurs augmentent, ___ le public s'identifie à eux. (тем меньше)"
+    answers: ["moins"]
+    explain: "Пропорция «чем больше…, тем меньше…» → *Plus…, **moins**…* — без артикля и без *que*."
+  - q: "La victoire est ___ belle que personne n'y croyait. (тем более … что)"
+    answers: ["d'autant plus"]
+    explain: "Причина усиливает оценку → ***d'autant plus** belle **que**…* — прилагательное между *d'autant plus* и *que*."
+  - q: "Je comprends ___ ses critiques qu'il n'a jamais assisté à un match. (тем менее … что)"
+    answers: ["d'autant moins"]
+    explain: "«Тем менее понимаю, что…» → **d'autant moins** … *qu'*."
+  - q: "Cette nouvelle raquette est ___ que l'ancienne. (гораздо лучше)"
+    answers: ["bien meilleure", "beaucoup meilleure"]
+    explain: "*Raquette* — ж. р., прилагательное *bon* → **meilleure**, усиление — *bien* (или *beaucoup*)."

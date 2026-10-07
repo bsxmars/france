@@ -1,0 +1,44 @@
+title: "Образуй passé simple"
+type: gap
+intro: "Поставь глагол в скобках в passé simple. Это отрывки из рассказов — книжный стиль."
+hints:
+  - "I группа: -ai, -as, -a, -âmes, -âtes, -èrent."
+  - "II группа и многие глаголы III группы: -is, -is, -it, -îmes, -îtes, -irent."
+  - "Глаголы на -oir, lire, courir, vivre: -us, -us, -ut, -ûmes, -ûtes, -urent."
+items:
+  - q: "Le vieux marin ___ dans le café et s'assit près du feu. (entrer)"
+    answers: ["entra"]
+    explain: "I группа, 3-е лицо ед. ч.: основа *entr-* + **-a** → **entra**."
+  - q: "Les voyageurs ___ toute la nuit sans s'arrêter. (marcher)"
+    answers: ["marchèrent"]
+    explain: "I группа, 3-е лицо мн. ч. — окончание **-èrent**: **marchèrent**."
+  - q: "Ce soir-là, je ___ mon histoire par la fin. (commencer)"
+    answers: ["commençai"]
+    explain: "*Je* в I группе — **-ai**. Перед *a* у глаголов на *-cer* пишется **ç**: **commençai**."
+  - q: "Nous ___ notre travail avant le coucher du soleil. (finir)"
+    answers: ["finîmes"]
+    explain: "II группа, *nous* — **-îmes** с accent circonflexe: **finîmes**."
+  - q: "La princesse ___ sans hésiter. (répondre)"
+    answers: ["répondit"]
+    explain: "Глаголы на *-ondre* — тип на **i**: *il répondit*."
+  - q: "Il ___ son manteau et sortit dans la nuit. (prendre)"
+    answers: ["prit"]
+    explain: "*Prendre* → основа как в причастии *pris*: **il prit**."
+  - q: "Les enfants ___ très peur de l'orage. (avoir)"
+    answers: ["eurent"]
+    explain: "*Avoir* — особая форма: *j'eus, il eut, ils **eurent*** (без accent circonflexe в 3-м лице мн. ч.)."
+  - q: "Ce ___ une soirée inoubliable. (être)"
+    answers: ["fut"]
+    explain: "*Être* в passé simple: *je fus, il **fut**, ils furent*."
+  - q: "Soudain, le chasseur ___ une lumière entre les arbres. (voir)"
+    answers: ["vit"]
+    explain: "*Voir* — исключение среди глаголов на *-oir*: тип на **i**, **il vit** («увидел»)."
+  - q: "Les deux frères ___ le lendemain avec des cadeaux. (revenir)"
+    answers: ["revinrent"]
+    explain: "*Venir* и производные: *il revint, ils **revinrent***."
+  - q: "Mes arrière-grands-parents ___ toute leur vie dans ce village. (vivre)"
+    answers: ["vécurent"]
+    explain: "*Vivre* → тип на **u** с особой основой: *il vécut, ils **vécurent***."
+  - q: "Il ___ attendre l'arrivée du médecin. (falloir)"
+    answers: ["fallut"]
+    explain: "*Falloir* — безличный глагол на *-oir*, тип на **u**: **il fallut**."

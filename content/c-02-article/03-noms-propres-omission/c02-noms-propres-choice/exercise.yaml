@@ -1,0 +1,51 @@
+title: "Имя собственное: нужен ли артикль?"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу и по норме. «—» означает, что артикль не нужен."
+hints:
+  - "Имя + определение (постоянное качество, период) → le / la; новая грань → un / une."
+  - "Произведение художника → un Monet; творчество композитора «вообще» → du Bach."
+items:
+  - q: "Le musée vient d'acquérir ___ Cézanne pour plusieurs millions d'euros."
+    options: ["—", "un", "du"]
+    answer: 1
+    explain: "Одна картина художника → **un** Cézanne."
+  - q: "Le dimanche, mon père écoutait ___ Bach en lisant le journal."
+    options: ["le", "du", "un"]
+    answer: 1
+    explain: "Музыка композитора «вообще» → партитив: *écouter **du** Bach*."
+  - q: "Nous dînons chez ___ Lambert samedi soir."
+    options: ["les", "des", "—"]
+    answer: 0
+    explain: "Вся семья → *les* + фамилия без *s*: *chez **les** Lambert*."
+  - q: "Ce n'est plus ___ Julien timide que j'ai connu au lycée."
+    options: ["—", "le", "un"]
+    answer: 1
+    explain: "Имя с определением (*timide que j'ai connu*), выделяющим прежний облик → **le**."
+  - q: "En vacances, on découvre parfois ___ Julien tout à fait différent : drôle et bavard."
+    options: ["le", "un", "—"]
+    answer: 1
+    explain: "Новая, неожиданная грань человека → **un** Julien."
+  - q: "Ils ont déménagé ___ Havre l'année dernière."
+    options: ["à", "au", "en"]
+    answer: 1
+    explain: "Артикль входит в название города *Le Havre* → *à + le* = **au** Havre."
+  - q: "J'ai passé mon enfance ___ Cuba."
+    options: ["à", "au", "en"]
+    answer: 0
+    explain: "*Cuba* — остров-государство без артикля → **à** Cuba (как *à Madagascar, à Chypre*)."
+  - q: "___ Venise du XVIIIe siècle attirait les voyageurs de toute l'Europe."
+    options: ["—", "La", "Une"]
+    answer: 1
+    explain: "Город с определяющим дополнением (*du XVIIIe siècle*) → **la** Venise."
+  - q: "Après l'orage, nous avons découvert ___ Paris lavé, brillant, presque neuf."
+    options: ["le", "un", "—"]
+    answer: 1
+    explain: "Особый, непривычный облик города в данный момент → **un** Paris."
+  - q: "___ Callas a chanté pour la dernière fois à l'Opéra de Paris en 1965."
+    options: ["—", "La", "Une"]
+    answer: 1
+    explain: "Традиция: определённый артикль перед именем великой певицы — ***la** Callas*."
+  - q: "Il y avait sur le mur deux ___ authentiques, achetés par son grand-père."
+    options: ["Picassos", "Picasso", "des Picasso"]
+    answer: 1
+    explain: "Имя художника в значении «картины» обычно не изменяется: *deux **Picasso***."

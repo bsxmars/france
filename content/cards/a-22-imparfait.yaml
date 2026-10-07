@@ -1,0 +1,44 @@
+- id: a22-imparfait-formation
+  lesson: a-22-imparfait/01-grammaire
+  q: "Как образуется imparfait? Пример с *prendre*."
+  a: "Основа формы *nous* без *-ons* + *-ais, -ais, -ait, -ions, -iez, -aient*: *nous pren-ons → je **prenais**, ils **prenaient***. Исключение — *être*: *j'étais*."
+- id: a22-imparfait-orthographe
+  lesson: a-22-imparfait/01-grammaire
+  q: "Imparfait от *commencer, manger, étudier* (je, nous)."
+  a: "*je commen**ç**ais, nous commencions*; *je mang**e**ais, nous mangions*; *j'étudiais, nous étudi**i**ons*."
+- id: a22-imparfait-emploi
+  lesson: a-22-imparfait/01-grammaire
+  q: "Когда нужен imparfait?"
+  a: "Процесс в прошлом, привычка (*d'habitude, chaque jour*), описание и состояние (*il faisait beau, j'avais dix ans*), фон для события."
+- id: a22-imparfait-pc
+  lesson: a-22-imparfait/01-grammaire
+  q: "«Я ужинал, когда позвонил Марк» и «Вчера я весь день работал»."
+  a: "*Je **dînais** quand Marc **a téléphoné**.* — фон + событие. *Hier, j'**ai travaillé** toute la journée.* — действие в рамках → passé composé."
+- id: a22-si-on-allait
+  lesson: a-22-imparfait/01-grammaire
+  q: "«Может, пойдём в кино?» через *si*."
+  a: "***Si on allait** au cinéma ?* — *si* + imparfait = предложение."
+- id: a22-accord-avoir
+  lesson: a-22-imparfait/01-grammaire
+  q: "Когда причастие с *avoir* согласуется?"
+  a: "С **прямым** дополнением, стоящим **перед** глаголом: *je **l'**ai lu**e***, *les photos **que** j'ai pri**ses***, ***quelles** villes avez-vous visité**es** ?* С *lui, leur* — нет."
+- id: a22-le-neutre
+  lesson: a-22-imparfait/02-grammaire
+  q: "«Ты знаешь, что он вернулся? — Знаю»."
+  a: "*Tu sais qu'il est rentré ? — Oui, je **le** sais.* *Le* = «это», ставится перед глаголом."
+- id: a22-comme-parce-que-car
+  lesson: a-22-imparfait/02-grammaire
+  q: "Чем отличаются *comme, parce que, car*?"
+  a: "***Comme*** — причина перед главным; ***parce que*** — после главного и в ответе на *pourquoi*; ***car*** — пояснение после запятой, на *pourquoi* им не отвечают."
+- id: a22-pourquoi
+  lesson: a-22-imparfait/02-grammaire
+  q: "«Почему Поль не пришёл?» с инверсией."
+  a: "*Pourquoi Paul **n'est-il pas** venu ?* — сложная инверсия: существительное + глагол-местоимение."
+- id: a22-pouvoir
+  lesson: a-22-imparfait/02-grammaire
+  q: "Проспрягай *pouvoir* в настоящем времени. Причастие?"
+  a: "*je peux (puis), tu peux, il peut, nous pouvons, vous pouvez, ils **peuvent***; *pu*. В вопросе: ***puis-je** ?*"
+- id: a22-vouloir
+  lesson: a-22-imparfait/02-grammaire
+  q: "Проспрягай *vouloir*. Как вежливо попросить с его помощью?"
+  a: "*je veux, tu veux, il veut, nous voulons, vous voulez, ils **veulent***; *voulu*. ***Voulez-vous** fermer la porte ?*, *Attends-moi, **veux-tu** ?*"

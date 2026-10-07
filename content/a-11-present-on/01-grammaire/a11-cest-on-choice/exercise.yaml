@@ -1,0 +1,52 @@
+title: "C'est или ce sont, on, вопрос"
+type: choice
+intro: "Выбери верный вариант."
+hints:
+  - "Один предмет — c'est, несколько — ce sont."
+  - "Вопрос к ce sont — через est-ce que."
+  - "On + глагол в 3-м лице ед. ч."
+items:
+  - q: "___ des questions difficiles."
+    options: ["C'est", "Ce sont", "Ce est"]
+    answer: 1
+    explain: "*des questions* — множественное число → **ce sont**."
+  - q: "___ une leçon facile."
+    options: ["C'est", "Ce sont", "Est-ce"]
+    answer: 0
+    explain: "Один предмет → **c'est**. *Est-ce* — это вопрос, а здесь утверждение."
+  - q: "Ce ___ pas mes livres."
+    options: ["n'est", "ne sont", "sont"]
+    answer: 1
+    explain: "*mes livres* — мн. ч. → *ce sont*; отрицание: **ce ne sont pas**."
+  - q: "Как спросить: «Это твои друзья?»"
+    options: ["Sont-ce tes amis ?", "Est-ce que ce sont tes amis ?", "Est-ce tes amis ?"]
+    answer: 1
+    explain: "Вопрос к *ce sont* строят через **est-ce que**. *Sont-ce* — книжная форма, а *est-ce* — только для единственного числа."
+  - q: "Здесь не курят."
+    options: ["Ici, on ne fume pas.", "Ici, ils ne fument pas.", "Ici, ne fume pas."]
+    answer: 0
+    explain: "Русская безличная фраза «не курят» = **on** + 3-е лицо ед. ч.: *on ne fume pas*. *Ils* — это конкретные «они»."
+  - q: "Paul et moi, on ___ ensemble."
+    options: ["travaillons", "travaille", "travaillent"]
+    answer: 1
+    explain: "*On* здесь значит «мы», но глагол всё равно в 3-м лице ед. ч.: **on travaille**."
+  - q: "___ français ? (вопрос с инверсией к «он»)"
+    options: ["Parle-il", "Parle-t-il", "Parlet-il"]
+    answer: 1
+    explain: "Между *-e* и *il* вставляется **-t-** с двумя дефисами: *parle-t-il*."
+  - q: "___ je chante bien ?"
+    options: ["Est-ce que", "Chante-je", "Est-ce"]
+    answer: 0
+    explain: "С *je* у глаголов на -er инверсию не делают: ***est-ce que** je chante bien ?*"
+  - q: "Как сказать на «ты»: «Слушай музыку!»"
+    options: ["Écoutes la musique !", "Écoute la musique !", "Tu écoute la musique !"]
+    answer: 1
+    explain: "Повелительное «ты» у глаголов на -er — без *-s* и без местоимения: **Écoute** !"
+  - q: "«Давайте поужинаем здесь!»"
+    options: ["Dînons ici !", "Nous dînons ici !", "Dînez ici !"]
+    answer: 0
+    explain: "«Давайте» — повелительное 1-го лица мн. ч. без местоимения: **Dînons** ! *Dînez* — это «поужинайте» (вы)."
+  - q: "Vos amis ___-ils souvent ?"
+    options: ["téléphone-t", "téléphonent", "téléphones"]
+    answer: 1
+    explain: "*ils* → *téléphonent*; во мн. ч. *-t-* не вставляют, *t* уже есть в окончании: *téléphonent-ils*."

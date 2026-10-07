@@ -1,0 +1,47 @@
+title: "Par или de? Возможен ли пассив?"
+type: choice
+intro: "Выбери вариант, верный по норме и смыслу."
+hints:
+  - "de — чувство, знание, сопровождение, расположение, описание состояния; par — действие."
+  - "Пассив только от прямо-переходных глаголов (кроме obéir, pardonner)."
+items:
+  - q: "Le village est entouré ___ collines."
+    options: ["de", "par des", "des"]
+    answer: 0
+    explain: "Расположение, состояние → **de**; неопределённый артикль после *de* выпадает: *entouré de collines*."
+  - q: "La ville fut encerclée ___ l'armée ennemie en une nuit."
+    options: ["par", "de", "à"]
+    answer: 0
+    explain: "Конкретное действие с активным агентом → **par**."
+  - q: "Ce chanteur est connu ___ toute une génération."
+    options: ["de", "à", "pour"]
+    answer: 0
+    explain: "После *connaître* агент вводится **de** (*par* встречается реже). *À* и *pour* агент не вводят."
+  - q: "« Мне ответили, что мест нет » — ___"
+    options: ["On m'a répondu qu'il n'y avait plus de place.", "J'ai été répondu qu'il n'y avait plus de place.", "Je me suis répondu qu'il n'y avait plus de place."]
+    answer: 0
+    explain: "*Répondre **à** qn* — косвенное управление, пассива нет → **on**."
+  - q: "Les enfants veulent toujours ___ par leurs parents."
+    options: ["être pardonnés", "se pardonner", "pardonner"]
+    answer: 0
+    explain: "*Pardonner à qn* — исключение, допускающее пассив: **être pardonné**."
+  - q: "La salle était remplie ___ spectateurs enthousiastes."
+    options: ["de", "par des", "avec"]
+    answer: 0
+    explain: "*Remplir* — описание состояния → **de** (*de* + существительное без артикля)."
+  - q: "Le suspect a été arrêté ___ deux policiers en civil."
+    options: ["par", "de", "à"]
+    answer: 0
+    explain: "Действие → **par**."
+  - q: "« Эти книги давно распроданы » — ___"
+    options: ["Ces livres sont vendus depuis longtemps.", "Ces livres se vendent depuis longtemps.", "Ces livres vendent depuis longtemps."]
+    answer: 0
+    explain: "Пассив состояния от предельного глагола *vendre* = результат: **sont vendus** «проданы». *Se vendent depuis longtemps* — «продаются уже давно» (процесс)."
+  - q: "Le comité ___ sept experts indépendants."
+    options: ["est composé de", "est composé par", "se compose par"]
+    answer: 0
+    explain: "*Être composé **de*** — описание состава."
+  - q: "Ce dictateur était craint ___ tout son peuple."
+    options: ["de", "à", "pour"]
+    answer: 0
+    explain: "*Craindre* — глагол чувства → агент вводится **de** (*par* тоже допустимо). *À* и *pour* агент не вводят."

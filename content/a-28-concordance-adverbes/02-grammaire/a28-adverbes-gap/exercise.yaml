@@ -1,0 +1,44 @@
+title: "Образуй наречие"
+type: gap
+intro: "Образуй от прилагательного в скобках наречие на -ment (-amment, -emment) и вставь его в предложение."
+hints:
+  - "Согласная на конце → женский род + -ment: lent → lentement."
+  - "Гласная на конце → мужской род + -ment: poli → poliment."
+  - "-ant → -amment, -ent → -emment (кроме lent)."
+items:
+  - q: "Parle plus ___, le bébé dort. (doux)"
+    answers: ["doucement"]
+    explain: "*doux* → ж. р. *douce* → **doucement**."
+  - q: "Il m'a répondu très ___. (sec)"
+    answers: ["sèchement"]
+    explain: "*sec* → ж. р. *sèche* (с *è*) → **sèchement**."
+  - q: "___, il n'a pas plu pendant le pique-nique. (heureux)"
+    answers: ["Heureusement"]
+    explain: "*heureux* → ж. р. *heureuse* → **heureusement** — «к счастью»."
+  - q: "La vendeuse nous a salués ___. (poli)"
+    answers: ["poliment"]
+    explain: "*poli* кончается на гласную → *-ment* к мужскому роду: **poliment**, без лишнего *e*."
+  - q: "Tu as ___ raison, je suis d'accord avec toi. (absolu)"
+    answers: ["absolument"]
+    explain: "*absolu* → **absolument**: гласная на конце, *-ment* к мужскому роду."
+  - q: "Nous avons ___ apprécié votre accueil. (sincère)"
+    answers: ["sincèrement"]
+    explain: "*sincère* уже кончается на *-e* → **sincèrement**."
+  - q: "Conduis ___, la route est glissante. (prudent)"
+    answers: ["prudemment"]
+    explain: "*-ent* → **-emment**: *prudent* → **prudemment**."
+  - q: "Elle s'habille toujours ___. (élégant)"
+    answers: ["élégamment"]
+    explain: "*-ant* → **-amment**: *élégant* → **élégamment**."
+  - q: "Les enfants riaient ___ dans le jardin. (gai)"
+    answers: ["gaiement", "gaîment"]
+    explain: "Исключение: *gai* → **gaiement** (к женскому роду; старое написание — *gaîment*)."
+  - q: "Je dors ___ depuis que j'habite à la campagne. (profond)"
+    answers: ["profondément"]
+    explain: "*profond* — из небольшой группы с **é** перед суффиксом: **profondément**."
+  - q: "J'ai ___ oublié notre rendez-vous ! (complet)"
+    answers: ["complètement"]
+    explain: "*complet* → ж. р. *complète* → **complètement**."
+  - q: "Il a expliqué ___ son projet en deux minutes. (bref)"
+    answers: ["brièvement"]
+    explain: "Особая форма: *bref* → **brièvement**."

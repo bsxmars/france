@@ -1,0 +1,38 @@
+title: "Переведи вопрос «что?»"
+type: gap
+intro: "Переведи вопрос на французский. Годятся оба способа: que + инверсия и qu'est-ce que + прямой порядок."
+hints:
+  - "Que lis-tu ? = Qu'est-ce que tu lis ?"
+  - "С существительным: Que cherche Paul ? = Qu'est-ce que Paul cherche ?"
+  - "С je — только qu'est-ce que."
+items:
+  - q: "Что ты читаешь?"
+    answers: ["Que lis-tu ?", "Qu'est-ce que tu lis ?"]
+    explain: "**Que lis-tu ?** (инверсия) или **Qu'est-ce que tu lis ?** (прямой порядок)."
+  - q: "Что он смотрит?"
+    answers: ["Que regarde-t-il ?", "Qu'est-ce qu'il regarde ?"]
+    explain: "*regarde* кончается на *-e* → **Que regarde-t-il ?**; или **Qu'est-ce qu'il regarde ?**"
+  - q: "Что она пишет?"
+    answers: ["Qu'écrit-elle ?", "Qu'est-ce qu'elle écrit ?"]
+    explain: "Перед гласной *que* → *qu'*: **Qu'écrit-elle ?**; или **Qu'est-ce qu'elle écrit ?**"
+  - q: "Что ты делаешь?"
+    answers: ["Que fais-tu ?", "Qu'est-ce que tu fais ?"]
+    explain: "**Que fais-tu ?** или **Qu'est-ce que tu fais ?** — *tu fais* с *-s*."
+  - q: "Что ищет Поль?"
+    answers: ["Que cherche Paul ?", "Qu'est-ce que Paul cherche ?"]
+    explain: "После *que* с существительным — простая инверсия: **Que cherche Paul ?** Или **Qu'est-ce que Paul cherche ?**"
+  - q: "Что покупает Лея?"
+    answers: ["Qu'achète Léa ?", "Qu'est-ce que Léa achète ?"]
+    explain: "**Qu'achète Léa ?** (*que* → *qu'* перед гласной) или **Qu'est-ce que Léa achète ?**"
+  - q: "Что я делаю?"
+    answers: ["Qu'est-ce que je fais ?", "Que fais-je ?"]
+    explain: "С *je* обычно **Qu'est-ce que je fais ?** *Que fais-je ?* — книжная форма, возможна у *faire*."
+  - q: "Что я покупаю?"
+    answers: ["Qu'est-ce que j'achète ?"]
+    explain: "С *je* у глаголов I группы — только **qu'est-ce que**; *je* → *j'* перед гласной."
+  - q: "Что изучают твои друзья?"
+    answers: ["Qu'étudient tes amis ?", "Qu'est-ce que tes amis étudient ?"]
+    explain: "**Qu'étudient tes amis ?** (простая инверсия с существительным) или **Qu'est-ce que tes amis étudient ?**"
+  - q: "Что они ищут?"
+    answers: ["Que cherchent-ils ?", "Qu'est-ce qu'ils cherchent ?", "Que cherchent-elles ?", "Qu'est-ce qu'elles cherchent ?"]
+    explain: "**Que cherchent-ils ?** или **Qu'est-ce qu'ils cherchent ?** (если только женщины — *elles*). Глагол кончается на *-t*, вставка *-t-* не нужна."

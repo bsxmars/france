@@ -1,0 +1,44 @@
+title: "Какое время после si?"
+type: gap
+intro: "Поставь глагол в нужное время. Сначала реши, какое это si: условие (реальное или предполагаемое), «ли», «каждый раз когда», «хотя» или comme si."
+hints:
+  - "Реальное условие: si + présent / passé composé → futur, présent, impératif."
+  - "Si «ли» допускает futur и conditionnel; si «когда» — одинаковые времена в обеих частях."
+  - "même si — как si; comme si — только imparfait или plus-que-parfait."
+items:
+  - q: "Si tu ___ (voir) Claire demain, dis-lui de m'appeler."
+    answers: ["vois"]
+    explain: "Реальное условие о будущем: *si* + présent ***vois***, в главном — императив."
+  - q: "Si vous avez terminé l'exercice, vous ___ (pouvoir) sortir."
+    answers: ["pouvez", "pourrez", "pourriez"]
+    explain: "*Si* + passé composé → в главном présent (***pouvez***) или futur (***pourrez***); *pourriez* возможно как вежливое смягчение."
+  - q: "Même s'il ___ (neiger) demain, nous prendrons la route."
+    answers: ["neige"]
+    explain: "После *même si* — те же времена, что после *si*: ***neige***, а не futur."
+  - q: "Si jamais tu ___ (perdre) tes clés, la voisine en a un double."
+    answers: ["perds"]
+    explain: "*Si jamais* + présent — маловероятное, но реальное условие: ***perds***."
+  - q: "Je ne sais pas encore si je ___ (pouvoir) venir à ta fête samedi."
+    answers: ["pourrai"]
+    explain: "*Si* «ли» — косвенный вопрос, futur возможен: ***pourrai***."
+  - q: "Elle m'a demandé si j'___ (accepter) de la remplacer la semaine suivante."
+    answers: ["accepterais"]
+    explain: "Косвенный вопрос в плане прошедшего → futur dans le passé: ***accepterais***."
+  - q: "Il nous regardait comme si nous ___ (dire) une énormité."
+    answers: ["avions dit", "disions"]
+    explain: "После *comme si* — plus-que-parfait (***avions dit*** — уже сказали) или imparfait (***disions*** — говорим в этот момент)."
+  - q: "Quand j'étais enfant, si ma mère ___ (rentrer) tard, ma grand-mère nous gardait."
+    answers: ["rentrait"]
+    explain: "*Si* = «каждый раз когда»: imparfait в обеих частях — ***rentrait***."
+  - q: "Si tu ___ (partir) maintenant, tu seras arrivé avant la nuit."
+    answers: ["pars"]
+    explain: "Реальное условие → présent ***pars***; в главном futur antérieur."
+  - q: "S'il ___ (être) honnête, il n'est pas très diplomate."
+    answers: ["est"]
+    explain: "Противительное *si* («хотя он и честен…»): indicatif présent ***est***."
+  - q: "Si vous ___ (venir) et que vous ayez le temps, nous pourrions dîner ensemble."
+    answers: ["veniez"]
+    explain: "Главное в conditionnel → *si* + imparfait ***veniez***; второе условие — *et que* + subjonctif (*ayez*)."
+  - q: "Si elle avait accepté ce travail, elle ___ (habiter) à Genève maintenant."
+    answers: ["habiterait"]
+    explain: "Смешанная схема: прошлое условие → последствие сейчас: ***habiterait***."

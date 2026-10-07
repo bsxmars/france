@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Имена: Léa, Paul, Anna, Hugo. Слова — из списка над упражнениями. Акценты обязательны, точку можно не ставить."
+hints:
+  - "Не забудь артикль перед существительным и глагол est / sont."
+  - "Прилагательное к существительному женского рода получает -e: petit → petite."
+items:
+  - q: "Лея говорит."
+    answers: ["Léa parle."]
+    explain: "Имя без артикля, подлежащее перед сказуемым: *Léa parle.*"
+  - q: "Стол маленький."
+    answers: ["La table est petite."]
+    explain: "*la table* (ж. р.) + связка **est** + *petite* в женском роде."
+  - q: "Кофе горячий."
+    answers: ["Le café est chaud."]
+    explain: "*le café* (м. р.) + **est** + *chaud*. Без *est* фраза неполная."
+  - q: "Поль идёт на вокзал."
+    answers: ["Paul va à la gare."]
+    explain: "«Идти куда» — *aller à*: *Paul va **à la** gare.*"
+  - q: "Анна ищет свою чашку."
+    answers: ["Anna cherche sa tasse."]
+    explain: "*sa* заменяет артикль: *sa tasse*, а не *la sa tasse*."
+  - q: "Сумки на столе."
+    answers: ["Les sacs sont sur la table."]
+    explain: "Мн. ч.: **les** sac**s** **sont**. *sur la table* — «на столе»."
+  - q: "Хьюго любит кофе."
+    answers: ["Hugo aime le café."]
+    explain: "После *aimer* — определённый артикль: *aime **le** café*."
+  - q: "Вот чашка."
+    answers: ["Voici une tasse.", "Voilà une tasse.", "Voici la tasse.", "Voilà la tasse."]
+    explain: "*voici* / *voilà* — «вот». Обычно предмет вводится неопределённым артиклем (**une** tasse — «какая-то чашка»); если речь о той самой, уже известной чашке — *la tasse*."
+  - q: "Школа большая."
+    answers: ["L'école est grande."]
+    explain: "*école* начинается с гласной → **l'**école; род женский → *grand**e***."
+  - q: "Друг Поля в Париже."
+    answers: ["L'ami de Paul est à Paris.", "Un ami de Paul est à Paris."]
+    explain: "*l'ami de Paul* — «друг Поля» (если «один из друзей» — *un ami de Paul*); «в Париже» — *à Paris* (перед городом артикля нет)."

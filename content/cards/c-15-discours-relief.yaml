@@ -1,0 +1,156 @@
+- id: c15-indirect-concordance
+  lesson: c-15-discours-relief/01-discours-indirect
+  q: "Косвенная речь после глагола в прошедшем: что становится с présent, passé composé, futur, futur antérieur?"
+  a: "présent → imparfait; passé composé → plus-que-parfait; futur → conditionnel présent; futur antérieur → conditionnel passé. Imparfait, plus-que-parfait, conditionnel не меняются."
+- id: c15-indirect-sans-changement
+  lesson: c-15-discours-relief/01-discours-indirect
+  q: "Когда в косвенной речи время не сдвигается?"
+  a: "Если вводящий глагол в présent или futur (*il dit que…*); после прошедшего — можно сохранить présent для общей истины или факта, верного и сейчас (*Elle m'a dit qu'elle **habite** à Lyon*)."
+- id: c15-indirect-marqueurs
+  lesson: c-15-discours-relief/01-discours-indirect
+  q: "hier, demain, aujourd'hui, la semaine prochaine, il y a deux jours, ici — в пересказе о прошлом?"
+  a: "*la veille, le lendemain, ce jour-là, la semaine suivante, deux jours plus tôt (auparavant), là*."
+- id: c15-indirect-imperatif-negation
+  lesson: c-15-discours-relief/01-discours-indirect
+  q: "« Ne m'attends plus ! » / « N'invite personne ! » → Il m'a dit…"
+  a: "*…**de ne plus** l'attendre* / *…**de n'inviter personne***: *ne pas, ne plus, ne rien* целиком перед инфинитивом, *personne* — после."
+- id: c15-indirect-pronominal
+  lesson: c-15-discours-relief/01-discours-indirect
+  q: "« Lève-toi ! » → Ma mère m'a dit…"
+  a: "*…de **me** lever*: возвратное местоимение согласуется с тем, кто выполняет действие."
+- id: c15-indirect-si
+  lesson: c-15-discours-relief/01-discours-indirect
+  q: "« Si tu viens, je serai content. » → Il a dit que…"
+  a: "*…si je **venais**, il **serait** content*: présent → imparfait, futur → conditionnel."
+- id: c15-indirect-que-repete
+  lesson: c-15-discours-relief/01-discours-indirect
+  q: "Elle a dit qu'elle était fatiguée et ___ elle rentrait."
+  a: "*et **qu'**elle rentrait*: *que* повторяется перед каждым придаточным."
+- id: c15-indirect-pretendre
+  lesson: c-15-discours-relief/01-discours-indirect
+  q: "prétendre / avouer / rétorquer — оттенки?"
+  a: "*prétendre* — утверждать то, чему говорящий не верит («якобы»); *avouer* — признать неприятное; *rétorquer* — резко возразить."
+- id: c15-indirect-verbes-de
+  lesson: c-15-discours-relief/01-discours-indirect
+  q: "Какие вводящие глаголы требуют de + инфинитив?"
+  a: "*ordonner, conseiller, interdire, suggérer, demander, dire, supplier, prier, promettre* **de** + инф. (*Il m'a supplié de rester*)."
+- id: c15-indirect-libre
+  lesson: c-15-discours-relief/01-discours-indirect
+  q: "Признаки discours indirect libre?"
+  a: "Нет вводящего глагола и *que*; времена и лица сдвинуты (imparfait, conditionnel, 3-е лицо), но сохранены вопросы, восклицания, разговорные слова: *Il ne viendrait pas. Encore !*"
+- id: c15-question-ce-qui-ce-que
+  lesson: c-15-discours-relief/02-question-indirecte
+  q: "Qu'est-ce qui… ? / Qu'est-ce que… ? в косвенном вопросе?"
+  a: "*Qu'est-ce qui* (подлежащее) → **ce qui**; *qu'est-ce que / que* (дополнение) → **ce que**: *Dis-moi ce qui se passe / ce que tu veux*."
+- id: c15-question-si
+  lesson: c-15-discours-relief/02-question-indirecte
+  q: "Общий вопрос в косвенной речи: Tu viens ? → Il demande…"
+  a: "*…**si** tu viens*; *si + il* → *s'il*, но *si elle, si on*. Никакого *est-ce que*."
+- id: c15-question-ordre
+  lesson: c-15-discours-relief/02-question-indirecte
+  q: "Où habite-t-il ? → Je me demande…"
+  a: "*…où **il habite***: местоимение-подлежащее не инвертируется, *est-ce que* не используется."
+- id: c15-question-inversion-nom
+  lesson: c-15-discours-relief/02-question-indirecte
+  q: "Когда возможна инверсия существительного в косвенном вопросе?"
+  a: "После *où, quand, comment, ce que, à qui*…, если у глагола нет дополнения: *Je ne sais pas où **habitent tes parents***. Не после *si, pourquoi* и *qui*-подлежащего."
+- id: c15-question-quoi
+  lesson: c-15-discours-relief/02-question-indirecte
+  q: "Когда в косвенном вопросе возможно quoi?"
+  a: "Только с предлогом (*de quoi, à quoi, avec quoi*) или перед инфинитивом (*je ne sais pas quoi dire*). ~~Dis-moi quoi tu fais~~ → *ce que tu fais*."
+- id: c15-question-infinitif
+  lesson: c-15-discours-relief/02-question-indirecte
+  q: "«Не знаю, что сказать / куда идти / к кому обратиться»."
+  a: "*Je ne sais pas **quoi dire** (que dire) / **où aller** / **à qui m'adresser***. С *si* инфинитив невозможен: *s'il faut…*"
+- id: c15-question-concordance
+  lesson: c-15-discours-relief/02-question-indirecte
+  q: "« Est-ce que tu viendras ? » → Elle m'a demandé…"
+  a: "*…si je **viendrais***: после прошедшего — будущее в прошедшем."
+- id: c15-question-se-passe
+  lesson: c-15-discours-relief/02-question-indirecte
+  q: "Ce qui se passe или ce qu'il se passe?"
+  a: "Обе формы нормативны: *ce qui se passe* (подлежащее *ce*) — классичнее; *ce qu'il se passe* — безличный оборот."
+- id: c15-question-lequel
+  lesson: c-15-discours-relief/02-question-indirecte
+  q: "Dis-moi ___ de ces robes tu préfères."
+  a: "*lesquelles* (или *laquelle*) — *lequel* согласуется с тем, из чего выбирают."
+- id: c15-relief-accord-verbe
+  lesson: c-15-discours-relief/03-cest-qui-que
+  q: "C'est moi qui ___ (payer). C'est nous qui ___ (se tromper)."
+  a: "*C'est moi qui **ai payé***; *c'est nous qui **nous sommes trompés***: глагол согласуется с выделенным словом."
+- id: c15-relief-toniques
+  lesson: c-15-discours-relief/03-cest-qui-que
+  q: "Je l'ai fait → выдели подлежащее. Il t'a vu → выдели «тебя»."
+  a: "*C'est **moi** qui l'ai fait*; *C'est **toi** qu'il a vu*: в рамке — ударные местоимения."
+- id: c15-relief-ce-sont
+  lesson: c-15-discours-relief/03-cest-qui-que
+  q: "Ce sont nous / c'est nous? Ce sont eux / c'est eux?"
+  a: "Только *c'est nous, c'est vous*; *ce sont* — перед 3-м л. мн. ч. (*ce sont eux*), в разговоре и *c'est eux*."
+- id: c15-relief-preposition
+  lesson: c-15-discours-relief/03-cest-qui-que
+  q: "Выдели «à Julie»: J'ai écrit à Julie."
+  a: "*C'est **à Julie que** j'ai écrit*. ~~C'est Julie à qui~~, ~~c'est à Julie à qui~~."
+- id: c15-relief-dont
+  lesson: c-15-discours-relief/03-cest-qui-que
+  q: "C'est de ce film ___ tout le monde parle."
+  a: "*que* (предлог уже в рамке). *C'est de ce film dont…* — разговорная ошибка; допустимо *C'est ce film dont…*"
+- id: c15-relief-accord-pp
+  lesson: c-15-discours-relief/03-cest-qui-que
+  q: "Ce sont ces photos que j'ai ___ (prendre)."
+  a: "*prises*: выделенное COD стоит перед *avoir* → согласование."
+- id: c15-relief-negation
+  lesson: c-15-discours-relief/03-cest-qui-que
+  q: "Как выделить с отрицанием и вопросом?"
+  a: "Отрицание и вопрос — на *c'est*: ***Ce n'est pas** Marc qui a appelé*; ***Est-ce** toi qui as appelé ?*"
+- id: c15-relief-circonstanciel
+  lesson: c-15-discours-relief/03-cest-qui-que
+  q: "«Именно здесь мы познакомились»; «Только в понедельник он понял»."
+  a: "*C'est ici que nous nous sommes rencontrés*; *Ce n'est que lundi qu'il a compris*. Обстоятельство → *que*, не ~~où~~."
+- id: c15-relief-temps-etre
+  lesson: c-15-discours-relief/03-cest-qui-que
+  q: "Может ли c'est в рамке стоять в прошедшем?"
+  a: "Да: *C'était mon grand-père qui tenait la boutique*, книжное *Ce fut Napoléon qui…* Но *c'est* + прошедшее тоже нормально."
+- id: c15-relief-proverbe
+  lesson: c-15-discours-relief/03-cest-qui-que
+  q: "Как выделить герундий: On apprend en pratiquant."
+  a: "*C'est **en pratiquant** qu'on apprend* (ср. *C'est en forgeant qu'on devient forgeron*)."
+- id: c15-pseudo-ce-qui-que
+  lesson: c-15-discours-relief/04-dislocation-presentatifs
+  q: "Son arrogance m'agace / Je veux du calme → выдели в конце."
+  a: "*Ce qui m'agace, c'est son arrogance*; *Ce que je veux, c'est du calme*."
+- id: c15-pseudo-dont-a-quoi
+  lesson: c-15-discours-relief/04-dislocation-presentatifs
+  q: "J'ai besoin de temps / Je pense à l'avenir → ce… c'est"
+  a: "*Ce **dont** j'ai besoin, c'est **de** temps*; *Ce **à quoi** je pense, c'est **à** l'avenir* — предлог повторяется."
+- id: c15-pseudo-ce-sont
+  lesson: c-15-discours-relief/04-dislocation-presentatifs
+  q: "Ce qui me manque, c'est / ce sont mes amis?"
+  a: "Письменная норма — *ce sont mes amis*; разговорно — *c'est mes amis*."
+- id: c15-dislocation-reprise
+  lesson: c-15-discours-relief/04-dislocation-presentatifs
+  q: "Ce livre, j'ai lu. — что не так?"
+  a: "Нет местоимения-повтора: *Ce livre, je **l'**ai lu*. Partitif → *en* (*Le café, j'en bois*), место с *à* → *y*, человек с *à* → *lui / leur*."
+- id: c15-dislocation-moi-je
+  lesson: c-15-discours-relief/04-dislocation-presentatifs
+  q: "Вынесение подлежащего-местоимения?"
+  a: "*Moi, je…; toi, tu…; lui, il…; eux, ils…* — ударное + обычное местоимение (разговорный регистр)."
+- id: c15-quant-a
+  lesson: c-15-discours-relief/04-dislocation-presentatifs
+  q: "Нейтрально-письменный способ ввести тему вместо вынесения?"
+  a: "*Quant à* + ударное местоимение / существительное: *Quant à eux, ils n'ont rien dit*."
+- id: c15-cest-que-explicatif
+  lesson: c-15-discours-relief/04-dislocation-presentatifs
+  q: "S'il ne répond pas, c'est qu'il dort. / Ce n'est pas que je refuse…"
+  a: "*c'est que* — «значит» (indicatif); *ce n'est pas que* — «не то чтобы» + subjonctif (*ce n'est pas que je **sois** contre*)."
+- id: c15-voila-il-y-a
+  lesson: c-15-discours-relief/04-dislocation-presentatifs
+  q: "Présentatifs voilà… qui / que, il y a… qui — регистр?"
+  a: "*Voilà ce que je voulais dire* — нейтрально (итог); *Il y a ton père qui a appelé* — разговорное введение нового подлежащего."
+- id: c15-ne-que
+  lesson: c-15-discours-relief/04-dislocation-presentatifs
+  q: "ne… que / ne… pas que?"
+  a: "*Je n'ai lu que le début* — «только»; *Il n'y a pas que l'argent* — «не только»."
+- id: c15-inversion-litteraire
+  lesson: c-15-discours-relief/04-dislocation-presentatifs
+  q: "Aussi a-t-il refusé. Rares sont ceux qui… — что это?"
+  a: "Книжное выделение с инверсией: *aussi* в начале = «поэтому» + инверсия; прилагательное в начале фразы (*Rares sont…, Grande fut sa surprise*)."

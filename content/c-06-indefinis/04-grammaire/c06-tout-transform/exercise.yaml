@@ -1,0 +1,68 @@
+title: "Перефразируй с tout"
+type: transform
+intro: "Перефразируй предложение с ключевым словом так, чтобы смысл сохранился. Впиши только недостающую часть."
+hints:
+  - "complètement / très + прил. → tout / toute(s) + прил."
+  - "chaque + сущ. (общее правило) → tout + сущ. без артикля; un … entier → tout un."
+  - "même si + indicatif → tout + прил. + que + indicatif."
+items:
+  - q: "Elle était complètement seule dans la maison."
+    key: "tout"
+    stem: "Elle était ___ dans la maison."
+    answers: ["toute seule"]
+    explain: "*Seule* — ж. р. на согласную → наречие согласуется: **toute seule**."
+  - q: "Les fillettes étaient très étonnées."
+    key: "tout"
+    stem: "Les fillettes étaient ___."
+    answers: ["tout étonnées"]
+    explain: "Перед гласной наречие неизменяемо: **tout étonnées**."
+  - q: "Chaque citoyen a le droit de voter."
+    key: "tout"
+    stem: "___ a le droit de voter."
+    answers: ["Tout citoyen"]
+    explain: "*Tout* + существительное без артикля = «всякий»: **Tout citoyen**."
+  - q: "Il a lu le roman entier en une nuit."
+    key: "tout"
+    stem: "Il a lu ___ en une nuit."
+    answers: ["tout le roman"]
+    explain: "«Весь роман» → **tout le roman**."
+  - q: "J'ai attendu pendant une heure entière."
+    key: "tout"
+    stem: "J'ai attendu ___."
+    answers: ["toute une heure", "pendant toute une heure"]
+    explain: "«Целый час» → *tout un / toute une*: *heure* — ж. р. → **toute une heure**."
+  - q: "Même s'il est intelligent, il a échoué à l'examen."
+    key: "tout … que"
+    stem: "___ il est, il a échoué à l'examen."
+    answers: ["Tout intelligent qu'"]
+    explain: "Уступка: *tout* + прил. + *que* + indicatif: **Tout intelligent qu'**il est."
+  - q: "Même si elle est petite, elle porte des cartons très lourds."
+    key: "tout … que"
+    stem: "___ elle est, elle porte des cartons très lourds."
+    answers: ["Toute petite qu'"]
+    explain: "*Petite* — ж. р. на согласную → **Toute petite qu'**elle est."
+  - q: "J'ai vérifié chaque chose."
+    key: "tout"
+    stem: "J'ai ___."
+    answers: ["tout vérifié"]
+    explain: "*Tout*-дополнение — между вспомогательным и причастием: **J'ai tout vérifié**."
+  - q: "Nous devons refaire l'ensemble du travail."
+    key: "tout"
+    stem: "Nous devons ___."
+    answers: ["tout refaire"]
+    explain: "При инфинитиве *tout* стоит перед ним: **tout refaire**."
+  - q: "Je ne suis absolument pas d'accord."
+    key: "du tout"
+    stem: "Je ne suis ___ d'accord."
+    answers: ["pas du tout"]
+    explain: "«Совсем не» → **pas du tout**."
+  - q: "Il passe nous voir un jour sur deux."
+    key: "tous"
+    stem: "Il passe nous voir ___."
+    answers: ["tous les deux jours"]
+    explain: "Периодичность «через день» → **tous les deux jours**."
+  - q: "Ces deux maisons sont complètement neuves."
+    key: "tout"
+    stem: "Ces deux maisons sont ___."
+    answers: ["toutes neuves"]
+    explain: "*Neuves* — ж. р. на согласную → **toutes neuves**."

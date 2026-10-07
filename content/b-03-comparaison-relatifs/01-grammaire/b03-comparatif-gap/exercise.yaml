@@ -1,0 +1,43 @@
+title: "Plus, aussi, autant, moins"
+type: gap
+intro: "Вставь слово (или слова) сравнения. В скобках: (+) больше, (=) столько же, (−) меньше; иногда дано слово, от которого нужно образовать форму. *Que* уже стоит в предложении."
+hints:
+  - "Прилагательное и наречие: plus / aussi / moins. Существительное: plus de / autant de / moins de. Глагол: plus / autant / moins после глагола."
+  - "bon → meilleur, bien → mieux."
+items:
+  - q: "Cette romancière publie ___ livres que son mari : un par an contre un tous les trois ans. (+)"
+    answers: ["plus de", "davantage de"]
+    explain: "Сравниваем количество (*livres*) → **plus de** + существительное без артикля; в книжном стиле — *davantage de*."
+  - q: "Le festival de cette année est ___ réussi que celui de l'an dernier. (=)"
+    answers: ["aussi"]
+    explain: "*Réussi* — прилагательное → равенство **aussi … que**."
+  - q: "Les adolescents lisent ___ qu'avant, mais ils lisent autrement. (−)"
+    answers: ["moins"]
+    explain: "Сравниваем действие (*lisent*) → **moins** после глагола, без *de*."
+  - q: "Mon fils regarde ___ séries que de films. (=)"
+    answers: ["autant de"]
+    explain: "Существительное (*séries*) + равенство → **autant de**, без артикля."
+  - q: "Ce film est ___ que le roman dont il est tiré. (bon, +)"
+    answers: ["meilleur"]
+    explain: "Прилагательное *bon* в сравнительной степени — **meilleur**; *plus bon* не говорят."
+  - q: "Avec ce nouveau traducteur, le texte se lit ___ qu'avant. (bien, +)"
+    answers: ["mieux"]
+    explain: "*Se lit* как? — наречие *bien* → **mieux**."
+  - q: "En province, les librairies ferment ___ souvent qu'à Paris. (+)"
+    answers: ["plus"]
+    explain: "*Souvent* — наречие → **plus** souvent que."
+  - q: "J'ai lu ce roman ___ vite que le précédent : il est passionnant. (+)"
+    answers: ["plus"]
+    explain: "Наречие *vite* → **plus** vite que."
+  - q: "Ce prix littéraire a ___ prestige que le Goncourt, mais il fait vendre. (−)"
+    answers: ["moins de"]
+    explain: "*Prestige* — существительное → **moins de** prestige."
+  - q: "Elle a ___ voyagé que moi : nous avons visité exactement les mêmes pays. (=)"
+    answers: ["autant"]
+    explain: "С глаголом равенство — **autant**; в passé composé оно стоит между *a* и причастием."
+  - q: "Ce chanteur est ___ célèbre en France qu'au Québec : là-bas, personne ne le connaît. (−)"
+    answers: ["moins", "bien moins", "beaucoup moins"]
+    explain: "Прилагательное *célèbre* → **moins** célèbre que; усиление *bien / beaucoup moins* тоже верно."
+  - q: "La crise est ___ que nous ne le pensions : les ventes ont baissé de moitié. (mauvais, +)"
+    answers: ["pire", "plus mauvaise"]
+    explain: "Абстрактное «хуже» о ситуации — обычно **pire**; *plus mauvaise* грамматически тоже правильно (согласование с *la crise*). *Ne* после *que* — книжное «expletive», его можно и опустить."

@@ -1,0 +1,63 @@
+title: "Перестрой фразу с союзом"
+type: transform
+intro: "Перепиши фразу, используя ключевое слово (союз). Подумай о наклонении и о ne explétif. Если подлежащие совпадают, союз с que невозможен — тогда используй предлог с инфинитивом, как подсказывает ключ. Впиши недостающую часть целиком."
+hints:
+  - "Если не… → à moins que… (ne) + subjonctif, без отрицания."
+  - "Чтобы не… / опасаясь, что… → de peur que… ne + subjonctif."
+  - "Одно подлежащее → avant de, pour, afin de, de peur de + infinitif."
+items:
+  - q: "Nous irons à la plage, sauf s'il fait trop froid."
+    key: "à moins que"
+    stem: "Nous irons à la plage, ___ trop froid."
+    answers: ["à moins qu'il ne fasse", "à moins qu'il fasse"]
+    explain: "*Sauf si* + indicatif = *à moins que* + subjonctif: *à moins qu'il (**ne**) **fasse***. *Ne* explétif — признак soutenu."
+  - q: "Il ferme la fenêtre : il a peur que les papiers s'envolent."
+    key: "de peur que"
+    stem: "Il ferme la fenêtre ___."
+    answers: ["de peur que les papiers ne s'envolent", "de peur que les papiers s'envolent"]
+    explain: "*De peur que* + subjonctif (+ *ne* explétif): ***ne s'envolent***."
+  - q: "Je relis ma lettre, puis je l'envoie."
+    key: "avant de"
+    stem: "Je relis ma lettre ___."
+    answers: ["avant de l'envoyer"]
+    explain: "Подлежащее одно (*je*) → *avant de* + infinitif: ***avant de l'envoyer***."
+  - q: "Elle est partie. Personne ne lui a dit au revoir."
+    key: "sans que"
+    stem: "Elle est partie ___ au revoir."
+    answers: ["sans que personne lui dise", "sans que personne lui ait dit", "sans que personne ne lui dise", "sans que personne ne lui ait dit"]
+    explain: "*Sans que* + subjonctif: *sans que personne lui **dise** / **ait dit***. *Ne* после *sans que* — книжный ne explétif, его лучше опускать."
+  - q: "Je te prête ma voiture, mais tu dois me la rendre avant dimanche."
+    key: "à condition que"
+    stem: "Je te prête ma voiture ___ avant dimanche."
+    answers: ["à condition que tu me la rendes"]
+    explain: "Условие → *à condition que* + subjonctif: ***tu me la rendes***."
+  - q: "Attendez ici. Le directeur va vous recevoir."
+    key: "jusqu'à ce que"
+    stem: "Attendez ici ___."
+    answers: ["jusqu'à ce que le directeur vous reçoive"]
+    explain: "*Jusqu'à ce que* + subjonctif: ***vous reçoive*** (основа *reçoiv-* в 3-м л.)."
+  - q: "Ce n'est pas parce qu'il est malade qu'il ne vient pas : il est simplement occupé."
+    key: "non que"
+    stem: "Il ne vient pas, ___ : il est simplement occupé."
+    answers: ["non qu'il soit malade", "non pas qu'il soit malade"]
+    explain: "Отвергаемая причина → *non que* + subjonctif: ***non qu'il soit malade***."
+  - q: "Le bruit était tellement fort que nous ne pouvions pas dormir."
+    key: "trop"
+    stem: "Le bruit était ___ dormir."
+    answers: ["trop fort pour que nous puissions", "trop fort pour que nous pussions", "trop fort pour pouvoir"]
+    explain: "*Trop… pour que* + subjonctif: ***pour que nous puissions*** (в soutenu — *pussions*). Так как подлежащее главного — *le bruit*, а не *nous*, вариант с инфинитивом формально неточен, но в речи встречается."
+  - q: "Je vous envoie le plan. Ainsi, vous ne vous perdrez pas."
+    key: "afin que"
+    stem: "Je vous envoie le plan ___."
+    answers: ["afin que vous ne vous perdiez pas"]
+    explain: "Цель → *afin que* + subjonctif: ***vous ne vous perdiez pas*** (здесь настоящее отрицание)."
+  - q: "Il travaille le soir : ainsi, il peut payer ses études."
+    key: "pour"
+    stem: "Il travaille le soir ___ ses études."
+    answers: ["pour pouvoir payer", "pour payer"]
+    explain: "Подлежащее одно (*il*) → *pour* + infinitif: ***pour (pouvoir) payer*** — не ~~pour qu'il puisse~~."
+  - q: "Supposons que le train soit en retard : que ferons-nous ?"
+    key: "à supposer que"
+    stem: "___ en retard, que ferons-nous ?"
+    answers: ["À supposer que le train soit"]
+    explain: "*À supposer que* (гипотеза) + subjonctif: ***À supposer que le train soit***."

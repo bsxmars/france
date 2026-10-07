@@ -1,0 +1,44 @@
+title: "Найди ошибку: y, en, lui, à lui"
+type: error
+intro: "В каждом предложении **одна** ошибка в местоимении или его месте. Исправь её и отправь предложение целиком."
+hints:
+  - "penser à, s'intéresser à, tenir à + человек → à lui / à elle / à eux."
+  - "parler à, répondre à, plaire à + человек → lui / leur."
+  - "Причастие не согласуется с en."
+items:
+  - q: "Ce réalisateur ? Je lui pense souvent."
+    answers: ["Ce réalisateur ? Je pense souvent à lui."]
+    explain: "*Penser à* сохраняет предлог для людей → **à lui** после глагола."
+  - q: "Ce concours ? J'en ai participé l'an dernier."
+    answers: ["Ce concours ? J'y ai participé l'an dernier."]
+    explain: "*Participer **à*** → **y**, а не *en*."
+  - q: "Son premier roman ? Il y est très fier."
+    answers: ["Son premier roman ? Il en est très fier."]
+    explain: "*Être fier **de*** → **en**."
+  - q: "Les spectateurs ? Le film y a beaucoup plu."
+    answers: ["Les spectateurs ? Le film leur a beaucoup plu."]
+    explain: "*Plaire **à** qn* — косвенное дополнение-человек → **leur**."
+  - q: "Des photos de ce tournage ? J'en ai prises des centaines."
+    answers: ["Des photos de ce tournage ? J'en ai pris des centaines."]
+    explain: "С **en** причастие не согласуется: *j'en ai **pris***."
+  - q: "Ta proposition ? Je vais en y réfléchir."
+    answers: ["Ta proposition ? Je vais y réfléchir."]
+    explain: "*Réfléchir **à*** → только **y**; два местоимения на одно дополнение не ставят."
+  - q: "Ce secret, n'parles-en à personne !"
+    answers: ["Ce secret, n'en parle à personne !"]
+    explain: "Отрицательное повелительное: местоимение **перед** глаголом, без дефиса и без *-s*: *n'en parle*."
+  - q: "Ton dossier ? Pense-y avant demain !"
+    answers: ["Ton dossier ? Penses-y avant demain !"]
+    explain: "Перед *y* и *en* в утвердительном повелительном глаголы на *-er* возвращают *-s*: **penses-y**."
+  - q: "Ma grand-mère ? Je m'occupe d'elle et je lui pense chaque jour."
+    answers: ["Ma grand-mère ? Je m'occupe d'elle et je pense à elle chaque jour."]
+    explain: "*Penser à* + человек → **à elle**; *je m'occupe d'elle* — верно (*de* + ударное для людей)."
+  - q: "Le vieux cinéma du quartier ? Les habitants lui tiennent beaucoup."
+    answers: ["Le vieux cinéma du quartier ? Les habitants y tiennent beaucoup."]
+    explain: "*Tenir **à*** + предмет (кинотеатр) → **y**; *lui* — для людей и для глаголов вроде *parler à*."
+  - q: "Le nouveau directeur ? Je ne m'y habitue pas encore."
+    answers: ["Le nouveau directeur ? Je ne m'habitue pas encore à lui."]
+    explain: "*S'habituer à* + **человек** → **à lui**; *y* — для предметов и ситуаций."
+  - q: "Mes notes ? J'y ai besoin pour l'examen."
+    answers: ["Mes notes ? J'en ai besoin pour l'examen."]
+    explain: "*Avoir besoin **de*** → **en**."

@@ -1,0 +1,55 @@
+title: "Какая связка?"
+type: choice
+intro: "Выбери вариант, который правильно передаёт слова в косвенной речи."
+hints:
+  - "si — для вопроса «да / нет», ce que — для «что» (дополнение), ce qui — для «что» (подлежащее)."
+  - "В косвенном вопросе нет ни est-ce que, ни инверсии с местоимением."
+items:
+  - q: "« Est-ce que la salle est réservée ? » → Il demande ___ la salle est réservée."
+    options: ["est-ce que", "si", "que"]
+    answer: 1
+    explain: "Общий вопрос (ответ «да / нет») → **si**. *Est-ce que* в косвенной речи не сохраняется."
+  - q: "« Que voulez-vous faire plus tard ? » → La conseillère me demande ___ je veux faire plus tard."
+    options: ["que", "ce que", "qu'est-ce que"]
+    answer: 1
+    explain: "*Que* / *qu'est-ce que* (дополнение) → **ce que**."
+  - q: "« Qu'est-ce qui se passe au service comptable ? » → Tout le monde se demande ___ se passe au service comptable."
+    options: ["ce qui", "ce que", "qu'est-ce qui"]
+    answer: 0
+    explain: "*Qu'est-ce qui* — подлежащее при *se passe* → **ce qui**."
+  - q: "« Il accepte le poste ? » → Je ne sais pas ___ le poste."
+    options: ["s'il accepte", "si il accepte", "s'accepte-t-il"]
+    answer: 0
+    explain: "*Si* + *il* → обязательное сокращение **s'il**; порядок слов прямой."
+  - q: "« Où se trouve le bureau de M. Durand ? » → Un visiteur demande ___."
+    options: ["où se trouve-t-il le bureau de M. Durand", "où est-ce que se trouve le bureau de M. Durand", "où se trouve le bureau de M. Durand"]
+    answer: 2
+    explain: "*Où* сохраняется; с существительным-подлежащим возможна стилистическая инверсия **où se trouve le bureau…** (или *où le bureau de M. Durand se trouve*). Ни *-t-il*, ни *est-ce que* нельзя."
+  - q: "« Ne parlez pas de ce projet aux clients. » → Le directeur nous interdit ___ de ce projet aux clients."
+    options: ["de parler", "de ne pas parler", "que nous ne parlions pas"]
+    answer: 0
+    explain: "*Interdire de* уже содержит запрет: **interdire de parler**. *De ne pas parler* после *interdire* дало бы двойное отрицание; ср. *il nous demande de ne pas parler*."
+  - q: "« Qui est-ce que tu as invité à la réunion ? » → Elle me demande ___ à la réunion."
+    options: ["qui est-ce que j'ai invité", "qui j'ai invité", "ce que j'ai invité"]
+    answer: 1
+    explain: "Вопрос о человеке → просто **qui**; *est-ce que* исчезает."
+  - q: "« À quoi sert ce bouton ? » → Le nouveau stagiaire demande ___."
+    options: ["à quoi sert ce bouton", "à ce que sert ce bouton", "ce qui sert ce bouton"]
+    answer: 0
+    explain: "*Quoi* после предлога сохраняется: **à quoi sert ce bouton** (или *à quoi ce bouton sert*)."
+  - q: "« Rappelez-moi demain matin. » → La cliente me demande ___ demain matin."
+    options: ["de la rappeler", "de me rappeler", "que je la rappelle"]
+    answer: 0
+    explain: "Приказ → *de* + инфинитив; *moi* (клиентка) пересчитывается в *la*: **de la rappeler**."
+  - q: "« Combien de temps dure la formation ? » → Je voudrais savoir ___ la formation."
+    options: ["combien de temps dure", "combien de temps dure-t-elle", "si combien de temps dure"]
+    answer: 0
+    explain: "**combien de temps** сохраняется, инверсия с существительным возможна: *combien de temps dure la formation* (или *combien de temps la formation dure*). *-t-elle* недопустимо."
+  - q: "« Vous êtes satisfait de votre salaire ? » → Le sondage nous demande ___ satisfaits de notre salaire."
+    options: ["si nous sommes", "si sommes-nous", "que nous sommes"]
+    answer: 0
+    explain: "Общий вопрос → **si** + прямой порядок: *si nous sommes satisfaits*."
+  - q: "Он признаёт, что ошибся. → Il ___ qu'il s'est trompé."
+    options: ["avoue", "demande", "propose"]
+    answer: 0
+    explain: "Признание → **avouer** (*reconnaître*). *Demander* вводит вопрос или просьбу, *proposer* — предложение (*proposer de* + инф.)."

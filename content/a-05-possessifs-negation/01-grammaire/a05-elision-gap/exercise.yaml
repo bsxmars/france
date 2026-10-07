@@ -1,0 +1,40 @@
+title: "Элизия и артикль"
+type: gap
+intro: "Вставь нужную форму: артикль le, la, les или l'; je или j'; ce или c'; de или d'. Учитывай элизию."
+hints:
+  - "Перед гласной и немым h: le, la → l'; je → j'; ce → c'; de → d'."
+  - "Перед согласной элизии нет."
+items:
+  - q: "___ élève lit le texte."
+    answers: ["L'"]
+    explain: "*élève* начинается с гласной → **l'**. Род по артиклю теперь не виден."
+  - q: "___ aime les fleurs. — Я люблю цветы."
+    answers: ["J'"]
+    explain: "*je* перед гласной → **j'aime**."
+  - q: "___ lis le livre de Léa. — Я читаю книгу Леи."
+    answers: ["Je"]
+    explain: "*lis* начинается с согласной → элизии нет: **je** lis."
+  - q: "Le père ___ Anna est médecin."
+    answers: ["d'"]
+    explain: "*de* перед гласной → **d'Anna**."
+  - q: "Le père ___ Paul est médecin."
+    answers: ["de"]
+    explain: "Перед согласной — полная форма **de**."
+  - q: "___ exercice est difficile."
+    answers: ["L'"]
+    explain: "*exercice* на гласную → **l'exercice** (м. р., но по артиклю этого не видно)."
+  - q: "___ est ma sœur. — Это моя сестра."
+    answers: ["C'"]
+    explain: "*ce* + *est* → **c'est**."
+  - q: "J'aime ___ fleurs. — Я люблю цветы."
+    answers: ["les"]
+    explain: "Мн. ч. → **les**; после *aimer* — определённый артикль. Элизии во мн. ч. нет: перед гласной будет связывание (*les amis*)."
+  - q: "Paul regarde ___ image. — Поль смотрит на картинку."
+    answers: ["l'"]
+    explain: "*image* на гласную → **l'image**. Глагол *regarder* — без предлога."
+  - q: "___ écris à ma mère. — Я пишу своей матери."
+    answers: ["J'"]
+    explain: "*écris* на гласную → **j'écris**."
+  - q: "Je lis ___ page six."
+    answers: ["la"]
+    explain: "*page* — ж. р. на согласную → **la**."

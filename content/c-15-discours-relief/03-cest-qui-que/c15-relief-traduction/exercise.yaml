@@ -1,0 +1,43 @@
+title: "Переведи с выделением"
+type: gap
+intro: "Переведи фразу, передав логическое ударение («именно», «это… », порядок слов) рамкой c'est… qui / que. Пунктуация не важна, акценты — важны."
+hints:
+  - "«Это я…» → c'est moi qui + глагол в 1-м лице."
+  - "«Именно здесь / тогда / поэтому» → c'est ici que / c'est alors que / c'est pour ça que."
+items:
+  - q: "Это я вчера тебе звонил."
+    answers: ["C'est moi qui t'ai appelé hier.", "C'est moi qui t'ai appelée hier.", "C'est moi qui t'ai téléphoné hier.", "C'est moi qui t'ai appelé hier soir.", "C'est moi qui t'ai appelée hier soir."]
+    explain: "Подлежащее *je* → **moi**, глагол согласуется с *moi*: *qui t'**ai** appelé(e)*."
+  - q: "Последними пришли мы."
+    answers: ["C'est nous qui sommes arrivés les derniers.", "C'est nous qui sommes arrivées les dernières.", "C'est nous qui sommes arrivés en dernier.", "C'est nous qui sommes arrivées en dernier.", "C'est nous qui sommes venus les derniers.", "C'est nous qui sommes venues les dernières."]
+    explain: "Русское ударение в конце фразы («…мы») → **c'est nous qui**; глагол в 1-м лице мн. ч."
+  - q: "Именно здесь мы познакомились."
+    answers: ["C'est ici que nous nous sommes rencontrés.", "C'est ici qu'on s'est rencontrés.", "C'est ici que nous nous sommes connus.", "C'est ici qu'on s'est connus.", "C'est ici que nous nous sommes rencontrées.", "C'est ici qu'on s'est rencontrées.", "C'est là que nous nous sommes rencontrés.", "C'est là qu'on s'est rencontrés."]
+    explain: "Обстоятельство места → **c'est ici que**; «именно» отдельным словом не переводится."
+  - q: "Я жду не тебя, а твою сестру."
+    answers: ["Ce n'est pas toi que j'attends, c'est ta sœur.", "Ce n'est pas toi que j'attends, mais ta sœur.", "Ce n'est pas toi que j'attends mais ta sœur."]
+    explain: "Отрицание — на рамке: **Ce n'est pas toi que** j'attends, c'est ta sœur. *Te* → *toi*."
+  - q: "Только в понедельник он смог сдать статью."
+    answers: ["Ce n'est que lundi qu'il a pu rendre son article.", "Ce n'est que lundi qu'il a pu remettre son article.", "Ce n'est que lundi qu'il a pu rendre l'article.", "Ce n'est que lundi qu'il a pu remettre l'article.", "Ce n'est que lundi qu'il a pu présenter son article."]
+    explain: "«Только тогда» → **ce n'est que… que**: выделение + ограничение."
+  - q: "Это им я хочу задать этот вопрос."
+    answers: ["C'est à eux que je veux poser cette question.", "C'est à elles que je veux poser cette question.", "C'est à eux que je voudrais poser cette question.", "C'est à elles que je voudrais poser cette question."]
+    explain: "*Leur* → **à eux / à elles** внутри рамки, связка *que*."
+  - q: "Это вы забыли зонт?"
+    answers: ["C'est vous qui avez oublié votre parapluie ?", "Est-ce vous qui avez oublié votre parapluie ?", "C'est vous qui avez oublié le parapluie ?", "Est-ce vous qui avez oublié le parapluie ?", "C'est vous qui avez oublié ce parapluie ?", "Est-ce que c'est vous qui avez oublié votre parapluie ?", "Est-ce que c'est vous qui avez oublié le parapluie ?"]
+    explain: "Вопрос с рамкой: *C'est vous qui **avez**…?* / *Est-ce vous qui…?* — глагол во 2-м лице мн. ч."
+  - q: "Не деньги нам нужны, а время."
+    answers: ["Ce n'est pas l'argent qui nous manque, c'est le temps.", "Ce n'est pas d'argent que nous avons besoin, c'est de temps.", "Ce n'est pas d'argent qu'on a besoin, c'est de temps.", "Ce n'est pas l'argent qu'il nous faut, c'est le temps.", "Ce n'est pas d'argent que nous avons besoin mais de temps."]
+    explain: "Схема **ce n'est pas… qui / que…, c'est…**; с *avoir besoin de* предлог входит в рамку: *ce n'est pas **d'argent que**…*"
+  - q: "Именно поэтому я отказался."
+    answers: ["C'est pour ça que j'ai refusé.", "C'est pour cela que j'ai refusé.", "C'est pour cette raison que j'ai refusé.", "C'est pourquoi j'ai refusé."]
+    explain: "**C'est pour ça / pour cela / pour cette raison que**; устойчивое *c'est pourquoi* — тоже выделение причины."
+  - q: "Этими вопросами занимаюсь не я."
+    answers: ["Ce n'est pas moi qui m'occupe de ces questions.", "Ce n'est pas moi qui m'occupe de ces problèmes.", "Ce n'est pas moi qui traite ces questions."]
+    explain: "*Ce n'est pas moi qui **m'occupe*** — глагол и возвратное местоимение в 1-м лице."
+  - q: "Первыми ей помогли соседи."
+    answers: ["Ce sont les voisins qui l'ont aidée les premiers.", "C'est les voisins qui l'ont aidée les premiers.", "Ce sont les voisins qui l'ont aidée en premier.", "C'est les voisins qui l'ont aidée en premier.", "Ce sont les voisins qui l'ont aidée d'abord."]
+    explain: "3-е лицо мн. ч. → **ce sont** (разг. *c'est*); *l'* = *la* (ей = её, *aider qn*) → *aidée*."
+  - q: "Именно с ним мы и обсудим этот вопрос."
+    answers: ["C'est avec lui que nous discuterons de cette question.", "C'est avec lui que nous allons discuter de cette question.", "C'est avec lui qu'on discutera de cette question.", "C'est avec lui qu'on va discuter de cette question.", "C'est avec lui que nous discuterons de ce problème.", "C'est avec lui que nous discuterons cette question.", "C'est avec lui que nous allons discuter cette question."]
+    explain: "Предлог *avec* в рамке: **c'est avec lui que**."

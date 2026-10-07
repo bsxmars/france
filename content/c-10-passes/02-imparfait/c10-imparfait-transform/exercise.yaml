@@ -1,0 +1,68 @@
+title: "Предложи, смягчи, «чуть не…»"
+type: transform
+intro: "Перефразируй, используя **ключевое слово** и особый imparfait: предложение с si, вежливость, imparfait de narration или несостоявшееся следствие."
+hints:
+  - "Предложение: (Et) si on / si tu / si vous + imparfait ?"
+  - "Вежливость: je voulais, je venais, j'avais besoin de…"
+  - "«Ещё секунда — и…», «без…» + imparfait = conditionnel passé."
+items:
+  - q: "Je propose d'aller à la plage cet après-midi."
+    key: "SI"
+    stem: "___ à la plage cet après-midi ?"
+    answers: ["Si on allait", "Si nous allions", "Et si on allait", "Et si nous allions"]
+    explain: "Предложение → самостоятельный вопрос с ***si** + imparfait*: *Si on **allait**…?*"
+  - q: "À mon avis, tu devrais appeler ta sœur."
+    key: "SI"
+    stem: "___ ta sœur ?"
+    answers: ["Si tu appelais", "Et si tu appelais"]
+    explain: "Совет в форме вопроса: ***Et si tu appelais** ta sœur ?* — мягче, чем *tu devrais*."
+  - q: "Je veux vous demander un conseil."
+    key: "VOULAIS"
+    stem: "Je ___ un conseil."
+    answers: ["voulais vous demander"]
+    explain: "Imparfait d'atténuation: ***je voulais** vous demander* звучит вежливее прямого *je veux*."
+  - q: "J'ai besoin de vous parler une minute."
+    key: "AVAIS"
+    stem: "J'___ parler une minute."
+    answers: ["avais besoin de vous"]
+    explain: "Смягчение: *j'**avais** besoin de vous parler* — просьба отодвинута в прошлое и звучит деликатнее."
+  - q: "Je regrette de ne pas avoir de jardin."
+    key: "SEULEMENT"
+    stem: "___ un jardin !"
+    answers: ["Si seulement j'avais"]
+    explain: "Сожаление о настоящем: ***Si seulement** j'**avais**…!*"
+  - q: "Le train partait déjà ; une seconde de plus, et nous l'aurions manqué."
+    key: "MANQUIONS"
+    stem: "Une seconde de plus, et nous ___."
+    answers: ["le manquions"]
+    explain: "Imparfait hypothétique заменяет conditionnel passé: *nous le **manquions*** = *nous l'aurions manqué*. Местоимение *le* — перед глаголом."
+  - q: "Si tu ne m'avais pas aidé, j'aurais abandonné."
+    key: "SANS"
+    stem: "___, j'abandonnais."
+    answers: ["Sans ton aide", "Sans toi"]
+    explain: "Условие выражено через ***sans*** + существительное / местоимение, следствие — imparfait hypothétique *j'abandonnais*."
+  - q: "J'ai failli oublier ton anniversaire, heureusement Marc me l'a rappelé."
+    key: "SANS"
+    stem: "___, j'oubliais ton anniversaire."
+    answers: ["Sans Marc"]
+    explain: "*Faillir* («чуть не») → *sans* + imparfait hypothétique: ***Sans Marc**, j'oubliais…*"
+  - q: "Le 21 juillet 1969, Neil Armstrong posa le pied sur la Lune."
+    key: "POSAIT"
+    stem: "Le 21 juillet 1969, Neil Armstrong ___ sur la Lune."
+    answers: ["posait le pied"]
+    explain: "Imparfait de narration: однократное событие с датой, журналистский стиль. Смысл не меняется — «ступил»."
+  - q: "Baissez un peu la musique, s'il vous plaît, les voisins dorment."
+    key: "SI"
+    stem: "___ un peu la musique ? Les voisins dorment."
+    answers: ["Si vous baissiez", "Et si vous baissiez", "Si on baissait", "Et si on baissait", "Si nous baissions", "Et si nous baissions"]
+    explain: "Императив → мягкое предложение: ***Si vous baissiez** un peu la musique ?*"
+  - q: "Je suis épuisé. Rentrons, d'accord ?"
+    key: "SI"
+    stem: "Je suis épuisé. ___ ?"
+    answers: ["Si on rentrait", "Et si on rentrait", "Si nous rentrions", "Et si nous rentrions"]
+    explain: "*Rentrons* → вопрос-предложение: ***Si on rentrait** ?*"
+  - q: "Nous souhaitons vous présenter notre projet, si vous avez un moment."
+    key: "SOUHAITIONS"
+    stem: "Nous ___ notre projet, si vous avez un moment."
+    answers: ["souhaitions vous présenter"]
+    explain: "Imparfait d'atténuation в деловой речи: *nous **souhaitions** vous présenter*."

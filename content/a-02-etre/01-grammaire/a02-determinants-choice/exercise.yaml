@@ -1,0 +1,51 @@
+title: "Мой, твой, его, этот"
+type: choice
+intro: "Выбери притяжательное или указательное слово. Род существительного указан в скобках: м. — мужской, ж. — женский."
+hints:
+  - "Форма зависит от рода предмета, а не владельца: «её кот» — son chat."
+  - "Перед гласной: mon / ton / son (и для ж. р.), cet (м. р.)."
+items:
+  - q: "C'est ___ chaise. — Это мой стул. (ж.)"
+    options: ["mon", "ma", "la ma"]
+    answer: 1
+    explain: "*chaise* — женского рода → **ma**. Артикль рядом с притяжательным словом не ставится."
+  - q: "C'est ___ chat. — Это мой кот. (м.)"
+    options: ["mon", "ma", "le mon"]
+    answer: 0
+    explain: "*chat* — мужской род → **mon**."
+  - q: "Léa cherche ___ sac. — Лея ищет свою сумку. (м.)"
+    options: ["sa", "son", "la"]
+    answer: 1
+    explain: "*sac* — мужского рода → **son**, хотя владелец — Лея. «Свою» тоже передаётся через *son / sa*."
+  - q: "Paul aime ___ voiture. — Поль любит свою машину. (ж.)"
+    options: ["son", "sa", "ta"]
+    answer: 1
+    explain: "*voiture* — женский род → **sa**, хотя владелец — мужчина."
+  - q: "Est-ce ___ tasse ? — Это твоя чашка? (ж.)"
+    options: ["ta", "ton", "ma"]
+    answer: 0
+    explain: "«Твоя» + существительное ж. р. на согласную → **ta tasse**."
+  - q: "C'est ___ amie Anna. — Это моя подруга Анна. (ж.)"
+    options: ["ma", "mon", "m'"]
+    answer: 1
+    explain: "*amie* — женского рода, но начинается с гласной → **mon amie** [mɔ̃-na-mi]. *ma amie* и *m'amie* не говорят."
+  - q: "___ chambre est petite. — Эта комната маленькая. (ж.)"
+    options: ["Ce", "Cet", "Cette"]
+    answer: 2
+    explain: "Женский род → **cette**."
+  - q: "___ café est chaud. — Этот кофе горячий. (м.)"
+    options: ["Ce", "Cet", "Cette"]
+    answer: 0
+    explain: "Мужской род, начинается с согласной → **ce**."
+  - q: "___ ami est malade. — Этот друг болен. (м.)"
+    options: ["Ce", "Cet", "Cette"]
+    answer: 1
+    explain: "Мужской род перед гласной → **cet** [sɛt]: *ce ami* произносить неудобно."
+  - q: "C'est ___ école. — Это его школа. (ж.)"
+    options: ["sa", "son", "s'"]
+    answer: 1
+    explain: "*école* — женского рода на гласную → **son école**, как *mon amie*."
+  - q: "Какая фраза верна: «Эта сумка твоя?»"
+    options: ["Est-ce ton sac ?", "Est-ce ta sac ?", "Est-ce le ton sac ?"]
+    answer: 0
+    explain: "*sac* — м. р. → **ton**, без артикля. Вопрос — перестановка *c'est* → *est-ce*. По-французски буквально: «Это твоя сумка?»"

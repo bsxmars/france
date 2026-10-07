@@ -1,0 +1,43 @@
+title: "Глаголы II группы и savoir"
+type: gap
+intro: "Поставь глагол в скобках в настоящее время или в повелительное наклонение."
+hints:
+  - "finir: je finis, il finit, nous finissons, ils finissent."
+  - "savoir: je sais, il sait, nous savons, ils savent; sache, sachons, sachez."
+items:
+  - q: "Les cours ___ à cinq heures. (finir)"
+    answers: ["finissent"]
+    explain: "*ils* → **finissent**: во множественном числе II группы — *-iss-*."
+  - q: "Qu'est-ce que tu ___ comme dessert ? (choisir)"
+    answers: ["choisis"]
+    explain: "*tu* → **choisis**: окончание *-is*."
+  - q: "Nous ___ à votre proposition. (réfléchir)"
+    answers: ["réfléchissons"]
+    explain: "*nous* → **réfléchissons**; *réfléchir **à*** qch."
+  - q: "Cet enfant ___ très vite. (grandir)"
+    answers: ["grandit"]
+    explain: "*il* → **grandit**: окончание *-it*."
+  - q: "Vous ___ toujours vos examens ! (réussir)"
+    answers: ["réussissez"]
+    explain: "*vous* → **réussissez**; *réussir un examen* — сдать экзамен."
+  - q: "Les spectateurs ___ les acteurs. (applaudir)"
+    answers: ["applaudissent"]
+    explain: "*ils* → **applaudissent**, *applaudir* qn — без предлога."
+  - q: "___ ton travail, et après on sort ! (finir, «ты»)"
+    answers: ["Finis"]
+    explain: "Повелительное на «ты» = форма *tu* без *tu*: **finis**."
+  - q: "Tu ___ où habite Marc ? (savoir)"
+    answers: ["sais"]
+    explain: "*tu* → **sais**."
+  - q: "Mes enfants ne ___ pas encore nager. (savoir)"
+    answers: ["savent"]
+    explain: "*savoir* + инфинитив — «уметь»: *ils ne **savent** pas nager*."
+  - q: "Ma sœur ___ parler trois langues. (savoir)"
+    answers: ["sait"]
+    explain: "*elle* → **sait**, окончание *-t*."
+  - q: "___ attendre, c'est important ! (savoir, «вы»)"
+    answers: ["Sachez"]
+    explain: "Повелительное *savoir* — от основы *sach-*: **sachez**."
+  - q: "___ que je compte sur toi ! (savoir, «ты»)"
+    answers: ["Sache"]
+    explain: "На «ты» — **sache**, без *-s* на конце."

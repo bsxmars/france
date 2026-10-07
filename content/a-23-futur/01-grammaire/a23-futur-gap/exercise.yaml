@@ -1,0 +1,43 @@
+title: "Формы futur simple"
+type: gap
+intro: "Поставь глагол в скобках в futur simple."
+hints:
+  - "Инфинитив + -ai, -as, -a, -ons, -ez, -ont; у глаголов на -re конечное e выпадает."
+  - "Особые основы: ser-, aur-, ir-, fer-, viendr-, verr-, pourr-, voudr-, saur-, devr-, faudr-."
+items:
+  - q: "Demain, nous ___ (partir) à huit heures."
+    answers: ["partirons"]
+    explain: "Инфинитив *partir* + **-ons**: *partirons*."
+  - q: "Je t'___ (écrire) une carte de Nice."
+    answers: ["écrirai"]
+    explain: "Глагол на *-re*: *e* выпадает → *écrir-* + **-ai**: *écrirai*."
+  - q: "Ce soir, ils ___ (être) chez leurs parents."
+    answers: ["seront"]
+    explain: "*Être* → основа **ser-**: *ils seront*."
+  - q: "Tu ___ (avoir) le temps de m'aider samedi ?"
+    answers: ["auras"]
+    explain: "*Avoir* → основа **aur-**: *tu auras*."
+  - q: "Après le dîner, on ___ (faire) une promenade."
+    answers: ["fera"]
+    explain: "*Faire* → основа **fer-**: *on fera*."
+  - q: "Vous ___ (venir) avec nous dimanche ?"
+    answers: ["viendrez"]
+    explain: "*Venir* → основа **viendr-**: *vous viendrez*."
+  - q: "J'___ (aller) à la poste demain matin."
+    answers: ["irai"]
+    explain: "*Aller* → основа **ir-**: *j'irai*."
+  - q: "Elle ne ___ (pouvoir) pas venir lundi."
+    answers: ["pourra"]
+    explain: "*Pouvoir* → основа **pourr-** (два *r*): *elle pourra*."
+  - q: "On ___ (voir) bien demain !"
+    answers: ["verra"]
+    explain: "*Voir* → основа **verr-**: *on verra* — «посмотрим»."
+  - q: "Il ___ (falloir) partir très tôt."
+    answers: ["faudra"]
+    explain: "*Il faut* → в futur **il faudra**."
+  - q: "Le professeur ___ (répéter) la question."
+    answers: ["répétera", "répètera"]
+    explain: "Правильный глагол: инфинитив + *-a*. По традиции пишется **répétera**, по орфографии 1990 — *répètera*."
+  - q: "J'___ (acheter) le pain en rentrant."
+    answers: ["achèterai"]
+    explain: "У *acheter* перед немым *e* появляется *è*: **achèterai**."

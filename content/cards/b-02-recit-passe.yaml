@@ -1,0 +1,176 @@
+- id: b02-pc-ou-imparfait
+  lesson: b-02-recit-passe/01-grammaire
+  q: "Главный вопрос: passé composé или imparfait?"
+  a: "Глагол **двигает сюжет** (что произошло, что потом) → passé composé. **Рисует декорации** (обстановка, привычка, процесс) → imparfait."
+- id: b02-etre-verbs
+  lesson: b-02-recit-passe/01-grammaire
+  q: "Какие глаголы спрягаются в passé composé с **être**?"
+  a: "aller/venir (revenir, devenir), arriver/partir, entrer/sortir (rentrer), monter/descendre, naître/mourir, rester, tomber, retourner, passer — и **все возвратные**."
+- id: b02-sortir-chien
+  lesson: b-02-recit-passe/01-grammaire
+  q: "Переведи: «Она вышла» / «Она вывела собаку»."
+  a: "*Elle **est sortie**.* / *Elle **a sorti** le chien.* — с прямым дополнением *sortir, monter, descendre, passer* берут **avoir**."
+- id: b02-imparfait-form
+  lesson: b-02-recit-passe/01-grammaire
+  q: "Как образуется imparfait? Единственное исключение?"
+  a: "Основа *nous* в présent без *-ons* + **-ais, -ais, -ait, -ions, -iez, -aient** (*nous finissons → je finissais*). Исключение: *être* → **ét-**."
+- id: b02-reflexive-avoir-error
+  lesson: b-02-recit-passe/01-grammaire
+  q: "Найди ошибку: *Il s'a couché très tard.*"
+  a: "*Il **s'est** couché très tard.* — возвратные глаголы только с **être**."
+- id: b02-savais-ai-su
+  lesson: b-02-recit-passe/01-grammaire
+  q: "*Je savais* или *j'ai su*: в чём разница?"
+  a: "**savais** — знал (состояние); **ai su** — узнал (событие). Так же *connaissais* — был знаком, *ai connu* — познакомился."
+- id: b02-pendant-trois-ans
+  lesson: b-02-recit-passe/01-grammaire
+  q: "Почему *J'**ai vécu** trois ans à Lyon*, а не *je vivais*?"
+  a: "Длительность названа и закрыта (**trois ans**) — это событие целиком → passé composé."
+- id: b02-meteo-decor
+  lesson: b-02-recit-passe/01-grammaire
+  q: "Начало рассказа: *Il ___ beau, je me promenais quand soudain…* — faisait или a fait?"
+  a: "**faisait** — погода как декорация, на фоне которой случится событие. *Il a fait beau* — итог: «весь день была хорошая погода»."
+- id: b02-pqp-form
+  lesson: b-02-recit-passe/02-grammaire
+  q: "Как образуется plus-que-parfait и когда он нужен?"
+  a: "**avoir / être в imparfait + participe passé** (*j'avais fini, elle était partie*). Нужен для действия, которое было **раньше** другого прошлого."
+- id: b02-train-parti
+  lesson: b-02-recit-passe/02-grammaire
+  q: "Переведи: «Когда я пришёл на вокзал, поезд уже ушёл»."
+  a: "*Quand je suis arrivé à la gare, le train **était déjà parti**.*"
+- id: b02-pqp-decor
+  lesson: b-02-recit-passe/02-grammaire
+  q: "Найди ошибку: *En 2018, j'avais déménagé à Paris.* (других событий в рассказе нет)"
+  a: "*En 2018, j'**ai déménagé** à Paris.* — без более позднего момента plus-que-parfait не нужен."
+- id: b02-apres-avoir
+  lesson: b-02-recit-passe/02-grammaire
+  q: "Переведи: «Закончив учёбу, она уехала в Канаду» (= после того как закончила)."
+  a: "*Après **avoir terminé** ses études, elle est partie au Canada.* — после *après* только **infinitif passé**; ~~après terminer~~ — ошибка."
+- id: b02-apres-etre
+  lesson: b-02-recit-passe/02-grammaire
+  q: "Infinitif passé от *rentrer* и *se reposer* (подлежащее *nous*)?"
+  a: "*après **être rentrés***, *après **nous être reposés*** — вспомогательный глагол и согласование как в passé composé, местоимение меняется по лицу."
+- id: b02-depuis-il-y-a
+  lesson: b-02-recit-passe/02-grammaire
+  q: "**depuis** или **il y a**: J'ai déménagé ___ deux ans."
+  a: "**il y a** — сколько времени назад (законченное действие); **depuis** — с какого момента и до сих пор."
+- id: b02-depuis-imparfait
+  lesson: b-02-recit-passe/02-grammaire
+  q: "Переведи: «Когда я с ней познакомился, она жила в Париже уже два года»."
+  a: "*Quand je l'ai rencontrée, elle **habitait** à Paris **depuis** deux ans.* — *depuis* в прошлом рассказе → imparfait."
+- id: b02-venais-de
+  lesson: b-02-recit-passe/02-grammaire
+  q: "Переведи: «Когда ты позвонил, я только что вернулся»."
+  a: "*Quand tu as appelé, je **venais de** rentrer.* — *venir de* в imparfait."
+- id: b02-en-pendant-pour
+  lesson: b-02-recit-passe/02-grammaire
+  q: "**en**, **pendant** или **pour**: J'ai écrit ce rapport ___ deux heures. / Il est parti ___ deux semaines."
+  a: "**en** deux heures — за сколько; **pour** deux semaines — на какой срок (с *partir, aller, venir*); **pendant** — закрытая длительность."
+- id: b02-accord-etre
+  lesson: b-02-recit-passe/03-grammaire
+  q: "С чем согласуется причастие при **être**? Пример."
+  a: "С **подлежащим**: *Léa et Chloé sont **rentrées***. Смешанная группа — мужской род: *Paul et Léa sont **arrivés***."
+- id: b02-accord-avoir-cod
+  lesson: b-02-recit-passe/03-grammaire
+  q: "Когда согласуется причастие при **avoir**?"
+  a: "Только с **прямым дополнением, стоящим впереди** (*le, la, les, que, quel*): *Ces photos ? Je les ai **prises**.* После глагола или с *en* — нет согласования."
+- id: b02-accord-que
+  lesson: b-02-recit-passe/03-grammaire
+  q: "Исправь: *Les lettres que nous avons reçu venaient de Lyon.*"
+  a: "*Les lettres que nous avons **reçues**…* — *que* (= *les lettres*, ж. р., мн. ч.) стоит перед *avoir*."
+- id: b02-se-laver-mains
+  lesson: b-02-recit-passe/03-grammaire
+  q: "*Elle s'est lavé**e*** или *Elle s'est lavé les mains* — почему по-разному?"
+  a: "Если после глагола есть прямое дополнение (**les mains**), *se* = «себе», согласования нет. *Elle s'est lavée* — помылась сама."
+- id: b02-se-telephoner
+  lesson: b-02-recit-passe/03-grammaire
+  q: "Найди ошибку: *Elles se sont parlées pendant une heure.*"
+  a: "*Elles se sont **parlé**.* — *parler **à** qqn*, *se* — косвенное дополнение, согласования нет. Так же *se téléphoner, s'écrire, se dire*."
+- id: b02-trois-couches
+  lesson: b-02-recit-passe/03-grammaire
+  q: "Три слоя рассказа о прошлом — какое время для какого?"
+  a: "События → **passé composé**; декорации и привычки → **imparfait**; предыстория («что было ещё раньше») → **plus-que-parfait**."
+- id: b02-protocole
+  lesson: b-02-recit-passe/03-grammaire
+  q: "Почему рассказ *Il a fait froid. J'ai été fatigué. J'ai vu un café.* звучит как протокол?"
+  a: "Декорации поставлены в passé composé. Исправь: *Il **faisait** froid, j'**étais** fatigué. Soudain, j'**ai vu** un café.*"
+- id: b02-presente-narration
+  lesson: b-02-recit-passe/03-grammaire
+  q: "Что такое *présent de narration* и где он встречается?"
+  a: "Рассказ о прошлом в настоящем времени для живости: новости, биографии, устные истории (*En 1789, le peuple prend la Bastille*). Не смешивай его с passé composé в одном абзаце."
+- id: b02-si-pqp
+  lesson: b-02-recit-passe/04-grammaire
+  q: "Схема гипотезы о прошлом?"
+  a: "**si + plus-que-parfait → conditionnel passé**: *Si tu m'avais appelé, je serais venu.*"
+- id: b02-cond-passe-form
+  lesson: b-02-recit-passe/04-grammaire
+  q: "Как образуется conditionnel passé?"
+  a: "**avoir / être в conditionnel présent + participe passé**: *j'aurais fait, elle serait venue, nous nous serions trompés*."
+- id: b02-si-aurais
+  lesson: b-02-recit-passe/04-grammaire
+  q: "Найди ошибку: *Si j'aurais su, je serais venu.*"
+  a: "*Si j'**avais su**…* — после *si* conditionnel **не ставится никогда**."
+- id: b02-hypothese-mixte
+  lesson: b-02-recit-passe/04-grammaire
+  q: "Переведи: «Если бы я тогда согласился на эту работу, я бы сейчас жил в Монреале»."
+  a: "*Si j'**avais accepté** ce poste, je **vivrais** à Montréal maintenant.* — условие в прошлом, последствие сейчас → conditionnel présent."
+- id: b02-hypothese-inverse
+  lesson: b-02-recit-passe/04-grammaire
+  q: "Переведи: «Если бы я был внимательнее (вообще), я бы не забыл твой день рождения»."
+  a: "*Si j'**étais** plus attentif, je n'**aurais** pas **oublié** ton anniversaire.* — постоянное свойство (imparfait) → последствие в прошлом."
+- id: b02-sans-aide
+  lesson: b-02-recit-passe/04-grammaire
+  q: "Как сказать «Без твоей помощи я бы не справился» без *si*?"
+  a: "***Sans** ton aide, je n'**aurais** pas **réussi**.* — *sans* + существительное заменяет условие."
+- id: b02-aurais-pu
+  lesson: b-02-recit-passe/04-grammaire
+  q: "*Tu pourrais m'aider* или *Tu aurais pu m'aider* — в чём разница?"
+  a: "*Tu **pourrais*** — просьба сейчас; *Tu **aurais pu*** — упрёк: мог помочь, но не помог."
+- id: b02-aurais-du
+  lesson: b-02-recit-passe/04-grammaire
+  q: "Переведи: «Мне следовало бы выучить испанский»."
+  a: "*J'**aurais dû** apprendre l'espagnol.* — сожаление о прошлом: conditionnel passé от *devoir*."
+- id: b02-si-seulement
+  lesson: b-02-recit-passe/04-grammaire
+  q: "«Если бы я только знал!» по-французски?"
+  a: "*Si seulement j'**avais su** !* — *si seulement* + plus-que-parfait, сожаление о прошлом."
+- id: b02-ps-usage
+  lesson: b-02-recit-passe/05-grammaire
+  q: "Где встречается passé simple и чему он равен по смыслу?"
+  a: "В письменном рассказе: романы, сказки, биографии, история. По смыслу = **passé composé** (событие); фон — по-прежнему imparfait."
+- id: b02-ps-terminaisons
+  lesson: b-02-recit-passe/05-grammaire
+  q: "Четыре типа окончаний passé simple (il / ils)?"
+  a: "**-a / -èrent** (глаголы на -er: *parla*), **-it / -irent** (*finit, prit*), **-ut / -urent** (*voulut, lut*), **-int / -inrent** (*vint, tint*)."
+- id: b02-ps-fut-fit
+  lesson: b-02-recit-passe/05-grammaire
+  q: "*il fut*, *il fit*, *il eut* — какие это глаголы?"
+  a: "*fut* — **être** (*a été*), *fit* — **faire** (*a fait*), *eut* — **avoir** (*a eu*)."
+- id: b02-ps-vit-vecut
+  lesson: b-02-recit-passe/05-grammaire
+  q: "*il vit* и *il vécut* — от каких глаголов?"
+  a: "*vit* — от **voir** (*il a vu*); *vécut* — от **vivre** (*il a vécu*)."
+- id: b02-ps-naquit
+  lesson: b-02-recit-passe/05-grammaire
+  q: "*Elle naquit en 1867 et mourut en 1934.* — переведи в passé composé."
+  a: "*Elle **est née** en 1867 et elle **est morte** en 1934.* (*naître, mourir* — с *être*)."
+- id: b02-ps-pas-melanger
+  lesson: b-02-recit-passe/05-grammaire
+  q: "Можно ли в одном повествовании смешивать passé simple и passé composé?"
+  a: "Нет: повествование ведётся в одном из них. Passé composé в тексте с passé simple — только в прямой речи персонажей."
+- id: b02-en-face-de
+  lesson: b-02-recit-passe/05-grammaire
+  q: "Найди ошибку: *Le café est en face la gare.*"
+  a: "*en face **de** la gare* — составные предлоги (*en face de, à côté de, près de, au bord de*) требуют *de*."
+- id: b02-dans-la-rue
+  lesson: b-02-recit-passe/05-grammaire
+  q: "«На улице», «на площади», «на фотографии» — какие предлоги?"
+  a: "***dans** la rue*, ***sur** la place*, ***sur** la photo*."
+- id: b02-entre-parmi
+  lesson: b-02-recit-passe/05-grammaire
+  q: "*entre* или *parmi*?"
+  a: "**entre** — между двумя (*entre la gare et le port*); **parmi** — среди многих (*parmi les invités*)."
+- id: b02-du-des
+  lesson: b-02-recit-passe/05-grammaire
+  q: "Вставь: *au fond ___ jardin*, *au bord ___ lacs*."
+  a: "*au fond **du** jardin*, *au bord **des** lacs* — *de* сливается с *le* и *les*."

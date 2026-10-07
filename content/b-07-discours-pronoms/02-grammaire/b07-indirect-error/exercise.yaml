@@ -1,0 +1,44 @@
+title: "Найди ошибку в пересказе"
+type: error
+intro: "В каждом предложении **одна** ошибка: время, связка, порядок слов или указатель времени. Исправь её и отправь предложение целиком."
+hints:
+  - "Вводящий глагол в прошлом → imparfait, plus-que-parfait, conditionnel."
+  - "В косвенном вопросе: si, ce que, ce qui; без est-ce que и без инверсии."
+  - "Приказ → de + инфинитив."
+items:
+  - q: "Le recruteur m'a dit qu'il me rappellera la semaine suivante."
+    answers: ["Le recruteur m'a dit qu'il me rappellerait la semaine suivante."]
+    explain: "Futur после вводящего глагола в прошлом → conditionnel présent: **rappellerait**."
+  - q: "Ma collègue m'a demandé est-ce que j'avais fini le rapport."
+    answers: ["Ma collègue m'a demandé si j'avais fini le rapport."]
+    explain: "Общий вопрос в косвенной речи вводится **si**, а не *est-ce que*."
+  - q: "Le client voulait savoir qu'est-ce que nous proposions."
+    answers: ["Le client voulait savoir ce que nous proposions."]
+    explain: "*Qu'est-ce que* → **ce que** в косвенном вопросе."
+  - q: "Paul m'a expliqué qu'il a perdu son badge la veille."
+    answers: ["Paul m'a expliqué qu'il avait perdu son badge la veille."]
+    explain: "Действие раньше момента рассказа Поля → plus-que-parfait: **avait perdu**."
+  - q: "On nous a demandé où nous travaillons avant."
+    answers: ["On nous a demandé où nous travaillions avant."]
+    explain: "Présent / imparfait после вводящего глагола в прошлом → **imparfait**: *travaillions*. *Avant* подчёркивает, что это прошлое."
+  - q: "Le directeur m'a demandé qui est-ce que j'avais contacté chez le fournisseur."
+    answers: ["Le directeur m'a demandé qui j'avais contacté chez le fournisseur."]
+    explain: "Вопрос о человеке в косвенной речи → просто **qui**: *est-ce que* исчезает."
+  - q: "Elle m'a demandé pourquoi étais-je si stressé."
+    answers: ["Elle m'a demandé pourquoi j'étais si stressé."]
+    explain: "В косвенном вопросе **прямой порядок слов**: *pourquoi **j'étais***."
+  - q: "Il m'a dit en 2020 qu'il partirait à la retraite l'année prochaine."
+    answers: ["Il m'a dit en 2020 qu'il partirait à la retraite l'année suivante."]
+    explain: "Разговор давний (2020) → *l'année prochaine* → **l'année suivante**."
+  - q: "La stagiaire m'a demandé ce qui je pensais de son travail."
+    answers: ["La stagiaire m'a demandé ce que je pensais de son travail."]
+    explain: "*Je* — подлежащее, а «что» — дополнение → **ce que**. *Ce qui* — когда «что» само подлежащее: *ce qui me plaisait*."
+  - q: "Ils m'ont annoncé qu'ils vont fermer l'usine."
+    answers: ["Ils m'ont annoncé qu'ils allaient fermer l'usine."]
+    explain: "Futur proche → *aller* в imparfait: **allaient fermer**."
+  - q: "Je ne savais pas si il était encore au bureau."
+    answers: ["Je ne savais pas s'il était encore au bureau."]
+    explain: "*Si* + *il* → обязательная элизия **s'il**."
+  - q: "Elle nous a conseillé de ne parler pas trop vite pendant la présentation."
+    answers: ["Elle nous a conseillé de ne pas parler trop vite pendant la présentation."]
+    explain: "С инфинитивом обе части отрицания стоят **перед** ним: *de **ne pas parler***."

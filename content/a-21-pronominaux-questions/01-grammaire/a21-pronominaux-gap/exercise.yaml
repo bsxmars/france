@@ -1,0 +1,44 @@
+title: "Местоименные глаголы в passé composé"
+type: gap
+intro: "Поставь местоименный глагол в passé composé вместе с местоимением: *me suis levé*, *s'est habillée*. Согласуй причастие. Если пол не ясен из контекста, подойдёт любая верная форма."
+hints:
+  - "Всегда être: je me suis, tu t'es, il s'est, nous nous sommes, vous vous êtes, ils se sont."
+  - "Обычно причастие согласуется с подлежащим; но если после глагола есть прямое дополнение (les mains, les dents), — не согласуется."
+  - "Отрицание: ne + местоимение + être + pas."
+items:
+  - q: "Ce matin, je ___ à six heures. (se réveiller)"
+    answers: ["me suis réveillé", "me suis réveillée"]
+    explain: "Местоименный глагол → **être**: *je **me suis réveillé*** (о мужчине) или ***réveillée*** (о женщине)."
+  - q: "Marie ___ très vite. (s'habiller)"
+    answers: ["s'est habillée"]
+    explain: "*Marie* — ж. р.: **s'est habillée**."
+  - q: "Les enfants ___ à neuf heures. (se coucher)"
+    answers: ["se sont couchés"]
+    explain: "*les enfants* — м. р. мн. ч. (по умолчанию): **se sont couchés**."
+  - q: "Mes sœurs ___ à la plage. (se reposer)"
+    answers: ["se sont reposées"]
+    explain: "*mes sœurs* — ж. р. мн. ч.: **se sont reposées**."
+  - q: "Nous ___ devant le cinéma. (se rencontrer)"
+    answers: ["nous sommes rencontrés", "nous sommes rencontrées"]
+    explain: "*nous* → **nous sommes rencontrés** (или *rencontrées*, если это только женщины)."
+  - q: "Tu ___ de numéro, ce n'est pas mon téléphone. (se tromper)"
+    answers: ["t'es trompé", "t'es trompée"]
+    explain: "*tu* → **t'es trompé** / **t'es trompée**."
+  - q: "Paul ___ ce matin. (ne pas se raser)"
+    answers: ["ne s'est pas rasé"]
+    explain: "Отрицание: **ne** + *s'est* + **pas** + причастие: *Paul **ne s'est pas rasé***."
+  - q: "Elle s'est ___ les cheveux. (laver)"
+    answers: ["lavé"]
+    explain: "После глагола есть прямое дополнение *les cheveux*, *se* — косвенное → причастие **не согласуется**: *lavé*."
+  - q: "Les filles se sont ___ les dents. (brosser)"
+    answers: ["brossé"]
+    explain: "Прямое дополнение — *les dents* → причастие без согласования: **brossé**."
+  - q: "Léa et Marc se sont ___ hier soir. (téléphoner)"
+    answers: ["téléphoné"]
+    explain: "*téléphoner **à** qn* → *se* — косвенное дополнение («друг другу») → **téléphoné**, без согласования."
+  - q: "Les enfants, à quelle heure ___ hier soir ? (se coucher; вопрос с инверсией)"
+    answers: ["vous êtes-vous couchés", "vous êtes-vous couchées"]
+    explain: "Инверсия: местоимение-дополнение *vous* впереди, подлежащее *vous* — после *êtes*: **vous êtes-vous couchés** (о девочках — *couchées*)."
+  - q: "Hier, elle ___ dans le parc pendant deux heures. (se promener)"
+    answers: ["s'est promenée"]
+    explain: "*elle* → **s'est promenée**."

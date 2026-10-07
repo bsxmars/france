@@ -1,0 +1,58 @@
+title: "Скажи то же другой связкой"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое). Следи за тем, что требует связка: существительное, indicatif или subjonctif.
+hints:
+  - "bien que + subjonctif; même si + indicatif; malgré + существительное."
+  - "avoir beau + инфинитив, без союза во второй части."
+items:
+  - q: "Il pleuvait, mais nous avons fait la randonnée."
+    key: "MALGRÉ"
+    stem: "___ , nous avons fait la randonnée."
+    answers: ["Malgré la pluie"]
+    explain: "*Malgré* + существительное: глагол *pleuvoir* превращается в *la pluie*."
+  - q: "Elle est très riche, pourtant elle vit simplement."
+    key: "BIEN"
+    stem: "___ très riche, elle vit simplement."
+    answers: ["Bien qu'elle soit", "Bien que"]
+    explain: "*Bien que* + subjonctif: ***bien qu'elle soit** très riche*. В письменной речи можно и сокращённо: *bien que très riche*."
+  - q: "Je lui explique la règle plusieurs fois, mais il ne comprend pas."
+    key: "BEAU"
+    stem: "J'___ la règle, il ne comprend pas."
+    answers: ["ai beau lui expliquer", "ai beau lui expliquer plusieurs fois"]
+    explain: "*Avoir beau* + инфинитив — «сколько ни объясняю»; местоимение *lui* стоит перед инфинитивом: ***ai beau lui expliquer***."
+  - q: "Bien qu'il soit malade, il est venu à la réunion."
+    key: "MÊME"
+    stem: "___ malade, il est venu à la réunion."
+    answers: ["Même s'il était", "Même s'il est"]
+    explain: "*Même si* + **indicatif**: ***même s'il était** malade* (в прошлом рассказе — imparfait)."
+  - q: "Mon frère adore le sport. Moi, au contraire, je préfère la lecture."
+    key: "TANDIS"
+    stem: "Mon frère adore le sport ___ la lecture."
+    answers: ["tandis que je préfère", "tandis que moi je préfère", "tandis que moi, je préfère"]
+    explain: "Противопоставление двух фактов → *tandis que* + indicatif: ***tandis que je préfère*** la lecture."
+  - q: "Ce téléphone est cher, mais il est de très bonne qualité."
+    key: "REVANCHE"
+    stem: "Ce téléphone est cher ; ___ de très bonne qualité."
+    answers: ["en revanche, il est", "en revanche il est"]
+    explain: "*En revanche* — между двумя независимыми предложениями, сопоставляет минус и плюс: ***en revanche, il est***."
+  - q: "Elle a beaucoup de travail, mais elle accepte quand même de nous aider."
+    key: "TOUT"
+    stem: "___ beaucoup de travail, elle accepte de nous aider."
+    answers: ["Tout en ayant"]
+    explain: "*Tout en* + participe présent выражает уступку при одном подлежащем: ***tout en ayant** beaucoup de travail*."
+  - q: "Contrairement à ce qu'on pensait, le film a eu un grand succès."
+    key: "ALORS"
+    stem: "Le film a eu un grand succès ___ un échec."
+    answers: ["alors qu'on prévoyait", "alors qu'on attendait", "alors qu'on pensait à", "alors qu'on annonçait", "alors qu'on prédisait", "alors qu'on craignait", "alors que l'on prévoyait", "alors que l'on craignait"]
+    explain: "*Alors que* + indicatif — «тогда как, а ведь»: *le film a eu du succès **alors qu'on prévoyait** un échec*."
+  - q: "Ils n'ont pas pris l'avion : ils ont voyagé en train."
+    key: "LIEU"
+    stem: "___ l'avion, ils ont voyagé en train."
+    answers: ["Au lieu de prendre"]
+    explain: "*Au lieu de* + инфинитив — одно действие вместо другого: ***au lieu de prendre** l'avion*."
+  - q: "Même si les prix augmentent, les gens continuent à acheter des vêtements neufs."
+    key: "QUOIQUE"
+    stem: "___ , les gens continuent à acheter des vêtements neufs."
+    answers: ["Quoique les prix augmentent"]
+    explain: "*Quoique* = *bien que* + **subjonctif**; *augmentent* в subjonctif совпадает с présent: ***quoique les prix augmentent***."

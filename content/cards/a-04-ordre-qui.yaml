@@ -1,0 +1,28 @@
+- id: a04-ordre
+  lesson: a-04-ordre-qui/01-grammaire
+  q: "Где стоит дополнение во французском предложении?"
+  a: "**После сказуемого**: подлежащее → глагол → дополнение. *Anna lit le texte.* Порядок заменяет падежи."
+- id: a04-direct-indirect
+  lesson: a-04-ordre-qui/01-grammaire
+  q: "Чем прямое дополнение отличается от косвенного?"
+  a: "Прямое — **без предлога** (*Léa ferme la porte*), косвенное — **с предлогом** (*Paul parle à sa mère*)."
+- id: a04-villes
+  lesson: a-04-ordre-qui/01-grammaire
+  q: "«Хьюго живёт в Лилле» — нужен ли артикль?"
+  a: "**Нет**: перед названием города артикля нет. *Hugo habite Lille* (или *à Lille*)."
+- id: a04-groupe3-il
+  lesson: a-04-ordre-qui/01-grammaire
+  q: "*lire, écrire, dire, partir, faire* — 3-е лицо ед. ч.?"
+  a: "il **lit**, il **écrit**, il **dit**, il **part**, il **fait** — немое -t. Но *il prend*, *il va*."
+- id: a04-groupe3-ils
+  lesson: a-04-ordre-qui/01-grammaire
+  q: "*lire, écrire, dire, partir, prendre* — 3-е лицо мн. ч.?"
+  a: "ils **lisent**, ils **écrivent**, ils **disent**, ils **partent**, ils **prennent**. Исключение: ils **font**."
+- id: a04-ils-elles
+  lesson: a-04-ordre-qui/01-grammaire
+  q: "*Paul et Anna* — какое местоимение?"
+  a: "**ils**: если в группе есть хоть один мужской род. *elles* — только для женского."
+- id: a04-qui
+  lesson: a-04-ordre-qui/01-grammaire
+  q: "Вопрос к подлежащему: *Les élèves lisent le texte.*"
+  a: "***Qui lit** le texte ?* — *qui* + глагол в 3-м лице **ед. ч.**"

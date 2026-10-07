@@ -1,0 +1,63 @@
+title: "Объедини фразы через que"
+type: transform
+intro: "Перепиши вторую часть, используя ключевое слово: преврати две фразы в главное + дополнительное придаточное. Реши, нужен ли subjonctif, и выбери время (présent или passé). Впиши недостающую часть целиком."
+hints:
+  - "Если действие придаточного раньше чувства / сомнения → passé du subjonctif."
+  - "craindre que → можно ne explétif: je crains qu'il ne…"
+  - "Одно подлежащее → инфинитив (de + inf)."
+items:
+  - q: "Les résultats ne sont pas encore publiés. Les candidats s'en étonnent."
+    key: "s'étonnent"
+    stem: "Les candidats ___ pas encore publiés."
+    answers: ["s'étonnent que les résultats ne soient", "s'étonnent de ce que les résultats ne soient", "s'étonnent de ce que les résultats ne sont"]
+    explain: "Чувство (*s'étonner*) → subjonctif: *que les résultats ne **soient** pas*. Книжное *de ce que* допускает и indicatif."
+  - q: "Notre collègue a démissionné. Nous le regrettons."
+    key: "regrettons"
+    stem: "Nous ___ démissionné."
+    answers: ["regrettons que notre collègue ait"]
+    explain: "Сожаление о прошедшем событии → passé du subjonctif: *que notre collègue **ait** démissionné*."
+  - q: "Il va peut-être pleuvoir pendant la cérémonie. Les organisateurs ont peur."
+    key: "craignent"
+    stem: "Les organisateurs ___ pendant la cérémonie."
+    answers: ["craignent qu'il ne pleuve", "craignent qu'il pleuve"]
+    explain: "*Craindre que* + subjonctif ***pleuve***; в soutenu — с *ne* explétif: *qu'il **ne** pleuve*."
+  - q: "Vous devez remettre votre rapport vendredi. C'est indispensable."
+    key: "indispensable"
+    stem: "Il est ___ vendredi."
+    answers: ["indispensable que vous remettiez votre rapport", "indispensable que vous ayez remis votre rapport"]
+    explain: "Оценка необходимости → subjonctif: *que vous **remettiez***; *ayez remis* подчёркивает результат к сроку."
+  - q: "Ce témoin dit peut-être la vérité. J'en doute."
+    key: "doute"
+    stem: "Je ___ la vérité."
+    answers: ["doute que ce témoin dise"]
+    explain: "*Douter que* → subjonctif: *que ce témoin **dise***."
+  - q: "Il a raison, c'est sûr. Je ne le nie pas."
+    key: "nie"
+    stem: "Je ne ___ raison."
+    answers: ["nie pas qu'il ait", "nie pas qu'il a", "nie pas qu'il n'ait"]
+    explain: "После *ne pas nier* в норме subjonctif ***ait***; indicatif *a* подчёркивает реальность факта; *qu'il n'ait* — книжный вариант с ne explétif."
+  - q: "Je partirai tôt demain. Je le souhaite."
+    key: "souhaite"
+    stem: "Je ___ tôt demain."
+    answers: ["souhaite partir"]
+    explain: "Подлежащее одно и то же (*je*) → инфинитив: *Je souhaite **partir***, а не ~~que je parte~~."
+  - q: "Les enfants jouent dans la rue. Leur mère ne le permet pas."
+    key: "permet"
+    stem: "Leur mère ne ___ dans la rue."
+    answers: ["permet pas que les enfants jouent", "permet pas que ses enfants jouent", "leur permet pas de jouer"]
+    explain: "*Ne pas permettre que* + subjonctif *jouent*; естественнее *permettre à qn de faire*: *ne leur permet pas de jouer*."
+  - q: "Le train aura du retard, c'est probable."
+    key: "probable"
+    stem: "Il est ___ du retard."
+    answers: ["probable que le train aura", "probable que le train ait"]
+    explain: "*Il est probable que* — высокая вероятность → норма indicatif: *que le train **aura***. Subjonctif после *probable* встречается, но реже."
+  - q: "Tout le monde est déjà au courant. Je m'y attendais."
+    key: "attendais"
+    stem: "Je m'___ au courant."
+    answers: ["attendais à ce que tout le monde soit déjà", "attendais à ce que tout le monde fût déjà"]
+    explain: "*S'attendre à ce que* + subjonctif: *que tout le monde **soit***. В soutenu при прошедшем главном — imparfait du subjonctif *fût*."
+  - q: "Ma fille a obtenu une bourse. J'en suis fier."
+    key: "fier"
+    stem: "Je suis ___ une bourse."
+    answers: ["fier que ma fille ait obtenu"]
+    explain: "Чувство → subjonctif; событие уже произошло → passé: *que ma fille **ait obtenu***."

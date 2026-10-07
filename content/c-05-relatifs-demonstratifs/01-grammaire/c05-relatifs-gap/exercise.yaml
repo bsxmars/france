@@ -1,0 +1,43 @@
+title: "Qui, que, dont, où, quoi, ce qui / ce dont / ce à quoi"
+type: gap
+intro: "Впиши относительное местоимение (с предлогом или с *ce*, если нужно). Ориентируйся на управление глагола в придаточном."
+hints:
+  - "de + … → dont / ce dont; à + … (без антецедента) → ce à quoi; время после существительного → où."
+  - "Quoi — только после предлога: de quoi, à quoi, sur quoi, après quoi."
+items:
+  - q: "Le quartier ___ j'ai grandi a complètement changé."
+    answers: ["où", "dans lequel"]
+    explain: "Место: *grandir **dans** le quartier* → **où** (или *dans lequel*)."
+  - q: "Je n'oublierai jamais le soir ___ tu m'as annoncé la nouvelle."
+    answers: ["où"]
+    explain: "После существительного со значением времени (*le soir*) — **où**, а не *quand*."
+  - q: "C'est un auteur ___ je connais mal l'œuvre."
+    answers: ["dont"]
+    explain: "*L'œuvre **de** l'auteur* — дополнение существительного → **dont**; после него обычный порядок: *je connais mal l'œuvre*."
+  - q: "Tout ___ il a besoin, c'est d'un peu de repos."
+    answers: ["ce dont"]
+    explain: "*Avoir besoin **de*** + нейтральное «то» → **ce dont**."
+  - q: "Dis-moi ___ te préoccupe, je verrai si je peux t'aider."
+    answers: ["ce qui"]
+    explain: "*Préoccuper* требует подлежащего, «то, что тебя беспокоит» → **ce qui**."
+  - q: "Ce n'est pas ___ nous nous étions mis d'accord."
+    answers: ["ce sur quoi"]
+    explain: "*Se mettre d'accord **sur** qch* + нейтральное *ce* → **ce sur quoi**."
+  - q: "L'entreprise emploie deux cents personnes, ___ une trentaine d'ingénieurs."
+    answers: ["dont"]
+    explain: "Выделение части множества («из них», «в том числе») → **dont**, глагол не обязателен."
+  - q: "Ils ont vendu leur voiture, ___ on peut conclure qu'ils ont des soucis d'argent."
+    answers: ["d'où"]
+    explain: "«Откуда, из чего (можно заключить)» — **d'où**; ср. *d'où la nécessité de…*."
+  - q: "Le vieux pont ___ passaient autrefois les diligences a été restauré."
+    answers: ["par où", "par lequel", "sur lequel"]
+    explain: "«Через который / по которому проезжали» — **par où** (или *par lequel*, *sur lequel*); после *où* стилистическая инверсия *passaient les diligences*."
+  - q: "Elle a terminé son exposé, après ___ elle a répondu aux questions."
+    answers: ["quoi"]
+    explain: "Антецедент — вся предыдущая мысль, после предлога → **quoi**: *après quoi* «после чего»."
+  - q: "Ne t'inquiète pas, il n'y a pas ___ s'affoler."
+    answers: ["de quoi"]
+    explain: "Модель *il n'y a pas **de quoi** + инфинитив* — «нет причин»."
+  - q: "Range d'abord ___ reste sur la table, on fera la vaisselle après."
+    answers: ["ce qui", "ce qu'il"]
+    explain: "Возможны оба: **ce qui reste** (*rester* — личный глагол, *qui* — подлежащее) и **ce qu'il reste** (безличная конструкция *il reste qch*)."

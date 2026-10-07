@@ -1,0 +1,40 @@
+title: "Время субъюнктива по таблице"
+type: gap
+intro: "Поставь глагол в présent или passé du subjonctif (современная норма). Ориентируйся на соотношение с главным действием, а не на время главного глагола."
+hints:
+  - "Одновременно или позже главного → présent du subjonctif (даже если главный глагол в прошлом)."
+  - "Раньше главного → passé du subjonctif."
+items:
+  - q: "Hier, le professeur a exigé que nous ___ (rendre) nos copies le lendemain."
+    answers: ["rendions"]
+    explain: "Сдать — **после** требования → présent du subjonctif ***rendions*** (в soutenu было бы *rendissions*)."
+  - q: "Je doutais qu'elle ___ (comprendre) ma question : elle a répondu à côté."
+    answers: ["ait compris", "comprenne"]
+    explain: "Сомнение в уже состоявшемся понимании → passé ***ait compris***; если речь о понимании в момент вопроса — *comprenne*."
+  - q: "Nous étions ravis que tu ___ (pouvoir) venir à notre mariage l'été dernier."
+    answers: ["aies pu"]
+    explain: "Радость по поводу уже состоявшегося приезда → passé du subjonctif ***aies pu***."
+  - q: "Il faudra que vous ___ (terminer) l'installation avant l'arrivée des clients."
+    answers: ["ayez terminé", "terminiez"]
+    explain: "Действие, которое должно быть **завершено** к сроку → passé ***ayez terminé*** (аналог futur antérieur); *terminiez* тоже возможно."
+  - q: "Elle a quitté la salle avant que l'orateur ___ (finir) son discours."
+    answers: ["ait fini", "finisse", "n'ait fini", "ne finisse"]
+    explain: "*Avant que* + subjonctif: оратор ещё **не закончил** → *ait fini* или *finisse*; в soutenu — с ne explétif."
+  - q: "Je ne pensais pas que ce film ___ (avoir) autant de succès."
+    answers: ["ait", "ait eu"]
+    explain: "Сомнение относительно успеха (тогда или впоследствии) → présent ***ait***; если успех уже был — *ait eu*."
+  - q: "Bien qu'il ___ (pleuvoir) toute la nuit, le terrain était praticable le matin."
+    answers: ["ait plu"]
+    explain: "Дождь шёл **раньше** утра → passé du subjonctif ***ait plu***."
+  - q: "Mes parents voulaient que je ___ (devenir) médecin."
+    answers: ["devienne"]
+    explain: "Стать врачом — после желания → présent du subjonctif ***devienne*** (soutenu: *devinsse*)."
+  - q: "C'était le plus beau voyage que nous ___ (faire)."
+    answers: ["ayons fait", "ayons jamais fait"]
+    explain: "Superlatif + предшествование → passé du subjonctif ***ayons fait*** (soutenu: *eussions fait*)."
+  - q: "Je suis content que tu ___ (venir) demain."
+    answers: ["viennes"]
+    explain: "Действие в будущем → présent du subjonctif ***viennes***: будущего времени у subjonctif нет."
+  - q: "On attendit en silence que la neige ___ (cesser) de tomber."
+    answers: ["cesse", "ait cessé"]
+    explain: "*Attendre que* + subjonctif; прекращение — после начала ожидания → présent ***cesse*** (soutenu: *cessât*); *ait cessé* — если важен результат."

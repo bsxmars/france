@@ -1,0 +1,97 @@
+# Cosmopolite 4 (Hachette FLE), N. Hirschsprung, T. Tricot. Только оглавление.
+# n = досье·100 + k: 0 — ouverture, 1–4 — leçons, 5–6 — Focus langue, 7 — Stratégies, 8 — Projets, 9 — DELF, 10 — S'exercer; 9001–9004 — приложения.
+title: "Cosmopolite 4 (B2)"
+author: "N. Hirschsprung, T. Tricot · Hachette FLE"
+units:
+  - {n: 100, label: "Dossier 1", title: "Nous nous intéressons aux modes et tendances", page: 10}
+  - {n: 101, label: "Dossier 1, leçon 1", title: "À la mode ? — Le participe présent et l'adjectif verbal pour caractériser; Le participe composé pour exprimer l'antériorité", page: 12}
+  - {n: 102, label: "Dossier 1, leçon 2", title: "Consommation alimentaire — Le futur antérieur pour exprimer l'antériorité dans le futur", page: 14}
+  - {n: 103, label: "Dossier 1, leçon 3", title: "Vacances, nouvelle vague — Exprimer l'opposition et la concession", page: 18}
+  - {n: 104, label: "Dossier 1, leçon 4", title: "Vous avez dit « vintage » ? — Les conjonctions pour exprimer un rapport temporel", page: 20}
+  - {n: 105, label: "Dossier 1, Focus langue", title: "Grammaire, mots et expressions (leçons 1–2)", page: 16}
+  - {n: 106, label: "Dossier 1, Focus langue", title: "Grammaire, mots et expressions (leçons 3–4)", page: 22}
+  - {n: 107, label: "Dossier 1, Stratégies", title: "Argumenter à l'oral", page: 24}
+  - {n: 108, label: "Dossier 1, Projets", title: "Projet de classe, projet ouvert sur le monde", page: 25}
+  - {n: 109, label: "Dossier 1, DELF", title: "Préparation au DELF B2", page: 26}
+  - {n: 110, label: "Dossier 1, S'exercer", title: "Exercices d'entraînement", page: 156}
+  - {n: 200, label: "Dossier 2", title: "Nous parlons d'histoire et de mémoire", page: 28}
+  - {n: 201, label: "Dossier 2, leçon 1", title: "Événements fondateurs — Les temps du passé pour raconter avec précision; Faire des hypothèses sur le passé", page: 30}
+  - {n: 202, label: "Dossier 2, leçon 2", title: "Autrefois", page: 32}
+  - {n: 203, label: "Dossier 2, leçon 3", title: "Souvenirs d'enfance — Le passé simple pour comprendre un récit au passé", page: 36}
+  - {n: 204, label: "Dossier 2, leçon 4", title: "Transmission", page: 38}
+  - {n: 205, label: "Dossier 2, Focus langue", title: "Grammaire, mots et expressions (leçons 1–2)", page: 34}
+  - {n: 206, label: "Dossier 2, Focus langue", title: "Grammaire, mots et expressions (leçons 3–4)", page: 40}
+  - {n: 207, label: "Dossier 2, Stratégies", title: "Résumer", page: 42}
+  - {n: 208, label: "Dossier 2, Projets", title: "Projet de classe, projet ouvert sur le monde", page: 43}
+  - {n: 209, label: "Dossier 2, DELF", title: "Préparation au DELF B2", page: 44}
+  - {n: 210, label: "Dossier 2, S'exercer", title: "Exercices d'entraînement", page: 160}
+  - {n: 300, label: "Dossier 3", title: "Nous nous construisons une culture commune", page: 46}
+  - {n: 301, label: "Dossier 3, leçon 1", title: "Tous au Salon du livre ! — Les comparatifs et les superlatifs pour comparer et établir une hiérarchie", page: 48}
+  - {n: 302, label: "Dossier 3, leçon 2", title: "À chacun son cinéma — Les pronoms relatifs pour éviter les répétitions", page: 50}
+  - {n: 303, label: "Dossier 3, leçon 3", title: "Patrimoines — La mise en relief pour souligner une information", page: 54}
+  - {n: 304, label: "Dossier 3, leçon 4", title: "Histoires de séries — Les pronoms *y* et *en* pour éviter les répétitions", page: 56}
+  - {n: 305, label: "Dossier 3, Focus langue", title: "Grammaire, mots et expressions (leçons 1–2)", page: 52}
+  - {n: 306, label: "Dossier 3, Focus langue", title: "Grammaire, mots et expressions (leçons 3–4)", page: 58}
+  - {n: 307, label: "Dossier 3, Stratégies", title: "Maîtriser les registres de langue", page: 60}
+  - {n: 308, label: "Dossier 3, Projets", title: "Projet de classe, projet ouvert sur le monde", page: 61}
+  - {n: 309, label: "Dossier 3, DELF", title: "Préparation au DELF B2", page: 62}
+  - {n: 310, label: "Dossier 3, S'exercer", title: "Exercices d'entraînement", page: 164}
+  - {n: 400, label: "Dossier 4", title: "Nous vivons avec les nouvelles technologies", page: 64}
+  - {n: 401, label: "Dossier 4, leçon 1", title: "Protection des données — Poser des questions : la question par inversion", page: 66}
+  - {n: 402, label: "Dossier 4, leçon 2", title: "Technologies au quotidien — Exprimer la durée", page: 68}
+  - {n: 403, label: "Dossier 4, leçon 3", title: "Mémoire et réseaux — Exprimer la cause et la conséquence (cell spans L3–L4)", page: 72}
+  - {n: 404, label: "Dossier 4, leçon 4", title: "Besoin d'une détox ?", page: 74}
+  - {n: 405, label: "Dossier 4, Focus langue", title: "Grammaire, mots et expressions (leçons 1–2)", page: 70}
+  - {n: 406, label: "Dossier 4, Focus langue", title: "Grammaire, mots et expressions (leçons 3–4)", page: 76}
+  - {n: 407, label: "Dossier 4, Stratégies", title: "Identifier les caractéristiques d'une revue des médias", page: 78}
+  - {n: 408, label: "Dossier 4, Projets", title: "Projet de classe, projet ouvert sur le monde", page: 79}
+  - {n: 409, label: "Dossier 4, DELF", title: "Préparation au DELF B2", page: 80}
+  - {n: 410, label: "Dossier 4, S'exercer", title: "Exercices d'entraînement", page: 168}
+  - {n: 500, label: "Dossier 5", title: "Nous débattons de questions de société", page: 82}
+  - {n: 501, label: "Dossier 5, leçon 1", title: "Questions de santé — La voix passive pour mettre en valeur un élément", page: 84}
+  - {n: 502, label: "Dossier 5, leçon 2", title: "Questions de genre — Différents emplois du subjonctif pour prendre position", page: 86}
+  - {n: 503, label: "Dossier 5, leçon 3", title: "Passions françaises", page: 90}
+  - {n: 504, label: "Dossier 5, leçon 4", title: "Le sport, à quel prix ? — Nuancer une comparaison; Le subjonctif pour exprimer une alternative", page: 92}
+  - {n: 505, label: "Dossier 5, Focus langue", title: "Grammaire, mots et expressions (leçons 1–2)", page: 88}
+  - {n: 506, label: "Dossier 5, Focus langue", title: "Grammaire, mots et expressions (leçons 3–4)", page: 94}
+  - {n: 507, label: "Dossier 5, Stratégies", title: "Faire un exposé à l'oral", page: 96}
+  - {n: 508, label: "Dossier 5, Projets", title: "Projet de classe, projet ouvert sur le monde", page: 97}
+  - {n: 509, label: "Dossier 5, DELF", title: "Préparation au DELF B2", page: 98}
+  - {n: 510, label: "Dossier 5, S'exercer", title: "Exercices d'entraînement", page: 172}
+  - {n: 600, label: "Dossier 6", title: "Nous faisons évoluer la société", page: 100}
+  - {n: 601, label: "Dossier 6, leçon 1", title: "Coopératifs et solidaires — Exprimer la condition", page: 102}
+  - {n: 602, label: "Dossier 6, leçon 2", title: "Écologies — Le conditionnel pour atténuer ou exprimer des faits hypothétiques; Le conditionnel passé pour exprimer un reproche ou un regret", page: 104}
+  - {n: 603, label: "Dossier 6, leçon 3", title: "Participation citoyenne — Les adjectifs et les pronoms indéfinis pour préciser une identité ou une quantité", page: 108}
+  - {n: 604, label: "Dossier 6, leçon 4", title: "Contre la surconsommation — L'accord du participe passé avec le COD placé avant le verbe", page: 110}
+  - {n: 605, label: "Dossier 6, Focus langue", title: "Grammaire, mots et expressions (leçons 1–2)", page: 106}
+  - {n: 606, label: "Dossier 6, Focus langue", title: "Grammaire, mots et expressions (leçons 3–4)", page: 112}
+  - {n: 607, label: "Dossier 6, Stratégies", title: "Argumenter à l'écrit", page: 114}
+  - {n: 608, label: "Dossier 6, Projets", title: "Projet de classe, projet ouvert sur le monde", page: 115}
+  - {n: 609, label: "Dossier 6, DELF", title: "Préparation au DELF B2", page: 116}
+  - {n: 610, label: "Dossier 6, S'exercer", title: "Exercices d'entraînement", page: 176}
+  - {n: 700, label: "Dossier 7", title: "Nous agissons au travail", page: 118}
+  - {n: 701, label: "Dossier 7, leçon 1", title: "Cultures professionnelles — Le discours indirect pour rapporter des paroles au présent ou au passé", page: 120}
+  - {n: 702, label: "Dossier 7, leçon 2", title: "Savoir-faire, savoir être", page: 122}
+  - {n: 703, label: "Dossier 7, leçon 3", title: "Modes de communication — La double pronominalisation pour ne pas répéter", page: 126}
+  - {n: 704, label: "Dossier 7, leçon 4", title: "L'avenir du travail", page: 128}
+  - {n: 705, label: "Dossier 7, Focus langue", title: "Grammaire, mots et expressions (leçons 1–2)", page: 124}
+  - {n: 706, label: "Dossier 7, Focus langue", title: "Grammaire, mots et expressions (leçons 3–4)", page: 130}
+  - {n: 707, label: "Dossier 7, Stratégies", title: "Prendre des notes", page: 132}
+  - {n: 708, label: "Dossier 7, Projets", title: "Projet de classe, projet ouvert sur le monde", page: 133}
+  - {n: 709, label: "Dossier 7, DELF", title: "Préparation au DELF B2", page: 134}
+  - {n: 710, label: "Dossier 7, S'exercer", title: "Exercices d'entraînement", page: 181}
+  - {n: 800, label: "Dossier 8", title: "Nous échangeons sur des modèles éducatifs", page: 136}
+  - {n: 801, label: "Dossier 8, leçon 1", title: "Modèles éducatifs — Les propositions relatives pour exprimer un souhait ou un but; La valeur du subjonctif dans l'expression de l'opinion", page: 138}
+  - {n: 802, label: "Dossier 8, leçon 2", title: "Ouverture sur le monde", page: 140}
+  - {n: 803, label: "Dossier 8, leçon 3", title: "Un diplôme, pour quoi faire ? — Le subjonctif pour exprimer la probabilité", page: 144}
+  - {n: 804, label: "Dossier 8, leçon 4", title: "Tellement français ! — La négation *ne… ni… ni…*", page: 146}
+  - {n: 805, label: "Dossier 8, Focus langue", title: "Grammaire, mots et expressions (leçons 1–2)", page: 142}
+  - {n: 806, label: "Dossier 8, Focus langue", title: "Grammaire, mots et expressions (leçons 3–4)", page: 148}
+  - {n: 807, label: "Dossier 8, Stratégies", title: "Faire une synthèse de documents écrits", page: 150}
+  - {n: 808, label: "Dossier 8, Projets", title: "Projet de classe, projet ouvert sur le monde", page: 151}
+  - {n: 809, label: "Dossier 8, DELF", title: "Préparation au DELF B2", page: 152}
+  - {n: 810, label: "Dossier 8, S'exercer", title: "Exercices d'entraînement", page: 184}
+  - {n: 9001, label: "Annexe", title: "Épreuve complète de DELF B2", page: 188}
+  - {n: 9002, label: "Annexe", title: "Précis de grammaire", page: 195}
+  - {n: 9003, label: "Annexe", title: "Phonétique", page: 217}
+  - {n: 9004, label: "Annexe", title: "Conjugaisons", page: 220}

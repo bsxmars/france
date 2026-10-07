@@ -1,0 +1,51 @@
+title: "Две формы множественного числа: выбери по смыслу"
+type: choice
+intro: "Выбери форму, которая подходит по смыслу и по норме. Обращай внимание на стиль и на тип текста."
+hints:
+  - "yeux — глаза; œils — в составных словах (des œils-de-bœuf)."
+  - "cieux — небеса (поэтич.); ciels — в живописи, о погоде. aïeux — предки; aïeuls — дедушки и бабушки."
+items:
+  - q: "Le château est éclairé par de petits ___ ronds percés sous le toit."
+    options: ["œils-de-bœuf", "yeux-de-bœuf", "œil-de-bœufs"]
+    answer: 0
+    explain: "В составном слове *œil-de-bœuf* (круглое окно) мн. ч. — ***des œils-de-bœuf***: *œil* получает *s*, *de bœuf* не меняется."
+  - q: "« Gloire à Dieu au plus haut des ___ ! » chantait la chorale."
+    options: ["ciels", "cieux", "ciel"]
+    answer: 1
+    explain: "Религиозный, торжественный текст → ***les cieux***."
+  - q: "Ce peintre est connu pour ses ___ d'orage au-dessus de la mer du Nord."
+    options: ["cieux", "ciels", "ciel"]
+    answer: 1
+    explain: "Изображённое небо в живописи → ***des ciels***."
+  - q: "Nos ___ ont défriché cette terre au XVIIe siècle."
+    options: ["aïeuls", "aïeux", "aïeules"]
+    answer: 1
+    explain: "Далёкие предки → ***nos aïeux*** (книжн.). *Aïeuls* — дедушки и бабушки."
+  - q: "Ses deux ___, paternel et maternel, ont vécu centenaires."
+    options: ["aïeux", "aïeuls", "aïeul"]
+    answer: 1
+    explain: "Конкретные дедушки (*paternel et maternel*) → ***aïeuls***."
+  - q: "Ce gruyère est plein de ___ : c'est bon signe."
+    options: ["yeux", "œils", "œuils"]
+    answer: 0
+    explain: "Дырочки в сыре называют ***les yeux*** (*les yeux du gruyère*)."
+  - q: "Les ___ de rénovation dureront jusqu'à la fin de l'année."
+    options: ["travails", "travaux", "travail"]
+    answer: 1
+    explain: "Ремонтные работы — ***les travaux***. *Travails* — специальный термин (станок для ковки лошадей)."
+  - q: "Les ___ de la jeunesse se heurtent souvent à la réalité. Quelle forme est correcte ?"
+    options: ["seulement idéaux", "seulement idéals", "idéaux et idéals"]
+    answer: 2
+    explain: "У *idéal* обе формы нормативны: ***idéaux*** (чаще) и ***idéals***. Выбор — дело стиля."
+  - q: "Les ___ de cette famille possédaient le domaine depuis trois générations."
+    options: ["Durand", "Durands", "Durande"]
+    answer: 0
+    explain: "Фамилии обычных семей во мн. ч. не изменяются: ***les Durand***."
+  - q: "La France a été gouvernée par les ___ jusqu'en 1792."
+    options: ["Bourbon", "Bourbons", "Bourbones"]
+    answer: 1
+    explain: "Имена царствующих домов принимают *s*: ***les Bourbons*** (как *les Stuarts, les Césars*)."
+  - q: "Il a soigneusement rangé tous ses papiers dans les ___ de la mairie."
+    options: ["archive", "archives", "archivs"]
+    answer: 1
+    explain: "*Archives* — существительное только мн. ч. (pluralia tantum): ***les archives***."

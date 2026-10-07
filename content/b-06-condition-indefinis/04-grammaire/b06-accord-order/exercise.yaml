@@ -1,0 +1,38 @@
+title: "Собери фразу и согласуй"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Причастия уже согласованы — посмотри, с чем именно."
+hints:
+  - "Местоимение-дополнение — перед avoir: je l'ai…, je les ai…"
+  - "tous, déjà, bien — между avoir и причастием."
+  - "В отрицании ne… pas обнимают avoir вместе с местоимением."
+items:
+  - q: "«Эту куртку я купил на распродаже»."
+    answers: ["Cette veste, je l'ai achetée en solde."]
+    explain: "*L'* = cette veste перед *ai* → **achetée**."
+  - q: "«Сумки, которые она сшила, продаются хорошо»."
+    answers: ["Les sacs qu'elle a cousus se vendent bien."]
+    explain: "*Que* = les sacs (м. р. мн. ч.) → **cousus**; *se vendent* — местоимённый пассив."
+  - q: "«Эти рекламы я все видел»."
+    answers: ["Ces publicités, je les ai toutes vues."]
+    explain: "*Toutes* — между *ai* и причастием; *les* = ces publicités → **vues**."
+  - q: "«Какие марки ты выбрала?»"
+    answers: ["Quelles marques as-tu choisies ?"]
+    explain: "Вопрос с инверсией; *quelles marques* перед глаголом → **choisies**."
+  - q: "«Я их ещё не получил» (о посылках — les colis)."
+    answers: ["Je ne les ai pas encore reçus."]
+    explain: "*Ne… pas* обнимают *les ai*; *les* = les colis → **reçus**."
+  - q: "«Обещания, которые сделал бренд, не были выполнены»."
+    answers: ["Les promesses que la marque a faites n'ont pas été tenues."]
+    explain: "*Que* = les promesses → **faites**; пассив *n'ont pas été tenues*."
+  - q: "«Скидки? Я видела много»."
+    answers: ["Des réductions, j'en ai vu beaucoup."]
+    explain: "С *en* причастие не согласуется: **vu**."
+  - q: "«Продавщица нас убедила» (говорят две женщины)."
+    answers: ["La vendeuse nous a convaincues."]
+    explain: "*Nous* — COD (двое женщин) → **convaincues**."
+  - q: "«Мы им позвонили, чтобы пожаловаться»."
+    answers: ["Nous leur avons téléphoné pour nous plaindre."]
+    explain: "*Leur* — косвенное дополнение (*téléphoner **à***) → **téléphoné** без согласования."
+  - q: "«Получив посылку, она её сразу открыла»."
+    answers: ["Après avoir reçu le colis, elle l'a ouvert tout de suite."]
+    explain: "*L'* = le colis (м. р.) → **ouvert**; *reçu* — COD после глагола."

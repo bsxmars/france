@@ -1,0 +1,44 @@
+title: "Найди ошибку в наклонении"
+type: error
+intro: "В каждом предложении **одна** ошибка: indicatif вместо subjonctif, subjonctif вместо indicatif, лишний que вместо инфинитива или неверная форма subjonctif. Исправь и отправь предложение целиком."
+hints:
+  - "je pense / je crois / je trouve que + indicatif; в отрицании — subjonctif."
+  - "il est probable, il me semble, espérer → indicatif; il est possible, il semble → subjonctif."
+  - "Одно подлежащее → инфинитив."
+items:
+  - q: "Je pense que cette mesure soit trop coûteuse."
+    answers: ["Je pense que cette mesure est trop coûteuse.", "Je pense que cette mesure sera trop coûteuse.", "Je pense que cette mesure serait trop coûteuse."]
+    explain: "После утвердительного *je pense que* — indicatif: **est**."
+  - q: "Il faut que le gouvernement prend ses responsabilités."
+    answers: ["Il faut que le gouvernement prenne ses responsabilités."]
+    explain: "*Il faut que* → subjonctif: **prenne**."
+  - q: "Je ne crois pas que les citoyens sont mal informés."
+    answers: ["Je ne crois pas que les citoyens soient mal informés."]
+    explain: "Глагол мнения в отрицании → subjonctif: **soient**."
+  - q: "J'espère que vous soyez satisfaits de nos services."
+    answers: ["J'espère que vous êtes satisfaits de nos services.", "J'espère que vous serez satisfaits de nos services.", "J'espère que vous avez été satisfaits de nos services."]
+    explain: "*Espérer que* — всегда indicatif: *que vous **êtes** / **serez** satisfaits*. Русскоговорящие часто ставят здесь subjonctif по аналогии с *souhaiter*."
+  - q: "Nous voulons que nous changions les règles."
+    answers: ["Nous voulons changer les règles."]
+    explain: "Одно подлежащее → инфинитив: *Nous voulons **changer** les règles*."
+  - q: "Il est probable que la grève soit suivie par beaucoup d'enseignants."
+    answers: ["Il est probable que la grève sera suivie par beaucoup d'enseignants.", "Il est probable que la grève est suivie par beaucoup d'enseignants."]
+    explain: "*Il est probable que* → indicatif: **sera suivie**."
+  - q: "Je voudrais que tu viens avec moi à la manifestation."
+    answers: ["Je voudrais que tu viennes avec moi à la manifestation."]
+    explain: "Желание с другим подлежащим → subjonctif: *que tu **viennes***."
+  - q: "C'est une honte que des enfants vont à l'école le ventre vide."
+    answers: ["C'est une honte que des enfants aillent à l'école le ventre vide."]
+    explain: "Оценка (*c'est une honte que*) → subjonctif; *aller* — неправильный: *qu'ils **aillent***."
+  - q: "Il est important que chacun peut donner son avis."
+    answers: ["Il est important que chacun puisse donner son avis."]
+    explain: "Необходимость → subjonctif; от *pouvoir* — **puisse**, а не indicatif *peut*."
+  - q: "Je trouve normal que les salariés sont consultés."
+    answers: ["Je trouve normal que les salariés soient consultés."]
+    explain: "*Je trouve **normal** que* — оценка → subjonctif: **soient** consultés. (Сравни: *je trouve que* + indicatif.)"
+  - q: "Je suis sûr que cette décision soit la bonne."
+    answers: ["Je suis sûr que cette décision est la bonne.", "Je suis sûre que cette décision est la bonne."]
+    explain: "Уверенность → indicatif: **est**."
+  - q: "Il me semble que le texte soit trop long pour un exposé."
+    answers: ["Il me semble que le texte est trop long pour un exposé."]
+    explain: "*Il **me** semble que* = «мне кажется, по-моему» → indicatif: **est**."

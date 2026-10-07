@@ -1,0 +1,44 @@
+title: "Союз решает: indicatif или subjonctif"
+type: gap
+intro: "Поставь глагол в нужное наклонение и время. Наклонение задаёт союз; время — соотношение с главным действием. Где по смыслу нужен ne explétif, он уже стоит в предложении."
+hints:
+  - "avant que, jusqu'à ce que, en attendant que, pour que, afin que, de peur que, à condition que, à moins que, pourvu que, sans que, non que → subjonctif."
+  - "après que, pendant que, dès que, parce que, si bien que → indicatif."
+  - "de sorte que: цель → subjonctif, результат → indicatif."
+items:
+  - q: "Les invités sont arrivés avant que nous ___ (finir) de préparer le dîner."
+    answers: ["ayons fini", "finissions"]
+    explain: "*Avant que* + subjonctif. Мы ещё **не закончили** к их приходу: *ayons fini* (не успели закончить) или *finissions* (были в процессе) — оба варианта верны."
+  - q: "Après que le jury ___ (délibérer), le président a annoncé les résultats."
+    answers: ["a délibéré", "a eu délibéré", "eut délibéré"]
+    explain: "*Après que* + indicatif (по норме). Предшествование: ***a délibéré*** или книжные *a eu délibéré / eut délibéré*."
+  - q: "Je vous laisse mes clés pour que vous ___ (pouvoir) entrer en mon absence."
+    answers: ["puissiez"]
+    explain: "Цель (*pour que*) → subjonctif: ***puissiez***."
+  - q: "Il a parlé si vite que personne n'a rien compris, de sorte que la réunion ___ (devoir) être reportée."
+    answers: ["a dû"]
+    explain: "*De sorte que* здесь вводит **результат**, который уже наступил → indicatif: ***a dû***."
+  - q: "Parlez plus fort, de sorte que tout le monde vous ___ (entendre)."
+    answers: ["entende"]
+    explain: "*De sorte que* после повелительного — **цель** → subjonctif: ***entende***."
+  - q: "J'accepte de vous aider, à condition que vous me ___ (rendre) la pareille."
+    answers: ["rendiez"]
+    explain: "Условие (*à condition que*) → subjonctif: ***rendiez***."
+  - q: "Ce n'est pas que le film ___ (être) mauvais, mais il est beaucoup trop long."
+    answers: ["soit"]
+    explain: "Отвергаемая причина (*ce n'est pas que*) → subjonctif ***soit***; настоящая причина после *mais* — indicatif."
+  - q: "Elle a quitté la salle sans que personne s'en ___ (apercevoir)."
+    answers: ["aperçoive", "soit aperçu"]
+    explain: "*Sans que* + subjonctif: ***aperçoive*** (одновременно) или *se soit aperçu* (никто не успел заметить)."
+  - q: "La situation est trop grave pour qu'on ___ (pouvoir) attendre la fin du mois."
+    answers: ["puisse"]
+    explain: "*Trop… pour que* → subjonctif: ***puisse***."
+  - q: "Comme il ___ (pleuvoir) depuis le matin, le match a été annulé."
+    answers: ["pleuvait"]
+    explain: "*Comme* — реальная причина → indicatif; длительное состояние в прошлом → imparfait ***pleuvait***."
+  - q: "Je garderai le silence jusqu'à ce que l'enquête ___ (être) close."
+    answers: ["soit"]
+    explain: "*Jusqu'à ce que* + subjonctif: ***soit***. «Пока не закроют» — по-французски без отрицания."
+  - q: "Pour peu qu'on lui ___ (faire) confiance, il se montre très efficace."
+    answers: ["fasse"]
+    explain: "*Pour peu que* (стоит только…) → subjonctif: ***fasse***."

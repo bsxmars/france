@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу на французский целиком. Пунктуация не важна, акценты — важны. Используй вопросы на «ты», если не сказано иное."
+hints:
+  - "Pas с personne, rien, jamais, plus, nulle part, ni … ni не ставится."
+  - "Несколько отрицаний: plus jamais, plus rien, jamais rien, jamais personne."
+items:
+  - q: "Никто мне не помог."
+    answers: ["Personne ne m'a aidé.", "Personne ne m'a aidée."]
+    explain: "*Personne* — подлежащее: **Personne ne** m'a aidé(e)."
+  - q: "Я ни о чём не думаю."
+    answers: ["Je ne pense à rien."]
+    explain: "*Penser à* qch → *ne … **à rien***: предлог остаётся."
+  - q: "Он больше не курит."
+    answers: ["Il ne fume plus."]
+    explain: "«Больше не» → **ne … plus**."
+  - q: "Мы никогда не были в Риме."
+    answers: ["Nous ne sommes jamais allés à Rome.", "Nous n'avons jamais été à Rome.", "Nous ne sommes jamais allées à Rome.", "On n'est jamais allés à Rome.", "On n'est jamais allé à Rome.", "On n'a jamais été à Rome."]
+    explain: "**jamais** — между вспомогательным глаголом и причастием: *nous ne sommes jamais allés* / *nous n'avons jamais été*."
+  - q: "Это никого не интересует."
+    answers: ["Cela n'intéresse personne.", "Ça n'intéresse personne."]
+    explain: "*Personne* — прямое дополнение, после глагола: *cela n'intéresse **personne***."
+  - q: "Я тебе никогда ничего не обещал."
+    answers: ["Je ne t'ai jamais rien promis."]
+    explain: "Два отрицания в порядке **jamais rien**, оба перед причастием *promis*."
+  - q: "Этот суп ни горячий, ни холодный."
+    answers: ["Cette soupe n'est ni chaude ni froide."]
+    explain: "*Ni … ni* с прилагательными, *pas* не нужно: *n'est **ni** chaude **ni** froide*."
+  - q: "Постарайся никого не разбудить."
+    answers: ["Essaie de ne réveiller personne.", "Essaye de ne réveiller personne.", "Tâche de ne réveiller personne."]
+    explain: "Отрицание при инфинитиве: *ne* перед ним, **personne** — после: *de ne réveiller personne*."
+  - q: "Она больше никого не ждёт."
+    answers: ["Elle n'attend plus personne."]
+    explain: "Порядок **plus personne**: *elle n'attend plus personne*."
+  - q: "В этом воскресенье я никуда не пойду."
+    answers: ["Ce dimanche, je ne vais aller nulle part.", "Ce dimanche, je n'irai nulle part.", "Je n'irai nulle part ce dimanche.", "Je ne vais aller nulle part ce dimanche.", "Dimanche, je n'irai nulle part.", "Je n'irai nulle part dimanche.", "Ce dimanche, je ne vais nulle part.", "Je ne vais nulle part ce dimanche."]
+    explain: "«Никуда» → **nulle part**; в простом будущем — после глагола (*je n'irai nulle part*), при инфинитиве — после него (*je ne vais aller nulle part*)."

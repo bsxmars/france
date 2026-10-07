@@ -1,0 +1,47 @@
+title: "Мой, его, их, свой"
+type: choice
+intro: "Выбери притяжательное слово. Сначала посмотри, **кто владелец** (лицо), потом — **род и число** предмета."
+hints:
+  - "je → mon, ma, mes; il / elle → son, sa, ses; ils / elles → leur, leurs."
+  - "«Свой» = притяжательное того же лица, что и подлежащее."
+items:
+  - q: "J'écris à ___ sœur. — Я пишу своей сестре."
+    options: ["sa", "ma", "leur"]
+    answer: 1
+    explain: "Подлежащее *je* → «свою» = **ma**; *sœur* — ж. р."
+  - q: "Les filles parlent à ___ mère. — Девочки говорят со своей матерью."
+    options: ["sa", "leur", "leurs"]
+    answer: 1
+    explain: "Владельцев несколько (*les filles* = *elles*) → **leur**; мать одна → без *-s*."
+  - q: "Paul cherche ___ cahier. — Поль ищет свою тетрадь."
+    options: ["son", "sa", "leur"]
+    answer: 0
+    explain: "Владелец — *il* → *son / sa*; *cahier* — м. р. → **son**."
+  - q: "Anna et Hugo lisent ___ textes. — Анна и Хьюго читают свои тексты."
+    options: ["ses", "leur", "leurs"]
+    answer: 2
+    explain: "Владельцы — *ils*, текстов несколько → **leurs**."
+  - q: "Je regarde ___ images. — Я смотрю свои картинки."
+    options: ["mes", "ses", "les mes"]
+    answer: 0
+    explain: "Подлежащее *je*, предметов много → **mes**. Артикль рядом с притяжательным словом не ставится."
+  - q: "Léa habite Lille avec ___ père. — Лея живёт в Лилле со своим отцом."
+    options: ["sa", "son", "leur"]
+    answer: 1
+    explain: "Владелец — *elle*, но *père* — м. р. → **son**: род берётся от предмета."
+  - q: "Les élèves ferment ___ livres. — Ученики закрывают свои книги."
+    options: ["leur", "leurs", "ses"]
+    answer: 1
+    explain: "*ils* + много книг → **leurs**."
+  - q: "Mes sœurs habitent Paris. ___ fille est architecte. — Мои сёстры живут в Париже. Их дочь — архитектор."
+    options: ["Sa", "Leur", "Leurs"]
+    answer: 1
+    explain: "«Их» (владельцев двое) + одна дочь → **leur**, одна форма для м. и ж. р."
+  - q: "J'aime ___ école. — Я люблю свою школу."
+    options: ["ma", "mon", "m'"]
+    answer: 1
+    explain: "*école* — ж. р. на гласную → **mon** (как *mon amie*). Элизии ~~m'~~ не бывает."
+  - q: "Ils écrivent à ___ amis. — Они пишут своим друзьям."
+    options: ["leur", "leurs", "ses"]
+    answer: 1
+    explain: "Владельцы — *ils*, друзей много → **leurs** [lœr-za-mi], со связыванием."

@@ -1,0 +1,38 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: форма глагола, вопросительное слово, число или оборот c'est… qui. Исправь её и отправь предложение целиком."
+hints:
+  - "Il répond, il attend — без -t."
+  - "После qui / qu'est-ce qui глагол в 3-м лице ед. ч."
+  - "Quatre-vingts, deux cents — но quatre-vingt-trois, deux cent dix."
+items:
+  - q: "Il attendt sa sœur devant la gare."
+    answers: ["Il attend sa sœur devant la gare."]
+    explain: "У глаголов на *-endre* в 3-м лице ед. ч. окончания нет: **il attend**."
+  - q: "Nous voions très bien la scène."
+    answers: ["Nous voyons très bien la scène."]
+    explain: "У *voir* в форме *nous* — **y**: *nous voyons*."
+  - q: "Qui chantent dans la rue ?"
+    answers: ["Qui chante dans la rue ?"]
+    explain: "В вопросе к подлежащему глагол всегда в 3-м лице ед. ч.: **qui chante**."
+  - q: "Qu'est-ce que se passe sur la place ?"
+    answers: ["Qu'est-ce qui se passe sur la place ?"]
+    explain: "За вопросом сразу идёт глагол — значит, спрашиваем о подлежащем: **qu'est-ce qui** se passe."
+  - q: "Mon oncle a quatre-vingt ans."
+    answers: ["Mon oncle a quatre-vingts ans."]
+    explain: "80 — **quatre-vingts**: после *vingt* нет другого числа, поэтому *-s*."
+  - q: "Le village a deux cents trente habitants."
+    answers: ["Le village a deux cent trente habitants.", "Le village a deux-cent-trente habitants."]
+    explain: "За *cent* идёт ещё число → без *-s*: **deux cent trente**."
+  - q: "C'est moi qui répond aux lettres."
+    answers: ["C'est moi qui réponds aux lettres."]
+    explain: "Глагол после *qui* согласуется с *moi* → 1-е лицо: **réponds**."
+  - q: "Ce sont nous qui allons au bal."
+    answers: ["C'est nous qui allons au bal."]
+    explain: "**Ce sont** — только перед 3-м лицом мн. ч. С *nous* — **c'est nous**."
+  - q: "Les enfants descendons dans la cour."
+    answers: ["Les enfants descendent dans la cour."]
+    explain: "*Les enfants* = *ils* → **descendent**."
+  - q: "Je réponds ta question demain."
+    answers: ["Je réponds à ta question demain."]
+    explain: "*Répondre* требует предлога: **répondre à** qch / qn."

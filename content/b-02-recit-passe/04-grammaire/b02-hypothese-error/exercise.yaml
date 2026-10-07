@@ -1,0 +1,37 @@
+title: "Найди ошибку в гипотезе"
+type: error
+intro: "В каждом предложении **одна** ошибка: время после *si*, форма conditionnel passé, вспомогательный глагол или согласование. Исправь её и отправь предложение целиком."
+hints:
+  - "После si — imparfait или plus-que-parfait, не conditionnel."
+  - "Conditionnel passé = aurais / serais + participe passé."
+items:
+  - q: "Si j'aurais su, je serais resté à la maison."
+    answers: ["Si j'avais su, je serais resté à la maison.", "Si j'avais su, je serais restée à la maison."]
+    explain: "После *si* conditionnel невозможен → plus-que-parfait: *si j'**avais su***."
+  - q: "Si vous m'aviez appelé, je vous aurai aidé."
+    answers: ["Si vous m'aviez appelé, je vous aurais aidé."]
+    explain: "Нужен conditionnel passé **aurais aidé**, а не futur antérieur *aurai aidé*. На слух почти не различаются — на письме это частая ошибка."
+  - q: "S'ils étaient partis à l'heure, ils ne seraient pas raté l'avion."
+    answers: ["S'ils étaient partis à l'heure, ils n'auraient pas raté l'avion."]
+    explain: "*rater* — переходный глагол, спрягается с **avoir**: *ils n'**auraient** pas raté*."
+  - q: "Si elle n'avait pas émigré, elle ne serait jamais devenu écrivaine."
+    answers: ["Si elle n'avait pas émigré, elle ne serait jamais devenue écrivaine."]
+    explain: "*devenir* — с *être*, причастие согласуется с подлежащим *elle*: **devenue**."
+  - q: "Si je connaissais la vérité plus tôt, j'aurais agi autrement."
+    answers: ["Si j'avais connu la vérité plus tôt, j'aurais agi autrement.", "Si j'avais su la vérité plus tôt, j'aurais agi autrement."]
+    explain: "*Plus tôt* — условие относится к прошлому моменту → plus-que-parfait: *si j'**avais connu** la vérité*."
+  - q: "Sans cette lettre, personne n'aurait connaître son histoire."
+    answers: ["Sans cette lettre, personne n'aurait connu son histoire."]
+    explain: "Conditionnel passé = *aurait* + **причастие** (*connu*), не инфинитив."
+  - q: "Nous nous aurions perdus sans le GPS."
+    answers: ["Nous nous serions perdus sans le GPS.", "Nous nous serions perdues sans le GPS."]
+    explain: "Возвратные глаголы — только с **être**: *nous nous **serions** perdus*."
+  - q: "Si le général avait attaqué plus tôt, la bataille aurait été gagné."
+    answers: ["Si le général avait attaqué plus tôt, la bataille aurait été gagnée."]
+    explain: "Пассив: причастие согласуется с подлежащим *la bataille* (ж. р.): *aurait été **gagnée***."
+  - q: "Tu pourrais me prévenir hier que tu ne viendrais pas !"
+    answers: ["Tu aurais pu me prévenir hier que tu ne viendrais pas !"]
+    explain: "Упрёк о прошлом (**hier**) → conditionnel passé: *tu **aurais pu** me prévenir*. *Tu pourrais* — просьба о настоящем."
+  - q: "À ta place, j'avais refusé cette offre."
+    answers: ["À ta place, j'aurais refusé cette offre.", "A ta place, j'aurais refusé cette offre."]
+    explain: "*À ta place* заменяет условие; последствие в прошлом → conditionnel passé: *j'**aurais refusé***. Plus-que-parfait здесь не выражает гипотезу."

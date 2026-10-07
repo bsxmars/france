@@ -1,0 +1,38 @@
+title: "Найди ошибку: tout, артикль, à — de"
+type: error
+intro: "В каждом предложении **одна** ошибка: форма или место tout, артикль, предлог à / de или форма vous. Исправь её и отправь предложение целиком."
+hints:
+  - "tout + артикль + существительное: tout le texte, toutes les fenêtres."
+  - "à — куда, de — откуда; au, aux, du, des."
+  - "vous êtes, vous dites, vous faites; остальные на -ez."
+items:
+  - q: "Je lis le tout texte."
+    answers: ["Je lis tout le texte."]
+    explain: "Артикль стоит **после** *tout*: **tout le** texte."
+  - q: "Tout la ville est au stade."
+    answers: ["Toute la ville est au stade."]
+    explain: "*ville* — ж. р. → **toute** la ville."
+  - q: "Ouvrez tout les fenêtres, s'il vous plaît."
+    answers: ["Ouvrez toutes les fenêtres, s'il vous plaît."]
+    explain: "*fenêtres* — ж. р. мн. ч. → **toutes**."
+  - q: "Il va au stade toutes les jours."
+    answers: ["Il va au stade tous les jours."]
+    explain: "*jours* — м. р. мн. ч. → **tous** les jours."
+  - q: "Mes tous amis aiment le football."
+    answers: ["Tous mes amis aiment le football."]
+    explain: "*tout* стоит перед притяжательным словом: **tous mes** amis."
+  - q: "J'aime musique."
+    answers: ["J'aime la musique."]
+    explain: "Понятие в общем смысле после *aimer* → определённый артикль: *J'aime **la** musique.*"
+  - q: "Nous allons de la bibliothèque."
+    answers: ["Nous allons à la bibliothèque."]
+    explain: "*aller* — движение «куда» → **à** la bibliothèque. *de* — «откуда»: *Nous revenons de la bibliothèque*."
+  - q: "Je reviens de le cinéma."
+    answers: ["Je reviens du cinéma."]
+    explain: "*de* + *le* = **du**."
+  - q: "Que faisez-vous ce soir ?"
+    answers: ["Que faites-vous ce soir ?"]
+    explain: "Исключение: **vous faites**."
+  - q: "Vous disez bonjour à Léa."
+    answers: ["Vous dites bonjour à Léa."]
+    explain: "Исключение: **vous dites**."

@@ -1,0 +1,189 @@
+# Попова, Казакова, Ковальчук. Французский язык: учебник для I курса (Нестор Академик, 21-е изд., 2009).
+# Только оглавление: n = урок·100 + § (0 — фонетика или текст урока, 50 — Commentaires, 90 — Dialogues); 3001–3003 — Révision A–C.
+# Страница § — начало раздела грамматики урока; упражнения книги идут после него.
+title: "Французский язык. Учебник для I курса"
+author: "И. Н. Попова, Ж. А. Казакова, Г. М. Ковальчук"
+units:
+  - {n: 100, label: "Урок 1", title: "Фонетика: Гласный [a]; Согласные [r], [l], [f], [v], [k], [g], [t], [d], [s], [z]", page: 24}
+  - {n: 101, label: "Урок 1, § 1", title: "Строй французского предложения", page: 27}
+  - {n: 102, label: "Урок 1, § 2", title: "Виды слов во французском языке", page: 27}
+  - {n: 103, label: "Урок 1, § 3", title: "Артикль", page: 27}
+  - {n: 200, label: "Урок 2", title: "Фонетика: Гласный [ɛ]; Согласные [ʃ], [ʒ], [p], [b], [m], [n]", page: 29}
+  - {n: 201, label: "Урок 2, § 1", title: "Местоименные прилагательные", page: 32}
+  - {n: 202, label: "Урок 2, § 2", title: "Глагол être 'быть'", page: 32}
+  - {n: 203, label: "Урок 2, § 3", title: "Оборот c'est", page: 32}
+  - {n: 300, label: "Урок 3", title: "Фонетика: Гласный [e]", page: 34}
+  - {n: 301, label: "Урок 3, § 1", title: "Глаголы I группы", page: 36}
+  - {n: 302, label: "Урок 3, § 2", title: "Множественное число имен существительных", page: 36}
+  - {n: 400, label: "Урок 4", title: "Фонетика: Гласный [i]; Полугласный [j]", page: 38}
+  - {n: 401, label: "Урок 4, § 1", title: "Порядок слов во французском предложении", page: 41}
+  - {n: 402, label: "Урок 4, § 2", title: "Неупотребление артикля перед именами собственными", page: 41}
+  - {n: 403, label: "Урок 4, § 3", title: "Третье лицо единственного и множественного числа глаголов III группы", page: 41}
+  - {n: 404, label: "Урок 4, § 4", title: "Вопрос к подлежащему", page: 41}
+  - {n: 500, label: "Урок 5", title: "Фонетика: Гласный [œ]", page: 45}
+  - {n: 501, label: "Урок 5, § 1", title: "Притяжательные прилагательные", page: 48}
+  - {n: 502, label: "Урок 5, § 2", title: "Выпадение гласных", page: 48}
+  - {n: 503, label: "Урок 5, § 3", title: "Определенный артикль", page: 48}
+  - {n: 504, label: "Урок 5, § 4", title: "Опущение артикля при существительном в роли именной части сказуемого", page: 48}
+  - {n: 505, label: "Урок 5, § 5", title: "Первое лицо единственного числа настоящего времени глаголов I и III группы", page: 48}
+  - {n: 506, label: "Урок 5, § 6", title: "Отрицательная форма глагола", page: 48}
+  - {n: 507, label: "Урок 5, § 7", title: "Предлог de", page: 48}
+  - {n: 508, label: "Урок 5, § 8", title: "Предлог à", page: 48}
+  - {n: 600, label: "Урок 6", title: "Фонетика: Гласный [ø]", page: 53}
+  - {n: 601, label: "Урок 6, § 1", title: "Безличный оборот il est", page: 55}
+  - {n: 602, label: "Урок 6, § 2", title: "Имя прилагательное", page: 55}
+  - {n: 700, label: "Урок 7", title: "Фонетика: Гласный [y]", page: 60}
+  - {n: 701, label: "Урок 7, § 1", title: "Употребление артикля после оборота c'est", page: 62}
+  - {n: 702, label: "Урок 7, § 2", title: "Второе лицо единственного числа настоящего времени глаголов I и III группы", page: 62}
+  - {n: 703, label: "Урок 7, § 3", title: "Опущение артикля перед именем существительным, обозначающим национальность", page: 62}
+  - {n: 704, label: "Урок 7, § 4", title: "Вопросительное предложение", page: 62}
+  - {n: 705, label: "Урок 7, § 5", title: "Спряжение глаголов III группы в единственном числе", page: 62}
+  - {n: 800, label: "Урок 8", title: "Фонетика: Гласный [ɔ]", page: 68}
+  - {n: 801, label: "Урок 8, § 1", title: "Вопрос к прямому дополнению", page: 70}
+  - {n: 802, label: "Урок 8, § 2", title: "Употребление артикля перед существительным в роли именной части сказуемого", page: 70}
+  - {n: 803, label: "Урок 8, § 3", title: "Слияние определенного артикля с предлогом de", page: 70}
+  - {n: 900, label: "Урок 9", title: "Фонетика: Гласный [o]", page: 75}
+  - {n: 901, label: "Урок 9, § 1", title: "Слияние определенного артикля с предлогом à", page: 77}
+  - {n: 902, label: "Урок 9, § 2", title: "Безличные глаголы", page: 77}
+  - {n: 903, label: "Урок 9, § 3", title: "Личные местоимения le, la, les", page: 77}
+  - {n: 904, label: "Урок 9, § 4", title: "Место наречия", page: 77}
+  - {n: 905, label: "Урок 9, § 5", title: "Предлог jusque", page: 77}
+  - {n: 906, label: "Урок 9, § 6", title: "Инверсия во вводном предложении", page: 77}
+  - {n: 1000, label: "Урок 10", title: "Фонетика: Гласный [u]; Согласный [ɲ]", page: 84}
+  - {n: 1001, label: "Урок 10, § 1", title: "Второе лицо множественного числа настоящего времени глаголов", page: 87}
+  - {n: 1002, label: "Урок 10, § 2", title: "Вопросительное наречие où", page: 87}
+  - {n: 1003, label: "Урок 10, § 3", title: "Определенный артикль", page: 87}
+  - {n: 1004, label: "Урок 10, § 4", title: "Неопределенное прилагательное tout", page: 87}
+  - {n: 1005, label: "Урок 10, § 5", title: "Предлоги à — de", page: 87}
+  - {n: 1100, label: "Урок 11", title: "Фонетика: Гласный [ə]", page: 94}
+  - {n: 1101, label: "Урок 11, § 1", title: "Конструкция c'est — ce sont", page: 98}
+  - {n: 1102, label: "Урок 11, § 2", title: "Неопределенно-личное местоимение on", page: 98}
+  - {n: 1103, label: "Урок 11, § 3", title: "Спряжение глаголов I группы в настоящем времени изъявительного наклонения", page: 98}
+  - {n: 1104, label: "Урок 11, § 4", title: "Повелительное наклонение глаголов I группы", page: 98}
+  - {n: 1200, label: "Урок 12", title: "Фонетика: Гласный [ɛ̃]", page: 103}
+  - {n: 1201, label: "Урок 12, § 1", title: "Притяжательные прилагательные", page: 106}
+  - {n: 1202, label: "Урок 12, § 2", title: "Указательные прилагательные", page: 106}
+  - {n: 1203, label: "Урок 12, § 3", title: "Глаголы III группы", page: 106}
+  - {n: 1204, label: "Урок 12, § 4", title: "Спряжение глаголов lire и écrire", page: 106}
+  - {n: 1300, label: "Урок 13", title: "Фонетика: Гласный [œ̃]", page: 114}
+  - {n: 1301, label: "Урок 13, § 1", title: "Неопределенный артикль", page: 117}
+  - {n: 1302, label: "Урок 13, § 2", title: "Безличный оборот il y a", page: 117}
+  - {n: 1303, label: "Урок 13, § 3", title: "Спряжение глагола aller", page: 117}
+  - {n: 1304, label: "Урок 13, § 4", title: "Спряжение глаголов типа venir", page: 117}
+  - {n: 1400, label: "Урок 14", title: "Фонетика: Гласные [ɑ] и [ɑ̃]", page: 124}
+  - {n: 1401, label: "Урок 14, § 1", title: "Наречия en, y", page: 129}
+  - {n: 1402, label: "Урок 14, § 2", title: "Вопросительные наречия quand, comment", page: 129}
+  - {n: 1403, label: "Урок 14, § 3", title: "Спряжение глагола faire", page: 129}
+  - {n: 1500, label: "Урок 15", title: "Фонетика: Полугласный [w]", page: 137}
+  - {n: 1501, label: "Урок 15, § 1", title: "Местоимение cela", page: 141}
+  - {n: 1502, label: "Урок 15, § 2", title: "Опущение неопределенного артикля после отрицания", page: 141}
+  - {n: 1503, label: "Урок 15, § 3", title: "Неупотребление артикля после количественных наречий", page: 141}
+  - {n: 1504, label: "Урок 15, § 4", title: "Порядок слов в вопросительном предложении, начинающемся с наречия combien", page: 141}
+  - {n: 1505, label: "Урок 15, § 5", title: "Спряжение глагола avoir", page: 141}
+  - {n: 1600, label: "Урок 16", title: "Фонетика: Полугласный [ɥ]", page: 148}
+  - {n: 1601, label: "Урок 16, § 1", title: "Местоимение en", page: 153}
+  - {n: 1602, label: "Урок 16, § 2", title: "Количественные числительные", page: 153}
+  - {n: 1603, label: "Урок 16, § 3", title: "Спряжение глагола être", page: 153}
+  - {n: 1604, label: "Урок 16, § 4", title: "Спряжение глагола mettre", page: 153}
+  - {n: 1700, label: "Урок 17", title: "Текст «Le 14 juillet»", page: 165}
+  - {n: 1701, label: "Урок 17, § 1", title: "Question portant sur le sujet", page: 179}
+  - {n: 1702, label: "Урок 17, § 2", title: "Adjectifs numéraux cardinaux", page: 179}
+  - {n: 1703, label: "Урок 17, § 3", title: "Verbes en -endre, -ondre", page: 179}
+  - {n: 1704, label: "Урок 17, § 4", title: "Verbe voir", page: 179}
+  - {n: 1750, label: "Урок 17, Commentaires", title: "Артикль и предлоги перед существительными, обозначающими названия месяцев и времен года; Употребление числительных в датах; Обозначение года; Наречия ci и là; On voit, on entend; Выделительные обороты c'est... qui, ce sont... qui", page: 168}
+  - {n: 1790, label: "Урок 17, Dialogues", title: "saluer — présenter", page: 184}
+  - {n: 1800, label: "Урок 18", title: "Текст «Une année scolaire en classe de 4e»", page: 186}
+  - {n: 1801, label: "Урок 18, § 1", title: "Futur immédiat et passé immédiat", page: 202}
+  - {n: 1802, label: "Урок 18, § 2", title: "Pronoms personnels conjoints", page: 202}
+  - {n: 1803, label: "Урок 18, § 3", title: "Absence de l'article après les noms exprimant la quantité", page: 202}
+  - {n: 1804, label: "Урок 18, § 4", title: "Les adjectifs numéraux ordinaux", page: 202}
+  - {n: 1805, label: "Урок 18, § 5", title: "La conjugaison des verbes du IIe groupe", page: 202}
+  - {n: 1806, label: "Урок 18, § 6", title: "Verbe savoir", page: 202}
+  - {n: 1850, label: "Урок 18, Commentaires", title: "Суффикс существительного -aine; Предлог à, обозначающий расстояние; Предлоги en и à перед географическими названиями; Отсутствие предлога в словосочетаниях типа 'в этом году'; Обозначение понятия 'неделя'; Midi, minuit, l'après-midi", page: 191}
+  - {n: 1890, label: "Урок 18, Dialogues", title: "proposer — accepter — refuser", page: 213}
+  - {n: 1900, label: "Урок 19", title: "Текст «Un cours de français»", page: 216}
+  - {n: 1901, label: "Урок 19, § 1", title: "Verbes pronominaux", page: 234}
+  - {n: 1902, label: "Урок 19, § 2", title: "Particularités des verbes du Ier groupe", page: 234}
+  - {n: 1903, label: "Урок 19, § 3", title: "Verbes du type prendre", page: 234}
+  - {n: 1950, label: "Урок 19, Commentaires", title: "Опущение артикля перед существительными, обозначающими дисциплину; Année — 'курс'; Словосочетание типа nous sommes huit; Demander — interroger; Наречие plus; 'Очень' — très, beaucoup; Participe passé", page: 220}
+  - {n: 1990, label: "Урок 19, Dialogues", title: "demander des renseignements — réserver", page: 242}
+  - {n: 2000, label: "Урок 20", title: "Текст «Une promenade à travers Paris»", page: 244}
+  - {n: 2001, label: "Урок 20, § 1", title: "Passé composé", page: 260}
+  - {n: 2002, label: "Урок 20, § 2", title: "Place des adverbes déterminant le verbe aux temps composés", page: 260}
+  - {n: 2003, label: "Урок 20, § 3", title: "Pluriel des noms en -eu, -eau, -al", page: 260}
+  - {n: 2004, label: "Урок 20, § 4", title: "Pluriel des adjectifs en -al et -eau", page: 260}
+  - {n: 2005, label: "Урок 20, § 5", title: "Verbe connaître", page: 260}
+  - {n: 2050, label: "Урок 20, Commentaires", title: "Avec + существительное; Глагольный префикс re-; Предлоги места sur и dans; Отсутствие артикля перед существительными matin и soir; Наречия на -ment; Savoir — connaître; Конструкция типа place Pouchkine", page: 249}
+  - {n: 2090, label: "Урок 20, Dialogues", title: "demander le chemin", page: 273}
+  - {n: 2100, label: "Урок 21", title: "Текст «Pierre Roulin, caissier»", page: 276}
+  - {n: 2101, label: "Урок 21, § 1", title: "Conjugaison des verbes pronominaux au passé composé", page: 293}
+  - {n: 2102, label: "Урок 21, § 2", title: "Même — adjectif et adverbe", page: 293}
+  - {n: 2103, label: "Урок 21, § 3", title: "Place des adjectifs épithètes", page: 293}
+  - {n: 2104, label: "Урок 21, § 4", title: "Question portant sur le complément direct", page: 293}
+  - {n: 2105, label: "Урок 21, § 5", title: "Question portant sur le complément indirect", page: 293}
+  - {n: 2106, label: "Урок 21, § 6", title: "Verbes du type partir", page: 293}
+  - {n: 2150, label: "Урок 21, Commentaires", title: "Употребление предлога à при указании места работы; Один из случаев отсутствия отрицания pas; Quelque chose — rien; Утвердительное наречие si; Часы; Обозначение времени", page: 281}
+  - {n: 2190, label: "Урок 21, Dialogues", title: "apprécier", page: 304}
+  - {n: 2200, label: "Урок 22", title: "Текст «C'est bien d'être étudiant»", page: 307}
+  - {n: 2201, label: "Урок 22, § 1", title: "Imparfait", page: 327}
+  - {n: 2202, label: "Урок 22, § 2", title: "Accord du participe passé des verbes conjugués avec avoir", page: 327}
+  - {n: 2203, label: "Урок 22, § 3", title: "Le neutre", page: 327}
+  - {n: 2204, label: "Урок 22, § 4", title: "Conjonctions comme, parce que, car", page: 327}
+  - {n: 2205, label: "Урок 22, § 5", title: "Adverbe interrogatif pourquoi", page: 327}
+  - {n: 2206, label: "Урок 22, § 6", title: "Verbe pouvoir", page: 327}
+  - {n: 2207, label: "Урок 22, § 7", title: "Verbe vouloir", page: 327}
+  - {n: 2250, label: "Урок 22, Commentaires", title: "Выделительный оборот c'est... que; Seul; Место отрицания при инфинитиве; Ограничительный оборот ne ... que; La reprise; Avant — devant; Отрицание pas, употребленное самостоятельно", page: 313}
+  - {n: 2290, label: "Урок 22, Dialogues", title: "se servir du téléphone", page: 340}
+  - {n: 2300, label: "Урок 23", title: "Текст «Jean-Marc veut vivre seul»", page: 348}
+  - {n: 2301, label: "Урок 23, § 1", title: "Futur simple", page: 365}
+  - {n: 2302, label: "Урок 23, § 2", title: "Subordonnée de condition", page: 365}
+  - {n: 2303, label: "Урок 23, § 3", title: "Conjugaison des verbes à la forme interro-négative", page: 365}
+  - {n: 2304, label: "Урок 23, § 4", title: "Pronom indéfini tout", page: 365}
+  - {n: 2305, label: "Урок 23, § 5", title: "Verbes du type dire", page: 365}
+  - {n: 2350, label: "Урок 23, Commentaires", title: "Счет этажей во французском языке; Отсутствие предлога и артикля при указании адреса; Союз ou; Словосочетания типа par semaine; Aller — venir; Dire — parler", page: 352}
+  - {n: 2390, label: "Урок 23, Dialogues", title: "autoriser — interdire", page: 374}
+  - {n: 2400, label: "Урок 24", title: "Текст «Les vacances de Danielle»", page: 377}
+  - {n: 2401, label: "Урок 24, § 1", title: "Pronoms personnels toniques", page: 390}
+  - {n: 2402, label: "Урок 24, § 2", title: "Degrés de comparaison des adjectifs", page: 390}
+  - {n: 2403, label: "Урок 24, § 3", title: "Один из случаев замены неопределенного артикля предлогом de", page: 390}
+  - {n: 2450, label: "Урок 24, Commentaires", title: "Местоимение se 'себе, себя'; Bien; Место отрицания в русском и французском языке; Безличные выражения с глаголом faire; Participe présent", page: 381}
+  - {n: 2490, label: "Урок 24, Dialogues", title: "demander un renseignement par téléphone", page: 400}
+  - {n: 2500, label: "Урок 25", title: "Текст «Christophe donne des leçons de musique»", page: 402}
+  - {n: 2501, label: "Урок 25, § 1", title: "Passé simple", page: 420}
+  - {n: 2502, label: "Урок 25, § 2", title: "Degrés de comparaison des adverbes", page: 420}
+  - {n: 2550, label: "Урок 25, Commentaires", title: "Jouer à — jouer de; Prier — demander; Dire de + infinitif; Выражения с глаголом avoir; Предлог sans + infinitif; Faire + infinitif; Сложная форма причастия прошедшего времени", page: 407}
+  - {n: 2590, label: "Урок 25, Dialogues", title: "transmettre un message téléphonique", page: 430}
+  - {n: 2600, label: "Урок 26", title: "Текст «Tartarin de Tarascon en Afrique»", page: 433}
+  - {n: 2601, label: "Урок 26, § 1", title: "Pronoms relatifs qui, que", page: 449}
+  - {n: 2602, label: "Урок 26, § 2", title: "Négations", page: 449}
+  - {n: 2603, label: "Урок 26, § 3", title: "Verbes du groupe mettre", page: 449}
+  - {n: 2650, label: "Урок 26, Commentaires", title: "Voyageur — passager; Наречие autant; Quelques — plusieurs; Quelquefois, quelques fois; Прилагательные grand, brave, pauvre, ancien; Gérondif", page: 437}
+  - {n: 2690, label: "Урок 26, Dialogues", title: "conseiller — déconseiller", page: 460}
+  - {n: 2700, label: "Урок 27", title: "Текст «Le capitaine Nemo»", page: 462}
+  - {n: 2701, label: "Урок 27, § 1", title: "Plus-que-parfait", page: 480}
+  - {n: 2702, label: "Урок 27, § 2", title: "Féminin des noms", page: 480}
+  - {n: 2703, label: "Урок 27, § 3", title: "Féminin des adjectifs qualificatifs", page: 480}
+  - {n: 2704, label: "Урок 27, § 4", title: "Verbes en -uire", page: 480}
+  - {n: 2705, label: "Урок 27, § 5", title: "Verbe pleuvoir", page: 480}
+  - {n: 2706, label: "Урок 27, § 6", title: "Verbe falloir", page: 480}
+  - {n: 2750, label: "Урок 27, Commentaires", title: "Местоимение en; Fermer — enfermer; 'Рассказывать'; 'Садиться' — se mettre; Выражения с глаголом passer; Aussi — non plus", page: 467}
+  - {n: 2790, label: "Урок 27, Dialogues", title: "formuler son avis", page: 490}
+  - {n: 2800, label: "Урок 28", title: "Текст «Georges Duroy devient journaliste»", page: 493}
+  - {n: 2801, label: "Урок 28, § 1", title: "Concordance des temps de l'indicatif", page: 510}
+  - {n: 2802, label: "Урок 28, § 2", title: "Futur dans le passé", page: 510}
+  - {n: 2803, label: "Урок 28, § 3", title: "Formation des adverbes en -ment", page: 510}
+  - {n: 2804, label: "Урок 28, § 4", title: "Verbes en -aître", page: 510}
+  - {n: 2805, label: "Урок 28, § 5", title: "Verbe apercevoir", page: 510}
+  - {n: 2850, label: "Урок 28, Commentaires", title: "S'apercevoir; Ouvrir, fermer — s'ouvrir, se fermer; 'Узнавать' — apprendre, reconnaître; Существительное la plupart; Словосочетания с глаголом chercher; Comme, en qualité de; Предложения типа me voilà", page: 499}
+  - {n: 2890, label: "Урок 28, Dialogues", title: "s'excuser — excuser", page: 517}
+  - {n: 2900, label: "Урок 29", title: "Текст «Les belles manières»", page: 521}
+  - {n: 2901, label: "Урок 29, § 1", title: "Article partitif", page: 536}
+  - {n: 2902, label: "Урок 29, § 2", title: "Forme passive", page: 536}
+  - {n: 2903, label: "Урок 29, § 3", title: "Pluriel des noms", page: 536}
+  - {n: 2904, label: "Урок 29, § 4", title: "Verbes en -frir, -vrir", page: 536}
+  - {n: 2905, label: "Урок 29, § 5", title: "Verbe devoir", page: 536}
+  - {n: 2950, label: "Урок 29, Commentaires", title: "Предлог sans + существительное; Предлог avec; Rencontrer, recevoir, aller prendre; Million; Выделительный оборот c'est (ce sont)... que", page: 525}
+  - {n: 2990, label: "Урок 29, Dialogues", title: "acheter — payer", page: 551}
+  - {n: 3001, label: "Révision A", title: "Повторение", page: 162}
+  - {n: 3002, label: "Révision B", title: "Повторение", page: 343}
+  - {n: 3003, label: "Révision C", title: "Повторение", page: 554}

@@ -1,0 +1,40 @@
+title: "Лишний или пропущенный артикль"
+type: error
+intro: "В каждом предложении **одна** ошибка: лишний, пропущенный или неверный артикль. Исправь и отправь предложение целиком."
+hints:
+  - "Il est médecin, mais c'est un bon médecin."
+  - "Без артикля: avoir besoin, faire attention, avec soin, sans peine, en bois, ni… ni…"
+items:
+  - q: "Mon frère est un ingénieur dans une entreprise automobile."
+    answers: ["Mon frère est ingénieur dans une entreprise automobile."]
+    explain: "Профессия после *être* без определения → без артикля: *il est **ingénieur***."
+  - q: "Elle est une excellente traductrice, tout le monde le dit."
+    answers: ["C'est une excellente traductrice, tout le monde le dit.", "Elle est excellente traductrice, tout le monde le dit."]
+    explain: "Существительное с артиклем и прилагательным после «она» → ***c'est une** excellente traductrice*. В книжном стиле возможно и *elle est excellente traductrice* (без артикля)."
+  - q: "Il faut faire une attention aux détails dans ce genre de contrat."
+    answers: ["Il faut faire attention aux détails dans ce genre de contrat."]
+    explain: "Устойчивое сочетание *faire attention* — без артикля."
+  - q: "Elle a ouvert la lettre avec une précaution."
+    answers: ["Elle a ouvert la lettre avec précaution."]
+    explain: "*Avec* + абстрактное без определения → без артикля: *avec précaution*."
+  - q: "Il n'a ni des frères ni des sœurs."
+    answers: ["Il n'a ni frères ni sœurs.", "Il n'a ni frère ni sœur."]
+    explain: "После *ni… ni…* неопределённый и партитивный артикли опускаются: *ni frère(s) ni sœur(s)*."
+  - q: "Nous avons acheté une table en le chêne massif."
+    answers: ["Nous avons acheté une table en chêne massif."]
+    explain: "Материал после *en* — без артикля: *en chêne massif*."
+  - q: "Il a été élu le président de l'association à l'unanimité."
+    answers: ["Il a été élu président de l'association à l'unanimité."]
+    explain: "Функция после *élire, nommer* — без артикля: *élu **président***."
+  - q: "Ce soir, l'orchestre interprète le Mozart et du Haydn."
+    answers: ["Ce soir, l'orchestre interprète du Mozart et du Haydn."]
+    explain: "Музыка композитора «вообще» → партитив: ***du** Mozart et du Haydn*."
+  - q: "Il est venu me voir sans une hésitation."
+    answers: ["Il est venu me voir sans hésitation."]
+    explain: "*Sans* + абстрактное → обычно без артикля: *sans hésitation*. (*Sans **la moindre** hésitation* — с определителем.)"
+  - q: "Elle cherche un professeur du français pour préparer son fils au bac."
+    answers: ["Elle cherche un professeur de français pour préparer son fils au bac."]
+    explain: "Характеризующее дополнение (*какой* преподаватель?) — *de* без артикля: *un professeur **de** français*."
+  - q: "Je n'aime pas mon nouveau voisin : il est un homme désagréable."
+    answers: ["Je n'aime pas mon nouveau voisin : c'est un homme désagréable."]
+    explain: "Существительное с артиклем и определением после «он/она» → *c'est un*, а не ~~il est un~~."

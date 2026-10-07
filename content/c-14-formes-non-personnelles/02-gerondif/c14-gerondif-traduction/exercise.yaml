@@ -1,0 +1,44 @@
+title: "Переведи деепричастие"
+type: gap
+intro: "Переведи фразу целиком. Выбери gérondif, participe présent, participe passé composé или sans + infinitif. Следи за согласованием времён внутри оборота. Пунктуация не важна, акценты — важны."
+hints:
+  - "Одновременность, способ, условие → en + participe; причина → participe présent."
+  - "«Сделав» → ayant fait / étant parti; «не делая» → sans faire."
+  - "Видя, что… + прошедшее → imparfait в придаточном."
+items:
+  - q: "Слушая её, я понял, что она права."
+    answers: ["En l'écoutant, j'ai compris qu'elle avait raison.", "En l'écoutant, je compris qu'elle avait raison.", "Tout en l'écoutant, j'ai compris qu'elle avait raison."]
+    explain: "Одновременность → gérondif *en l'écoutant* (местоимение между *en* и причастием). В придаточном — imparfait *avait raison* (согласование времён)."
+  - q: "Он ушёл, не попрощавшись."
+    answers: ["Il est parti sans dire au revoir.", "Il est parti sans nous dire au revoir.", "Il est parti sans dire adieu.", "Il est parti sans saluer personne.", "Il s'en est allé sans dire au revoir."]
+    explain: "Отрицательное деепричастие способа → **sans + infinitif**: *sans dire au revoir*."
+  - q: "Видя, что её не понимают, она замолчала."
+    answers: ["Voyant qu'on ne la comprenait pas, elle s'est tue.", "Voyant qu'on ne la comprenait pas, elle se tut.", "Voyant qu'on ne la comprenait pas, elle a gardé le silence."]
+    explain: "Причина → participe présent *Voyant*. Русское настоящее «не понимают» в плане прошлого → **imparfait** *ne la comprenait pas*."
+  - q: "Не зная адреса, мы не могли ему написать."
+    answers: ["Ne connaissant pas son adresse, nous ne pouvions pas lui écrire.", "Ne connaissant pas l'adresse, nous ne pouvions pas lui écrire.", "Ne connaissant pas son adresse, nous n'avons pas pu lui écrire.", "Ne connaissant pas l'adresse, nous n'avons pas pu lui écrire.", "Ne connaissant pas son adresse, on ne pouvait pas lui écrire.", "Ne connaissant pas son adresse, on n'a pas pu lui écrire."]
+    explain: "Отрицание + причина → *ne connaissant pas* (а не *sans connaître*)."
+  - q: "Прочитав письмо, она его порвала."
+    answers: ["Ayant lu la lettre, elle l'a déchirée.", "Après avoir lu la lettre, elle l'a déchirée.", "Ayant lu la lettre, elle la déchira.", "Après avoir lu la lettre, elle la déchira."]
+    explain: "Предшествование → participe passé composé *ayant lu* или *après avoir lu*. Согласование: *l'a déchirée* (COD *la lettre* стоит впереди)."
+  - q: "Улыбаясь, он протянул мне руку."
+    answers: ["En souriant, il m'a tendu la main.", "Souriant, il m'a tendu la main.", "Il m'a tendu la main en souriant.", "En souriant, il me tendit la main.", "Il me tendit la main en souriant."]
+    explain: "Сопутствующее действие → gérondif *en souriant* (или participe *souriant*)."
+  - q: "Если вы выйдете сейчас, вы успеете на поезд."
+    answers: ["En partant maintenant, vous aurez le train.", "En partant maintenant, vous attraperez le train.", "En sortant maintenant, vous aurez le train.", "En sortant maintenant, vous attraperez le train.", "Si vous partez maintenant, vous aurez le train.", "Si vous partez maintenant, vous attraperez le train."]
+    explain: "Условие можно выразить gérondif: *en partant maintenant* = *si vous partez maintenant*."
+  - q: "Она ела и читала газету."
+    answers: ["Elle mangeait en lisant le journal.", "Elle lisait le journal en mangeant.", "Elle mangeait tout en lisant le journal.", "Elle lisait le journal tout en mangeant."]
+    explain: "Два одновременных действия: одно главное, другое — gérondif (*en lisant* или *en mangeant*). У «есть» нет удобного деепричастия, отсюда личная форма в русском."
+  - q: "Одеваясь, я порезал палец."
+    answers: ["Je me suis coupé le doigt en m'habillant.", "En m'habillant, je me suis coupé le doigt.", "Je me suis coupé au doigt en m'habillant.", "En m'habillant, je me suis coupé au doigt."]
+    explain: "Местоименный глагол в gérondif: возвратное местоимение по лицу подлежащего — *en **m'**habillant*."
+  - q: "Он работал три часа, не поднимая головы."
+    answers: ["Il a travaillé trois heures sans lever la tête.", "Il a travaillé pendant trois heures sans lever la tête.", "Il travailla trois heures sans lever la tête.", "Il travailla pendant trois heures sans lever la tête."]
+    explain: "«Не поднимая» — способ → *sans lever*."
+  - q: "Признавая его талант, я не согласен с его выводами."
+    answers: ["Tout en reconnaissant son talent, je ne suis pas d'accord avec ses conclusions.", "Tout en reconnaissant son talent, je ne partage pas ses conclusions.", "Tout en reconnaissant son talent, je ne suis pas d'accord avec ses déductions."]
+    explain: "Уступка («хотя признаю») → **tout en** + participe présent."
+  - q: "Не желая больше спорить, она вышла из комнаты."
+    answers: ["Ne voulant plus discuter, elle est sortie de la pièce.", "Ne voulant plus se disputer, elle est sortie de la pièce.", "Ne voulant plus discuter, elle a quitté la pièce.", "Ne voulant plus se disputer, elle a quitté la pièce.", "Ne voulant plus discuter, elle sortit de la pièce.", "Ne voulant plus se disputer, elle sortit de la pièce.", "Ne voulant plus argumenter, elle est sortie de la pièce."]
+    explain: "Причина («так как не хотела») → participe с отрицанием: *ne voulant plus*."

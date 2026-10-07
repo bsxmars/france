@@ -1,0 +1,44 @@
+title: "Глаголы на -er: настоящее время и повелительное"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму. Если в скобках стоит «!» — нужно повелительное наклонение. Впиши только то, что стоит на месте пропуска."
+hints:
+  - "-e, -es, -e, -ons, -ez, -ent; после on — как после il."
+  - "Повелительное «ты» у глаголов на -er — без -s: regarde !"
+  - "Инверсия в 3-м лице ед. ч.: parle-t-il."
+items:
+  - q: "Nous ___ la télévision le soir. (regarder)"
+    answers: ["regardons"]
+    explain: "*nous* → окончание **-ons**: *nous regardons*."
+  - q: "Tu ___ ton livre ? (chercher)"
+    answers: ["cherches"]
+    explain: "*tu* → **-es**: *tu cherches*. Окончание не слышно, но на письме обязательно."
+  - q: "Mes amis ___ à Paris. (habiter)"
+    answers: ["habitent"]
+    explain: "*Mes amis* = *ils* → **-ent**: *ils habitent*. Звучит так же, как *il habite*, но пишется иначе."
+  - q: "On ___ à la porte. (sonner)"
+    answers: ["sonne"]
+    explain: "После **on** — 3-е лицо ед. ч.: *on sonne* — «звонят»."
+  - q: "Je ne ___ pas la télévision le matin. (regarder)"
+    answers: ["regarde"]
+    explain: "*je* → **-e**: *je ne regarde pas*. Отрицание *ne… pas* обнимает глагол, форма глагола не меняется."
+  - q: "Vous ___ bien français ! (parler)"
+    answers: ["parlez"]
+    explain: "*vous* → **-ez**: *vous parlez*."
+  - q: "___-t-elle ici ? (travailler)"
+    answers: ["Travaille", "travaille"]
+    explain: "Инверсия 3-го лица ед. ч.: *travaille* + **-t-** + *elle*, потому что глагол кончается на гласную."
+  - q: "Est-ce que les élèves ___ le professeur ? (écouter)"
+    answers: ["écoutent"]
+    explain: "После *est-ce que* порядок прямой; *les élèves* = *ils* → *écoutent*."
+  - q: "Paul, ___ la fenêtre, s'il te plaît ! (fermer !)"
+    answers: ["ferme"]
+    explain: "Повелительное «ты» глагола на -er — **ferme**, без -s (хотя *tu fermes*)."
+  - q: "___ cette chanson ensemble ! (chanter ! — «давайте»)"
+    answers: ["Chantons", "chantons"]
+    explain: "«Давайте…» — повелительное 1-го лица мн. ч.: **chantons** !"
+  - q: "Ne ___ pas ici, s'il vous plaît. (fumer !)"
+    answers: ["fumez"]
+    explain: "Обращение на «вы» (*s'il vous plaît*) → **fumez**; отрицание обнимает глагол: *ne fumez pas*."
+  - q: "Le professeur ___ des photos aux élèves. (montrer)"
+    answers: ["montre"]
+    explain: "*Le professeur* = *il* → **montre**."

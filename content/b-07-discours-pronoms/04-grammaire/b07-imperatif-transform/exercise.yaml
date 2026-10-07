@@ -1,0 +1,68 @@
+title: "Утверждение ↔ отрицание в императиве"
+type: transform
+intro: "Перестрой приказ по ключу: утвердительный ↔ отрицательный. Существительные уже заменены местоимениями или замени их сам. Впиши императив целиком."
+hints:
+  - "Утвердительный: глагол-le / la / les-moi / lui / nous / leur-y / en, через дефисы."
+  - "Отрицательный: ne + me / te / nous / vous + le / la / les + lui / leur + y + en + глагол + pas."
+  - "moi / toi перед en → m'en, t'en; parle → parles-en, va → vas-y."
+items:
+  - q: "Ne me le donne pas."
+    key: "affirmatif"
+    stem: "___ !"
+    answers: ["Donne-le-moi"]
+    explain: "Утвердительный императив: сначала *le*, затем *moi*: **Donne-le-moi**."
+  - q: "Envoyez-la-lui."
+    key: "négatif"
+    stem: "___ !"
+    answers: ["Ne la lui envoyez pas"]
+    explain: "Отрицательный: местоимения перед глаголом в порядке *la lui*: **Ne la lui envoyez pas**."
+  - q: "Ne m'en parle pas."
+    key: "affirmatif"
+    stem: "___ !"
+    answers: ["Parle-m'en"]
+    explain: "*Me* перед *en* → **m'**: **Parle-m'en**. *-s* добавляется, только когда *en* / *y* идёт сразу после глагола (*parles-en*), здесь между ними *m'*."
+  - q: "Montrez-les-nous."
+    key: "négatif"
+    stem: "___ !"
+    answers: ["Ne nous les montrez pas"]
+    explain: "Отрицание → обычный порядок: *nous* перед *les*: **Ne nous les montrez pas**."
+  - q: "Ne leur en donne pas."
+    key: "affirmatif"
+    stem: "___ !"
+    answers: ["Donne-leur-en"]
+    explain: "*En* — последний: **Donne-leur-en**."
+  - q: "Va-t'en."
+    key: "négatif"
+    stem: "___ !"
+    answers: ["Ne t'en va pas"]
+    explain: "*S'en aller* в отрицательном императиве: **Ne t'en va pas**."
+  - q: "Ne t'occupe pas de ce dossier."
+    key: "affirmatif + en"
+    stem: "___ !"
+    answers: ["Occupe-t'en"]
+    explain: "*De ce dossier* → *en*; *te* → *t'* перед *en*: **Occupe-t'en**."
+  - q: "Ne parle pas de ton idée à la directrice."
+    key: "affirmatif + deux pronoms"
+    stem: "___ !"
+    answers: ["Parle-lui-en"]
+    explain: "*À la directrice* → *lui*, *de ton idée* → *en*: **Parle-lui-en**."
+  - q: "Expliquez la procédure aux stagiaires."
+    key: "négatif + deux pronoms"
+    stem: "___ !"
+    answers: ["Ne la leur expliquez pas"]
+    explain: "*La procédure* → *la*, *aux stagiaires* → *leur*: **Ne la leur expliquez pas**."
+  - q: "Ne mettez pas les cartons dans le couloir."
+    key: "affirmatif + deux pronoms"
+    stem: "___ !"
+    answers: ["Mettez-les-y"]
+    explain: "*Les cartons* → *les*, *dans le couloir* → *y*: **Mettez-les-y**."
+  - q: "Ne va pas à la réunion."
+    key: "affirmatif + y"
+    stem: "___ !"
+    answers: ["Vas-y"]
+    explain: "*À la réunion* → *y*; перед *y* у *va* появляется *-s*: **Vas-y**."
+  - q: "Rends-moi mes notes."
+    key: "négatif + deux pronoms"
+    stem: "___ !"
+    answers: ["Ne me les rends pas"]
+    explain: "*Mes notes* → *les*; отрицание → *me les* перед глаголом: **Ne me les rends pas**."

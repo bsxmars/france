@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Реши, нужен ли subjonctif в относительном придаточном. Пунктуация не важна, акценты — важны."
+hints:
+  - "Ищу / нужен / хочу + кого-то, кто… → qui + subjonctif."
+  - "Нет никого, кто… → personne qui + subjonctif."
+items:
+  - q: "Я ищу преподавателя, который говорит по-русски."
+    answers: ["Je cherche un professeur qui parle russe.", "Je cherche un prof qui parle russe.", "Je cherche un enseignant qui parle russe.", "Je cherche une professeure qui parle russe.", "Je cherche un professeur qui parle le russe.", "Je cherche un enseignant qui parle le russe.", "Je cherche un prof qui parle le russe."]
+    explain: "Преподавателя ищут → subjonctif; у *parler* в 3-м л. ед. ч. он совпадает с indicatif: *qui **parle***."
+  - q: "Нам нужен кто-то, кто сможет помочь детям с домашними заданиями."
+    answers: ["Nous avons besoin de quelqu'un qui puisse aider les enfants à faire leurs devoirs.", "On a besoin de quelqu'un qui puisse aider les enfants à faire leurs devoirs.", "Il nous faut quelqu'un qui puisse aider les enfants à faire leurs devoirs.", "Nous avons besoin de quelqu'un qui puisse aider les enfants avec leurs devoirs.", "On a besoin de quelqu'un qui puisse aider les enfants avec leurs devoirs.", "Il nous faut quelqu'un qui puisse aider les enfants avec leurs devoirs."]
+    explain: "Требование к неизвестному человеку → subjonctif: *qui **puisse** aider*. Русское будущее «сможет» по-французски — subjonctif présent."
+  - q: "У меня есть подруга, которая умеет играть на гитаре."
+    answers: ["J'ai une amie qui sait jouer de la guitare.", "J'ai une copine qui sait jouer de la guitare."]
+    explain: "Подруга существует → indicatif: *qui **sait***."
+  - q: "Нет никого, кто знал бы ответ."
+    answers: ["Il n'y a personne qui sache la réponse.", "Il n'y a personne qui connaisse la réponse.", "Personne ne connaît la réponse.", "Personne ne sait la réponse."]
+    explain: "*Il n'y a personne qui* → subjonctif: ***sache** / **connaisse** la réponse*. Русское «бы» — подсказка к subjonctif. Простая фраза *Personne ne connaît la réponse* тоже верна."
+  - q: "Мы хотим школу, в которой дети были бы счастливы."
+    answers: ["Nous voulons une école où les enfants soient heureux.", "On veut une école où les enfants soient heureux.", "Nous voulons une école dans laquelle les enfants soient heureux.", "On veut une école dans laquelle les enfants soient heureux."]
+    explain: "Пожелание → subjonctif: *où les enfants **soient** heureux*."
+  - q: "Это единственный учитель, который понимает учеников."
+    answers: ["C'est le seul professeur qui comprenne les élèves.", "C'est le seul professeur qui comprend les élèves.", "C'est le seul enseignant qui comprenne les élèves.", "C'est le seul enseignant qui comprend les élèves.", "C'est le seul prof qui comprenne les élèves.", "C'est le seul prof qui comprend les élèves.", "C'est la seule professeure qui comprenne les élèves.", "C'est la seule professeure qui comprend les élèves."]
+    explain: "После *le seul* — обычно subjonctif (**comprenne**), подчёркивающий оценку; indicatif *comprend* — констатация факта, тоже допустим."
+  - q: "Ты знаешь кафе, где можно спокойно поработать?"
+    answers: ["Tu connais un café où on puisse travailler tranquillement ?", "Tu connais un café où l'on puisse travailler tranquillement ?", "Est-ce que tu connais un café où on puisse travailler tranquillement ?", "Est-ce que tu connais un café où l'on puisse travailler tranquillement ?", "Connais-tu un café où l'on puisse travailler tranquillement ?", "Connais-tu un café où on puisse travailler tranquillement ?", "Tu connais un café où on peut travailler tranquillement ?", "Est-ce que tu connais un café où on peut travailler tranquillement ?", "Connais-tu un café où l'on peut travailler tranquillement ?", "Tu connais un café où l'on peut travailler tranquillement ?"]
+    explain: "Вопрос о существовании → норма B2 — subjonctif *où l'on **puisse** travailler*; в разговорной речи часто indicatif *peut*."
+  - q: "Им нужна программа, которая позволила бы студентам учиться за границей."
+    answers: ["Il leur faut un programme qui permette aux étudiants d'étudier à l'étranger.", "Ils ont besoin d'un programme qui permette aux étudiants d'étudier à l'étranger.", "Elles ont besoin d'un programme qui permette aux étudiants d'étudier à l'étranger.", "Ils ont besoin d'un programme qui permettrait aux étudiants d'étudier à l'étranger.", "Il leur faut un programme qui permettrait aux étudiants d'étudier à l'étranger."]
+    explain: "Цель → subjonctif *qui **permette***; «позволила бы» можно передать и conditionnel *permettrait* (мягкое предположение)."
+  - q: "Я не знаю ни одной книги, которая бы это хорошо объясняла."
+    answers: ["Je ne connais aucun livre qui l'explique bien.", "Je ne connais aucun livre qui explique bien cela.", "Je ne connais aucun livre qui explique bien ça.", "Je ne connais pas de livre qui l'explique bien.", "Je ne connais pas de livre qui explique bien cela.", "Je ne connais pas de livre qui explique bien ça."]
+    explain: "*Aucun livre qui* → subjonctif *explique* (форма совпадает с indicatif, но наклонение — subjonctif)."
+  - q: "Я нашёл квартиру, которая находится рядом с университетом."
+    answers: ["J'ai trouvé un appartement qui est près de l'université.", "J'ai trouvé un appartement qui se trouve près de l'université.", "J'ai trouvé un appartement qui est à côté de l'université.", "J'ai trouvé un appartement qui se trouve à côté de l'université."]
+    explain: "Квартира уже найдена → факт → indicatif: *qui **est** / **se trouve***."

@@ -1,0 +1,40 @@
+title: "Quel, quelle, quels, quelles"
+type: gap
+intro: "Вставь нужную форму quel (с прописной буквы в начале фразы). Определи, с каким существительным она согласуется."
+hints:
+  - "Quel + être + существительное: согласование с подлежащим (Quelles sont vos conditions ?)."
+  - "Quel que soit / quelle que soit / quels que soient — согласование с подлежащим soit."
+items:
+  - q: "___ est la date limite pour envoyer le dossier ?"
+    answers: ["Quelle"]
+    explain: "Сказуемое перед *être*, подлежащее *la date* (ж. р.) → ***Quelle***."
+  - q: "___ sont les principaux défis de notre époque ?"
+    answers: ["Quels"]
+    explain: "Подлежащее *les défis* (м. р. мн. ч.) → ***Quels***."
+  - q: "___ belle surprise ! Je ne m'attendais pas à te voir ici."
+    answers: ["Quelle"]
+    explain: "Восклицательное *quel* при *surprise* (ж. р.) → ***Quelle***; без артикля."
+  - q: "___ villes avez-vous visitées pendant votre voyage ?"
+    answers: ["Quelles"]
+    explain: "*Villes* — ж. р. мн. ч. → ***Quelles***; причастие *visitées* согласуется с дополнением, стоящим перед глаголом."
+  - q: "Je me demande à ___ heure commence la conférence."
+    answers: ["quelle"]
+    explain: "Косвенный вопрос; *heure* — ж. р. → ***quelle***."
+  - q: "___ que soit votre décision, nous la respecterons."
+    answers: ["Quelle"]
+    explain: "*Quel que soit* — согласование с подлежащим *votre décision* (ж. р.) → ***Quelle que soit***."
+  - q: "___ que soient les risques, il veut tenter l'aventure."
+    answers: ["Quels"]
+    explain: "Подлежащее *les risques* (м. р. мн. ч.) → ***Quels que soient***."
+  - q: "___ ne fut pas notre étonnement en découvrant la vérité !"
+    answers: ["Quel"]
+    explain: "Книжная восклицательная конструкция *Quel ne fut pas…* — «каково же было…»; *étonnement* — м. р. → ***Quel***."
+  - q: "Dans ___ quartiers de Paris trouve-t-on les meilleures librairies ?"
+    answers: ["quels"]
+    explain: "*Quartiers* — м. р. мн. ч. → ***quels***."
+  - q: "___ dommage que tu ne puisses pas venir !"
+    answers: ["Quel"]
+    explain: "Восклицательное *Quel dommage !* — *dommage* м. р."
+  - q: "___ ont été les conséquences de cette réforme ?"
+    answers: ["Quelles"]
+    explain: "Подлежащее *les conséquences* (ж. р. мн. ч.) → ***Quelles***."

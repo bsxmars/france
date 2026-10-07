@@ -1,0 +1,28 @@
+- id: a11-ce-sont
+  lesson: a-11-present-on/01-grammaire
+  q: "«Это книга» и «Это книги» — утверждение, отрицание, вопрос."
+  a: "*C'est un livre. Ce n'est pas un livre. Est-ce un livre ?* — *Ce sont des livres. Ce ne sont pas des livres. Est-ce que ce sont des livres ?*"
+- id: a11-on
+  lesson: a-11-present-on/01-grammaire
+  q: "Что значит *on* и в каком лице глагол после него?"
+  a: "«Кто-то, люди» (*on sonne* — звонят, *on dit* — говорят) или разговорное «мы» (*on regarde ?* — посмотрим?). Глагол — **3-е лицо ед. ч.**"
+- id: a11-er-present
+  lesson: a-11-present-on/01-grammaire
+  q: "Проспрягай *parler* в настоящем времени."
+  a: "*je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent*. Не слышны окончания -e, -es, -e, -ent."
+- id: a11-negation
+  lesson: a-11-present-on/01-grammaire
+  q: "Как строится отрицание с глаголом на -er?"
+  a: "*ne* + глагол + *pas*; перед гласной *n'*: *je ne parle pas, il **n'**aime pas, on **n'**écoute pas*."
+- id: a11-inversion-t
+  lesson: a-11-present-on/01-grammaire
+  q: "«Он говорит по-французски?» — с инверсией."
+  a: "***Parle-t-il** français ?* — между *-e* и *il / elle / on* вставляется **-t-**. С *je* — только *est-ce que je parle… ?*"
+- id: a11-imperatif
+  lesson: a-11-present-on/01-grammaire
+  q: "Повелительное наклонение *regarder*."
+  a: "***Regarde !*** (без -s) — ***Regardons !*** — ***Regardez !*** Отрицание: *Ne regarde pas !*"
+- id: a11-trois-questions
+  lesson: a-11-present-on/01-grammaire
+  q: "Три способа спросить «Вы слушаете?»"
+  a: "Интонация: *Vous écoutez ?* — *Est-ce que vous écoutez ?* — инверсия: *Écoutez-vous ?*"

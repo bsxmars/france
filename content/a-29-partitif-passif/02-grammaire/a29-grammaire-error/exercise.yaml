@@ -1,0 +1,38 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: артикль, страдательная форма, множественное число или форма глагола. Исправь её и отправь предложение целиком."
+hints:
+  - "Отрицание и слова количества → de; aimer → le, la, les."
+  - "В пассиве причастие согласуется с подлежащим."
+  - "des journaux, des travaux, des yeux; j'ouvre, il a offert, nous avons dû."
+items:
+  - q: "Je n'achète jamais du pain dans ce supermarché."
+    answers: ["Je n'achète jamais de pain dans ce supermarché."]
+    explain: "После отрицания (*ne… jamais*) частичный артикль → **de**."
+  - q: "Ma fille aime du riz avec des légumes."
+    answers: ["Ma fille aime le riz avec des légumes."]
+    explain: "После *aimer* — вкус вообще → **le** riz."
+  - q: "Il a bu beaucoup du café pendant la nuit."
+    answers: ["Il a bu beaucoup de café pendant la nuit."]
+    explain: "После *beaucoup* — просто **de**, без артикля."
+  - q: "Ces photos ont été pris par mon frère."
+    answers: ["Ces photos ont été prises par mon frère."]
+    explain: "В пассиве причастие согласуется с подлежащим *ces photos* (ж. р., мн. ч.): **prises**."
+  - q: "La montagne était couverte de la neige."
+    answers: ["La montagne était couverte de neige."]
+    explain: "После *couvert de* артикль выпадает: **de neige**."
+  - q: "Les gâteaux sont préparés de le chef."
+    answers: ["Les gâteaux sont préparés par le chef."]
+    explain: "Исполнитель действия вводится через **par**."
+  - q: "J'ai lu tous les journals ce matin."
+    answers: ["J'ai lu tous les journaux ce matin."]
+    explain: "*journal* → **journaux**."
+  - q: "Les travails dans notre rue dureront deux mois."
+    answers: ["Les travaux dans notre rue dureront deux mois."]
+    explain: "Исключение: *travail* → **travaux**."
+  - q: "Mes amis m'ont offri un livre de cuisine."
+    answers: ["Mes amis m'ont offert un livre de cuisine."]
+    explain: "Participe passé от *offrir* — **offert**."
+  - q: "Nous avons du partir plus tôt que prévu."
+    answers: ["Nous avons dû partir plus tôt que prévu."]
+    explain: "Причастие *devoir* — **dû** с циркумфлексом; *du* без него — это артикль."

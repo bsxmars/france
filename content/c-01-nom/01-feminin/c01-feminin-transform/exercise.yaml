@@ -1,0 +1,62 @@
+title: "Расскажи то же самое о женщине"
+type: transform
+intro: "Перескажи фразу, заменив мужчину на женщину из ключа. Впиши только пропуск: существительные (с артиклем, если он входит в пропуск) в женском роде. Для названий профессий принимаются и современные феминизированные формы, и традиционные."
+hints:
+  - "Существительные на -e меняют только детерминатив: un artiste → une artiste."
+  - "Современная норма: une autrice / une auteure, une écrivaine, une professeure, une ingénieure, la cheffe, la ministre."
+items:
+  - q: "Paul est un menteur et un flatteur."
+    key: "Julie"
+    stem: "Julie est ___."
+    answers: ["une menteuse et une flatteuse"]
+    explain: "*Mentant, flattant* → суффикс **-euse**: *une menteuse et une flatteuse*."
+  - q: "Mon oncle est un acteur et un réalisateur reconnu."
+    key: "ma tante"
+    stem: "Ma tante est ___ reconnue."
+    answers: ["une actrice et une réalisatrice"]
+    explain: "*-teur → -trice*: **actrice, réalisatrice**."
+  - q: "Le nouveau secrétaire est un ancien élève du lycée."
+    key: "la nouvelle"
+    stem: "La nouvelle secrétaire est ___ du lycée."
+    answers: ["une ancienne élève"]
+    explain: "*Secrétaire, élève* — род только по детерминативу; прилагательное *ancien → ancienne*: **une ancienne élève**."
+  - q: "Ce jeune homme est un sportif et un champion de natation."
+    key: "cette jeune femme"
+    stem: "Cette jeune femme est ___ de natation."
+    answers: ["une sportive et une championne"]
+    explain: "*-f → -ve*: **sportive**; *-on → -onne*: **championne**."
+  - q: "Le ministre de la Culture est un écrivain connu."
+    key: "la"
+    stem: "La ministre de la Culture est ___ connue."
+    answers: ["une écrivaine", "une femme écrivain"]
+    explain: "Современная норма — **une écrivaine**; традиционное *une femme écrivain* тоже допустимо. *Ministre* меняет только артикль: *la ministre*."
+  - q: "Son fils est un musicien italien et un chanteur d'opéra."
+    key: "sa fille"
+    stem: "Sa fille est ___ d'opéra."
+    answers: ["une musicienne italienne et une cantatrice", "une musicienne italienne et une chanteuse"]
+    explain: "*-ien → -ienne*: **musicienne italienne**; оперная певица — **cantatrice** (или просто *chanteuse*)."
+  - q: "Le directeur de la banque est un ancien inspecteur des finances."
+    key: "la"
+    stem: "La directrice de la banque est ___ des finances."
+    answers: ["une ancienne inspectrice"]
+    explain: "*Inspecteur → inspectrice* (суффикс *-trice*, хотя есть глагол *inspecter*)."
+  - q: "C'est un vieillard veuf qui vit avec son neveu."
+    key: "une vieille"
+    stem: "C'est ___ qui vit avec sa nièce."
+    answers: ["une vieille veuve"]
+    explain: "*Vieillard* → **vieille**, *veuf* → **veuve** (*-f → -ve*), *neveu* → *nièce*."
+  - q: "Mon voisin est un paysan breton."
+    key: "ma voisine"
+    stem: "Ma voisine est ___."
+    answers: ["une paysanne bretonne"]
+    explain: "**Paysanne** — исключение среди слов на *-an*; *breton → bretonne* (*-on → -onne*)."
+  - q: "Ce professeur est l'auteur d'un manuel célèbre."
+    key: "cette"
+    stem: "Cette professeure est ___ d'un manuel célèbre."
+    answers: ["l'autrice", "l'auteure", "l'auteur"]
+    explain: "Сегодня — **l'autrice** или **l'auteure**; традиционное *l'auteur* о женщине тоже ещё встречается."
+  - q: "Le patron du café est un Parisien gentil."
+    key: "la patronne"
+    stem: "La patronne du café est ___ gentille."
+    answers: ["une Parisienne"]
+    explain: "*-ien → -ienne*: **une Parisienne**. Название жительницы города пишется с прописной."

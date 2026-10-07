@@ -1,0 +1,55 @@
+title: "Ce qui, ce dont, ce à quoi; dont или duquel"
+type: choice
+intro: "Выбери верное относительное местоимение."
+hints:
+  - "«То, что» без антецедента: ce qui (подлежащее), ce que (дополнение), ce dont (de), ce à quoi (à)."
+  - "Dont — при простом de; duquel / de laquelle — после составного предлога (près de, à côté de, à cause de)."
+items:
+  - q: "___ me plaît dans ce roman, c'est l'humour de l'héroïne."
+    options: ["Ce que", "Ce qui", "Qui", "Ce dont"]
+    answer: 1
+    explain: "«То, что мне нравится» — *plaire* требует подлежащего → **ce qui**."
+  - q: "Explique-moi ___ tu as besoin pour ton exposé."
+    options: ["ce que", "ce dont", "dont", "ce à quoi"]
+    answer: 1
+    explain: "*Avoir besoin **de*** + нет антецедента → **ce dont**."
+  - q: "C'est exactement ___ je m'attendais."
+    options: ["ce que", "ce dont", "ce à quoi", "à quoi"]
+    answer: 2
+    explain: "*S'attendre **à*** + «то» → **ce à quoi**."
+  - q: "Il a refusé le prix, ___ a choqué une partie du public."
+    options: ["ce qui", "ce que", "qui", "lequel"]
+    answer: 0
+    explain: "Местоимение подхватывает всю предыдущую мысль и является подлежащим → **ce qui**."
+  - q: "C'est un vieux cinéma à cause ___ le quartier attire les cinéphiles."
+    options: ["dont", "duquel", "de qui", "de lequel"]
+    answer: 1
+    explain: "*À cause de* — составной предлог + предмет м. р. → **duquel**."
+  - q: "C'est un vieux cinéma ___ tout le quartier est fier."
+    options: ["dont", "duquel", "que", "auquel"]
+    answer: 0
+    explain: "*Être fier **de*** — простое *de* при прилагательном → **dont**."
+  - q: "Je ne comprends pas ___ elle veut dire."
+    options: ["ce qu'", "ce qui", "qu'", "ce dont"]
+    answer: 0
+    explain: "*Vouloir dire quelque chose* — прямое дополнение → **ce que**, перед *elle* — *ce qu'*."
+  - q: "Les spectateurs, ___ beaucoup d'enfants, ont applaudi longtemps."
+    options: ["dont", "parmi qui", "desquels", "que"]
+    answer: 0
+    explain: "«Среди которых, в том числе» при количестве → **dont** (*parmi lesquels* тоже возможно, но *parmi qui* — нет)."
+  - q: "La personne ___ j'ai envoyé ma candidature ne m'a pas répondu."
+    options: ["à qui", "dont", "que", "à quoi"]
+    answer: 0
+    explain: "*Envoyer quelque chose **à** quelqu'un*, антецедент — человек → **à qui** (или *à laquelle*). *À quoi* — только после *ce, rien, quelque chose*."
+  - q: "Il n'y a rien ___ je tienne plus qu'à ma liberté."
+    options: ["à quoi", "auquel", "dont", "que"]
+    answer: 0
+    explain: "*Tenir **à*** + антецедент *rien* → **à quoi**: после *rien, ce, quelque chose* предлог + *quoi*."
+  - q: "C'est une époque ___ je garde un très bon souvenir."
+    options: ["dont", "où", "que", "à laquelle"]
+    answer: 0
+    explain: "*Garder un souvenir **de** cette époque* → **dont**. Не *où*: здесь не «когда», а «о которой»."
+  - q: "C'est une époque ___ tout semblait possible."
+    options: ["dont", "où", "que", "laquelle"]
+    answer: 1
+    explain: "«Эпоха, когда…» — время → **où**."

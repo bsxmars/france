@@ -1,0 +1,38 @@
+title: "Собирался, вот-вот должен был: переведи"
+type: gap
+intro: "Переведи предложение на французский. Используй allait + infinitif или futur dans le passé."
+hints:
+  - "«собирался… когда…» → j'allais + inf. … quand + passé composé."
+  - "«сказал, что сейчас…» → il a dit qu'il allait + inf."
+  - "«вот-вот должен был» → allait + inf. / était sur le point de."
+items:
+  - q: "Я как раз собирался тебе звонить."
+    answers: ["J'allais justement t'appeler.", "J'allais justement te téléphoner.", "J'allais t'appeler.", "J'allais te téléphoner.", "J'étais sur le point de t'appeler.", "J'étais sur le point de te téléphoner."]
+    explain: "Прерванное намерение в прошлом → *j'allais* + инфинитив; местоимение — перед инфинитивом."
+  - q: "Он сказал, что сейчас вернётся."
+    answers: ["Il a dit qu'il allait revenir.", "Il a dit qu'il allait rentrer.", "Il a dit qu'il revenait tout de suite.", "Il a dit qu'il reviendrait tout de suite."]
+    explain: "Ближайшее будущее в косвенной речи → *qu'il allait revenir*."
+  - q: "Поезд вот-вот должен был отойти, а Анны всё ещё не было."
+    answers: ["Le train allait partir et Anne n'était toujours pas là.", "Le train allait partir, mais Anne n'était toujours pas là.", "Le train était sur le point de partir et Anne n'était toujours pas là.", "Le train était sur le point de partir, mais Anne n'était toujours pas là."]
+    explain: "Неминуемое событие в прошлом → *allait partir* или *était sur le point de partir*."
+  - q: "Я знал, что ты не забудешь."
+    answers: ["Je savais que tu n'oublierais pas.", "Je savais que tu n'allais pas oublier."]
+    explain: "После *je savais* — futur dans le passé: *tu n'oublierais pas*."
+  - q: "Она уже было открыла рот, но промолчала."
+    answers: ["Elle allait ouvrir la bouche, mais elle s'est tue.", "Elle allait parler, mais elle s'est tue.", "Elle allait ouvrir la bouche, mais elle n'a rien dit."]
+    explain: "«Уже было…» — прерванное действие: *elle allait ouvrir la bouche*."
+  - q: "Они надеялись, что погода улучшится."
+    answers: ["Ils espéraient que le temps s'améliorerait.", "Ils espéraient que le temps allait s'améliorer."]
+    explain: "После *espéraient* — futur dans le passé: *s'améliorerait*."
+  - q: "Мы как раз собирались ужинать, когда пришли гости."
+    answers: ["Nous allions dîner quand les invités sont arrivés.", "Nous allions justement dîner quand les invités sont arrivés.", "On allait dîner quand les invités sont arrivés."]
+    explain: "*Allions* + инфинитив в главном, *quand* + passé composé — прерывающее событие."
+  - q: "Он чувствовал, что что-то должно произойти."
+    answers: ["Il sentait que quelque chose allait se passer.", "Il sentait que quelque chose allait arriver.", "Il sentait que quelque chose allait se produire."]
+    explain: "Ожидаемое событие в прошлом → *allait se passer*."
+  - q: "Она обещала, что поможет нам."
+    answers: ["Elle a promis qu'elle nous aiderait.", "Elle avait promis qu'elle nous aiderait.", "Elle nous a promis qu'elle nous aiderait."]
+    explain: "*A promis* → futur dans le passé: *qu'elle nous aiderait*."
+  - q: "Это было именно то, что я собирался сказать."
+    answers: ["C'était exactement ce que j'allais dire.", "C'était justement ce que j'allais dire.", "C'était précisément ce que j'allais dire."]
+    explain: "Намерение в прошлом → *ce que j'allais dire*."

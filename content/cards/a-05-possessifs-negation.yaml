@@ -1,0 +1,48 @@
+- id: a05-possessifs-personne
+  lesson: a-05-possessifs-negation/01-grammaire
+  q: "От чего зависит выбор притяжательного слова?"
+  a: "**Лицо** — от владельца (je → mon, il → son, ils → leur), **род и число** — от предмета."
+- id: a05-leur
+  lesson: a-05-possessifs-negation/01-grammaire
+  q: "«Их отец», «их мать», «их книги»?"
+  a: "**leur** père, **leur** mère (одна форма для обоих родов), **leurs** livres."
+- id: a05-son-propre
+  lesson: a-05-possessifs-negation/01-grammaire
+  q: "Как перевести «свой»: «Я пишу своей сестре», «Они читают свои тексты»?"
+  a: "Притяжательным словом того же лица, что подлежащее: *J'écris à **ma** sœur*, *Ils lisent **leurs** textes*."
+- id: a05-elision
+  lesson: a-05-possessifs-negation/01-grammaire
+  q: "Что такое элизия?"
+  a: "Выпадение гласной служебного слова перед гласной и немым h: *l'élève, j'aime, c'est, n'aime, d'Anna, qu'elle*."
+- id: a05-l-genre
+  lesson: a-05-possessifs-negation/01-grammaire
+  q: "Какой род у *l'heure*, *l'exercice*? Почему это надо учить?"
+  a: "*l'heure* — ж. р., *l'exercice* — м. р. Артикль **l'** род не показывает."
+- id: a05-profession
+  lesson: a-05-possessifs-negation/01-grammaire
+  q: "«Мой отец — архитектор»: нужен ли артикль?"
+  a: "**Нет**: профессия после *être* — без артикля. *Mon père est architecte.*"
+- id: a05-je
+  lesson: a-05-possessifs-negation/02-grammaire
+  q: "Форма *je*: *parler, aimer, lire, écrire, faire, partir, aller*?"
+  a: "je **parle**, **j'aime** (I группа: -e); je **lis**, **j'écris**, je **fais**, je **pars** (III: -s); je **vais**."
+- id: a05-ne-pas
+  lesson: a-05-possessifs-negation/02-grammaire
+  q: "Как построить отрицание?"
+  a: "**ne** + глагол + **pas**: *Je ne travaille pas*. Перед гласной *n'*: *Il n'aime pas*."
+- id: a05-ne-pas-imperatif
+  lesson: a-05-possessifs-negation/02-grammaire
+  q: "«Не закрывайте дверь!»"
+  a: "***Ne fermez pas** la porte !* — отрицание вокруг глагола и в повелительном наклонении."
+- id: a05-de
+  lesson: a-05-possessifs-negation/02-grammaire
+  q: "«Книга Поля», «мать Анны»?"
+  a: "*le livre **de** Paul*, *la mère **d'**Anna*. *de* = русский родительный падеж."
+- id: a05-a
+  lesson: a-05-possessifs-negation/02-grammaire
+  q: "Значения предлога *à*?"
+  a: "Место / направление (*à la gare*), время (*à six heures*), «кому?» (*j'écris à ma mère*), другие падежи (*il parle à Léa*)."
+- id: a05-a-datif
+  lesson: a-05-possessifs-negation/02-grammaire
+  q: "«Я пишу маме» — нужен ли предлог?"
+  a: "**Да**: русский дательный = **à**. *J'écris à ma mère.*"

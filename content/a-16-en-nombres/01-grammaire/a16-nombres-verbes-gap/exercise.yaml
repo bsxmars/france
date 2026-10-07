@@ -1,0 +1,44 @@
+title: "Числа, être и mettre"
+type: gap
+intro: "Напиши число словами или поставь глагол (в скобках) в нужную форму настоящего времени или повелительного наклонения."
+hints:
+  - "21, 31, 41, 51, 61 — с et; остальные составные — через дефис."
+  - "être: sois, soyons, soyez."
+  - "mettre: je mets, il met, nous mettons, ils mettent."
+items:
+  - q: "J'ai 21 ans : j'ai ___ ans."
+    answers: ["vingt et un", "vingt-et-un"]
+    explain: "21 = **vingt et un** — с *et*, без дефисов (по орфографии 1990 — *vingt-et-un*)."
+  - q: "Il y a 34 élèves dans la classe : ___ élèves."
+    answers: ["trente-quatre"]
+    explain: "Десятки и единицы — через дефис: **trente-quatre**."
+  - q: "Ce livre coûte 17 euros : ___ euros."
+    answers: ["dix-sept"]
+    explain: "17 = 10 + 7 → **dix-sept**, через дефис."
+  - q: "Notre rue a 51 maisons : ___ maisons."
+    answers: ["cinquante et une", "cinquante-et-une"]
+    explain: "*Maison* — женского рода, поэтому *un* → *une*: **cinquante et une**."
+  - q: "Ma grand-mère a 69 ans : ___ ans."
+    answers: ["soixante-neuf"]
+    explain: "69 = **soixante-neuf**; *neuf* перед *ans* звучит [nœv]."
+  - q: "Le film commence à 16 heures : à ___ heures."
+    answers: ["seize"]
+    explain: "16 — отдельное слово **seize**, а с 17 начинаются составные: *dix-sept*."
+  - q: "Les enfants, ___ sages ! (être)"
+    answers: ["soyez"]
+    explain: "Повелительное от *être* на «вы»: **soyez**."
+  - q: "Ne ___ pas en retard demain, Paul ! (être)"
+    answers: ["sois"]
+    explain: "На «ты»: **sois**. В отрицании — *ne sois pas*."
+  - q: "___ calmes, tout va bien ! (être, «мы»)"
+    answers: ["Soyons"]
+    explain: "1-е лицо мн. ч. повелительного: **soyons**."
+  - q: "Où est-ce que tu ___ tes clés ? (mettre)"
+    answers: ["mets"]
+    explain: "*tu* → **mets**: одна *t* в единственном числе."
+  - q: "Ils ___ leurs manteaux et sortent. (mettre)"
+    answers: ["mettent"]
+    explain: "*ils* → **mettent**: во множественном числе две *t*."
+  - q: "Je ___ une heure pour aller à l'université. (mettre)"
+    answers: ["mets"]
+    explain: "*mettre* + время = «тратить»: *je **mets** une heure*."

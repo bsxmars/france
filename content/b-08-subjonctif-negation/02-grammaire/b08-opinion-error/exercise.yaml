@@ -1,0 +1,44 @@
+title: "Найди ошибку в наклонении"
+type: error
+intro: "В каждом предложении **одна** ошибка в наклонении или форме глагола. Исправь её и отправь предложение целиком."
+hints:
+  - "Утверждаю (penser, croire, trouver, espérer, il me semble) — indicatif."
+  - "Сомневаюсь (ne pas penser, douter, ne pas être sûr) — subjonctif."
+  - "Ищу, хочу, нужен кто-то, кто… — subjonctif в относительном придаточном."
+items:
+  - q: "Je ne pense pas que cette solution est la meilleure."
+    answers: ["Je ne pense pas que cette solution soit la meilleure."]
+    explain: "Отрицание *je ne pense pas que* → subjonctif: **soit**."
+  - q: "Je pense que les classes soient trop chargées."
+    answers: ["Je pense que les classes sont trop chargées."]
+    explain: "Утвердительное *je pense que* → indicatif: **sont**."
+  - q: "J'espère que tu aies réussi ton oral."
+    answers: ["J'espère que tu as réussi ton oral."]
+    explain: "*Espérer* → indicatif: *que tu **as réussi***."
+  - q: "Je doute qu'il peut terminer ce mémoire à temps."
+    answers: ["Je doute qu'il puisse terminer ce mémoire à temps."]
+    explain: "*Douter que* → subjonctif: **puisse**."
+  - q: "Il me semble que ce professeur soit très exigeant."
+    answers: ["Il me semble que ce professeur est très exigeant."]
+    explain: "*Il me semble que* → indicatif: **est**. Subjonctif — после безличного *il semble que*."
+  - q: "Nous cherchons un animateur qui sait parler aux adolescents."
+    answers: ["Nous cherchons un animateur qui sache parler aux adolescents."]
+    explain: "Человека ещё ищут → subjonctif в относительном придаточном: **sache**."
+  - q: "Elle n'est pas sûre que son fils a compris la leçon."
+    answers: ["Elle n'est pas sûre que son fils ait compris la leçon."]
+    explain: "*Ne pas être sûr que* → subjonctif passé: **ait compris**."
+  - q: "Je trouve que ce n'est pas normal que les élèves font tant de devoirs."
+    answers: ["Je trouve que ce n'est pas normal que les élèves fassent tant de devoirs."]
+    explain: "*Ce n'est pas normal que* — оценка → subjonctif: **fassent**. *Je trouve que* + indicatif (*ce n'est pas*) — верно."
+  - q: "Il n'y a aucun cours ici qui me plaît vraiment."
+    answers: ["Il n'y a aucun cours ici qui me plaise vraiment."]
+    explain: "*Il n'y a aucun… qui* → subjonctif: **plaise**."
+  - q: "Les experts sont convaincus que le numérique puisse aider les élèves en difficulté."
+    answers: ["Les experts sont convaincus que le numérique peut aider les élèves en difficulté.", "Les experts sont convaincus que le numérique pourra aider les élèves en difficulté.", "Les experts sont convaincus que le numérique pourrait aider les élèves en difficulté."]
+    explain: "*Être convaincu que* — уверенность → indicatif: **peut**."
+  - q: "Je ne crois pas que ma fille veut devenir médecin."
+    answers: ["Je ne crois pas que ma fille veuille devenir médecin."]
+    explain: "Сомнение → subjonctif: **veuille**."
+  - q: "Mes parents voulaient une école où je pouvais apprendre deux langues."
+    answers: ["Mes parents voulaient une école où je puisse apprendre deux langues.", "Mes parents voulaient une école où je pourrais apprendre deux langues."]
+    explain: "Пожелание (*voulaient une école où*) → subjonctif: **puisse**; subjonctif présent сохраняется и после главного глагола в прошлом. Мягкий вариант — conditionnel *pourrais*."

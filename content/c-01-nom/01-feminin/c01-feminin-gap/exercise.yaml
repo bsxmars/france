@@ -1,0 +1,44 @@
+title: "Поставь существительное в женский род"
+type: gap
+intro: "Впиши существительное в скобках в женском роде (без артикля, если артикль уже стоит в предложении). Где есть две нормативные формы — подойдёт любая."
+hints:
+  - "-eur → -euse, если есть причастие на -ant (vendant → vendeuse); иначе -teur → -trice."
+  - "Удваивают согласную: -en, -ien, -on, -et (кроме préfet), а также chat, sot, paysan."
+  - "Особые формы: compagne, vieille, servante, héroïne, nièce, impératrice."
+items:
+  - q: "Ma grand-mère était ___ (boulanger) dans un petit village de Bourgogne."
+    answers: ["boulangère"]
+    explain: "*-er → -ère* с открытым [ɛ] и accent grave: **boulangère**."
+  - q: "La ___ (lauréat) du prix Goncourt a refusé toutes les interviews."
+    answers: ["lauréate"]
+    explain: "*-at → -ate* без удвоения: **lauréate**. Удваивают *t* только *chat* и *sot*."
+  - q: "Notre nouvelle ___ (pharmacien) parle couramment l'italien."
+    answers: ["pharmacienne"]
+    explain: "*-ien → -ienne*: согласная удваивается, носовой гласный исчезает — **pharmacienne**."
+  - q: "La ___ (préfet) de région a présidé la cérémonie."
+    answers: ["préfète"]
+    explain: "Исключение из правила *-et → -ette*: **préfète** с accent grave."
+  - q: "Sa ___ (cousin) germaine vit à Montréal."
+    answers: ["cousine"]
+    explain: "*-in → -ine* без удвоения: **cousine**."
+  - q: "Elle est la ___ (cadet) d'une famille de cinq enfants."
+    answers: ["cadette"]
+    explain: "*-et → -ette*: **cadette**."
+  - q: "En 1804, Joséphine devint ___ (empereur) des Français."
+    answers: ["impératrice"]
+    explain: "Особая форма от латинской основы: *empereur* → **impératrice**."
+  - q: "Cette ___ (voyageur) infatigable a traversé l'Asie à vélo."
+    answers: ["voyageuse"]
+    explain: "*Voyager → voyageant*: связь с причастием → **-euse**: *voyageuse*."
+  - q: "Une ___ (ambassadeur) a été nommée à Tokyo le mois dernier."
+    answers: ["ambassadrice"]
+    explain: "*Ambassadeur* → **ambassadrice** (особый случай суффикса *-trice*)."
+  - q: "La princesse avançait, suivie de sa fidèle ___ (compagnon)."
+    answers: ["compagne"]
+    explain: "У *compagnon* особая форма женского рода — **compagne** (форма *compagnonne* не употребляется в этом значении)."
+  - q: "Dans la pièce, Sarah Bernhardt jouait une ___ (héros) tragique."
+    answers: ["héroïne"]
+    explain: "*Héros* → **héroïne** с tréma над *i* (произносится раздельно: [e-ʁɔ-in])."
+  - q: "La ___ (Suisse) qui tient l'hôtel est très accueillante."
+    answers: ["Suissesse", "Suisse"]
+    explain: "Традиционная форма — **Suissesse**; сегодня чаще говорят просто *une Suisse* (род только по детерминативу). Оба варианта верны."

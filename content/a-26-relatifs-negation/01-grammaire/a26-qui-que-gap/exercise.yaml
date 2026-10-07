@@ -1,0 +1,43 @@
+title: "Qui или que?"
+type: gap
+intro: "Вставь относительное местоимение qui, que или qu'."
+hints:
+  - "Сразу после пропуска глагол — qui; подлежащее (je, tu, Marie…) — que."
+  - "Перед гласной que → qu'; qui не сокращается."
+items:
+  - q: "C'est un film ___ j'ai vu trois fois."
+    answers: ["que"]
+    explain: "Фильм я видел — он прямое дополнение, после пропуска подлежащее *j'* → **que**."
+  - q: "La femme ___ parle avec mon père est notre nouvelle voisine."
+    answers: ["qui"]
+    explain: "Женщина сама говорит — подлежащее, после пропуска глагол → **qui**."
+  - q: "Les fleurs ___ tu m'as offertes sont magnifiques."
+    answers: ["que"]
+    explain: "Цветы подарил ты → прямое дополнение → **que**."
+  - q: "Prends le bus ___ s'arrête devant la poste."
+    answers: ["qui"]
+    explain: "Автобус останавливается сам — подлежащее → **qui** (*s'arrête* — глагол)."
+  - q: "C'est la ville ___ il préfère."
+    answers: ["qu'"]
+    explain: "Прямое дополнение → *que*, перед гласной *i* — **qu'**."
+  - q: "J'ai rencontré un ami ___ habite maintenant à Nantes."
+    answers: ["qui"]
+    explain: "Перед *habite* (глагол) нужен **qui**. *Qui* не сокращается, даже перед гласной."
+  - q: "Voilà la robe ___ ma sœur a achetée pour le mariage."
+    answers: ["que"]
+    explain: "Платье купила сестра → дополнение → **que**; *ma sœur* — подлежащее придаточного."
+  - q: "Le gâteau ___ est sur la table est pour ce soir."
+    answers: ["qui"]
+    explain: "Торт сам «находится» на столе — подлежащее → **qui**."
+  - q: "Je n'oublierai jamais le conseil ___ ton père m'a donné."
+    answers: ["que"]
+    explain: "Совет дал отец → *conseil* — прямое дополнение → **que**."
+  - q: "Les étudiants ___ arrivent en retard attendent dans le couloir."
+    answers: ["qui"]
+    explain: "Студенты опаздывают сами — подлежащее → **qui**; глагол согласуется с *les étudiants*: *arrivent*."
+  - q: "C'est le musée ___ ont visité nos amis."
+    answers: ["qu'"]
+    explain: "Музей посетили друзья (инверсия: *ont visité nos amis*) → дополнение → *que*, перед гласной **qu'**."
+  - q: "C'est moi ___ ai ouvert la fenêtre."
+    answers: ["qui"]
+    explain: "«Это я открыл» — я подлежащее → **qui**; глагол согласуется с *moi*: *ai*."

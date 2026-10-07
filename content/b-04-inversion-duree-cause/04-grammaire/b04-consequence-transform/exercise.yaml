@@ -1,0 +1,67 @@
+title: "Усиль причину или вырази следствие"
+type: transform
+intro: "Перефразируй предложение с ключевым словом. Впиши недостающую часть."
+hints:
+  - "si / tellement + прилагательное или наречие + que; tant de / tellement de + существительное + que; глагол + tant / tellement + que."
+  - "C'est pourquoi — без que; c'est pour cela que — с que."
+items:
+  - q: "Ce jeu est très addictif, donc les enfants ne peuvent plus s'arrêter."
+    key: "tellement"
+    stem: "Ce jeu est ___ les enfants ne peuvent plus s'arrêter."
+    answers: ["tellement addictif que"]
+    explain: "Прилагательное → **tellement** addictif **que**."
+  - q: "On reçoit beaucoup de mails, donc on n'arrive plus à tous les lire."
+    key: "tant"
+    stem: "On reçoit ___ on n'arrive plus à tous les lire."
+    answers: ["tant de mails qu'"]
+    explain: "Существительное → **tant de** mails **que** (перед *on* — *qu'*)."
+  - q: "Il a beaucoup joué en ligne, donc il a échoué à son examen."
+    key: "tellement"
+    stem: "Il a ___ il a échoué à son examen."
+    answers: ["tellement joué en ligne qu'"]
+    explain: "Глагол в passé composé → **tellement** между вспомогательным и причастием, затем **que**."
+  - q: "L'application fonctionne très lentement, donc personne ne l'utilise."
+    key: "si"
+    stem: "L'application fonctionne ___ personne ne l'utilise."
+    answers: ["si lentement que"]
+    explain: "Наречие → **si** lentement **que**."
+  - q: "Ma fille regarde beaucoup son téléphone, donc elle dort mal."
+    key: "tant"
+    stem: "Ma fille regarde ___ elle dort mal."
+    answers: ["tant son téléphone qu'"]
+    explain: "Глагол → **tant** после глагола: *regarde tant son téléphone **qu'**elle dort mal*."
+  - q: "Mon téléphone est tombé dans l'eau ; j'ai donc perdu toutes mes photos."
+    key: "si bien"
+    stem: "Mon téléphone est tombé dans l'eau, ___ ."
+    answers: ["si bien que j'ai perdu toutes mes photos"]
+    explain: "Реальное следствие → **si bien que** + indicatif."
+  - q: "Les données personnelles valent de l'argent. Donc il faut les protéger."
+    key: "pourquoi"
+    stem: "Les données personnelles valent de l'argent, ___ ."
+    answers: ["c'est pourquoi il faut les protéger"]
+    explain: "**C'est pourquoi** + предложение, без *que*."
+  - q: "Les données personnelles valent de l'argent. Donc il faut les protéger."
+    key: "cela"
+    stem: "Les données personnelles valent de l'argent. ___ ."
+    answers: ["C'est pour cela qu'il faut les protéger"]
+    explain: "**C'est pour cela que** — с *que*; перед *il* — *qu'*."
+  - q: "Ce téléphone est très cher ; je ne peux pas l'acheter."
+    key: "trop"
+    stem: "Ce téléphone est ___ ."
+    answers: ["trop cher pour que je puisse l'acheter", "trop cher pour moi", "trop cher pour que je l'achète"]
+    explain: "Избыток → **trop** cher **pour que** + subjonctif (*je puisse*, *je l'achète*); проще — *trop cher pour moi*."
+  - q: "Le réseau était saturé. C'est la cause des coupures."
+    key: "d'où"
+    stem: "Le réseau était saturé, ___ ."
+    answers: ["d'où les coupures"]
+    explain: "**D'où** + существительное — сжатое следствие."
+  - q: "Les utilisateurs n'ont pas été prévenus. En conséquence, ils ont porté plainte."
+    key: "raison"
+    stem: "Les utilisateurs n'ont pas été prévenus ; ___ ."
+    answers: ["c'est la raison pour laquelle ils ont porté plainte", "c'est pour cette raison qu'ils ont porté plainte"]
+    explain: "**C'est la raison pour laquelle** + indicatif (вспомни относительное *lequel* из досье 3)."
+  - q: "Il y avait beaucoup de monde sur le site, donc il est tombé en panne."
+    key: "tellement"
+    stem: "Il y avait ___ le site est tombé en panne."
+    answers: ["tellement de monde sur le site que", "tellement de monde que"]
+    explain: "Существительное (*monde*) → **tellement de** monde **que**."

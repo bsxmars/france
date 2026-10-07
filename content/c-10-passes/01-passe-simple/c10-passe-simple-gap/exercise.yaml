@@ -1,0 +1,44 @@
+title: "Passé simple: редкие и трудные формы"
+type: gap
+intro: "Рассказ ведётся в passé simple. Поставь глагол в passé simple в нужном лице."
+hints:
+  - "-ir → обычно i (кроме courir, mourir); -oir → обычно u (кроме voir, s'asseoir)."
+  - "-indre → -gnit (peignit, craignit); naître → naquit; vaincre → vainquit."
+  - "nous / vous — с циркумфлексом: -âmes, -îmes, -ûmes."
+items:
+  - q: "Le vieux capitaine ___ (naître) dans un petit port breton en 1841."
+    answers: ["naquit"]
+    explain: "*Naître* — нерегулярная основа *naqu-* + тип i: ***naquit***."
+  - q: "Après trois jours de combat, ils ___ (vaincre) l'armée ennemie."
+    answers: ["vainquirent"]
+    explain: "*Vaincre* → основа *vainqu-* (перед гласной *c* → *qu*), тип i: ***vainquirent***."
+  - q: "Un instant, la jeune femme ___ (craindre) d'être reconnue."
+    answers: ["craignit"]
+    explain: "Глаголы на *-indre/-aindre* в passé simple: основа на *-gn-* + i: ***craignit*** (как *peignit, joignit*)."
+  - q: "Le malade ___ (mourir) au petit matin, sans avoir repris connaissance."
+    answers: ["mourut"]
+    explain: "*Mourir* — исключение среди глаголов на *-ir*: тип u, ***mourut***."
+  - q: "Elle ___ (s'asseoir) près de la fenêtre et attendit."
+    answers: ["s'assit"]
+    explain: "*S'asseoir* — исключение среди *-oir*: тип i, ***s'assit***."
+  - q: "Les invités ___ (boire) à la santé des jeunes mariés."
+    answers: ["burent"]
+    explain: "*Boire* → тип u: ***burent***."
+  - q: "Il ___ (conduire) toute la nuit pour arriver avant l'aube."
+    answers: ["conduisit"]
+    explain: "Глаголы на *-uire* берут основу множественного числа *conduis-* + i: ***conduisit***."
+  - q: "Nous ___ (recevoir) la nouvelle avec stupeur."
+    answers: ["reçûmes"]
+    explain: "*Recevoir* → тип u, перед *u* — седиль: *reçu-*; 1-е лицо мн. ч. с циркумфлексом: ***reçûmes***."
+  - q: "Les deux régiments se ___ (battre) jusqu'à la tombée de la nuit."
+    answers: ["battirent"]
+    explain: "*Battre* → тип i: ***battirent***."
+  - q: "Quand il ___ (comprendre) son erreur, il rougit jusqu'aux oreilles."
+    answers: ["comprit"]
+    explain: "*Prendre* и производные → *pri-*: ***comprit***."
+  - q: "À cette nouvelle, les deux frères ___ (devenir) pâles."
+    answers: ["devinrent"]
+    explain: "*Venir, tenir* и производные — особый тип in: ***devinrent***."
+  - q: "Vous ___ (être) les premiers à franchir la frontière, messieurs."
+    answers: ["fûtes"]
+    explain: "*Être* → тип u, 2-е лицо мн. ч. с циркумфлексом: ***fûtes***."

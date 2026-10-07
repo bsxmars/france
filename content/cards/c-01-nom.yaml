@@ -1,0 +1,148 @@
+- id: c01-especes
+  lesson: c-01-nom/01-feminin
+  q: "Какие разряды существительных различает французская грамматика?"
+  a: "Исчисляемые / неисчисляемые (вещественные: *le sable*; абстрактные: *le courage*), конкретные / абстрактные, нарицательные / собственные, индивидуальные / собирательные (*la foule*), одушевлённые / неодушевлённые, простые / составные."
+- id: c01-feminin-quatre-moyens
+  lesson: c-01-nom/01-feminin
+  q: "Четыре способа выразить женский род одушевлённого существительного?"
+  a: "Окончание (*étudiante*), суффикс (*vendeuse, directrice, princesse*), только детерминатив (*une élève*), другое слово (*un oncle — une tante*)."
+- id: c01-feminin-euse-trice
+  lesson: c-01-nom/01-feminin
+  q: "-eur → -euse или -trice?"
+  a: "**-euse**, если есть причастие на *-ant* (*vendant → vendeuse, mentant → menteuse*); иначе **-trice** (*directrice, actrice*). Особые: *impératrice, ambassadrice, inspectrice*."
+- id: c01-feminin-doublement
+  lesson: c-01-nom/01-feminin
+  q: "Когда в женском роде удваивается согласная?"
+  a: "*-en, -ien, -on → -enne, -ienne, -onne*; *-et → -ette* (но *préfète*); *chatte, sotte, paysanne*. Не удваивают: *-in, -ain, -an* (*cousine, Mexicaine, partisane*), *-at* (*avocate*)."
+- id: c01-feminin-formes-speciales
+  lesson: c-01-nom/01-feminin
+  q: "Женский род: compagnon, vieillard, serviteur, héros, neveu, favori, empereur."
+  a: "*compagne, vieille, servante, héroïne, nièce, favorite, impératrice*."
+- id: c01-feminin-esse
+  lesson: c-01-nom/01-feminin
+  q: "Какие существительные получают -esse?"
+  a: "*maîtresse, hôtesse, princesse, comtesse, duchesse, tigresse, ânesse, traîtresse, déesse, Suissesse* (или *une Suisse*)."
+- id: c01-feminin-professions
+  lesson: c-01-nom/01-feminin
+  q: "Как сегодня называют женщину-автора, писателя, профессора, шефа, министра?"
+  a: "*une autrice / une auteure, une écrivaine, une professeure, la cheffe, la ministre* (раньше: *une femme écrivain, Madame le ministre*)."
+- id: c01-feminin-un-seul-genre
+  lesson: c-01-nom/01-feminin
+  q: "Какие существительные имеют один род независимо от пола?"
+  a: "Ж. р.: *une victime, une personne, une recrue, une sentinelle, une vedette, une star*. М. р.: *un témoin, un mannequin, un bébé, un individu*."
+- id: c01-feminin-sens
+  lesson: c-01-nom/01-feminin
+  q: "Une maîtresse, une gouvernante, une cantatrice — что значат?"
+  a: "Учительница (начальной школы) или любовница; гувернантка / экономка; оперная певица."
+- id: c01-genre-age
+  lesson: c-01-nom/02-genre
+  q: "Слова на -age обычно мужского рода. Какие — женского?"
+  a: "*la page, la plage, l'image, la cage, la nage, la rage*."
+- id: c01-genre-ee
+  lesson: c-01-nom/02-genre
+  q: "Слова на -ée мужского рода?"
+  a: "*le musée, le lycée, le trophée, l'apogée, le mausolée*."
+- id: c01-genre-pieges-m
+  lesson: c-01-nom/02-genre
+  q: "Род: orage, incendie, éloge, pétale, hémisphère, silence, rôle."
+  a: "Все **мужского** рода: *un orage, un incendie, un éloge, un pétale, un hémisphère, le silence, le rôle*."
+- id: c01-genre-pieges-f
+  lesson: c-01-nom/02-genre
+  q: "Род: oasis, icône, orthographe, atmosphère, épithète, interview, espèce."
+  a: "Все **женского** рода: *une oasis, une icône, l'orthographe, une atmosphère, une épithète, une interview, une espèce*."
+- id: c01-genre-homonymes-1
+  lesson: c-01-nom/02-genre
+  q: "le / la livre, tour, poste, mode, voile"
+  a: "*le livre* книга / *la livre* фунт; *le tour* круг / *la tour* башня; *le poste* должность / *la poste* почта; *le mode* способ, наклонение / *la mode* мода; *le voile* вуаль / *la voile* парус."
+- id: c01-genre-homonymes-2
+  lesson: c-01-nom/02-genre
+  q: "le / la mémoire, critique, moule, manche, poêle"
+  a: "*le mémoire* дипломная работа / *la mémoire* память; *le critique* критик / *la critique* критика; *le moule* форма / *la moule* мидия; *le manche* ручка / *la manche* рукав; *le poêle* печь / *la poêle* сковорода."
+- id: c01-genre-gens
+  lesson: c-01-nom/02-genre
+  q: "Какого рода прилагательные при gens?"
+  a: "Перед *gens* — ж. р., после — м. р.: *les vieilles gens sont méfiants*."
+- id: c01-genre-amour-delice-orgue
+  lesson: c-01-nom/02-genre
+  q: "Amour, délice, orgue — что с родом во мн. ч.?"
+  a: "М. р. в ед. ч., в книжном мн. ч. — ж. р.: *de folles amours, mes délices, les grandes orgues*."
+- id: c01-genre-soldes
+  lesson: c-01-nom/02-genre
+  q: "Les soldes sont terminé(e)s?"
+  a: "*Les soldes* (распродажа) — м. р.: ***terminés***. *La solde* — жалованье военного."
+- id: c01-pluriel-al
+  lesson: c-01-nom/03-pluriel
+  q: "Исключения из правила -al → -aux?"
+  a: "+ *s*: *bals, carnavals, chacals, festivals, récitals, régals*. *Idéal* — *idéaux* и *idéals*."
+- id: c01-pluriel-ail
+  lesson: c-01-nom/03-pluriel
+  q: "Какие слова на -ail имеют мн. ч. -aux?"
+  a: "*baux, coraux, émaux, soupiraux, travaux, vantaux, vitraux*. Остальные — *-ails* (*détails, éventails*)."
+- id: c01-pluriel-ou
+  lesson: c-01-nom/03-pluriel
+  q: "Семь слов на -ou с мн. ч. на -x?"
+  a: "*bijoux, cailloux, choux, genoux, hiboux, joujoux, poux*."
+- id: c01-pluriel-au-eu
+  lesson: c-01-nom/03-pluriel
+  q: "Слова на -au, -eu с мн. ч. на -s?"
+  a: "*landaus, sarraus, bleus, pneus, émeus*."
+- id: c01-pluriel-oeil-ciel
+  lesson: c-01-nom/03-pluriel
+  q: "Œil, ciel — двойное мн. ч.?"
+  a: "*Yeux* (глаза, дырочки в сыре) / *œils* в составных (*des œils-de-bœuf*); *cieux* (небеса, поэтич.) / *ciels* (в живописи, о погоде)."
+- id: c01-pluriel-aieul
+  lesson: c-01-nom/03-pluriel
+  q: "Aïeux или aïeuls?"
+  a: "*Les aïeux* — предки (книжн.); *les aïeuls* — дедушки и бабушки."
+- id: c01-pluriel-tantum
+  lesson: c-01-nom/03-pluriel
+  q: "Назови существительные, которые бывают только во мн. ч."
+  a: "*les fiançailles, les funérailles, les obsèques, les mœurs, les ténèbres, les archives, les environs, les frais, les arrhes, les décombres*."
+- id: c01-pluriel-sens
+  lesson: c-01-nom/03-pluriel
+  q: "Как меняют смысл во мн. ч.: vacance, lunette, ciseau, toilette?"
+  a: "*les vacances* каникулы, *les lunettes* очки, *les ciseaux* ножницы, *les toilettes* уборная."
+- id: c01-pluriel-noms-propres
+  lesson: c-01-nom/03-pluriel
+  q: "Les Dupont или les Duponts? Les Bourbon или les Bourbons?"
+  a: "Обычные фамилии не изменяются: *les Dupont*. Царствующие роды — с *s*: *les Bourbons, les Stuarts*."
+- id: c01-pluriel-oeuf
+  lesson: c-01-nom/03-pluriel
+  q: "Где множественное число слышно в произношении?"
+  a: "*un œuf* [œf] — *des œufs* [ø], *un bœuf* [bœf] — *des bœufs* [bø], *un os* [ɔs] — *des os* [o], *cheval — chevaux*."
+- id: c01-composes-principe
+  lesson: c-01-nom/04-composes
+  q: "Что изменяется во мн. ч. составного существительного?"
+  a: "Только существительные и прилагательные. Глагол, наречие, предлог — никогда: *des coffres-forts, des tire-bouchons, des haut-parleurs*."
+- id: c01-composes-complement
+  lesson: c-01-nom/04-composes
+  q: "Мн. ч.: chef-d'œuvre, arc-en-ciel, timbre-poste."
+  a: "*des chefs-d'œuvre, des arcs-en-ciel, des timbres-poste* — дополнение не изменяется."
+- id: c01-composes-verbe-nom
+  lesson: c-01-nom/04-composes
+  q: "Мн. ч.: gratte-ciel, porte-monnaie, après-midi (традиция и 1990)."
+  a: "Традиционно: *des gratte-ciel, des porte-monnaie, des après-midi*. По реформе 1990: *des gratte-ciels, des porte-monnaies, des après-midis*."
+- id: c01-composes-invariables
+  lesson: c-01-nom/04-composes
+  q: "Какие составные существительные не изменяются вовсе?"
+  a: "Глагол + глагол или целая фраза: *des laissez-passer, des savoir-faire, des va-et-vient, des ouï-dire*."
+- id: c01-composes-nouveau-ne
+  lesson: c-01-nom/04-composes
+  q: "Des nouveaux-nés или des nouveau-nés?"
+  a: "***Des nouveau-nés***: *nouveau* — наречие («только что»). Но *des nouveaux venus, des nouveaux mariés*."
+- id: c01-composes-grand-mere
+  lesson: c-01-nom/04-composes
+  q: "Мн. ч. от grand-mère?"
+  a: "*Des grands-mères* (рекомендуется) или *des grand-mères* (старая норма)."
+- id: c01-composes-demi
+  lesson: c-01-nom/04-composes
+  q: "Demi-heure во мн. ч.; deux heures et demi(e)?"
+  a: "*Des demi-heures* (*demi-* неизменно); *deux heures et demie* — после существительного согласуется в роде."
+- id: c01-etrangers
+  lesson: c-01-nom/04-composes
+  q: "Мн. ч. заимствований: match, sandwich, maximum, scénario, barman."
+  a: "Рекомендуется французское *s*: *matchs, sandwichs, maximums, scénarios, barmans*; допустимы *matches, sandwiches, maxima, barmen*."
+- id: c01-etrangers-latin
+  lesson: c-01-nom/04-composes
+  q: "Какие латинские выражения не изменяются во мн. ч.?"
+  a: "*des post-scriptum, des mea-culpa, des statu quo, des a priori* (по реформе 1990 — *des aprioris*)."

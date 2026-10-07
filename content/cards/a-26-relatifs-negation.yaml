@@ -1,0 +1,44 @@
+- id: a26-qui-que
+  lesson: a-26-relatifs-negation/01-grammaire
+  q: "Относительные *qui* и *que*: как выбрать?"
+  a: "**qui** — подлежащее придаточного, за ним глагол: *le bus **qui** passe*. **que** — прямое дополнение, за ним подлежащее: *le bus **que** je prends*. Оба — и для людей, и для предметов."
+- id: a26-qu-elision
+  lesson: a-26-relatifs-negation/01-grammaire
+  q: "Какое из двух местоимений сокращается перед гласной?"
+  a: "Только *que* → **qu'**: *la ville qu'il aime*. *Qui* не сокращается никогда: *l'ami qui arrive*."
+- id: a26-que-trois
+  lesson: a-26-relatifs-negation/01-grammaire
+  q: "Три разных *que*: примеры."
+  a: "Союз: *Je sais **que** tu viens*. Вопрос: ***Que** fais-tu ?* Относительное: *le film **que** j'ai vu* (стоит после существительного и заменяет его)."
+- id: a26-mettre
+  lesson: a-26-relatifs-negation/01-grammaire
+  q: "Спряжение *mettre*: présent, futur, passé simple, participe passé."
+  a: "*je mets, il met, nous mettons, ils mettent*; *je mettrai*; *je mis*; *mis*."
+- id: a26-mettre-famille
+  lesson: a-26-relatifs-negation/01-grammaire
+  q: "*Se mettre à, remettre, permettre, promettre, transmettre* — значения?"
+  a: "приниматься за; положить обратно / вручить / отложить; разрешать (*à qn de faire*); обещать (*à qn de faire*); передавать."
+- id: a26-neg-pas
+  lesson: a-26-relatifs-negation/02-grammaire
+  q: "Можно ли сказать *Je ne vois pas personne*?"
+  a: "Нет. *Personne, rien, jamais, plus, nulle part, ni … ni* заменяют *pas*: *Je **ne** vois **personne***."
+- id: a26-neg-sujet
+  lesson: a-26-relatifs-negation/02-grammaire
+  q: "«Никто не пришёл», «Ничто его не интересует»."
+  a: "***Personne n'**est venu.* ***Rien ne** l'intéresse.* — местоимение в начале, сразу за ним *ne*."
+- id: a26-neg-place
+  lesson: a-26-relatifs-negation/02-grammaire
+  q: "Место отрицания в passé composé?"
+  a: "*rien, jamais, plus* — перед причастием: *Je n'ai **rien** vu.* *personne, nulle part* — после: *Je n'ai vu **personne**.*"
+- id: a26-neg-infinitif
+  lesson: a-26-relatifs-negation/02-grammaire
+  q: "Отрицание при инфинитиве: «решил ничего не говорить», «не хочет никого видеть»."
+  a: "*J'ai décidé de **ne rien** dire.* *Il ne veut voir **personne**.* — *rien* перед инфинитивом, *personne* после."
+- id: a26-ni-ni
+  lesson: a-26-relatifs-negation/02-grammaire
+  q: "«У меня нет ни брата, ни сестры»."
+  a: "*Je n'ai **ni** frère **ni** sœur.* — без *pas* и (в общем значении) без артикля."
+- id: a26-neg-ordre
+  lesson: a-26-relatifs-negation/02-grammaire
+  q: "Порядок нескольких отрицаний?"
+  a: "*plus jamais, plus rien, plus personne, jamais rien, jamais personne*: *Il ne m'a **jamais rien** dit.*"

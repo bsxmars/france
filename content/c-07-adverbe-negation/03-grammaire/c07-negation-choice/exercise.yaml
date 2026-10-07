@@ -1,0 +1,47 @@
+title: "Rien, personne, jamais: «ни-» или «-либо»"
+type: choice
+intro: "Выбери верный вариант. В части предложений rien, personne, jamais имеют положительный смысл («что-либо», «кто-либо», «когда-либо») и употребляются без ne."
+hints:
+  - "Вопрос, si, sans, avant de, trop… pour, сравнение, глаголы с отрицательным смыслом → без ne."
+  - "В отрицании — одно ne и никакого pas."
+items:
+  - q: "Il connaît la ville mieux que ___."
+    options: ["personne", "ne personne", "quelqu'un"]
+    answer: 0
+    explain: "Во второй части сравнения *personne* = «кто-либо»: *mieux que **personne*** «лучше, чем кто бы то ни было»."
+  - q: "Si ___ tu changes d'avis, fais-moi signe."
+    options: ["jamais", "ne jamais", "pas jamais"]
+    answer: 0
+    explain: "В условии с *si* *jamais* = «вдруг, когда-нибудь», без *ne*."
+  - q: "Il est sorti sans ___ dire."
+    options: ["rien", "ne rien", "pas rien"]
+    answer: 0
+    explain: "После *sans* — *rien* без *ne*: **sans rien dire** «ничего не сказав»."
+  - q: "A-t-on ___ vu une chose pareille ?"
+    options: ["jamais", "ne jamais", "pas jamais"]
+    answer: 0
+    explain: "В вопросе *jamais* = «когда-либо»: «Видано ли такое?»"
+  - q: "Je doute que ___ puisse résoudre ce problème."
+    options: ["personne", "personne ne", "quelqu'un ne"]
+    answer: 0
+    explain: "После глагола сомнения *personne* = «кто-либо», без *ne*."
+  - q: "Ce matin, ___ m'a appelé."
+    options: ["personne ne", "personne", "quelqu'un ne"]
+    answer: 0
+    explain: "Здесь настоящее отрицание «никто не звонил»: *personne* — подлежащее, при глаголе обязательно *ne*: **Personne ne** m'a appelé. Без *ne* в утвердительном предложении *personne* не употребляется."
+  - q: "Il est trop tard pour ___ changer."
+    options: ["rien", "ne rien", "pas rien"]
+    answer: 0
+    explain: "После *trop… pour* — *rien* без *ne*: «уже слишком поздно что-либо менять»."
+  - q: "Je ne lui ai ___ demandé."
+    options: ["rien", "pas rien", "rien pas"]
+    answer: 0
+    explain: "Отрицание: *ne… rien*, *pas* не добавляется."
+  - q: "Avant de ___ signer, lisez le contrat."
+    options: ["rien", "ne rien", "pas rien"]
+    answer: 0
+    explain: "После *avant de* — *rien* = «что-либо», без *ne*."
+  - q: "Cette année, elle s'entraîne plus que ___."
+    options: ["jamais", "ne jamais", "toujours"]
+    answer: 0
+    explain: "*Plus que jamais* — «больше, чем когда-либо»."

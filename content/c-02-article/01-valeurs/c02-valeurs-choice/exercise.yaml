@@ -1,0 +1,55 @@
+title: "Какое значение у артикля?"
+type: choice
+intro: "Выбери артикль, который подходит по смыслу. Все варианты грамматически возможны во французском, но в этом контексте верен один."
+hints:
+  - "Вид в целом, единственный предмет, известное обоим → le, la, les."
+  - "Новый предмет, «любой», одна грань качества → un, une, des."
+items:
+  - q: "Au bout d'une heure, ___ train est enfin arrivé en gare : c'était celui que nous attendions."
+    options: ["le", "un"]
+    answer: 0
+    explain: "Речь об известном, ожидаемом поезде (*celui que nous attendions*) → **le**."
+  - q: "Soudain, ___ train de marchandises a surgi du tunnel."
+    options: ["le", "un"]
+    answer: 1
+    explain: "Предмет вводится впервые, неожиданно → **un**."
+  - q: "___ dauphin est un animal très intelligent."
+    options: ["Le", "Un"]
+    answer: 0
+    explain: "Научное обобщение о виде → определённый артикль в общем значении: ***Le** dauphin*."
+  - q: "___ enfant de six ans comprendrait ce mode d'emploi !"
+    options: ["L'", "Un"]
+    answer: 1
+    explain: "Значение «любой ребёнок шести лет» → **un** (= *n'importe quel enfant*)."
+  - q: "Il nous a accueillis avec ___ gentillesse qui nous a beaucoup touchés."
+    options: ["la", "une"]
+    answer: 1
+    explain: "Особое проявление качества с определением (*qui nous a beaucoup touchés*) → **une**."
+  - q: "C'est ___ gentillesse de ta sœur qui m'a convaincu de rester."
+    options: ["la", "une"]
+    answer: 0
+    explain: "Качество конкретного человека (*de ta sœur*) — определённое → **la**."
+  - q: "Ce soir-là, ___ lune énorme et orangée s'est levée sur la mer."
+    options: ["la", "une"]
+    answer: 1
+    explain: "Луна единственна, но здесь описан её особый вид в тот вечер → **une**."
+  - q: "___ lune tourne autour de la Terre en vingt-sept jours environ."
+    options: ["La", "Une"]
+    answer: 0
+    explain: "Единственный в своём роде предмет в общем высказывании → **la**."
+  - q: "Vous êtes exactement ___ candidat que nous cherchions."
+    options: ["le", "un"]
+    answer: 0
+    explain: "Указательное значение («тот самый», выделен относительным придаточным) → **le**."
+  - q: "Il existe ___ solutions moins coûteuses, mais personne ne veut les essayer."
+    options: ["les", "des"]
+    answer: 1
+    explain: "После *il existe* вводится новое → **des**."
+  - q: "Il s'est brûlé ___ doigts en sortant le plat du four."
+    options: ["ses", "les"]
+    answer: 1
+    explain: "Часть тела при возвратном глаголе → определённый артикль: *il s'est brûlé **les** doigts*."
+  - q: "Pourriez-vous fermer ___ porte ? Il y a un courant d'air."
+    options: ["la", "une"]
+    answer: 0
+    explain: "Из ситуации ясно, о какой двери речь (той, что в этой комнате) → **la**."

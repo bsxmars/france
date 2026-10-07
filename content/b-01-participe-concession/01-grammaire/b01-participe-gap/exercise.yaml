@@ -1,0 +1,44 @@
+title: "Participe présent, gérondif или adjectif verbal"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму на -ant: participe présent, gérondif (en + -ant) или adjectif verbal (с согласованием). Подсказка в скобках говорит, что нужно."
+hints:
+  - "Исключения: étant, ayant, sachant."
+  - "Gérondif — одно подлежащее с главным глаголом: en lisant, en se promenant."
+  - "Adjectif verbal согласуется и иногда пишется иначе: fatigant, convaincant, différent."
+items:
+  - q: "Les clients ___ une carte de fidélité ont droit à dix pour cent de réduction. (avoir — participe présent)"
+    answers: ["ayant"]
+    explain: "*avoir* — исключение: participe présent **ayant** (= *qui ont*), неизменяемый."
+  - q: "___ pas quoi porter pour l'entretien, il a demandé conseil à sa sœur. (ne pas savoir — participe présent)"
+    answers: ["Ne sachant"]
+    explain: "*savoir* → **sachant** (исключение); отрицание обнимает форму: *ne sachant pas*. Причина: «не зная, что надеть»."
+  - q: "Pour l'été, la marque a choisi des couleurs ___ . (éclater — adjectif verbal)"
+    answers: ["éclatantes"]
+    explain: "Качество цветов («яркие») → adjectif verbal, согласование с *des couleurs* (ж. р., мн. ч.): **éclatantes**."
+  - q: "Il économise beaucoup d'argent ___ ses vêtements d'occasion. (acheter — gérondif)"
+    answers: ["en achetant"]
+    explain: "Способ («покупая»), подлежащее то же (*il*) → gérondif: *nous achetons* → **en achetant**."
+  - q: "Ces longues séances d'essayage sont vraiment ___ . (fatiguer — adjectif verbal)"
+    answers: ["fatigantes"]
+    explain: "Качество (*vraiment*) → adjectif verbal на **-gant**: *fatigant*; согласование с *ces séances* (ж. р., мн. ч.): **fatigantes**."
+  - q: "Les entreprises ___ des vêtements bio se multiplient. (produire — participe présent)"
+    answers: ["produisant"]
+    explain: "Есть дополнение (*des vêtements*) = *qui produisent* → participe présent: *nous produisons* → **produisant**, без согласования."
+  - q: "Elle s'est tordu la cheville ___ de l'estrade. (descendre — gérondif)"
+    answers: ["en descendant"]
+    explain: "Одновременность («спускаясь»), подлежащее то же (*elle*) → gérondif **en descendant**."
+  - q: "Ses explications étaient claires et ___ . (convaincre — adjectif verbal)"
+    answers: ["convaincantes"]
+    explain: "Adjectif verbal от *convaincre* пишется **-cant**: *convaincant*; согласование с *ses explications*: **convaincantes**."
+  - q: "___ fan de mode depuis l'enfance, elle a naturellement choisi ce métier. (être — participe présent)"
+    answers: ["Étant", "Etant"]
+    explain: "*être* → **étant** (исключение). Participe présent выражает причину: *comme elle était fan de mode*."
+  - q: "Le magasin a distribué des catalogues ___ la nouvelle collection. (présenter — participe présent)"
+    answers: ["présentant"]
+    explain: "Есть дополнение (*la nouvelle collection*) = *qui présentent* → **présentant**, неизменяемый."
+  - q: "Les deux marques ont des styles complètement ___ . (différer — adjectif verbal)"
+    answers: ["différents"]
+    explain: "Adjectif verbal от *différer* пишется через **-ent**: *différent*; согласование с *des styles*: **différents**. Participe présent — *différant*."
+  - q: "Les candidats ___ déjà bien le français passent directement au niveau 2. (connaître — participe présent)"
+    answers: ["connaissant"]
+    explain: "Есть дополнение (*le français*) = *qui connaissent* → participe présent: *nous connaissons* → **connaissant**."

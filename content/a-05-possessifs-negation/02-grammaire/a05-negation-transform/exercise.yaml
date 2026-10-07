@@ -1,0 +1,62 @@
+title: "Сделай предложение отрицательным"
+type: transform
+intro: "Перепиши предложение в отрицательной форме с **ne… pas**. Впиши недостающую часть: отрицание вместе с глаголом."
+hints:
+  - "ne перед глаголом, pas — после."
+  - "Перед гласной ne → n'."
+items:
+  - q: "Je travaille à la mairie."
+    key: "PAS"
+    stem: "Je ___ à la mairie."
+    answers: ["ne travaille pas"]
+    explain: "*ne* + глагол + *pas*: **ne travaille pas**."
+  - q: "Elle aime cette ville."
+    key: "PAS"
+    stem: "Elle ___ cette ville."
+    answers: ["n'aime pas"]
+    explain: "*aime* начинается с гласной → **n'aime pas**."
+  - q: "Paul est médecin."
+    key: "PAS"
+    stem: "Paul ___ médecin."
+    answers: ["n'est pas"]
+    explain: "*est* на гласную → **n'est pas**. Профессия по-прежнему без артикля."
+  - q: "J'écris vite."
+    key: "PAS"
+    stem: "Je ___ vite."
+    answers: ["n'écris pas"]
+    explain: "*je* остаётся полным, элизию делает *ne*: Je **n'écris pas** vite."
+  - q: "Les élèves lisent le texte."
+    key: "PAS"
+    stem: "Les élèves ___ le texte."
+    answers: ["ne lisent pas"]
+    explain: "*pas* — сразу после глагола: **ne lisent pas** le texte."
+  - q: "Fermez la porte !"
+    key: "PAS"
+    stem: "___ la porte !"
+    answers: ["Ne fermez pas"]
+    explain: "Повелительное наклонение: **Ne fermez pas** la porte !"
+  - q: "Parle avec Hugo !"
+    key: "PAS"
+    stem: "___ avec Hugo !"
+    answers: ["Ne parle pas"]
+    explain: "**Ne parle pas** avec Hugo ! — обе части отрицания вокруг глагола."
+  - q: "Je vais à la gare."
+    key: "PAS"
+    stem: "Je ___ à la gare."
+    answers: ["ne vais pas"]
+    explain: "**ne vais pas**: *vais* начинается с согласной, элизии нет."
+  - q: "Ma sœur habite Lille."
+    key: "PAS"
+    stem: "Ma sœur ___ Lille."
+    answers: ["n'habite pas"]
+    explain: "*h* в *habiter* немое → элизия: **n'habite pas**."
+  - q: "Achetez ces fleurs !"
+    key: "PAS"
+    stem: "___ ces fleurs !"
+    answers: ["N'achetez pas"]
+    explain: "*achetez* на гласную → **N'achetez pas** ces fleurs !"
+  - q: "Ce texte est très difficile."
+    key: "PAS"
+    stem: "Ce texte ___ très difficile."
+    answers: ["n'est pas"]
+    explain: "*très* остаётся на месте после *pas*: n'est pas **très** difficile — «не очень трудный»."

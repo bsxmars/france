@@ -1,0 +1,47 @@
+title: "Рассказ: день собеседования"
+type: choice
+intro: "Пункты складываются в одну историю. Рассказчик — мужчина. Выбери форму, которая подходит по смыслу и по согласованию."
+hints:
+  - "Событие → passé composé, обстановка → imparfait, то, что было ещё раньше, → plus-que-parfait."
+  - "Местоимение-дополнение перед avoir — согласуй причастие."
+items:
+  - q: "C'était le jour de mon premier entretien d'embauche. Il ___ un temps magnifique."
+    options: ["a fait", "faisait", "avait fait"]
+    answer: 1
+    explain: "Погода — декорации → imparfait: *il faisait un temps magnifique*."
+  - q: "J'étais nerveux : je n'___ jamais passé d'entretien en français."
+    options: ["ai", "avais", "étais"]
+    answer: 1
+    explain: "«Никогда раньше» относительно дня рассказа → plus-que-parfait: *je n'avais jamais passé*. *passer un entretien* — с прямым дополнением, поэтому *avoir*."
+  - q: "Je ___ le métro à huit heures."
+    options: ["prenais", "ai pris", "avais pris"]
+    answer: 1
+    explain: "Событие в цепочке рассказа → passé composé: *j'ai pris*."
+  - q: "Dans le wagon, tout le monde ___ son téléphone."
+    options: ["regardait", "a regardé", "avait regardé"]
+    answer: 0
+    explain: "Описание обстановки в вагоне → imparfait."
+  - q: "Soudain, le métro ___ entre deux stations."
+    options: ["s'arrêtait", "s'est arrêté", "s'était arrêté"]
+    answer: 1
+    explain: "**Soudain** → событие, passé composé; возвратный глагол → *s'est arrêté*."
+  - q: "Quand je suis enfin arrivé, la directrice m'___ depuis vingt minutes."
+    options: ["a attendu", "attendait", "avait attendu"]
+    answer: 1
+    explain: "*depuis* в прошлом рассказе → **imparfait**: «ждала уже двадцать минут»."
+  - q: "Elle n'était pas fâchée : on l'___ de la panne."
+    options: ["a prévenue", "avait prévenue", "avait prévenu"]
+    answer: 1
+    explain: "Предупредили **раньше** → plus-que-parfait. *l'* (= la directrice) — прямое дополнение перед *avoir* → *prévenue*."
+  - q: "Les questions qu'elle m'a ___ étaient difficiles."
+    options: ["posé", "posée", "posées"]
+    answer: 2
+    explain: "*que* = *les questions* (ж. р., мн. ч.) стоит перед *avoir* → *posées*."
+  - q: "Heureusement, je m'étais bien ___ la veille."
+    options: ["préparé", "préparée", "préparés"]
+    answer: 0
+    explain: "*se préparer* → согласование с подлежащим *je*; рассказчик — мужчина → *préparé*."
+  - q: "Une semaine plus tard, la directrice m'___ pour me proposer le poste."
+    options: ["appelait", "a appelé", "avait appelé"]
+    answer: 1
+    explain: "Новое событие в цепочке (**une semaine plus tard**) → passé composé: *m'a appelé*."

@@ -1,0 +1,56 @@
+title: "Chaque, chacun, aucun, certains, tout…"
+type: choice
+intro: "Выбери верное неопределённое слово. Смотри: перед существительным оно стоит или вместо него, есть ли ne, нужен ли en."
+hints:
+  - "chaque + сущ. — chacun вместо сущ.; quelques + сущ. — quelques-uns вместо сущ."
+  - "aucun… ne без pas; la plupart des + мн. ч. → глагол во мн. ч."
+  - "Количественное местоимение-дополнение → en: j'en ai vu plusieurs."
+items:
+  - q: "___ d'entre nous peut signer la pétition."
+    options: ["Chaque", "Chacun", "Tous"]
+    answer: 1
+    explain: "Вместо существительного, глагол в ед. ч. (*peut*) → местоимение **Chacun** d'entre nous."
+  - q: "Dans ce quartier, ___ rue a son comité de voisins."
+    options: ["chaque", "chacune", "toutes"]
+    answer: 0
+    explain: "Перед существительным в ед. ч. → **chaque** rue."
+  - q: "___ des habitants ont voté pour le projet."
+    options: ["La plupart", "Plusieurs", "Chacun"]
+    answer: 0
+    explain: "***La plupart des*** + мн. ч. → глагол во мн. ч. *ont voté*. *Plusieurs* стоит без *des*: *plusieurs habitants*."
+  - q: "Je n'ai reçu ___ réponse de la mairie."
+    options: ["aucune", "aucun", "pas de aucune"]
+    answer: 0
+    explain: "*Réponse* — ж. р. → **aucune**; *ne* уже есть, *pas* не нужен."
+  - q: "___ citoyens refusent de voter, d'autres votent blanc."
+    options: ["Des certains", "Certains", "Quelques-uns"]
+    answer: 1
+    explain: "***Certains*** + существительное без артикля; *quelques-uns* — только местоимение."
+  - q: "— Tu connais des élus municipaux ? — Oui, ___."
+    options: ["je connais quelques", "j'en connais quelques-uns", "je les connais quelques-uns"]
+    answer: 1
+    explain: "Местоимение-дополнение с количеством → ***en** + quelques-uns*: *j'en connais quelques-uns*."
+  - q: "Les bénévoles ? Je les ai ___ remerciés."
+    options: ["tout", "tous", "toutes"]
+    answer: 1
+    explain: "Местоимение *tous* (м. р. мн. ч., [tus]) между *ai* и причастием: *je les ai **tous** remerciés*."
+  - q: "Ne crois pas ___ ce qu'on lit sur les réseaux sociaux."
+    options: ["tous", "tout", "n'importe"]
+    answer: 1
+    explain: "«Всё» → **tout** ce qu'on lit."
+  - q: "Cette pétition, ___ peut la signer : il suffit d'avoir une adresse e-mail."
+    options: ["n'importe qui", "n'importe quoi", "n'importe quel"]
+    answer: 0
+    explain: "«Кто угодно» → **n'importe qui**."
+  - q: "Ce projet n'est pas le seul : nous en avons ___."
+    options: ["des autres", "d'autres", "les autres"]
+    answer: 1
+    explain: "Неопределённое «другие» → **d'autres** (*des* перед прилагательным → *de*)."
+  - q: "Lors du débat, ___ candidates ont présenté le même programme."
+    options: ["plusieurs", "plusieures", "des plusieurs"]
+    answer: 0
+    explain: "***Plusieurs*** не изменяется по родам и стоит без артикля."
+  - q: "Il n'y a ___ de nouveau dans ce rapport."
+    options: ["rien", "aucun", "personne"]
+    answer: 0
+    explain: "«Ничего нового» → ***rien de** nouveau*."

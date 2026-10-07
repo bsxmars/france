@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу на французский целиком: местоименные глаголы — в passé composé, вопросы — с инверсией или с *est-ce que*. Пунктуация не важна, акценты — важны."
+hints:
+  - "Местоименный глагол в passé composé — всегда с être."
+  - "Кого? — qui; что? — que / qu'est-ce que; о чём? — de quoi; с кем? — avec qui."
+items:
+  - q: "Она встала в семь часов."
+    answers: ["Elle s'est levée à sept heures.", "Elle s'est levée à 7 heures."]
+    explain: "*se lever* → **s'est levée**: *être* и согласование с *elle*."
+  - q: "Мы не ошиблись."
+    answers: ["Nous ne nous sommes pas trompés.", "Nous ne nous sommes pas trompées.", "On ne s'est pas trompés.", "On ne s'est pas trompé.", "On ne s'est pas trompées."]
+    explain: "Отрицание: *ne* + *nous sommes* + *pas* + причастие: **Nous ne nous sommes pas trompés** (или *trompées*)."
+  - q: "Дети уже помыли руки?"
+    answers: ["Les enfants se sont-ils déjà lavé les mains ?", "Est-ce que les enfants se sont déjà lavé les mains ?", "Les enfants se sont déjà lavé les mains ?"]
+    explain: "*les mains* — прямое дополнение → причастие **lavé** не согласуется; *déjà* — между *sont* и причастием."
+  - q: "Когда вы встретились?"
+    answers: ["Quand vous êtes-vous rencontrés ?", "Quand vous êtes-vous rencontrées ?", "Quand est-ce que vous vous êtes rencontrés ?", "Quand est-ce que vous vous êtes rencontrées ?"]
+    explain: "Инверсия: ***vous êtes-vous** rencontrés* — местоимение-дополнение впереди."
+  - q: "Что ты ищешь?"
+    answers: ["Que cherches-tu ?", "Qu'est-ce que tu cherches ?", "Tu cherches quoi ?"]
+    explain: "Предмет → **que** + инверсия или **qu'est-ce que** + прямой порядок."
+  - q: "Кого вы ждёте?"
+    answers: ["Qui attendez-vous ?", "Qui est-ce que vous attendez ?", "Vous attendez qui ?", "Qui attends-tu ?", "Qui est-ce que tu attends ?"]
+    explain: "Человек → **qui** + инверсия или **qui est-ce que** + прямой порядок. *attendre* — без предлога."
+  - q: "Кому ты пишешь?"
+    answers: ["À qui écris-tu ?", "À qui est-ce que tu écris ?", "Tu écris à qui ?"]
+    explain: "*écrire **à** qn* → ***à qui***: *À qui écris-tu ?*"
+  - q: "О чём вы думаете?"
+    answers: ["À quoi pensez-vous ?", "À quoi est-ce que vous pensez ?", "Vous pensez à quoi ?", "À quoi penses-tu ?", "À quoi est-ce que tu penses ?"]
+    explain: "«Думать о чём» — *penser **à*** qch → ***à quoi***. Предлог — от французского глагола, не от русского."
+  - q: "С кем Поль идёт в кино?"
+    answers: ["Avec qui Paul va-t-il au cinéma ?", "Avec qui est-ce que Paul va au cinéma ?"]
+    explain: "Есть ещё дополнение (*au cinéma*) → **сложная инверсия**: *Avec qui **Paul va-t-il** au cinéma ?*"
+  - q: "Чем ты интересуешься?"
+    answers: ["À quoi t'intéresses-tu ?", "À quoi est-ce que tu t'intéresses ?", "Tu t'intéresses à quoi ?"]
+    explain: "*s'intéresser **à*** qch → ***à quoi***, а не «avec quoi» по русскому творительному падежу."

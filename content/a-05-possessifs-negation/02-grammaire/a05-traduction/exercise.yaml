@@ -1,0 +1,37 @@
+title: "Переведи на французский"
+type: gap
+intro: "Переведи фразу целиком. Слова — из списков урока 5. Акценты обязательны, точку можно не ставить."
+hints:
+  - "«Свой» = притяжательное того же лица, что подлежащее."
+  - "Отрицание — ne… pas вокруг глагола; профессия — без артикля."
+items:
+  - q: "Я не работаю в Париже."
+    answers: ["Je ne travaille pas à Paris."]
+    explain: "**ne travaille pas**; город — **à** Paris, без артикля."
+  - q: "Их отец — врач."
+    answers: ["Leur père est médecin."]
+    explain: "«Их» → **leur**; профессия после *être* — без артикля."
+  - q: "Я пишу своей сестре."
+    answers: ["J'écris à ma sœur."]
+    explain: "**j'écris**; «кому?» → **à**; «свой» при *je* → **ma**."
+  - q: "Дочь Анны не замужем."
+    answers: ["La fille d'Anna n'est pas mariée."]
+    explain: "**d'Anna** (элизия *de*); **n'est pas**; *mariée* — ж. р."
+  - q: "Не закрывайте книги!"
+    answers: ["Ne fermez pas les livres !", "Ne fermez pas vos livres !"]
+    explain: "Отрицательное повелительное: **Ne fermez pas** les livres !"
+  - q: "Ученики читают свои тексты."
+    answers: ["Les élèves lisent leurs textes."]
+    explain: "Владельцы — *ils*, текстов много → **leurs**."
+  - q: "Я иду на вокзал в шесть часов."
+    answers: ["Je vais à la gare à six heures."]
+    explain: "**à** la gare — направление; **à** six heures — время."
+  - q: "Я не люблю этот текст."
+    answers: ["Je n'aime pas ce texte."]
+    explain: "**n'aime pas** — элизия *ne* перед гласной."
+  - q: "Друг моей сестры — лётчик."
+    answers: ["L'ami de ma sœur est aviateur."]
+    explain: "*l'ami* (элизия) **de** ma sœur; профессия — без артикля."
+  - q: "Они говорят спасибо своей матери."
+    answers: ["Ils disent merci à leur mère.", "Elles disent merci à leur mère."]
+    explain: "*ils / elles disent*; «кому?» → **à**; «своей» при *ils* → **leur** (мать одна)."

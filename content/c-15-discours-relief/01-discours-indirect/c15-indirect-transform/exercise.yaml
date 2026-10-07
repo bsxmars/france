@@ -1,0 +1,68 @@
+title: "Перескажи в прошедшем"
+type: transform
+intro: "Перескажи реплику в косвенной речи. Вводящий глагол — в прошедшем, пересказ звучит через несколько дней, поэтому указатели времени и места тоже меняются. Впиши недостающую часть целиком."
+hints:
+  - "présent → imparfait; passé composé → plus-que-parfait; futur → conditionnel; futur antérieur → conditionnel passé."
+  - "demain → le lendemain; hier → la veille; aujourd'hui → ce jour-là; ici → là; la semaine prochaine → la semaine suivante."
+  - "Императив → de + инфинитив; отрицание целиком перед инфинитивом."
+items:
+  - q: "Léa : « J'ai envoyé ma candidature hier. »"
+    key: "veille"
+    stem: "Léa a expliqué ___."
+    answers: ["qu'elle avait envoyé sa candidature la veille"]
+    explain: "Passé composé → plus-que-parfait **avait envoyé**; *ma* → *sa*; *hier* → **la veille**."
+  - q: "Le maire : « Les travaux commenceront la semaine prochaine. »"
+    key: "suivante"
+    stem: "Le maire a annoncé ___."
+    answers: ["que les travaux commenceraient la semaine suivante"]
+    explain: "Futur → conditionnel **commenceraient**; *la semaine prochaine* → **la semaine suivante**."
+  - q: "Hugo : « Quand vous arriverez, j'aurai déjà préparé le dîner. »"
+    key: "aurait"
+    stem: "Hugo nous a dit que quand nous arriverions, ___."
+    answers: ["il aurait déjà préparé le dîner"]
+    explain: "Futur antérieur → conditionnel passé **aurait préparé**; *déjà* остаётся между вспомогательным и причастием."
+  - q: "La guide : « Ne prenez pas de photos ici. »"
+    key: "ne pas"
+    stem: "La guide nous a demandé ___."
+    answers: ["de ne pas prendre de photos là", "de ne pas prendre de photos à cet endroit"]
+    explain: "Запрет → **de ne pas** + инфинитив (обе части отрицания перед инфинитивом); *ici* → **là** / *à cet endroit*."
+  - q: "Mon frère : « Je viens de rentrer et je suis épuisé. »"
+    key: "venait"
+    stem: "Mon frère m'a dit ___."
+    answers: ["qu'il venait de rentrer et qu'il était épuisé"]
+    explain: "Passé récent → **venait de** + inf.; présent → imparfait **était**; *que* повторяется перед вторым придаточным."
+  - q: "Inès : « Si le train a du retard, je prendrai un taxi. »"
+    key: "si"
+    stem: "Inès a dit que ___."
+    answers: ["si le train avait du retard, elle prendrait un taxi"]
+    explain: "В условном предложении présent → imparfait **avait**, futur → conditionnel **prendrait**."
+  - q: "Le médecin (à Marc) : « Ne vous levez plus avant la fin du traitement. »"
+    key: "plus"
+    stem: "Le médecin a recommandé à Marc ___."
+    answers: ["de ne plus se lever avant la fin du traitement"]
+    explain: "*Ne plus* целиком перед инфинитивом; возвратное *vous* → **se** (подлежащее инфинитива — Marc)."
+  - q: "Ma voisine : « Je déménage aujourd'hui. »"
+    key: "jour-là"
+    stem: "Ma voisine m'a annoncé ___."
+    answers: ["qu'elle déménageait ce jour-là"]
+    explain: "Présent → imparfait **déménageait**; *aujourd'hui* → **ce jour-là**."
+  - q: "Le directeur : « J'ai rencontré le client il y a deux jours. »"
+    key: "plus tôt"
+    stem: "Le directeur a précisé ___."
+    answers: ["qu'il avait rencontré le client deux jours plus tôt"]
+    explain: "PC → plus-que-parfait **avait rencontré**; *il y a deux jours* → **deux jours plus tôt** (или *auparavant*)."
+  - q: "Nina (à moi) : « N'appelle personne avant demain ! »"
+    key: "personne"
+    stem: "Nina m'a demandé ___."
+    answers: ["de n'appeler personne avant le lendemain"]
+    explain: "*Ne* перед инфинитивом, **personne** — после него: *de n'appeler personne*; *demain* → **le lendemain**."
+  - q: "Paul : « Je ne pourrai pas venir, mon fils est malade. »"
+    key: "pourrait"
+    stem: "Paul a prévenu ___."
+    answers: ["qu'il ne pourrait pas venir parce que son fils était malade", "qu'il ne pourrait pas venir, son fils étant malade", "qu'il ne pourrait pas venir car son fils était malade", "qu'il ne pourrait pas venir, que son fils était malade", "qu'il ne pourrait pas venir puisque son fils était malade"]
+    explain: "Futur → conditionnel **pourrait**; présent → imparfait **était**; *mon* → *son*. Связку причины можно выразить разными словами."
+  - q: "Les enfants (à leur mère) : « Nous rangerons notre chambre quand nous aurons fini nos devoirs. »"
+    key: "auraient"
+    stem: "Les enfants ont promis à leur mère qu'ils rangeraient leur chambre ___."
+    answers: ["quand ils auraient fini leurs devoirs", "lorsqu'ils auraient fini leurs devoirs"]
+    explain: "Futur antérieur в придаточном времени → conditionnel passé **auraient fini**; *nos* → *leurs*."

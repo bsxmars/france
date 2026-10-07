@@ -1,0 +1,43 @@
+title: "Два местоимения вместо двух дополнений"
+type: gap
+intro: "Ответь на вопрос, заменив оба дополнения местоимениями. Впиши в пропуск **только два местоимения** (с элизией, если нужна: *m'en*, *t'y*)."
+hints:
+  - "me / te / nous / vous + le / la / les; le / la / les + lui / leur."
+  - "y и en — всегда последними: m'en, lui en, leur en, t'y, les y, il y en a."
+items:
+  - q: "Tu envoies le contrat à la cliente ? — Oui, je ___ envoie tout de suite."
+    answers: ["le lui"]
+    explain: "*Le contrat* → *le*, *à la cliente* → *lui*; оба 3-го лица → **le lui**."
+  - q: "Vous pouvez me prêter votre stylo ? — Bien sûr, je ___ prête."
+    answers: ["vous le"]
+    explain: "«Вам» → *vous* (1-я колонка), *votre stylo* → *le*: **vous le** prête."
+  - q: "Le chef a expliqué les nouvelles règles aux employés ? — Oui, il ___ a expliquées hier."
+    answers: ["les leur"]
+    explain: "*Les règles* → *les*, *aux employés* → *leur*: **les leur**. Причастие *expliquées* согласуется с *les*."
+  - q: "Ta collègue t'a parlé de son départ ? — Non, elle ne ___ a pas encore parlé."
+    answers: ["m'en"]
+    explain: "*À moi* → *me*, *de son départ* → *en*: **m'en**."
+  - q: "Tu as donné des échantillons aux visiteurs ? — Oui, je ___ ai donné une dizaine."
+    answers: ["leur en"]
+    explain: "*Aux visiteurs* → *leur*, *des échantillons* → *en* (количество *une dizaine*): **leur en**. С *en* причастие не согласуется."
+  - q: "Ton frère t'emmène à l'aéroport ? — Oui, il ___ emmène demain matin."
+    answers: ["m'y"]
+    explain: "*Me* (меня) + *à l'aéroport* → *y*: **m'y** emmène."
+  - q: "Vous nous montrerez les résultats ? — Oui, je ___ montrerai lundi."
+    answers: ["vous les"]
+    explain: "«Вам» → *vous*, *les résultats* → *les*: **vous les** montrerai."
+  - q: "Tu te souviens du nom de ce fournisseur ? — Non, je ne ___ souviens plus."
+    answers: ["m'en"]
+    explain: "Возвратный *se souvenir **de*** → *me* + *en*: **m'en** souviens."
+  - q: "Tu as rendu la clé au gardien ? — Oui, je ___ ai rendue ce matin."
+    answers: ["la lui"]
+    explain: "*La clé* → *la*, *au gardien* → *lui*: **la lui**; *rendue* согласуется с *la*."
+  - q: "Il y a encore des badges à l'accueil ? — Oui, il ___ a encore trois."
+    answers: ["y en"]
+    explain: "Оборот *il y a* + *en* (*des badges*): **il y en a**; *y* перед *en*."
+  - q: "Tu vas annoncer la nouvelle à tes parents ? — Oui, je vais ___ annoncer ce soir."
+    answers: ["la leur"]
+    explain: "С инфинитивом местоимения стоят перед *annoncer*: *la nouvelle* → *la*, *à tes parents* → *leur*: **la leur**."
+  - q: "Elle t'a présenté ses nouveaux collègues ? — Oui, elle ___ a présentés à la pause."
+    answers: ["me les"]
+    explain: "«Мне» → *me*, *ses collègues* → *les*: **me les**; *présentés* согласуется с *les* (м. р. мн. ч.)."

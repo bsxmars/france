@@ -1,0 +1,24 @@
+- id: a08-que-inversion
+  lesson: a-08-que-article/01-grammaire
+  q: "«Что ты читаешь?» — два способа."
+  a: "***Que lis-tu ?*** (que + инверсия) и ***Qu'est-ce que tu lis ?*** (прямой порядок)."
+- id: a08-que-nom
+  lesson: a-08-que-article/01-grammaire
+  q: "«Что покупает Поль?»"
+  a: "***Qu'achète Paul ?*** — после *que* с существительным простая инверсия; или *Qu'est-ce que Paul achète ?*"
+- id: a08-que-je
+  lesson: a-08-que-article/01-grammaire
+  q: "«Что я делаю?»"
+  a: "***Qu'est-ce que je fais ?*** — с *je* вопрос строят через *qu'est-ce que*."
+- id: a08-attribut-article
+  lesson: a-08-que-article/01-grammaire
+  q: "«Она актриса» и «Она хорошая актриса»?"
+  a: "*Elle est actrice* — без артикля; *Elle est **une** bonne actrice* — с прилагательным нужен *un / une*."
+- id: a08-du-des
+  lesson: a-08-que-article/01-grammaire
+  q: "*de + le*, *de + les*, *de + la*, *de + l'*?"
+  a: "**du**, **des**; *de la* и *de l'* не сливаются. *le livre du professeur, les cahiers des élèves, la porte de la classe*."
+- id: a08-des-deux
+  lesson: a-08-que-article/01-grammaire
+  q: "Чем *des* в *les livres des élèves* отличается от *des* в *des livres*?"
+  a: "Первое — слитный артикль *de + les* «(чьи?) учеников»; второе — неопределённый артикль мн. ч. «книги»."

@@ -1,0 +1,37 @@
+title: "Собери фразу"
+type: order
+intro: "Собери французское предложение по русскому смыслу. Русский порядок слов свободный, французский — нет: подлежащее → глагол → дополнение. Точку ставить не нужно."
+hints:
+  - "Кто действует — тот подлежащее и стоит первым, даже если в русской фразе он в конце."
+  - "Перед названием города артикля нет."
+items:
+  - q: "«Текст читает Анна»."
+    answers: ["Anna lit le texte."]
+    explain: "Читает Анна → она подлежащее: **Anna** → *lit* → *le texte*. *Le texte lit Anna* значило бы, что текст читает Анну."
+  - q: "«В Лилле живёт семья Поля»."
+    answers: ["La famille de Paul habite Lille."]
+    explain: "Подлежащее — *la famille de Paul*, глагол *habite* в 3-м лице ед. ч.; *Lille* — без артикля и без предлога."
+  - q: "«Упражнения пишут ученики»."
+    answers: ["Les élèves écrivent les exercices."]
+    explain: "Подлежащее **les élèves** → *écrivent* (мн. ч., появляется *v*) → прямое дополнение *les exercices*."
+  - q: "«С матерью разговаривает Лея»."
+    answers: ["Léa parle avec sa mère."]
+    explain: "**Léa** → *parle* → косвенное дополнение *avec sa mère*: с предлогом, но тоже после глагола."
+  - q: "«Хьюго уезжает из Парижа»."
+    answers: ["Hugo quitte Paris."]
+    explain: "*Quitter* — без предлога: *quitte Paris* «покидает Париж». Город — без артикля."
+  - q: "«Поль смотрит на Лею»."
+    answers: ["Paul regarde Léa."]
+    explain: "Смотрит Поль → он первый. *Léa regarde Paul* — наоборот, «Лея смотрит на Поля». *Regarder* — без предлога."
+  - q: "«Дочь Анны работает в мэрии»."
+    answers: ["La fille d'Anna travaille à la mairie."]
+    explain: "Подлежащее *la fille d'Anna* (*de* перед гласной → *d'*) → *travaille* → *à la mairie*."
+  - q: "«Грамматику повторяют девочки»."
+    answers: ["Les filles révisent la grammaire."]
+    explain: "**Les filles** → *révisent* (I группа, *-ent*) → *la grammaire*."
+  - q: "«Тетради берут ученики»."
+    answers: ["Les élèves prennent les cahiers."]
+    explain: "**Les élèves** → *prennent* (*prendre*, мн. ч.: два *n*) → *les cahiers*."
+  - q: "«Моя подруга пишет матери»."
+    answers: ["Mon amie écrit à sa mère."]
+    explain: "*Mon amie* (ж. р. на гласную → *mon*) → *écrit* → *à sa mère*. «Матери» = «кому?» → предлог *à*."

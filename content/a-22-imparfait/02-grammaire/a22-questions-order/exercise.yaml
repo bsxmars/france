@@ -1,0 +1,38 @@
+title: "Собери фразу"
+type: order
+intro: "Собери французскую фразу по русскому смыслу. Вопросы с pourquoi — со сложной инверсией."
+hints:
+  - "Pourquoi + существительное + глагол-местоимение: Pourquoi Anne part-elle ?"
+  - "Отрицание обнимает глагол с местоимением: Pourquoi ne viens-tu pas ?"
+  - "Le и другие местоимения — перед глаголом (перед инфинитивом, если он есть)."
+items:
+  - q: "«Почему Анна не отвечает?»"
+    answers: ["Pourquoi Anne ne répond-elle pas ?"]
+    explain: "Существительное-подлежащее остаётся впереди, после глагола — *elle*; *ne… pas* обнимает **répond-elle**."
+  - q: "«Почему твои друзья уезжают так рано?»"
+    answers: ["Pourquoi tes amis partent-ils si tôt ?"]
+    explain: "Сложная инверсия: *tes amis* … **partent-ils**."
+  - q: "«Почему ты мне не позвонил?»"
+    answers: ["Pourquoi ne m'as-tu pas téléphoné ?"]
+    explain: "Инверсия в passé composé: *ne* + местоимение + вспомогательный + *-tu* + *pas* + причастие."
+  - q: "«Почему Марк продаёт свою машину?»"
+    answers: ["Pourquoi Marc vend-il sa voiture ?"]
+    explain: "*Marc* впереди, после глагола повторяем **il**: *vend-il*."
+  - q: "«Почему вы не хотите прийти?»"
+    answers: ["Pourquoi ne voulez-vous pas venir ?"]
+    explain: "*Ne… pas* вокруг *voulez-vous*, инфинитив — в конце."
+  - q: "«Почему Лея не смогла прийти?»"
+    answers: ["Pourquoi Léa n'a-t-elle pas pu venir ?"]
+    explain: "*Léa* + **n'a-t-elle pas pu** — *-t-* между гласными, причастие *pu*, затем инфинитив."
+  - q: "«— Ты знаешь, что экзамен перенесли? — Да, я это уже знаю.» (ответ)"
+    answers: ["Oui, je le sais déjà."]
+    explain: "«Это» = вся мысль → средний **le** перед глаголом."
+  - q: "«— Я хочу уехать. — Ты можешь это сделать завтра.» (ответ)"
+    answers: ["Tu peux le faire demain."]
+    explain: "При инфинитиве местоимение стоит перед инфинитивом: *peux **le faire***."
+  - q: "Вежливая просьба: «Закройте, пожалуйста, дверь» (с vouloir)."
+    answers: ["Voulez-vous fermer la porte ?"]
+    explain: "**Voulez-vous** + инфинитив — мягкая просьба."
+  - q: "«Так как было поздно, мы взяли такси.»"
+    answers: ["Comme il était tard, nous avons pris un taxi."]
+    explain: "Причина впереди → **comme**; *il était tard* — описание (imparfait), *nous avons pris* — событие."

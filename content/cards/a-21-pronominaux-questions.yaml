@@ -1,0 +1,40 @@
+- id: a21-pc-pronominaux
+  lesson: a-21-pronominaux-questions/01-grammaire
+  q: "Passé composé от *se lever*: je, elle, ils?"
+  a: "*je **me suis levé(e)**, elle **s'est levée**, ils **se sont levés*** — всегда с *être*, причастие согласуется."
+- id: a21-pc-pronominaux-neg
+  lesson: a-21-pronominaux-questions/01-grammaire
+  q: "«Я не ошибся», «Ты отдохнул?» (инверсия)"
+  a: "*Je **ne me suis pas** trompé. **T'es-tu** reposé ?*"
+- id: a21-lave-les-mains
+  lesson: a-21-pronominaux-questions/01-grammaire
+  q: "*Elle s'est lavée* или *elle s'est lavé les mains* — почему по-разному?"
+  a: "Без дополнения *se* — прямое дополнение → согласование: *lavée*. С *les mains* прямое дополнение — руки, *se* — косвенное → без согласования: *lavé*. Так же *ils se sont téléphoné*."
+- id: a21-que-qui-cod
+  lesson: a-21-pronominaux-questions/01-grammaire
+  q: "«Что ты ищешь?» и «Кого ты ищешь?» — по две формы."
+  a: "*Que cherches-tu ? / Qu'est-ce que tu cherches ?* — *Qui cherches-tu ? / Qui est-ce que tu cherches ?*"
+- id: a21-qui-inversion
+  lesson: a-21-pronominaux-questions/01-grammaire
+  q: "«Кого приглашает Софи?» с *qui* и подлежащим-существительным."
+  a: "*Qui **Sophie invite-t-elle** ?* — сложная инверсия. (*Qui invite Sophie ?* — «Кто приглашает Софи?»)"
+- id: a21-prep-qui-quoi
+  lesson: a-21-pronominaux-questions/01-grammaire
+  q: "«Кому ты пишешь?», «О чём вы говорите?», «Чем ты интересуешься?»"
+  a: "*À qui écris-tu ? De quoi parlez-vous ? À quoi t'intéresses-tu ?* — предлог глагола + *qui* (люди) / *quoi* (предметы)."
+- id: a21-meme
+  lesson: a-21-pronominaux-questions/02-grammaire
+  q: "*Même*: «в то же время», «даже дети», «он даже не ответил»."
+  a: "*à **la même** heure; **même** les enfants; il **n'a même pas** répondu*."
+- id: a21-adj-place
+  lesson: a-21-pronominaux-questions/02-grammaire
+  q: "Какие прилагательные стоят перед существительным?"
+  a: "Короткие частотные: *grand, petit, jeune, vieux, beau, joli, bon, mauvais, nouveau, gros*. Цвет, форма, национальность, длинные и причастия — после: *une robe rouge, la cuisine française*."
+- id: a21-partir
+  lesson: a-21-pronominaux-questions/02-grammaire
+  q: "Проспрягай *partir* (или *dormir*) в настоящем времени."
+  a: "*je pars, tu pars, il part, nous partons, vous partez, ils partent* — в ед. ч. основа теряет согласную: *je dors — nous dormons*."
+- id: a21-partir-pc
+  lesson: a-21-pronominaux-questions/02-grammaire
+  q: "*partir, sortir, dormir, sentir, s'endormir* — с каким вспомогательным в passé composé?"
+  a: "*partir, sortir, s'endormir* — с *être* (*elle est partie*); *dormir, sentir, servir, mentir* — с *avoir* (*j'ai dormi*)."

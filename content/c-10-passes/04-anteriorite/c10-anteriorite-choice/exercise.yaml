@@ -1,0 +1,55 @@
+title: "Какое предшествование?"
+type: choice
+intro: "Выбери форму, которая точнее всего передаёт смысл и регистр фразы."
+hints:
+  - "vient de — сейчас; venait de — в прошлом; avait fait — просто раньше; eut fait — сразу за этим, книжно."
+  - "Après que + indicatif."
+items:
+  - q: "Je ne peux pas encore te répondre, je ___ arriver au bureau."
+    options: ["viens d'", "venais d'", "suis venu d'"]
+    answer: 0
+    explain: "«Только что» относительно настоящего → passé immédiat: ***je viens d'arriver***."
+  - q: "Elle s'aperçut qu'elle ___ ses lunettes dans le train la veille."
+    options: ["eut oublié", "avait oublié", "vient d'oublier"]
+    answer: 1
+    explain: "Действие до другого прошедшего, с промежутком (*la veille*) → plus-que-parfait. Passé antérieur в дополнительном придаточном не ставят."
+  - q: "Roman : Dès qu'il ___ la lettre, il la jeta au feu."
+    options: ["avait lu", "venait de lire", "eut lu"]
+    answer: 2
+    explain: "*Dès que* + passé simple в главном → passé antérieur: ***eut lu***."
+  - q: "Quand nous sommes arrivés, le film ___ commencer : nous n'avons manqué que le générique."
+    options: ["venait de", "vient de", "avait"]
+    answer: 0
+    explain: "Непосредственное предшествование в прошлом → ***venait de** commencer*."
+  - q: "Le vieil homme parlait souvent du pays qu'il ___ dans sa jeunesse."
+    options: ["eut quitté", "venait de quitter", "avait quitté"]
+    answer: 2
+    explain: "*Dans sa jeunesse* — давно, промежуток большой → plus-que-parfait: ***avait quitté***."
+  - q: "Quand il ___ ses devoirs, il allait toujours jouer au foot."
+    options: ["eut fini", "avait fini", "venait de finir"]
+    answer: 1
+    explain: "Повторяющееся предшествование в паре с imparfait привычки → plus-que-parfait: ***avait fini***."
+  - q: "Roman : En quelques minutes, l'équipe ___ le campement et reprit la route."
+    options: ["avait démonté", "eut démonté", "démontait"]
+    answer: 1
+    explain: "Passé antérieur в самостоятельном предложении с *en quelques minutes* — быстро завершённое действие."
+  - q: "Pardon de vous déranger, madame : j'___ vous demander un renseignement."
+    options: ["étais venu", "fus venu", "viens de venir"]
+    answer: 0
+    explain: "Plus-que-parfait вежливости: ***j'étais venu** vous demander* — мягкая форма просьбы."
+  - q: "Разговор: « Après qu'elle ___, nous sommes restés silencieux. »"
+    options: ["soit partie", "est partie", "fût partie"]
+    answer: 1
+    explain: "*Après que* — по норме indicatif; в разговоре passé composé: ***est partie***. Субъюнктив после *après que* — частая, но ошибка."
+  - q: "Hugo éclata de rire : il ___ lire le message de sa sœur à l'instant même."
+    options: ["avait", "vient de", "venait de"]
+    answer: 2
+    explain: "*À l'instant même* — непосредственно перед *éclata* → ***venait de** lire*."
+  - q: "Roman : À peine ___ que l'orage éclata."
+    options: ["nous fûmes sortis", "fûmes-nous sortis", "nous sommes sortis"]
+    answer: 1
+    explain: "После *à peine* в начале — инверсия: ***fûmes-nous sortis***."
+  - q: "Le musée ___ être rénové : il rouvre ses portes demain."
+    options: ["venait d'", "vient d'", "avait"]
+    answer: 1
+    explain: "Точка отсчёта — настоящее (*rouvre demain*) → ***vient d'être** rénové*."

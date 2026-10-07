@@ -1,0 +1,44 @@
+title: "Найди ошибку в безударных местоимениях"
+type: error
+intro: "В каждом предложении **одна** ошибка: управление глагола (le или lui), место местоимения, невозможное сочетание местоимений или согласование причастия. Исправь её и отправь предложение целиком."
+hints:
+  - "aider, remercier, prévenir, écouter, attendre qn → le / la / les; obéir, ressembler, téléphoner, plaire, demander à qn → lui / leur."
+  - "faire / laisser + инфинитив: je le fais venir; fait перед инфинитивом не согласуется."
+  - "me / te / se + lui невозможно → à lui, à elle."
+items:
+  - q: "Mon collègue débute, alors je lui aide à rédiger ses rapports."
+    answers: ["Mon collègue débute, alors je l'aide à rédiger ses rapports."]
+    explain: "*Aider **qn** à faire qch* — прямое дополнение: **je l'aide**."
+  - q: "Ses parents ? Il ne les obéit jamais."
+    answers: ["Ses parents ? Il ne leur obéit jamais."]
+    explain: "*Obéir **à** qn* → косвенное **leur**."
+  - q: "J'ai reçu ton cadeau et je veux te le remercier."
+    answers: ["J'ai reçu ton cadeau et je veux t'en remercier.", "J'ai reçu ton cadeau et je veux te remercier."]
+    explain: "*Remercier qn **de** qch*: лицо — прямое (*te*), предмет — через *de* → **en**: *je veux **t'en** remercier* (или просто *te remercier*). ~~Te le~~ невозможно: у *remercier* нет второго прямого дополнения."
+  - q: "Les nouveaux stagiaires ? Je les ai faits entrer dans la salle."
+    answers: ["Les nouveaux stagiaires ? Je les ai fait entrer dans la salle."]
+    explain: "*Fait* перед инфинитивом **никогда** не согласуется: **je les ai fait entrer**."
+  - q: "Le médecin ? Je fais le venir ce soir."
+    answers: ["Le médecin ? Je le fais venir ce soir."]
+    explain: "При *faire* + инфинитив местоимение встаёт перед *faire*: **je le fais venir**."
+  - q: "Cette lettre, je lui la ferai lire demain."
+    answers: ["Cette lettre, je la lui ferai lire demain."]
+    explain: "Два местоимения 3-го лица: сначала прямое, потом косвенное — **la lui**."
+  - q: "Ma future belle-mère ? Mon fiancé me lui a présentée hier."
+    answers: ["Ma future belle-mère ? Mon fiancé m'a présentée à elle hier."]
+    explain: "Сочетание *me lui* невозможно: прямое *me* остаётся, косвенное → **à elle**: *m'a présentée à elle*."
+  - q: "Ce poste est difficile, mais elle s'est vite habituée à lui."
+    answers: ["Ce poste est difficile, mais elle s'y est vite habituée."]
+    explain: "*À lui* при *s'habituer* — только о **человеке**. О вещи (*ce poste*) → **y**: *elle s'y est vite habituée*."
+  - q: "Mes notes de cours ? Tu dois les me rendre avant l'examen."
+    answers: ["Mes notes de cours ? Tu dois me les rendre avant l'examen."]
+    explain: "*Me* (1-я колонка) всегда перед *le / la / les*: **me les rendre**."
+  - q: "Ces documents, on les leur a faits signer hier."
+    answers: ["Ces documents, on les leur a fait signer hier."]
+    explain: "Порядок *les leur* верен, но *fait* перед инфинитивом не согласуется: **a fait signer**."
+  - q: "Ta grand-mère t'attend : téléphone-la ce soir."
+    answers: ["Ta grand-mère t'attend : téléphone-lui ce soir."]
+    explain: "*Téléphoner **à** qn* → **lui**: *téléphone-lui*."
+  - q: "La vérité sur cet accident, lui l'as-tu enfin dite ?"
+    answers: ["La vérité sur cet accident, la lui as-tu enfin dite ?"]
+    explain: "При инверсии порядок местоимений тот же: прямое перед косвенным — **la lui as-tu dite** (причастие согласуется с *la*)."
