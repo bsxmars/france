@@ -1,0 +1,72 @@
+title: "Au téléphone : la fête de ce soir"
+type: listening
+intro: "Послушай телефонный разговор (дважды) и ответь на вопросы."
+hints:
+  - "je viens de… — уже сделано, je vais… — ещё предстоит."
+  - "Время в разговоре меняется: слушай, что было запланировано и что теперь."
+audio: audio/tts/a-18/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural, fr-FR-EloiseNeural", license: "TTS"}
+transcript: |
+  **Marc :** Allô, Claire ? C'est Marc. Je viens de finir les courses !
+
+  **Claire :** Ah, super ! Tu as tout ?
+
+  **Marc :** Presque. J'ai trois bouteilles de jus et deux bouteilles de champagne. Mais il n'y a pas de cerises au supermarché.
+
+  **Claire :** Ce n'est pas grave, je viens de les acheter au marché : un kilo et demi ! Et deux boîtes de chocolats.
+
+  **Marc :** Parfait. Et Julie ? Elle fait le gâteau ?
+
+  **Claire :** Oui, elle vient de le finir. Elle va l'apporter à huit heures. Mais il y a un problème : Bernard vient de me téléphoner. Martine finit son travail à huit heures ce soir, pas à six heures.
+
+  **Marc :** Oh non ! Et le restaurant, alors ?
+
+  **Claire :** Bernard va l'inviter à huit heures et demie, et ils vont rentrer à dix heures, pas à neuf heures.
+
+  **Marc :** D'accord, ça nous donne une heure. Et les enfants de Martine ? Ils savent pour la fête ?
+
+  **Claire :** Oui, je viens de leur parler. Ils vont garder le secret, c'est promis.
+
+  **Marc :** Et le cadeau ? Les billets pour Bruxelles ?
+
+  **Claire :** Je vais les chercher à l'agence à cinq heures. Le train est samedi matin, à huit heures douze. C'est le premier train de la journée !
+
+  **Marc :** Pauvre Martine ! Bon, et moi, qu'est-ce que je fais maintenant ?
+
+  **Claire :** Tu vas chercher des chaises chez les voisins du quatrième étage, les Lambert. Je viens de leur demander, ils sont d'accord. Tu leur rends les chaises dimanche.
+
+  **Marc :** Combien de chaises ?
+
+  **Claire :** Une douzaine. Nous sommes vingt-deux !
+
+  **Marc :** Une douzaine de chaises, au quatrième étage, sans ascenseur… Je vais téléphoner à Sophie : elle va m'aider !
+
+  **Claire :** Bonne idée. Merci, Marc. À ce soir !
+items:
+  - q: "Что Марк только что сделал?"
+    options: ["купил вишню", "закончил покупки", "забрал билеты"]
+    answer: 1
+    explain: "*Je viens de finir les courses !* Вишню купила Клер (*je viens de les acheter*), билеты она заберёт в пять (*je vais les chercher*)."
+  - q: "Чего не было в супермаркете?"
+    options: ["сока", "шампанского", "вишни"]
+    answer: 2
+    explain: "*il n'y a pas de cerises au supermarché* — после отрицания *de* без артикля."
+  - q: "Почему меняется план вечера?"
+    options: ["Мартина заканчивает работу в восемь, а не в шесть.", "Ресторан закрыт.", "Жюли не успевает испечь торт."]
+    answer: 0
+    explain: "*Martine finit son travail à huit heures ce soir, pas à six heures.* Торт Жюли уже испекла: *elle vient de le finir*."
+  - q: "Во сколько Мартина и Бернар вернутся домой?"
+    options: ["в 20:30", "в 21:00", "в 22:00"]
+    answer: 2
+    explain: "*ils vont rentrer à dix heures, pas à neuf heures.* 20:30 — время ресторана."
+  - q: "Знают ли дети Мартины о празднике?"
+    options: ["Нет, Клер ничего им не говорит.", "Да, Клер только что с ними поговорила.", "Да, им рассказал Бернар."]
+    answer: 1
+    explain: "*je viens de **leur** parler. Ils vont garder le secret* — *leur* = детям Мартины."
+  - q: "Поезд в Брюссель — в субботу в ___ (часы и минуты)."
+    answers: ["8 h 12", "8h12", "huit heures douze", "8:12", "8 heures 12", "8 h 12 du matin"]
+    explain: "*Le train est samedi matin, à huit heures douze. C'est le premier train de la journée !*"
+  - q: "Что должен сделать Марк сейчас?"
+    options: ["Взять стулья у соседей с пятого этажа.", "Взять дюжину стульев у соседей с четвёртого этажа.", "Вернуть стулья Ламберам."]
+    answer: 1
+    explain: "*Tu vas chercher des chaises chez les voisins du **quatrième** étage… — Une douzaine.* Вернуть их нужно в воскресенье: *Tu leur rends les chaises dimanche*."

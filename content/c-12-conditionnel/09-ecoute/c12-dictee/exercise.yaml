@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "После условного si — никогда не conditionnel: si j'avais…, si tu m'avais…"
+  - "-rais, -rait, -raient звучат одинаково: окончание выбирай по подлежащему."
+items:
+  - audio: audio/tts/c-12/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Si j'avais un peu plus de temps, j'apprendrais le portugais."]
+    explain: "«Если бы у меня было чуть больше времени, я бы выучила португальский». Si + imparfait → conditionnel présent."
+  - audio: audio/tts/c-12/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Si tu m'avais prévenu, je serais venu te chercher à la gare.", "Si tu m'avais prévenue, je serais venue te chercher à la gare."]
+    explain: "«Если бы ты меня предупредил, я бы встретил тебя на вокзале». Si + plus-que-parfait → conditionnel passé; *prévenu* согласуется с *m'* (COD перед avoir), *venu* — с *je* (être)."
+  - audio: audio/tts/c-12/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Au cas où il pleuvrait, la fête aurait lieu dans la salle des sports."]
+    explain: "«Если вдруг пойдёт дождь, праздник пройдёт в спортзале». **Au cas où** + conditionnel; *pleuvrait* — от *pleuvoir*."
+  - audio: audio/tts/c-12/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Quand bien même tu insisterais, je ne changerais pas d'avis."]
+    explain: "«Даже при всей твоей настойчивости я бы не передумала». **Quand bien même** + conditionnel в обеих частях."
+  - audio: audio/tts/c-12/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Selon nos informations, le ministre aurait démissionné hier soir."]
+    explain: "«По нашим данным, министр вчера вечером якобы подал в отставку». Conditionnel journalistique passé — непроверенный факт в прошлом."
+  - audio: audio/tts/c-12/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Vous auriez dû me le dire plus tôt."]
+    explain: "«Вам следовало сказать мне это раньше». *Devoir* в conditionnel passé — упрёк."
+  - audio: audio/tts/c-12/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["À ta place, je ne saurais pas quoi répondre.", "A ta place, je ne saurais pas quoi répondre."]
+    explain: "«На твоём месте я бы не знал, что ответить». Условие без *si*: **à ta place** + conditionnel."
+  - audio: audio/tatoeba/473204.mp3
+    audio_source: {title: "Tatoeba #6599390", url: "https://tatoeba.org/fr/sentences/show/6599390", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Nous ferions mieux de faire cela avant 14 h 30.", "Nous ferions mieux de faire cela avant 14h30.", "Nous ferions mieux de faire cela avant quatorze heures trente."]
+    explain: "«Нам лучше сделать это до половины третьего». **Faire mieux de** в conditionnel — мягкий совет."

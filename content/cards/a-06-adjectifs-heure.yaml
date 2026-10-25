@@ -30,3 +30,23 @@
   lesson: a-06-adjectifs-heure/01-grammaire
   q: "«Поль и Анна довольны» — какая форма прилагательного?"
   a: "Мужской род мн. ч.: *Paul et Anna sont **contents***."
+- id: a06-sept-et-demie
+  lesson: a-06-adjectifs-heure/07-lecture
+  q: "«Завтрак в половине восьмого»."
+  a: "*Le petit déjeuner est **à sept heures et demie**.* — дословно «в семь с половиной»."
+- id: a06-cadette-aine
+  lesson: a-06-adjectifs-heure/07-lecture
+  q: "«Моя младшая дочь», «мой старший сын»."
+  a: "*ma fille **cadette***, *mon fils **aîné*** — после существительного; *cadet → cadette*."
+- id: a06-il-est-a
+  lesson: a-06-adjectifs-heure/09-ecoute
+  q: "«Сейчас половина седьмого. Поезд приходит в семь»."
+  a: "***Il est** six heures et demie. Le train arrive **à** sept heures.* — *il est* = сейчас, *à* = во сколько."
+- id: a06-deux-douze-oral
+  lesson: a-06-adjectifs-heure/09-ecoute
+  q: "Как на слух отличить *deux heures* от *douze heures*, *heureux* от *heureuse*?"
+  a: "[dø-zœr] — [du-zœr]: [ø] или [u]. *heureux* [ø-rø] — *heureuse* [ø-røz]: в ж. р. слышно [z]."
+- id: a06-belle-ville
+  lesson: a-06-adjectifs-heure/08-ecriture
+  q: "«Это красивый город. Мой дом маленький, но светлый»."
+  a: "*C'est une **belle** ville. Ma maison est **petite**, mais **claire**.* — *ville, maison* — ж. р."

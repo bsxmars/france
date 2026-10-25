@@ -1,0 +1,5 @@
+# pause: 600
+F: Il est dix-huit heures, voici les titres de l'actualité. Un important incendie s'est déclaré cet après-midi dans un entrepôt de la zone industrielle de Laval. Selon les premières informations, aucun blessé ne serait à déplorer, mais une centaine de personnes auraient été évacuées par précaution.
+F: L'origine du feu reste inconnue. D'après un témoin, un court-circuit serait en cause ; les pompiers, eux, refusent pour l'instant de se prononcer.
+F: En politique municipale, le maire aurait l'intention de briguer un troisième mandat. Il devrait l'annoncer officiellement lundi prochain.
+F: Enfin, la météo : après une semaine de chaleur, des orages sont attendus dans la nuit. Si vous deviez prendre la route demain matin, soyez prudents : la chaussée risque d'être glissante.

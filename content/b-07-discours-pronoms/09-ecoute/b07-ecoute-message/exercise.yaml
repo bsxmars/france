@@ -1,0 +1,37 @@
+title: "Message : un appel des ressources humaines"
+type: listening
+intro: "Сообщение на автоответчике звучит один раз, как на экзамене. Прочитай вопросы заранее и впиши в пропуски слова или цифры из записи."
+hints:
+  - "Держи в голове: что прислать, до какого дня, дату и час встречи."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/b-07/message.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  Bonjour, madame Lefort, ici Marc Tremblay, du service des ressources humaines de la société Nordia. Je vous appelle au sujet du poste d'assistante de projet.
+
+  Ma collègue m'a dit que vous lui aviez envoyé votre dossier la semaine dernière, mais qu'il manquait votre lettre de recommandation. Pourriez-vous me l'envoyer d'ici vendredi, par courriel, à l'adresse qui figure dans l'annonce ?
+
+  Par ailleurs, notre directrice aimerait vous rencontrer le mardi quatorze, à dix heures et demie. Si cette date ne vous convient pas, dites-le-moi le plus vite possible, et je vous en proposerai une autre. L'entretien durera environ quarante-cinq minutes.
+
+  Vous pouvez me rappeler au 514 555 0192. Merci, et bonne journée !
+items:
+  - q: "Чего не хватает в досье мадам Лефор?"
+    options: ["резюме", "рекомендательного письма", "копии диплома"]
+    answer: 1
+    explain: "*Ma collègue m'a dit… qu'il **manquait** votre lettre de recommandation* — косвенная речь в прошлом (imparfait)."
+  - q: "Il faut envoyer la lettre d'ici ___."
+    answers: ["vendredi"]
+    explain: "*Pourriez-vous me l'envoyer d'ici **vendredi** ?* — *me l'* = мне это письмо."
+  - q: "La directrice voudrait la rencontrer le mardi ___."
+    answers: ["quatorze", "14"]
+    explain: "*le mardi **quatorze**, à dix heures et demie.*"
+  - q: "L'entretien commencerait à ___ heures et demie."
+    answers: ["dix", "10"]
+    explain: "*à **dix** heures et demie* — 10:30."
+  - q: "Что сделать, если дата не подходит?"
+    options: ["Сообщить как можно скорее — предложат другую.", "Прийти в пятницу без записи.", "Написать директрисе напрямую."]
+    answer: 0
+    explain: "*dites-**le-moi** le plus vite possible, et je vous **en** proposerai une autre* — *en* = дату."
+  - q: "L'entretien durera environ ___ minutes."
+    answers: ["quarante-cinq", "45", "quarante cinq"]
+    explain: "*L'entretien durera environ **quarante-cinq** minutes.*"

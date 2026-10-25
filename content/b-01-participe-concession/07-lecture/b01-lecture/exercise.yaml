@@ -1,0 +1,59 @@
+title: "La seconde main : révolution durable ou simple tendance ?"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "То, что стоит после bien que, malgré, il est vrai que, автор признаёт; его мнение — после mais и pourtant."
+text: |
+  ## La seconde main : révolution durable ou simple tendance ?
+
+  *Les vêtements d'occasion ont quitté les friperies pour envahir nos téléphones. Mais acheter usagé suffit-il à changer nos habitudes ?*
+
+  Il y a quinze ans, porter un manteau ayant appartenu à un inconnu passait encore pour un signe de pauvreté. Aujourd'hui, c'est presque une fierté. Les applications de revente comptent des millions d'utilisateurs en France, et les grandes enseignes, ayant senti le vent tourner, ouvrent toutes leur rayon « seconde vie ». D'après une enquête récente, plus d'un Français sur deux a déjà acheté un vêtement d'occasion en ligne.
+
+  Les raisons de cet engouement sont connues. Le prix, d'abord : une veste de marque d'occasion coûte souvent trois fois moins cher qu'une veste neuve. L'écologie, ensuite : en prolongeant la vie d'un vêtement, on évite d'en fabriquer un nouveau, alors que l'industrie textile reste l'une des plus polluantes de la planète. « Je n'achète presque plus rien de neuf, explique Léa, étudiante à Lille. En revendant ce que je ne porte plus, je finance une bonne partie de ma garde-robe. »
+
+  Pourtant, le tableau est moins idyllique qu'il n'y paraît. Bien que la seconde main soit présentée comme le contraire de la « fast fashion », elle en reprend souvent les pires réflexes. Notifications incessantes, bonnes affaires à saisir avant qu'elles ne disparaissent, colis traversant le pays pour un tee-shirt à cinq euros : tout pousse à acheter davantage. Beaucoup d'utilisateurs ont beau se croire raisonnables, leur armoire se remplit plus vite qu'avant. Plus surprenant encore : une partie des articles revendus sont neufs, achetés sans hésiter parce qu'on pourra toujours les revendre.
+
+  Certaines plateformes encouragent d'ailleurs ce comportement. Leur slogan, « Vendez, achetez, recommencez », a quelque chose de provocant, et leurs publicités, provoquant l'achat impulsif plutôt que la réflexion, ne parlent jamais d'écologie. Les associations caritatives, recevant de moins en moins de beaux vêtements, s'inquiètent elles aussi : les dons de qualité, autrefois déposés dans leurs boutiques solidaires, sont désormais vendus en ligne. Il ne leur reste que les vêtements usés, difficiles à revendre, alors que les familles modestes comptaient justement sur ces boutiques pour s'habiller à petit prix.
+
+  Faut-il pour autant condamner la seconde main ? Certainement pas. Malgré ses excès, elle a changé notre regard sur l'objet usagé, et c'est une vraie victoire culturelle. Mais elle ne deviendra une révolution que lorsque nous aurons appris à acheter moins, et pas seulement autrement. Si la revente sert seulement de prétexte pour consommer plus, nous aurons simplement remplacé une mode par une autre. La solution est sans doute moins excitante qu'une nouvelle application : garder ses vêtements jusqu'à ce qu'ils soient vraiment usés, les réparer, les prêter. Le vêtement le plus écologique, rappellent les spécialistes, reste celui qu'on a déjà dans son placard.
+items:
+  - q: "Как воспринимали подержанную одежду пятнадцать лет назад?"
+    options: ["как признак бедности", "как модный выбор", "как проявление экологической сознательности"]
+    answer: 0
+    explain: "*porter un manteau **ayant appartenu** à un inconnu passait encore pour un signe de pauvreté* — *passer pour* = «считаться»."
+  - q: "Vrai / faux / on ne sait pas: больше половины французов уже покупали подержанную одежду в интернете."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 0
+    explain: "*plus d'un Français sur deux a déjà acheté un vêtement d'occasion en ligne* — «больше одного из двух», то есть больше половины."
+  - q: "Как Леа оплачивает свой гардероб?"
+    options: ["Она получает скидки в крупных сетях.", "Она перепродаёт вещи, которые больше не носит.", "Она покупает только в благотворительных магазинах."]
+    answer: 1
+    explain: "*En revendant ce que je ne porte plus, je finance une bonne partie de ma garde-robe.* — gérondif *en revendant* показывает способ."
+  - q: "Vrai / faux / on ne sait pas: Леа покупает новой только обувь."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 2
+    explain: "Леа говорит лишь *Je n'achète presque plus rien de neuf* — что именно она покупает новым, в тексте не сказано."
+  - q: "В чём автор упрекает рынок подержанной одежды?"
+    options: ["Он перенимает худшие привычки fast fashion и подталкивает покупать больше.", "Он слишком дорог для студентов.", "Он вредит крупным сетям."]
+    answer: 0
+    explain: "*Bien que la seconde main soit présentée comme le contraire de la « fast fashion », elle en reprend souvent les pires réflexes… tout pousse à acheter davantage.* Уступка (*bien que*) — то, что принято думать, а мнение автора — в главной части."
+  - q: "Что значит фраза «Beaucoup d'utilisateurs ont beau se croire raisonnables, leur armoire se remplit plus vite qu'avant»?"
+    options: ["Пользователи разумны, поэтому шкаф наполняется медленнее.", "Как бы пользователи ни считали себя разумными, их шкаф наполняется быстрее, чем раньше.", "Пользователи красиво раскладывают вещи в шкафу."]
+    answer: 1
+    explain: "*avoir beau + infinitif* — «сколько ни…, как ни…»: усилие или убеждение ничего не меняет. *beau* здесь не «красивый»."
+  - q: "Почему беспокоятся благотворительные ассоциации?"
+    options: ["Им запретили продавать одежду в интернете.", "Им отдают всё меньше хорошей одежды: её продают онлайн.", "Семьи перестали приходить в их магазины."]
+    answer: 1
+    explain: "*Les associations caritatives, **recevant** de moins en moins de beaux vêtements, s'inquiètent* — participe présent здесь = *parce qu'elles reçoivent*: причина."
+  - q: "Какова позиция автора в конце статьи?"
+    options: ["Подержанную одежду нужно запретить из-за её перегибов.", "Это полезный сдвиг, но революцией он станет, только когда мы научимся покупать меньше.", "Новые приложения решат проблему перепотребления."]
+    answer: 1
+    explain: "*Malgré ses excès, elle a changé notre regard… Mais elle ne deviendra une révolution que lorsque nous **aurons appris** à acheter moins.* Futur antérieur после *lorsque*: сначала научиться, потом — революция."
+  - q: "Впиши adjectif verbal из текста: Leur slogan a quelque chose de ___."
+    answers: ["provocant"]
+    explain: "Прилагательное (качество) пишется **provocant**, а причастие (действие) — *provoquant* (*leurs publicités, **provoquant** l'achat impulsif*). То же в паре *fatigant / fatiguant*."
+  - q: "Впиши форму из текста: les grandes enseignes, ___ senti le vent tourner, ouvrent toutes leur rayon « seconde vie »."
+    answers: ["ayant"]
+    explain: "*ayant senti* — participe composé: действие раньше главного и одновременно его причина («почувствовав, куда дует ветер»)."

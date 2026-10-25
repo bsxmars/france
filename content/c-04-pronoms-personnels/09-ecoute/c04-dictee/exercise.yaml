@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Нейтральное le почти не слышно — проверь, не пропущено ли оно."
+  - "Императив: penses-y, parles-en — с -s перед y / en."
+items:
+  - audio: audio/tts/c-04/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Il est beaucoup plus tard que je ne le pensais."]
+    explain: "«Уже гораздо позже, чем я думала». В сравнительном придаточном — **ne** (без отрицания) и нейтральное **le**."
+  - audio: audio/tts/c-04/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Fatiguées, elles le sont toutes après une semaine pareille."]
+    explain: "«Устали они все после такой недели». **le** заменяет атрибут *fatiguées* и не изменяется."
+  - audio: audio/tts/c-04/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Quand on travaille seul, on ne peut compter que sur soi."]
+    explain: "«Когда работаешь один, можно рассчитывать только на себя». После обобщённого *on* — **soi**."
+  - audio: audio/tts/c-04/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Je n'y suis pour rien, c'est lui qui a tout organisé."]
+    explain: "«Я тут ни при чём, это он всё организовал». **n'y être pour rien** — идиома; **lui** — ударное в выделении *c'est… qui*."
+  - audio: audio/tts/c-04/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Ne t'en fais pas, elle ne t'en veut plus."]
+    explain: "«Не переживай, она на тебя больше не обижается». **s'en faire** — переживать; **en vouloir à qn** — обижаться на кого-то."
+  - audio: audio/tts/c-04/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Laisse-moi faire, je m'y connais un peu en informatique."]
+    explain: "«Дай я сделаю, я немного разбираюсь в информатике». **s'y connaître en** — разбираться в чём-то."
+  - audio: audio/tts/c-04/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Ces photos, je les ai fait imprimer à Montréal."]
+    explain: "«Эти фотографии я отдал напечатать в Монреале». Каузатив: местоимение перед **faire**, причастие **fait** не согласуется."
+  - audio: audio/tts/c-04/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Penses-y avant de partir, et parles-en à tes parents."]
+    explain: "«Подумай об этом до отъезда и поговори с родителями». Императив на *-e* получает **-s** перед *y* и *en*: *penses-y, parles-en*."

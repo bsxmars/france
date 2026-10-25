@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и дефисы — важны."
+hints:
+  - "au и aux звучат одинаково [о] — решай по смыслу и связыванию."
+  - "Местоимение le, les — перед глаголом."
+items:
+  - audio: audio/tts/a-09/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Il faut fermer la fenêtre."]
+    explain: "«Надо закрыть окно». *il faut* + инфинитив; *il* безличное."
+  - audio: audio/tts/a-09/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Il fait très chaud ici."]
+    explain: "«Здесь очень жарко». *il fait* + прилагательное — погода; *très* перед прилагательным."
+  - audio: audio/tts/a-09/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Paul parle aux élèves."]
+    explain: "«Поль говорит с учениками». Слышно связывание [озэлэв] → **aux** = *à* + *les*."
+  - audio: audio/tts/a-09/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Le livre ? Je le lis.", "Le livre, je le lis."]
+    explain: "«Книга? Я её читаю». **le** заменяет *le livre* и стоит перед глаголом."
+  - audio: audio/tts/a-09/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["« Il pleut », dit-il.", "Il pleut, dit-il."]
+    explain: "«Идёт дождь, — говорит он». После прямой речи — инверсия **dit-il** с дефисом."
+  - audio: audio/tatoeba/474919.mp3
+    audio_source: {title: "Tatoeba #5946751", url: "https://tatoeba.org/fr/sentences/show/5946751", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je suis au travail."]
+    explain: "«Я на работе». *à* + *le travail* = **au travail**."
+  - audio: audio/tatoeba/474559.mp3
+    audio_source: {title: "Tatoeba #2433139", url: "https://tatoeba.org/fr/sentences/show/2433139", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je les déteste."]
+    explain: "«Я их ненавижу». **les** — перед глаголом; *détester* — глагол на *-er*."
+  - audio: audio/tatoeba/472672.mp3
+    audio_source: {title: "Tatoeba #794536", url: "https://tatoeba.org/fr/sentences/show/794536", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Il est trois heures et demie.", "Il est 3 heures et demie."]
+    explain: "«Сейчас половина четвёртого». Время — безличный оборот *il est*; *demie* после *heures* — в женском роде."
+  - audio: audio/tatoeba/472606.mp3
+    audio_source: {title: "Tatoeba #13640", url: "https://tatoeba.org/fr/sentences/show/13640", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Il est tard."]
+    explain: "«Поздно». Безличный *il est* + наречие: в русском подлежащего нет, во французском — *il*."

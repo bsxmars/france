@@ -1,0 +1,47 @@
+title: "À l'épicerie"
+type: listening
+intro: "Послушай разговор в магазине и ответь на вопросы."
+hints:
+  - "После pas de — то, чего нет."
+  - "Числа и цена звучат в конце фраз."
+audio: audio/tts/a-15/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural, fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  — Bonjour, madame. Vous désirez ?
+  — Bonjour, monsieur. Avez-vous des fraises ?
+  — Non, je n'ai pas de fraises aujourd'hui. Mais j'ai beaucoup de pommes et de poires.
+  — Alors, six pommes, s'il vous plaît.
+  — Six pommes… Voilà. Et avec ça ?
+  — Vous avez des œufs ?
+  — Oui. Combien d'œufs ?
+  — Douze, s'il vous plaît. Et un fromage de chèvre.
+  — Ah, désolé, il n'y a pas de fromage de chèvre ce matin. J'ai un camembert.
+  — Non merci, ça va. C'est combien ?
+  — Alors, les pommes, les œufs… Ça fait sept euros cinquante.
+  — Voilà dix euros.
+  — Merci. Et voilà deux euros cinquante. Bonne journée, madame !
+  — Merci, au revoir !
+items:
+  - q: "Чего сегодня нет в магазине?"
+    options: ["яблок", "клубники", "груш"]
+    answer: 1
+    explain: "*Je n'ai pas de fraises aujourd'hui. Mais j'ai beaucoup de pommes et de poires.*"
+  - q: "Сколько яблок покупает женщина?"
+    options: ["шесть", "десять", "двенадцать"]
+    answer: 0
+    explain: "*Alors, six pommes, s'il vous plaît.* Двенадцать — это яйца."
+  - q: "Сколько яиц она берёт?"
+    options: ["шесть", "семь", "двенадцать"]
+    answer: 2
+    explain: "*Combien d'œufs ? — Douze, s'il vous plaît.*"
+  - q: "Почему она не покупает сыр?"
+    options: ["нет козьего сыра, а камамбер она не хочет", "сыр слишком дорогой", "у неё уже есть сыр"]
+    answer: 0
+    explain: "*Il n'y a pas de fromage de chèvre ce matin. J'ai un camembert. — Non merci, ça va.*"
+  - q: "Сколько стоят покупки?"
+    options: ["2,50 €", "7,50 €", "10 €"]
+    answer: 1
+    explain: "*Ça fait sept euros cinquante.* 10 € — сколько она даёт, 2,50 € — сдача."
+  - q: "Впиши число (словом или цифрой): сколько сдачи даёт продавец? — Voilà ___ euros cinquante."
+    answers: ["2", "deux"]
+    explain: "*Et voilà deux euros cinquante* — 10 € − 7,50 € = **2,50 €**."

@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "С personne, rien, jamais, guère, aucun слово pas не ставится."
+  - "После cesser, oser, pouvoir, savoir в книжной речи ne бывает без pas."
+items:
+  - audio: audio/tts/c-07/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Il n'a jamais rien dit à personne."]
+    explain: "«Он никогда никому ничего не говорил». Три отрицания с одним *ne*: в сложном времени *jamais* и *rien* — перед причастием, *personne* — после."
+  - audio: audio/tts/c-07/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Elle parle couramment trois langues, mais elle écrit mieux en français."]
+    explain: "«Она свободно говорит на трёх языках, но лучше пишет по-французски». *courant* → **couramment** (-ant → -amment); *mieux* — сравнительная степень *bien*."
+  - audio: audio/tts/c-07/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Nous ne sommes plus jamais retournés dans ce village.", "Nous ne sommes plus jamais retournées dans ce village."]
+    explain: "«Мы больше никогда не возвращались в эту деревню». *plus jamais* — оба слова перед причастием; *retourner* — с *être*, причастие согласуется с *nous*."
+  - audio: audio/tts/c-07/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Je ne fais que passer, je ne reste pas dîner."]
+    explain: "«Я только на минутку, на ужин не останусь». **ne faire que** + infinitif — «только и делать, что…» / «лишь»."
+  - audio: audio/tts/c-07/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Il ne cesse de pleuvoir depuis lundi."]
+    explain: "«С понедельника не переставая идёт дождь». После **cesser** в книжной речи *ne* без *pas*."
+  - audio: audio/tts/c-07/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Partez avant qu'il ne soit trop tard."]
+    explain: "«Уезжайте, пока не стало слишком поздно». *ne* explétif после *avant que* ничего не отрицает; *soit* — subjonctif."
+  - audio: audio/tts/c-07/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Ce projet n'intéresse guère les investisseurs."]
+    explain: "«Этот проект мало интересует инвесторов». **ne… guère** — книжное «почти не, мало»."
+  - audio: audio/tts/c-07/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Il n'y a que toi qui puisses m'aider."]
+    explain: "«Только ты можешь мне помочь». **il n'y a que… qui**; глагол согласуется с *toi* (2-е лицо), здесь в subjonctif — *puisses* [pɥis]."

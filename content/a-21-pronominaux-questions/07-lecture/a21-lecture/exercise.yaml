@@ -1,0 +1,57 @@
+title: "Le mariage de Clara"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "même + существительное — «тот же»; même перед подлежащим — «даже»."
+text: |
+  **Cher Antoine,**
+
+  Samedi, ma cousine Clara s'est mariée avec Hugo dans un vieux château près de Tours. Quelle belle journée !
+
+  Le matin, je me suis levée à six heures. Je me suis préparée, j'ai mis ma nouvelle robe bleue et je suis partie en voiture avec mes parents. Mais nous nous sommes trompés de route, alors nous nous sommes dépêchés, et nous sommes arrivés juste à temps, à onze heures.
+
+  Clara et Hugo se sont rencontrés il y a cinq ans, à l'université. Ils se sont dit « oui » à onze heures et demie, dans le jardin du château. Clara a porté une longue robe blanche, très simple. Même mon grand-père a pleuré !
+
+  À midi, on a servi un grand repas : du saumon, du canard et un énorme gâteau. Et devine qui est-ce que j'ai rencontré à table ? Léo, mon vieil ami d'école ! Nous nous sommes assis à la même table. De quoi est-ce que nous avons parlé ? De nos professeurs, de nos amis… de tout !
+
+  Le soir, tout le monde a dansé. À minuit, les mariés sont sortis dans le jardin pour le feu d'artifice. Moi, je me suis amusée comme une folle, mais je n'ai pas beaucoup dormi : je me suis couchée à quatre heures du matin !
+
+  Dimanche, nous nous sommes promenés au bord de la Loire, puis nous sommes rentrés à Paris.
+
+  Et toi, avec qui est-ce que tu es parti en vacances ? Raconte !
+
+  **Bises,**
+  **Inès**
+items:
+  - q: "Где была свадьба?"
+    options: ["в старом замке под Туром", "в Париже, в мэрии", "на берегу Луары, в ресторане"]
+    answer: 0
+    explain: "*Clara **s'est mariée** avec Hugo dans un **vieux château** près de Tours.* — *vieux* стоит перед существительным."
+  - q: "Почему семья Инес торопилась?"
+    options: ["Инес поздно встала.", "Они ошиблись дорогой.", "Свадьба началась раньше."]
+    answer: 1
+    explain: "*nous **nous sommes trompés** de route, alors nous **nous sommes dépêchés***. Инес встала рано — в шесть."
+  - q: "Когда Клара и Юго познакомились?"
+    options: ["пять лет назад, в университете", "в школе, с Инес", "год назад, в Туре"]
+    answer: 0
+    explain: "*Clara et Hugo **se sont rencontrés** il y a cinq ans, à l'université.*"
+  - q: "Что значит «Même mon grand-père a pleuré»?"
+    options: ["Мой дедушка тоже плакал, как и в тот раз.", "Даже мой дедушка плакал.", "Тот же дедушка плакал."]
+    answer: 1
+    explain: "*même* перед подлежащим — наречие «**даже**»."
+  - q: "Кого Инес встретила за столом?"
+    options: ["брата Юго", "старого школьного друга Лео", "своего учителя"]
+    answer: 1
+    explain: "*devine **qui est-ce que** j'ai rencontré à table ? Léo, mon vieil ami d'école !* — *vieil* перед гласной."
+  - q: "О чём Инес и Лео говорили?"
+    options: ["о свадьбе Клары", "об учителях, друзьях — обо всём", "об отпуске Антуана"]
+    answer: 1
+    explain: "*De quoi est-ce que nous avons parlé ? De nos professeurs, de nos amis… de tout !* — *parler de* → вопрос *de quoi*."
+  - q: "Почему Инес мало спала?"
+    options: ["Она легла в четыре утра.", "Фейерверк был в четыре утра.", "Она рано уехала в Париж."]
+    answer: 0
+    explain: "*je n'ai pas beaucoup dormi : **je me suis couchée** à quatre heures du matin !*"
+  - q: "Впиши слово из текста: Nous nous sommes assis à la ___ table."
+    answers: ["même"]
+    explain: "*la **même** table* — «за тот же (один) стол»: *même* после артикля — прилагательное."

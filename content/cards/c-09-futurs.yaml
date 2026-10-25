@@ -134,3 +134,27 @@
   lesson: c-09-futurs/04-grammaire
   q: "Перенос в план прошлого: viendra, sera venu, va venir"
   a: "*viendrait, serait venu, allait venir.*"
+- id: c09-voir-venir
+  lesson: c-09-futurs/07-lecture
+  q: "«Чего они не предвидели, так это того, что действительно перевернёт нашу жизнь»"
+  a: "Ce qu'ils **n'avaient pas vu venir**, c'était ce qui **allait** réellement **bouleverser** nos vies."
+- id: c09-y-etre-pour
+  lesson: c-09-futurs/07-lecture
+  q: "«…и что мы приложим к этому руку» (взгляд из будущего)"
+  a: "…et que nous **y aurons été pour quelque chose**. — futur antérieur + *y être pour quelque chose*."
+- id: c09-il-faudra-attendre
+  lesson: c-09-futurs/07-lecture
+  q: "Историческое будущее: «Только в 1950-е годы примут законы»"
+  a: "**Il faudra attendre** les années 1950 pour que des lois soient votées. — futur в рассказе о прошлом."
+- id: c09-franchir-le-pas
+  lesson: c-09-futurs/08-ecriture
+  q: "«Когда несколько крупных компаний решатся, остальные последуют»"
+  a: "Quand quelques grandes entreprises **auront franchi le pas**, les autres **suivront**."
+- id: c09-allais-quand
+  lesson: c-09-futurs/09-ecoute
+  q: "«Я уже собирался поступать на биологию, когда учитель меня переубедил»"
+  a: "**J'allais m'inscrire** en biologie **quand** un professeur m'a convaincu… — несостоявшееся действие."
+- id: c09-auront-cesse
+  lesson: c-09-futurs/09-ecoute
+  q: "Прогноз: «К полудню снег прекратится»"
+  a: "Les averses **auront cessé** vers midi. — futur antérieur: завершится к сроку."

@@ -1,0 +1,45 @@
+title: "Lettre formelle : le retour au bureau"
+type: writing
+intro: "Напиши официальное письмо директору по плану урока."
+prompt: |
+  Dans votre entreprise, la direction a annoncé par courriel qu'à partir de janvier, tous les salariés devraient venir au bureau quatre jours par semaine au lieu de deux. Vous êtes représentant(e) du personnel et vous avez réuni vos collègues pour recueillir leur avis.
+
+  Vous écrivez une lettre formelle au directeur général. Vous rapportez ce que la direction a annoncé et ce que les salariés vous ont dit ou demandé, vous présentez vos arguments en tenant compte de ceux de la direction, puis vous proposez un compromis.
+
+  Напиши **200–280 слов**.
+words: [200, 280]
+target_grammar:
+  - "косвенная речь в прошлом: vous avez annoncé que + imparfait / conditionnel / plus-que-parfait"
+  - "косвенный вопрос и просьба: demander si / ce que / pourquoi, charger quelqu'un de + infinitif"
+  - "указатели времени: le jour même, le lendemain, l'année précédente, la semaine suivante"
+  - "двойные местоимения: je vous la transmets, vous nous l'aviez promis, il faudrait nous en garantir"
+checklist:
+  - "Оформление письма: шапка, Objet, обращение без cher, полная формула вежливости."
+  - "Во вступлении ясно, кто пишет, от чьего имени и о каком решении речь."
+  - "Переданы хотя бы три чужих высказывания в косвенной речи, с разными глаголами-вводителями."
+  - "Хотя бы один косвенный вопрос (si / ce que / pourquoi) и одна косвенная просьба (de + infinitif)."
+  - "Время сдвинуто правильно: qu'il fallait, qu'ils avaient appris, que la décision serait prise; есть le lendemain / le jour même."
+  - "Хотя бы два двойных местоимения в правильном порядке."
+  - "Есть уступка доводу дирекции, конкретное предложение компромисса и вежливая просьба."
+model_answer: |
+  Camille Roux
+  Représentante du personnel, service Sinistres
+  Nantes, le 4 novembre 2026
+
+  Objet : retour au bureau quatre jours par semaine
+
+  Monsieur le Directeur général,
+
+  Au nom des représentants du personnel, je me permets de vous écrire au sujet de votre décision d'imposer quatre jours de présence au bureau à partir de janvier.
+
+  Le 15 octobre, vous nous avez annoncé par courriel que le télétravail avait affaibli l'esprit d'équipe et qu'il fallait retrouver le goût d'être ensemble. Le lendemain, nous avons réuni les salariés. Beaucoup m'ont expliqué qu'ils avaient appris la nouvelle le jour même, sans aucune concertation. Plusieurs collègues m'ont demandé si la direction disposait d'études pour justifier ce changement. Ils m'ont chargée de vous poser la question : je vous la pose donc aujourd'hui.
+
+  De notre côté, nous avons des chiffres : l'enquête interne de l'année précédente montrait que toutes les équipes avaient atteint leurs objectifs. Un collègue qui habite loin m'a confié qu'il perdrait deux heures par jour dans les transports et qu'il envisageait de partir.
+
+  Nous reconnaissons cependant que les nouveaux arrivants ont besoin d'apprendre le métier sur place. C'est pourquoi nous vous proposons un compromis : trois jours au bureau, choisis par chaque équipe, et un collègue référent pour chaque recrue. Encore faut-il des bureaux : avant d'exiger plus de présence, il faudrait nous en garantir assez pour tous.
+
+  Les salariés ont signé une pétition ; je vous l'adresse avec cette lettre. Je vous serais reconnaissante de bien vouloir nous recevoir avant la fin de décembre, comme vous nous l'aviez promis.
+
+  Dans l'attente de votre réponse, je vous prie d'agréer, Monsieur le Directeur général, l'expression de mes salutations distinguées.
+
+  Camille Roux

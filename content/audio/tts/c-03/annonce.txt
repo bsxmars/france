@@ -1,0 +1,5 @@
+# pause: 600
+B: Vous rêvez d'un logement plein de caractère ? L'agence Pierre et Brique vous propose cette semaine un bel appartement ancien, au troisième étage d'un vieil immeuble du centre-ville, à deux pas de la gare.
+B: Soixante-quinze mètres carrés, trois pièces, de hauts plafonds et de grandes fenêtres donnant sur un jardin. La cuisine est neuve, la salle de bains a été entièrement refaite, et un nouvel ascenseur a été installé l'an dernier.
+B: Petit plus : une ancienne chambre de bonne, au sixième étage, est vendue avec l'appartement. Elle peut servir de bureau ou de chambre d'amis.
+B: Prix : trois cent vingt mille euros, frais d'agence compris. Visites le samedi matin, uniquement sur rendez-vous, à prendre sur le site de l'agence.

@@ -1,0 +1,7 @@
+# rate: -5%
+# pause: 700
+H: Bonjour à tous et bienvenue au château de Montval !
+H: Ce château a été construit au treizième siècle par un riche seigneur de la région. Il a été agrandi deux fois, puis il a été abandonné pendant cent ans. En mille neuf cent cinquante, il a été acheté par la commune, et il est ouvert au public depuis mille neuf cent soixante-deux.
+H: Nous entrons maintenant dans la grande salle. Regardez les vitraux : ils ont été refaits après un incendie, en mille huit cent vingt. Les tableaux, eux, ont été offerts au château par une famille de Lausanne.
+H: Attention : l'escalier de la tour est étroit. Vous devez tenir les enfants par la main. En haut, vous découvrirez le lac et les montagnes.
+H: Après la visite, une boisson chaude vous sera offerte sur la terrasse couverte du café. Bonne visite !

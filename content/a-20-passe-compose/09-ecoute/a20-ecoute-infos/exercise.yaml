@@ -1,0 +1,48 @@
+title: "Les nouvelles de la région"
+type: listening
+intro: "Выпуск местных новостей на швейцарском радио. Послушай и ответь на вопросы."
+hints:
+  - "Каждый сюжет начинается с города: отметь его."
+  - "Числа можно писать цифрами."
+audio: audio/tts/a-20/infos.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  Bonjour, il est midi, voici les nouvelles de la région.
+
+  À Lausanne, ce matin, les pompiers ont sauvé un chat. L'animal est monté sur le toit d'une école de six étages et il est resté là-haut pendant toute la nuit. Les élèves ont applaudi les pompiers.
+
+  À Montreux, le festival des bateaux anciens a commencé samedi. Plus de quatre-vingts bateaux sont arrivés sur le lac Léman, et dix mille visiteurs sont venus les voir. Les journaux locaux ont beaucoup parlé de ce beau spectacle.
+
+  À Vevey, une habitante a trouvé un portefeuille avec huit cents francs dans la rue. Elle l'a apporté à la police. Le propriétaire, un touriste italien, a retrouvé son argent hier soir et il a offert des fleurs à la dame.
+
+  À Genève, l'aéroport a accueilli hier son premier avion électrique. Le petit avion est parti de Zurich à huit heures et il est arrivé à Genève une heure plus tard, avec quatre passagers.
+
+  La météo, maintenant : il a beaucoup neigé cette nuit dans les montagnes. Les routes sont dangereuses : soyez prudents !
+items:
+  - q: "Что случилось в Лозанне?"
+    options: ["Пожарные спасли кошку с крыши школы.", "Школьники залезли на крышу.", "В школе был пожар."]
+    answer: 0
+    explain: "*les pompiers **ont sauvé** un chat. L'animal **est monté** sur le toit d'une école.*"
+  - q: "Сколько времени кошка провела на крыше?"
+    options: ["час", "всё утро", "всю ночь"]
+    answer: 2
+    explain: "*il **est resté** là-haut pendant toute la nuit.*"
+  - q: "Более ___ старинных кораблей прибыли на фестиваль в Монтрё."
+    answers: ["80", "quatre-vingts", "quatre vingts"]
+    explain: "*Plus de quatre-vingts bateaux sont arrivés sur le lac Léman* — *bateau* → *bateaux*. 10 000 — число посетителей."
+  - q: "Что сделала жительница Веве?"
+    options: ["Потеряла бумажник.", "Отнесла найденный бумажник в полицию.", "Подарила цветы туристу."]
+    answer: 1
+    explain: "*une habitante **a trouvé** un portefeuille… Elle **l'a apporté** à la police.* Цветы подарил ей турист."
+  - q: "Сколько денег было в бумажнике?"
+    options: ["80 франков", "800 франков", "8000 франков"]
+    answer: 1
+    explain: "*un portefeuille avec **huit cents** francs.*"
+  - q: "Откуда прилетел электрический самолёт?"
+    options: ["из Цюриха", "из Женевы", "из Италии"]
+    answer: 0
+    explain: "*Le petit avion **est parti** de Zurich à huit heures et il **est arrivé** à Genève une heure plus tard.*"
+  - q: "Что говорит прогноз погоды?"
+    options: ["Ночью шёл сильный снег, дороги опасны.", "Ночью шёл дождь, завтра будет солнце.", "В горах тепло."]
+    answer: 0
+    explain: "*il **a beaucoup neigé** cette nuit dans les montagnes. Les routes sont dangereuses.*"

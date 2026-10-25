@@ -42,3 +42,23 @@
   lesson: a-20-passe-compose/02-grammaire
   q: "*Connaître* или *savoir*: «Я знаю Пьера», «Я знаю, где он живёт»."
   a: "*Je **connais** Pierre* — знакомство (+ существительное). *Je **sais** où il habite* — факт (+ придаточное или инфинитив)."
+- id: a20-sommes-partis
+  lesson: a-20-passe-compose/07-lecture
+  q: "«Мы уехали в пятницу вечером и приехали в десять»."
+  a: "Nous **sommes partis** vendredi soir et nous **sommes arrivés** à dix heures."
+- id: a20-journaux-locaux
+  lesson: a-20-passe-compose/07-lecture
+  q: "Мн. ч.: *un journal local*, *un bateau*, *un bijou*?"
+  a: "des **journaux locaux**, des **bateaux**, des **bijoux**."
+- id: a20-il-a-plu
+  lesson: a-20-passe-compose/09-ecoute
+  q: "«Днём шёл сильный дождь», «ночью шёл сильный снег»."
+  a: "Il **a beaucoup plu** l'après-midi. Il **a beaucoup neigé** cette nuit."
+- id: a20-ont-sont-oral
+  lesson: a-20-passe-compose/09-ecoute
+  q: "Как на слух отличить *ils ont* от *ils sont*?"
+  a: "*ils ont* — [ильзõ], звонкое [з]; *ils sont* — [ильсõ], глухое [с]."
+- id: a20-pas-aime
+  lesson: a-20-passe-compose/08-ecriture
+  q: "«Мне очень понравилось море, а рыба — нет»."
+  a: "J'ai **beaucoup aimé** la mer, mais je **n'ai pas aimé** le poisson."

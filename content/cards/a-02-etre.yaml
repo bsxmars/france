@@ -30,3 +30,23 @@
   lesson: a-02-etre/01-grammaire
   q: "Из чего состоит c'est и как задать с ним вопрос?"
   a: "*ce* «это» + *est* «есть»; апостроф — выпавшее e. Вопрос: **est-ce** + … ? (*Est-ce ta tasse ?*) или *C'est ta tasse ?* с интонацией."
+- id: a02-chez
+  lesson: a-02-etre/07-lecture
+  q: "«Мы у моей подруги Клер»."
+  a: "*Nous **sommes chez** mon amie Claire.* — *chez* «у, в доме у»; *mon* перед гласной и у женского рода."
+- id: a02-et-toi
+  lesson: a-02-etre/07-lecture
+  q: "«А ты? Ты в Лионе?»"
+  a: "*Et toi ? **Tu es** à Lyon ?* — *tu es* и *il est* звучат одинаково: [ɛ]."
+- id: a02-il-ils-oral
+  lesson: a-02-etre/09-ecoute
+  q: "Как на слух отличить *elle est contente* от *elles sont contentes*?"
+  a: "По глаголу: **est** [ɛ] — одна, **sont** [sɔ̃] — несколько. *contente(s)* звучит одинаково."
+- id: a02-cet-cette-oral
+  lesson: a-02-etre/09-ecoute
+  q: "Как звучат *cet ami* и *cette amie*?"
+  a: "Одинаково: [sɛ-ta-mi]. Род виден только на письме."
+- id: a02-voici-chambre
+  lesson: a-02-etre/08-ecriture
+  q: "«Вот моя комната: она маленькая»."
+  a: "*Voici **ma** chambre : **elle est** petite.* — *chambre* ж. р. → *ma*, *elle*, *petite*."

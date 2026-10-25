@@ -30,3 +30,23 @@
   lesson: a-07-question-inversion/02-grammaire
   q: "Как спросить с *est-ce que* и когда он обязателен?"
   a: "*Est-ce que* + прямой порядок: *Est-ce qu'il lit ?* Обязателен с *je*: *Est-ce que je parle vite ?*"
+- id: a07-correspondant
+  lesson: a-07-question-inversion/07-lecture
+  q: "«Друг по переписке», «подруга по переписке»?"
+  a: "**le correspondant**, **la correspondante**: *Je suis ta correspondante française.*"
+- id: a07-ville-habitant
+  lesson: a-07-question-inversion/07-lecture
+  q: "«Я из Лиона (лионка), но живу в Париже»."
+  a: "*Je suis **lyonnaise**, mais j'habite Paris.* — житель города без артикля, город без предлога после *habiter*."
+- id: a07-ecris-moi
+  lesson: a-07-question-inversion/08-ecriture
+  q: "Как закончить письмо другу просьбой ответить?"
+  a: "***Écris-moi vite !*** — «Напиши мне скорее!» Потом *Bisous,* и имя."
+- id: a07-quebecois
+  lesson: a-07-question-inversion/09-ecoute
+  q: "«Я квебекец, из Монреаля»."
+  a: "*Je suis **québécois**, de Montréal.* (ж. р. *québécoise*)"
+- id: a07-il-elle-oral
+  lesson: a-07-question-inversion/09-ecoute
+  q: "Как на слух отличить *Parle-t-il ?* от *Parle-t-elle ?*"
+  a: "По концу: [тиль] — **il**, [тэль] — **elle**. Вставное *-t-* звучит в обоих."

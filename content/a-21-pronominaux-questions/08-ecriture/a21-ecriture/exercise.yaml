@@ -1,0 +1,33 @@
+title: "Lettre : une belle fête"
+type: writing
+intro: "Напиши другу о празднике (свадьба, день рождения, Новый год) по плану урока."
+prompt: |
+  Le week-end dernier, tu es allé(e) à une fête : un mariage, un anniversaire ou une soirée chez des amis. Tu écris à ton ami(e) : comment tu t'es préparé(e), qui tu as rencontré, comment vous vous êtes amusés, à quelle heure tu t'es couché(e). Pose aussi deux questions à ton ami(e).
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "местоименные глаголы в passé composé с être и согласованием"
+  - "вопросы к дополнению: qu'est-ce que, qui est-ce que, avec qui, de quoi"
+  - "même «тот же» / «даже»"
+  - "место прилагательного: une belle robe, une robe bleue"
+checklist:
+  - "Есть обращение и прощание."
+  - "Хотя бы четыре местоименных глагола в passé composé — все с être."
+  - "Причастия согласованы с подлежащим: je me suis habillée (если пишет женщина), nous nous sommes amusés."
+  - "Есть два вопроса другу, хотя бы один — с предлогом (avec qui, de quoi, à qui)."
+  - "Есть même в одном из значений."
+  - "Хотя бы одно прилагательное перед существительным (belle, vieux, grand) и одно после (bleue, français)."
+model_answer: |
+  Chère Zoé,
+
+  Samedi, mon ami Marc a fêté ses trente ans dans un petit restaurant italien. Je me suis préparée pendant une heure et j'ai mis une belle robe rouge.
+
+  Au restaurant, je me suis assise à côté de Paul, un vieil ami de Marc. Nous aimons les mêmes livres, alors nous avons parlé toute la soirée ! On a servi des pizzas et un gâteau énorme. Après le repas, nous nous sommes bien amusés : même Marc a chanté !
+
+  Je me suis couchée à trois heures du matin.
+
+  Et toi, avec qui est-ce que tu es sortie samedi ? Qu'est-ce que vous avez fait ?
+
+  Bises,
+  Léa

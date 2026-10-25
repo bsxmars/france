@@ -1,0 +1,67 @@
+title: "Le débat de société : la gratuité des transports"
+type: listening
+intro: "Послушай радиоинтервью (дважды) и ответь на вопросы."
+hints:
+  - "Je suis convaincu que + indicatif — уверенность; je doute que + subjonctif — сомнение."
+  - "В пассиве проверь, кто совершает действие (par…)."
+audio: audio/tts/b-05/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural, fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour et bienvenue dans « Le débat de société ». Les transports en commun gratuits : de plus en plus de villes se laissent tenter. Mon invité, Simon Bouchard, est chercheur en urbanisme à Montréal. Il a étudié pendant trois ans une ville moyenne du nord de la France, où le bus est gratuit depuis dix ans. Simon, la gratuité a-t-elle tenu ses promesses ?
+
+  **Simon :** En partie. Le nombre de voyageurs a été multiplié par deux en un an, ce qui est considérable. Mais il faut que l'on regarde qui sont ces nouveaux passagers. Beaucoup étaient des piétons ou des cyclistes. Les automobilistes, eux, ont été bien moins nombreux à changer d'habitudes qu'on ne l'espérait.
+
+  **Journaliste :** La gratuité n'a donc pas fait baisser la circulation ?
+
+  **Simon :** Très peu. Je ne dis pas qu'elle soit inutile, loin de là. Les jeunes et les personnes âgées se déplacent beaucoup plus qu'avant, et les commerces du centre ont été redécouverts par des habitants qui n'y venaient plus. Mais si l'on veut que les gens laissent leur voiture au garage, le prix compte moins que la fréquence. Un bus gratuit qui passe toutes les quarante minutes n'intéresse personne.
+
+  **Journaliste :** Et qui paie, puisque le voyageur ne paie plus ?
+
+  **Simon :** C'est la grande question. Les billets ne représentaient qu'une petite partie du budget, environ quinze pour cent. Le reste était déjà financé par les impôts locaux et par une taxe payée par les entreprises. Mais il est normal que les contribuables se demandent si cet argent ne serait pas mieux utilisé ailleurs, pour acheter de nouveaux bus, par exemple.
+
+  **Journaliste :** Vous êtes donc plutôt contre ?
+
+  **Simon :** Non. Je suis convaincu que la gratuité est une bonne mesure sociale, mais je doute qu'elle suffise, à elle seule, à changer nos habitudes. Qu'on la choisisse ou non, il faut d'abord investir dans le réseau : plus de lignes, des bus plus fréquents, des parkings près des gares.
+
+  **Journaliste :** Qu'est-ce qui vous a le plus surpris pendant votre enquête ?
+
+  **Simon :** Le changement d'image. Avant, le bus était considéré comme le transport de ceux qui n'avaient pas le choix. Aujourd'hui, on y croise des médecins, des étudiants, des retraités. Que l'on soit riche ou pauvre, on prend le même bus. Pour moi, c'est presque plus important que les chiffres.
+
+  **Journaliste :** Et à Montréal, pourrait-on faire la même chose ?
+
+  **Simon :** Ce serait plus difficile : la ville est dix fois plus grande, et un métro coûte bien plus cher à faire fonctionner qu'un réseau de bus. Mais je souhaite que l'on commence par les jeunes et les personnes âgées. Plus on habitue les gens tôt, plus ils gardent l'habitude.
+
+  **Journaliste :** Simon Bouchard, merci beaucoup.
+items:
+  - q: "Что изучал Симон Бушар?"
+    options: ["метро Монреаля", "средний город на севере Франции, где автобус бесплатен уже десять лет", "десять европейских городов с бесплатным транспортом"]
+    answer: 1
+    explain: "*Il a étudié **pendant trois ans** une ville moyenne du nord de la France, où le bus est gratuit **depuis dix ans**.*"
+  - q: "Как изменилось число пассажиров?"
+    options: ["выросло вдвое за год", "выросло в десять раз", "почти не изменилось"]
+    answer: 0
+    explain: "*Le nombre de voyageurs **a été multiplié par deux** en un an* — пассив; «в десять раз» — о размерах Монреаля."
+  - q: "Кто в основном стал новыми пассажирами?"
+    options: ["бывшие автомобилисты", "бывшие пешеходы и велосипедисты", "туристы"]
+    answer: 1
+    explain: "*Beaucoup étaient des piétons ou des cyclistes. Les automobilistes, eux, ont été **bien moins nombreux** à changer d'habitudes **qu'on ne l'espérait**.*"
+  - q: "Что, по мнению Симона, важнее цены, чтобы люди оставили машину?"
+    options: ["частота автобусов", "парковки в центре", "комфорт в автобусах"]
+    answer: 0
+    explain: "*si l'on veut que les gens **laissent** leur voiture au garage, le prix compte **moins que la fréquence**.* Парковки у вокзалов он упоминает позже, как одну из инвестиций."
+  - q: "Какую долю бюджета транспорта давали билеты?"
+    options: ["около половины", "около пятнадцати процентов", "около сорока процентов"]
+    answer: 1
+    explain: "*Les billets ne représentaient qu'une petite partie du budget, environ **quinze pour cent**.* «Сорок» — интервал автобуса в минутах."
+  - q: "Какова позиция Симона?"
+    options: ["Он против бесплатного транспорта.", "Он за, но сомневается, что одной бесплатности достаточно: сначала нужно вкладываться в сеть.", "Он считает, что бесплатность решает все проблемы."]
+    answer: 1
+    explain: "*Je suis convaincu que la gratuité **est** une bonne mesure sociale, mais je doute qu'elle **suffise**, à elle seule…* — indicatif для уверенности, subjonctif для сомнения."
+  - q: "Что его больше всего удивило?"
+    options: ["рост налогов", "смена имиджа автобуса: теперь им пользуются все слои общества", "поведение молодёжи"]
+    answer: 1
+    explain: "*Avant, le bus **était considéré comme** le transport de ceux qui n'avaient pas le choix… **Que l'on soit** riche ou pauvre, on prend le même bus.*"
+  - q: "Что он предлагает для Монреаля?"
+    options: ["сделать бесплатным метро", "начать с молодёжи и пожилых", "отказаться от идеи: город слишком большой"]
+    answer: 1
+    explain: "*Ce serait plus difficile… Mais je souhaite que l'on **commence** par les jeunes et les personnes âgées.* *souhaiter que* + subjonctif."

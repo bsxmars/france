@@ -1,0 +1,9 @@
+# rate: -5%
+# pause: 1000
+D: Bonsoir à tous. Ce soir, je vous raconte l'histoire du roi et de la boulangère.
+D: Il était une fois, dans un petit pays, un roi très gourmand. Chaque matin, il mangeait du pain chaud avec du beurre. Mais un jour, il ne fut pas content : son pain était dur et sans goût. Alors le roi annonça : « Je veux le meilleur pain du royaume ! »
+D: Le lendemain, trois boulangers vinrent au château. Le premier, un gros homme, travailla le plus vite : en une heure, son pain fut prêt. Mais il était trop cuit. Le deuxième travailla plus lentement, et son pain fut meilleur. Le troisième boulanger était une jeune femme. Elle travailla le moins vite de tous : son pain sortit du four seulement à l'aube.
+D: Pendant la nuit, le roi ne dormit pas. Il descendit trois fois à la cuisine et regarda la jeune femme. Elle ne parlait pas, elle ne courait pas, elle attendait. « Elle travaille moins vite que les deux autres, pensa le roi. Mais pourquoi ? »
+D: À l'aube, le roi goûta les trois pains. Il mangea le premier sans plaisir. Il mangea le deuxième avec plaisir. Et le troisième… il le mangea tout entier et en demanda encore !
+D: « Qui a fait ce pain ? » demanda-t-il. La jeune femme répondit : « Moi, Majesté. Je travaille moins vite que les autres, mais je laisse le temps au pain. Le pain, c'est comme les gens : il est meilleur quand on ne le presse pas. »
+D: Le roi rit longtemps. Puis il donna à la jeune femme une belle maison près du château, et elle devint la boulangère du roi. Et depuis ce jour, dit-on, le roi mange plus lentement… et beaucoup mieux.

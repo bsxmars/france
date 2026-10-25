@@ -146,3 +146,27 @@
   lesson: c-06-indefinis/04-grammaire
   q: "Tout à fait, tout de suite, tout à l'heure, tout à coup?"
   a: "совершенно; сразу; только что / скоро; вдруг."
+- id: c06-a-lenvi
+  lesson: c-06-indefinis/07-lecture
+  q: "«Твердить на все лады, что…» (книжно)"
+  a: "**répéter à l'envi** que… — *l'envi* без *e* (≠ *l'envie*, «желание»)."
+- id: c06-daucuns
+  lesson: c-06-indefinis/07-lecture
+  q: "«Некоторые утверждают…» — книжный вариант с aucun"
+  a: "**D'aucuns** affirment que… — утвердительный смысл, без *ne*."
+- id: c06-tisser-lien
+  lesson: c-06-indefinis/07-lecture
+  q: "«Эти мелкие жесты создают связь»"
+  a: "Ces gestes minuscules **tissent un lien**."
+- id: c06-tout-imparfaite
+  lesson: c-06-indefinis/08-ecriture
+  q: "«…какой бы несовершенной она ни была» (о свободе)"
+  a: "**tout imparfaite qu'elle soit** — *tout* + прил. + *que* + subjonctif (или indicatif); *tout* перед гласной не меняется."
+- id: c06-encore-faut-il
+  lesson: c-06-indefinis/09-ecoute
+  q: "«Открыть двери мало: нужно ещё и вызвать желание войти»"
+  a: "Ouvrir les portes ne suffit pas : **encore faut-il** donner envie d'entrer. — после *encore* в начале фразы инверсия."
+- id: c06-gratuite-ciblee
+  lesson: c-06-indefinis/09-ecoute
+  q: "«Адресная бесплатность»; «подтвердить своё положение»"
+  a: "**une gratuité ciblée**; **justifier de sa situation**."

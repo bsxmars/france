@@ -1,0 +1,2 @@
+# rate: -5%
+C: Ce vélo coûte quatre cent quatre-vingt-dix euros.

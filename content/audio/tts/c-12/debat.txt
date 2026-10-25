@@ -1,0 +1,15 @@
+# pause: 700
+A: Bonsoir et bienvenue dans « Le grand débat ». Ce soir, une question qui divise les entreprises : faut-il passer à la semaine de quatre jours ? Selon un sondage publié ce matin, six salariés sur dix y seraient favorables. Pour en débattre, Nathalie Gagnon, qui dirige une entreprise de logiciels à Montréal et qui a adopté la semaine de quatre jours il y a deux ans, et Pierre Lambert, économiste du travail. Madame Gagnon, pourquoi avoir fait ce choix ?
+E: Au départ, c'était presque un pari. Nous perdions nos meilleurs développeurs, qui partaient chez des concurrents mieux payés. Je ne pouvais pas augmenter les salaires, alors je me suis dit : et si on leur offrait du temps plutôt que de l'argent ? Nous avons gardé trente-cinq heures par semaine, mais réparties sur quatre jours.
+A: Et le résultat ?
+E: Au-delà de nos espérances. En deux ans, nous n'avons perdu que deux personnes, alors qu'avant, nous en perdions une dizaine par an. Et la productivité n'a pas baissé, au contraire. Honnêtement, si j'avais su, je l'aurais fait bien plus tôt.
+A: Pierre Lambert, vous êtes plus sceptique.
+D: Je dirais plutôt prudent. Ce que décrit Madame Gagnon est très intéressant, mais je ferais une distinction. Dans une entreprise de logiciels, on peut organiser le travail autrement. Dans un hôpital, dans une école ou dans un supermarché, c'est une autre affaire. Si les infirmières ne travaillaient que quatre jours, il faudrait en embaucher davantage, et l'on manque déjà de personnel.
+E: Je vous l'accorde, ce ne serait pas simple partout. Mais on pourrait commencer là où c'est possible, non ?
+D: Bien sûr. Simplement, il ne faudrait pas présenter cela comme une solution miracle. Et il y a un autre point qu'on oublie souvent : des journées de neuf heures, c'est long. Plusieurs études britanniques montreraient une hausse de la fatigue chez certains salariés, en particulier chez les parents de jeunes enfants.
+E: Chez nous, les employés choisissent eux-mêmes leur jour de congé. Ceux qui ont des enfants prennent souvent le mercredi. Et quand bien même les journées seraient un peu plus longues, la plupart d'entre eux ne voudraient pour rien au monde revenir en arrière.
+A: Monsieur Lambert, l'État devrait-il intervenir ?
+D: Je ne saurais le recommander pour le moment. Une loi imposée à tous, du jour au lendemain, ce serait une erreur. En revanche, l'État pourrait aider les entreprises qui veulent expérimenter, par exemple en finançant des études sérieuses. Nous aurions dû le faire depuis longtemps : nous disposons de très peu de données fiables.
+A: Madame Gagnon, un mot pour conclure ?
+E: Aux chefs d'entreprise qui nous écoutent, je dirais : n'attendez pas une loi. Essayez pendant six mois, mesurez, discutez avec vos équipes. Au pire, vous reviendrez à l'ancien système. Au mieux, vous découvrirez que vos employés ne demandaient qu'à travailler mieux.
+A: Nathalie Gagnon, Pierre Lambert, merci à tous les deux.

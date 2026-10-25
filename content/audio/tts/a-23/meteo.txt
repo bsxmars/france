@@ -1,0 +1,8 @@
+# rate: -5%
+# pause: 800
+F: Bonjour à tous, voici la météo pour demain, dimanche, au Québec.
+F: À Montréal, le matin, il fera moins quinze degrés, et le ciel sera bleu. Mais l'après-midi, le vent arrivera de l'ouest, et il neigera à partir de seize heures.
+F: À Québec, ce sera difficile : il neigera toute la journée. On attend trente centimètres de neige ! Si vous devez prendre la route, partez tôt le matin. Les écoles seront ouvertes, mais certains autobus auront du retard.
+F: Dans le nord, à Chicoutimi, il fera très froid : jusqu'à moins trente-deux degrés pendant la nuit. Les médecins vous disent de ne pas sortir longtemps sans bonnet et sans gants.
+F: Et lundi ? Bonne nouvelle : le soleil reviendra partout, et les températures remonteront un peu. Si vous aimez le ski, ce sera une journée parfaite !
+F: Bon dimanche à tous, et soyez prudents sur les routes.

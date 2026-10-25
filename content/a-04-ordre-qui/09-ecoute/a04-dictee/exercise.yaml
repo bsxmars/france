@@ -1,0 +1,53 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком (или выбери вариант). Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "У III группы мн. ч. слышно по согласному: lisent [liz], écrivent [e-kriv], partent [part]."
+  - "Перед городом артикля нет: habite Marseille."
+items:
+  - audio: audio/tts/a-04/lisent.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Il lit.", "Ils lisent."]
+    answer: 1
+    explain: "[il-liz] — **Ils lisent** «они читают»: на конце слышно [z]. *Il lit* — [il-li]."
+  - audio: audio/tts/a-04/ecrit.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Elle écrit.", "Elles écrivent."]
+    answer: 0
+    explain: "[ɛ-le-kri] — **Elle écrit** «она пишет»: конец на [i], без [v]. *Elles écrivent* — [ɛl-ze-kriv]."
+  - audio: audio/tts/a-04/partent.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Il part.", "Ils partent."]
+    answer: 1
+    explain: "[il-part] — **Ils partent** «они уезжают»: в конце слышно [t]. *Il part* — [il-par]."
+  - audio: audio/tts/a-04/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Qui lit le texte ?"]
+    explain: "«Кто читает текст?». После *qui* — 3-е лицо ед. ч.: *lit*."
+  - audio: audio/tts/a-04/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Léa habite Marseille."]
+    explain: "«Лея живёт в Марселе». Перед городом нет артикля; после *habiter* можно и без предлога."
+  - audio: audio/tts/a-04/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Les filles prennent le livre."]
+    explain: "«Девочки берут книгу». *prennent* [prɛn] — мн. ч. от *prend* [prɑ̃]."
+  - audio: audio/tts/a-04/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Anna écrit à sa mère."]
+    explain: "«Анна пишет своей маме». Косвенное дополнение с *à* — после глагола; *-t* в *écrit* немое."
+  - audio: audio/tatoeba/473695.mp3
+    audio_source: {title: "Tatoeba #1158571", url: "https://tatoeba.org/fr/sentences/show/1158571", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Qui est là ?"]
+    explain: "«Кто там?». *qui* + *est* — 3-е лицо ед. ч."
+  - audio: audio/tatoeba/473944.mp3
+    audio_source: {title: "Tatoeba #5365735", url: "https://tatoeba.org/fr/sentences/show/5365735", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["L'amour fait mal."]
+    explain: "«Любовь причиняет боль». *fait* [fɛ] — 3-е лицо ед. ч. от *faire*, *-t* немое."
+  - audio: audio/tatoeba/472073.mp3
+    audio_source: {title: "Tatoeba #487338", url: "https://tatoeba.org/fr/sentences/show/487338", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Qui vous enseigne le français ?"]
+    explain: "«Кто преподаёт вам французский?». После *qui* глагол в 3-м лице ед. ч.: *enseigne*; *vous* «вам»."

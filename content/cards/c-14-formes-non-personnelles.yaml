@@ -166,3 +166,27 @@
   lesson: c-14-formes-non-personnelles/05-causatif
   q: "«Она дала себя убедить» — и как согласовать laissé?"
   a: "*Elle s'est **laissé** convaincre* — по реформе 1990 неизменяемо (традиционное *laissée* тоже допустимо)."
+- id: c14-se-rappeler-a
+  lesson: c-14-formes-non-personnelles/07-lecture
+  q: "«Тело, забытое на месяцы перед экраном, напоминает о себе»."
+  a: "Le corps, **oublié** pendant des mois devant un écran, **se rappelle à nous**."
+- id: c14-afficher-complet
+  lesson: c-14-formes-non-personnelles/07-lecture
+  q: "«Приюты, где уже в марте нет мест»."
+  a: "Les gîtes **affichant complet** dès le mois de mars. — participe présent вместо *qui affichent*."
+- id: c14-encore-faut-il
+  lesson: c-14-formes-non-personnelles/07-lecture
+  q: "«Но для этого ещё нужно, чтобы мы согласились потерять немного времени»."
+  a: "**Encore faut-il que** nous **acceptions** de perdre un peu de temps. — инверсия после *encore* + subjonctif."
+- id: c14-gagnerait-a
+  lesson: c-14-formes-non-personnelles/08-ecriture
+  q: "«Школе стоило бы давать ученикам работать руками»."
+  a: "L'école **gagnerait à laisser** ses élèves **se servir** de leurs mains."
+- id: c14-en-etat-de-marche
+  lesson: c-14-formes-non-personnelles/09-ecoute
+  q: "«Шесть вещей из десяти уходят из мастерской в рабочем состоянии»."
+  a: "Six objets sur dix repartent **en état de marche**."
+- id: c14-bon-pour-la-poubelle
+  lesson: c-14-formes-non-personnelles/09-ecoute
+  q: "«Она была уверена, что машинку пора выбросить»."
+  a: "Elle était persuadée que sa machine était **bonne pour la poubelle**."

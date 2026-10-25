@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и дефисы — важны."
+hints:
+  - "Окончания -e, -es, -ent не слышны, но пишутся: смотри на подлежащее."
+  - "После on — 3-е лицо ед. ч."
+items:
+  - audio: audio/tts/a-11/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Ce sont les livres du professeur."]
+    explain: "«Это книги преподавателя». О нескольких предметах — **ce sont**; *du* = *de* + *le*."
+  - audio: audio/tts/a-11/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["On ferme la porte ?"]
+    explain: "«Закроем дверь?» *on* = «мы», глагол **ferme** — как после *il*."
+  - audio: audio/tts/a-11/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Ils n'écoutent pas la radio."]
+    explain: "«Они не слушают радио». Перед гласной *ne* → **n'**; *-ent* не слышно, но пишется."
+  - audio: audio/tts/a-11/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Regardez la photo !"]
+    explain: "«Посмотрите на фотографию!» Повелительное наклонение на «вы» — форма *vous* без местоимения."
+  - audio: audio/tts/a-11/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Est-ce que vous aimez chanter ?"]
+    explain: "«Вы любите петь?» После *est-ce que* — прямой порядок; связывание [вузэмэ]."
+  - audio: audio/tatoeba/472201.mp3
+    audio_source: {title: "Tatoeba #4779821", url: "https://tatoeba.org/fr/sentences/show/4779821", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Nous parlons français.", "Nous parlons le français."]
+    explain: "«Мы говорим по-французски». Форма *nous* — **-ons**, она слышна: [парлɔ̃]."
+  - audio: audio/tatoeba/474813.mp3
+    audio_source: {title: "Tatoeba #4862860", url: "https://tatoeba.org/fr/sentences/show/4862860", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Nous travaillons tous."]
+    explain: "«Мы все работаем». *nous travaill**ons***; *tous* после глагола, *-s* здесь произносится: [тус]."
+  - audio: audio/tatoeba/472147.mp3
+    audio_source: {title: "Tatoeba #3235629", url: "https://tatoeba.org/fr/sentences/show/3235629", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Ne parles-tu pas le français ?", "Ne parles-tu pas français ?"]
+    explain: "«Ты не говоришь по-французски?» Отрицательный вопрос с инверсией: *ne* + **parles-tu** + *pas*."
+  - audio: audio/tatoeba/473671.mp3
+    audio_source: {title: "Tatoeba #863545", url: "https://tatoeba.org/fr/sentences/show/863545", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Ne fumez pas."]
+    explain: "«Не курите». Запрет: *ne* + повелительное наклонение + *pas*."

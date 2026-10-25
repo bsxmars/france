@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Относительное местоимение выбирай по глаголу: parler de → dont, travailler à → auquel."
+  - "Перед гласной — элизия: qu'à, t'ai, m'intéresse."
+items:
+  - audio: audio/tts/b-03/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["C'est la ville où je suis né.", "C'est la ville où je suis née."]
+    explain: "«Это город, где я родился». *où* — относительное для места."
+  - audio: audio/tts/b-03/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Voici le livre dont je t'ai parlé hier."]
+    explain: "«Вот книга, о которой я тебе вчера говорила». *parler de* → **dont**."
+  - audio: audio/tts/b-03/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Ce qui m'intéresse, c'est ce que tu en penses."]
+    explain: "«Меня интересует, что ты об этом думаешь». *ce qui* — подлежащее, *ce que* — дополнение; *en* = *de cela* (*penser de*)."
+  - audio: audio/tts/b-03/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["La vie y est moins chère qu'à Paris, mais beaucoup plus lente."]
+    explain: "«Жизнь там дешевле, чем в Париже, но гораздо медленнее». *y* = там; *beaucoup plus* — усиление сравнения."
+  - audio: audio/tts/b-03/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["C'est de loin la meilleure boulangerie du quartier."]
+    explain: "«Это, безусловно, лучшая булочная в квартале». *meilleur* — превосходная степень от *bon*; *de loin* — «намного»."
+  - audio: audio/tts/b-03/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Le projet auquel nous travaillons depuis un an est enfin terminé."]
+    explain: "«Проект, над которым мы работаем уже год, наконец закончен». *travailler à* → **auquel** (à + lequel)."
+  - audio: audio/tts/b-03/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Il travaille mieux le matin que le soir."]
+    explain: "«Он лучше работает утром, чем вечером». *mieux* — сравнительная степень наречия *bien*."
+  - audio: audio/tts/b-03/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Ce sont les voisins qui nous ont aidés à déménager."]
+    explain: "«Это соседи помогли нам переехать». Выделение *ce sont… qui*; *aidés* согласуется с *nous* (прямое дополнение перед avoir)."

@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Participe présent и gérondif неизменяемы; причастие в proposition participe согласуется со своим существительным."
+  - "Fait перед инфинитивом не согласуется: elle s'est fait couper…"
+items:
+  - audio: audio/tts/c-14/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["En sortant du cinéma, nous avons croisé nos anciens voisins."]
+    explain: "«Выходя из кинотеатра, мы встретили бывших соседей». Gérondif времени; подлежащее то же — *nous*."
+  - audio: audio/tts/c-14/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Ayant perdu ses clés, elle a dû attendre son mari devant la porte."]
+    explain: "«Потеряв ключи, она была вынуждена ждать мужа у двери». **Participe passé composé** (*ayant perdu*) — предшествование и причина."
+  - audio: audio/tts/c-14/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Le travail terminé, les ouvriers sont rentrés chez eux."]
+    explain: "«Когда работа была закончена, рабочие разошлись по домам». **Proposition participe**: у оборота своё подлежащее (*le travail*), причастие согласуется с ним."
+  - audio: audio/tts/c-14/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["J'ai entendu les enfants chanter dans la cour."]
+    explain: "«Я слышал, как дети поют во дворе». **Proposition infinitive** после *entendre*: *les enfants* — исполнители действия *chanter*."
+  - audio: audio/tts/c-14/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Il est parti sans dire au revoir à personne."]
+    explain: "«Он ушёл, ни с кем не попрощавшись». Отрицательное деепричастие → **sans + infinitif**; *personne* без *ne* после *sans*."
+  - audio: audio/tts/c-14/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Ce sont des discussions fatigantes, mais nécessaires.", "C'est des discussions fatigantes, mais nécessaires."]
+    explain: "«Это утомительные, но необходимые разговоры». **Adjectif verbal** *fatigant* (без *u*) согласуется: *fatigantes*. Participe présent — *fatiguant*."
+  - audio: audio/tts/c-14/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Elle s'est fait couper les cheveux très court.", "Elle s'est fait couper les cheveux très courts."]
+    explain: "«Она очень коротко подстриглась (в парикмахерской)». **Se faire** + infinitif; *fait* перед инфинитивом не согласуется. *Court* здесь наречие (неизм.), но вариант *courts* как прилагательное тоже встречается."
+  - audio: audio/tatoeba/538686.mp3
+    audio_source: {title: "Tatoeba #3210779", url: "https://tatoeba.org/fr/sentences/show/3210779", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je l'aurai fait faire avant 14 h 30.", "Je l'aurai fait faire avant 14h30.", "Je l'aurai fait faire avant quatorze heures trente."]
+    explain: "«Я распоряжусь, чтобы это сделали до половины третьего» (букв. «я уже заставлю это сделать»). Каузатив **faire faire** в futur antérieur; *fait* не согласуется с *l'*."

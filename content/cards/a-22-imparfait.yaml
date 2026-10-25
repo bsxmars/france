@@ -42,3 +42,23 @@
   lesson: a-22-imparfait/02-grammaire
   q: "Проспрягай *vouloir*. Как вежливо попросить с его помощью?"
   a: "*je veux, tu veux, il veut, nous voulons, vous voulez, ils **veulent***; *voulu*. ***Voulez-vous** fermer la porte ?*, *Attends-moi, **veux-tu** ?*"
+- id: a22-quand-j-etais
+  lesson: a-22-imparfait/07-lecture
+  q: "«В детстве мы каждое лето проводили у бабушки. Однажды она упала»."
+  a: "Quand nous étions petits, nous **passions** tous les étés chez notre grand-mère. Un jour, elle **est tombée**."
+- id: a22-comme-cause
+  lesson: a-22-imparfait/07-lecture
+  q: "«Так как часто шёл дождь, мы пекли блины»."
+  a: "**Comme** il pleuvait souvent, nous faisions des crêpes. — *comme* «так как» стоит в начале фразы."
+- id: a22-l-a-faite
+  lesson: a-22-imparfait/09-ecoute
+  q: "«Куклу? Мама сделала её сама»."
+  a: "La poupée ? Ma mère **l'a faite** elle-même. — *l'* = *la poupée* впереди → *faite* [фэт]."
+- id: a22-autrefois
+  lesson: a-22-imparfait/09-ecoute
+  q: "«Раньше дети ходили в школу пешком»."
+  a: "**Autrefois**, les enfants **allaient** à l'école à pied."
+- id: a22-ecriture-souvenir
+  lesson: a-22-imparfait/08-ecriture
+  q: "«Когда мне было восемь, мы жили в деревне; по воскресеньям мы ездили к дедушке»."
+  a: "Quand j'**avais** huit ans, nous **habitions** à la campagne ; le dimanche, nous **allions** chez notre grand-père."

@@ -1,0 +1,39 @@
+title: "Annonce : l'exposition « Ciels de verre »"
+type: listening
+intro: "Анонс звучит один раз, как на экзамене. Прочитай вопросы заранее; в пропуски впиши число или слово из записи."
+hints:
+  - "Держи в голове даты, часы и цены."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c-01/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  La Maison du verre de Neuchâtel présente, jusqu'au trente et un mars, l'exposition « Ciels de verre ». Plus de soixante vitraux, dont certains datent du treizième siècle, y sont réunis pour la première fois, à côté d'émaux et de bijoux prêtés par des collectionneurs privés.
+
+  Les ciels de ces vitraux, bleus, rouges ou dorés, racontent comment les artisans du Moyen Âge se représentaient l'univers. Pour les familles, des ateliers sont proposés chaque mercredi après-midi : les enfants y fabriquent leurs propres petits vitraux en papier.
+
+  Attention : en raison de travaux, l'entrée se fait provisoirement par la rue des Moulins. Le musée est ouvert du mardi au dimanche, de dix heures à dix-huit heures, et jusqu'à vingt heures le jeudi. Le billet coûte douze francs ; l'entrée est gratuite pour les moins de seize ans.
+items:
+  - q: "L'exposition dure jusqu'au ___ mars."
+    answers: ["trente et un", "31", "trente-et-un"]
+    explain: "*jusqu'au **trente et un** mars*."
+  - q: "On peut y voir plus de ___ vitraux."
+    answers: ["soixante", "60"]
+    explain: "*Plus de **soixante** vitraux* — мн. ч. *vitrail → vitraux* хорошо слышно."
+  - q: "Что выставлено рядом с витражами?"
+    options: ["эмали и украшения из частных коллекций", "картины Средневековья", "бумажные витражи детей"]
+    answer: 0
+    explain: "*à côté d'émaux et de bijoux prêtés par des collectionneurs privés* — *émail → émaux*, *bijou → bijoux*. Бумажные витражи делают на мастер-классах, их не выставляют."
+  - q: "Les ateliers pour les familles ont lieu chaque ___ après-midi."
+    answers: ["mercredi"]
+    explain: "*des ateliers sont proposés chaque **mercredi** après-midi*."
+  - q: "Почему вход временно перенесён?"
+    options: ["из-за ремонтных работ", "из-за большого числа посетителей", "из-за праздника"]
+    answer: 0
+    explain: "*en raison de travaux, l'entrée se fait provisoirement par la rue des Moulins* — *les travaux* (мн. ч.) = ремонт, стройка."
+  - q: "Le jeudi, le musée ferme à ___ heures."
+    answers: ["vingt", "20"]
+    explain: "*et jusqu'à **vingt** heures le jeudi*; в остальные дни — до 18."
+  - q: "Сколько стоит вход для пятнадцатилетнего?"
+    options: ["двенадцать франков", "бесплатно", "шесть франков"]
+    answer: 1
+    explain: "*l'entrée est gratuite pour les moins de seize ans* — 15 лет < 16, значит бесплатно. Цифра 12 — ловушка."

@@ -26,3 +26,27 @@
   lesson: a-10-vous-ou-article/02-grammaire
   q: "«В Париж» и «из Парижа», «на стадион» и «со стадиона»?"
   a: "*à Paris — de Paris*; *au stade — du stade*. *à* — куда, *de* — откуда."
+- id: a10-arriver-a-de
+  lesson: a-10-vous-ou-article/07-lecture
+  q: "«Вы приезжаете в Ниццу из Лиона»."
+  a: "*Vous arrivez **à** Nice **de** Lyon.* — *à* куда, *de* откуда."
+- id: a10-tous-les-matins
+  lesson: a-10-vous-ou-article/07-lecture
+  q: "«Рынок открыт каждое утро до полудня»."
+  a: "*Le marché est ouvert **tous les matins**, jusqu'à midi.*"
+- id: a10-premier-etage
+  lesson: a-10-vous-ou-article/07-lecture
+  q: "*le premier étage* — какой это этаж по-русски?"
+  a: "**Второй**: во Франции первый этаж — *le rez-de-chaussée*, счёт этажей с нуля."
+- id: a10-chemin
+  lesson: a-10-vous-ou-article/09-ecoute
+  q: "«Перейдите площадь, поверните налево и идите прямо»."
+  a: "*Vous **traversez** la place, vous **tournez à gauche** et vous **marchez tout droit**.*"
+- id: a10-d-ou
+  lesson: a-10-vous-ou-article/09-ecoute
+  q: "«Откуда вы?» — «Я из Квебека»."
+  a: "***D'où** êtes-vous ? — Je suis **de** Québec.*"
+- id: a10-bonne-journee
+  lesson: a-10-vous-ou-article/08-ecriture
+  q: "Как вежливо закончить письмо незнакомому человеку?"
+  a: "***Merci beaucoup ! Bonne journée,*** и имя."

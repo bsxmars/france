@@ -1,0 +1,52 @@
+title: "Le vide-grenier de la rue des Lilas"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросах с полем впиши число (цифрами или словами) или слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "quatre-vingts = 80, quatre-vingt-dix = 90, soixante-quinze = 75."
+text: |
+  **Chère Nina,**
+
+  Samedi, il y a un vide-grenier dans notre rue, la rue des Lilas. Chaque année, quatre-vingts familles du quartier vendent des livres, des vêtements, des jouets et des meubles. Les gens viennent de toute la ville : on attend sept cents ou huit cents visiteurs !
+
+  Moi aussi, je vends mes vieilles affaires : une table, deux chaises et mon vélo. Le vélo coûte quatre-vingt-dix euros, mais pour les voisins, je descends le prix à soixante-quinze euros. Ma sœur Inès vend ses disques : elle en a trois cents ! Elle attend les clients dès sept heures du matin.
+
+  Qu'est-ce qui intéresse les visiteurs ? Les vieux livres, bien sûr. Notre voisin, monsieur Garnier, est libraire. Il vend ses livres à deux euros, et il répond à toutes les questions des enfants. Qui organise la fête ? C'est l'association du quartier. Elle demande cent vingt euros à la mairie pour les tables et la musique.
+
+  Et toi, tu viens ? Le métro est à cinq minutes. Tu descends à la station Jaurès, tu tournes à gauche, rue Victor-Hugo, et tu vois une grande maison bleue, au numéro quatre-vingt-dix-sept. C'est chez nous !
+
+  Réponds vite, j'attends ta réponse.
+
+  **Bises,**
+  **Léa**
+items:
+  - q: "Сколько семей продают вещи на vide-grenier?"
+    options: ["60", "80", "90"]
+    answer: 1
+    explain: "*quatre-vingts familles* — 4 × 20 = 80. *-s* на *vingts*: после него ничего нет."
+  - q: "Сколько посетителей ждут?"
+    options: ["70–80", "100–120", "700–800"]
+    answer: 2
+    explain: "*on attend sept cents ou huit cents visiteurs* — *cents* с *-s*, потому что сотни умножены и после них ничего нет."
+  - q: "За сколько евро Леа продаёт велосипед соседям? Впиши число: ___ euros."
+    answers: ["soixante-quinze", "75", "soixante quinze"]
+    explain: "*pour les voisins, je descends le prix à **soixante-quinze** euros* — 90 — обычная цена, 75 — для соседей."
+  - q: "Что продаёт Инес?"
+    options: ["книги", "пластинки", "игрушки"]
+    answer: 1
+    explain: "*Ma sœur Inès vend ses disques : elle en a trois cents !* — *en* = «их» (пластинок)."
+  - q: "Что интересует посетителей, по словам Леа?"
+    options: ["старые книги", "велосипеды", "музыка"]
+    answer: 0
+    explain: "*Qu'est-ce qui intéresse les visiteurs ? Les vieux livres, bien sûr.* — *qu'est-ce qui* спрашивает о предмете-подлежащем."
+  - q: "Кто такой месье Гарнье?"
+    options: ["организатор праздника", "сосед-книготорговец", "работник мэрии"]
+    answer: 1
+    explain: "*Notre voisin, monsieur Garnier, est libraire.* Праздник организует ассоциация квартала."
+  - q: "Сколько денег ассоциация просит у мэрии?"
+    options: ["100 евро", "120 евро", "220 евро"]
+    answer: 1
+    explain: "*Elle demande **cent vingt** euros à la mairie* — *cent* без *un* и без *-s*: дальше идёт число."
+  - q: "Номер дома Леа: ___."
+    answers: ["quatre-vingt-dix-sept", "97", "quatre vingt dix sept", "quatre-vingt-dix sept"]
+    explain: "*au numéro **quatre-vingt-dix-sept*** — 80 + 17 = 97."

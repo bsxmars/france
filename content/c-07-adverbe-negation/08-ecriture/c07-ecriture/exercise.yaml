@@ -1,0 +1,32 @@
+title: "Essai : interdire les courriels après le travail ?"
+type: writing
+intro: "Напиши essai argumenté по плану урока."
+prompt: |
+  Un député propose d'interdire par la loi l'envoi de courriels professionnels entre vingt heures et sept heures du matin ainsi que le week-end. Pour les uns, c'est la seule manière de protéger la santé des salariés ; pour les autres, une telle règle est irréaliste.
+
+  Dans un essai argumenté destiné à la rubrique « Débats » d'un quotidien, vous donnez votre point de vue sur cette proposition en vous appuyant sur des arguments et des exemples précis.
+
+  Напиши **220–300 слов**.
+words: [220, 300]
+target_grammar:
+  - "наречия на -ment, -amment, -emment; сравнение: mieux, davantage, moins bien, plus… que"
+  - "отрицания: ne… jamais, aucun… ne, personne ne…, ne… plus; книжные nullement, ne… guère, ne cesser de"
+  - "ограничение: ne… que, ne faire que, il n'y a que… qui; ne explétif после avant que"
+checklist:
+  - "Во вступлении — контекст и problématique."
+  - "Уступка признаёт силу аргументов другой стороны, затем следует опровержение."
+  - "Каждый аргумент подкреплён конкретным примером."
+  - "Не меньше четырёх наречий на -ment, хотя бы одно на -amment / -emment, и одно сравнение наречия."
+  - "Хотя бы два книжных отрицания (nullement, ne… guère, ne cesser de, ne explétif)."
+  - "Хотя бы одно ограничение: ne… que, ne faire que или il n'y a que… qui."
+  - "Нет pas рядом с personne, rien, jamais, aucun; вывод отвечает на вопрос."
+model_answer: |
+  Depuis que le smartphone s'est installé dans nos poches, la frontière entre vie professionnelle et vie privée s'est considérablement brouillée. Nombre de salariés consultent leurs courriels le soir, le week-end, voire pendant leurs congés. D'où une proposition qui fait débat : interdire purement et simplement l'envoi de messages professionnels en dehors des heures de travail. Une telle interdiction est-elle vraiment la meilleure solution ?
+
+  Ses défenseurs font valoir, à juste titre, que l'hyperconnexion épuise. Un salarié qui ne cesse de surveiller sa messagerie ne se repose jamais complètement ; il récupère moins bien et finit par travailler moins efficacement. Les cas d'épuisement professionnel le montrent clairement : ce n'est guère la charge de travail seule qui use, c'est l'impossibilité de décrocher.
+
+  Pourtant, une interdiction générale n'est nullement adaptée à toutes les situations. Une entreprise qui travaille avec l'Asie ou l'Amérique ne peut pas fonctionner uniquement aux heures de bureau. Certains parents, par ailleurs, préfèrent quitter le bureau plus tôt et répondre à leurs messages le soir, une fois les enfants couchés : leur imposer un horaire rigide ne ferait que compliquer leur organisation.
+
+  Il me paraît donc plus judicieux de protéger le droit de ne pas répondre plutôt que d'interdire d'écrire. Concrètement, aucun salarié ne devrait être sanctionné pour un message resté sans réponse après dix-neuf heures, et les entreprises pourraient systématiquement différer l'envoi des courriels tardifs.
+
+  En définitive, la loi ne peut pas tout régler. Il n'y a que des pratiques collectives, discutées patiemment dans chaque entreprise, qui permettront de retrouver un équilibre durable, avant que l'épuisement ne devienne la norme.

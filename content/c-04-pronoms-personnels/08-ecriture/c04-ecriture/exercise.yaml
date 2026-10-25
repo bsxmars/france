@@ -1,0 +1,35 @@
+title: "Essai : faire soi-même, liberté ou illusion ?"
+type: writing
+intro: "Напиши essai argumenté по плану урока."
+prompt: |
+  Réparer son vélo, coudre ses vêtements, cultiver ses légumes : le « fait maison » séduit de plus en plus de monde. Le magazine *Modes de vie* lance un débat : « Faire soi-même, est-ce une nouvelle forme de liberté ou une illusion d'autonomie ? »
+
+  Rédigez un essai argumenté dans lequel vous donnez votre point de vue de façon nuancée, en vous appuyant sur des exemples précis.
+
+  Напиши **220–300 слов**.
+words: [220, 300]
+target_grammar:
+  - "soi, soi-même после обобщённого субъекта: faire soi-même, compter sur soi, la confiance en soi"
+  - "нейтральное le: je le crois, plus habile qu'il ne le pensait"
+  - "y и en вместо повторов: on y gagne, on en repart"
+  - "каузатив: faire réparer, le faire réparer"
+checklist:
+  - "Во вступлении — вопрос и тезис с оговоркой."
+  - "Довод «за» и ограничение — каждый с конкретным примером."
+  - "Есть переосмысление темы, а не только «за и против»."
+  - "Soi / soi-même употреблены после on, chacun или безличного оборота."
+  - "Хотя бы одно нейтральное le и по одному y и en вместо повторов."
+  - "Хотя бы один каузатив faire + инфинитив с правильным местом местоимения."
+  - "Вывод — короткая обобщающая формула."
+model_answer: |
+  Faire soi-même : liberté retrouvée ou illusion d'autonomie ?
+
+  Réparer son vélo, coudre ses vêtements, fabriquer ses produits ménagers : le « fait maison » séduit de plus en plus de monde. Faut-il y voir une nouvelle forme de liberté ? Je le crois, mais à une condition : ne pas en faire une obligation.
+
+  D'abord, faire soi-même, c'est reprendre la main sur sa vie quotidienne. Celui qui a appris à changer une roue ne dépend plus de personne pour s'en charger. On y gagne de l'argent, certes, mais surtout de la confiance en soi : chacun découvre qu'il est plus habile qu'il ne le pensait. Pour beaucoup, c'est aussi une manière de consommer et de jeter moins.
+
+  Pourtant, on ne peut pas tout faire soi-même, et il serait naïf de le prétendre. Le temps manque, les compétences aussi. Un ami qui s'y connaît pourtant en électricité a passé un week-end entier sur une vieille lampe ; il aurait pu la faire réparer en une heure. Surtout, l'autonomie totale est un mythe : même les plus habiles ont besoin des autres pour leur apprendre un geste, leur prêter un outil ou leur donner un conseil.
+
+  C'est là, me semble-t-il, que le « faire soi-même » trouve son vrai sens. Les ateliers de réparation qui se multiplient dans les quartiers ne promettent pas que chacun se débrouillera seul ; ils proposent qu'on apprenne ensemble. On y vient avec un grille-pain en panne, on en repart avec un objet réparé et, parfois, de nouveaux voisins.
+
+  En définitive, faire soi-même n'a de valeur que si l'on ne s'enferme pas en soi-même. L'autonomie n'est pas le contraire de l'entraide : elle en est souvent le fruit.

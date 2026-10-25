@@ -1,0 +1,47 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "j'étais, il était, ils étaient звучат одинаково — пиши окончание по лицу."
+  - "Местоимение-дополнение перед avoir → причастие согласуется: je les ai prises."
+items:
+  - audio: audio/tts/a-22/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Quand j'étais petit, j'habitais à la campagne.", "Quand j'étais petite, j'habitais à la campagne."]
+    explain: "«Когда я был маленьким, я жил в деревне». Описание прошлого — *imparfait*: *j'étais, j'habitais*."
+  - audio: audio/tts/a-22/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Il pleuvait, alors nous sommes restés à la maison.", "Il pleuvait, alors nous sommes restées à la maison."]
+    explain: "«Шёл дождь, поэтому мы остались дома». Фон — *imparfait* (*il pleuvait*), решение — *passé composé* (*nous sommes restés*)."
+  - audio: audio/tts/a-22/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Ces photos, je les ai prises à Rome."]
+    explain: "«Эти фото я сделал в Риме». *les* = *ces photos* (ж. р., мн. ч.) перед *avoir* → **prises**; слышно [приз]."
+  - audio: audio/tts/a-22/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Je ne suis pas venue parce que j'étais malade.", "Je ne suis pas venu parce que j'étais malade."]
+    explain: "«Я не пришла, потому что болела». Событие — *passé composé*, причина-состояние — *imparfait*."
+  - audio: audio/tts/a-22/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Comme il faisait beau, nous voulions aller à la plage."]
+    explain: "«Так как было солнечно, мы хотели пойти на пляж». *comme* в начале фразы — причина; *nous voulions* — *imparfait* от *vouloir*."
+  - audio: audio/tts/a-22/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Si on allait au cinéma ce soir ?"]
+    explain: "«Может, сходим в кино сегодня вечером?» *Si on* + *imparfait* — предложение, а не прошлое."
+  - audio: audio/tatoeba/473917.mp3
+    audio_source: {title: "Tatoeba #5065682", url: "https://tatoeba.org/fr/sentences/show/5065682", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je me sentais bien."]
+    explain: "«Я хорошо себя чувствовал». Состояние в прошлом — *imparfait*: *je me sentais*."
+  - audio: audio/tatoeba/472921.mp3
+    audio_source: {title: "Tatoeba #4681740", url: "https://tatoeba.org/fr/sentences/show/4681740", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["J'étais en retard."]
+    explain: "«Я опаздывал». *être en retard* — состояние, *imparfait*."
+  - audio: audio/tatoeba/473206.mp3
+    audio_source: {title: "Tatoeba #6599395", url: "https://tatoeba.org/fr/sentences/show/6599395", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Où étais-tu hier à 14 h 30 ?", "Où étais-tu hier à quatorze heures trente ?", "Où étais-tu hier à 14h30 ?", "Où étais-tu hier à 14 heures 30 ?"]
+    explain: "«Где ты был вчера в 14:30?» — где находился в тот момент: *imparfait*; вопрос инверсией."
+  - audio: audio/tatoeba/474803.mp3
+    audio_source: {title: "Tatoeba #4779859", url: "https://tatoeba.org/fr/sentences/show/4779859", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Nous le savons tous."]
+    explain: "«Мы все это знаем». *le* = «это»: *savoir* требует дополнения, по-русски его можно опустить."

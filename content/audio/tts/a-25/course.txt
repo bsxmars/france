@@ -1,0 +1,12 @@
+# rate: -5%
+# pause: 700
+F: Salut Julie ! Alors, ce dix kilomètres, dimanche ?
+E: Très bien ! J'ai couru plus vite que l'année dernière : cinquante-deux minutes, au lieu de cinquante-huit.
+F: Bravo ! Et ton frère ?
+E: Lui, il a couru moins vite que moi, pour une fois ! Il s'entraîne beaucoup moins souvent depuis son nouveau travail.
+F: Et qui a gagné ?
+E: Chez les femmes, une dame de soixante ans ! C'est elle qui a couru le plus vite : quarante et une minutes.
+F: Incroyable ! Moi, je cours beaucoup moins bien qu'elle, c'est sûr.
+E: Tu veux venir avec nous l'année prochaine ? On s'entraîne le mardi et le jeudi, au parc.
+F: Le mardi, je travaille tard. Mais le jeudi, oui, avec plaisir. Je vais courir le plus souvent possible !
+E: Parfait. Mais attention : le jeudi, on court sur la colline. C'est le jour le plus difficile !

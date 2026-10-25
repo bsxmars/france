@@ -1,0 +1,47 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "Местоимение того же лица, что подлежащее: je me, tu te, nous nous, vous vous."
+  - "nous commençons — ç перед o; il achète — è."
+items:
+  - audio: audio/tts/a-19/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Je me lève à sept heures tous les jours.", "Je me lève à 7 heures tous les jours.", "Je me lève à 7 h tous les jours."]
+    explain: "«Я встаю в семь часов каждый день». *je me lève* — *è* в ударном слоге."
+  - audio: audio/tts/a-19/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Ne te dépêche pas, nous avons le temps."]
+    explain: "«Не торопись, у нас есть время». В отрицательном повелительном местоимение **перед** глаголом: *ne te dépêche pas*."
+  - audio: audio/tts/a-19/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Nous commençons le cours à neuf heures.", "Nous commençons le cours à 9 heures.", "Nous commençons le cours à 9 h."]
+    explain: "«Мы начинаем урок в девять». *ç* перед *o*, чтобы сохранить звук [с]."
+  - audio: audio/tts/a-19/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Ils prennent le train de huit heures.", "Ils prennent le train de 8 heures.", "Ils prennent le train de 8 h."]
+    explain: "«Они едут восьмичасовым поездом». *ils prennent* — два *n*, во мн. ч. слышно [н]."
+  - audio: audio/tts/a-19/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Elle achète du pain tous les matins."]
+    explain: "«Она покупает хлеб каждое утро». *achète* — *è*: ударный слог."
+  - audio: audio/tts/a-19/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Vous devez vous reposer ce week-end.", "Vous devez vous reposer ce weekend."]
+    explain: "«Вам надо отдохнуть в эти выходные». Местоименный глагол в инфинитиве: местоимение того же лица — *vous… vous reposer*."
+  - audio: audio/tatoeba/472597.mp3
+    audio_source: {title: "Tatoeba #9390", url: "https://tatoeba.org/fr/sentences/show/9390", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Amuse-toi bien !"]
+    explain: "«Повеселись как следует!» Повелительное утвердительное: *toi* после глагола через дефис."
+  - audio: audio/tatoeba/472041.mp3
+    audio_source: {title: "Tatoeba #5452590", url: "https://tatoeba.org/fr/sentences/show/5452590", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je vais me marier en octobre."]
+    explain: "«В октябре я женюсь». *se marier* в инфинитиве после *aller*: *je vais **me** marier*."
+  - audio: audio/tatoeba/473059.mp3
+    audio_source: {title: "Tatoeba #6309481", url: "https://tatoeba.org/fr/sentences/show/6309481", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Commençons à 14 h 30.", "Commençons à quatorze heures trente.", "Commençons à 14h30.", "Commençons à 14 heures 30."]
+    explain: "«Начнём в 14:30». Повелительное от *nous*: *commençons* — с *ç*."
+  - audio: audio/tatoeba/473133.mp3
+    audio_source: {title: "Tatoeba #6463307", url: "https://tatoeba.org/fr/sentences/show/6463307", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je ne comprends pas le français.", "Je ne comprends pas français."]
+    explain: "«Я не понимаю по-французски». *comprendre* спрягается как *prendre*: *je comprends*."

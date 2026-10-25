@@ -1,0 +1,65 @@
+title: "« Einstein a dit que… » : les citations qui n'existent pas"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросе с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Различай голоса: автор, архивистка, читатели, биограф."
+  - "Вводящий глагол (prêter, prétendre, reconnaître) уже содержит оценку."
+text: |
+  ## « Einstein a dit que… » : enquête sur les citations qui n'existent pas
+
+  *Sur les réseaux sociaux, les grands hommes n'ont jamais autant parlé. Le problème, c'est que, la plupart du temps, ils n'ont rien dit.*
+
+  « La folie, c'est de faire toujours la même chose et de s'attendre à un résultat différent. » Cette phrase, vous l'avez sans doute lue cent fois, accompagnée d'une photo d'Albert Einstein. Or, aucun spécialiste n'a jamais réussi à la retrouver dans ses écrits, ses lettres ou ses conférences. Ce qu'on sait, en revanche, c'est qu'elle apparaît dans des brochures américaines des années 1980, soit trente ans après la mort du physicien.
+
+  Ce cas n'a rien d'exceptionnel. Victor Hugo, Gandhi, Churchill ou Marilyn Monroe se voient attribuer chaque jour des centaines de phrases qu'ils n'ont jamais prononcées. Une archiviste qui traque ces fausses citations depuis dix ans m'a expliqué qu'elle en recevait plusieurs par semaine, envoyées par des lecteurs qui voulaient savoir si elles étaient authentiques. « Les gens me demandent qui a vraiment écrit la phrase, d'où elle vient, pourquoi elle circule, raconte-t-elle. Et presque toujours, ma réponse les déçoit. »
+
+  Pourquoi ces fausses citations ont-elles autant de succès ? D'abord parce qu'une idée, pour être crue, a besoin d'un visage. Une phrase banale devient profonde dès qu'on la met dans la bouche d'un génie : c'est le nom d'Einstein qui donne du poids à la formule, pas la formule elle-même. Ensuite, parce que ces phrases disent exactement ce que nous voulons entendre. Ce qui nous plaît, c'est moins leur vérité que la caution qu'elles apportent à nos propres opinions.
+
+  Le phénomène n'est pas né avec Internet. Au XIXe siècle déjà, les journaux prêtaient volontiers à Voltaire des mots d'esprit qu'il n'avait jamais écrits. La célèbre formule « Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire », c'est une biographe anglaise qui l'a inventée en 1906, pour résumer, disait-elle, la pensée du philosophe. Elle n'avait jamais prétendu qu'il l'eût prononcée ; ce sont ses lecteurs qui ont transformé un résumé en citation.
+
+  Faut-il s'en inquiéter ? On pourrait juger l'affaire anodine. Après tout, qu'importe qui a dit qu'il fallait suivre ses rêves, si le conseil est bon ? Mais le mécanisme, lui, est inquiétant. Si l'on accepte sans vérifier qu'Einstein a dit telle chose, pourquoi vérifierait-on ce qu'un homme politique aurait déclaré la veille ? La fausse citation habitue le lecteur à croire sur parole, et c'est précisément cette habitude que les manipulateurs exploitent.
+
+  Que faire, alors ? Les spécialistes conseillent de se poser trois questions simples : où la phrase a-t-elle été publiée pour la première fois ? Dans quel livre, quelle lettre, quel discours ? Et à quelle date ? Si personne ne peut répondre, c'est que la citation est probablement fausse. Ces questions, nous ne les posons presque jamais, parce qu'une belle phrase nous donne l'impression d'avoir déjà compris.
+
+  L'archiviste, elle, a choisi d'en sourire. Quand je lui ai demandé quelle était sa fausse citation préférée, elle a hésité, puis m'a répondu que c'était sans doute celle qu'on prête à Abraham Lincoln : « Le problème avec les citations trouvées sur Internet, c'est qu'il est difficile de vérifier leur authenticité. » Une plaisanterie, bien sûr. Mais peut-être la seule citation de ce genre qui dise la vérité.
+items:
+  - q: "Что известно о фразе «La folie, c'est de faire toujours la même chose…» ?"
+    options: ["Эйнштейн сказал её на лекции в 1950-х.", "Её не нашли у Эйнштейна; она появляется в американских брошюрах 1980-х.", "Её автор — неизвестный немецкий физик."]
+    answer: 1
+    explain: "*aucun spécialiste n'a jamais réussi à la retrouver… **Ce qu'on sait, en revanche, c'est qu'**elle apparaît dans des brochures américaines des années 1980.*"
+  - q: "О чём читатели спрашивают архивистку?"
+    options: ["Подлинна ли цитата, кто её автор и откуда она.", "Где купить сборники цитат.", "Как стать архивистом."]
+    answer: 0
+    explain: "Косвенные вопросы: *voulaient savoir **si** elles étaient authentiques*; *me demandent **qui** a vraiment écrit la phrase, **d'où** elle vient, **pourquoi** elle circule*."
+  - q: "Какую первую причину успеха фальшивых цитат называет автор?"
+    options: ["Они красиво сформулированы.", "Банальной мысли придаёт вес имя знаменитости.", "Их распространяют специально."]
+    answer: 1
+    explain: "*une idée, pour être crue, a besoin d'un visage… **c'est le nom d'Einstein qui** donne du poids à la formule, pas la formule elle-même.*"
+  - q: "«Ce qui nous plaît, c'est moins leur vérité que la caution qu'elles apportent à nos propres opinions» значит:"
+    options: ["Нам нравятся цитаты, потому что они правдивы.", "Нам нравятся цитаты, которые подкрепляют авторитетом то, что мы и так думаем.", "Мы не доверяем цитатам, которые противоречат нашему мнению."]
+    answer: 1
+    explain: "*Moins… que* — «не столько…, сколько»; *la caution* — поручительство авторитета."
+  - q: "Vrai / faux / on ne sait pas: английская биограф утверждала, что Вольтер произнёс эту фразу."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*Elle n'avait jamais prétendu qu'il l'eût prononcée* — она подавала фразу как своё резюме его мысли. *Eût prononcée* — plus-que-parfait du subjonctif, книжное."
+  - q: "Кто превратил резюме в цитату?"
+    options: ["сам Вольтер", "читатели книги", "газеты XIX века"]
+    answer: 1
+    explain: "*ce sont ses lecteurs qui ont transformé un résumé en citation* — выделение *ce sont… qui*. Газеты XIX века приписывали Вольтеру **другие** остроты."
+  - q: "Что, по автору, тревожно в фальшивых цитатах?"
+    options: ["Они портят репутацию великих людей.", "Они приучают верить на слово, а этим пользуются манипуляторы.", "Они вытесняют настоящие книги."]
+    answer: 1
+    explain: "*La fausse citation habitue le lecteur à croire sur parole, et **c'est précisément cette habitude que** les manipulateurs exploitent.* Сами по себе советы автор называет почти безобидными."
+  - q: "Что советуют специалисты?"
+    options: ["Не читать соцсети.", "Спрашивать себя, где, в каком тексте и когда фраза была впервые опубликована.", "Цитировать только живых авторов."]
+    answer: 1
+    explain: "*où la phrase a-t-elle été publiée pour la première fois ? Dans quel livre…? Et à quelle date ?*"
+  - q: "В чём ирония концовки?"
+    options: ["Архивистка сама верит фальшивым цитатам.", "Шуточная фальшивая цитата о том, что цитаты из интернета трудно проверить, — пожалуй, единственная правдивая.", "Линкольн действительно писал об интернете."]
+    answer: 1
+    explain: "Цитата приписана Линкольну, который не мог знать интернета, — поэтому она очевидно фальшивая, но её смысл верен: *la seule citation de ce genre qui dise la vérité*."
+  - q: "Впиши слово из текста: Quand je lui ai demandé ___ était sa fausse citation préférée, elle a hésité."
+    answers: ["quelle"]
+    explain: "Косвенный вопрос с *quel*: прямой *Quelle est votre fausse citation préférée ?* → *je lui ai demandé **quelle était**…* — согласование времён: présent → imparfait."

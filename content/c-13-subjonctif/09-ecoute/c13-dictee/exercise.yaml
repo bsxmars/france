@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Ищи «включатель» subjonctif: il faut que, je ne crois pas que, bien que, de peur que, quoi que, le seul… qui."
+  - "У глаголов на -er subjonctif ед. ч. звучит как présent — пиши по правилу, а не на слух."
+items:
+  - audio: audio/tts/c-13/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Il faut que vous preniez une décision avant la fin de la semaine."]
+    explain: "«Вам нужно принять решение до конца недели». *Prendre* — две основы: *que je prenne*, но *que vous **preniez*** (одно *n*)."
+  - audio: audio/tts/c-13/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Je ne crois pas qu'elle ait reçu ma lettre."]
+    explain: "«Не думаю, что она получила моё письмо». Мнение в отрицании → subjonctif; действие раньше → **passé du subjonctif** *ait reçu*."
+  - audio: audio/tts/c-13/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["C'est le seul film qui m'ait vraiment fait rire cette année."]
+    explain: "«Это единственный фильм, который меня по-настоящему рассмешил в этом году». После **le seul… qui** — subjonctif; *fait* перед инфинитивом не согласуется."
+  - audio: audio/tts/c-13/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Bien qu'il fasse froid, les enfants veulent jouer dehors."]
+    explain: "«Хотя холодно, дети хотят играть на улице». **Bien que** + subjonctif *fasse*."
+  - audio: audio/tts/c-13/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Parle moins fort, de peur qu'on ne nous entende.", "Parle moins fort, de peur qu'on nous entende."]
+    explain: "«Говори тише, а то нас услышат». **De peur que** + subjonctif; *ne* — explétif (soutenu), смысл утвердительный: боимся, что **услышат**."
+  - audio: audio/tts/c-13/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Quoi que tu fasses, fais-le avec soin."]
+    explain: "«Неважно, что ты делаешь, — делай это тщательно». **Quoi que** (раздельно) = «что бы ни» + subjonctif; не путать с *quoique* = «хотя»."
+  - audio: audio/tts/c-13/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Je cherche quelqu'un qui sache réparer ce vieux piano."]
+    explain: "«Я ищу кого-нибудь, кто умел бы починить это старое пианино». Человек желаемый, не известный → subjonctif *sache* в относительном придаточном."
+  - audio: audio/tts/c-13/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Pourvu qu'il ne pleuve pas dimanche !"]
+    explain: "«Только бы в воскресенье не было дождя!» **Pourvu que** + subjonctif в независимом предложении — пожелание; *pleuve* от *pleuvoir*."

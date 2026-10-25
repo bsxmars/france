@@ -1,0 +1,18 @@
+# rate: -5%
+# pause: 700
+H: Te voilà enfin ! Tu as attendu longtemps ?
+A: Une heure ! La secrétaire m'avait prévenue que le docteur serait en retard, alors j'ai lu tranquillement un magazine.
+H: Alors, qu'est-ce que le médecin t'a dit pour ton genou ?
+A: Il m'a dit que ce n'était pas grave. Il pensait que j'étais mal tombée au ski, et que mon genou était seulement fatigué.
+H: Ouf ! Et le sport ?
+A: Il m'a expliqué que je ne pourrais pas courir pendant trois semaines, mais que je pourrais nager tranquillement. Il m'a aussi donné le nom d'une kinésithérapeute. Il a dit qu'elle m'appellerait demain matin.
+H: Une kiné ? C'est cher, non ?
+A: Il m'a assuré que la Sécurité sociale rembourserait presque tout.
+H: Et pour le travail ?
+A: Je lui ai demandé si je pouvais travailler. Il a répondu que oui, mais qu'il fallait marcher lentement et prendre l'ascenseur.
+H: L'ascenseur ? Toi ? Tu montes toujours à pied au sixième étage !
+A: Je sais… Ah, et il a ajouté une chose importante : il a dit que tu porterais les courses pendant trois semaines !
+H: Il a vraiment dit ça ?
+A: Bon… pas exactement. Il a dit que je ne porterais rien de lourd. Mais c'est la même chose, non ?
+H: Ha ha ! D'accord, je porterai les courses. Mais alors, c'est toi qui feras la cuisine !
+A: Avec plaisir. Je cuisinerai assise, tranquillement !

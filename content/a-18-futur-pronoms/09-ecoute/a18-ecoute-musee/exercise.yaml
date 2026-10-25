@@ -1,0 +1,48 @@
+title: "Annonce au musée"
+type: listening
+intro: "Объявление в швейцарском музее перед закрытием. Послушай его и ответь на вопросы."
+hints:
+  - "Держи в голове этажи и время."
+  - "le rez-de-chaussée — первый этаж, le premier étage — второй."
+audio: audio/tts/a-18/musee.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  Mesdames et messieurs, bonjour. Le musée va fermer dans trente minutes, à dix-huit heures.
+
+  Les salles du troisième étage viennent de fermer. Au deuxième étage, l'exposition « La montagne en peinture » reste ouverte jusqu'à dix-huit heures.
+
+  Vous venez d'acheter un billet pour l'atelier photo ? L'atelier commence dans dix minutes, au premier étage, dans la cinquième salle. Le guide va vous attendre devant la porte.
+
+  La boutique du musée, au rez-de-chaussée, va fermer à dix-sept heures quarante-cinq. Vous cherchez un cadeau ? Nous vendons des livres, des affiches et des boîtes de chocolats suisses.
+
+  Vous ne savez pas où est la sortie ? Elle est au rez-de-chaussée, à gauche de la boutique.
+
+  Pour les familles : le samedi, il y a une visite pour les enfants à quatorze heures. Ils finissent la visite avec un atelier de dessin, et les parents les attendent au café du musée.
+
+  Attention : demain, lundi, le musée est fermé. Notre prochaine exposition, « Les lacs suisses », va ouvrir le premier juillet.
+
+  Merci de votre visite et à bientôt !
+items:
+  - q: "Когда закрывается музей?"
+    options: ["через 10 минут", "через 30 минут, в 18:00", "в 17:45"]
+    answer: 1
+    explain: "*Le musée va fermer dans trente minutes, à dix-huit heures.* 17:45 — магазин, 10 минут — до начала мастерской."
+  - q: "Что только что закрылось?"
+    options: ["залы третьего этажа", "выставка на втором этаже", "магазин"]
+    answer: 0
+    explain: "*Les salles du troisième étage **viennent de** fermer* — passé immédiat. Выставка на втором этаже ещё открыта."
+  - q: "Фотомастерская — на первом этаже, в ___ зале (впиши порядковое число)."
+    answers: ["cinquième", "5e", "5ème", "5"]
+    explain: "*au premier étage, dans la **cinquième** salle* — *cinq* + *u* + *-ième*."
+  - q: "Где выход?"
+    options: ["на первом этаже, рядом с кафе", "на rez-de-chaussée, слева от магазина", "на втором этаже, у выставки"]
+    answer: 1
+    explain: "*Elle est au rez-de-chaussée, à gauche de la boutique.*"
+  - q: "Что делают родители, пока дети на субботней экскурсии?"
+    options: ["ждут их в кафе музея", "рисуют вместе с ними", "ходят по выставке"]
+    answer: 0
+    explain: "*les parents **les** attendent au café du musée* — *les* = детей."
+  - q: "Когда откроется новая выставка «Les lacs suisses»?"
+    options: ["завтра, в понедельник", "в субботу", "1 июля"]
+    answer: 2
+    explain: "*va ouvrir le **premier** juillet* — первое число месяца: *le premier*, остальные — количественные (*le deux juillet*). В понедельник музей закрыт."

@@ -1,0 +1,55 @@
+title: "Les petites villes, nouvelles capitales ?"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем впиши слово или выражение из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Мнение автора ищи после связок en revanche, pourtant, certes… mais."
+text: |
+  ## Les petites villes, nouvelles capitales ?
+
+  *Depuis quelques années, des milliers de citadins quittent les grandes métropoles. Exode durable ou simple mode ?*
+
+  À Mayenne, une ville de treize mille habitants dont on parlait peu il y a dix ans, les agences immobilières n'ont jamais été aussi occupées. « Nous vendons deux fois plus de maisons qu'avant 2020 », explique Claire Duval, qui dirige l'une d'entre elles. La plupart de ses clients viennent de Paris ou de Rennes, et presque tous ont un point commun : ils travaillent à distance au moins trois jours par semaine.
+
+  Ce qui attire ces nouveaux habitants, ce n'est pas seulement le prix des logements, même s'il est trois fois moins élevé que dans la capitale. C'est surtout le temps qu'ils y gagnent. « À Paris, je passais deux heures par jour dans les transports, raconte Karim, ingénieur installé ici avec sa famille. Aujourd'hui, l'école de mes enfants est à cinq minutes à pied. » Le jardin, la tranquillité, les commerces de proximité où l'on connaît son boulanger : autant d'arguments dont les néo-ruraux ne se lassent pas de parler.
+
+  Pourtant, le tableau n'est pas aussi idyllique qu'on le croit. Pour les habitants de longue date, l'arrivée de ces familles a un revers de la médaille. Les loyers augmentent plus vite que les salaires locaux, et certains jeunes du coin ont désormais plus de mal à se loger que leurs parents. « Ce sont les gens d'ici qui paient la note », regrette un élu municipal.
+
+  Les services publics, eux, suivent difficilement. La fibre arrive dans les villages, certes, mais les médecins y restent rares. Le problème auquel les maires pensent le plus, c'est la santé : à Mayenne, il faut attendre en moyenne trois mois pour consulter un ophtalmologue, contre un mois à Rennes.
+
+  Alors, mode passagère ou véritable tournant ? Les chiffres invitent à la prudence. Les départs restent moins nombreux que ne le laissaient croire les médias en 2021, et une partie des nouveaux arrivants repart au bout de deux ou trois ans. En revanche, ceux qui restent transforment profondément la vie locale : associations, marchés, cafés-librairies… Si les petites villes ne sont pas devenues les nouvelles capitales, c'est peut-être parce qu'elles n'en ont jamais eu l'ambition. Ce qu'elles proposent, c'est autre chose : une autre façon de vivre le temps.
+items:
+  - q: "Что изменилось для агентств недвижимости в Майенне?"
+    options: ["Они продают вдвое больше домов, чем до 2020 года.", "Они закрылись из-за отъезда жителей.", "Они продают дома в основном местным жителям."]
+    answer: 0
+    explain: "*Nous vendons **deux fois plus** de maisons **qu'avant** 2020* — сравнение количества."
+  - q: "Что, по статье, главное для новых жителей?"
+    options: ["низкие цены на жильё", "время, которое они выигрывают", "работа в местных компаниях"]
+    answer: 1
+    explain: "*Ce qui attire…, ce n'est pas seulement le prix… **C'est surtout le temps** qu'ils y gagnent.* — выделение указывает на главное."
+  - q: "Vrai / faux / on ne sait pas: жильё в Майенне втрое дешевле, чем в Париже."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 0
+    explain: "*même s'il est **trois fois moins élevé** que dans la capitale* — верно."
+  - q: "Какую проблему приезд горожан создаёт для местных?"
+    options: ["Закрываются магазины у дома.", "Местной молодёжи труднее найти жильё.", "В школах не хватает мест."]
+    answer: 1
+    explain: "*certains jeunes du coin ont désormais **plus de mal à se loger que** leurs parents.*"
+  - q: "О чём больше всего думают мэры?"
+    options: ["об интернете", "о здравоохранении", "о транспорте"]
+    answer: 1
+    explain: "*Le problème **auquel** les maires pensent le plus, c'est la santé* — *penser à* → *auquel*."
+  - q: "Vrai / faux / on ne sait pas: все новые жители остаются навсегда."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*une partie des nouveaux arrivants repart au bout de deux ou trois ans* — неверно."
+  - q: "Какова позиция автора в конце статьи?"
+    options: ["Маленькие города скоро заменят столицы.", "Маленькие города предлагают иной образ жизни, а не конкуренцию столицам.", "Переезд в маленькие города — ошибка."]
+    answer: 1
+    explain: "*Si les petites villes ne sont pas devenues les nouvelles capitales, c'est peut-être parce qu'elles n'en ont jamais eu l'ambition. Ce qu'elles proposent, c'est autre chose.*"
+  - q: "Найди в тексте выражение «обратная сторона медали»: un ___ de la médaille."
+    answers: ["revers"]
+    explain: "**le revers de la médaille** — обратная сторона медали."
+  - q: "Впиши относительное местоимение из текста: une ville de treize mille habitants ___ on parlait peu."
+    answers: ["dont"]
+    explain: "*parler **de** quelque chose* → **dont**."

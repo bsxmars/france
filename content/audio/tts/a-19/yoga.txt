@@ -1,0 +1,9 @@
+# rate: -5%
+# pause: 900
+G: Bonjour à toutes et à tous, et bienvenue au cours de yoga du matin. Nous commençons dans une minute.
+G: Pour les nouveaux : ne vous inquiétez pas, le cours est facile. Vous n'avez pas de tapis ? Il y a des tapis à côté de la porte, prenez-en un.
+G: Bien. Installez-vous sur le tapis et asseyez-vous. Fermez les yeux. Respirez lentement : on inspire… et on expire.
+G: Maintenant, levez-vous doucement. Ne vous dépêchez pas. Levez les bras… et baissez les bras. Nous répétons cinq fois.
+G: Très bien. Tournez-vous à gauche… et à droite. Vous avez mal au dos ? Arrêtez-vous et reposez-vous un peu.
+G: Pour finir, allongez-vous sur le tapis. Ne parlez pas, s'il vous plaît ! On se détend pendant trois minutes.
+G: Merci à tous. Le prochain cours commence jeudi à sept heures. Et demain, n'oubliez pas : levez-vous lentement, et prenez le temps de respirer !

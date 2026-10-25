@@ -1,0 +1,67 @@
+title: "La salle de bains, le matin"
+type: listening
+intro: "Послушай разговор соседей по квартире (дважды) и ответь на вопросы."
+hints:
+  - "Запиши время каждого: кто во сколько встаёт."
+  - "Договорённость — в конце разговора."
+audio: audio/tts/a-19/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural, fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  **Julie :** Thomas, on doit parler de la salle de bains. Le matin, c'est impossible !
+
+  **Thomas :** Bonjour, Julie… Oui, je sais. Qui se lève le premier, chez nous ?
+
+  **Julie :** C'est moi. Je me lève à six heures et quart : je commence à sept heures et demie à l'hôpital.
+
+  **Thomas :** Et Karim ?
+
+  **Julie :** Karim se lève à sept heures, mais il reste une demi-heure sous la douche ! Et toi, tu te lèves à quelle heure ?
+
+  **Thomas :** Moi, à sept heures et quart. Je me rase, je me douche… et je me dépêche : je prends le train de huit heures.
+
+  **Julie :** Voilà le problème : à sept heures et quart, Karim est encore dans la salle de bains, et toi, tu attends devant la porte.
+
+  **Thomas :** C'est vrai. Alors, qu'est-ce qu'on fait ?
+
+  **Julie :** J'ai une idée. Moi, je me douche le soir. Karim se douche de sept heures à sept heures et quart, pas plus. Et toi, tu as la salle de bains de sept heures et quart à sept heures et demie.
+
+  **Thomas :** D'accord. Mais Karim ne va pas être content…
+
+  **Julie :** Karim ne se dépêche pas, le matin ! On va lui parler ce soir, tous les deux.
+
+  **Thomas :** Bonne idée. Et le petit déjeuner ? On mange ensemble ?
+
+  **Julie :** Non, je n'ai pas le temps. Je prends un café à l'hôpital. Mais le dimanche, on mange ensemble : je me repose, je me lève tard…
+
+  **Thomas :** Super ! Le dimanche, je vais acheter des croissants. Et toi, tu appelles Karim ?
+
+  **Julie :** Je l'appelle tout de suite… Ah non, il est encore au lit. Comme toujours !
+items:
+  - q: "В чём проблема?"
+    options: ["По утрам все одновременно хотят в ванную.", "В квартире нет душа.", "Соседи не завтракают вместе по воскресеньям."]
+    answer: 0
+    explain: "*Le matin, c'est impossible !… à sept heures et quart, Karim est encore dans la salle de bains, et toi, tu attends devant la porte.*"
+  - q: "Кто встаёт первым?"
+    options: ["Тома", "Жюли", "Карим"]
+    answer: 1
+    explain: "*Qui se lève le premier ? — C'est moi.* Жюли встаёт в 6:15: она начинает работу в больнице в 7:30."
+  - q: "Сколько времени Карим проводит в душе?"
+    options: ["четверть часа", "полчаса", "час"]
+    answer: 1
+    explain: "*il reste une demi-heure sous la douche !*"
+  - q: "Почему Тома торопится?"
+    options: ["Он ездит на поезде в восемь.", "Он начинает работу в 7:30.", "Он готовит завтрак."]
+    answer: 0
+    explain: "*je me dépêche : je **prends** le train de huit heures.*"
+  - q: "Что предлагает Жюли?"
+    options: ["Вставать всем в шесть.", "Самой принимать душ вечером и дать каждому из ребят по 15 минут утром.", "Купить вторую ванную."]
+    answer: 1
+    explain: "*Moi, je me douche le soir. Karim se douche de sept heures à sept heures et quart… Et toi, tu as la salle de bains de sept heures et quart à sept heures et demie.*"
+  - q: "Когда соседи будут завтракать вместе?"
+    options: ["каждый день", "в воскресенье", "никогда"]
+    answer: 1
+    explain: "*le dimanche, on mange ensemble : je me repose, je me lève tard…* — по будням Жюли пьёт кофе в больнице."
+  - q: "Что делает Карим в конце разговора?"
+    options: ["принимает душ", "ещё лежит в постели", "покупает круассаны"]
+    answer: 1
+    explain: "*il est encore au lit. Comme toujours !* Круассаны в воскресенье купит Тома."

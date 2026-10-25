@@ -1,0 +1,44 @@
+title: "Bienvenue à Nice"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "arriver à — куда, arriver de — откуда."
+text: |
+  **Bonjour Madame Morel,**
+
+  Merci pour le message. Vous arrivez à Nice samedi ? Très bien ! Vous dites que vous arrivez de Lyon en train, à trois heures. Ma fille Camille est à la gare avec la voiture.
+
+  L'appartement est au centre de Nice, près de la mer. Toutes les chambres sont claires et tout l'appartement est calme.
+
+  Où sont les clés ? Elles sont chez Mme Blanc, la voisine du premier étage.
+
+  Vous faites les courses ? Le marché est ouvert tous les matins, jusqu'à midi. La boulangerie est à côté.
+
+  Vous aimez la musique ? Tous les vendredis, les musiciens de la ville jouent dans le parc.
+
+  **Bonnes vacances !**
+  **Jean Roux**
+items:
+  - q: "Откуда приезжает мадам Морель?"
+    options: ["из Ниццы", "из Лиона", "из Парижа"]
+    answer: 1
+    explain: "*Vous arrivez **de** Lyon en train* — *de* = «из». В Ниццу — *arriver à Nice*."
+  - q: "Кто встретит её на вокзале?"
+    options: ["Жан Ру", "мадам Блан, соседка", "Камиль, дочь хозяина"]
+    answer: 2
+    explain: "*Ma fille Camille est à la gare avec la voiture.* Мадам Блан хранит ключи."
+  - q: "Где ключи?"
+    options: ["у соседки, мадам Блан", "у Камиль, в машине", "в квартире, на втором этаже"]
+    answer: 0
+    explain: "*Où sont les clés ? Elles sont chez Mme Blanc, la voisine du premier étage.* Ответ идёт сразу после вопроса с *où*."
+  - q: "Когда работает рынок?"
+    options: ["каждую пятницу", "каждое утро до полудня", "весь день"]
+    answer: 1
+    explain: "*Le marché est ouvert **tous les** matins, jusqu'à midi.* По пятницам играют музыканты."
+  - q: "Впиши из текста: «Все комнаты светлые» — ___ les chambres sont claires."
+    answers: ["Toutes"]
+    explain: "**Toutes** — *chambre* женского рода, множественное число."
+  - q: "Впиши из текста: «вся квартира» — ___ l'appartement."
+    answers: ["tout"]
+    explain: "**tout** — *appartement* мужского рода, единственное число: «вся квартира целиком»."

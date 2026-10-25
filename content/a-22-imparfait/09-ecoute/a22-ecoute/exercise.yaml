@@ -1,0 +1,68 @@
+title: "Mamie raconte"
+type: listening
+intro: "Послушай, как внучка расспрашивает бабушку (дважды), и ответь на вопросы."
+hints:
+  - "Imparfait — как было обычно; passé composé — одно событие."
+  - "Ответ на «почему?» — после comme, car, parce que."
+audio: audio/tts/a-22/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural, fr-CA-SylvieNeural", license: "TTS"}
+transcript: |
+  **Chloé :** Mamie, pour l'école, je dois faire un exposé sur la vie d'autrefois. Je peux te poser des questions ?
+
+  **Mamie :** Bien sûr, ma chérie. Qu'est-ce que tu veux savoir ?
+
+  **Chloé :** Quand tu étais petite, où est-ce que tu habitais ?
+
+  **Mamie :** Dans un petit village près de Québec. Mes parents avaient une ferme. Nous étions sept enfants !
+
+  **Chloé :** Sept ! Et tu allais à l'école à pied ?
+
+  **Mamie :** Oui, l'école était à trois kilomètres. L'hiver, comme il y avait beaucoup de neige, mon père nous emmenait en traîneau.
+
+  **Chloé :** Trop bien ! Et à l'école, qu'est-ce que vous faisiez ?
+
+  **Mamie :** Nous apprenions à lire, à écrire, à compter… Il y avait une seule classe pour tous les élèves, des petits aux grands. La maîtresse était très sévère : nous ne pouvions pas parler en classe.
+
+  **Chloé :** Et après l'école ?
+
+  **Mamie :** Nous aidions nos parents à la ferme, car il y avait toujours du travail. Je voulais jouer, bien sûr, mais je ne pouvais pas souvent.
+
+  **Chloé :** Tu avais des jouets ?
+
+  **Mamie :** Pas beaucoup. J'avais une poupée. Ma mère l'a faite elle-même, avec du vieux tissu. Je l'ai gardée, elle est dans ma chambre.
+
+  **Chloé :** C'est vrai ? Je ne le savais pas ! Pourquoi est-ce que je ne l'ai pas vue ?
+
+  **Mamie :** Parce que tu n'as pas posé la question ! Tiens, et j'ai aussi des lettres. À quatorze ans, je suis partie travailler à Montréal, et j'écrivais à ma mère toutes les semaines. Les lettres que j'ai écrites, elle les a toutes gardées.
+
+  **Chloé :** Je peux les lire ?
+
+  **Mamie :** Si tu veux. Si on allait les chercher tout de suite ? Elles sont dans une boîte, au grenier.
+items:
+  - q: "Зачем Хлоя расспрашивает бабушку?"
+    options: ["Она готовит школьный доклад о жизни в старину.", "Она пишет письмо прабабушке.", "Она хочет поехать в Квебек."]
+    answer: 0
+    explain: "*pour l'école, je dois faire un exposé sur la vie d'autrefois.*"
+  - q: "Сколько детей было в семье бабушки? ___"
+    answers: ["sept", "7"]
+    explain: "*Mes parents avaient une ferme. Nous étions sept enfants !*"
+  - q: "Как бабушка добиралась до школы зимой?"
+    options: ["пешком, три километра", "отец возил детей на санях", "на автобусе"]
+    answer: 1
+    explain: "*L'hiver, **comme** il y avait beaucoup de neige, mon père nous **emmenait** en traîneau.* Пешком — в остальное время."
+  - q: "Что было запрещено в классе?"
+    options: ["играть во дворе", "разговаривать", "писать пером"]
+    answer: 1
+    explain: "*La maîtresse était très sévère : nous **ne pouvions pas** parler en classe.*"
+  - q: "Почему после школы бабушка мало играла?"
+    options: ["Она помогала родителям на ферме.", "Она делала уроки.", "У неё не было игрушек."]
+    answer: 0
+    explain: "*Nous aidions nos parents à la ferme, **car** il y avait toujours du travail.*"
+  - q: "Кто сделал бабушкину куклу?"
+    options: ["её отец", "её мать", "она сама"]
+    answer: 1
+    explain: "*Ma mère **l'a faite** elle-même* — *l'* = *la poupée*, причастие *faite* согласовано и слышно [фэт]."
+  - q: "Что сделала мать бабушки с её письмами из Монреаля?"
+    options: ["Она их все сохранила.", "Она их сожгла.", "Она на них не отвечала."]
+    answer: 0
+    explain: "*Les lettres que j'ai **écrites**, elle **les a toutes gardées**.*"

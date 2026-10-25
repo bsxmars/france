@@ -1,0 +1,2 @@
+# rate: -15%
+B: Cette chambre est grande.

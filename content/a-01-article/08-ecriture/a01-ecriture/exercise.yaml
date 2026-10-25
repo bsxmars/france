@@ -1,0 +1,26 @@
+title: "Message : voici la photo"
+type: writing
+intro: "Напиши другу сообщение к фотографии по плану урока."
+prompt: |
+  Tu envoies une photo à ton ami(e) : une place, une gare ou un café. Qu'est-ce qu'il y a sur la photo ? C'est grand, petit ? Qui est là ?
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "артикль le, la, l' перед существительным; без артикля — перед именами"
+  - "прямой порядок слов: подлежащее → глагол"
+  - "связка est: Le café est petit."
+checklist:
+  - "Есть приветствие и прощание с именем."
+  - "Перед каждым существительным стоит артикль: la place, le café, l'école."
+  - "Перед именами людей артикля нет: Paul aime…"
+  - "В каждой фразе есть глагол: est, aime, cherche, va…"
+  - "Порядок прямой: сначала кто или что, потом глагол."
+  - "Прилагательное согласовано: le café est petit, la gare est grande."
+model_answer: |
+  Bonjour Anna !
+
+  Voici la photo de la place. La place est grande. Voici le café. Le café est petit. Sur la terrasse, voici Paul. Paul aime le thé. Léa cherche la voiture. La voiture est à la gare.
+
+  Bisous,
+  Marie

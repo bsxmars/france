@@ -1,0 +1,42 @@
+title: "Flash info : des bus gratuits ?"
+type: listening
+intro: "Сводка новостей звучит один раз, как на экзамене. Прочитай вопросы заранее и впиши в пропуски цифры или слова из записи."
+hints:
+  - "Aurait décidé, coûterait — информация не подтверждена."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/b-06/flash.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  Flash info régional. Dans la commune de Saint-Aubin, la municipalité aurait décidé de rendre les bus gratuits pour les moins de vingt-cinq ans dès le mois de janvier. Selon le journal local, la mesure coûterait environ douze millions de francs par an.
+
+  Aucune décision officielle n'a pourtant été annoncée : le conseil communal doit se prononcer le quinze décembre.
+
+  Plusieurs associations d'étudiants saluent déjà le projet, à condition qu'il soit étendu aux apprentis. En revanche, certains commerçants du centre-ville craignent une hausse des impôts locaux.
+
+  Enfin, en cas de neige ce week-end, les bus de montagne seront remplacés par des navettes. Les horaires seront publiés sur le site de la commune.
+items:
+  - q: "Решение о бесплатных автобусах уже официально принято?"
+    options: ["Да, с января.", "Нет, это неподтверждённая информация, совет ещё будет голосовать.", "Нет, совет его отклонил."]
+    answer: 1
+    explain: "*la municipalité **aurait décidé*** — conditionnel прессы; *Aucune décision officielle n'a pourtant été annoncée.*"
+  - q: "Les bus seraient gratuits pour les moins de ___ ans."
+    answers: ["vingt-cinq", "25", "vingt cinq"]
+    explain: "*pour les moins de **vingt-cinq** ans.*"
+  - q: "La mesure coûterait environ ___ millions de francs par an."
+    answers: ["douze", "12"]
+    explain: "*coûterait environ **douze millions** de francs* — снова conditionnel: цифра из газеты."
+  - q: "Le conseil communal doit se prononcer le ___ décembre."
+    answers: ["quinze", "15"]
+    explain: "*doit se prononcer le **quinze** décembre.*"
+  - q: "При каком условии студенческие объединения поддерживают проект?"
+    options: ["Если его распространят на учащихся профессиональных училищ.", "Если он начнёт действовать с сентября.", "Если налоги не вырастут."]
+    answer: 0
+    explain: "*à condition qu'il **soit étendu** aux apprentis* — subjonctif пассива после *à condition que*. Налогов боятся торговцы."
+  - q: "Чего опасаются некоторые торговцы?"
+    options: ["нехватки автобусов", "роста местных налогов", "снегопада"]
+    answer: 1
+    explain: "*certains commerçants… craignent une hausse des impôts locaux.*"
+  - q: "Что будет, если в выходные пойдёт снег?"
+    options: ["Горные автобусы заменят челночными.", "Автобусы будут бесплатными.", "Все линии закроют."]
+    answer: 0
+    explain: "*en cas de neige ce week-end, les bus de montagne seront remplacés par des navettes.*"

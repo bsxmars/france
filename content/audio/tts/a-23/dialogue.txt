@@ -1,0 +1,21 @@
+# rate: -5%
+# pause: 700
+A: Marc, c'est Sophie. Alors, ce week-end dans les Alpes, c'est toujours d'accord ?
+H: Bien sûr ! Nous partirons samedi à sept heures. Je viendrai te chercher en voiture.
+A: Sept heures ? C'est tôt ! Tu ne veux pas partir à neuf heures ?
+H: Non, ce sera trop tard. La route est longue, et samedi après-midi, il y aura beaucoup de monde au col.
+A: D'accord. Et qu'est-ce qu'on fera là-bas ?
+H: Samedi, nous monterons jusqu'au lac Bleu. C'est une belle marche : quatre heures. Le soir, nous dormirons au refuge. Tout est réservé.
+A: Et s'il pleut ?
+H: S'il pleut, nous visiterons le musée de la montagne à Chamonix, et nous mangerons une fondue. Mais la météo dit qu'il fera beau.
+A: Super. Et dimanche ?
+H: Dimanche, si tu n'es pas trop fatiguée, nous irons jusqu'au glacier. Tu verras, c'est magnifique.
+A: Je ne serai pas fatiguée ! Qu'est-ce que je dois prendre ?
+H: De bonnes chaussures, un pull chaud et un imperméable. Mon frère m'a dit de prendre aussi de la crème solaire : en montagne, le soleil est très fort.
+A: Et à manger ?
+H: Tu ne prends pas de sandwichs : je ferai tout ! Des sandwichs, des fruits, du chocolat.
+A: Tu n'as pas oublié Julien ? Il viendra avec nous ?
+H: Si, si, je ne l'ai pas oublié ! Mais il ne pourra pas venir samedi, il travaille. Il nous retrouvera au refuge le soir.
+A: Parfait. Ah, encore une question : on pourra faire un feu près du lac ?
+H: Non, c'est interdit. Le gardien du refuge dit à tout le monde de ne pas faire de feu dans le parc.
+A: D'accord. Alors à samedi, sept heures !

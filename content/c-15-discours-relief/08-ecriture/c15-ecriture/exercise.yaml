@@ -1,0 +1,40 @@
+title: "Synthèse : peut-on se fier aux avis en ligne ?"
+type: writing
+intro: "Прочитай два документа и напиши синтез по правилам урока: без своего мнения, без копирования фраз, с планом по идеям."
+prompt: |
+  Vous ferez une synthèse des deux documents ci-dessous, en un texte suivi et cohérent, avec un titre. Vous ne devez pas introduire d'idées ou d'opinions personnelles.
+
+  **Document 1. « Avis en ligne : la confiance en question »** (extrait d'un magazine de consommateurs)
+
+  Neuf consommateurs sur dix consultent les avis avant de réserver un hôtel ou un restaurant. Pourtant, selon une association de consommateurs, près d'un avis sur trois serait faux ou payé. Certaines entreprises achètent des commentaires élogieux par centaines ; d'autres publient de fausses critiques sur leurs concurrents. L'association réclame que les plateformes vérifient que l'auteur d'un avis a réellement acheté le produit, et que les sanctions contre les fraudeurs soient enfin appliquées.
+
+  **Document 2. « Sans les avis, je n'aurais pas tenu »** (témoignage d'une restauratrice)
+
+  Quand Claire a ouvert son petit restaurant dans une rue peu passante, personne ne la connaissait. « Ce sont les premiers commentaires de mes clients qui m'ont sauvée », raconte-t-elle. Elle reconnaît cependant que certains avis négatifs l'ont blessée, surtout ceux qui étaient anonymes. Aujourd'hui, elle répond à chaque critique et se demande pourquoi les plateformes ne permettent pas aux commerçants de signaler plus facilement les faux avis.
+
+  Напиши синтез **220–300 слов**.
+words: [220, 300]
+target_grammar:
+  - "косвенная речь с вводящими глаголами: affirmer, souligner, reconnaître, dénoncer, réclamer que"
+  - "косвенный вопрос: se demander si / pourquoi / dans quelle mesure, порядок слов"
+  - "выделение: c'est… qui / que, ce que… c'est"
+checklist:
+  - "Есть заголовок, отражающий проблематику, а не просто тему."
+  - "Вступление ставит проблему в форме косвенного вопроса."
+  - "План — по идеям: в каждой части сопоставлены оба документа."
+  - "Хотя бы четыре разных вводящих глагола; dire не повторяется."
+  - "Хотя бы один косвенный вопрос с правильным порядком слов (si / pourquoi / ce que)."
+  - "Нет личного мнения и оценок от себя; фразы документов перефразированы."
+  - "Объём 220–300 слов."
+model_answer: |
+  Les avis en ligne, entre confiance et soupçon
+
+  Les commentaires laissés par les clients sur Internet sont devenus incontournables. On peut toutefois se demander dans quelle mesure ils sont fiables, et qui doit garantir leur sincérité.
+
+  Les deux documents s'accordent d'abord sur le poids considérable de ces avis. Une association de consommateurs rappelle que la quasi-totalité des clients les lisent avant de choisir un hôtel ou un restaurant. Le témoignage d'une restauratrice le confirme du point de vue des commerçants : c'est grâce aux premières appréciations de sa clientèle que son établissement, mal situé, a pu se faire connaître.
+
+  Ce pouvoir a cependant son revers. L'association dénonce l'ampleur de la fraude : environ un tiers des avis seraient mensongers, qu'il s'agisse d'éloges achetés ou de critiques destinées à nuire à un concurrent. La restauratrice, de son côté, admet que certaines critiques, notamment anonymes, l'ont profondément affectée.
+
+  Reste à savoir comment remédier à ces dérives. Ce que réclame l'association, c'est un contrôle systématique : les plateformes devraient s'assurer que chaque auteur a bien été client, et les tricheurs devraient être réellement punis. La restauratrice, qui prend le temps de répondre à chaque commentaire, s'interroge quant à elle sur le refus des plateformes de faciliter les signalements.
+
+  Ainsi, si les deux documents reconnaissent l'utilité des avis en ligne, ils soulignent également que leur crédibilité dépend désormais de la responsabilité des plateformes.

@@ -1,0 +1,62 @@
+title: "Le retour du téléphone basique : nostalgie ou résistance ?"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросе с полем впиши форму из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Причину ищи после à force de, grâce à, puisque, comme; следствие — после si bien que, c'est pourquoi."
+text: |
+  ## Le retour du téléphone basique : nostalgie ou résistance ?
+
+  *Pas d'écran tactile, pas d'applications, et pourtant ils se vendent de mieux en mieux. Les téléphones d'autrefois font un retour inattendu. Faut-il y voir une simple mode ?*
+
+  Il y a quinze ans, Thomas aurait bien ri si on lui avait parlé de revenir à un téléphone à clapet. Aujourd'hui, ce développeur de trente-quatre ans en utilise un depuis huit mois. « J'avais tellement l'habitude de consulter mon écran que je le faisais sans m'en rendre compte, même au feu rouge, explique-t-il. Un soir, ma fille m'a demandé pourquoi je regardais mon téléphone au lieu de l'écouter. C'est ce soir-là que j'ai décidé d'arrêter. »
+
+  Thomas n'est pas un cas isolé. Depuis deux ans, les ventes de téléphones simples progressent en Europe, en particulier chez les 18-30 ans. Comment expliquer ce paradoxe ? Pourquoi une génération née avec Internet choisit-elle de s'en éloigner ?
+
+  La première raison est la fatigue. À force de recevoir des notifications du matin au soir, beaucoup d'utilisateurs ont le sentiment de ne plus maîtriser leur attention. Selon une enquête récente, un jeune adulte consulte son téléphone en moyenne quatre-vingts fois par jour, si bien qu'il reste rarement concentré plus de quelques minutes. Rien d'étonnant : les applications sont conçues pour capter notre temps. Puisque leur modèle économique repose sur la publicité, chaque minute passée devant l'écran leur rapporte de l'argent.
+
+  La deuxième raison est plus surprenante : le plaisir. Sans GPS, on demande son chemin ; sans réseaux sociaux, on appelle ses amis au lieu de « liker » leurs photos. Plusieurs utilisateurs racontent qu'en une semaine seulement, ils ont retrouvé le goût de la lecture. « Grâce à ce vieux téléphone, j'ai lu plus de livres en trois mois que pendant toute l'année précédente », affirme Inès, étudiante à Bordeaux.
+
+  La déconnexion a pourtant ses limites. Dans une société où presque tout passe par le smartphone, s'en passer complètement relève parfois de l'exploit. Les banques exigent une application pour valider les paiements, les billets de train sont dématérialisés, et certaines administrations ne répondent plus qu'en ligne. Comme le téléphone basique ne permet rien de tout cela, beaucoup de ses adeptes gardent en réalité un smartphone dans un tiroir, « pour les urgences ». C'est pourquoi les sociologues parlent moins d'un rejet de la technologie que d'une pause choisie.
+
+  Faut-il alors considérer ce retour comme une mode passagère ? Je ne le crois pas. Le succès de ces appareils montre surtout que nous avons perdu le contrôle d'un outil censé nous libérer. La vraie question n'est donc pas de savoir s'il faut garder ou jeter son smartphone, mais pourquoi il est devenu si difficile de le poser. Tant que les applications seront conçues pour nous retenir, la solution ne viendra pas d'un vieux téléphone à clapet, mais de règles plus strictes imposées aux géants du numérique.
+items:
+  - q: "Как долго Тома пользуется кнопочным телефоном?"
+    options: ["пятнадцать лет", "восемь месяцев", "два года"]
+    answer: 1
+    explain: "*il **en** utilise un **depuis huit mois*** — *depuis* + срок: действие длится до сих пор. *Il y a quinze ans* — момент в прошлом; *depuis deux ans* — о росте продаж."
+  - q: "Что подтолкнуло Тома к решению?"
+    options: ["штраф за телефон за рулём", "вопрос дочери", "совет коллег"]
+    answer: 1
+    explain: "*ma fille m'a demandé pourquoi je regardais mon téléphone au lieu de l'écouter. **C'est ce soir-là que** j'ai décidé d'arrêter.* Красный свет — лишь пример привычки."
+  - q: "Vrai / faux / on ne sait pas: продажи простых телефонов растут особенно среди 18–30-летних."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 0
+    explain: "*les ventes de téléphones simples progressent en Europe, **en particulier chez les 18-30 ans**.*"
+  - q: "Что выражает «À force de recevoir des notifications du matin au soir…»?"
+    options: ["причину через постоянное повторение: из-за того, что уведомления приходят без конца", "цель: чтобы получать уведомления", "уступку: несмотря на уведомления"]
+    answer: 0
+    explain: "*à force de* + infinitif — причина, которая действует через многократное повторение («от постоянного…»)."
+  - q: "Почему приложения стараются удерживать наше внимание?"
+    options: ["Их создатели хотят, чтобы мы больше читали.", "Их бизнес-модель основана на рекламе: каждая минута у экрана приносит им деньги.", "Этого требуют банки."]
+    answer: 1
+    explain: "*Puisque leur modèle économique repose sur la publicité, chaque minute passée devant l'écran leur rapporte de l'argent.* *Puisque* — причина, очевидная для всех."
+  - q: "Что рассказывает Инес?"
+    options: ["За три месяца она прочла больше книг, чем за весь предыдущий год.", "За неделю она прочла три книги.", "Она читает книги на телефоне."]
+    answer: 0
+    explain: "*j'ai lu plus de livres **en trois mois** que **pendant toute l'année** précédente* — *en* «за какой срок», *pendant* «в течение»."
+  - q: "Vrai / faux / on ne sait pas: Инес совсем отказалась от смартфона."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 2
+    explain: "О смартфоне Инес в тексте ничего не сказано. Про *smartphone dans un tiroir* говорится о многих приверженцах вообще, не о ней."
+  - q: "Почему многие хранят смартфон «в ящике»?"
+    options: ["Он им дорог как память.", "Без него трудно обойтись: банки, билеты, администрации требуют смартфон.", "Простой телефон часто ломается."]
+    answer: 1
+    explain: "*Comme le téléphone basique ne permet rien de tout cela, beaucoup de ses adeptes gardent… un smartphone dans un tiroir* — *comme* в начале фразы вводит причину."
+  - q: "Какова позиция автора?"
+    options: ["Возврат к кнопочным телефонам — решение проблемы.", "Это мода, которая скоро пройдёт.", "Проблема в приложениях, созданных удерживать нас: нужны строгие правила для IT-гигантов."]
+    answer: 2
+    explain: "*Je ne le crois pas… la solution ne viendra pas d'un vieux téléphone…, mais de règles plus strictes imposées aux géants du numérique.*"
+  - q: "Впиши форму из текста (сложная инверсия): Pourquoi une génération née avec Internet ___ de s'en éloigner ?"
+    answers: ["choisit-elle"]
+    explain: "Подлежащее-существительное (*une génération*) остаётся впереди, после глагола его повторяет местоимение через дефис: **choisit-elle**."

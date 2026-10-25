@@ -1,0 +1,26 @@
+title: "Message : viens chez moi !"
+type: writing
+intro: "Напиши сообщение другу, который приезжает к тебе в субботу, по плану урока."
+prompt: |
+  Ton ami(e) vient dans ta ville samedi. Tu écris un message : qu'est-ce qu'il y a dans ton quartier ? Qu'est-ce qu'il n'y a pas ? Qu'est-ce que vous allez faire ensemble ?
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "il y a un / une / des…, il n'y a pas de…"
+  - "un / une / des — новое; le / la / les — уже названное"
+  - "aller и venir; aller + инфинитив"
+checklist:
+  - "Есть обращение и прощание (À samedi !)."
+  - "Есть хотя бы два il y a + un / une / des."
+  - "Есть отрицание il n'y a pas de… (без un, une, des)."
+  - "Уже названное место — с определённым артиклем: le parc, la gare."
+  - "Есть план с aller + инфинитив: nous allons visiter…"
+  - "Приглашение — с venir: Tu viens… ? Viens chez moi !"
+model_answer: |
+  Salut Marc,
+
+  Tu viens samedi ? Dans mon quartier, il y a un parc, un cinéma et des cafés. Il n'y a pas de musée, mais le musée de la ville est près de la gare. Samedi matin, nous allons visiter le musée. Le soir, nous allons regarder un film. Mes amis viennent aussi.
+
+  À samedi,
+  Anna

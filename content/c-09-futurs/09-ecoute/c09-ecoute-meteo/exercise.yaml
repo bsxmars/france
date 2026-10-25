@@ -1,0 +1,37 @@
+title: "Météo : neige, vent et redoux"
+type: listening
+intro: "Прогноз погоды звучит один раз, как на экзамене. Прочитай вопросы заранее."
+hints:
+  - "Держи в голове цифры: градусы, скорость ветра, время."
+  - "Числа можно писать цифрами или словами; знак «минус» не нужен."
+audio: audio/tts/c-09/meteo.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  Voici maintenant la météo de demain. En matinée, le ciel restera nuageux sur l'ensemble de la région, avec quelques averses de neige en Estrie. Ces averses auront cessé vers midi, et le soleil fera une brève apparition en après-midi.
+
+  Les températures seront de saison : moins huit degrés au lever du jour à Québec, moins trois en après-midi. Attention, le vent soufflera fort le long du fleuve, avec des rafales jusqu'à soixante kilomètres à l'heure.
+
+  Pour la fin de semaine, on attend un redoux : dimanche, le mercure atteindra deux degrés. La pluie verglaçante prévue dimanche soir rendra les routes glissantes. Quand vous aurez déneigé votre voiture, prenez le temps de vérifier vos pneus avant de prendre la route.
+items:
+  - q: "Где утром пройдёт снег?"
+    options: ["в Квебеке", "в Эстри", "вдоль реки"]
+    answer: 1
+    explain: "*quelques averses de neige en Estrie* — Эстри, регион на юге провинции Квебек."
+  - q: "Когда закончится снег?"
+    options: ["к полудню", "вечером", "в воскресенье"]
+    answer: 0
+    explain: "*Ces averses **auront cessé** vers midi* — futur antérieur: к полудню действие будет завершено."
+  - q: "En après-midi, à Québec, il fera moins ___ degrés."
+    answers: ["trois", "3"]
+    explain: "*moins huit degrés au lever du jour à Québec, moins **trois** en après-midi.*"
+  - q: "Les rafales atteindront ___ kilomètres à l'heure."
+    answers: ["soixante", "60"]
+    explain: "*des rafales jusqu'à **soixante** kilomètres à l'heure* — вдоль реки (*le long du fleuve*)."
+  - q: "Что ожидается в выходные?"
+    options: ["сильные морозы", "потепление и ледяной дождь в воскресенье вечером", "солнце без осадков"]
+    answer: 1
+    explain: "*Pour la fin de semaine, on attend un redoux… La pluie verglaçante prévue dimanche soir rendra les routes glissantes.* *fin de semaine* — квебекское «выходные»."
+  - q: "Что советует синоптик?"
+    options: ["Не выезжать в воскресенье.", "Очистив машину от снега, проверить шины.", "Ехать по трассе вдоль реки."]
+    answer: 1
+    explain: "*Quand vous **aurez déneigé** votre voiture, prenez le temps de vérifier vos pneus* — futur antérieur после *quand*: сначала очистить, потом проверить."

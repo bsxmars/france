@@ -1,0 +1,39 @@
+title: "Annonce en gare : train supprimé"
+type: listening
+intro: "Объявление звучит один раз. Прочитай вопросы заранее; в пропуски впиши число или слово из записи."
+hints:
+  - "Держи в голове время поездов и номер пути."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c-04/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  Votre attention, s'il vous plaît. En raison d'un incident technique, le train régional de dix-sept heures douze à destination de Lausanne est supprimé. Les voyageurs sont invités à prendre le train de dix-sept heures quarante-deux, voie quatre.
+
+  Si vous avez une correspondance pour Genève, adressez-vous au guichet du hall principal : nos agents vous y attendent et vous remettront un nouveau billet. Votre billet actuel, gardez-le : il reste valable toute la journée.
+
+  Nous vous rappelons qu'il est interdit de laisser des bagages sans surveillance. Si vous en voyez un, ne le touchez pas et signalez-le immédiatement à notre personnel.
+
+  Nous vous prions de nous excuser pour ce désagrément.
+items:
+  - q: "Почему поезд отменён?"
+    options: ["из-за технической неисправности", "из-за забастовки", "из-за погоды"]
+    answer: 0
+    explain: "*En raison d'un incident technique, le train régional de 17 h 12… est supprimé.*"
+  - q: "Les voyageurs doivent prendre le train de dix-sept heures ___."
+    answers: ["quarante-deux", "42", "quarante deux"]
+    explain: "*le train de dix-sept heures **quarante-deux**, voie quatre.*"
+  - q: "Ce train part de la voie ___."
+    answers: ["quatre", "4"]
+    explain: "*voie **quatre***."
+  - q: "Что делать пассажирам с пересадкой на Женеву?"
+    options: ["Обратиться в кассу главного зала за новым билетом.", "Ждать на платформе следующего поезда на Женеву.", "Купить новый билет онлайн."]
+    answer: 0
+    explain: "*adressez-vous au guichet du hall principal : nos agents vous **y** attendent* — *y* = в кассе."
+  - q: "Что делать со старым билетом?"
+    options: ["Сдать в кассу.", "Сохранить: он действует весь день.", "Выбросить."]
+    answer: 1
+    explain: "*Votre billet actuel, gardez-le : il reste valable toute la journée.* — в утвердительном императиве местоимение после глагола."
+  - q: "Что делать, если увидишь оставленный багаж?"
+    options: ["Отнести его в кассу.", "Не трогать и сообщить персоналу.", "Открыть, чтобы найти владельца."]
+    answer: 1
+    explain: "*Si vous **en** voyez un, ne **le** touchez pas et signalez-**le*** — *en* + числительное *un*; в отрицательном императиве местоимение перед глаголом."

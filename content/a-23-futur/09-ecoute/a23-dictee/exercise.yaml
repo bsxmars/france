@@ -1,0 +1,47 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "Futur: перед окончанием — -r-: nous irons, on fera, il apprendra."
+  - "После si «если» — présent: s'il fait beau."
+items:
+  - audio: audio/tts/a-23/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Demain, nous irons à la mer."]
+    explain: "«Завтра мы поедем на море». *aller* → особая основа *ir-*: *nous irons*."
+  - audio: audio/tts/a-23/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["S'il fait beau, on fera un pique-nique."]
+    explain: "«Если будет хорошая погода, устроим пикник». *si* + *présent* (*fait*) → *futur* (*fera*); *si* + *il* = *s'il*."
+  - audio: audio/tts/a-23/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Tu ne viens pas avec nous ?"]
+    explain: "«Ты разве не идёшь с нами?» Вопрос с отрицанием; ответ «иду!» — *Si !*"
+  - audio: audio/tts/a-23/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Le médecin m'a dit de rester au lit."]
+    explain: "«Врач велел мне лежать в постели». *dire à qn de* + инфинитив: *m'a dit **de** rester*."
+  - audio: audio/tts/a-23/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Il est interdit de fumer dans le train."]
+    explain: "«В поезде курить запрещено». *il est interdit de* + инфинитив."
+  - audio: audio/tts/a-23/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Tout sera prêt pour la fête."]
+    explain: "«Всё будет готово к празднику». *tout* «всё» — подлежащее, глагол в ед. ч.; *être* → *ser-*."
+  - audio: audio/tatoeba/472061.mp3
+    audio_source: {title: "Tatoeba #131349", url: "https://tatoeba.org/fr/sentences/show/131349", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Il apprendra le français."]
+    explain: "«Он выучит французский». *apprendre* → *apprendr-* (без *-e*) + *-a*."
+  - audio: audio/tatoeba/474420.mp3
+    audio_source: {title: "Tatoeba #1313557", url: "https://tatoeba.org/fr/sentences/show/1313557", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["J'irai le chercher."]
+    explain: "«Я схожу за ним». *aller* → *j'irai*; *le* — перед инфинитивом *chercher*."
+  - audio: audio/tatoeba/538688.mp3
+    audio_source: {title: "Tatoeba #5353236", url: "https://tatoeba.org/fr/sentences/show/5353236", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Mes parents seront à la maison vers 14 h 30.", "Mes parents seront à la maison vers quatorze heures trente.", "Mes parents seront à la maison vers 14h30.", "Mes parents seront à la maison vers 14 heures 30."]
+    explain: "«Мои родители будут дома около 14:30». *être* → *ils seront*."
+  - audio: audio/tatoeba/472148.mp3
+    audio_source: {title: "Tatoeba #3235630", url: "https://tatoeba.org/fr/sentences/show/3235630", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Ne parlez-vous pas français ?", "Ne parlez-vous pas le français ?"]
+    explain: "«Разве вы не говорите по-французски?» Вопросительно-отрицательная форма с инверсией: *ne* + глагол-местоимение + *pas*."

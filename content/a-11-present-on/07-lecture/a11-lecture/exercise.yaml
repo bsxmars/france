@@ -1,0 +1,45 @@
+title: "Club de chant"
+type: reading
+intro: "Прочитай объявление и ответь на вопросы. В вопросах с полем впиши слова из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Ne… pas + повелительное наклонение — запрет."
+text: |
+  **Club de chant de la rue Lepic**
+
+  Vous aimez chanter ? Vous cherchez des amis ? Le club de chant cherche des voix !
+
+  Ici, on chante ensemble tous les mardis soir, de sept heures à neuf heures, dans la salle de la mairie. On ne travaille pas seul : on écoute, on répète et on chante en groupe. Les chansons ? Ce sont des chansons françaises et italiennes.
+
+  Qui sont les professeurs ? Ce sont Hélène et Yves Moreau. Elle joue du piano, il chante. Nous parlons français, anglais et italien.
+
+  **Les règles du club :**
+  - Arrivez à l'heure !
+  - Ne fumez pas dans la salle.
+  - Fermez la porte et les fenêtres après le cours.
+  - Écoutez les autres !
+
+  Vous hésitez ? Écoutez le club dimanche, à midi, sur la place du marché !
+items:
+  - q: "Кого ищет клуб?"
+    options: ["пианиста", "новых певцов", "преподавателя итальянского"]
+    answer: 1
+    explain: "*Le club de chant cherche des voix !* — «ищет голоса», то есть людей, которые поют. На пианино играет Элен."
+  - q: "Когда занятия?"
+    options: ["каждый вторник вечером, с семи до девяти", "каждое воскресенье в полдень", "каждый вечер в мэрии"]
+    answer: 0
+    explain: "*Tous les mardis soir, de sept heures à neuf heures.* В воскресенье в полдень клуб поёт на рыночной площади."
+  - q: "Кто такие Элен и Ив Моро?"
+    options: ["члены клуба из Италии", "преподаватели: она играет на пианино, он поёт", "работники мэрии"]
+    answer: 1
+    explain: "*Qui sont les professeurs ? Ce sont Hélène et Yves Moreau. Elle joue du piano, il chante.* О нескольких людях — **ce sont**."
+  - q: "Что нельзя делать в зале?"
+    options: ["петь одному", "курить", "открывать окна"]
+    answer: 1
+    explain: "*Ne fumez pas dans la salle.* — отрицание в повелительном наклонении: *ne* + глагол + *pas*."
+  - q: "Впиши из текста: «Это французские и итальянские песни» — ___ des chansons françaises et italiennes."
+    answers: ["Ce sont"]
+    explain: "**Ce sont** — «это» о нескольких предметах. *C'est* — об одном."
+  - q: "Впиши из текста: «Здесь мы поём вместе» — Ici, ___ chante ensemble."
+    answers: ["on"]
+    explain: "**on** = «мы»; глагол после него — в 3-м лице ед. ч.: *on chante*."

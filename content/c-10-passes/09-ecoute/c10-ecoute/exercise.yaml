@@ -1,0 +1,69 @@
+title: "Entre les lignes : écrire au passé simple"
+type: listening
+intro: "Послушай радиоинтервью с писательницей (дважды) и ответь на вопросы. В середине она читает отрывок из романа."
+hints:
+  - "В отрывке imparfait — фон, passé simple — события, plus-que-parfait — то, что было раньше."
+  - "В разговоре писательница говорит в passé composé — так звучит устный рассказ."
+audio: audio/tts/c-10/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-CA-SylvieNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour et bienvenue dans « Entre les lignes ». Mon invitée vient de publier son troisième roman, « La Maison du passeur ». Geneviève Tremblay, vous êtes québécoise, vous vivez à Lyon depuis quinze ans, et vous avez écrit tout ce livre au passé simple. Pourquoi ce choix, aujourd'hui ?
+
+  **Geneviève Tremblay :** Bonjour. Au départ, ce n'était pas un choix de principe. J'avais commencé le roman au passé composé, comme mes deux premiers livres. Mais au bout de cinquante pages, je me suis rendu compte que quelque chose ne fonctionnait pas. Mon héroïne avait l'air de me raconter sa vie, assise dans un café. Or je voulais qu'elle soit loin, qu'il y ait une distance entre elle et le lecteur.
+
+  **Journaliste :** Et le passé simple crée cette distance ?
+
+  **Geneviève Tremblay :** Oui. Le passé composé, c'est le temps du témoignage : il relie les faits au moment où l'on parle. Le passé simple, lui, coupe ce lien. Les événements forment un monde fermé, qui existe pour lui-même. C'est le temps du conte : « Il était une fois un roi qui eut trois filles. » Personne ne parle comme ça, et c'est justement ce qui en fait la magie.
+
+  **Journaliste :** Vous pouvez nous lire un passage ?
+
+  **Geneviève Tremblay :** Volontiers. C'est le début du chapitre trois.
+
+  **Geneviève Tremblay :** « Le passeur attendait depuis une heure quand la barque apparut enfin. Il faisait déjà nuit. Marthe descendit la première, serra son châle contre elle et regarda la maison sans rien dire. Elle n'y était pas revenue depuis vingt ans. À peine eut-elle posé le pied sur le quai que la porte s'ouvrit. Son frère se tenait sur le seuil. Il avait vieilli, il s'était voûté, mais elle le reconnut aussitôt. »
+
+  **Journaliste :** On entend bien la différence entre les temps.
+
+  **Geneviève Tremblay :** C'est toute la mécanique du récit. L'imparfait installe le décor : le passeur attendait, il faisait nuit. Le passé simple fait avancer l'action : la barque apparut, Marthe descendit, la porte s'ouvrit. Le plus-que-parfait ouvre une fenêtre sur ce qui s'était passé avant : elle n'y était pas revenue depuis vingt ans. Quant au passé antérieur, « à peine eut-elle posé le pied », il dit que deux actions se sont suivies sans le moindre intervalle.
+
+  **Journaliste :** Vos lecteurs ne sont pas gênés par ces formes un peu… anciennes ?
+
+  **Geneviève Tremblay :** Les jeunes lecteurs, parfois, au début. Une lycéenne m'a écrit pour me demander si « elle vint » était une faute de frappe ! Mais on s'habitue très vite. En fait, la plupart des gens lisent le passé simple sans problème ; c'est de l'écrire qui leur fait peur. Moi-même, j'ai encore des doutes sur certaines formes. Pendant toute l'écriture, je gardais un tableau de conjugaison à côté de mon ordinateur.
+
+  **Journaliste :** Et au Québec, la situation est différente ?
+
+  **Geneviève Tremblay :** Pas vraiment. À l'oral, on ne l'utilise pas plus qu'en France. Mais ma grand-mère, qui nous racontait des légendes le soir, passait au passé simple dès qu'elle commençait une histoire. « Un soir d'hiver, un bûcheron sortit de sa cabane… » Je crois que c'est elle qui m'a appris que ce temps-là servait à faire rêver.
+
+  **Journaliste :** Geneviève Tremblay, merci.
+items:
+  - q: "Почему писательница перешла с passé composé на passé simple?"
+    options: ["Так требовал издатель.", "В passé composé героиня будто рассказывала о своей жизни в кафе, а автору нужна была дистанция.", "Она всегда писала в passé simple."]
+    answer: 1
+    explain: "*J'**avais commencé** le roman au passé composé… Mon héroïne avait l'air de me raconter sa vie, assise dans un café. Or je voulais… qu'il y ait une distance.* Первые две книги были в passé composé."
+  - q: "Чем, по её словам, passé composé отличается от passé simple?"
+    options: ["Passé composé связывает события с моментом речи, passé simple создаёт замкнутый мир.", "Passé simple — для длительных действий, passé composé — для коротких.", "Разницы нет, это вопрос моды."]
+    answer: 0
+    explain: "*Le passé composé, c'est le temps du témoignage : il relie les faits au moment où l'on parle. Le passé simple, lui, coupe ce lien.*"
+  - q: "Что делал перевозчик, когда появилась лодка?"
+    options: ["Он уже час ждал.", "Он спускался к воде.", "Он открывал дверь."]
+    answer: 0
+    explain: "*Le passeur **attendait depuis une heure** quand la barque **apparut*** — imparfait (фон) прерван событием в passé simple."
+  - q: "Сколько лет Марта не была в этом доме?"
+    options: ["пятнадцать", "двадцать", "три"]
+    answer: 1
+    explain: "*Elle n'y **était** pas **revenue** depuis vingt ans* — plus-que-parfait: предыстория. Пятнадцать лет писательница живёт в Лионе."
+  - q: "Что передаёт фраза «À peine eut-elle posé le pied sur le quai que la porte s'ouvrit»?"
+    options: ["Дверь открылась ещё до того, как она сошла на берег.", "Дверь открылась сразу же, как только она ступила на причал.", "Дверь долго не открывалась."]
+    answer: 1
+    explain: "Passé antérieur после *à peine* — *deux actions se sont suivies sans le moindre intervalle*, как объясняет сама писательница."
+  - q: "Каким Марта увидела брата?"
+    options: ["Постаревшим и сгорбленным, но узнала его сразу.", "Не узнала его.", "Совсем не изменившимся."]
+    answer: 0
+    explain: "*Il avait vieilli, il s'était voûté, mais elle le reconnut **aussitôt**.*"
+  - q: "Как реагируют молодые читатели на passé simple?"
+    options: ["Отказываются читать книгу.", "Иногда сначала удивляются — одна лицеистка приняла «elle vint» за опечатку, — но быстро привыкают.", "Им нравится писать в passé simple."]
+    answer: 1
+    explain: "*Une lycéenne m'a écrit pour me demander si « elle vint » était une faute de frappe ! Mais on s'habitue très vite.* Пугает людей не чтение, а письмо: *c'est de l'écrire qui leur fait peur*."
+  - q: "Какую роль сыграла бабушка писательницы?"
+    options: ["Она научила её спрягать глаголы.", "Рассказывая легенды, она переходила на passé simple — так внучка поняла, что это время для мечты.", "Она тоже была писательницей."]
+    answer: 1
+    explain: "*ma grand-mère… **passait** au passé simple **dès qu'**elle commençait une histoire* — imparfait повторяющегося действия; *c'est elle qui m'a appris que ce temps-là servait à faire rêver*."

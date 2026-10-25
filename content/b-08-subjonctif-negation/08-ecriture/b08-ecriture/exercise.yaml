@@ -1,0 +1,37 @@
+title: "Essai : faut-il supprimer les devoirs à la maison ?"
+type: writing
+intro: "Напиши аргументированное эссе по плану урока."
+prompt: |
+  Le magazine *Parents d'aujourd'hui* organise un concours d'essais sur le thème : « Faut-il supprimer les devoirs à la maison à l'école primaire et au collège ? »
+
+  Vous participez au concours. Vous présentez votre opinion de façon argumentée, avec des exemples précis, et vous répondez à au moins un argument contraire. Donnez un titre à votre essai.
+
+  Напиши **200–280 слов**.
+words: [200, 280]
+target_grammar:
+  - "мнение: je pense / je trouve que + indicatif; je ne pense pas / je doute que + subjonctif"
+  - "вероятность: il est probable que + indicatif; il est possible / peu probable que + subjonctif"
+  - "subjonctif в относительном придаточном: des devoirs qui soient…, une école qui permette…"
+  - "отрицание: ne… ni… ni…, sans… ni…"
+checklist:
+  - "Есть заголовок, вступление с проблемой и ясной позицией."
+  - "Два аргумента, у каждого — конкретный пример."
+  - "Есть контраргумент и ответ на него."
+  - "Хотя бы два выражения мнения: одно с indicatif, одно с subjonctif (в отрицании или сомнении)."
+  - "Хотя бы одно выражение вероятности с правильным наклонением."
+  - "Хотя бы одно относительное придаточное с subjonctif и одна конструкция ni… ni…"
+  - "Вывод с предложением; связки между абзацами."
+model_answer: |
+  Des devoirs, oui, mais pas n'importe lesquels
+
+  Chaque soir, dans des milliers de familles, la même scène se répète : un enfant fatigué, un cahier ouvert et des parents qui s'énervent. Faut-il pour autant supprimer les devoirs ? Je ne le crois pas, mais je suis convaincue qu'il faut les transformer.
+
+  D'abord, je pense que les devoirs ont un vrai rôle : apprendre une poésie ou relire une leçon permet de fixer ce qu'on a vu en classe. Sans ce petit travail régulier, il est probable que beaucoup d'élèves oublieront dès le lendemain ce qu'ils ont appris.
+
+  Ensuite, les devoirs créent un lien entre l'école et la maison. Quand ma fille me lit son texte, je sais ce qu'elle étudie et où elle a des difficultés.
+
+  On objectera que les devoirs aggravent les inégalités : certains enfants n'ont ni bureau ni parents disponibles pour les aider. C'est vrai, et je ne pense pas qu'on puisse l'ignorer. Mais il est peu probable que la suppression des devoirs règle le problème : les familles aisées paieront simplement des cours particuliers.
+
+  En définitive, ce qu'il faudrait, ce sont des devoirs qui soient courts, que l'enfant puisse faire seul, sans l'aide d'un adulte ni d'un ordinateur. Il est possible que l'école doive aussi proposer une heure d'étude surveillée à ceux qui en ont besoin. Ainsi, les devoirs ne seraient plus une source de conflits, mais un moment d'autonomie.
+
+  Hélène, mère de deux enfants

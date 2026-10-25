@@ -1,0 +1,58 @@
+title: "Une fête surprise pour Martine"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросах с полем впиши слово или число из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Местоимение заменяет слово из предыдущей фразы: найди его."
+text: |
+  **Objet : Fête surprise pour Martine !**
+
+  Bonjour à tous,
+
+  Le 14 juin, notre amie Martine va avoir cinquante ans, et nous allons lui préparer une fête surprise ! Je viens de parler à son mari, Bernard : il est d'accord. Ce soir-là, il va l'inviter au restaurant, puis, à neuf heures, il va la ramener à la maison. Nous allons l'attendre chez eux, dans le noir.
+
+  La fête commence à huit heures et demie. L'appartement est au sixième étage, la troisième porte à gauche. Attention : l'ascenseur ne marche pas ! Bernard va nous donner la clé.
+
+  Qui apporte quoi ? Julie, tu sais faire des gâteaux : tu fais le gâteau au chocolat ? Marc et Sophie, vous apportez trois bouteilles de jus et deux bouteilles de champagne. Moi, j'achète un kilo de cerises et une boîte de chocolats.
+
+  Et le cadeau ? Martine adore les voyages : nous allons lui offrir un week-end à Bruxelles. Chaque personne donne vingt euros, et je vais acheter les billets de train la semaine prochaine.
+
+  Encore une chose : c'est un secret, Martine ne sait pas encore ! Alors ne lui téléphonez pas ce jour-là, et ne parlez pas de la fête à ses enfants : ils parlent beaucoup ! Je vais leur expliquer le secret moi-même.
+
+  Vous finissez tard le vendredi ? Ce n'est pas un problème : la fête finit à minuit.
+
+  Répondez-moi avant le premier juin, s'il vous plaît.
+
+  Amitiés,
+  **Claire**
+items:
+  - q: "По какому поводу праздник?"
+    options: ["Мартине исполняется 50 лет.", "Мартина и Бернар женятся.", "Мартина возвращается из Брюсселя."]
+    answer: 0
+    explain: "*Martine va avoir cinquante ans* — *aller* + инфинитив: это скоро будет."
+  - q: "Что сделает Бернар в тот вечер?"
+    options: ["Приготовит ужин дома.", "Пригласит Мартину в ресторан и привезёт её домой в девять.", "Встретит гостей у лифта."]
+    answer: 1
+    explain: "*il va **l'**inviter au restaurant, puis, à neuf heures, il va **la** ramener à la maison* — *l', la* = Мартина."
+  - q: "Квартира на ___ этаже (впиши порядковое число)."
+    answers: ["sixième", "6e", "6ème", "6"]
+    explain: "*au **sixième** étage* — *six* + *-ième*. Лифт не работает!"
+  - q: "Кто печёт шоколадный торт?"
+    options: ["Клер", "Жюли", "Софи"]
+    answer: 1
+    explain: "*Julie, tu sais faire des gâteaux : tu fais le gâteau au chocolat ?* — *savoir* + инфинитив: «уметь»."
+  - q: "Что покупает Клер?"
+    options: ["три бутылки сока", "килограмм вишни и коробку конфет", "две бутылки шампанского"]
+    answer: 1
+    explain: "*j'achète un kilo **de** cerises et une boîte **de** chocolats* — после слов количества *de* без артикля. Сок и шампанское приносят Марк и Софи."
+  - q: "Какой подарок друзья сделают Мартине?"
+    options: ["билеты в ресторан", "выходные в Брюсселе", "торт и цветы"]
+    answer: 1
+    explain: "*nous allons **lui** offrir un week-end à Bruxelles* — *lui* = Мартине (*offrir à qn*)."
+  - q: "Почему нельзя говорить о празднике детям Мартины?"
+    options: ["Они много болтают.", "Они живут в Брюсселе.", "Они заканчивают работу поздно."]
+    answer: 0
+    explain: "*ne parlez pas de la fête à ses enfants : ils parlent beaucoup !* Клер сама им всё объяснит: *je vais **leur** expliquer*."
+  - q: "Впиши местоимение из текста: «Не звоните ей в тот день» — Ne ___ téléphonez pas ce jour-là."
+    answers: ["lui"]
+    explain: "*téléphoner **à** qn* → косвенное дополнение **lui**; в отрицании оно стоит сразу перед глаголом."

@@ -42,3 +42,23 @@
   lesson: a-12-possessifs-lire/02-grammaire
   q: "«Читай!» и «Говори!» — в чём разница в написании?"
   a: "III группа сохраняет -s: ***Lis !*** У глаголов на -er -s нет: ***Parle !***"
+- id: a12-le-jeudi
+  lesson: a-12-possessifs-lire/07-lecture
+  q: "*Le jeudi, nous lisons ensemble.* Что значит *le* перед днём недели?"
+  a: "«Каждый такой день»: **le jeudi** — по четвергам. Без артикля *jeudi* — в ближайший четверг."
+- id: a12-gratuit
+  lesson: a-12-possessifs-lire/07-lecture
+  q: "«Эти встречи бесплатные»."
+  a: "**Ces** rencontres sont **gratuites**. *gratuit* согласуется: *gratuit, gratuite, gratuits, gratuites*."
+- id: a12-livre-prefere
+  lesson: a-12-possessifs-lire/08-ecriture
+  q: "«Это моя любимая книга». «Напиши мне скорее!»"
+  a: "C'est **mon livre préféré**. **Écris-moi** vite !"
+- id: a12-ces-ses-oral
+  lesson: a-12-possessifs-lire/09-ecoute
+  q: "*ces livres* или *ses livres*: как различить на слух?"
+  a: "Никак: оба [se]. По смыслу — **ces** «эти» (показываем), **ses** «его, её, свои» (чьи-то)."
+- id: a12-ils-lisent-oral
+  lesson: a-12-possessifs-lire/09-ecoute
+  q: "Как на слух отличить *il lit* от *ils lisent*, *il écrit* от *ils écrivent*?"
+  a: "Во множественном числе звучит согласный основы: [il li] — [il **liz**], [i-le-kʁi] — [il-ze-**kʁiv**]."

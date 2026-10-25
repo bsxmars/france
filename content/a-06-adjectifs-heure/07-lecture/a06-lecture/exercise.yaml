@@ -1,0 +1,42 @@
+title: "Bienvenue, Anna !"
+type: reading
+intro: "Прочитай записку и ответь на вопросы. В вопросе с полем впиши одно слово из текста."
+hints:
+  - "Окончание прилагательного показывает, о ком речь: sérieuse — о женщине."
+  - "sept heures et demie — «половина восьмого»."
+text: |
+  **Bienvenue, Anna !**
+
+  Voici ta chambre. Elle est petite, mais claire : la fenêtre est grande. La table et la chaise sont grises.
+
+  Ma fille cadette, Lou, est sérieuse : elle lit beaucoup. Mon fils aîné, Hugo, n'est pas sérieux, il est paresseux ! Mais il est heureux. Le vieux chat de la maison, Minou, est gris. Il aime les chaises bleues de la cuisine.
+
+  Le matin, le petit déjeuner est à sept heures et demie. Je pars à huit heures : je travaille à la pharmacie. Le soir, le dîner est à sept heures.
+
+  Bonne nuit, et bienvenue !
+
+  **Claire**
+items:
+  - q: "Какая комната у Анны?"
+    options: ["большая и светлая", "маленькая, но светлая", "маленькая и тёмная"]
+    answer: 1
+    explain: "*Elle est petite, mais claire : la fenêtre est grande.* — *claire* с *-e*: *la chambre* женского рода."
+  - q: "Какая Лу?"
+    options: ["серьёзная, много читает", "ленивая, но счастливая", "рассеянная"]
+    answer: 0
+    explain: "*Ma fille cadette, Lou, est sérieuse : elle lit beaucoup.* — *sérieux* → *sérieuse*."
+  - q: "Что хозяйка пишет о Хьюго?"
+    options: ["Он серьёзный и много читает.", "Он ленивый, но счастливый.", "Он младший сын."]
+    answer: 1
+    explain: "*Mon fils aîné, Hugo, n'est pas sérieux, il est paresseux ! Mais il est heureux.* — *aîné* «старший», не младший."
+  - q: "Во сколько завтрак?"
+    options: ["в семь", "в половине восьмого", "в восемь"]
+    answer: 1
+    explain: "*le petit déjeuner est à sept heures et demie* — «в семь с половиной», то есть в 7:30. В восемь Клер уходит на работу, в семь — ужин."
+  - q: "Где работает Клер?"
+    options: ["в аптеке", "в школе", "дома"]
+    answer: 0
+    explain: "*Je pars à huit heures : je travaille à la pharmacie.*"
+  - q: "Впиши прилагательное из текста: «Стол и стул серые» — La table et la chaise sont ___."
+    answers: ["grises"]
+    explain: "**grises** — оба существительных женского рода, мн. ч.: *gris* + *-e* + *-s*."

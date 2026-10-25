@@ -1,0 +1,45 @@
+title: "Sortie au musée"
+type: reading
+intro: "Прочитай объявление и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "le, les перед глаголом заменяют слово из предыдущей фразы."
+text: |
+  **Sortie au musée**
+
+  Chers parents,
+
+  Jeudi, la classe de Mme Roy va au musée des Beaux-Arts. Rendez-vous à huit heures et demie devant l'école. Les élèves marchent jusqu'au métro avec Mme Roy.
+
+  Le musée est très grand : la visite dure jusqu'à midi. Un guide présente les tableaux aux enfants.
+
+  En novembre, il fait souvent froid et il pleut beaucoup : il faut un manteau et un parapluie.
+
+  Le ticket du musée ? Le directeur le donne aux enfants devant l'école. Les sandwichs ? Les élèves les mangent dans le parc du musée.
+
+  « Les enfants aiment beaucoup les musées », dit Mme Roy.
+
+  **L'école Jules-Verne**
+items:
+  - q: "Куда идёт класс мадам Руа?"
+    options: ["в парк", "в музей изобразительных искусств", "в кино"]
+    answer: 1
+    explain: "*La classe de Mme Roy va **au** musée des Beaux-Arts* — *à* + *le musée* = *au musée*."
+  - q: "Где и когда встреча?"
+    options: ["перед школой в половине девятого", "у метро в девять", "перед музеем в полдень"]
+    answer: 0
+    explain: "*Rendez-vous à huit heures et demie devant l'école.* До метро ученики идут пешком, а в полдень заканчивается экскурсия."
+  - q: "Зачем нужны пальто и зонт?"
+    options: ["В музее холодно.", "В ноябре часто холодно и идёт дождь.", "Дети обедают в парке."]
+    answer: 1
+    explain: "*Il fait souvent froid et il pleut beaucoup : il faut un manteau et un parapluie.* — безличные обороты; *souvent* стоит после глагола."
+  - q: "Кто даёт детям билеты?"
+    options: ["экскурсовод в музее", "мадам Руа в метро", "директор перед школой"]
+    answer: 2
+    explain: "*Le ticket du musée ? Le directeur **le** donne aux enfants devant l'école.* — *le* = *le ticket*."
+  - q: "Впиши из текста: «Ученики едят их в парке» — Les élèves ___ mangent dans le parc."
+    answers: ["les"]
+    explain: "**les** = *les sandwichs*; местоимение стоит перед глаголом."
+  - q: "Впиши из текста: «Ученики идут пешком до метро» — Les élèves marchent ___ métro."
+    answers: ["jusqu'au"]
+    explain: "**jusqu'au** = *jusque* + *à* + *le*: элизия и слитный артикль."

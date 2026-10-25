@@ -34,3 +34,23 @@
   lesson: a-09-au-pronoms/02-grammaire
   q: "«— Спасибо, — говорит она»?"
   a: "*— Merci, **dit-elle**.* После прямой речи — инверсия."
+- id: a09-sortie
+  lesson: a-09-au-pronoms/07-lecture
+  q: "«В четверг класс идёт в музей. Встреча перед школой»."
+  a: "*Jeudi, la classe va **au** musée. Rendez-vous **devant** l'école.*"
+- id: a09-il-faut-manteau
+  lesson: a-09-au-pronoms/07-lecture
+  q: "«Часто холодно и идёт дождь: нужен зонт»."
+  a: "*Il fait souvent froid et il pleut : **il faut** un parapluie.*"
+- id: a09-rendez-vous
+  lesson: a-09-au-pronoms/08-ecriture
+  q: "«Встречаемся у кинотеатра в половине шестого»."
+  a: "***Rendez-vous** au cinéma à cinq heures et demie.*"
+- id: a09-au-aux-oral
+  lesson: a-09-au-pronoms/09-ecoute
+  q: "Как на слух отличить *au* от *aux*?"
+  a: "Оба — [о]. Только перед гласной у **aux** связывание [з]: *aux élèves* [озэлэв]."
+- id: a09-a-tout-a-l-heure
+  lesson: a-09-au-pronoms/09-ecoute
+  q: "«Не забудь зонт! До встречи!»"
+  a: "***N'oublie pas** ton parapluie ! **À tout à l'heure** !*"

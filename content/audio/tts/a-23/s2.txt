@@ -1,0 +1,2 @@
+# rate: -5%
+F: S'il fait beau, on fera un pique-nique.

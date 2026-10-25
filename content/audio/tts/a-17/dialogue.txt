@@ -1,0 +1,20 @@
+# rate: -5%
+# pause: 700
+F: Bonjour madame ! Excusez-moi, qu'est-ce qui coûte quatre-vingts euros ici ? Je vois le prix, mais je ne vois pas l'objet.
+A: Bonjour monsieur ! C'est la lampe, là, à côté des livres. Elle est très vieille, mais elle marche bien.
+F: Quatre-vingts euros, c'est cher pour une lampe !
+A: Vous trouvez ? Dans un magasin, elle coûte trois cents euros.
+F: Peut-être… Et les disques, là ? Qui vend les disques ?
+A: C'est mon mari. Il est au café, en face. Il revient dans dix minutes. Vous attendez ?
+F: Oui, j'attends. Je cherche des disques de jazz pour mon père. Il a soixante-dix-huit ans et il adore Ella Fitzgerald.
+A: Alors, vous avez de la chance : mon mari en a quatre cent cinquante ! Il vend les disques de jazz six euros.
+F: Six euros, c'est parfait. Et qu'est-ce qui fait ce bruit ? J'entends de la musique.
+A: C'est la vieille radio de ma grand-mère. Elle marche encore ! Je la vends quatre-vingt-quinze euros.
+F: Elle est belle, mais je n'ai pas de place dans ma voiture.
+A: Ah, voilà mon mari ! Paul, le monsieur attend pour les disques de jazz.
+B: Bonjour ! Les disques de jazz sont dans la grande boîte rouge. Vous en cherchez combien ?
+F: Quatre, s'il vous plaît. Vous descendez le prix ? Vingt euros pour les quatre ?
+B: Vingt euros… Bon, d'accord. C'est pour votre père !
+F: Merci beaucoup ! Et la lampe, madame… soixante-dix euros ?
+A: Soixante-quinze. C'est mon dernier prix.
+F: D'accord, soixante-quinze ! Oh, mon téléphone… C'est mon père. Il attend ma réponse. Je réponds tout de suite : quatre disques de jazz et une lampe !

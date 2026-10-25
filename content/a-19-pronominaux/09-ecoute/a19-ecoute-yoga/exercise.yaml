@@ -1,0 +1,46 @@
+title: "Le cours de yoga"
+type: listening
+intro: "Инструктор ведёт утренний урок йоги. Послушай и ответь на вопросы."
+hints:
+  - "Следи за порядком команд: сначала, потом, в конце."
+  - "levez-vous ≠ ne vous levez pas: в отрицании местоимение перед глаголом."
+audio: audio/tts/a-19/yoga.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  Bonjour à toutes et à tous, et bienvenue au cours de yoga du matin. Nous commençons dans une minute.
+
+  Pour les nouveaux : ne vous inquiétez pas, le cours est facile. Vous n'avez pas de tapis ? Il y a des tapis à côté de la porte, prenez-en un.
+
+  Bien. Installez-vous sur le tapis et asseyez-vous. Fermez les yeux. Respirez lentement : on inspire… et on expire.
+
+  Maintenant, levez-vous doucement. Ne vous dépêchez pas. Levez les bras… et baissez les bras. Nous répétons cinq fois.
+
+  Très bien. Tournez-vous à gauche… et à droite. Vous avez mal au dos ? Arrêtez-vous et reposez-vous un peu.
+
+  Pour finir, allongez-vous sur le tapis. Ne parlez pas, s'il vous plaît ! On se détend pendant trois minutes.
+
+  Merci à tous. Le prochain cours commence jeudi à sept heures. Et demain, n'oubliez pas : levez-vous lentement, et prenez le temps de respirer !
+items:
+  - q: "Что инструктор говорит новичкам?"
+    options: ["«Не волнуйтесь, урок лёгкий»", "«Принесите свой коврик»", "«Приходите в четверг»"]
+    answer: 0
+    explain: "*Pour les nouveaux : **ne vous inquiétez pas**, le cours est facile.* Коврики лежат у двери."
+  - q: "Что надо сделать сначала?"
+    options: ["встать и поднять руки", "сесть на коврик и закрыть глаза", "лечь на коврик"]
+    answer: 1
+    explain: "*Installez-vous sur le tapis et **asseyez-vous**. Fermez les yeux.* Встать — потом, лечь — в конце."
+  - q: "Сколько раз повторяют упражнение с руками? ___"
+    answers: ["cinq", "5", "cinq fois", "5 fois"]
+    explain: "*Levez les bras… et baissez les bras. Nous **répétons** cinq fois.*"
+  - q: "Что делать, если болит спина?"
+    options: ["лечь и уснуть", "остановиться и немного отдохнуть", "повернуться налево"]
+    answer: 1
+    explain: "*Vous avez mal au dos ? **Arrêtez-vous** et **reposez-vous** un peu.*"
+  - q: "Сколько минут расслабляются в конце?"
+    options: ["одну", "три", "пять"]
+    answer: 1
+    explain: "*On se détend pendant trois minutes.* Одна минута — до начала урока, пять — число повторов."
+  - q: "Когда следующий урок?"
+    options: ["завтра в семь", "в четверг в семь", "в четверг в восемь"]
+    answer: 1
+    explain: "*Le prochain cours **commence** jeudi à sept heures.*"

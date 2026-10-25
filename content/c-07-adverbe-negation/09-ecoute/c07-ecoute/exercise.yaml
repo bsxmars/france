@@ -1,0 +1,59 @@
+title: "Cours : pourquoi le « ne » disparaît-il ?"
+type: listening
+intro: "Послушай фрагмент лекции по лингвистике с вопросами студентов (дважды) и ответь на вопросы."
+hints:
+  - "Лекция построена по плану: факт → история → парадокс → вопросы → вывод."
+  - "Профессор называет ошибочное мнение, чтобы его опровергнуть: contrairement à ce qu'on croit…"
+audio: audio/tts/c-07/cours.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural, fr-BE-CharlineNeural, fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  **Le professeur :** Bonjour à tous. Aujourd'hui, je voudrais partir d'une petite question que vous vous êtes sûrement déjà posée : pourquoi le « ne » de la négation disparaît-il presque entièrement à l'oral ? Écoutez-vous parler : « je sais pas », « j'ai rien vu », « il vient plus ». Dans une conversation entre amis, vous n'entendrez pratiquement jamais « je ne sais pas ».
+
+  **Le professeur :** Contrairement à ce qu'on croit souvent, ce n'est nullement une faute récente, ni un signe de paresse. C'est l'aboutissement d'une très longue histoire. En latin, on niait simplement avec « non ». L'ancien français a hérité de ce petit mot, devenu « ne », placé devant le verbe, et pendant des siècles il suffisait parfaitement : « je ne sai » voulait dire « je ne sais pas ».
+
+  **Le professeur :** Seulement, un mot si court, placé devant le verbe, c'est fragile : il s'entend mal. Alors, pour renforcer la négation, on a ajouté des noms concrets qui désignaient une toute petite quantité : « pas », c'est-à-dire un pas, « point », un point, « mie », une miette. « Je ne marche pas » signifiait d'abord « je ne fais même pas un pas ». Peu à peu, ces mots ont perdu leur sens concret et sont devenus de simples outils grammaticaux. « Pas » a gagné la compétition ; « point » ne survit guère que dans la littérature et dans quelques régions ; « mie » a complètement disparu.
+
+  **Le professeur :** Et voilà le paradoxe : à partir du moment où « pas » porte à lui seul l'idée de négation, le « ne » devient inutile. L'oral l'abandonne donc progressivement. C'est d'ailleurs exactement ce qui était arrivé au latin : une forme s'use, on la renforce, puis le renfort prend toute la place. Les linguistes appellent ce mouvement le cycle de Jespersen, du nom d'un linguiste danois.
+
+  **Une étudiante :** Excusez-moi, mais alors, est-ce qu'on peut supprimer le « ne » à l'écrit aussi ?
+
+  **Le professeur :** Absolument pas, ou du moins pas encore ! À l'écrit soutenu, et même dans un courriel professionnel, l'omission du « ne » passe pour une négligence. L'écrit va même parfois dans l'autre sens : il garde des « ne » sans « pas ». « Je ne saurais vous dire », « il n'ose le croire », « elle ne cesse de répéter » : ces tournures, très élégantes, n'existent pratiquement qu'à l'écrit.
+
+  **Un étudiant :** Et le « ne » qu'on met après « avant que » ou « de peur que », et qui ne nie rien du tout ?
+
+  **Le professeur :** Excellente question. C'est le « ne » qu'on appelle explétif : « partez avant qu'il ne pleuve », « je crains qu'il ne soit trop tard ». Il n'a aucune valeur négative ; il souligne simplement une nuance de crainte ou d'éventualité. Il est facultatif, et à l'oral, on ne l'entend presque plus. Mais si vous l'employez correctement dans une dissertation, votre correcteur le remarquera certainement.
+
+  **Le professeur :** Pour conclure, retenez ceci : il n'y a pas une seule bonne négation, il y en a plusieurs, et chacune correspond à un registre. Dire « je sais pas » à un ami n'est pas une faute ; écrire « je sais pas » dans une lettre de motivation en est une. Ce n'est que lorsque vous maîtriserez les deux registres que vous parlerez vraiment comme un francophone.
+items:
+  - q: "Как профессор объясняет исчезновение ne в устной речи?"
+    options: ["Это новая ошибка, вызванная ленью говорящих.", "Это итог очень долгой истории языка.", "Это влияние английского языка."]
+    answer: 1
+    explain: "*Contrairement à ce qu'on croit souvent, ce n'est **nullement** une faute récente, ni un signe de paresse. C'est l'aboutissement d'une très longue histoire.*"
+  - q: "Откуда взялось слово pas в отрицании?"
+    options: ["Из латинского non.", "Это существительное «шаг», обозначавшее очень малое количество.", "Это сокращение от passé."]
+    answer: 1
+    explain: "*on a ajouté des noms concrets qui désignaient une toute petite quantité : « pas », c'est-à-dire un pas…* — «я не сделаю и шага»."
+  - q: "Что стало с point и mie?"
+    options: ["Point сохранилось почти только в литературе и некоторых регионах, mie исчезло.", "Оба слова полностью исчезли.", "Оба слова сегодня равноправны с pas."]
+    answer: 0
+    explain: "*« point » **ne** survit **guère que** dans la littérature et dans quelques régions ; « mie » a complètement disparu.* — *ne… guère que* = «почти только»."
+  - q: "В чём «парадокс», о котором говорит профессор?"
+    options: ["Слово-усилитель взяло на себя отрицание, и ne стало лишним.", "Ne становится всё важнее в устной речи.", "Латынь не знала отрицания."]
+    answer: 0
+    explain: "*à partir du moment où « pas » porte **à lui seul** l'idée de négation, le « ne » devient inutile.* Это и есть цикл Есперсена."
+  - q: "Можно ли опускать ne на письме?"
+    options: ["Да, в любом тексте.", "Нет: в письменной речи, даже в рабочем письме, это выглядит небрежностью.", "Только в официальных письмах."]
+    answer: 1
+    explain: "*Absolument pas, ou du moins pas encore ! … l'omission du « ne » passe pour une négligence.*"
+  - q: "Что профессор говорит о фразах вроде «je ne saurais vous dire», «elle ne cesse de répéter»?"
+    options: ["Это ошибки, их надо исправлять.", "Это элегантные обороты с ne без pas, почти только письменные.", "Это разговорные обороты."]
+    answer: 1
+    explain: "*il garde des « ne » sans « pas »… ces tournures, très élégantes, **n'existent pratiquement qu'à l'écrit**.*"
+  - q: "Что верно о ne explétif?"
+    options: ["Он отрицает действие придаточного.", "Он не отрицает, а подчёркивает опасение или возможность; он факультативен.", "Он обязателен после avant que."]
+    answer: 1
+    explain: "*Il n'a **aucune** valeur négative ; il souligne simplement une nuance de crainte ou d'éventualité. Il est facultatif.*"
+  - q: "Какой главный вывод лекции?"
+    options: ["Правильно только «je ne sais pas».", "Есть несколько отрицаний, каждое — для своего регистра; владеть нужно обоими.", "Скоро ne исчезнет и из письменной речи."]
+    answer: 1
+    explain: "*il n'y a pas une seule bonne négation, il y en a plusieurs, et chacune correspond à un registre… **Ce n'est que lorsque** vous maîtriserez les deux registres que…* Третий вариант — домысел: профессор говорит лишь *pas encore*."

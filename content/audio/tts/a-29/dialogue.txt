@@ -1,0 +1,19 @@
+# rate: -5%
+# pause: 700
+B: Bonjour madame ! Je voudrais du fromage pour un dîner, ce soir.
+G: Bien sûr, monsieur. Vous serez combien ?
+B: Huit. Mes beaux-parents viennent dîner, et ma belle-mère adore le fromage.
+G: Alors, je vous propose un plateau : du camembert, du comté et un peu de chèvre. Notre comté a été affiné pendant dix-huit mois, il est excellent.
+B: Parfait. Et je dois prendre combien de comté ?
+G: Pour huit personnes, comptez trois cents grammes.
+B: D'accord. Ah, mais attendez : mon beau-père ne mange pas de fromage de chèvre.
+G: Pas de problème. À la place, prenez de la tomme de Savoie. Elle est plus douce.
+B: Très bien. Et vous avez du pain ?
+G: Non, désolée, nous ne vendons pas de pain. Mais la boulangerie d'en face est ouverte jusqu'à dix-neuf heures.
+B: Et pour le vin, qu'est-ce que vous me conseillez ?
+G: Avec ce plateau, un vin blanc du Jura. Tenez, ce vin nous a été conseillé par un vigneron, et je l'ai goûté hier : il est parfait. Nous vendons la bouteille douze euros.
+B: Je la prends. Je vous dois combien ?
+G: Alors, le camembert, le comté, la tomme et le vin… Ça fait trente-huit euros cinquante.
+B: Voilà. Vous acceptez la carte ?
+G: Bien sûr. Et je vous offre ces petits biscuits au fromage, pour l'apéritif !
+B: Oh, merci beaucoup ! Ma belle-mère va être contente.

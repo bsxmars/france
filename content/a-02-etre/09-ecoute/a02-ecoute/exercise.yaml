@@ -1,0 +1,45 @@
+title: "Voici ma chambre"
+type: listening
+intro: "Послушай, как Реми показывает свой дом, и ответь на вопросы."
+hints:
+  - "Чей предмет — звучит после c'est: c'est mon sac, c'est la table de ma sœur."
+  - "После non идёт правильный ответ."
+audio: audio/tts/a-02/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural, fr-FR-RemyMultilingualNeural", license: "TTS"}
+transcript: |
+  — Bonjour Sylvie ! Voici ma maison. Et voici ma chambre.
+  — Oh, cette chambre est grande ! C'est ta table ?
+  — Non, c'est la table de ma sœur. Ma sœur est à Lyon.
+  — Et ce sac, c'est ton sac ?
+  — Oui, c'est mon sac. Et voici mon chat, Max.
+  — Il est petit ! Il est malade ?
+  — Non, il est content. Il est sur sa chaise.
+  — Et ta sœur ? Elle est contente à Lyon ?
+  — Oui, elle est contente. Sa chambre est belle !
+  — Est-ce ta voiture, là ?
+  — Oui, c'est ma voiture. Elle est petite, mais elle est belle !
+items:
+  - q: "Какая комната у Реми?"
+    options: ["маленькая", "большая", "красивая, но маленькая"]
+    answer: 1
+    explain: "*Oh, cette chambre est grande !*"
+  - q: "Чей стол в комнате?"
+    options: ["Реми", "Сильви", "сестры Реми"]
+    answer: 2
+    explain: "*C'est ta table ? — Non, c'est la table de ma sœur.* — после *non* правильный ответ."
+  - q: "Где сестра Реми?"
+    options: ["в Лионе", "дома", "в Квебеке"]
+    answer: 0
+    explain: "*Ma sœur est à Lyon.*"
+  - q: "Что с котом Максом?"
+    options: ["Он болен.", "Он доволен.", "Он большой."]
+    answer: 1
+    explain: "*Il est malade ? — Non, il est content.* А вот *petit* — маленький, не большой."
+  - q: "Где кот?"
+    options: ["на столе", "на своём стуле", "в машине"]
+    answer: 1
+    explain: "*Il est sur sa chaise.* — *sa chaise*: *chaise* женского рода, поэтому *sa*, хотя кот — «он»."
+  - q: "Какая машина у Реми?"
+    options: ["большая и красивая", "маленькая, но красивая", "маленькая и старая"]
+    answer: 1
+    explain: "*Elle est petite, mais elle est belle !* — *elle* = *ma voiture*."

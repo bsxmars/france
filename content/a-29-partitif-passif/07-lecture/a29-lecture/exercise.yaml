@@ -1,0 +1,52 @@
+title: "Le marché couvert rouvre ses portes"
+type: reading
+intro: "Прочитай заметку и ответь на вопросы. В вопросе с полем впиши одно слово из текста."
+hints:
+  - "В пассиве тот, кто действует, стоит после par."
+  - "Вопросы идут по порядку текста."
+text: |
+  ## Le marché couvert de Saint-Rémy rouvre ses portes
+
+  *Après deux ans de travaux, le vieux marché couvert a été rouvert samedi. Les habitants étaient nombreux.*
+
+  Construit en 1898, le marché couvert de Saint-Rémy avait été fermé en 2023 : le toit était en mauvais état, et les murs devaient être réparés. Les travaux ont été financés par la ville et par la région. Ils ont coûté trois millions d'euros.
+
+  Samedi matin, les portes ont été ouvertes à huit heures par la maire, Isabelle Roux. « Ce marché est le cœur de notre ville, a-t-elle déclaré. Nous devions le sauver. »
+
+  À l'intérieur, tout a été refait : les anciens vitraux ont été nettoyés, et de nouveaux étals en bois ont été installés. Trente-deux marchands sont présents. On y trouve des fruits et des légumes de la région, de la viande, du poisson frais, du fromage, du miel et même des bijoux faits à la main.
+
+  Les clients sont enthousiastes. « Ici, j'achète du pain, de la confiture et des œufs, et je ne prends jamais de plats préparés », explique Marc, un retraité. Une jeune mère ajoute : « Mes enfants ne mangent pas de légumes à la maison, mais ici, ils goûtent tout ! »
+
+  Le marché est ouvert du mardi au dimanche, de sept heures à treize heures. Le premier samedi du mois, des cours de cuisine gratuits sont offerts par les marchands. Attention : les chiens ne sont pas acceptés à l'intérieur.
+items:
+  - q: "Сколько времени шёл ремонт?"
+    options: ["два года", "три года", "с 1898 года"]
+    answer: 0
+    explain: "*Après deux ans de travaux…* 1898 — год постройки, три — миллионы евро."
+  - q: "Почему рынок закрыли в 2023 году?"
+    options: ["Крыша была в плохом состоянии, а стены нужно было ремонтировать.", "Торговцы ушли в новый супермаркет.", "Город продал здание."]
+    answer: 0
+    explain: "*le toit était en mauvais état, et les murs **devaient être réparés*** — пассив после *devoir*."
+  - q: "Кто оплатил ремонт?"
+    options: ["торговцы рынка", "город и регион", "мэр лично"]
+    answer: 1
+    explain: "*Les travaux **ont été financés par** la ville et **par** la région.* После *par* — кто действует."
+  - q: "Кто открыл двери рынка в субботу?"
+    options: ["пенсионер Марк", "мэр Изабель Ру", "торговцы"]
+    answer: 1
+    explain: "*les portes **ont été ouvertes** à huit heures **par** la maire, Isabelle Roux.* *ouvertes* согласуется с *les portes*."
+  - q: "Что сделали внутри?"
+    options: ["почистили старые витражи и поставили новые деревянные прилавки", "заменили витражи на обычные окна", "построили кафе и детскую площадку"]
+    answer: 0
+    explain: "*les anciens **vitraux** ont été nettoyés, et de nouveaux **étals** en bois ont été installés* — *vitrail → vitraux*, но *étal → étals*."
+  - q: "Что Марк никогда не покупает?"
+    options: ["хлеб", "яйца", "готовые блюда"]
+    answer: 2
+    explain: "*je ne prends jamais **de** plats préparés* — после отрицания частичный артикль → *de*."
+  - q: "Vrai / faux / on ne sait pas: рынок работает каждый день."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "Неверно: *ouvert **du mardi au dimanche*** — в понедельник закрыт."
+  - q: "Впиши из текста причастие: des cours de cuisine gratuits sont ___ par les marchands."
+    answers: ["offerts"]
+    explain: "*offrir → offert*; в пассиве причастие согласуется с подлежащим *des cours* (м. р. мн. ч.) → **offerts**."

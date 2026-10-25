@@ -1,0 +1,4 @@
+# pause: 600
+G: Bonjour, ici le service des objets trouvés de la gare du Midi, à Bruxelles. Ce message s'adresse à madame Lefèvre. Vous nous avez signalé hier la perte d'un sac à dos gris, oublié dans le train de huit heures quinze. Nous en avons retrouvé deux qui correspondent à votre description.
+G: Celui que nous avons trouvé dans le premier wagon contient un ordinateur et un trousseau de clés ; l'autre, des livres et une écharpe rouge. Pour que nous puissions savoir lequel est le vôtre, merci de nous rappeler et de nous décrire ce qu'il y avait à l'intérieur.
+G: Notre bureau est ouvert du lundi au samedi, de sept heures à dix-neuf heures. N'oubliez pas d'apporter une pièce d'identité. Les objets que personne ne réclame dans un délai de trois mois sont remis à une association. Bonne journée.

@@ -1,0 +1,76 @@
+title: "Le Grand Débat : des musées gratuits pour tous ?"
+type: listening
+intro: "Послушай радиодебаты (дважды) и ответь на вопросы."
+hints:
+  - "Различай голоса: кто «за», кто «против», кто ведёт."
+  - "Уступка (je vous l'accorde, oui, mais…) — не согласие."
+  - "Неопределённые слова меняют объём: toutes les études, aucune gratuité, certains visiteurs."
+audio: audio/tts/c-06/debat.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-FR-RemyMultilingualNeural, fr-CA-SylvieNeural", license: "TTS"}
+transcript: |
+  **Animatrice :** Bonsoir à toutes et à tous, et bienvenue dans « Le Grand Débat ». Ce soir, une question qui divise : faut-il rendre les musées gratuits pour tous ? Autour de la table, Paul Lemaire, directeur d'un musée municipal à Lille, qui a supprimé le billet d'entrée il y a deux ans, et Nathalie Gagnon, économiste de la culture à Montréal. Paul Lemaire, pourquoi la gratuité ?
+
+  **Paul Lemaire :** Parce qu'un musée appartient à tout le monde. Ses collections ont été payées par les impôts de chacun ; il me paraît étrange de les faire payer une seconde fois. Et puis, le prix est une barrière invisible. Quiconque a vu une famille hésiter devant la caisse le sait : douze euros par personne, quand on est quatre, c'est une sortie qu'on ne fait pas.
+
+  **Animatrice :** Et les résultats, deux ans après ?
+
+  **Paul Lemaire :** La fréquentation a presque doublé. Mais surtout, ce ne sont plus tout à fait les mêmes visiteurs. Nous voyons arriver des adolescents, des retraités du quartier, des gens qui n'avaient jamais mis les pieds dans aucun musée. Certains viennent vingt minutes, pour un seul tableau, et reviennent la semaine suivante. Une telle liberté est impossible quand on a payé son billet : on se sent obligé de tout voir.
+
+  **Animatrice :** Nathalie Gagnon, vous n'êtes pas convaincue.
+
+  **Nathalie Gagnon :** Je suis convaincue par l'intention, pas par l'outil. Les études menées au Québec comme en Europe montrent toutes la même chose : la gratuité augmente le nombre d'entrées, mais elle change assez peu le profil du public. Ce sont surtout les habitués qui viennent plus souvent. Autrement dit, on offre un cadeau à des gens qui auraient payé de toute façon.
+
+  **Paul Lemaire :** Pas chez nous. Nos enquêtes disent le contraire.
+
+  **Nathalie Gagnon :** Chaque musée a sa réalité, je vous l'accorde. Mais il faut regarder l'ensemble. Le prix n'est pas le seul obstacle, ni même le principal. Beaucoup de gens pensent que l'art « n'est pas pour eux ». Aucune gratuité ne lève à elle seule une telle barrière. Ce qu'il faut, c'est de la médiation : des guides, des ateliers, des partenariats avec les écoles et les associations.
+
+  **Animatrice :** Mais tout cela a un coût.
+
+  **Nathalie Gagnon :** Exactement, et c'est là mon inquiétude. La billetterie représente parfois le quart du budget d'un musée. Si on la supprime, qui paie ? La ville ou l'État, et cet argent manque ailleurs. Je préférerais une gratuité ciblée : pour les jeunes, pour les chômeurs, et pour tout le monde un dimanche par mois.
+
+  **Paul Lemaire :** Le problème des gratuités ciblées, c'est qu'il faut justifier de sa situation. Montrer une carte, un papier… Nul n'aime se présenter comme pauvre devant un guichet. La gratuité totale, elle, ne demande rien à personne. C'est ce qui la rend si simple, et si digne.
+
+  **Nathalie Gagnon :** Digne, oui, mais pas gratuite pour la collectivité. Rien n'est jamais vraiment gratuit : quelqu'un paie toujours.
+
+  **Animatrice :** Un dernier mot, chacun. Paul Lemaire ?
+
+  **Paul Lemaire :** N'importe quel enfant devrait pouvoir entrer dans un musée comme on entre dans une bibliothèque, sans se poser de questions.
+
+  **Animatrice :** Nathalie Gagnon ?
+
+  **Nathalie Gagnon :** La gratuité peut être une bonne idée, à condition de ne pas la prendre pour une politique culturelle à elle seule. Ouvrir les portes ne suffit pas : encore faut-il donner envie d'entrer.
+
+  **Animatrice :** Merci à tous les deux.
+items:
+  - q: "Какой довод за бесплатность Поль Лемер приводит первым?"
+    options: ["Коллекции уже оплачены налогами всех граждан.", "Музей зарабатывает больше на кафе и магазине.", "Билеты в его музее слишком дороги из-за туристов."]
+    answer: 0
+    explain: "*Ses collections ont été payées par les impôts **de chacun** ; il me paraît étrange de les faire payer une seconde fois.* Цена как «невидимый барьер» — второй довод."
+  - q: "Что изменилось в его музее за два года?"
+    options: ["Посетителей стало чуть меньше, но они стали моложе.", "Посещаемость почти удвоилась, и пришла новая публика.", "Посещаемость удвоилась, но публика осталась прежней."]
+    answer: 1
+    explain: "*La fréquentation a presque doublé… ce ne sont plus tout à fait **les mêmes** visiteurs.* Третий вариант — тезис его оппонентки, а не его слова."
+  - q: "Какую свободу, по словам Лемера, даёт бесплатный вход?"
+    options: ["Приходить ненадолго, ради одной картины, и возвращаться.", "Фотографировать в залах.", "Приходить ночью."]
+    answer: 0
+    explain: "*Certains viennent vingt minutes, pour un seul tableau, et reviennent… **Une telle** liberté est impossible quand on a payé son billet.*"
+  - q: "Что, по словам Натали Ганьон, показывают исследования?"
+    options: ["Бесплатность не увеличивает число посещений.", "Посещений больше, но приходят в основном те же постоянные посетители.", "Бесплатность привлекает прежде всего молодёжь."]
+    answer: 1
+    explain: "*la gratuité augmente le nombre d'entrées, mais elle change assez peu le profil du public. Ce sont surtout **les habitués** qui viennent plus souvent.*"
+  - q: "Что для неё главное препятствие?"
+    options: ["цена билета", "ощущение, что искусство «не для них»", "неудобные часы работы"]
+    answer: 1
+    explain: "*Le prix n'est pas le seul obstacle, **ni même le principal**. Beaucoup de gens pensent que l'art « n'est pas pour eux ».* Цена названа, чтобы её отбросить."
+  - q: "Что она предлагает вместо полной бесплатности?"
+    options: ["Снизить цену билета вдвое.", "Бесплатный вход для отдельных групп и для всех — одно воскресенье в месяц.", "Полностью передать музеи государству."]
+    answer: 1
+    explain: "*une gratuité ciblée : pour les jeunes, pour les chômeurs, et **pour tout le monde** un dimanche par mois.*"
+  - q: "Почему Лемер против «адресной» бесплатности?"
+    options: ["Её слишком сложно рассчитать.", "Людям приходится доказывать своё положение, а это унизительно.", "Она слишком дорога для города."]
+    answer: 1
+    explain: "*il faut justifier de sa situation… **Nul** n'aime se présenter comme pauvre devant un guichet. La gratuité totale… ne demande **rien à personne**.*"
+  - q: "Что Натали Ганьон имеет в виду словами «encore faut-il donner envie d'entrer»?"
+    options: ["Бесплатность бессмысленна, от неё надо отказаться.", "Одной бесплатности мало: нужна работа с публикой.", "Музеям нужно больше рекламы на улицах."]
+    answer: 1
+    explain: "*encore faut-il…* — «нужно ещё и…»: она не против бесплатности (*peut être une bonne idée*), но считает её недостаточной без médiation."

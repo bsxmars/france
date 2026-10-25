@@ -1,0 +1,27 @@
+title: "Message : qu'est-ce que j'apporte ?"
+type: writing
+intro: "Ответь другу, который спрашивает, что принести на твой праздник, по плану урока."
+prompt: |
+  Samedi, tu fais une fête chez toi. Ton ami(e) écrit : « Qu'est-ce que j'apporte ? » Tu réponds : combien de personnes viennent ? Qu'est-ce que tu as ? Qu'est-ce que tu n'as pas ? Pose une question avec « combien ».
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "avoir: j'ai, tu as, nous avons"
+  - "de после отрицания: je n'ai pas de…"
+  - "beaucoup de, assez de, peu de, trop de без артикля"
+  - "вопрос с combien de"
+checklist:
+  - "Есть обращение и прощание."
+  - "Сказано, сколько будет гостей."
+  - "Есть хотя бы одно отрицание с de: je n'ai pas de…, il n'y a pas de…"
+  - "После beaucoup / assez / peu / trop — de без артикля, перед гласной d'."
+  - "Есть просьба в повелительном: Apporte…, s'il te plaît."
+  - "Есть вопрос с combien de и правильным порядком слов."
+model_answer: |
+  Salut Léo,
+
+  Merci pour ton message ! Samedi, nous sommes douze. J'ai beaucoup de jus de fruits et assez de chaises, mais je n'ai pas de gâteau et je n'ai pas de musique. Apporte un gâteau et ta guitare, s'il te plaît ! Et toi, combien d'amis viennent avec toi ?
+
+  À samedi,
+  Anna

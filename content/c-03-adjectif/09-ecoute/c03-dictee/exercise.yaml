@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Составные цвета и цвета-существительные (marron, orange) не согласуются."
+  - "Прилагательное в роли наречия (coûter cher) не согласуется."
+items:
+  - audio: audio/tts/c-03/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Elle portait une robe bleu marine et des chaussures marron."]
+    explain: "«На ней было тёмно-синее платье и коричневые туфли». **bleu marine** — составной цвет, неизменяем; **marron** — цвет-существительное («каштан»), тоже неизменяем."
+  - audio: audio/tts/c-03/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["C'est un vieil ami de mon père, un homme des plus généreux."]
+    explain: "«Это старый друг моего отца, чрезвычайно щедрый человек». **vieil** перед гласной; **des plus généreux** — мн. ч. после *des plus*."
+  - audio: audio/tts/c-03/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Ces tableaux coûtent cher, mais ils ne valent pas grand-chose."]
+    explain: "«Эти картины дорого стоят, но мало чего стоят». **coûter cher** — прилагательное в роли наречия, не согласуется."
+  - audio: audio/tts/c-03/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Je crains que le remède ne soit pire que le mal.", "Je crains que le remède soit pire que le mal."]
+    explain: "«Боюсь, что лекарство окажется хуже болезни». **pire** — в абстрактном смысле и в устойчивом выражении; *ne* — «лишнее» (ne explétif) после *craindre que* (можно и без него)."
+  - audio: audio/tts/c-03/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["C'est le matin qu'elle est le plus concentrée."]
+    explain: "«Утром она сосредоточена больше всего». Сравниваются состояния одного человека в разное время — **le plus** неизменяемо."
+  - audio: audio/tts/c-03/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Il n'a pas le moindre doute sur le résultat de l'élection."]
+    explain: "«У него нет ни малейшего сомнения в результате выборов». «Малейший» — **le moindre**, не ~~le plus petit~~."
+  - audio: audio/tts/c-03/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Quelles que soient vos raisons, vous devez prévenir la directrice."]
+    explain: "«Каковы бы ни были ваши причины, вы должны предупредить директрису». **quelles que soient** — *quel* согласуется с подлежащим *raisons* (ж. р., мн. ч.)."
+  - audio: audio/tts/c-03/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Nous avons attendu une demi-heure sous une pluie fine, nu-tête."]
+    explain: "«Мы полчаса прождали под мелким дождём с непокрытой головой». **demi** и **nu** перед существительным через дефис не изменяются: *une demi-heure, nu-tête*."

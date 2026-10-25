@@ -1,0 +1,34 @@
+title: "Tribune : le numérique nous a-t-il fait gagner du temps ?"
+type: writing
+intro: "Напиши авторскую колонку по плану урока."
+prompt: |
+  Le magazine *Regards* ouvre ses colonnes à ses lecteurs sur le thème : « Le numérique devait nous faire gagner du temps. Promesse tenue ? »
+
+  Vous rédigez une tribune dans laquelle vous rappelez ce que l'on promettait il y a une vingtaine d'années, vous donnez votre point de vue argumenté, appuyé sur des exemples, et vous terminez par des recommandations adressées aux lecteurs.
+
+  Напиши **220–300 слов**, с заголовком.
+words: [220, 300]
+target_grammar:
+  - "согласование времён: on promettait que… + conditionnel présent / passé, imparfait, plus-que-parfait в придаточном"
+  - "императив 1-го и 2-го лица мн. ч., отрицательный императив"
+  - "императив с местоимениями: fixons-nous, reprenons-le, n'en abusons pas"
+checklist:
+  - "Есть заголовок, и он выражает мысль, а не тему."
+  - "Во вступлении пересказаны прежние обещания с согласованием времён (хотя бы два conditionnel после глагола в прошедшем)."
+  - "Ясный тезис: обещание выполнено, не выполнено или выполнено частично."
+  - "Два довода с конкретными примерами, есть уступка (certes… mais / il n'en reste pas moins que)."
+  - "В конце — рекомендации в императиве, хотя бы один отрицательный и один с местоимением."
+  - "Регистр — письменный, нейтральный или soutenu, без разговорных сокращений."
+  - "Есть финальная формула, которая возвращает к заголовку."
+model_answer: |
+  Le temps promis, le temps perdu
+
+  Il y a vingt ans, on nous assurait que le numérique nous ferait gagner un temps précieux. Les courriels remplaceraient les lettres, les réunions se tiendraient à distance, et nous pourrions enfin consacrer nos soirées à nos proches. Force est de constater que cette promesse n'a pas été tenue.
+
+  Certes, certaines démarches sont devenues bien plus rapides. Autrefois, il fallait faire la queue au guichet de la banque ; aujourd'hui, un virement prend dix secondes. Mais le temps que nous avons gagné d'un côté, nous l'avons aussitôt perdu de l'autre. Selon une enquête récente, les salariés consultent leur messagerie plus de cinquante fois par jour. Qui aurait imaginé, en 2005, que nous répondrions à des messages professionnels le dimanche soir ?
+
+  Le problème ne vient pas des outils eux-mêmes, mais de l'usage que nous en faisons. Puisque tout est possible à tout moment, tout semble urgent. Plusieurs de mes collègues m'ont avoué qu'ils se sentaient coupables lorsqu'ils n'avaient pas répondu dans l'heure, et que, le soir, ils vérifiaient leur téléphone avant de s'endormir.
+
+  Que faire, alors ? Ne jetons pas nos téléphones : ce serait aussi naïf que les promesses d'hier. En revanche, fixons-nous des règles. Désactivez les notifications dont vous n'avez pas besoin. Ne lisez pas vos courriels avant le petit-déjeuner. Et vous, chefs d'entreprise, respectez le droit à la déconnexion : n'envoyez rien après vingt heures, ou programmez vos messages pour le lendemain matin.
+
+  Le numérique ne nous rendra pas le temps de lui-même. Ce temps, reprenons-le.

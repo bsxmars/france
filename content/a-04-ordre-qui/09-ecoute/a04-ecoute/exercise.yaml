@@ -1,0 +1,44 @@
+title: "Qui fait quoi ?"
+type: listening
+intro: "Послушай разговор о семье и ответь на вопросы."
+hints:
+  - "На вопрос qui… ? ответ звучит в начале следующей реплики."
+  - "Тот, кто стоит перед глаголом, и есть действующее лицо."
+audio: audio/tts/a-04/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural, fr-FR-EloiseNeural", license: "TTS"}
+transcript: |
+  — Paul, qui lit ce livre ? Il est sur la table.
+  — C'est le livre de Léa. Elle lit le soir.
+  — Et ces cahiers ? Qui écrit dans ces cahiers ?
+  — Les enfants. Ils écrivent les exercices de grammaire.
+  — Et qui fait la cuisine ce soir ?
+  — Hugo fait la salade, et les filles font le café.
+  — Et Anna ? Elle reste à la maison ?
+  — Non, Anna part ce soir. Elle quitte Paris : elle prend le train pour Marseille.
+  — Qui habite Marseille ?
+  — Sa sœur Claire. Elle travaille à la mairie.
+items:
+  - q: "Чья книга на столе?"
+    options: ["Поля", "Леи", "Анны"]
+    answer: 1
+    explain: "*C'est le livre de Léa. Elle lit le soir.*"
+  - q: "Что пишут дети в тетрадях?"
+    options: ["диктант", "письма", "упражнения по грамматике"]
+    answer: 2
+    explain: "*Ils écrivent les exercices de grammaire.* — *écrivent* [e-kriv]: мн. ч. слышно по [v]."
+  - q: "Кто готовит салат?"
+    options: ["Хьюго", "девочки", "Анна"]
+    answer: 0
+    explain: "*Hugo fait la salade, et les filles font le café.* — девочки варят кофе."
+  - q: "Что делает Анна сегодня вечером?"
+    options: ["остаётся дома", "уезжает в Марсель на поезде", "уезжает из Марселя в Париж"]
+    answer: 1
+    explain: "*Anna part ce soir. Elle quitte Paris : elle prend le train pour Marseille.* — *quitter Paris* «уезжать из Парижа»."
+  - q: "Кто живёт в Марселе?"
+    options: ["Лея", "Поль", "сестра Анны"]
+    answer: 2
+    explain: "*Qui habite Marseille ? — Sa sœur Claire.* — *sa* здесь «её», сестра Анны."
+  - q: "Где работает Клер?"
+    options: ["в школе", "в мэрии", "на вокзале"]
+    answer: 1
+    explain: "*Elle travaille à la mairie.*"

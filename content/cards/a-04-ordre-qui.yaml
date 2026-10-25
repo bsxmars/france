@@ -26,3 +26,23 @@
   lesson: a-04-ordre-qui/01-grammaire
   q: "Вопрос к подлежащему: *Les élèves lisent le texte.*"
   a: "***Qui lit** le texte ?* — *qui* + глагол в 3-м лице **ед. ч.**"
+- id: a04-faire-cuisine
+  lesson: a-04-ordre-qui/07-lecture
+  q: "«Кто готовит? — Папа»."
+  a: "***Qui fait** la cuisine ? — Papa !* — *faire la cuisine* «готовить еду»; после *qui* — ед. ч."
+- id: a04-quitter-ville
+  lesson: a-04-ordre-qui/07-lecture
+  q: "«Сегодня вечером они уезжают из Марселя»."
+  a: "*Ce soir, ils **quittent Marseille**.* — без предлога и без артикля."
+- id: a04-lit-lisent-oral
+  lesson: a-04-ordre-qui/09-ecoute
+  q: "Как на слух отличить *il lit* от *ils lisent*, *elle écrit* от *elles écrivent*?"
+  a: "По согласному на конце: [li] — [liz], [e-kri] — [e-kriv]. У III группы мн. ч. слышно."
+- id: a04-train-pour
+  lesson: a-04-ordre-qui/09-ecoute
+  q: "«Она садится на поезд в Марсель»."
+  a: "*Elle **prend** le train **pour** Marseille.* — *prendre le train* «ехать поездом»."
+- id: a04-qui-habite
+  lesson: a-04-ordre-qui/08-ecriture
+  q: "«Кто живёт с тобой?»"
+  a: "***Qui habite** avec toi ?* — *qui* + глагол в 3-м лице ед. ч."

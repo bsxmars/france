@@ -126,3 +126,31 @@
   lesson: b-07-discours-pronoms/04-grammaire
   q: "«Покажите нам их» / «Не показывайте нам их»."
   a: "*Montrez-**les-nous**.* — *Ne **nous les** montrez pas.*"
+- id: b07-se-heurter
+  lesson: b-07-discours-pronoms/07-lecture
+  q: "«Возвращение в офис наталкивается на сопротивление сотрудников»."
+  a: "Le retour au bureau **se heurte à** la résistance des salariés."
+- id: b07-ecran-interpose
+  lesson: b-07-discours-pronoms/07-lecture
+  q: "«Ремесло им через экран не передашь» (le métier, aux jeunes)."
+  a: "*On ne peut pas **le leur** transmettre **par écran interposé**.*"
+- id: b07-chiffres-en
+  lesson: b-07-discours-pronoms/07-lecture
+  q: "«Цифр нам так никто и не показал»."
+  a: "*Des chiffres, on ne **nous en** a jamais montré.* — *en* = des chiffres."
+- id: b07-lettre-promis
+  lesson: b-07-discours-pronoms/08-ecriture
+  q: "В письме директору: «Вы объявили, что решение будет принято в декабре, — как вы нам и обещали»."
+  a: "*Vous nous avez annoncé que la décision **serait prise** en décembre, comme vous **nous l'aviez promis**.*"
+- id: b07-fourchette
+  lesson: b-07-discours-pronoms/09-ecoute
+  q: "«Назовите реалистичную вилку зарплаты — и не слишком низкую»."
+  a: "*Donnez une **fourchette** réaliste — et ne **la lui** donnez pas trop basse.*"
+- id: b07-relancer
+  lesson: b-07-discours-pronoms/09-ecoute
+  q: "«Напомнить о себе после собеседования»."
+  a: "**relancer** (un recruteur, une entreprise) — *Après l'entretien, il faut relancer, mais poliment.*"
+- id: b07-journee-type
+  lesson: b-07-discours-pronoms/09-ecoute
+  q: "«Как проходит обычный рабочий день в команде?»"
+  a: "*Comment se passe **une journée type** dans l'équipe ?*"

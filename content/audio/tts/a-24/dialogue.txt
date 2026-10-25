@@ -1,0 +1,19 @@
+# rate: -5%
+# pause: 700
+F: Bonjour madame, je peux vous aider ?
+C: Bonjour. Je cherche un vélo pour aller au travail. J'habite à six kilomètres du bureau.
+F: Alors, regardez ces deux modèles. Le vert est un vélo de ville, le noir est un vélo électrique.
+C: Le noir est plus joli, mais il est plus lourd, non ?
+F: Oui, il est plus lourd : il pèse vingt-deux kilos. Le vert pèse seulement quatorze kilos. Mais avec son moteur, le noir est plus rapide et beaucoup moins fatigant.
+C: Et les prix ?
+F: Le vert coûte quatre cents euros. Le noir est trois fois plus cher : mille deux cents euros.
+C: Mille deux cents euros ! C'est le vélo le plus cher du magasin ?
+F: Non, le rouge, là-bas, est encore plus cher. Mais pour vous, le noir est le meilleur choix. Il y a des côtes dans votre quartier ?
+C: Oh oui, j'habite en haut de la colline. Mon mari, lui, monte à pied tous les jours, mais moi, je suis beaucoup moins sportive que lui !
+F: Alors, croyez-moi, avec le vert, cette colline sera votre pire ennemie !
+C: Ha ha ! Et pour mes enfants ? Ils ont dix et douze ans.
+F: Pour eux, nous avons de petits vélos très solides, à deux cents euros.
+C: Bon. Je vais réfléchir. Je reviens samedi avec mon mari : c'est lui qui fait les comptes à la maison !
+F: Pas de problème, samedi, c'est moi qui suis au magasin toute la journée. Mais attention : les vélos électriques sont en promotion jusqu'à vendredi seulement. Samedi, ils seront plus chers.
+C: Ah bon ? Alors je reviens jeudi soir, avec lui.
+F: Parfait. À jeudi, madame !

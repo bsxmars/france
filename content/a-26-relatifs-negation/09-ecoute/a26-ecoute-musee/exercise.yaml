@@ -1,0 +1,41 @@
+title: "Annonce : les règles du musée"
+type: listening
+intro: "Объявление в музее. Прочитай вопросы заранее, послушай и ответь."
+hints:
+  - "on ne… rien — ничего; ne… jamais — никогда; personne ne… — никто."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/a-26/musee.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  Mesdames et messieurs, bienvenue au musée d'Art et d'Histoire. Avant votre visite, voici quelques règles.
+
+  Dans les salles, on ne mange rien et on ne boit rien : le café est au rez-de-chaussée. Les photos sont permises, mais sans flash. Ne touchez jamais les tableaux, et ne mettez pas vos sacs sur les bancs : le vestiaire est gratuit, à gauche de l'entrée.
+
+  Les enfants qui ont moins de douze ans visitent le musée avec un adulte.
+
+  Attention : la salle numéro sept, qui présente les dessins de la collection suisse, est fermée aujourd'hui. Personne ne peut y entrer avant lundi.
+
+  Le musée ferme à dix-huit heures. Bonne visite !
+items:
+  - q: "Что можно делать в залах?"
+    options: ["есть и пить", "фотографировать без вспышки", "оставлять сумки на скамейках"]
+    answer: 1
+    explain: "*Les photos sont **permises**, mais sans flash.* Есть и пить нельзя: *on ne mange rien et on ne boit rien*."
+  - q: "Где оставить сумку?"
+    options: ["в бесплатном гардеробе слева от входа", "в кафе на первом этаже", "на скамейке в зале"]
+    answer: 0
+    explain: "*ne mettez pas vos sacs sur les bancs : le vestiaire est gratuit, à gauche de l'entrée.*"
+  - q: "Кто должен приходить со взрослым?"
+    options: ["все дети", "дети младше двенадцати лет", "группы школьников"]
+    answer: 1
+    explain: "*Les enfants **qui** ont moins de douze ans visitent le musée avec un adulte.*"
+  - q: "Aujourd'hui, la salle numéro ___ est fermée."
+    answers: ["sept", "7"]
+    explain: "*la salle numéro sept, qui présente les dessins… est fermée aujourd'hui.*"
+  - q: "Когда в этот зал снова можно будет войти?"
+    options: ["сегодня после обеда", "в понедельник", "никогда"]
+    answer: 1
+    explain: "*Personne ne peut y entrer **avant lundi**.* — до понедельника — никто."
+  - q: "Le musée ferme à ___ heures."
+    answers: ["dix-huit", "18", "dix huit"]
+    explain: "*Le musée ferme à dix-huit heures.*"

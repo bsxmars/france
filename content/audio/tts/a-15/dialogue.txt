@@ -1,0 +1,16 @@
+# rate: -15%
+# pause: 800
+B: Bonjour, madame. Vous désirez ?
+G: Bonjour, monsieur. Avez-vous des fraises ?
+B: Non, je n'ai pas de fraises aujourd'hui. Mais j'ai beaucoup de pommes et de poires.
+G: Alors, six pommes, s'il vous plaît.
+B: Six pommes… Voilà. Et avec ça ?
+G: Vous avez des œufs ?
+B: Oui. Combien d'œufs ?
+G: Douze, s'il vous plaît. Et un fromage de chèvre.
+B: Ah, désolé, il n'y a pas de fromage de chèvre ce matin. J'ai un camembert.
+G: Non merci, ça va. C'est combien ?
+B: Alors, les pommes, les œufs… Ça fait sept euros cinquante.
+G: Voilà dix euros.
+B: Merci. Et voilà deux euros cinquante. Bonne journée, madame !
+G: Merci, au revoir !

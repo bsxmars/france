@@ -1,0 +1,55 @@
+title: "Aux objets trouvés"
+type: listening
+intro: "Послушай разговор в бюро находок (дважды) и ответь на вопросы."
+hints:
+  - "ni… ni… — ни… ни…: перечисляет то, чего нет."
+  - "Personne n'a… — никто не…"
+audio: audio/tts/a-26/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural, fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  — Bonjour madame. J'ai perdu mon sac à dos hier soir, dans le bus numéro douze.
+  — Bonjour monsieur. Un sac à dos… Il est comment ?
+  — C'est un sac bleu que j'ai acheté le mois dernier. Il y a un petit chat blanc dessus.
+  — Et qu'est-ce qu'il y avait dedans ?
+  — Mon ordinateur, un livre et un pull gris.
+  — Pas de clés ? Pas de portefeuille ?
+  — Non, ni mes clés ni mon portefeuille. Heureusement, je les mets toujours dans ma poche.
+  — Bon. Hier, personne n'a rapporté de sac bleu. Mais attendez, je regarde les objets qui sont arrivés ce matin… Non, je ne vois rien. Il y a un sac noir et une valise, c'est tout.
+  — Oh non… Je ne retrouverai jamais mon ordinateur !
+  — Ne perdez pas espoir, monsieur. Les sacs qu'on trouve dans les bus n'arrivent pas tout de suite. Le chauffeur les remet au dépôt, et le dépôt nous les transmet le jeudi.
+  — Le jeudi ? Alors je reviens jeudi ?
+  — Non, vous n'avez pas besoin de revenir. Vous permettez ? Je note votre nom et votre numéro, et nous vous appelons.
+  — Bien sûr. Martin, Paul Martin. Zéro six, douze, quarante-cinq, quatre-vingt-sept, trente.
+  — Merci. Une dernière question : l'ordinateur, il est à vous ou à votre entreprise ?
+  — À mon entreprise. Et mon chef ne sait encore rien !
+  — Alors, je vous promets de vous appeler jeudi matin, dès l'ouverture.
+  — Merci beaucoup, madame. Vous êtes très gentille.
+items:
+  - q: "Где и когда Поль потерял рюкзак?"
+    options: ["вчера вечером в автобусе № 12", "сегодня утром в метро", "вчера в офисе"]
+    answer: 0
+    explain: "*J'ai perdu mon sac à dos hier soir, dans le bus numéro douze.*"
+  - q: "Как выглядит рюкзак?"
+    options: ["чёрный, совсем новый", "синий, с белым котом", "серый, с ключами на ремне"]
+    answer: 1
+    explain: "*C'est un sac bleu **que** j'ai acheté le mois dernier. Il y a un petit chat blanc dessus.* Чёрная сумка — среди находок, серый — свитер."
+  - q: "Что было в рюкзаке?"
+    options: ["компьютер, книга и свитер", "ключи и кошелёк", "компьютер и кошелёк"]
+    answer: 0
+    explain: "*Mon ordinateur, un livre et un pull gris.* Ключей и кошелька не было: ***ni** mes clés **ni** mon portefeuille*."
+  - q: "Что служащая нашла среди утренних находок?"
+    options: ["синий рюкзак", "ничего подходящего: только чёрную сумку и чемодан", "компьютер без рюкзака"]
+    answer: 1
+    explain: "*Non, je **ne** vois **rien**. Il y a un sac noir et une valise, c'est tout.*"
+  - q: "Когда вещи из автобусов попадают в бюро находок?"
+    options: ["сразу, в тот же вечер", "по четвергам", "через неделю"]
+    answer: 1
+    explain: "*Le chauffeur les remet au dépôt, et le dépôt nous les **transmet** le jeudi.*"
+  - q: "Нужно ли Полю приходить снова?"
+    options: ["Да, в четверг.", "Нет, ему позвонят.", "Да, вместе с начальником."]
+    answer: 1
+    explain: "*Non, vous n'avez pas besoin de revenir… nous vous appelons.*"
+  - q: "Что обещает служащая?"
+    options: ["позвонить в четверг утром, сразу после открытия", "отправить рюкзак на работу Полю", "позвонить его начальнику"]
+    answer: 0
+    explain: "*je vous **promets de** vous appeler jeudi matin, dès l'ouverture.* *promettre de* + инфинитив."

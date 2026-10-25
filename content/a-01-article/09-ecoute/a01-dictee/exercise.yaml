@@ -1,0 +1,53 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком (или выбери вариант). Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "Артикль звучит слитно со словом: [la-tabl], [lə-ka-fe]."
+  - "Перед гласной — l' и связывание: l'école, les amis [le-za-mi]."
+items:
+  - audio: audio/tts/a-01/la.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Какой артикль прозвучал?"
+    options: ["le", "la", "les"]
+    answer: 1
+    explain: "**la table** [la-tabl] — чистое открытое [a]. *table* женского рода."
+  - audio: audio/tts/a-01/le.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Какой артикль прозвучал?"
+    options: ["le", "la", "les"]
+    answer: 0
+    explain: "**le café** [lə-ka-fe] — краткий неясный звук [ə], не [a]."
+  - audio: audio/tts/a-01/les.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Какой артикль прозвучал?"
+    options: ["l'", "la", "les"]
+    answer: 2
+    explain: "**les amis** [le-za-mi] — «друзья»: [e] и связывание [z] перед гласной. *l'ami* звучало бы [la-mi]."
+  - audio: audio/tts/a-01/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Léa cherche sa tasse."]
+    explain: "«Лея ищет свою чашку». Перед именем артикля нет, *sa* заменяет артикль."
+  - audio: audio/tts/a-01/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Le café est chaud."]
+    explain: "«Кофе горячий». Без связки *est* фразы нет."
+  - audio: audio/tts/a-01/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["La voiture est petite."]
+    explain: "«Машина маленькая». *voiture* женского рода: *la* и *petite* — с *-e*, и [t] звучит."
+  - audio: audio/tts/a-01/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Paul va à la gare."]
+    explain: "«Поль идёт на вокзал». Прямой порядок: *Paul* → *va* → *à la gare*."
+  - audio: audio/tatoeba/473968.mp3
+    audio_source: {title: "Tatoeba #6463069", url: "https://tatoeba.org/fr/sentences/show/6463069", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["La bière est bonne."]
+    explain: "«Пиво вкусное». *la bière* — женского рода; *bon* → *bonne*, как *petit* → *petite*."
+  - audio: audio/tatoeba/472093.mp3
+    audio_source: {title: "Tatoeba #1446969", url: "https://tatoeba.org/fr/sentences/show/1446969", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Elle parle aussi le français."]
+    explain: "«Она говорит и по-французски». *elle* — «она», *aussi* — «тоже, и»; язык — с артиклем *le*."
+  - audio: audio/tatoeba/474311.mp3
+    audio_source: {title: "Tatoeba #421775", url: "https://tatoeba.org/fr/sentences/show/421775", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["La télé est allumée."]
+    explain: "«Телевизор включён». *la télé* — женского рода, поэтому и *allumée* с *-e* (на слух не слышно)."

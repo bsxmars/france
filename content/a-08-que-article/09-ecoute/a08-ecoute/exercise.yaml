@@ -1,0 +1,43 @@
+title: "Le journal de l'école"
+type: listening
+intro: "Послушай разговор и ответь на вопросы."
+hints:
+  - "Ответ на вопрос «что?» звучит сразу после qu'est-ce que…"
+  - "du, des — «чей?»: le cahier du professeur, la table des élèves."
+audio: audio/tts/a-08/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural, fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  — Salut, Thomas ! Qu'est-ce que tu cherches ?
+  — Je cherche le cahier du professeur de français. Il est dans la classe ?
+  — Non, il est sur la table des élèves, près de la fenêtre.
+  — Merci ! Et toi, que fais-tu ici ?
+  — Je regarde les photos des élèves. C'est pour le journal de l'école.
+  — Ah, tu écris pour le journal ! Qu'est-ce que tu écris ?
+  — Un texte sur Madame Garnier, la prof de musique.
+  — Elle est belge, comme toi ?
+  — Non, elle est suisse. Elle est pianiste. Et elle est une pianiste très sérieuse !
+  — Et qu'est-ce qu'elle joue ?
+  — Elle joue du Chopin. C'est très beau !
+  — Bon, je cherche le cahier. À bientôt, Inès !
+  — À bientôt, Thomas !
+items:
+  - q: "Что ищет Тома?"
+    options: ["тетрадь преподавателя французского", "фотографии учеников", "школьную газету"]
+    answer: 0
+    explain: "*Je cherche le cahier **du** professeur de français.* Фотографии смотрит Инес."
+  - q: "Где тетрадь?"
+    options: ["в классе, на стуле", "на столе учеников, у окна", "у мадам Гарнье"]
+    answer: 1
+    explain: "*Non, il est sur la table **des** élèves, près de la fenêtre.* — «нет» отвечает на вопрос «в классе?»."
+  - q: "Что делает Инес?"
+    options: ["ищет учительницу музыки", "смотрит фотографии для школьной газеты", "играет на пианино"]
+    answer: 1
+    explain: "*Je regarde les photos des élèves. C'est pour le journal de l'école.*"
+  - q: "Кто по национальности мадам Гарнье?"
+    options: ["бельгийка", "француженка", "швейцарка"]
+    answer: 2
+    explain: "*Elle est belge, comme toi ? — Non, elle est suisse.* Бельгийка — сама Инес."
+  - q: "Что известно о мадам Гарнье?"
+    options: ["Она очень серьёзная пианистка и играет Шопена.", "Она молодая актриса.", "Она пишет для газеты."]
+    answer: 0
+    explain: "*Elle est pianiste* — профессия без артикля; *elle est **une** pianiste très sérieuse* — с прилагательным артикль. *Elle joue du Chopin.*"

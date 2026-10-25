@@ -98,3 +98,27 @@
   lesson: b-05-passif-subjonctif/03-grammaire
   q: "*Soit que… soit que…* и *quel que soit* — что значат и чего требуют?"
   a: "*soit que… soit que…* + subj. — «то ли…, то ли…» (причины); *quel(le)(s) que soit / soient* + сущ. — «каким бы ни был»: *quels que soient vos résultats*."
+- id: b05-arret-maladie
+  lesson: b-05-passif-subjonctif/07-lecture
+  q: "«Больничных стало вдвое меньше» (пассив)."
+  a: "*Les **arrêts maladie** ont été **divisés par deux**.*"
+- id: b05-deux-vitesses
+  lesson: b-05-passif-subjonctif/07-lecture
+  q: "«Социологи опасаются, что возникнет общество двух скоростей»."
+  a: "*Les sociologues **craignent qu'**une société **à deux vitesses** ne se **crée**.* — *craindre que* + subjonctif."
+- id: b05-certitude-doute
+  lesson: b-05-passif-subjonctif/08-ecriture
+  q: "«Очевидно, что нужно действовать» / «Сомневаюсь, что этого достаточно»."
+  a: "*Il est évident qu'il **faut** agir* (indicatif) / *Je doute que cela **suffise*** (subjonctif)."
+- id: b05-tenir-promesses
+  lesson: b-05-passif-subjonctif/09-ecoute
+  q: "«Оправдала ли бесплатность ожидания?» (с инверсией)."
+  a: "*La gratuité **a-t-elle tenu ses promesses** ?*"
+- id: b05-contribuable
+  lesson: b-05-passif-subjonctif/09-ecoute
+  q: "«Налогоплательщики», «местные налоги»."
+  a: "**les contribuables**, **les impôts locaux**."
+- id: b05-consultation
+  lesson: b-05-passif-subjonctif/09-ecoute
+  q: "«Неважно, за вы или против, приходите на публичное обсуждение»."
+  a: "***Que vous soyez** pour ou contre, venez à la **consultation citoyenne**.*"

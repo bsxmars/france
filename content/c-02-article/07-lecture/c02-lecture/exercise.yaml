@@ -1,0 +1,64 @@
+title: "Le pain, dernier luxe ordinaire ?"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Спрашивай себя, зачем автор приводит цифру или пример."
+text: |
+  ## Le pain, dernier luxe ordinaire ?
+
+  *Inscrite au patrimoine immatériel de l'humanité en 2022, la baguette reste le symbole d'une France attablée. Mais la France mange de moins en moins de pain — et de plus en plus de pain industriel.*
+
+  Le pain est en France bien plus qu'un aliment : c'est un rituel. On achète « une baguette bien cuite » en rentrant du travail, on en garde un morceau pour la soupe du soir, on la rompt à table sans couteau. Lorsque l'UNESCO a inscrit en 2022 le savoir-faire artisanal de la baguette au patrimoine culturel immatériel, bien des Français ont souri : fallait-il vraiment un comité international pour leur dire ce qu'ils savaient déjà ?
+
+  Pourtant, les chiffres racontent une autre histoire. Au début du XXe siècle, un Français mangeait près de neuf cents grammes de pain par jour ; il en consomme aujourd'hui moins de cent cinquante. La plupart des jeunes urbains ne prennent plus de pain au petit déjeuner, et beaucoup de familles le remplacent par des céréales ou des biscottes. Le pain n'a pas disparu, mais il a changé de statut : d'aliment de base, il est devenu un accompagnement, voire un plaisir occasionnel.
+
+  Le paysage des boulangeries s'est transformé lui aussi. Dans les villages, des milliers de boutiques ont fermé, faute de repreneurs ou de clients. À leur place se sont installés des dépôts de pain, des distributeurs automatiques et des rayons de supermarché où l'on trouve du pain à toute heure — souvent cuit à partir de pâte surgelée. Ce n'est pas un hasard si le mot « artisanal » est devenu un argument de vente : il désigne précisément ce qui se fait rare.
+
+  Car il y a pain et pain. D'un côté, un produit standardisé, sans goût particulier, qui durcit en quelques heures. De l'autre, un pain au levain, pétri avec patience, qui se garde plusieurs jours et dont la croûte craque sous les doigts. Entre les deux, il n'y a pas seulement une différence de prix, mais une différence de rapport au temps. Faire du bon pain demande de la patience, du savoir-faire et des nuits de travail que de moins en moins de jeunes sont prêts à accepter. Être boulanger, c'est se lever à trois heures du matin six jours sur sept.
+
+  Faut-il y voir le déclin d'une tradition ? Le tableau est plus nuancé. Depuis une quinzaine d'années, une nouvelle génération d'artisans redonne du prestige au métier. Souvent issus d'autres professions — ingénieurs, juristes, graphistes —, ils ouvrent des boulangeries où l'on vend de grandes miches de seigle, des pains aux graines, des farines anciennes. Leur clientèle est exigeante et prête à payer le prix. Le pain y retrouve une valeur, mais aussi une étiquette : celle d'un produit de luxe, réservé aux quartiers aisés.
+
+  C'est là tout le paradoxe. La baguette du XIXe siècle était le pain du peuple, celui que l'on mangeait faute d'autre chose. Le pain de qualité d'aujourd'hui risque de devenir celui d'une minorité, tandis que la majorité se contente d'un pain industriel bon marché. On célèbre le Paris des boulangeries de quartier, mais on vit de plus en plus dans la France des zones commerciales.
+
+  Sauver le pain, ce n'est donc pas seulement protéger un savoir-faire par une inscription prestigieuse. C'est se demander à qui il est destiné. Un pain excellent que peu de gens peuvent s'offrir n'est plus tout à fait un patrimoine commun : c'est un luxe. Et un luxe, même ordinaire, n'a jamais nourri un pays.
+items:
+  - q: "Как многие французы встретили решение ЮНЕСКО?"
+    options: ["С улыбкой: им это казалось очевидным.", "С протестом против вмешательства ЮНЕСКО.", "С гордостью и праздниками в булочных."]
+    answer: 0
+    explain: "*bien des Français ont souri : fallait-il vraiment un comité international pour leur dire ce qu'ils savaient déjà ?* — ирония, а не протест."
+  - q: "Зачем автор приводит цифры 900 и 150 граммов?"
+    options: ["Чтобы показать, что хлеб подорожал.", "Чтобы опровергнуть образ Франции, где хлеб по-прежнему в центре стола.", "Чтобы сравнить Францию с другими странами."]
+    answer: 1
+    explain: "*Pourtant, les chiffres racontent une autre histoire* — цифры противопоставлены «ритуалу» из первого абзаца."
+  - q: "Vrai / faux / on ne sait pas: большинство молодых горожан больше не едят хлеб на завтрак."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 0
+    explain: "*La plupart des jeunes urbains ne prennent plus de pain au petit déjeuner* — верно. Обрати внимание: ***la plupart des*** (с артиклем) и ***plus de pain*** (после отрицания)."
+  - q: "Почему слово «artisanal» стало рекламным аргументом?"
+    options: ["Его требует закон.", "Ремесленный хлеб стал редкостью.", "Супермаркеты продают только ремесленный хлеб."]
+    answer: 1
+    explain: "*il désigne précisément ce qui se fait rare* — ценится то, чего стало мало."
+  - q: "Что значит «il y a pain et pain» ?"
+    options: ["Хлеба много, и он везде одинаковый.", "Хлеб бывает очень разным по качеству.", "Хлеб надо покупать дважды в день."]
+    answer: 1
+    explain: "Оборот *il y a X et X* без артикля — «X бывает разный». Дальше — контраст *d'un côté… de l'autre*."
+  - q: "В чём, по автору, главная разница между двумя видами хлеба?"
+    options: ["только в цене", "в отношении ко времени", "в форме и размере"]
+    answer: 1
+    explain: "*il n'y a pas seulement une différence de prix, mais une différence de rapport au temps* — закваска, терпение, ночная работа."
+  - q: "Кто такие «новые пекари»?"
+    options: ["Дети старых пекарей.", "Люди, пришедшие из других профессий.", "Работники супермаркетов."]
+    answer: 1
+    explain: "*Souvent issus d'autres professions — ingénieurs, juristes, graphistes*. Профессии в перечислении — без артикля."
+  - q: "Что подразумевает фраза «On célèbre le Paris des boulangeries de quartier, mais on vit de plus en plus dans la France des zones commerciales» ?"
+    options: ["Парижские булочные лучше провинциальных.", "Образ, которым гордятся, всё меньше совпадает с повседневной жизнью.", "Торговые центры скоро исчезнут."]
+    answer: 1
+    explain: "Имя собственное с определением и артиклем (*le Paris des…, la France des…*) обозначает «грань» реальности: одна — для праздников, другая — для жизни."
+  - q: "Какова позиция автора в конце статьи?"
+    options: ["Хлеб надо защищать надписями и статусом наследия.", "Защита хлеба — это вопрос его доступности для всех.", "Промышленный хлеб не хуже ремесленного."]
+    answer: 1
+    explain: "*Sauver le pain, ce n'est donc pas seulement protéger un savoir-faire… C'est se demander à qui il est destiné.*"
+  - q: "Впиши слово из текста: ils ouvrent des boulangeries où l'on vend ___ grandes miches de seigle."
+    answers: ["de"]
+    explain: "Прилагательное **перед** существительным во мн. ч.: *des* → **de** (*de grandes miches*) — в письменной норме."

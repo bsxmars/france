@@ -1,0 +1,34 @@
+title: "Essai : faut-il rendre le vote obligatoire ?"
+type: writing
+intro: "Напиши essai argumenté по плану урока."
+prompt: |
+  Après une élection marquée par une abstention record, le quotidien *L'Écho citoyen* lance un débat : « Faut-il rendre le vote obligatoire, comme en Belgique ? »
+
+  Vous rédigez un essai argumenté pour la rubrique « Opinions ». Vous examinez les arguments en faveur de l'obligation, vous exposez vos réserves et vous proposez d'autres pistes pour lutter contre l'abstention.
+
+  Напиши **220–300 слов**, с заголовком.
+words: [220, 300]
+target_grammar:
+  - "subjonctif после мнения в отрицании и сомнения: je ne crois pas que, je doute que"
+  - "subjonctif после оценки и воли: il est normal que, il serait dommage que, il faudrait que, certains proposent que"
+  - "союзы с subjonctif: bien que, pour que, sans que, à condition que, avant que (ne); quoi que"
+checklist:
+  - "Вступление: повод, чужое предложение и твоя позиция с уступкой bien que / quoique."
+  - "Честно изложен довод сторонников обязательного голосования, с примером."
+  - "Хотя бы два разных выражения сомнения или оценки + subjonctif."
+  - "Хотя бы три союза с subjonctif (pour que, sans que, avant que, à condition que…)."
+  - "После je pense que / il est certain que — indicatif, а не subjonctif."
+  - "Есть альтернативные предложения и короткий вывод."
+  - "Регистр — письменный, без разговорных оборотов."
+model_answer: |
+  Voter : un devoir qu'il faudrait imposer ?
+
+  Lors des dernières élections locales, moins d'un électeur sur deux s'est déplacé. Face à cette abstention record, certains proposent que le vote devienne obligatoire, comme en Belgique ou en Australie. Bien que l'idée soit séduisante, je ne crois pas qu'elle suffise à réconcilier les citoyens avec la politique.
+
+  Il faut reconnaître que l'obligation a des avantages. Dans les pays où elle existe, la participation avoisine souvent les quatre-vingt-dix pour cent, si bien que les élus représentent réellement toute la population, et pas seulement ceux qui ont l'habitude de voter. Il est d'ailleurs normal qu'un droit conquis de haute lutte s'accompagne de quelques devoirs.
+
+  Pourtant, il ne suffit pas qu'un électeur entre dans l'isoloir pour qu'il fasse un choix réfléchi. Forcer quelqu'un à voter sans qu'il se soit informé, c'est risquer des votes au hasard ou des bulletins blancs en masse. Je doute aussi que la menace d'une amende rende la démocratie plus vivante : l'abstention est souvent un message, et il serait dommage qu'on le fasse taire au lieu de l'écouter.
+
+  Quoi qu'on pense de l'obligation, le vrai problème est ailleurs. Pour que les citoyens retournent aux urnes, il faudrait que la politique leur paraisse de nouveau utile : que les candidats tiennent leurs promesses, que les débats portent sur la vie quotidienne, que l'éducation civique commence dès l'école primaire.
+
+  En définitive, rendre le vote obligatoire ne serait qu'un pansement sur une plaie profonde. Avant qu'on ne punisse les abstentionnistes, il faudrait se demander pourquoi ils se taisent.

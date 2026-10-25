@@ -1,0 +1,26 @@
+title: "Carte postale : ma ville natale"
+type: writing
+intro: "Напиши открытку другу из родного города по плану урока."
+prompt: |
+  Tu es dans ta ville natale. Tu écris une carte postale à ton ami(e) : la ville, la maison, la famille (comment ils sont ?), l'heure.
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "женский род и мн. ч. прилагательных: petite, sérieuse, grises"
+  - "место прилагательного: une maison bleue, но une petite maison"
+  - "время: Il est dix heures. à six heures"
+checklist:
+  - "Есть обращение и прощание."
+  - "Прилагательные согласованы в роде и числе: ma maison est petite, mes sœurs sont sérieuses."
+  - "Цвет и характер — после существительного: une maison bleue, un frère sérieux."
+  - "petit, grand, beau, vieux, jeune — перед существительным: une belle ville, un vieux monsieur."
+  - "Есть время с il est или à: Il est dix heures. Le train part à six heures."
+  - "После чисел больше одного — heures с -s; после une — heure."
+model_answer: |
+  Chère Léa,
+
+  Je suis à Nice, dans ma ville natale. C'est une belle ville. Ma maison est petite, mais claire. Ma sœur cadette est sérieuse, et mon frère aîné est paresseux ! Il est dix heures du soir, et je suis heureuse. Le train part à six heures.
+
+  Bisous,
+  Anna

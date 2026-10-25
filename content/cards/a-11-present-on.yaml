@@ -26,3 +26,23 @@
   lesson: a-11-present-on/01-grammaire
   q: "Три способа спросить «Вы слушаете?»"
   a: "Интонация: *Vous écoutez ?* — *Est-ce que vous écoutez ?* — инверсия: *Écoutez-vous ?*"
+- id: a11-on-chante
+  lesson: a-11-present-on/07-lecture
+  q: "«Здесь мы поём вместе каждый вторник»."
+  a: "*Ici, **on chante** ensemble tous les mardis.* — *on* = «мы», глагол в 3-м лице ед. ч."
+- id: a11-regles
+  lesson: a-11-present-on/07-lecture
+  q: "Правила: «Приходите вовремя! Не курите в зале!»"
+  a: "***Arrivez** à l'heure ! **Ne fumez pas** dans la salle !*"
+- id: a11-ce-sont-musiciens
+  lesson: a-11-present-on/09-ecoute
+  q: "«Это бельгийские музыканты»."
+  a: "***Ce sont** des musiciens belges.* — о нескольких **ce sont**."
+- id: a11-passe-dimanche
+  lesson: a-11-present-on/08-ecriture
+  q: "«Позвони мне! Заходи к нам в воскресенье!»"
+  a: "***Téléphone**-moi ! **Passe** chez nous dimanche !* — у глаголов на *-er* в форме «ты» без *-s*."
+- id: a11-desolee
+  lesson: a-11-present-on/09-ecoute
+  q: "«Извини, я работаю до восьми»."
+  a: "***Désolé(e)**, je travaille **jusqu'à** huit heures.*"

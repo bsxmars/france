@@ -1,0 +1,19 @@
+# rate: -5%
+# pause: 700
+A: Salut Olivier ! Alors, ce week-end ? Tu es allé dans les Vosges, non ?
+F: Oui, avec ma femme et nos deux garçons. Tu connais les Vosges ?
+A: Non, je ne connais pas. Vous êtes partis quand ?
+F: Samedi, à six heures du matin. Nous avons pris la voiture et nous sommes arrivés au lac de Gérardmer à neuf heures.
+A: À six heures ! Et les enfants, ils ont protesté ?
+F: Un peu ! Mais ils ont dormi dans la voiture. Ensuite, nous avons marché toute la journée : vingt kilomètres !
+A: Vingt kilomètres ? Bravo ! Et il a fait beau ?
+F: Le matin, oui. Mais l'après-midi, il a beaucoup plu. Et ma femme est tombée dans la boue !
+A: Oh non ! Elle a eu mal ?
+F: Non, non, elle n'a pas eu mal. Mais elle a ri pendant dix minutes ! Les garçons ont pris des photos, bien sûr.
+A: Et le soir, vous avez dormi où ?
+F: Dans un petit hôtel près du lac. Nous avons très bien mangé : une tarte aux myrtilles, une spécialité de la région. Le patron de l'hôtel, un monsieur très sympathique, connaît toutes les histoires de la montagne : il en a raconté trois aux enfants.
+A: Super. Et dimanche ?
+F: Dimanche, nous sommes montés en haut d'une montagne, le Hohneck. De là-haut, nous avons vu les Alpes ! Puis nous sommes rentrés à Strasbourg vers dix-neuf heures.
+A: Et vous êtes fatigués ?
+F: Moi, oui, très fatigué ! Mais les garçons, non. Ils ont déjà demandé : « Quand est-ce qu'on revient ? »
+A: Ah, c'est bon signe !

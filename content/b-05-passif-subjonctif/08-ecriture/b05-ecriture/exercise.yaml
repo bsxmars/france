@@ -1,0 +1,33 @@
+title: "Essai : faut-il rendre le vote obligatoire ?"
+type: writing
+intro: "Напиши эссе по плану урока."
+prompt: |
+  Lors des dernières élections, plus d'un électeur sur deux ne s'est pas déplacé. Certains proposent de rendre le vote obligatoire, avec une amende pour les abstentionnistes.
+
+  Un magazine de société organise un concours d'essais sur la question : « Faut-il rendre le vote obligatoire ? » Vous y participez en présentant une réflexion argumentée, appuyée sur des exemples.
+
+  Напиши **200–280 слов**.
+words: [200, 280]
+target_grammar:
+  - "subjonctif после суждения и сомнения (il est essentiel que, je doute que, je ne pense pas que) и indicatif после уверенности (il est évident que)"
+  - "пассив (être + participe, par / de), se faire + infinitif, местоименный пассив"
+  - "нюансы сравнения: bien plus, deux fois moins, de plus en plus, plus… plus…, d'autant plus que"
+  - "альтернатива: que… ou que… / que… ou non + subjonctif"
+checklist:
+  - "Вступление: факт-повод, вопрос и позиция."
+  - "Доводы «за» и «против», у каждого — пример."
+  - "Хотя бы два subjonctif после суждения или сомнения и один indicatif после уверенности."
+  - "Хотя бы два пассива с согласованным причастием."
+  - "Хотя бы два нюанса сравнения (bien plus, de moins en moins, plus… plus…)."
+  - "Хотя бы одна альтернатива que… ou (que)… / que… ou non."
+  - "Вывод отвечает на вопрос; нейтральный регистр, без «я» в каждой фразе."
+model_answer: |
+  Lors des dernières élections municipales, plus d'un électeur sur deux ne s'est pas déplacé. Face à cette abstention record, certains proposent que le vote soit rendu obligatoire, comme c'est déjà le cas en Belgique. Cette solution, souvent présentée comme évidente, me paraît pourtant bien moins simple qu'il n'y paraît.
+
+  Il est vrai que le vote obligatoire présente des avantages. Dans les pays où il a été adopté, la participation est bien plus élevée qu'en France, et les jeunes, que l'on entend de moins en moins dans le débat public, sont mieux pris en compte par les candidats. Il est normal, après tout, que les citoyens aient des devoirs autant que des droits.
+
+  Je doute cependant qu'une obligation suffise à réconcilier les Français avec la politique. Voter par peur d'une amende, ce n'est pas s'intéresser au débat. Beaucoup d'abstentionnistes ne pensent pas que leur voix puisse changer les choses, et plus on les forcera, plus ils risquent de voter au hasard.
+
+  Il me semble donc essentiel que l'on s'attaque d'abord aux causes de ce désintérêt. Que le vote devienne obligatoire ou non, il faudra que l'éducation civique soit renforcée dès l'école, que les élus se fassent entendre sur les questions de la vie quotidienne et que le vote blanc soit enfin reconnu.
+
+  En définitive, il est évident que la démocratie a besoin de la participation de tous. Mais une participation imposée n'a de sens que si elle s'accompagne d'une vraie confiance. Et ce travail est d'autant plus urgent que l'abstention progresse à chaque élection.

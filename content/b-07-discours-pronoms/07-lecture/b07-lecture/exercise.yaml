@@ -1,0 +1,65 @@
+title: "Retour au bureau : les salariés font de la résistance"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем впиши слово или выражение из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Глагол-вводитель (reconnaître, avouer, se défendre de) подсказывает отношение говорящего."
+  - "Plus-que-parfait (avait affaibli) — раньше момента речи, conditionnel (serait prise) — будущее с точки зрения прошлого."
+text: |
+  ## Retour au bureau : les salariés font de la résistance
+
+  *Après des années de télétravail, de plus en plus d'entreprises exigent que leurs équipes reviennent sur site. Le mouvement se heurte à une opposition inattendue.*
+
+  Le message est arrivé un lundi matin, par courriel. La direction de Vellane, une compagnie d'assurances nantaise de six cents salariés, annonçait qu'à partir du mois de janvier, chacun devrait venir au bureau quatre jours par semaine, contre deux jusque-là. « Notre directeur général a écrit que le télétravail avait affaibli l'esprit d'équipe et qu'il fallait "retrouver le goût d'être ensemble", raconte Nadia, gestionnaire de contrats. Personne ne nous l'avait annoncé avant. Nous l'avons appris le jour même, comme tout le monde. »
+
+  La réaction ne s'est pas fait attendre. Dès le lendemain, une pétition circulait dans l'entreprise ; une semaine plus tard, elle avait recueilli plus de trois cents signatures. Les représentants du personnel ont demandé à la direction sur quelles études elle s'appuyait pour affirmer que les équipes travaillaient moins bien à distance. « On nous a répondu que c'était une question de bon sens, rapporte l'un d'eux. Des chiffres, on ne nous en a jamais montré. »
+
+  Car les salariés, eux, en ont. Selon une enquête interne réalisée l'année précédente, les objectifs avaient été atteints dans toutes les équipes, et les arrêts maladie avaient même légèrement diminué. Thomas, qui habite à soixante kilomètres de Nantes, explique que le télétravail lui a permis de gagner deux heures par jour. « Ces deux heures, je les passe avec mes enfants. Si on me les retire, qu'est-ce qu'on me donne en échange ? » Plusieurs de ses collègues avouent qu'ils ont commencé à chercher un autre emploi.
+
+  La direction, de son côté, se défend de vouloir surveiller ses équipes. La DRH reconnaît que l'annonce aurait pu être mieux préparée, mais elle rappelle que les nouveaux arrivants se plaignaient d'être isolés. « Une jeune recrue m'a confié qu'elle n'avait rencontré son chef d'équipe qu'au bout de trois mois. Les jeunes ont besoin qu'on leur transmette le métier, et on ne peut pas le leur transmettre par écran interposé. »
+
+  L'argument n'est pas absurde. Mais il se heurte à une réalité très concrète : les locaux. Pendant les années de télétravail, l'entreprise a rendu deux étages et installé des bureaux partagés. Aujourd'hui, il n'y a plus assez de places pour tout le monde. « La semaine dernière, j'ai cherché un bureau libre pendant vingt minutes, témoigne Nadia. J'ai fini par travailler à la cafétéria, avec mon casque, en visioconférence avec des collègues… qui étaient à l'étage au-dessus. »
+
+  Face à la mobilisation, la direction a accepté de rouvrir les discussions et a promis qu'aucune décision ne serait prise avant la fin du mois de décembre. Un compromis — trois jours sur place, choisis par chaque équipe — semble se dessiner.
+
+  Reste une question que ce conflit pose à toutes les entreprises : peut-on imposer la confiance ? Faire revenir les salariés au bureau, c'est facile. Leur donner envie d'y être, c'est une autre affaire.
+items:
+  - q: "Как сотрудники узнали о новом правиле?"
+    options: ["На общем собрании, где директор всё подробно объяснил.", "Из письма по электронной почте — без всякого предупреждения.", "От представителей персонала за месяц до решения."]
+    answer: 1
+    explain: "*Le message est arrivé… par courriel… **Personne ne nous l'avait annoncé** avant. Nous l'avons appris **le jour même**.* — *nous l'* = нам это (решение)."
+  - q: "Что представители персонала спросили у дирекции?"
+    options: ["На какие исследования она опирается, утверждая, что на удалёнке работают хуже.", "Сколько сотрудников подписали петицию.", "Когда компания снова арендует два этажа."]
+    answer: 0
+    explain: "*ont demandé à la direction **sur quelles études** elle **s'appuyait*** — косвенный вопрос с вопросительным словом, imparfait после прошедшего времени."
+  - q: "*Des chiffres, on ne **nous en** a jamais montré.* Что это значит?"
+    options: ["Дирекция показала цифры, но только один раз.", "Сотрудники отказались показывать свои цифры.", "Дирекция ни разу не показала никаких цифр."]
+    answer: 2
+    explain: "***en*** = des chiffres, ***nous*** = нам (представителям). Ответ дирекции — только *une question de bon sens*."
+  - q: "Vrai / faux / on ne sait pas: по данным внутреннего опроса, на удалёнке команды стали хуже выполнять свои цели."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*les objectifs **avaient été atteints** dans toutes les équipes, et les arrêts maladie avaient même légèrement diminué.*"
+  - q: "Vrai / faux / on ne sait pas: Тома уже нашёл другую работу."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 2
+    explain: "Про Тома сказано только, что удалёнка экономит ему два часа. *Plusieurs de ses collègues **avouent qu'ils ont commencé à chercher*** — и это коллеги, а не он, и лишь «начали искать»."
+  - q: "Какова позиция DRH?"
+    options: ["Она отрицает, что объявление было подготовлено плохо.", "Она признаёт, что объявление можно было подготовить лучше, но напоминает, что новички жаловались на изоляцию.", "Она считает, что удалёнку нужно сохранить для всех."]
+    answer: 1
+    explain: "*La DRH **reconnaît** que l'annonce **aurait pu** être mieux préparée, **mais** elle rappelle que les nouveaux arrivants **se plaignaient** d'être isolés.* — *reconnaître* = признать неприятное."
+  - q: "*On ne peut pas **le leur** transmettre.* Что заменяют местоимения?"
+    options: ["le — chef d'équipe, leur — сотрудники", "le — métier, leur — молодые сотрудники", "le — écran, leur — представители персонала"]
+    answer: 1
+    explain: "*Les jeunes ont besoin qu'on **leur** transmette **le métier*** → ***le*** = ремесло, ***leur*** = молодым."
+  - q: "Почему история Нади в кафетерии важна для статьи?"
+    options: ["Она показывает, что в офисе теперь не хватает мест, и возвращение плохо продумано.", "Она доказывает, что в офисе работать удобнее, чем дома.", "Она объясняет, почему компания отказалась от видеоконференций."]
+    answer: 0
+    explain: "*il n'y a plus assez de places pour tout le monde* — Надя по видеосвязи разговаривает с коллегами *qui étaient à l'étage au-dessus*: абсурд, который подрывает довод дирекции."
+  - q: "Что думает автор в последнем абзаце?"
+    options: ["Что офис должен остаться обязательным пять дней в неделю.", "Что заставить вернуться легко, а вот вызвать желание быть в офисе — нет.", "Что компромисс в три дня решит все проблемы."]
+    answer: 1
+    explain: "*peut-on imposer la confiance ?… Faire revenir les salariés au bureau, c'est facile. **Leur donner envie d'y être**, c'est une autre affaire.* — *leur* = сотрудникам, *y* = в офисе."
+  - q: "Найди в тексте выражение «на следующий же день»: ___, une pétition circulait dans l'entreprise."
+    answers: ["Dès le lendemain", "dès le lendemain"]
+    explain: "**Dès le lendemain** — «уже на следующий день». *Le lendemain* в рассказе о прошлом и в косвенной речи заменяет *demain*, как *le jour même* — *aujourd'hui*."

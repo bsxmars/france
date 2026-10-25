@@ -1,0 +1,26 @@
+title: "Carte postale de vacances"
+type: writing
+intro: "Напиши открытку другу с каникул по плану урока."
+prompt: |
+  Tu es en vacances. Tu écris une carte postale à ton ami(e) : où es-tu ? avec qui ? Qu'est-ce que tu fais le matin, l'après-midi, le soir ? Pose deux questions à ton ami(e).
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "y вместо места с à, dans, chez; en вместо места с de"
+  - "faire: je fais, nous faisons, vous faites, ils font"
+  - "вопросы с quand и comment: Comment vas-tu ? Quand viens-tu ?"
+checklist:
+  - "Есть обращение и прощание."
+  - "Сказано, где ты, с кем и какая погода (Il fait beau / chaud)."
+  - "Уже названное место заменено на y (или en): nous y allons, nous y restons."
+  - "y и en стоят перед глаголом: j'y vais, nous en revenons."
+  - "Есть хотя бы одна форма faire: je fais, nous faisons."
+  - "Есть два вопроса с quand и comment, с инверсией: Quand viens-tu ?"
+model_answer: |
+  Cher Paul,
+
+  Je suis à Nice avec ma sœur. Il fait beau ! Le matin, nous allons à la plage : nous y restons jusqu'à midi. L'après-midi, nous faisons une promenade en ville. Le soir, nous dînons au restaurant. Et toi, comment vas-tu ? Quand viens-tu à Nice ?
+
+  Bises,
+  Anna

@@ -1,0 +1,75 @@
+title: "Portrait : un tour du monde à vélo"
+type: listening
+intro: "Послушай радиоинтервью (дважды) и ответь на вопросы."
+hints:
+  - "Идиомы с y и en передают чувства: s'y faire, en vouloir à, n'en pouvoir plus, en avoir assez."
+  - "Ответ в выделении — после второго c'est."
+audio: audio/tts/c-04/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural, fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour, Lucie Dewaele. Vous êtes rentrée il y a trois mois d'un tour du monde à vélo : dix-huit mois, vingt-deux pays, plus de vingt mille kilomètres. D'abord, comment cette idée vous est-elle venue ?
+
+  **Lucie Dewaele :** Pour être honnête, elle ne m'est pas venue d'un coup. J'y pensais depuis l'adolescence, mais je trouvais toujours une bonne raison de ne pas partir : les études, le travail, l'appartement. Un jour, à trente-deux ans, je me suis dit : si tu ne le fais pas maintenant, tu ne le feras jamais. J'ai démissionné le lendemain.
+
+  **Journaliste :** Et votre entourage, comment a-t-il réagi ?
+
+  **Lucie Dewaele :** Pas très bien ! Mes parents étaient inquiets, ce qui est normal. Ma mère me répétait : « Une femme seule, à vélo, en Asie centrale, tu n'y penses pas ! » Si, justement, j'y pensais. Elle m'en a voulu quelques semaines, et puis elle a fini par s'y faire. Aujourd'hui, c'est elle qui raconte mon voyage à ses amies.
+
+  **Journaliste :** Comment vous y êtes-vous prise pour préparer un tel voyage ?
+
+  **Lucie Dewaele :** Je me suis beaucoup renseignée, évidemment, mais je ne m'y connaissais pas du tout en mécanique. J'ai suivi un stage dans un atelier de réparation à Liège, où l'on m'a appris à changer une chaîne et à régler les freins. Le reste, je l'ai appris sur la route. On apprend vite quand on n'a pas le choix et qu'on ne peut compter que sur soi.
+
+  **Journaliste :** Un tel voyage coûte cher. Comment l'avez-vous financé ?
+
+  **Lucie Dewaele :** Il coûte moins cher qu'on ne l'imagine ! J'avais mis de l'argent de côté pendant quatre ans, et je dormais souvent sous la tente ou chez l'habitant. Au total, j'ai dépensé à peu près quinze euros par jour, c'est-à-dire moins que mon loyer à Bruxelles. Ce n'est pas l'argent qui manque le plus, c'est le courage de partir.
+
+  **Journaliste :** Il y a eu des moments difficiles ?
+
+  **Lucie Dewaele :** Bien sûr. Le pire, c'était en Iran, en plein été : quarante-cinq degrés, du vent de face, des kilomètres de désert. Un soir, je n'en pouvais plus. Je me suis assise au bord de la route et j'ai pleuré. Un camionneur s'est arrêté, il m'a fait monter dans son camion et m'a emmenée chez sa famille. J'y suis restée trois jours. Ce genre de rencontre, on ne l'oublie jamais.
+
+  **Journaliste :** Justement, que retenez-vous des gens que vous avez croisés ?
+
+  **Lucie Dewaele :** Leur générosité, avant tout. On imagine souvent que le monde est dangereux. Il l'est parfois, je ne le nie pas, mais beaucoup moins qu'on ne le croit. Partout, des inconnus m'ont offert un repas, un lit, de l'eau. Moi, je n'avais rien à leur donner en échange, sauf du temps et de l'écoute.
+
+  **Journaliste :** Et le retour ? On dit souvent qu'il est plus dur que le départ.
+
+  **Lucie Dewaele :** C'est vrai. Les premières semaines, je n'arrivais pas à m'y habituer. Tout allait trop vite, tout le monde regardait son téléphone. J'en avais assez d'entendre « Alors, c'était bien ? », comme si on pouvait résumer dix-huit mois en une phrase. Maintenant, ça va mieux. J'écris un livre : c'est ma façon de ne pas laisser le voyage s'en aller complètement.
+
+  **Journaliste :** Vous repartiriez ?
+
+  **Lucie Dewaele :** Demain, s'il le fallait ! Mais je ne crois pas qu'il faille aller si loin pour changer. Ce que j'ai appris, c'est à me faire confiance. Et ça, on peut l'apprendre partout, même en restant chez soi.
+
+  **Journaliste :** Lucie Dewaele, merci, et bonne chance pour votre livre.
+items:
+  - q: "Как Люси приняла решение уехать?"
+    options: ["Внезапно, после увольнения с работы.", "Давно мечтала, но решилась только в 32 года.", "Её уговорили друзья-путешественники."]
+    answer: 1
+    explain: "*J'y pensais depuis l'adolescence… Un jour, à trente-deux ans, je me suis dit : si tu ne le fais pas maintenant, tu ne le feras jamais.* Уволилась она **после** решения."
+  - q: "Как отреагировала её мать?"
+    options: ["Сразу поддержала.", "Сначала обиделась, потом смирилась.", "Так и не простила."]
+    answer: 1
+    explain: "*Elle m'en a voulu quelques semaines, et puis elle a fini par s'y faire.* — *en vouloir à qn* = обижаться, *s'y faire* = привыкнуть."
+  - q: "Как она подготовилась технически?"
+    options: ["Она уже хорошо разбиралась в механике.", "Прошла стажировку в веломастерской, остальному научилась в пути.", "Взяла с собой механика."]
+    answer: 1
+    explain: "*je ne m'y connaissais pas du tout en mécanique. J'ai suivi un stage… Le reste, je l'ai appris sur la route.*"
+  - q: "Что она говорит о деньгах?"
+    options: ["Путешествие обошлось дешевле, чем принято думать.", "Ей не хватало денег на жильё.", "Путешествие оплатил спонсор."]
+    answer: 0
+    explain: "*Il coûte moins cher qu'on ne l'imagine… quinze euros par jour… Ce n'est pas l'argent qui manque le plus, c'est le courage de partir.*"
+  - q: "Что произошло в Иране?"
+    options: ["У неё сломался велосипед.", "Обессилевшую, её подобрал водитель грузовика и приютил у своей семьи.", "Её задержала полиция."]
+    answer: 1
+    explain: "*je n'en pouvais plus… Un camionneur… m'a emmenée chez sa famille. J'y suis restée trois jours.*"
+  - q: "Каков, по её опыту, мир?"
+    options: ["Гораздо опаснее, чем кажется.", "Иногда опасен, но гораздо меньше, чем принято думать.", "Совершенно безопасен."]
+    answer: 1
+    explain: "*Il l'est parfois, je ne le nie pas, mais beaucoup moins qu'on ne le croit.* — нейтральное *le* заменяет *dangereux*."
+  - q: "Что её раздражало после возвращения?"
+    options: ["Что никто не спрашивал о поездке.", "Вопрос «Ну как, было здорово?», будто полтора года можно описать одной фразой.", "Что ей пришлось вернуться на старую работу."]
+    answer: 1
+    explain: "*J'en avais assez d'entendre « Alors, c'était bien ? »* — *en avoir assez* = надоело."
+  - q: "Главный урок путешествия, по её словам?"
+    options: ["Надо уезжать как можно дальше.", "Научиться доверять себе — это можно и дома.", "Без денег путешествовать нельзя."]
+    answer: 1
+    explain: "*Ce que j'ai appris, c'est à me faire confiance. Et ça, on peut l'apprendre partout, même en restant chez soi.* — *soi* после обобщённого *on*."

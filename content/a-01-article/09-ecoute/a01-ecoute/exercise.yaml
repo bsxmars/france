@@ -1,0 +1,44 @@
+title: "Voici la gare"
+type: listening
+intro: "Послушай разговор у вокзала и ответь на вопросы."
+hints:
+  - "Признак звучит сразу после est: la gare est grande."
+  - "Non — «нет»: после него идёт правильный ответ."
+audio: audio/tts/a-01/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  — Regarde, voici la gare.
+  — Oh, la gare est grande !
+  — Oui. Et voici le café de la gare. Le café est petit.
+  — Et Léa ? Léa est sur la terrasse ?
+  — Non. Léa cherche sa tasse.
+  — Sa tasse ? La tasse est sur la table !
+  — Ah oui, voici la tasse. Le café est chaud.
+  — Et Paul ?
+  — Paul va à l'école. Paul aime l'école.
+  — Et Léa aime le café !
+items:
+  - q: "Какой вокзал?"
+    options: ["маленький", "большой", "новый"]
+    answer: 1
+    explain: "*Oh, la gare est grande !* — «О, вокзал большой!»."
+  - q: "Какое кафе у вокзала?"
+    options: ["маленькое", "большое", "закрытое"]
+    answer: 0
+    explain: "*Voici le café de la gare. Le café est petit.*"
+  - q: "Что ищет Лея?"
+    options: ["свою машину", "свою чашку", "свою сумку"]
+    answer: 1
+    explain: "*Léa cherche sa tasse.* — *sa* заменяет артикль: «свою чашку»."
+  - q: "Где чашка?"
+    options: ["на террасе", "на столе", "в школе"]
+    answer: 1
+    explain: "*La tasse est sur la table !* — *sur* «на». Про террасу спрашивают о Лее, и ответ — *non*."
+  - q: "Какой кофе?"
+    options: ["горячий", "холодный", "чёрный"]
+    answer: 0
+    explain: "*Le café est chaud.* — «Кофе горячий»."
+  - q: "Куда идёт Поль?"
+    options: ["на вокзал", "в кафе", "в школу"]
+    answer: 2
+    explain: "*Paul va à l'école.* — *à* «в, на»; перед гласной *l'*."

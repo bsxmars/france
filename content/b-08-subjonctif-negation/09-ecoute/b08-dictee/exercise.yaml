@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "После je ne crois pas que, il est peu probable que — subjonctif; после il est probable que, je trouve que — indicatif."
+  - "После ni — существительное без артикля: ni anglais ni allemand."
+items:
+  - audio: audio/tts/b-08/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Je cherche un appartement qui soit proche de l'école."]
+    explain: "«Я ищу квартиру, которая была бы недалеко от школы». Квартира ещё не найдена → ***soit*** (subjonctif)."
+  - audio: audio/tts/b-08/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Je ne crois pas qu'il ait raison."]
+    explain: "«Не думаю, что он прав». Отрицание мнения → subjonctif ***ait*** (от *avoir*)."
+  - audio: audio/tts/b-08/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Il est probable qu'elle réussira son examen."]
+    explain: "«Вероятно, она сдаст экзамен». *Il est probable que* + indicatif: ***réussira*** (futur)."
+  - audio: audio/tts/b-08/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Il est peu probable qu'ils viennent ce soir."]
+    explain: "«Маловероятно, что они придут сегодня вечером». *Peu probable* → subjonctif ***viennent*** (основа *vienn-*, как в 3-м лице мн. ч. présent)."
+  - audio: audio/tts/b-08/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Elle ne parle ni anglais ni allemand."]
+    explain: "«Она не говорит ни по-английски, ни по-немецки». *ne… ni… ni…* без *pas*, названия языков без артикля."
+  - audio: audio/tts/b-08/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Il est parti sans dire au revoir ni merci."]
+    explain: "«Он ушёл, не попрощавшись и не сказав спасибо». После *sans* второй элемент вводится через ***ni***."
+  - audio: audio/tts/b-08/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Je trouve que ce professeur explique très bien."]
+    explain: "«По-моему, этот преподаватель очень хорошо объясняет». Утвердительное мнение → indicatif ***explique***."
+  - audio: audio/tts/b-08/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Nous voulons une école où chaque enfant puisse s'exprimer."]
+    explain: "«Мы хотим школу, где каждый ребёнок мог бы высказаться». Желаемая школа → ***puisse***; *chaque* + единственное число."

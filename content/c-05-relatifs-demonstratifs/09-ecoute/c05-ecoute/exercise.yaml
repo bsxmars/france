@@ -1,0 +1,73 @@
+title: "Débat : faut-il interdire l'anonymat en ligne ?"
+type: listening
+intro: "Послушай радиодебаты (дважды) и ответь на вопросы."
+hints:
+  - "Элоиза Ферран — журналистка, за отмену анонимности; Антуан Ганьон — адвокат, против."
+  - "После уступки (je comprends…, je ne l'ignore pas) ищи mais."
+audio: audio/tts/c-05/debat.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-FR-EloiseNeural, fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  **Animatrice :** Bonsoir et bienvenue dans « Points de vue ». Ce soir, une question qui revient à chaque nouvelle affaire de harcèlement en ligne : faut-il interdire l'anonymat sur les réseaux sociaux ? Pour en débattre, Antoine Gagnon, avocat à Montréal, spécialiste du droit numérique, et Éloïse Ferrand, journaliste, qui a elle-même été la cible d'une campagne de harcèlement. Éloïse Ferrand, qu'est-ce qui vous a amenée à défendre la fin de l'anonymat ?
+
+  **Éloïse Ferrand :** Mon expérience, d'abord. Il y a deux ans, après un reportage sur lequel j'avais travaillé pendant des mois, j'ai reçu plus de trois mille messages d'insultes en une semaine, dont certains contenaient des menaces de mort. La plupart venaient de comptes dont on ne pouvait connaître ni le nom ni le visage. Ce qui m'a le plus frappée, c'est le sentiment d'impunité de ceux qui les écrivaient. Derrière un pseudonyme, on se permet ce qu'on n'oserait jamais dire en face.
+
+  **Animatrice :** Antoine Gagnon, vous n'êtes pas de cet avis.
+
+  **Antoine Gagnon :** Je comprends parfaitement ce que madame Ferrand a vécu, et je ne minimise rien. Mais je crois qu'on se trompe de cible. D'abord, l'anonymat total n'existe presque pas : dans la grande majorité des cas, la police peut retrouver l'auteur d'un message, à condition qu'un juge le lui demande. Le problème, ce n'est pas l'anonymat, c'est le manque de moyens pour enquêter. Ensuite, il faut penser à ceux pour qui le pseudonyme est une protection : la femme qui fuit un conjoint violent, l'adolescent qui s'interroge sur son identité, le lanceur d'alerte qui dénonce son employeur. À qui va-t-on demander de se montrer à visage découvert ? À eux aussi ?
+
+  **Éloïse Ferrand :** Personne ne propose d'afficher le nom de chacun sur son profil. Ce dont je parle, c'est d'une identification auprès de la plateforme : vous gardez votre pseudonyme, mais quelqu'un, quelque part, sait qui vous êtes. C'est déjà ce qui se passe quand vous ouvrez un compte bancaire.
+
+  **Antoine Gagnon :** Et c'est précisément ce qui m'inquiète. À qui confierait-on ces données ? Aux plateformes elles-mêmes, dont on connaît le respect très relatif pour la vie privée ? À l'État ? Mais lequel ? Dans un pays démocratique, passe encore. Dans un régime autoritaire, les mêmes outils serviraient à faire taire les opposants.
+
+  **Animatrice :** Éloïse Ferrand, que répondez-vous à cet argument ?
+
+  **Éloïse Ferrand :** Qu'il est sérieux, et que je ne l'ignore pas. Mais on ne peut pas sacrifier les victimes d'aujourd'hui à un danger hypothétique. Les adolescentes qui reçoivent chaque jour des messages humiliants, elles, ne vivent pas dans l'hypothèse. Leur souffrance est bien réelle, et celle de leurs parents aussi.
+
+  **Antoine Gagnon :** Là-dessus, nous sommes d'accord : il faut agir. Mais agissons sur ce qui marche : des enquêteurs spécialisés, des plaintes en ligne simplifiées, des sanctions rapides. Au Québec comme en France, combien de plaintes pour harcèlement aboutissent à un procès ? Très peu. Ce n'est pas un problème de technique, c'est un problème de volonté.
+
+  **Animatrice :** Et les plateformes, dans tout cela ? On a l'impression qu'elles se renvoient la balle.
+
+  **Éloïse Ferrand :** C'est le cœur du problème. Ce sont des entreprises dont le modèle repose sur l'attention, et rien n'attire plus l'attention qu'une polémique. Tant qu'elles n'auront pas intérêt à modérer, elles ne le feront pas.
+
+  **Antoine Gagnon :** Sur ce point, je rejoins madame Ferrand. Des obligations de modération existent, celles de l'Union européenne notamment ; encore faut-il que les amendes soient assez lourdes pour qu'on les craigne.
+
+  **Animatrice :** Un dernier mot, chacun. Éloïse Ferrand ?
+
+  **Éloïse Ferrand :** L'anonymat devrait être un droit pour ceux qui en ont besoin, pas un bouclier pour ceux qui veulent nuire.
+
+  **Antoine Gagnon :** Et moi, je dirais : avant de changer les règles du jeu, appliquons celles que nous avons déjà.
+
+  **Animatrice :** Éloïse Ferrand, Antoine Gagnon, merci à tous les deux.
+items:
+  - q: "Что больше всего поразило Элоизу Ферран во время травли?"
+    options: ["Количество сообщений.", "Чувство безнаказанности авторов.", "Молчание её редакции."]
+    answer: 1
+    explain: "*Ce qui m'a le plus frappée, c'est le sentiment d'impunité de ceux qui les écrivaient.* Число (3000) — факт, но не то, что «поразило больше всего»."
+  - q: "Почему, по мнению адвоката, «ошибаются мишенью»?"
+    options: ["Полную анонимность почти невозможно сохранить; не хватает средств на расследования.", "Травля — проблема только Франции.", "Платформы уже раскрывают имена."]
+    answer: 0
+    explain: "*l'anonymat total n'existe presque pas… Le problème, ce n'est pas l'anonymat, c'est le manque de moyens pour enquêter.*"
+  - q: "Кого, по его словам, защищает псевдоним?"
+    options: ["Знаменитостей и журналистов.", "Уязвимых людей: жертв насилия, подростков, информаторов.", "Только анонимных авторов травли."]
+    answer: 1
+    explain: "*ceux pour qui le pseudonyme est une protection : la femme qui fuit un conjoint violent, l'adolescent…, le lanceur d'alerte…* — *pour qui*: предлог + *qui* о людях."
+  - q: "Что именно предлагает Элоиза Ферран?"
+    options: ["Показывать настоящее имя в каждом профиле.", "Сохранить псевдоним, но идентифицировать пользователя у платформы.", "Закрыть анонимные аккаунты."]
+    answer: 1
+    explain: "*Ce dont je parle, c'est d'une identification auprès de la plateforme : vous gardez votre pseudonyme, mais quelqu'un… sait qui vous êtes.*"
+  - q: "Что беспокоит адвоката в этом предложении?"
+    options: ["Кому доверить эти данные — платформам или государству, причём какому.", "Стоимость идентификации.", "Что пользователи уйдут с платформ."]
+    answer: 0
+    explain: "*À qui confierait-on ces données ? … À l'État ? Mais lequel ?* — риторические вопросы; в авторитарном режиме *les mêmes outils serviraient à faire taire les opposants*."
+  - q: "Как Элоиза Ферран отвечает на этот довод?"
+    options: ["Отвергает его как несерьёзный.", "Признаёт его серьёзным, но считает, что нельзя жертвовать нынешними жертвами ради гипотетической опасности.", "Соглашается и меняет позицию."]
+    answer: 1
+    explain: "*Qu'il est sérieux, et que je ne l'ignore pas. Mais on ne peut pas sacrifier les victimes d'aujourd'hui à un danger hypothétique.*"
+  - q: "В чём гости согласны?"
+    options: ["Надо действовать, и платформы несут большую ответственность.", "Анонимность надо запретить.", "Законы менять не нужно."]
+    answer: 0
+    explain: "*Là-dessus, nous sommes d'accord : il faut agir* и *Sur ce point, je rejoins madame Ferrand* — о платформах, *dont le modèle repose sur l'attention*."
+  - q: "Итоговая позиция Антуана Ганьона?"
+    options: ["Ввести новые правила как можно скорее.", "Сначала применять уже существующие правила.", "Отменить модерацию."]
+    answer: 1
+    explain: "*avant de changer les règles du jeu, appliquons celles que nous avons déjà* — *celles* = правила."

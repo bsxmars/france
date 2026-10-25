@@ -1,0 +1,36 @@
+title: "Message aux parents d'élèves"
+type: listening
+intro: "Сообщение звучит один раз. Различай, что обязательно, что только возможно и что перенесли."
+hints:
+  - "Il est possible que… — вероятность; il est indispensable que… — требование."
+  - "À moins que… ne — «если только не»: ne здесь не отрицает."
+audio: audio/tts/c-13/message.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+transcript: |
+  Message à l'attention des parents d'élèves du collège Jean-Jaurès. En raison d'une grève des transports jeudi prochain, les cours seront maintenus, mais il est possible que certains professeurs soient absents.
+
+  Afin que nous puissions organiser l'accueil, nous vous demandons de nous indiquer avant mercredi midi si votre enfant sera présent. Il est indispensable que les élèves de sixième soient accompagnés jusqu'à l'entrée du collège.
+
+  La cantine fonctionnera normalement, à moins que le personnel ne soit lui-même en grève ; dans ce cas, prévoyez un repas froid. Enfin, la sortie au musée prévue jeudi après-midi est reportée au mardi suivant, pour que tous les élèves puissent y participer.
+
+  Merci de votre compréhension.
+items:
+  - q: "Что будет в четверг?"
+    options: ["Уроки отменят из-за забастовки.", "Уроки будут, но некоторых учителей может не быть.", "Колледж будет закрыт до среды."]
+    answer: 1
+    explain: "*les cours seront maintenus, mais **il est possible que** certains professeurs **soient** absents* — только вероятность."
+  - q: "Что родители должны сообщить до среды, до полудня?"
+    options: ["придёт ли ребёнок в колледж", "будет ли ребёнок обедать в столовой", "поедет ли ребёнок в музей"]
+    answer: 0
+    explain: "*nous vous demandons de nous indiquer avant mercredi midi si votre enfant sera présent* — *afin que nous puissions organiser l'accueil*."
+  - q: "Что обязательно для учеников шестого класса?"
+    options: ["Принести холодный обед.", "Прийти с сопровождающим до входа в колледж.", "Остаться дома."]
+    answer: 1
+    explain: "*Il est indispensable que les élèves de sixième soient accompagnés jusqu'à l'entrée du collège.*"
+  - q: "В каком случае нужно дать ребёнку холодный обед?"
+    options: ["если персонал столовой будет бастовать", "если столовая будет работать как обычно", "в любом случае"]
+    answer: 0
+    explain: "*La cantine fonctionnera normalement, **à moins que** le personnel **ne** soit lui-même en grève ; dans ce cas, prévoyez un repas froid.* *Ne* — explétif."
+  - q: "La sortie au musée est reportée au ___ suivant."
+    answers: ["mardi"]
+    explain: "*la sortie au musée prévue jeudi après-midi est reportée au **mardi** suivant, pour que tous les élèves puissent y participer.*"

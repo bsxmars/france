@@ -1,0 +1,46 @@
+title: "À la bibliothèque"
+type: listening
+intro: "Послушай разговор в библиотеке и ответь на вопросы."
+hints:
+  - "Mon fils… ma fille… — слушай, кто что любит."
+  - "ils lisent, ils écrivent — согласный на конце значит «они»."
+audio: audio/tts/a-12/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural, fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  — Bonjour, monsieur. Vous cherchez un livre ?
+  — Bonjour, madame. Oui, c'est pour mes enfants. Ils lisent beaucoup.
+  — Ils aiment les histoires ?
+  — Oui. Mon fils aime les histoires de pirates. Ma fille, elle, aime les BD.
+  — Alors, regardez ces livres, ici. Cette BD est très drôle.
+  — Et ce livre rouge ?
+  — C'est un livre de poèmes. Son auteur habite à Montréal. Il écrit aussi pour les enfants.
+  — Très bien ! Mes enfants écrivent aussi des poèmes à l'école.
+  — Alors, voilà cette BD et ce livre. Votre carte, s'il vous plaît.
+  — Voilà ma carte.
+  — Merci. Les livres restent chez vous trois semaines.
+  — Merci, madame. Au revoir !
+items:
+  - q: "Для кого мужчина ищет книги?"
+    options: ["для себя", "для своих детей", "для жены"]
+    answer: 1
+    explain: "*C'est pour mes enfants. Ils lisent beaucoup.* — [liz] на конце: «они читают»."
+  - q: "Что любит дочь?"
+    options: ["комиксы", "истории о пиратах", "стихи"]
+    answer: 0
+    explain: "*Ma fille, elle, aime les BD.* Истории о пиратах любит сын: *mon fils aime les histoires de pirates*."
+  - q: "Что это за красная книга?"
+    options: ["комикс", "история о пиратах", "сборник стихов"]
+    answer: 2
+    explain: "*Et ce livre rouge ? — C'est un livre de poèmes.*"
+  - q: "Где живёт автор этой книги?"
+    options: ["в Париже", "в Монреале", "в Брюсселе"]
+    answer: 1
+    explain: "*Son auteur habite à Montréal.* — *son auteur* «её (книги) автор»: *son* перед гласной."
+  - q: "Что дети мужчины делают в школе?"
+    options: ["пишут стихи", "читают комиксы", "рисуют пиратов"]
+    answer: 0
+    explain: "*Mes enfants écrivent aussi des poèmes à l'école.* — *écrivent* [e-kʁiv]: слышно -v-, значит «они пишут»."
+  - q: "На сколько можно взять книги?"
+    options: ["на неделю", "на три недели", "на месяц"]
+    answer: 1
+    explain: "*Les livres restent chez vous trois semaines* — «книги остаются у вас три недели»."

@@ -1,0 +1,27 @@
+title: "Message : ma première course"
+type: writing
+intro: "Напиши письмо другу по плану урока. События — в passé composé, фон — в imparfait."
+prompt: |
+  Le week-end dernier, tu as participé à une course, à un match ou à un tournoi. Tu écris à ton ami(e) français(e) : tu racontes la journée, tu compares tes résultats avec ceux d'un(e) ami(e) ou avec l'année dernière, et tu parles de tes projets.
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "сравнение наречий: plus vite / moins vite / aussi bien… que"
+  - "mieux, le mieux, le plus vite, le plus souvent"
+  - "passé composé для событий, imparfait для фона"
+checklist:
+  - "Есть обращение и прощание, письмо на tu."
+  - "События — в passé composé (j'ai couru, je suis arrivé·e), фон — в imparfait (il faisait beau)."
+  - "Хотя бы три сравнения действий: plus vite, moins souvent, aussi bien que…"
+  - "mieux — у глагола, meilleur — у существительного; нет ~~plus bien~~."
+  - "Есть превосходная степень: le plus vite, le mieux, le plus souvent."
+  - "Причастия с être согласованы: elle est arrivée, nous sommes partis."
+  - "Есть планы на будущее и вопрос другу."
+model_answer: |
+  Salut Léo,
+
+  Dimanche, j'ai couru mon premier semi-marathon à Lyon ! Il faisait beau, mais il y avait beaucoup de vent. Au début, j'ai couru trop vite, et après dix kilomètres, j'étais très fatiguée. Alors j'ai couru moins vite et j'ai mieux respiré. Mon amie Sophie, elle, est partie plus lentement que moi, mais à la fin, c'est elle qui a couru le plus vite ! Elle est arrivée dix minutes avant moi. L'année prochaine, je vais m'entraîner plus souvent et plus régulièrement. Tu viens courir avec nous ?
+
+  Bises,
+  Clara

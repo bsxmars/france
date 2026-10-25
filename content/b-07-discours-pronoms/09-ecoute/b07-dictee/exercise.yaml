@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "В косвенной речи в прошлом: avait reçu, viendrait, pensions."
+  - "В утвердительном императиве местоимения пишутся через дефис: montrez-les-nous."
+items:
+  - audio: audio/tts/b-07/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Il m'a demandé si j'avais reçu son message."]
+    explain: "«Он спросил меня, получил ли я его сообщение». Косвенный вопрос через *si*; *j'ai reçu* → ***j'avais reçu*** (plus-que-parfait)."
+  - audio: audio/tts/b-07/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Elle nous a dit qu'elle viendrait le lendemain."]
+    explain: "«Она сказала нам, что придёт на следующий день». *viendra* → ***viendrait***, *demain* → ***le lendemain***."
+  - audio: audio/tts/b-07/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Le directeur voulait savoir ce que nous pensions du projet."]
+    explain: "«Директор хотел знать, что мы думаем о проекте». *Qu'est-ce que* → ***ce que*** в косвенном вопросе; *pensons* → ***pensions***."
+  - audio: audio/tts/b-07/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Ce dossier, je le lui ai déjà envoyé."]
+    explain: "«Это досье я ему (ей) уже отправила». Порядок: ***le*** перед ***lui***; причастие не согласуется: *le* = *ce dossier* (м. р.)."
+  - audio: audio/tts/b-07/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Ne m'en parle plus, s'il te plaît.", "Ne m'en parle plus s'il te plaît."]
+    explain: "«Не говори мне больше об этом, пожалуйста». Отрицательный императив: местоимения перед глаголом, ***m'en***."
+  - audio: audio/tts/b-07/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Ces documents, montrez-les-nous avant la réunion."]
+    explain: "«Эти документы покажите нам до собрания». Утвердительный императив: глагол + ***les-nous*** через дефисы, COD перед *nous*."
+  - audio: audio/tts/b-07/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["On nous a conseillé de ne pas en parler aux clients."]
+    explain: "«Нам посоветовали не говорить об этом клиентам». Косвенная просьба *conseiller de* + инфинитив; *ne pas* стоит целиком перед инфинитивом."
+  - audio: audio/tts/b-07/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Il a expliqué qu'il avait changé de poste la veille."]
+    explain: "«Он объяснил, что накануне сменил должность». *hier* → ***la veille***, passé composé → plus-que-parfait."

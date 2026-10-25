@@ -1,0 +1,41 @@
+title: "Lettre de Nice"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросе с полем впиши одно слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Чей предмет — подскажет притяжательное слово: ma, sa, ton."
+text: |
+  **Salut Léa !**
+
+  Je suis à Nice avec Paul. Nous sommes chez mon amie Claire. Sa maison est grande et belle. Voici ma chambre : elle est petite, mais sa fenêtre est grande.
+
+  Paul est malade : il est dans sa chambre avec le chat de Claire. Ce chat est petit et noir. C'est le chat de Paul maintenant ! Claire est contente.
+
+  Et toi ? Tu es à Lyon ? Ton amie Sophie est là ? Est-ce ta voiture sur la photo ?
+
+  **Bisous,**
+  **Anna**
+items:
+  - q: "Где сейчас Анна?"
+    options: ["в Ницце, у подруги", "в Лионе, у Софи", "в Ницце, в гостинице"]
+    answer: 0
+    explain: "*Je suis à Nice avec Paul. Nous sommes chez mon amie Claire.* — *chez* «у, в доме у»."
+  - q: "Какой дом у Клер?"
+    options: ["маленький, но красивый", "большой и красивый", "большой, но старый"]
+    answer: 1
+    explain: "*Sa maison est grande et belle.* — *sa* здесь «её»: речь только что шла о Клер."
+  - q: "Какая комната у Анны?"
+    options: ["большая, с маленьким окном", "маленькая, с большим окном", "маленькая, без окна"]
+    answer: 1
+    explain: "*Voici ma chambre : elle est petite, mais sa fenêtre est grande.* — *elle* = *ma chambre*, *sa fenêtre* — «её (комнаты) окно»."
+  - q: "Почему Поль в своей комнате?"
+    options: ["Он болен.", "Он работает.", "Он ищет кота."]
+    answer: 0
+    explain: "*Paul est malade : il est dans sa chambre…* — двоеточие объясняет причину."
+  - q: "Чей кот?"
+    options: ["Анны", "Поля", "Клер"]
+    answer: 2
+    explain: "*le chat de Claire* — кот Клер. *C'est le chat de Paul maintenant !* — шутка: кот всё время с Полем."
+  - q: "Впиши слово из текста: «Это твоя машина на фото?» — Est-ce ___ voiture sur la photo ?"
+    answers: ["ta"]
+    explain: "**ta** — «твоя»: *voiture* женского рода и начинается с согласной."

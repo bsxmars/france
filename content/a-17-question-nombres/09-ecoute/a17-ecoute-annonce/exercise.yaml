@@ -1,0 +1,49 @@
+title: "Annonce au marché aux puces de Namur"
+type: listening
+intro: "Объявление на рынке в Бельгии. Послушай его и ответь на вопросы. Числа можно писать цифрами."
+hints:
+  - "septante = 70, nonante = 90 — так считают в Бельгии и Швейцарии."
+  - "Прочитай вопросы до записи: почти все — о числах."
+audio: audio/tts/a-17/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  Bonjour à tous et bienvenue au grand marché aux puces de Namur !
+
+  Aujourd'hui, septante-deux vendeurs vous attendent sur la place, de huit heures à dix-sept heures.
+
+  Vous cherchez des livres ? Les libraires sont au fond de la place, à côté de la fontaine. Les meubles et les vélos sont rue Haute, du numéro nonante au numéro nonante-huit.
+
+  Attention, s'il vous plaît : une petite fille attend ses parents au stand d'information, à l'entrée de la place. Elle s'appelle Lina, elle a six ans et elle a un manteau jaune.
+
+  Le café de la place vend des gaufres à trois euros. Et à quinze heures, sur la grande scène, vous entendez le groupe de jazz Les Copains du Nord. Le concert est gratuit.
+
+  Pour les enfants, il y a un atelier de dessin à onze heures, devant la mairie. Il coûte deux euros par enfant.
+
+  Petite information pour vos achats : beaucoup de vendeurs attendent de l'argent liquide. Il y a un distributeur de billets rue Haute, au numéro quatre-vingt-un.
+
+  Vous venez en voiture ? Le parking du marché est complet. Le parking de la gare coûte quatre euros pour la journée.
+
+  Bon marché à tous !
+items:
+  - q: "Combien de vendeurs ? ___"
+    answers: ["72", "septante-deux", "soixante-douze", "septante deux", "soixante douze"]
+    explain: "*septante-deux vendeurs* — по-бельгийски 72; во Франции — *soixante-douze*."
+  - q: "Где продают мебель и велосипеды?"
+    options: ["у фонтана", "на улице Haute, дома 90–98", "перед мэрией"]
+    answer: 1
+    explain: "*rue Haute, du numéro **nonante** au numéro **nonante-huit*** — 90 и 98. У фонтана — книги, у мэрии — детская мастерская."
+  - q: "Кого ждёт девочка Лина?"
+    options: ["своих родителей", "свою учительницу", "своего брата"]
+    answer: 0
+    explain: "*une petite fille attend ses parents au stand d'information* — *attendre* без предлога: «ждать кого-то»."
+  - q: "Что будет в 15:00?"
+    options: ["детская мастерская", "бесплатный джазовый концерт", "закрытие рынка"]
+    answer: 1
+    explain: "*à quinze heures, sur la grande scène, vous entendez le groupe de jazz… Le concert est gratuit.* Мастерская — в 11:00, рынок закрывается в 17:00."
+  - q: "Банкомат — rue Haute, au numéro ___."
+    answers: ["81", "quatre-vingt-un", "quatre vingt un", "quatre-vingt-et-un"]
+    explain: "*au numéro **quatre-vingt-un*** — 81, без *et* и без *-s*: после *vingt* идёт число. В Бельгии 80 — тоже *quatre-vingts*."
+  - q: "Что сказано о парковке?"
+    options: ["Парковка рынка бесплатна.", "Парковка рынка заполнена, у вокзала — 4 евро в день.", "У вокзала парковка стоит 2 евро."]
+    answer: 1
+    explain: "*Le parking du marché est complet. Le parking de la gare coûte quatre euros pour la journée.* 2 евро — цена мастерской."

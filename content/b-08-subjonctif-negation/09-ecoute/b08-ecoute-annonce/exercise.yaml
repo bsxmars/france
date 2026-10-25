@@ -1,0 +1,37 @@
+title: "Annonce : portes ouvertes au lycée professionnel"
+type: listening
+intro: "Объявление звучит один раз, как на экзамене. Прочитай вопросы заранее и впиши в пропуски слова или цифры из записи."
+hints:
+  - "Держи в голове дату, часы, место и что нужно / не нужно делать."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/b-08/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  Le lycée professionnel Les Tilleuls ouvre ses portes le samedi vingt-trois mars, de neuf heures à seize heures. Vous cherchez une formation qui vous permette de travailler rapidement, sans renoncer aux études supérieures ? Venez découvrir nos trois filières : cuisine, électricité et commerce.
+
+  Ni inscription ni rendez-vous ne sont nécessaires : présentez-vous simplement à l'accueil, au bâtiment B. Des élèves de terminale feront visiter les ateliers toutes les demi-heures.
+
+  À onze heures, une réunion d'information sera proposée aux parents dans l'amphithéâtre. Attention : le parking du lycée sera fermé ce jour-là. Nous vous conseillons de venir en tram, ligne deux, arrêt Gare-Sud.
+items:
+  - q: "Les portes ouvertes ont lieu le samedi ___ mars."
+    answers: ["vingt-trois", "23", "vingt trois"]
+    explain: "*le samedi **vingt-trois** mars, de neuf heures à seize heures.*"
+  - q: "Какое обучение предлагает лицей?"
+    options: ["Такое, которое позволит быстро начать работать, не отказываясь от высшего образования.", "Только подготовку к университету.", "Короткие курсы для взрослых."]
+    answer: 0
+    explain: "*une formation qui vous **permette** de travailler rapidement, sans renoncer aux études supérieures* — subjonctif в относительном придаточном: то, что ищет слушатель."
+  - q: "Нужно ли записываться заранее?"
+    options: ["Да, по телефону.", "Да, на сайте лицея.", "Нет: ни записи, ни встречи не требуется."]
+    answer: 2
+    explain: "*Ni inscription ni rendez-vous ne sont nécessaires* — двойное отрицание в начале фразы."
+  - q: "L'accueil se trouve au bâtiment ___."
+    answers: ["B"]
+    explain: "*présentez-vous simplement à l'accueil, au bâtiment **B**.*"
+  - q: "Как часто проходят экскурсии по мастерским?"
+    options: ["каждые полчаса", "каждый час", "один раз, в одиннадцать"]
+    answer: 0
+    explain: "*feront visiter les ateliers **toutes les demi-heures**.* В одиннадцать — собрание для родителей."
+  - q: "Как советуют добраться до лицея?"
+    options: ["на машине, парковка бесплатная", "на трамвае, линия 2", "на автобусе от вокзала"]
+    answer: 1
+    explain: "*le parking du lycée sera fermé ce jour-là. Nous vous conseillons de venir en tram, ligne deux.*"

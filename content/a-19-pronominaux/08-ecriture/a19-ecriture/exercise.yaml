@@ -1,0 +1,33 @@
+title: "Lettre : ma journée"
+type: writing
+intro: "Напиши письмо другу о своём обычном дне по плану урока."
+prompt: |
+  Tu as une nouvelle vie : un nouveau travail, de nouvelles études ou une nouvelle ville. Tu écris à ton ami(e) français(e) et tu racontes ta journée : le matin, la journée, le soir, le week-end.
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "местоименные глаголы: je me lève, nous nous promenons, je dois me coucher"
+  - "глаголы I группы с особенностями: nous mangeons, nous commençons, j'achète, j'appelle"
+  - "prendre, comprendre, apprendre"
+checklist:
+  - "Есть обращение и прощание."
+  - "Рассказ идёт по порядку: утро, день, вечер, выходные."
+  - "Хотя бы четыре местоименных глагола, местоимение того же лица, что подлежащее."
+  - "Хотя бы один местоименный глагол в инфинитиве: je dois me lever, je vais me reposer."
+  - "Орфография: nous mangeons / commençons, j'achète, j'appelle."
+  - "Есть prendre, comprendre или apprendre."
+  - "Есть вопрос другу."
+model_answer: |
+  Cher Max,
+
+  Je suis à Montréal depuis un mois, j'ai un nouveau travail dans une banque ! Je me lève à sept heures, je me douche et je prends le métro. Le travail commence à neuf heures. Mes collègues parlent vite, mais je comprends presque tout.
+
+  Le soir, je me promène au bord du fleuve, puis nous mangeons ensemble avec mes colocataires. Je me couche à onze heures : je dois me lever tôt !
+
+  Le samedi, je me repose. J'achète des livres en français et j'appelle mes parents.
+
+  Et toi ? Tu te lèves tôt ?
+
+  Je t'embrasse,
+  Anna

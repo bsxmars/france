@@ -1,0 +1,47 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Местоименные глаголы в passé composé — с être: elle s'est levée."
+  - "Если после причастия стоит прямое дополнение (les mains), согласования нет."
+items:
+  - audio: audio/tts/a-21/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Elle s'est levée à sept heures.", "Elle s'est levée à 7 heures.", "Elle s'est levée à 7 h."]
+    explain: "«Она встала в семь». *s'est* — не *c'est*; *levée* согласуется с *elle*."
+  - audio: audio/tts/a-21/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Nous nous sommes rencontrés à Montréal.", "Nous nous sommes rencontrées à Montréal."]
+    explain: "«Мы познакомились в Монреале». *nous nous sommes* — два *nous*; *rencontrés* во мн. ч."
+  - audio: audio/tts/a-21/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["À qui est-ce que tu as parlé ?"]
+    explain: "«С кем у тебя был разговор?» — *parler à qn* → вопрос *à qui*; предлог в начале."
+  - audio: audio/tts/a-21/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Qu'est-ce que vous avez servi au dîner ?"]
+    explain: "«Что вы подавали на ужин?» *qu'est-ce que* — вопрос к прямому дополнению-предмету; *servir* → *servi*."
+  - audio: audio/tts/a-21/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Ils se sont lavé les mains avant le repas."]
+    explain: "«Они вымыли руки перед едой». Прямое дополнение — *les mains*, а *se* — косвенное («себе»), поэтому **lavé** без согласования."
+  - audio: audio/tts/a-21/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Ils sont partis le même jour."]
+    explain: "«Они уехали в один и тот же день». *le même jour* — *même* после артикля: «тот же»."
+  - audio: audio/tatoeba/472065.mp3
+    audio_source: {title: "Tatoeba #393406", url: "https://tatoeba.org/fr/sentences/show/393406", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Comment s'est passé le cours de français ?"]
+    explain: "«Как прошёл урок французского?» *se passer* в passé composé; подлежащее *le cours* стоит после глагола (инверсия после *comment*)."
+  - audio: audio/tatoeba/473870.mp3
+    audio_source: {title: "Tatoeba #4602616", url: "https://tatoeba.org/fr/sentences/show/4602616", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Il s'est levé."]
+    explain: "«Он встал». *s'est levé* — местоименный глагол с *être*."
+  - audio: audio/tatoeba/472039.mp3
+    audio_source: {title: "Tatoeba #5371948", url: "https://tatoeba.org/fr/sentences/show/5371948", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Nous nous sommes mariés le 20 octobre 2013.", "Nous nous sommes mariés le vingt octobre deux mille treize.", "Nous nous sommes mariés le 20 octobre deux mille treize."]
+    explain: "«Мы поженились 20 октября 2013 года». *se marier* → *nous nous sommes mariés*; дата — без предлога: *le 20 octobre*."
+  - audio: audio/tatoeba/473077.mp3
+    audio_source: {title: "Tatoeba #6454526", url: "https://tatoeba.org/fr/sentences/show/6454526", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Ton vol part à 14 h 30.", "Ton vol part à quatorze heures trente.", "Ton vol part à 14h30.", "Ton vol part à 14 heures 30."]
+    explain: "«Твой рейс вылетает в 14:30». *partir*: *il part* — *-t* не звучит."

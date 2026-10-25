@@ -1,0 +1,61 @@
+title: "Généalogie : pourquoi cherchons-nous nos ancêtres ?"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем впиши форму из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Si + plus-que-parfait — то, чего не было; реальный факт — обратный."
+text: |
+  ## Généalogie : pourquoi cherchons-nous nos ancêtres ?
+
+  *Des millions de Français fouillent les archives pour reconstituer leur histoire familiale. Simple curiosité ou besoin plus profond ?*
+
+  L'hiver dernier, Sophie Arnaud vidait la maison de sa grand-mère quand elle a trouvé, au fond du grenier, sous une pile de vieux journaux, une boîte en fer. À l'intérieur, il y avait des lettres, une photo jaunie et un petit carnet que personne n'avait ouvert depuis près d'un siècle. Il avait appartenu à son arrière-grand-père, Louis. Dans la famille, on ne savait presque rien de lui. « J'ai lu la première page debout, au milieu des cartons, et je n'ai pas pu m'arrêter », raconte Sophie, quarante-deux ans.
+
+  Le carnet commence ainsi : « Le 3 août 1914, je quittai le village à l'aube. Ma mère ne pleura pas devant moi. Elle resta longtemps sur le seuil, puis elle rentra sans un mot. » Page après page, Sophie a découvert que Louis avait été blessé en 1916, qu'il avait passé deux ans dans un hôpital de Lyon et qu'il y avait rencontré une jeune infirmière, devenue plus tard sa femme. « Si je n'avais pas ouvert cette boîte, je n'aurais jamais su que mon arrière-grand-mère avait soigné des soldats. Et si Louis n'avait pas été blessé, je ne serais peut-être pas là aujourd'hui ! »
+
+  Sophie n'est pas un cas isolé. Depuis que les archives départementales ont mis leurs registres en ligne, la généalogie est devenue l'un des loisirs préférés des Français. Autrefois réservée aux familles nobles et aux retraités patients, elle se pratique désormais sur un téléphone, le soir, dans le métro. Les tests ADN, pourtant interdits en France, mais faciles à commander à l'étranger, ont encore renforcé la tendance.
+
+  Pour les historiens, cet engouement révèle avant tout un besoin de racines. Nous déménageons bien plus souvent que nos grands-parents, nos familles sont dispersées entre plusieurs villes, parfois plusieurs pays, et le passé nous rassure. Retrouver le village d'un ancêtre, marcher dans la rue qu'il a connue, c'est se sentir appartenir à une histoire plus longue que la sienne.
+
+  La généalogie a pourtant ses pièges. En cherchant à tout prix un ancêtre célèbre, certains finissent par embellir les faits ou par croire les légendes familiales. D'autres découvrent des secrets douloureux : un enfant abandonné, un mariage caché, un grand-père qui n'avait pas été le héros qu'on avait imaginé. Plusieurs lecteurs nous ont écrit qu'ils auraient préféré ne rien savoir.
+
+  Faut-il pour autant laisser le passé tranquille ? Nous ne le pensons pas. Connaître l'histoire de sa famille, ce n'est pas chercher des héros. C'est comprendre que la grande Histoire a été vécue par des gens ordinaires. Louis n'était pas un héros : il avait peur, il écrivait à sa mère, il rêvait de rentrer. Si les manuels scolaires avaient raconté la guerre à travers de tels carnets, beaucoup d'élèves l'auraient sans doute mieux comprise. La généalogie ne remplace pas l'histoire, mais elle lui donne un visage.
+items:
+  - q: "Где Софи нашла коробку?"
+    options: ["в подвале, за старым шкафом", "на чердаке, под стопкой старых газет", "в комнате бабушки, на полке"]
+    answer: 1
+    explain: "*au fond du grenier, sous une pile de vieux journaux* — *au fond de* «в глубине», *sous* «под»."
+  - q: "Vrai / faux / on ne sait pas: дневник почти сто лет никто не открывал."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 0
+    explain: "*un petit carnet que personne **n'avait ouvert** depuis près d'un siècle* — plus-que-parfait: до находки."
+  - q: "Что сделала мать Луи в день его отъезда?"
+    options: ["Она плакала у церкви.", "Она не плакала при нём, долго стояла на пороге и молча вернулась в дом.", "Она проводила его до соседнего села."]
+    answer: 1
+    explain: "Passé simple: *ne **pleura** pas… **resta** longtemps sur le seuil, puis **rentra** sans un mot* = *n'a pas pleuré, est restée, est rentrée*."
+  - q: "Что значит фраза Софи «Si Louis n'avait pas été blessé, je ne serais peut-être pas là aujourd'hui»?"
+    options: ["Луи не был ранен, поэтому Софи родилась.", "Благодаря ранению Луи встретил прабабушку Софи — без этого Софи, возможно, не родилась бы.", "Софи жалеет, что Луи был ранен."]
+    answer: 1
+    explain: "*si* + plus-que-parfait → conditionnel **présent**: нереальное прошлое с последствием в настоящем. Реальность: он был ранен и в госпитале встретил медсестру."
+  - q: "Vrai / faux / on ne sait pas: генеалогические ДНК-тесты во Франции разрешены."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*Les tests ADN, pourtant **interdits** en France, mais faciles à commander à l'étranger* — запрещены."
+  - q: "Vrai / faux / on ne sait pas: Софи нашла в интернете других потомков Луи."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 2
+    explain: "О поисках Софи в интернете в тексте ничего не сказано: онлайн-архивы упомянуты только как общая тенденция."
+  - q: "Чем историки объясняют увлечение генеалогией?"
+    options: ["модой на ДНК-тесты", "потребностью в корнях: мы чаще переезжаем, семьи разбросаны", "желанием найти знаменитого предка"]
+    answer: 1
+    explain: "*cet engouement révèle avant tout un besoin de racines. Nous déménageons bien plus souvent que nos grands-parents…* Знаменитый предок — это «ловушка», о которой говорится дальше."
+  - q: "Какова позиция автора?"
+    options: ["Прошлое лучше не трогать: оно приносит боль.", "Генеалогия не заменяет историю, но показывает, что её прожили обычные люди.", "Школьные учебники надо заменить семейными дневниками."]
+    answer: 1
+    explain: "*Faut-il pour autant laisser le passé tranquille ? Nous ne le pensons pas… La généalogie ne remplace pas l'histoire, mais elle lui donne un visage.* Мысль об учебниках — гипотеза, а не требование."
+  - q: "Впиши форму passé simple из текста: Le 3 août 1914, je ___ le village à l'aube."
+    answers: ["quittai"]
+    explain: "*je **quittai*** — passé simple от *quitter* (1-я группа: *-ai, -as, -a…*) = *j'ai quitté*."
+  - q: "Впиши причастие из текста: Si les manuels avaient raconté la guerre…, beaucoup d'élèves l'auraient sans doute mieux ___."
+    answers: ["comprise"]
+    explain: "*l'* = *la guerre* — прямое дополнение женского рода перед *avoir*, поэтому **comprise**."

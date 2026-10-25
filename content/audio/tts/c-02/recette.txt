@@ -1,0 +1,5 @@
+# pause: 600
+F: Et voici la recette de la semaine : le pouding chômeur, un grand classique québécois né pendant la crise des années trente, quand les familles n'avaient ni beurre en abondance ni argent pour les desserts.
+F: Pour six personnes, il vous faut deux tasses de farine, une demi-tasse de sucre, une pincée de sel, deux cuillères à thé de poudre à pâte, une tasse de lait et un peu de beurre fondu. Mélangez le tout et versez la pâte dans un plat.
+F: Pour le sirop, faites bouillir deux tasses d'eau avec une tasse de sirop d'érable — du vrai, pas du sirop de table — et une tasse de cassonade. Versez le sirop bien chaud sur la pâte, sans mélanger : c'est lui qui va former le caramel au fond du plat.
+F: Faites cuire trente-cinq minutes à trois cent cinquante degrés Fahrenheit, soit environ cent quatre-vingts degrés Celsius. Servez tiède, avec de la crème glacée si vous voulez faire plaisir aux enfants. Bon appétit !

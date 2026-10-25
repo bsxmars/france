@@ -1,0 +1,27 @@
+title: "Message : qui fait quoi ?"
+type: writing
+intro: "Напиши другу о своей семье по плану урока: кто где живёт и кто что делает."
+prompt: |
+  Tu écris à ton ami(e) français(e). Présente ta famille : qui habite où, qui travaille, qui lit, qui écrit. Termine par une question avec « qui ».
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "порядок слов: подлежащее → глагол → дополнение"
+  - "города без артикля: habiter Paris, quitter Lille"
+  - "3-е лицо глаголов III группы: il lit — ils lisent, elle écrit — elles écrivent, il part"
+  - "вопрос к подлежащему qui + глагол в 3-м лице ед. ч."
+checklist:
+  - "Есть обращение, вопрос другу и прощание."
+  - "Порядок прямой: кто → глагол → что / где."
+  - "Перед названием города нет артикля: habite Paris, quitte Lille."
+  - "Глагол III группы во мн. ч. — с нужной основой: ils lisent, elles écrivent, ils font."
+  - "В вопросе с qui глагол — в 3-м лице ед. ч.: Qui habite…? Qui lit…?"
+  - "Определитель согласован: ma mère, mon frère, mes sœurs."
+model_answer: |
+  Salut Paul !
+
+  Je suis à Lille avec ma famille. Mon père travaille à la mairie. Ma mère lit beaucoup : elle lit le soir. Mes sœurs écrivent des textes pour l'école. Mon frère Hugo habite Paris. Il part ce soir. Et toi ? Qui habite avec toi à Moscou ?
+
+  Bisous,
+  Anna

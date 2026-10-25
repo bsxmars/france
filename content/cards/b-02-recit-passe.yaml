@@ -174,3 +174,27 @@
   lesson: b-02-recit-passe/05-grammaire
   q: "Вставь: *au fond ___ jardin*, *au bord ___ lacs*."
   a: "*au fond **du** jardin*, *au bord **des** lacs* — *de* сливается с *le* и *les*."
+- id: b02-grenier
+  lesson: b-02-recit-passe/07-lecture
+  q: "«На чердаке, под стопкой старых газет»."
+  a: "*au fond du **grenier**, sous une pile de vieux journaux*."
+- id: b02-ancetres
+  lesson: b-02-recit-passe/07-lecture
+  q: "«Восстановить историю семьи, искать предков»."
+  a: "**reconstituer** son histoire familiale, chercher ses **ancêtres**."
+- id: b02-haute-consideration
+  lesson: b-02-recit-passe/08-ecriture
+  q: "Формула вежливости в письме мэру?"
+  a: "*Je vous prie d'agréer, Monsieur le Maire, l'expression de ma haute considération.*"
+- id: b02-rendre-compte
+  lesson: b-02-recit-passe/09-ecoute
+  q: "«Она поняла, что…» — *se rendre compte* в passé composé."
+  a: "*Elle s'est **rendu** compte que…* — причастие не согласуется: *compte* — прямое дополнение после глагола."
+- id: b02-temoignages
+  lesson: b-02-recit-passe/09-ecoute
+  q: "«Мы собрали двести свидетельств»."
+  a: "Nous avons **recueilli** deux cents **témoignages**."
+- id: b02-bouche-oreille
+  lesson: b-02-recit-passe/09-ecoute
+  q: "«Сарафанное радио»?"
+  a: "**le bouche-à-oreille**."

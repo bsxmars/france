@@ -3,7 +3,10 @@ import { compile } from '../build/compile.ts';
 import { load } from '../build/content.ts';
 import { dirFS } from '../build/fs.ts';
 
-const { lessons } = compile(load(dirFS('content')));
+const course = load(dirFS('content'));
+const { lessons } = compile(course);
+// Lessons of the first level: the course page and progress count one level at a time.
+const TOTAL = course.modules.filter((m) => m.level.code === 'b1').reduce((n, m) => n + m.lessons.length, 0);
 const LESSON = 'a-01-article/01-grammaire';
 
 /** Answers every item of the exercise on screen correctly. */
@@ -39,12 +42,12 @@ test('a lesson from theory to the next one', async ({ page }) => {
     if (i < ids.length - 1) await page.getByRole('link', { name: 'Следующее упражнение →' }).click();
   }
   await page.getByRole('button', { name: 'Завершить урок →' }).click();
-  await expect(page).toHaveURL(/lesson\/a-02-etre/);
+  await expect(page).toHaveURL(/lesson\/a-01-article\/07-lecture/);
 
   // Progress survives a reload: it is in IndexedDB.
   await page.goto('./');
   await page.reload();
-  await expect(page.getByText('Пройдено уроков: 1 из 48')).toBeVisible();
+  await expect(page.getByText(`Пройдено уроков: 1 из ${TOTAL}`)).toBeVisible();
   await expect(page.locator('.lessons li.done')).toHaveCount(1);
 
   // The finished lesson unlocked its cards.
@@ -54,7 +57,7 @@ test('a lesson from theory to the next one', async ({ page }) => {
   await expect(page.getByText(/Осталось на сегодня|всё повторено/)).toBeVisible();
 
   await page.goto('progress');
-  await expect(page.locator('.stat-n').first()).toHaveText('1/48');
+  await expect(page.locator('.stat-n').first()).toHaveText(`1/${TOTAL}`);
 });
 
 test('a wrong answer is explained, an accent slip is flagged', async ({ page }) => {
@@ -105,7 +108,7 @@ test('progress moves between devices as a file', async ({ page }) => {
   page.once('dialog', (d) => d.accept());
   await page.locator('input[type=file]').setInputFiles({ name: 'p.json', mimeType: 'application/json', buffer: Buffer.from(JSON.stringify(data)) });
   await expect(page.getByText('Прогресс загружен')).toBeVisible();
-  await expect(page.locator('.stat-n').first()).toHaveText('1/48');
+  await expect(page.locator('.stat-n').first()).toHaveText(`1/${TOTAL}`);
 });
 
 test('deep links, the level switch and unknown pages', async ({ page }) => {
@@ -136,4 +139,18 @@ test('the whole course works offline once installed', async ({ page, context, br
 
   await page.goto(`practice/${LESSON}`);
   await solve(page, lessons.get(LESSON)!.exercises[0]!.id);
+});
+
+test('a listening exercise plays its recording and shows the transcript once checked', async ({ page }) => {
+  const id = [...lessons.values()].flatMap((l) => l.exercises).find((e) => e.type === 'listening' && e.audio)?.id;
+  test.skip(!id, 'no listening exercise with local audio');
+  const lesson = [...lessons.values()].find((l) => l.exercises.some((e) => e.id === id))!;
+  await page.goto(`practice/${lesson.id}?ex=${id}`);
+  const player = page.locator('audio.player').first();
+  await expect(player).toHaveAttribute('src', /\/audio\/.+\.mp3$/);
+  const src = await player.getAttribute('src');
+  expect((await page.request.get(src!)).status()).toBe(200);
+  await expect(page.locator('details.transcript')).toHaveCount(0);
+  await page.getByRole('button', { name: '✓ Проверить' }).click();
+  await expect(page.locator('details.transcript')).toHaveCount(1);
 });

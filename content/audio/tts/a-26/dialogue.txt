@@ -1,0 +1,19 @@
+# rate: -5%
+# pause: 700
+B: Bonjour madame. J'ai perdu mon sac à dos hier soir, dans le bus numéro douze.
+E: Bonjour monsieur. Un sac à dos… Il est comment ?
+B: C'est un sac bleu que j'ai acheté le mois dernier. Il y a un petit chat blanc dessus.
+E: Et qu'est-ce qu'il y avait dedans ?
+B: Mon ordinateur, un livre et un pull gris.
+E: Pas de clés ? Pas de portefeuille ?
+B: Non, ni mes clés ni mon portefeuille. Heureusement, je les mets toujours dans ma poche.
+E: Bon. Hier, personne n'a rapporté de sac bleu. Mais attendez, je regarde les objets qui sont arrivés ce matin… Non, je ne vois rien. Il y a un sac noir et une valise, c'est tout.
+B: Oh non… Je ne retrouverai jamais mon ordinateur !
+E: Ne perdez pas espoir, monsieur. Les sacs qu'on trouve dans les bus n'arrivent pas tout de suite. Le chauffeur les remet au dépôt, et le dépôt nous les transmet le jeudi.
+B: Le jeudi ? Alors je reviens jeudi ?
+E: Non, vous n'avez pas besoin de revenir. Vous permettez ? Je note votre nom et votre numéro, et nous vous appelons.
+B: Bien sûr. Martin, Paul Martin. Zéro six, douze, quarante-cinq, quatre-vingt-sept, trente.
+E: Merci. Une dernière question : l'ordinateur, il est à vous ou à votre entreprise ?
+B: À mon entreprise. Et mon chef ne sait encore rien !
+E: Alors, je vous promets de vous appeler jeudi matin, dès l'ouverture.
+B: Merci beaucoup, madame. Vous êtes très gentille.

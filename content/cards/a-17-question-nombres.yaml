@@ -26,3 +26,23 @@
   lesson: a-17-question-nombres/01-grammaire
   q: "Проспрягай *voir* в настоящем времени."
   a: "*je vois, tu vois, il voit, nous **voyons**, vous **voyez**, ils voient*."
+- id: a17-vide-grenier
+  lesson: a-17-question-nombres/07-lecture
+  q: "«В субботу на нашей улице распродажа старых вещей; я продаю свой велосипед»."
+  a: "Samedi, il y a un **vide-grenier** dans notre rue ; je **vends** mon vélo."
+- id: a17-descendre-prix
+  lesson: a-17-question-nombres/09-ecoute
+  q: "«Вы сбавите цену?» — «Это моя последняя цена»."
+  a: "Vous **descendez le prix** ? — C'est mon **dernier prix**."
+- id: a17-septante
+  lesson: a-17-question-nombres/09-ecoute
+  q: "Как говорят 70, 80, 90 в Бельгии и Швейцарии?"
+  a: "**septante**, **nonante** (Бельгия, Швейцария); 80 — *quatre-vingts* в Бельгии, **huitante** в Швейцарии."
+- id: a17-vendent-oral
+  lesson: a-17-question-nombres/09-ecoute
+  q: "Как на слух отличить *il vend* от *ils vendent*?"
+  a: "Во мн. ч. звучит **[д]**: *il vend* [вã] — *ils vendent* [вãд]. У *voir* разницы нет: *il voit* = *ils voient* [вуа]."
+- id: a17-attends-reponse
+  lesson: a-17-question-nombres/08-ecriture
+  q: "Конец письма-приглашения: «Придёшь? Ответь скорее, жду ответа!»"
+  a: "Tu viens ? **Réponds** vite, **j'attends** ta réponse !"

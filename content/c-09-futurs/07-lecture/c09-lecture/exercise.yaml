@@ -1,0 +1,63 @@
+title: "Le futur n'est plus ce qu'il était"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Conditionnel после прошедшего времени — будущее с точки зрения прошлого: так думали тогда."
+  - "Историческое будущее (il faudra attendre…) рассказывает о прошлом."
+text: |
+  ## Le futur n'est plus ce qu'il était
+
+  *Les prévisions d'hier font sourire. Celles d'aujourd'hui feront-elles sourire nos petits-enfants ?*
+
+  En 1970, les magazines de vulgarisation scientifique étaient formels : en l'an 2000, nous habiterions des villes sous-marines, les voitures voleraient au-dessus des autoroutes et des robots domestiques auraient remplacé les femmes de ménage. Le travail, disait-on, allait devenir un loisir : grâce à l'automatisation, personne ne travaillerait plus de vingt heures par semaine. L'an 2000 est arrivé. Nous n'avons ni voitures volantes ni villes sous la mer, et nous travaillons à peu près autant que nos parents.
+
+  Il serait pourtant injuste de se moquer de ces prophètes, car leurs erreurs nous apprennent quelque chose. D'abord, ils imaginaient l'avenir comme un présent agrandi : plus vite, plus haut, plus grand. Ce qu'ils n'avaient pas vu venir, c'était ce qui allait réellement bouleverser nos vies : un petit objet qui tient dans la poche et qui relie chacun à tous. Ensuite, ils sous-estimaient la lenteur des sociétés. Une technique ne change le monde que lorsqu'elle a été adoptée, payée, réglementée, et cela prend des décennies.
+
+  Aujourd'hui, les prévisions ont changé de ton. Elles ne promettent plus l'abondance ; elles annoncent des contraintes. D'ici 2050, nous dit-on, la population urbaine aura augmenté de plusieurs milliards de personnes, les étés seront plus chauds, et les villes devront se réinventer. Les urbanistes parlent déjà de « villes du quart d'heure », où chacun trouvera à quinze minutes de chez lui son travail, ses commerces et ses loisirs. On plantera des forêts sur les toits, on transformera les parkings vides en logements, on rouvrira les rivières enterrées au dix-neuvième siècle. Certaines de ces idées sont d'ailleurs déjà à l'essai : à Paris comme à Séoul, des voies rapides ont été rendues aux piétons, et l'on voit des quartiers entiers se couvrir de jardins.
+
+  Ces scénarios se réaliseront-ils ? Personne ne le sait. Mais une chose a changé : l'avenir n'est plus présenté comme une destination où l'on arrive, mais comme une construction dont nous sommes responsables. Ce n'est plus une question de technique, c'est une question de choix. Quand nos petits-enfants liront nos prévisions, ils ne se demanderont pas seulement si nous avions vu juste. Ils se demanderont ce que nous aurons fait pour que le pire n'arrive pas.
+
+  Le risque, c'est le fatalisme. À force d'entendre que la planète se réchauffe, que les glaciers fondent, que les espèces disparaissent, beaucoup finissent par penser que tout est joué. Or rien ne l'est. Les historiens le rappellent volontiers : au début du vingtième siècle, peu de gens auraient parié que Londres, étouffée par le smog, retrouverait un jour un air respirable. Il faudra attendre les années 1950 et une catastrophe sanitaire pour que des lois soient votées ; quelques décennies plus tard, le smog ne sera plus qu'un souvenir.
+
+  Peut-être est-ce là la vraie leçon des prévisions ratées : l'avenir ne se devine pas, il se prépare. Dans trente ans, quelqu'un relira sans doute cet article en souriant. On peut espérer qu'il sourira parce que nos craintes ne se seront pas réalisées, et que nous y aurons été pour quelque chose.
+items:
+  - q: "Что предсказывали журналы 1970 года на 2000 год?"
+    options: ["Подводные города, летающие машины, домашних роботов и короткую рабочую неделю.", "Смартфоны и интернет.", "Глобальное потепление."]
+    answer: 0
+    explain: "*nous **habiterions**…, les voitures **voleraient**…, des robots **auraient remplacé**…, personne ne **travaillerait** plus de vingt heures* — futur dans le passé и futur antérieur dans le passé: так думали в 1970-м."
+  - q: "Vrai / faux / on ne sait pas: сегодня мы работаем намного меньше, чем наши родители."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*nous travaillons **à peu près autant** que nos parents* — неверно."
+  - q: "Как автор относится к авторам старых прогнозов?"
+    options: ["Насмехается над их наивностью.", "Считает, что их ошибки поучительны.", "Считает, что они были правы."]
+    answer: 1
+    explain: "*Il serait pourtant **injuste** de se moquer de ces prophètes, car leurs erreurs nous apprennent quelque chose.*"
+  - q: "Чего не предвидели «пророки» 1970 года?"
+    options: ["Небольшого карманного устройства, которое связывает всех со всеми.", "Летающих машин.", "Роста городов."]
+    answer: 0
+    explain: "*Ce qu'ils n'avaient pas vu venir, c'était ce qui **allait** réellement **bouleverser** nos vies : un petit objet qui tient dans la poche* — *allait + infinitif* = будущее с точки зрения прошлого. Автор не называет смартфон прямо — это имплицитно."
+  - q: "Почему, по мнению автора, техника меняет мир медленно?"
+    options: ["Потому что изобретатели работают медленно.", "Потому что её должны принять, оплатить и урегулировать законами.", "Потому что люди боятся машин."]
+    answer: 1
+    explain: "*Une technique ne change le monde **que lorsqu'elle a été** adoptée, payée, réglementée, et cela prend des décennies.*"
+  - q: "Чем современные прогнозы отличаются от прежних?"
+    options: ["Они обещают изобилие.", "Они говорят об ограничениях, а не об изобилии.", "Они точнее."]
+    answer: 1
+    explain: "*Elles ne promettent plus l'abondance ; elles annoncent des contraintes.* О точности автор говорит: *Personne ne le sait.*"
+  - q: "Что изменилось в представлении о будущем?"
+    options: ["Будущее — пункт назначения, куда мы неизбежно придём.", "Будущее — то, что мы строим и за что отвечаем.", "Будущее невозможно обсуждать."]
+    answer: 1
+    explain: "*l'avenir n'est plus présenté comme une destination où l'on arrive, mais comme une construction dont nous sommes responsables. Ce n'est plus une question de technique, c'est une question de choix.*"
+  - q: "Зачем автор приводит пример Лондона?"
+    options: ["Чтобы показать, что загрязнение воздуха неизбежно.", "Чтобы показать, что казавшееся безнадёжным удалось изменить, — фатализм не оправдан.", "Чтобы похвалить британских историков."]
+    answer: 1
+    explain: "Пример идёт после *beaucoup finissent par penser que tout est joué. **Or rien ne l'est.*** *Il faudra attendre…, le smog **ne sera plus qu'un souvenir*** — историческое будущее о событиях XX века."
+  - q: "Что автор подразумевает последними словами «et que nous y aurons été pour quelque chose»?"
+    options: ["Что страхи не сбудутся сами собой, а благодаря нашим действиям.", "Что мы будем виноваты в катастрофе.", "Что статью перечитают через тридцать лет."]
+    answer: 0
+    explain: "*y être pour quelque chose* — «быть причастным». Futur antérieur — взгляд из будущего назад: «к тому времени мы приложим к этому руку»."
+  - q: "Впиши вспомогательный глагол из текста: «D'ici 2050, la population urbaine ___ augmenté de plusieurs milliards»."
+    answers: ["aura"]
+    explain: "**aura augmenté** — futur antérieur: действие будет завершено к сроку (*d'ici 2050*)."

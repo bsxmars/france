@@ -1,0 +1,32 @@
+title: "Lettre : un souvenir d'enfance"
+type: writing
+intro: "Напиши другу о воспоминании из детства по плану урока."
+prompt: |
+  Ton ami(e) français(e) te demande : « Comment était ton enfance ? » Tu lui racontes : où tu habitais, ce que tu faisais d'habitude (l'été, le dimanche…) et un événement important de cette époque.
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "imparfait для описания и привычек"
+  - "passé composé для события"
+  - "согласование причастия с дополнением впереди: je l'ai gardée"
+  - "причина: comme, parce que, car"
+  - "vouloir, pouvoir в imparfait"
+checklist:
+  - "Есть обращение и прощание."
+  - "Описание и привычки — в imparfait (хотя бы четыре глагола)."
+  - "Хотя бы одно событие — в passé composé, со словом-сигналом (un jour, un été)."
+  - "Есть причина: comme, parce que или car."
+  - "Есть vouloir или pouvoir."
+  - "Если местоимение le, la, les стоит перед avoir — причастие согласовано."
+model_answer: |
+  Cher Tom,
+
+  Tu me demandes comment était mon enfance. Quand j'étais petite, nous habitions dans un village près de Kazan. Mon père travaillait à l'école et ma mère était médecin. Le dimanche, nous allions chez mes grands-parents. Comme ils avaient un grand jardin, nous pouvions jouer dehors toute la journée.
+
+  Un été, quand j'avais neuf ans, mon grand-père m'a offert un vélo rouge. Je voulais aller partout avec lui ! Je l'ai gardé longtemps, parce que c'était son cadeau.
+
+  Et toi, comment était ton enfance ?
+
+  Bises,
+  Olga

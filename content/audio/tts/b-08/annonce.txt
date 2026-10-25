@@ -1,0 +1,4 @@
+# pause: 600
+H: Le lycée professionnel Les Tilleuls ouvre ses portes le samedi vingt-trois mars, de neuf heures à seize heures. Vous cherchez une formation qui vous permette de travailler rapidement, sans renoncer aux études supérieures ? Venez découvrir nos trois filières : cuisine, électricité et commerce.
+H: Ni inscription ni rendez-vous ne sont nécessaires : présentez-vous simplement à l'accueil, au bâtiment B. Des élèves de terminale feront visiter les ateliers toutes les demi-heures.
+H: À onze heures, une réunion d'information sera proposée aux parents dans l'amphithéâtre. Attention : le parking du lycée sera fermé ce jour-là. Nous vous conseillons de venir en tram, ligne deux, arrêt Gare-Sud.

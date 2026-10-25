@@ -1,0 +1,28 @@
+title: "Lettre : deux villes, des vacances"
+type: writing
+intro: "Напиши письмо другу по плану урока."
+prompt: |
+  Tu as passé tes vacances dans deux villes (ou deux villages). Tu écris à ton ami(e) français(e) : tu compares les deux endroits (la taille, les prix, le temps, les gens…), tu racontes le meilleur moment et tu dis quel endroit tu préfères et pourquoi.
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "сравнение прилагательных: plus / moins / aussi… que"
+  - "превосходная степень: le plus…, la plus…; meilleur, pire"
+  - "ударные местоимения: moi, toi, lui, elle, eux; Ma sœur et moi…"
+  - "de вместо des перед прилагательным: de beaux musées"
+checklist:
+  - "Есть обращение (Salut… / Cher… / Chère…) и прощание."
+  - "Хотя бы три сравнения: plus… que, moins… que, aussi… que."
+  - "Есть превосходная степень и meilleur или pire (не plus bon)."
+  - "Хотя бы два ударных местоимения: Moi, je…; avec lui; Mes amis et moi…"
+  - "Прилагательные согласованы: la plus belle plage, les rues sont plus calmes."
+  - "Перед прилагательным во множественном числе — de: de petits restaurants."
+  - "Рассказ о поездке — в passé composé, описание — в imparfait или présent."
+model_answer: |
+  Salut Marc,
+
+  Je suis rentrée de vacances ! Ma sœur et moi, nous avons passé trois jours à Bordeaux et quatre jours à Biarritz. Bordeaux est plus grande que Biarritz et plus animée : il y a de beaux musées et de jolies places. Mais Biarritz est moins chère, et la plage est la plus belle de la région. Le meilleur moment, c'était le soir, au bord de la mer. Ma sœur, elle, préfère Bordeaux : pour elle, les musées sont plus importants que la plage. Moi, je préfère Biarritz. Et toi ? L'année prochaine, tu viens avec nous ?
+
+  Bises,
+  Anna

@@ -1,0 +1,26 @@
+title: "Message : une rencontre inattendue"
+type: writing
+intro: "Напиши письмо другу по плану урока."
+prompt: |
+  Tu as rencontré par hasard un(e) ami(e) d'enfance. Vous ne vous étiez pas vus depuis longtemps. Tu écris à un(e) autre ami(e) : où et quand vous vous êtes rencontrés, ce que cette personne avait fait pendant toutes ces années, comment elle est aujourd'hui.
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "plus-que-parfait: avait / était + participe passé — то, что было раньше"
+  - "согласование причастия с être: elle était partie, devenue"
+  - "женский род существительных и прилагательных: directrice, traductrice, gentille, active"
+checklist:
+  - "Есть обращение и прощание."
+  - "Сама встреча — в passé composé, обстановка — в imparfait."
+  - "Хотя бы три глагола в plus-que-parfait — о том, что было до встречи."
+  - "С être причастие согласовано: elle était partie, nous nous étions vus / vues."
+  - "Хотя бы три слова в женском роде: профессия, прилагательные (gentille, active, heureuse)."
+  - "Есть планы или приглашение на будущее."
+model_answer: |
+  Salut Julien,
+
+  Samedi, au marché, j'ai rencontré Laura, une amie d'enfance. Nous ne nous étions pas vus depuis quinze ans ! Elle m'a tout raconté. Après le lycée, elle était partie en Espagne, elle avait appris l'espagnol et elle était devenue traductrice. Elle avait aussi vécu deux ans au Mexique. Maintenant, elle habite à Lyon avec son mari, et elle est directrice d'une petite école de langues. Elle n'a pas changé : elle est toujours aussi gentille, drôle et active. Nous avons pris un café ensemble. Il pleuvait, mais nous avons parlé pendant deux heures ! Je l'ai invitée à dîner samedi prochain. Tu veux venir ?
+
+  À bientôt,
+  Marc

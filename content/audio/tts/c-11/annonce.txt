@@ -1,0 +1,5 @@
+# pause: 600
+G: Mesdames et messieurs, votre attention, s'il vous plaît. En raison de travaux sur les voies, le train InterCity à destination de Namur, qui devait partir à dix-sept heures douze du quai numéro trois, partira exceptionnellement du quai numéro six.
+G: On vient de nous informer que ce train aurait un retard d'environ vingt minutes. Veuillez rejoindre le quai six par le passage souterrain ; ne traversez en aucun cas les voies.
+G: Les voyageurs qui avaient réservé une place en première classe sont priés de se présenter en tête du train. Vous avez une correspondance à Namur ? Ne vous inquiétez pas : elle sera assurée.
+G: Pour votre sécurité, tenez-vous éloignés de la bordure du quai et ne laissez pas vos bagages sans surveillance. Nous vous remercions de votre compréhension.

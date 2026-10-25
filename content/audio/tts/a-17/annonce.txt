@@ -1,0 +1,11 @@
+# rate: -5%
+# pause: 700
+G: Bonjour à tous et bienvenue au grand marché aux puces de Namur !
+G: Aujourd'hui, septante-deux vendeurs vous attendent sur la place, de huit heures à dix-sept heures.
+G: Vous cherchez des livres ? Les libraires sont au fond de la place, à côté de la fontaine. Les meubles et les vélos sont rue Haute, du numéro nonante au numéro nonante-huit.
+G: Attention, s'il vous plaît : une petite fille attend ses parents au stand d'information, à l'entrée de la place. Elle s'appelle Lina, elle a six ans et elle a un manteau jaune.
+G: Le café de la place vend des gaufres à trois euros. Et à quinze heures, sur la grande scène, vous entendez le groupe de jazz Les Copains du Nord. Le concert est gratuit.
+G: Pour les enfants, il y a un atelier de dessin à onze heures, devant la mairie. Il coûte deux euros par enfant.
+G: Petite information pour vos achats : beaucoup de vendeurs attendent de l'argent liquide. Il y a un distributeur de billets rue Haute, au numéro quatre-vingt-un.
+G: Vous venez en voiture ? Le parking du marché est complet. Le parking de la gare coûte quatre euros pour la journée.
+G: Bon marché à tous !

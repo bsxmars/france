@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Причастие местоимённого глагола согласуется, только если se — прямое дополнение и после глагола нет другого прямого дополнения."
+  - "На слух согласование почти не слышно: решает грамматика."
+items:
+  - audio: audio/tts/c-08/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Ces lettres ont été écrites par ma grand-mère."]
+    explain: "«Эти письма написаны моей бабушкой». Пассив в passé composé: *ont été* + причастие, согласованное с подлежащим (*écrites* — здесь слышно [t])."
+  - audio: audio/tts/c-08/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Elles se sont lavé les mains avant de passer à table."]
+    explain: "«Они вымыли руки, прежде чем сесть за стол». Прямое дополнение — *les mains* после глагола, *se* — косвенное, поэтому **lavé** без согласования."
+  - audio: audio/tts/c-08/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Ils se sont parlé pendant des heures."]
+    explain: "«Они разговаривали часами». *parler à qn* — *se* косвенное дополнение → **parlé** неизменяемо."
+  - audio: audio/tts/c-08/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Elle s'est rendu compte de son erreur trop tard."]
+    explain: "«Она слишком поздно поняла свою ошибку». *se rendre compte*: прямое дополнение — *compte*, поэтому **rendu** без согласования."
+  - audio: audio/tts/c-08/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Ce genre de choses ne se dit pas en public."]
+    explain: "«Такое не говорят на людях». Местоимённый пассив: **se dit** = «говорится», норма поведения."
+  - audio: audio/tts/c-08/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Le directeur est respecté de tous ses collaborateurs."]
+    explain: "«Директора уважают все его сотрудники». С глаголами чувства (*respecter, aimer, craindre*) агент вводится через **de**."
+  - audio: audio/tts/c-08/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Les deux candidats se sont succédé à la tribune."]
+    explain: "«Оба кандидата один за другим выступили с трибуны». *succéder à qn* — *se* косвенное → **succédé** неизменяемо."
+  - audio: audio/tts/c-08/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Nous avons sorti les valises de la voiture."]
+    explain: "«Мы достали чемоданы из машины». С прямым дополнением *sortir* спрягается с **avoir**; дополнение после глагола — без согласования."

@@ -1,0 +1,72 @@
+title: "Le premier rendez-vous"
+type: listening
+intro: "Послушай разговор друзей (дважды) и ответь на вопросы."
+hints:
+  - "Вопросительное слово подсказывает, какой будет ответ: avec qui, où, de quoi, à quelle heure."
+  - "même + существительное — «тот же»; même перед словом — «даже»."
+audio: audio/tts/a-21/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural, fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  **Margaux :** Alors, Lucas, raconte ! Avec qui est-ce que tu es sorti samedi soir ?
+
+  **Lucas :** Avec Emma, la fille du cours de guitare.
+
+  **Margaux :** J'en suis sûre ! Et où est-ce que vous vous êtes donné rendez-vous ?
+
+  **Lucas :** Devant le cinéma, à huit heures. Mais je me suis trompé de cinéma ! Je suis allé au Rex, et elle, elle est allée au Palace.
+
+  **Margaux :** Oh non ! Et qu'est-ce que tu as fait ?
+
+  **Lucas :** Je lui ai téléphoné, et j'ai couru jusqu'au Palace. Je suis arrivé à huit heures et quart. Elle a ri, heureusement.
+
+  **Margaux :** Et qu'est-ce que vous avez vu ?
+
+  **Lucas :** Une comédie italienne. C'est drôle : nous aimons les mêmes films ! Et même les mêmes acteurs.
+
+  **Margaux :** Et après le film ?
+
+  **Lucas :** Nous sommes sortis et nous nous sommes promenés au bord du canal. Puis nous nous sommes assis dans un petit café. Le serveur nous a servi un chocolat chaud.
+
+  **Margaux :** De quoi est-ce que vous avez parlé ?
+
+  **Lucas :** De musique, de voyages… Elle est partie un an au Japon, tu sais. Nous avons parlé pendant trois heures !
+
+  **Margaux :** Trois heures ! Et à quelle heure est-ce que vous vous êtes quittés ?
+
+  **Lucas :** À minuit et demi. Je suis rentré à pied. Et cette nuit, je n'ai pas dormi.
+
+  **Margaux :** Tu mens !
+
+  **Lucas :** Non, je ne mens pas ! Je me suis couché à une heure, mais je me suis levé à cinq heures. Je me suis senti… bizarre. Heureux, je crois.
+
+  **Margaux :** Et elle ? À qui est-ce qu'elle a parlé de toi ?
+
+  **Lucas :** Je ne sais pas. Mais ce matin, elle m'a envoyé un message : « Le même cinéma samedi prochain ? Le bon, cette fois ! »
+items:
+  - q: "С кем Люка ходил на свидание?"
+    options: ["с Марго", "с Эммой с курсов гитары", "с девушкой из кафе"]
+    answer: 1
+    explain: "*Avec qui est-ce que tu es sorti samedi soir ? — Avec Emma, la fille du cours de guitare.*"
+  - q: "Что пошло не так в начале?"
+    options: ["Эмма опоздала.", "Люка перепутал кинотеатр.", "Кинотеатр был закрыт."]
+    answer: 1
+    explain: "*je **me suis trompé** de cinéma ! Je suis allé au Rex, et elle, elle est allée au Palace.*"
+  - q: "Что общего у Люка и Эммы?"
+    options: ["Они любят одни и те же фильмы и даже тех же актёров.", "Они оба жили в Японии.", "Они играют в одной группе."]
+    answer: 0
+    explain: "*nous aimons **les mêmes** films ! Et **même** les mêmes acteurs.* — в Японии была только Эмма."
+  - q: "Что они делали после фильма?"
+    options: ["Пошли в ресторан.", "Гуляли у канала, потом сидели в кафе.", "Сразу разошлись по домам."]
+    answer: 1
+    explain: "*nous **nous sommes promenés** au bord du canal. Puis nous **nous sommes assis** dans un petit café.*"
+  - q: "Сколько времени они разговаривали?"
+    options: ["час", "три часа", "всю ночь"]
+    answer: 1
+    explain: "*Nous avons parlé pendant trois heures !*"
+  - q: "Во сколько они расстались? ___"
+    answers: ["minuit et demi", "à minuit et demi", "0 h 30", "00 h 30", "0h30", "00:30", "minuit et demie"]
+    explain: "*à quelle heure est-ce que vous **vous êtes quittés** ? — À minuit et demi.*"
+  - q: "Что написала Эмма утром?"
+    options: ["Что больше не хочет встречаться.", "Предложила тот же кинотеатр в следующую субботу.", "Что потеряла телефон."]
+    answer: 1
+    explain: "*« Le même cinéma samedi prochain ? Le bon, cette fois ! »* — «в тот же кинотеатр… в правильный на этот раз»."

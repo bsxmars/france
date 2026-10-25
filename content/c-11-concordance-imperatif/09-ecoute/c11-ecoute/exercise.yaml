@@ -1,0 +1,75 @@
+title: "Les mots du quotidien : l'impératif"
+type: listening
+intro: "Послушай радиоинтервью с лингвистом (дважды) и ответь на вопросы."
+hints:
+  - "«Je pensais que…» + conditionnel — ожидание; настоящий ответ идёт после finalement / mais."
+  - "Пример в интервью — иллюстрация мысли: спроси себя, что он доказывает."
+audio: audio/tts/c-11/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural, fr-FR-DeniseNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour et bienvenue dans « Les mots du quotidien ». Notre invité, Marc Berthod, est linguiste à l'université de Lausanne. Il vient de publier un livre sur une forme grammaticale que nous utilisons tous, souvent sans y penser : l'impératif. Marc Berthod, bonjour.
+
+  **Marc Berthod :** Bonjour, et merci de m'avoir invité.
+
+  **Journaliste :** Pourquoi s'intéresser à l'impératif ? C'est une forme plutôt simple, non ?
+
+  **Marc Berthod :** Simple en apparence. Quand j'ai commencé mes recherches, je pensais que j'aurais fait le tour du sujet en six mois. J'y ai finalement consacré quatre ans ! Car l'impératif ne sert pas seulement à donner des ordres. Avec lui, on conseille, on supplie, on invite, on souhaite. « Passez une bonne soirée », ce n'est pas un ordre, c'est un vœu.
+
+  **Journaliste :** Votre livre s'ouvre sur les panneaux qu'on voit dans les lieux publics. Qu'est-ce qui a changé ?
+
+  **Marc Berthod :** Énormément de choses. Dans les années cinquante, on lisait partout « Défense de fumer » ou « Interdit aux chiens ». Pas de verbe conjugué, pas de personne : c'était la loi qui parlait. Ensuite est venu l'impératif, plus direct : « Ne marchez pas sur les pelouses ». Et aujourd'hui, on trouve surtout des formules comme « Merci de ne pas fumer » ou « Nous vous remercions de bien vouloir laisser cet endroit propre ».
+
+  **Journaliste :** On remercie avant même que les gens aient obéi !
+
+  **Marc Berthod :** Exactement, et c'est très habile. On fait comme si la personne avait déjà accepté. Les responsables d'une grande gare m'ont raconté qu'ils avaient testé plusieurs formulations et que les remerciements avaient donné de meilleurs résultats que les interdictions.
+
+  **Journaliste :** Et la forme « Veuillez… » ? On l'entend dans tous les trains.
+
+  **Marc Berthod :** « Veuillez », c'est l'impératif du verbe vouloir, mais un impératif figé, très soutenu. Il permet de donner un ordre tout en le présentant comme une politesse. Dans les courriers administratifs, on va encore plus loin : « Ayez l'obligeance de nous retourner ce formulaire ». Mes étudiants étrangers me demandent souvent si c'est ironique. Pas du tout ! C'est simplement le registre de l'administration.
+
+  **Journaliste :** Vous parlez aussi des différences entre les pays francophones.
+
+  **Marc Berthod :** Oui. En Suisse romande, où j'ai grandi, on adoucit volontiers l'impératif : « Entrez seulement ! » veut dire « Entrez donc, je vous en prie ». Un ami parisien qui était venu dîner chez moi a cru que je lui donnais un ordre un peu sec. Il a fallu que je lui explique que c'était, au contraire, une invitation chaleureuse.
+
+  **Journaliste :** Il y a un emploi de l'impératif qui surprend beaucoup ceux qui apprennent le français : celui qui exprime une condition.
+
+  **Marc Berthod :** Oui : « Donnez-lui un doigt, il vous prendra le bras. » Ou bien : « Appuie sur ce bouton, et tout s'éteint. » Il n'y a aucun ordre là-dedans : cela signifie « si vous lui donnez un doigt… », « si tu appuies… ». Les proverbes en sont pleins.
+
+  **Journaliste :** Pour finir, un conseil à nos auditeurs ?
+
+  **Marc Berthod :** Écoutez la manière dont on vous parle ! Les panneaux, les annonces, les messages de votre banque : tout cela en dit long sur la relation qu'on veut établir avec vous. Et quand vous donnez vous-même une consigne, demandez-vous si vous voulez être obéi ou être compris. Ce n'est pas tout à fait la même chose.
+
+  **Journaliste :** Marc Berthod, merci beaucoup.
+items:
+  - q: "Почему исследование заняло у Марка Бертода четыре года?"
+    options: ["Он ожидал быстро исчерпать тему, но у императива оказалось много значений.", "Ему пришлось изучать вывески во всех франкоязычных странах.", "Он долго искал издателя для книги."]
+    answer: 0
+    explain: "*Je pensais que j'**aurais fait le tour du sujet** en six mois. J'y ai finalement consacré quatre ans ! Car l'impératif ne sert pas seulement à donner des ordres.* Futur antérieur dans le passé — несбывшееся ожидание."
+  - q: "Что, по словам лингвиста, выражает фраза «Passez une bonne soirée» ?"
+    options: ["вежливый приказ", "пожелание", "просьбу"]
+    answer: 1
+    explain: "*ce n'est pas un ordre, c'est un **vœu*** — пожелание."
+  - q: "Как менялись надписи в общественных местах?"
+    options: ["от императива к безличному запрету", "от безличного запрета к императиву, затем к благодарности заранее", "от благодарности к строгим запретам"]
+    answer: 1
+    explain: "*Défense de fumer* (без глагола и лица) → *Ne marchez pas sur les pelouses* (императив) → *Merci de ne pas fumer*."
+  - q: "Почему формула «Merci de ne pas fumer» действует, по мнению лингвиста?"
+    options: ["Она звучит как закон.", "Она делает вид, что человек уже согласился.", "Она короче запрета."]
+    answer: 1
+    explain: "*On fait comme si la personne avait déjà accepté.* Работники вокзала подтвердили: благодарности дали лучшие результаты, чем запреты."
+  - q: "Как лингвист отвечает студентам на вопрос об «Ayez l'obligeance de…»?"
+    options: ["Это ирония чиновников.", "Это обычный административный регистр.", "Это устаревшая формула, которую лучше не употреблять."]
+    answer: 1
+    explain: "*Pas du tout ! C'est simplement le registre de l'administration.*"
+  - q: "Что произошло с другом-парижанином?"
+    options: ["Он воспринял тёплое приглашение как сухой приказ.", "Он не понял швейцарское слово «seulement» и не вошёл.", "Он обиделся, что его не пригласили на ужин."]
+    answer: 0
+    explain: "*a cru que je lui donnais un ordre un peu sec. Il a fallu que je lui explique que c'était… une invitation chaleureuse.* В Романдской Швейцарии *Entrez seulement !* смягчает императив."
+  - q: "Что значит «Donnez-lui un doigt, il vous prendra le bras» ?"
+    options: ["совет быть щедрым", "условие: «если дать ему палец…»", "приказ помочь человеку"]
+    answer: 1
+    explain: "Императив + будущее время = условие: *cela signifie « si vous lui donnez un doigt… »*. Русский аналог — «дай палец — откусит руку»."
+  - q: "Какой главный совет даёт лингвист в конце?"
+    options: ["Избегать императива в официальных письмах.", "Обращать внимание на формулировки и думать, хочешь ли ты, чтобы тебя поняли, а не только послушались.", "Всегда благодарить заранее."]
+    answer: 1
+    explain: "*Écoutez la manière dont on vous parle !… demandez-vous si vous voulez être obéi ou être compris.*"

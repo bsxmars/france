@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и дефисы — важны."
+hints:
+  - "В инверсии — дефис: travaillez-vous, a-t-il."
+  - "Ça fait… que, il y a… — длительность и момент в прошлом."
+items:
+  - audio: audio/tts/b-04/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Depuis combien de temps travaillez-vous dans cette entreprise ?"]
+    explain: "«Как давно вы работаете в этой компании?» Простая инверсия с дефисом; *depuis* + présent — действие длится."
+  - audio: audio/tts/b-04/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Votre frère a-t-il enfin trouvé un appartement ?"]
+    explain: "«Ваш брат наконец нашёл квартиру?» Сложная инверсия: существительное + *a-t-il*; *-t-* между гласными."
+  - audio: audio/tts/b-04/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Il y a deux ans, j'ai appris à conduire en trois mois."]
+    explain: "«Два года назад я научилась водить за три месяца». *il y a* — «тому назад», *en* — «за какой срок»."
+  - audio: audio/tts/b-04/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Ça fait une heure que je t'attends devant la gare."]
+    explain: "«Я уже час жду тебя у вокзала». *Ça fait* + срок + *que* + présent = *je t'attends depuis une heure*."
+  - audio: audio/tts/b-04/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Grâce à ton aide, nous avons fini avant midi."]
+    explain: "«Благодаря твоей помощи мы закончили до полудня». *grâce à* — причина с хорошим результатом."
+  - audio: audio/tts/b-04/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Il a tellement plu que la route a été fermée."]
+    explain: "«Дождь шёл так сильно, что дорогу закрыли». *tellement* + глагол + *que* — следствие от интенсивности; *a été fermée* — пассив, согласование с *la route*."
+  - audio: audio/tts/b-04/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Comme le train était en retard, nous avons raté le début du concert."]
+    explain: "«Так как поезд опаздывал, мы пропустили начало концерта». *Comme* в начале фразы — причина."
+  - audio: audio/tts/b-04/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["À force de s'entraîner, elle a fini par gagner."]
+    explain: "«Благодаря упорным тренировкам она в конце концов победила». *à force de* + infinitif — причина через повторение; *finir par* — «в итоге»."

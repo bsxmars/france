@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "После глагола в прошлом: imparfait, plus-que-parfait или futur dans le passé (-rait)."
+  - "apercevoir: перед o и u пишется ç — j'ai aperçu."
+items:
+  - audio: audio/tts/a-28/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Il m'a dit qu'il viendrait demain."]
+    explain: "«Он сказал мне, что придёт завтра». Будущее в прошлом → *viendrait*, не *viendra*."
+  - audio: audio/tts/a-28/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Elle pensait que tu étais malade."]
+    explain: "«Она думала, что ты болен (больна)». Одновременность в прошлом → imparfait *étais*."
+  - audio: audio/tts/a-28/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Nous savions que le train était déjà parti."]
+    explain: "«Мы знали, что поезд уже ушёл». Предшествование в прошлом → plus-que-parfait *était parti*."
+  - audio: audio/tts/a-28/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Elle parle lentement et très clairement."]
+    explain: "«Она говорит медленно и очень ясно». *lent → lentement*, *clair → clairement* — от женского рода + *-ment*."
+  - audio: audio/tts/a-28/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Je l'ai aperçu de loin, mais il a disparu.", "Je l'ai aperçue de loin, mais il a disparu."]
+    explain: "«Я заметил его издалека, но он исчез». *aperçu* — с *ç*; *disparaître → disparu*."
+  - audio: audio/tts/a-28/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Il a répondu poliment qu'il ne savait pas."]
+    explain: "«Он вежливо ответил, что не знает». *poli → poliment* (после гласной просто *-ment*); *savait* — одновременность."
+  - audio: audio/tatoeba/472199.mp3
+    audio_source: {title: "Tatoeba #4760205", url: "https://tatoeba.org/fr/sentences/show/4760205", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Elle parlait couramment français.", "Elle parlait couramment le français."]
+    explain: "«Она бегло говорила по-французски». *courant → couramment*: *-ant → -amment*."
+  - audio: audio/tatoeba/474619.mp3
+    audio_source: {title: "Tatoeba #3647307", url: "https://tatoeba.org/fr/sentences/show/3647307", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Dis simplement non !"]
+    explain: "«Просто скажи „нет“!» *simple → simplement*; наречие стоит после глагола."
+  - audio: audio/tatoeba/472094.mp3
+    audio_source: {title: "Tatoeba #1446970", url: "https://tatoeba.org/fr/sentences/show/1446970", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Elle parle également français.", "Elle parle également le français."]
+    explain: "«Она говорит и по-французски». *égal → également* — «также»."

@@ -1,0 +1,54 @@
+title: "Retour au village"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросах с полем впиши одно слово из текста."
+hints:
+  - "Plus-que-parfait (avait / était + причастие) — то, что случилось до приезда Натали."
+  - "Вопросы идут по порядку текста."
+text: |
+  **Chère Camille,**
+
+  Le week-end dernier, je suis retournée dans le village de mon enfance, en Bretagne. Je n'y étais pas allée depuis vingt ans !
+
+  Il avait plu toute la nuit, et quand je suis arrivée, le ciel était encore gris. Tout avait changé. On avait construit une nouvelle école à la place du vieux marché, et la boulangerie de Mme Le Gall avait fermé. La boulangère, une femme très gentille qui me donnait toujours un bonbon, était partie vivre chez sa fille, à Rennes.
+
+  Mais la plus belle surprise, c'était à la mairie. La nouvelle maire du village, c'était Sophie, ma meilleure amie d'école ! Nous ne nous étions pas vues depuis le lycée. Elle m'a raconté sa vie : après ses études, elle était devenue directrice d'une petite entreprise à Nantes, puis elle était revenue au village avec son mari.
+
+  Ensemble, nous avons fait le tour du village en voiture. C'est elle qui conduisait : il fallait éviter les petites routes que la pluie avait abîmées. Nous sommes passées devant ma vieille maison. Autrefois, elle était blanche ; maintenant, elle est bleue ! Les nouveaux propriétaires avaient aussi coupé le grand arbre que mon grand-père avait planté. Ça m'a fait un peu de peine.
+
+  Le soir, Sophie m'a invitée à dîner. Sa fille, une jeune musicienne très douée, a joué du piano pour nous. Je suis rentrée à Paris le dimanche, heureuse et un peu triste à la fois.
+
+  L'été prochain, je reviens avec toi !
+
+  **Je t'embrasse,**
+  **Nathalie**
+items:
+  - q: "Сколько лет Натали не была в деревне?"
+    options: ["два года", "десять лет", "двадцать лет"]
+    answer: 2
+    explain: "*Je n'y étais pas allée depuis vingt ans !* — plus-que-parfait: до этой поездки."
+  - q: "Что построили на месте старого рынка?"
+    options: ["новую булочную", "новую школу", "новую мэрию"]
+    answer: 1
+    explain: "*On **avait construit** une nouvelle école à la place du vieux marché* — до приезда Натали."
+  - q: "Что стало с булочницей?"
+    options: ["Она по-прежнему работает в булочной.", "Она уехала жить к дочери в Ренн.", "Она стала мэром деревни."]
+    answer: 1
+    explain: "*La boulangère… **était partie** vivre chez sa fille, à Rennes.* *Partir* — с *être*, причастие согласуется: *partie*."
+  - q: "Кто новый мэр деревни?"
+    options: ["Софи, лучшая школьная подруга Натали", "муж Софи", "мадам Ле Галь"]
+    answer: 0
+    explain: "*La nouvelle maire du village, c'était Sophie, ma meilleure amie d'école !* *La nouvelle maire* — женщина."
+  - q: "Vrai / faux / on ne sait pas: дом Натали остался белым."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "Неверно: *Autrefois, elle était **blanche** ; maintenant, elle est **bleue** !* (*blanc → blanche*)."
+  - q: "Что огорчило Натали?"
+    options: ["Новые хозяева срубили дерево, которое посадил её дедушка.", "Дорогу к дому размыло дождём.", "Софи её не узнала."]
+    answer: 0
+    explain: "*Les nouveaux propriétaires **avaient** aussi **coupé** le grand arbre que mon grand-père **avait planté**. Ça m'a fait un peu de peine.*"
+  - q: "Впиши из текста вспомогательный глагол: «Всю ночь шёл дождь» (до её приезда) — Il ___ plu toute la nuit."
+    answers: ["avait"]
+    explain: "Plus-que-parfait от *pleuvoir*: *il **avait plu*** — imparfait от *avoir* + *plu*."
+  - q: "Впиши из текста: после учёбы Софи стала директором небольшой фирмы — elle était devenue ___ d'une petite entreprise."
+    answers: ["directrice"]
+    explain: "*directeur → **directrice*** — суффикс *-teur → -trice*."

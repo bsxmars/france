@@ -1,0 +1,16 @@
+# pause: 700
+D: Bonjour et bienvenue dans « Le monde numérique ». Notre invité, Marc Favre, a fondé il y a six ans à Lausanne un « repair café », un atelier gratuit où des bénévoles réparent les appareils des habitants. Marc, comment l'idée vous est-elle venue ?
+H: À cause de mon propre téléphone, en fait. Il s'est arrêté de fonctionner deux ans à peine après l'achat. Le vendeur m'a dit que la réparation coûterait presque aussi cher qu'un appareil neuf. J'étais tellement furieux que j'ai cherché moi-même la panne sur Internet. En vingt minutes, j'avais trouvé : c'était la batterie. Elle coûtait quinze francs.
+D: Et depuis, vous réparez pour les autres.
+H: Oui. Au début, nous étions trois bénévoles dans le garage d'un ami. Aujourd'hui, nous sommes une quarantaine, et nous nous retrouvons le premier samedi de chaque mois dans une salle de quartier. Ça fait six ans que ça dure, et nous avons réparé plus de quatre mille objets.
+D: Quels appareils vous apporte-t-on le plus souvent ?
+H: Des téléphones et des ordinateurs portables, bien sûr, mais aussi des grille-pain, des aspirateurs, des lampes… Environ sept objets sur dix repartent en état de marche. Les autres, nous ne pouvons pas les sauver, le plus souvent parce que les pièces de rechange n'existent plus.
+D: Les fabricants sont-ils responsables de cette situation ?
+H: En partie. Certains collent les batteries au lieu de les visser, si bien qu'il est impossible de les changer sans casser l'appareil. Mais nous, les consommateurs, nous avons aussi changé. Comme les prix ont beaucoup baissé, nous avons pris l'habitude de remplacer plutôt que de réparer.
+D: Et les choses évoluent-elles ?
+H: Oui, lentement. Grâce à la pression des consommateurs et aux nouvelles règles européennes, les fabricants devront bientôt proposer des pièces pendant plusieurs années. Et puisque de plus en plus de gens viennent nous voir, certaines marques commencent même à publier leurs guides de réparation.
+D: Qu'est-ce qui vous motive encore, après six ans ?
+H: Le moment où quelqu'un retrouve un objet qu'il croyait perdu. La semaine dernière, une dame est venue avec la radio de son mari, décédé il y a dix ans. Elle ne marchait plus depuis longtemps. Nous l'avons réparée en une heure, et quand la musique est sortie du haut-parleur, elle a pleuré. Ce jour-là, j'ai compris que nous ne réparions pas seulement des machines.
+D: Et si un auditeur veut vous rejoindre ?
+H: Il n'a pas besoin d'être ingénieur ! Nous formons les nouveaux bénévoles pendant trois mois. Il suffit d'être patient et curieux.
+D: Marc Favre, merci beaucoup.

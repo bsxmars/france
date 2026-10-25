@@ -134,3 +134,27 @@
   lesson: c-05-relatifs-demonstratifs/04-grammaire
   q: "«Какому из коллег вы сказали?», «Которую из двух вы помните?»"
   a: "***Auquel** de vos collègues…* (à); ***De laquelle** vous souvenez-vous ?* (de, ж. р. — без слияния)."
+- id: c05-s-atteler
+  lesson: c-05-relatifs-demonstratifs/07-lecture
+  q: "«То, за что сегодня взялись исследователи, — восстановление пути каждого предмета»."
+  a: "***Ce à quoi** les chercheurs **s'attellent** aujourd'hui, c'est la reconstitution du parcours de chaque objet.*"
+- id: c05-rien-a-envier
+  lesson: c-05-relatifs-demonstratifs/07-lecture
+  q: "«Некоторые африканские музеи ничуть не уступают нашим»."
+  a: "*Plusieurs musées africains **n'ont rien à envier aux nôtres**.*"
+- id: c05-se-tromper-de-cible
+  lesson: c-05-relatifs-demonstratifs/09-ecoute
+  q: "«Мне кажется, мы бьём не туда» / «Они перекладывают ответственность друг на друга»."
+  a: "*Je crois qu'on **se trompe de cible**.* / *Elles **se renvoient la balle**.*"
+- id: c05-passe-encore
+  lesson: c-05-relatifs-demonstratifs/09-ecoute
+  q: "«В демократической стране — ещё куда ни шло»."
+  a: "*Dans un pays démocratique, **passe encore**.*"
+- id: c05-revient-a
+  lesson: c-05-relatifs-demonstratifs/08-ecriture
+  q: "«Хранить всё — значит ничего по-настоящему не хранить»."
+  a: "*Tout garder **revient à** ne rien garder vraiment.*"
+- id: c05-ce-a-quoi-on-tient
+  lesson: c-05-relatifs-demonstratifs/08-ecriture
+  q: "«Выбрать то, чем дорожишь»."
+  a: "*Choisir **ce à quoi** l'on tient.* (*tenir à* → *ce à quoi*)"

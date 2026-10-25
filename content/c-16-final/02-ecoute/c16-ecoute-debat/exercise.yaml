@@ -1,0 +1,99 @@
+title: "Le grand débat : le retour des trains de nuit"
+type: listening
+intro: |
+  Радиодебаты. Прочитай вопросы, затем послушай запись **два раза** и выбери один вариант. Не знаешь — пропусти.
+pass: 1
+audio: audio/tts/c-16/debat.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural, fr-CH-FabriceNeural, fr-FR-EloiseNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonsoir et bienvenue dans « Le grand débat ». Il y a dix ans, on les croyait condamnés : les trains de nuit font aujourd'hui leur retour en Europe. Effet de mode ou vraie révolution ? Nous en débattons avec Fabrice Rochat, économiste des transports à Genève, et avec Charline Dubois, qui préside une association belge d'usagers du rail. Charline Dubois, vous vous battez depuis longtemps pour ces trains.
+
+  **Charline Dubois :** Depuis 2016, oui ! À l'époque, la dernière ligne qui reliait Bruxelles au sud de la France venait d'être supprimée. On nous avait expliqué que plus personne ne voulait dormir dans un train. Nous avions recueilli dix mille signatures en un mois, mais la décision était déjà prise.
+
+  **Journaliste :** Et aujourd'hui ?
+
+  **Charline Dubois :** Aujourd'hui, ce sont les mêmes responsables qui viennent nous dire que le train de nuit est l'avenir ! Les billets de la nouvelle ligne Bruxelles–Vienne se sont vendus en quelques heures. Mon père, qui est un ancien conducteur de trains de nuit, n'en revenait pas.
+
+  **Journaliste :** Fabrice Rochat, vous partagez cet enthousiasme ?
+
+  **Fabrice Rochat :** En partie. Je suis convaincu qu'il existe une vraie demande. Mais je doute que le modèle économique soit solide. Un train de nuit transporte peu de voyageurs : quelques centaines tout au plus, alors qu'un TGV en emmène plus de mille. Et chaque voiture-lit ne sert qu'une fois par jour.
+
+  **Charline Dubois :** Une fois par jour, c'est vrai. Mais en dormant dans le train, le voyageur économise une nuit d'hôtel ! Et il arrive en plein centre-ville, reposé.
+
+  **Fabrice Rochat :** Je vous l'accorde. Les compagnies, elles, ne gagnent pourtant guère d'argent. D'après la presse autrichienne, l'opérateur qui a relancé ces lignes aurait même perdu plusieurs millions l'an dernier. L'entreprise, pour sa part, n'a fait aucun commentaire.
+
+  **Journaliste :** Alors pourquoi relancer ces lignes ?
+
+  **Fabrice Rochat :** Pour le climat, évidemment. Un trajet Paris–Vienne en avion émet bien plus de CO2 que le même trajet en train. Si les États veulent réduire le trafic aérien, il faudra qu'ils soutiennent le train de nuit, au moins pendant les premières années.
+
+  **Charline Dubois :** C'est exactement ce que nous demandons. Le gouvernement belge a d'ailleurs promis que, d'ici 2030, dix nouvelles lignes auraient été ouvertes.
+
+  **Journaliste :** Ce n'est pas un peu optimiste ?
+
+  **Charline Dubois :** Si, sans doute. Mais regardez l'histoire : la première ligne de nuit entre Paris et la Côte d'Azur fut inaugurée à la fin du dix-neuvième siècle, et elle a fonctionné pendant plus de cent ans. Le train de nuit n'est pas une invention nouvelle, c'est une vieille habitude que nous avons oubliée.
+
+  **Journaliste :** Fabrice Rochat, que faudrait-il pour que ça marche ?
+
+  **Fabrice Rochat :** Trois choses. D'abord, des trains modernes : on ne fera pas revenir les voyageurs avec des wagons des années soixante-dix. Ensuite, des prix raisonnables : n'importe quel étudiant devrait pouvoir se payer une couchette. Enfin, la ponctualité. Arriver avec trois heures de retard après une nuit dans un train, ça, personne ne l'accepte.
+
+  **Journaliste :** Charline Dubois, le mot de la fin ?
+
+  **Charline Dubois :** Je dirai simplement ceci aux décideurs : prenez le train de nuit, une fois, avant de décider de son sort. On n'y dort pas toujours très bien, c'est vrai. Mais on en revient changé.
+
+  **Journaliste :** Merci à tous les deux.
+items:
+  - q: "Что в 2016 году объясняли сторонникам ночных поездов?"
+    options: ["Что больше никто не хочет спать в поезде.", "Что ночные поезда скоро вернутся.", "Что никто больше не будет ездить на юг Франции."]
+    answer: 0
+    topic: "c-11-concordance-imperatif"
+    explain: "*On nous avait expliqué que plus personne ne **voulait** dormir dans un train* — imparfait в плане прошедшего: одновременность с объяснением, то есть «не хочет» в тот момент."
+  - q: "Когда было принято решение о закрытии линии?"
+    options: ["После того как собрали десять тысяч подписей.", "Ещё до того, как собрали подписи.", "Через год после сбора подписей."]
+    answer: 1
+    topic: "c-10-passes"
+    explain: "*la dernière ligne… **venait d'être supprimée**… Nous **avions recueilli** dix mille signatures…, mais la décision **était déjà prise**.* Passé immédiat в прошлом и *déjà* показывают: решение предшествовало подписям."
+  - q: "Что произошло с билетами на новую линию Брюссель — Вена?"
+    options: ["Их распродали за несколько часов.", "Их продавали несколько часов подряд, но почти не купили.", "Их начнут продавать через несколько часов."]
+    answer: 0
+    topic: "c-08-voix-pronominaux"
+    explain: "*Les billets… **se sont vendus** en quelques heures* — местоимённый глагол в пассивном значении: «были проданы»."
+  - q: "Кто отец Шарлин Дюбуа?"
+    options: ["пожилой машинист, который до сих пор водит поезда", "бывший машинист ночных поездов", "машинист старинных поездов"]
+    answer: 1
+    topic: "c-03-adjectif"
+    explain: "*un **ancien** conducteur* — перед существительным *ancien* = «бывший». После существительного (*un train ancien*) — «старинный»."
+  - q: "В чём сомневается Фабрис Роша?"
+    options: ["Что на ночные поезда есть спрос.", "Что их экономическая модель надёжна.", "Что поезда полезны для климата."]
+    answer: 1
+    topic: "c-13-subjonctif"
+    explain: "*Je suis convaincu qu'il **existe** une vraie demande* (indicatif — уверенность). *Mais **je doute que** le modèle économique **soit** solide* (subjonctif — сомнение)."
+  - q: "Что Роша говорит о доходах компаний?"
+    options: ["Они почти ничего не зарабатывают.", "Они зарабатывают больше, чем на скоростных поездах.", "Они зарабатывают только раз в день."]
+    answer: 0
+    topic: "c-07-adverbe-negation"
+    explain: "*Les compagnies… **ne** gagnent **guère** d'argent* — *ne… guère* = «почти не». «Раз в день» — про вагон: *ne sert **qu'**une fois par jour*."
+  - q: "Что известно об австрийском операторе?"
+    options: ["Он потерял несколько миллионов — это подтвердила компания.", "По данным прессы, он якобы потерял несколько миллионов; компания это не комментирует.", "Он заработал несколько миллионов."]
+    answer: 1
+    topic: "c-12-conditionnel"
+    explain: "*D'après la presse autrichienne, l'opérateur… **aurait** même **perdu** plusieurs millions… L'entreprise… n'a fait aucun commentaire.* Conditionnel journalistique — сведения не подтверждены."
+  - q: "Какой довод приводит Шарлин в ответ на «вагон служит раз в день»?"
+    options: ["Пассажир экономит ночь в гостинице, потому что спит в поезде.", "Пассажир может работать ночью в поезде.", "Поезд ночью едет быстрее."]
+    answer: 0
+    topic: "c-14-formes-non-personnelles"
+    explain: "*en dormant dans le train, le voyageur économise une nuit d'hôtel* — gérondif способа / причины: экономия получается **за счёт** сна в поезде."
+  - q: "Что пообещало бельгийское правительство?"
+    options: ["Что десять новых линий уже открыты.", "Что к 2030 году десять новых линий будут открыты.", "Что в 2030 году начнут открывать новые линии."]
+    answer: 1
+    topic: "c-09-futurs"
+    explain: "*a promis que, d'ici 2030, dix nouvelles lignes **auraient été ouvertes*** — futur antérieur dans le passé: действие должно быть завершено **к** сроку."
+  - q: "Что говорит Роша о ценах?"
+    options: ["Купе должно быть по карману любому студенту.", "Только некоторые студенты смогут позволить себе купе.", "Студентам купе должны давать бесплатно."]
+    answer: 0
+    topic: "c-06-indefinis"
+    explain: "*n'importe quel étudiant devrait pouvoir se payer une couchette* — *n'importe quel* = «любой, кто угодно»."
+  - q: "Что значит последняя фраза Шарлин «on n'y dort pas toujours très bien, mais on en revient changé» ?"
+    options: ["В поезде спится плохо, и люди больше не возвращаются.", "В ночном поезде не всегда хорошо спится, но из такой поездки возвращаешься другим человеком.", "Люди меняют своё мнение о сне."]
+    answer: 1
+    topic: "c-04-pronoms-personnels"
+    explain: "*y* = в поезде (*dormir dans le train*), *en* = из поездки (*revenir du voyage*). *En revenir changé* — вернуться изменившимся."

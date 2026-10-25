@@ -1,0 +1,14 @@
+# pause: 700
+B: Bonjour et bienvenue dans « Le débat de société ». Les transports en commun gratuits : de plus en plus de villes se laissent tenter. Mon invité, Simon Bouchard, est chercheur en urbanisme à Montréal. Il a étudié pendant trois ans une ville moyenne du nord de la France, où le bus est gratuit depuis dix ans. Simon, la gratuité a-t-elle tenu ses promesses ?
+F: En partie. Le nombre de voyageurs a été multiplié par deux en un an, ce qui est considérable. Mais il faut que l'on regarde qui sont ces nouveaux passagers. Beaucoup étaient des piétons ou des cyclistes. Les automobilistes, eux, ont été bien moins nombreux à changer d'habitudes qu'on ne l'espérait.
+B: La gratuité n'a donc pas fait baisser la circulation ?
+F: Très peu. Je ne dis pas qu'elle soit inutile, loin de là. Les jeunes et les personnes âgées se déplacent beaucoup plus qu'avant, et les commerces du centre ont été redécouverts par des habitants qui n'y venaient plus. Mais si l'on veut que les gens laissent leur voiture au garage, le prix compte moins que la fréquence. Un bus gratuit qui passe toutes les quarante minutes n'intéresse personne.
+B: Et qui paie, puisque le voyageur ne paie plus ?
+F: C'est la grande question. Les billets ne représentaient qu'une petite partie du budget, environ quinze pour cent. Le reste était déjà financé par les impôts locaux et par une taxe payée par les entreprises. Mais il est normal que les contribuables se demandent si cet argent ne serait pas mieux utilisé ailleurs, pour acheter de nouveaux bus, par exemple.
+B: Vous êtes donc plutôt contre ?
+F: Non. Je suis convaincu que la gratuité est une bonne mesure sociale, mais je doute qu'elle suffise, à elle seule, à changer nos habitudes. Qu'on la choisisse ou non, il faut d'abord investir dans le réseau : plus de lignes, des bus plus fréquents, des parkings près des gares.
+B: Qu'est-ce qui vous a le plus surpris pendant votre enquête ?
+F: Le changement d'image. Avant, le bus était considéré comme le transport de ceux qui n'avaient pas le choix. Aujourd'hui, on y croise des médecins, des étudiants, des retraités. Que l'on soit riche ou pauvre, on prend le même bus. Pour moi, c'est presque plus important que les chiffres.
+B: Et à Montréal, pourrait-on faire la même chose ?
+F: Ce serait plus difficile : la ville est dix fois plus grande, et un métro coûte bien plus cher à faire fonctionner qu'un réseau de bus. Mais je souhaite que l'on commence par les jeunes et les personnes âgées. Plus on habitue les gens tôt, plus ils gardent l'habitude.
+B: Simon Bouchard, merci beaucoup.

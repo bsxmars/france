@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "de [də] или des [de]? После отрицания и количества — de."
+  - "После la plupart и bien артикль сохраняется: des."
+items:
+  - audio: audio/tts/c-02/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Il faut du courage pour dire la vérité, et elle a eu un courage admirable."]
+    explain: "«Нужна смелость, чтобы сказать правду, и она проявила замечательную смелость». Абстрактное: **du courage** (проявление качества) — **un courage admirable** (с определением, особый «вид» смелости)."
+  - audio: audio/tts/c-02/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["La plupart des habitants n'ont pas de voiture et se déplacent à vélo."]
+    explain: "«Большинство жителей не имеет машины и передвигается на велосипеде». **la plupart des** — артикль сохраняется; **pas de voiture** — после отрицания *de*; *à vélo* — без артикля."
+  - audio: audio/tts/c-02/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Bien des touristes ignorent que Gand est à moins d'une heure de Bruges.", "Bien des touristes ignorent que Gand est à moins d'1 heure de Bruges."]
+    explain: "«Многие туристы не знают, что Гент меньше чем в часе от Брюгге». **bien des** = *beaucoup de*, но с артиклем; названия городов — без артикля."
+  - audio: audio/tts/c-02/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Ce n'est pas un hasard si elle est devenue médecin."]
+    explain: "«Не случайно она стала врачом». **ce n'est pas un** — после *c'est* отрицание не меняет *un* на *de*; профессия после *devenir* — **без артикля**."
+  - audio: audio/tts/c-02/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Il est parti sans argent, avec de vieux livres pour seul bagage."]
+    explain: "«Он уехал без денег, со старыми книгами вместо всякого багажа». **sans argent** — без артикля; **de vieux livres** — прилагательное перед сущ. во мн. ч.; *pour seul bagage* — устойчиво без артикля."
+  - audio: audio/tts/c-02/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Le Paris de mon enfance n'avait ni touristes ni boutiques de souvenirs."]
+    explain: "«В Париже моего детства не было ни туристов, ни сувенирных лавок». Имя города с определением — **le Paris de…**; *ni… ni…* — без артикля."
+  - audio: audio/tts/c-02/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Ma grand-mère ne mettait jamais de beurre dans sa pâte, seulement de l'huile."]
+    explain: "«Бабушка никогда не клала масла в тесто, только растительное масло». **jamais de beurre** — после отрицания; **de l'huile** — партитив без отрицания (элизия перед гласной)."
+  - audio: audio/tts/c-02/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Il ne faut que de la farine, de l'eau et du sel pour faire du bon pain."]
+    explain: "«Для хорошего хлеба нужны только мука, вода и соль». *ne… que* — не отрицание: партитив остаётся (**de la, de l', du**); **du bon pain** — в единственном числе *de* перед прилагательным не ставится."

@@ -1,0 +1,51 @@
+title: "Le roi et la boulangère"
+type: listening
+intro: "Послушай сказку (дважды) и ответь на вопросы."
+hints:
+  - "Passé simple: il travailla, il mangea, il répondit, ils vinrent."
+  - "le plus vite — быстрее всех, le moins vite — медленнее всех."
+audio: audio/tts/a-25/conte.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+transcript: |
+  Bonsoir à tous. Ce soir, je vous raconte l'histoire du roi et de la boulangère.
+
+  Il était une fois, dans un petit pays, un roi très gourmand. Chaque matin, il mangeait du pain chaud avec du beurre. Mais un jour, il ne fut pas content : son pain était dur et sans goût. Alors le roi annonça : « Je veux le meilleur pain du royaume ! »
+
+  Le lendemain, trois boulangers vinrent au château. Le premier, un gros homme, travailla le plus vite : en une heure, son pain fut prêt. Mais il était trop cuit. Le deuxième travailla plus lentement, et son pain fut meilleur. Le troisième boulanger était une jeune femme. Elle travailla le moins vite de tous : son pain sortit du four seulement à l'aube.
+
+  Pendant la nuit, le roi ne dormit pas. Il descendit trois fois à la cuisine et regarda la jeune femme. Elle ne parlait pas, elle ne courait pas, elle attendait. « Elle travaille moins vite que les deux autres, pensa le roi. Mais pourquoi ? »
+
+  À l'aube, le roi goûta les trois pains. Il mangea le premier sans plaisir. Il mangea le deuxième avec plaisir. Et le troisième… il le mangea tout entier et en demanda encore !
+
+  « Qui a fait ce pain ? » demanda-t-il. La jeune femme répondit : « Moi, Majesté. Je travaille moins vite que les autres, mais je laisse le temps au pain. Le pain, c'est comme les gens : il est meilleur quand on ne le presse pas. »
+
+  Le roi rit longtemps. Puis il donna à la jeune femme une belle maison près du château, et elle devint la boulangère du roi. Et depuis ce jour, dit-on, le roi mange plus lentement… et beaucoup mieux.
+items:
+  - q: "Почему король был недоволен?"
+    options: ["Хлеб был чёрствым и безвкусным.", "Пекарь опоздал утром.", "Ему не дали масла."]
+    answer: 0
+    explain: "*son pain était dur et sans goût* — imparfait описывает, каким был хлеб."
+  - q: "Сколько пекарей пришло в замок?"
+    options: ["два", "три", "пять"]
+    answer: 1
+    explain: "*Le lendemain, trois boulangers vinrent au château.* *vinrent* — passé simple от *venir*."
+  - q: "Что было с хлебом первого пекаря?"
+    options: ["Он был готов позже всех.", "Он был готов быстрее всех, но подгорел.", "Он был лучшим."]
+    answer: 1
+    explain: "*travailla **le plus vite**… son pain fut prêt. Mais il était trop cuit.*"
+  - q: "Кто работал медленнее всех?"
+    options: ["второй пекарь", "молодая женщина", "сам король"]
+    answer: 1
+    explain: "*Elle travailla **le moins vite** de tous.* У наречия всегда *le*, даже о женщине."
+  - q: "Что делал король ночью?"
+    options: ["Спал и ждал утра.", "Три раза спускался на кухню посмотреть на пекаршу.", "Пробовал хлеб второго пекаря."]
+    answer: 1
+    explain: "*le roi ne dormit pas. Il descendit trois fois à la cuisine et regarda la jeune femme.*"
+  - q: "Как король съел третий хлеб?"
+    options: ["целиком и попросил ещё", "без удовольствия", "только половину"]
+    answer: 0
+    explain: "*il le mangea tout entier et en demanda encore !* Без удовольствия он ел первый."
+  - q: "Чем закончилась сказка?"
+    options: ["Король прогнал всех пекарей.", "Молодая женщина стала пекаршей короля.", "Король сам научился печь хлеб."]
+    answer: 1
+    explain: "*elle **devint** la boulangère du roi* (*devenir* → *elle devint*). И король теперь ест *plus lentement… et beaucoup mieux*."

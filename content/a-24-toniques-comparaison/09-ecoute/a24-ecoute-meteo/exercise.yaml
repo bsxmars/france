@@ -1,0 +1,39 @@
+title: "La météo du week-end"
+type: listening
+intro: "Прогноз погоды бельгийского радио. Прочитай вопросы заранее, послушай и впиши цифры или выбери ответ."
+hints:
+  - "Числа можно писать цифрами или словами."
+  - "le plus…, la plus…, la meilleure… — превосходная степень: «самый»."
+audio: audio/tts/a-24/meteo.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  Voici la météo du week-end.
+
+  Samedi, il fera plus froid qu'aujourd'hui sur tout le pays : huit degrés à Bruxelles, six degrés à Liège. C'est sur la côte que le temps sera le plus doux, avec onze degrés à Ostende. Le ciel sera gris le matin, et il pleuvra l'après-midi.
+
+  Dimanche sera la meilleure journée du week-end : un ciel bleu, un vent plus faible, et jusqu'à treize degrés à Namur. C'est le jour idéal pour une promenade !
+
+  Mais attention : la nuit de dimanche à lundi sera la plus froide du mois, avec zéro degré dans les Ardennes. Lundi matin, les routes seront glissantes : soyez prudents, surtout vous, les cyclistes !
+items:
+  - q: "Samedi, à Bruxelles, il fera ___ degrés."
+    answers: ["huit", "8"]
+    explain: "*huit degrés à Bruxelles, six degrés à Liège.*"
+  - q: "Где в субботу будет теплее всего?"
+    options: ["в Льеже", "на побережье, в Остенде", "в Арденнах"]
+    answer: 1
+    explain: "*C'est sur la côte que le temps sera **le plus doux**, avec onze degrés à Ostende.* Здесь *la côte* — побережье."
+  - q: "Какой день будет лучшим?"
+    options: ["суббота", "воскресенье", "понедельник"]
+    answer: 1
+    explain: "*Dimanche sera **la meilleure** journée du week-end.* *Journée* — женский род → *meilleure*."
+  - q: "Dimanche, à Namur, il fera jusqu'à ___ degrés."
+    answers: ["treize", "13"]
+    explain: "*jusqu'à treize degrés à Namur.*"
+  - q: "Что будет в ночь с воскресенья на понедельник?"
+    options: ["самая холодная ночь месяца", "сильный дождь на побережье", "самый сильный ветер"]
+    answer: 0
+    explain: "*la nuit de dimanche à lundi sera **la plus froide** du mois, avec zéro degré dans les Ardennes.*"
+  - q: "Кого диктор особенно предупреждает в понедельник утром?"
+    options: ["водителей автобусов", "велосипедистов", "туристов на побережье"]
+    answer: 1
+    explain: "*soyez prudents, surtout **vous**, les cyclistes !* — ударное *vous* выделяет, к кому обращаются."

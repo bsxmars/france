@@ -1,0 +1,46 @@
+title: "Lettre de Julie"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросах с полем впиши слова из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "В сложной инверсии подлежащее стоит впереди: ta sœur parle-t-elle… — вопрос о сестре."
+text: |
+  **Salut Olga !**
+
+  Je m'appelle Julie, je suis ta correspondante française. Je suis lyonnaise, mais j'habite Paris. Je suis secrétaire dans une école.
+
+  Mon ami Karim est marocain. Il est professeur de musique. Il parle arabe, français et anglais !
+
+  Voici une photo : c'est la rue de mon école, et là, c'est la fenêtre de ma chambre.
+
+  Et toi ? Es-tu étudiante ? Lis-tu des livres français ? Ta sœur parle-t-elle aussi français ? Est-ce que tu écris vite en français ? Moi, je lis bien le russe, mais j'écris lentement.
+
+  En août, je pars à Moscou avec Karim. Est-ce que tu es à Moscou en août ?
+
+  Écris-moi vite !
+
+  **Bisous,**
+  **Julie**
+items:
+  - q: "Что Жюли пишет о себе?"
+    options: ["Она из Лиона, но живёт в Париже.", "Она парижанка, но живёт в Лионе.", "Она марокканка и живёт в Москве."]
+    answer: 0
+    explain: "*Je suis lyonnaise, mais j'habite Paris.* Национальность и «житель города» после *être* — без артикля."
+  - q: "Кем работает Жюли?"
+    options: ["преподавателем музыки", "секретарём в школе", "студенткой"]
+    answer: 1
+    explain: "*Je suis secrétaire dans une école.* Преподаватель музыки — Карим, а студенткой Жюли спрашивает Ольгу: *Es-tu étudiante ?*"
+  - q: "Кто Карим?"
+    options: ["брат Жюли, секретарь", "марокканец, преподаватель музыки", "француз, преподаватель английского"]
+    answer: 1
+    explain: "*Mon ami Karim est marocain. Il est professeur de musique.* Английский — один из его трёх языков."
+  - q: "Что Жюли хочет узнать о сестре Ольги?"
+    options: ["Говорит ли она по-французски.", "Читает ли она французские книги.", "Студентка ли она."]
+    answer: 0
+    explain: "*Ta sœur parle-t-elle aussi français ?* — сложная инверсия: *ta sœur* впереди, *elle* после глагола. Два других вопроса Жюли задаёт самой Ольге (*Lis-tu… ? Es-tu… ?*)."
+  - q: "Впиши из текста вопрос «Ты студентка?»: ___ étudiante ?"
+    answers: ["Es-tu"]
+    explain: "**Es-tu** — простая инверсия: местоимение *tu* за глаголом через дефис."
+  - q: "Впиши из текста: «Твоя сестра тоже говорит по-французски?» — Ta sœur ___ aussi français ?"
+    answers: ["parle-t-elle"]
+    explain: "**parle-t-elle**: глагол кончается на *-e*, местоимение на гласную — вставляем *-t-*."

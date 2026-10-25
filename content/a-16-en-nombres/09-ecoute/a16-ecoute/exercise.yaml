@@ -1,0 +1,44 @@
+title: "On met la table"
+type: listening
+intro: "Послушай разговор и ответь на вопросы. Записывай числа цифрами, пока слушаешь."
+hints:
+  - "j'en ai…, il y en a… — число стоит в конце."
+  - "После non звучит правильное число."
+audio: audio/tts/a-16/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural, fr-FR-RemyMultilingualNeural", license: "TTS"}
+transcript: |
+  — Théo, mets la table, s'il te plaît. Nous sommes huit ce soir.
+  — Huit ? Tu as assez de chaises ?
+  — Non, j'en ai six. Va chercher deux chaises chez la voisine.
+  — D'accord. Et les verres ? Il y en a combien ?
+  — Il y en a douze dans le placard. Mets aussi les assiettes rouges.
+  — Je mets des bougies sur le gâteau ? Mamie a soixante-sept ans, non ?
+  — Non, elle a soixante-neuf ans ! Mais ne mets pas soixante-neuf bougies. Mets-en dix.
+  — Et des fleurs, il y en a ?
+  — Non, il n'y en a pas. Achètes-en au marché, s'il te plaît.
+  — Bon, j'y vais. Et toi, maman, sois calme. Tout va bien !
+items:
+  - q: "Сколько человек будет за столом?"
+    options: ["шесть", "восемь", "двенадцать"]
+    answer: 1
+    explain: "*Nous sommes huit ce soir.*"
+  - q: "Сколько стульев у мамы?"
+    options: ["два", "шесть", "восемь"]
+    answer: 1
+    explain: "*Tu as assez de chaises ? — Non, j'en ai six.* — *en* = *de chaises*. Ещё два возьмут у соседки."
+  - q: "Сколько бокалов в шкафу?"
+    options: ["десять", "двенадцать", "шестнадцать"]
+    answer: 1
+    explain: "*Il y en a douze dans le placard.*"
+  - q: "Сколько лет бабушке?"
+    options: ["шестьдесят семь", "шестьдесят девять", "шестьдесят шесть"]
+    answer: 1
+    explain: "*Mamie a soixante-sept ans, non ? — Non, elle a soixante-neuf ans !* Верно число после *non*."
+  - q: "Сколько свечей поставить на торт?"
+    options: ["десять", "шестьдесят девять", "восемь"]
+    answer: 0
+    explain: "*Ne mets pas soixante-neuf bougies. Mets-en dix.* — *dix* в конце фразы звучит полностью [dis]."
+  - q: "Что Тео купит на рынке?"
+    options: ["свечи", "бокалы", "цветы"]
+    answer: 2
+    explain: "*Et des fleurs, il y en a ? — Non, il n'y en a pas. Achètes-en au marché.* — *achètes-en*: перед *en* возвращается *-s*."

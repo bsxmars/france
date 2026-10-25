@@ -1,0 +1,65 @@
+title: "Et si… ? L'histoire au conditionnel"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. В вопросах с полем впиши слово или форму из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Conditionnel journalistique (aurait qualifié, selon…) — информация не подтверждена."
+  - "Позицию автора ищи после вопроса «Faut-il donc s'en méfier ?»."
+text: |
+  ## Et si… ? Éloge de l'histoire au conditionnel
+
+  *Longtemps méprisée par les historiens, l'histoire contrefactuelle revient dans les universités. Simple jeu de l'esprit ou véritable outil de connaissance ?*
+
+  Que se serait-il passé si Napoléon avait gagné à Waterloo ? Si la Révolution n'avait pas eu lieu, parlerions-nous aujourd'hui des droits de l'homme ? Ces questions, qui font le bonheur des romanciers, ont longtemps fait sourire les historiens. « L'histoire ne se fait pas avec des si », répétait-on dans les amphithéâtres. Le travail de l'historien consisterait à établir ce qui a eu lieu, non à rêver à ce qui aurait pu arriver.
+
+  Pourtant, à y regarder de près, aucun historien ne se passe vraiment du conditionnel. Affirmer qu'un événement a « causé » une guerre, c'est supposer que, sans lui, la guerre n'aurait pas éclaté, ou qu'elle aurait éclaté plus tard. Toute explication contient, en creux, une hypothèse sur ce qui se serait produit autrement. L'histoire contrefactuelle ne fait que rendre explicite ce raisonnement caché.
+
+  C'est ce que soutient un groupe de chercheurs qui vient de publier un ouvrage collectif remarqué. Selon eux, imaginer d'autres scénarios permettrait de mieux mesurer le poids réel des décisions individuelles. Prenons un exemple célèbre, la crise de Cuba, en 1962. Si l'un des officiers d'un sous-marin soviétique n'avait pas refusé de donner son accord au lancement d'une torpille nucléaire, le monde aurait peut-être basculé dans la guerre. À l'inverse, certains événements semblent presque inévitables : quand bien même tel ou tel dirigeant aurait pris une autre décision, les tendances économiques auraient conduit au même résultat, quelques années plus tard.
+
+  L'exercice n'est pourtant pas sans danger. Le premier risque est celui de la fiction : à force d'enchaîner les hypothèses, on finit par écrire un roman. Si Napoléon avait gagné à Waterloo, il aurait peut-être conservé le pouvoir ; s'il l'avait conservé, l'Europe serait peut-être aujourd'hui différente… Au troisième « peut-être », le lecteur ne sait plus ce qui relève du savoir et ce qui relève du rêve. Les auteurs de l'ouvrage proposent donc une règle simple : ne modifier qu'un seul élément à la fois et ne pas aller au-delà de quelques années.
+
+  Le second risque est politique. L'histoire au conditionnel sert parfois à réécrire le passé au service d'une idéologie. « Sans telle intervention étrangère, notre pays serait aujourd'hui une grande puissance » : on reconnaît là une rhétorique nostalgique, qui cherche moins à comprendre qu'à se plaindre. Un historien de la Sorbonne aurait d'ailleurs qualifié la démarche de « dangereuse », selon des propos rapportés par la presse ; il ne les a ni confirmés ni démentis.
+
+  Faut-il donc s'en méfier ? Je ne le crois pas. Bien pratiquée, l'histoire contrefactuelle a une vertu rare : elle rappelle que le passé n'était pas écrit d'avance. Les acteurs de 1789 ou de 1940 ne savaient pas ce qui allait se passer ; ils hésitaient, se trompaient, auraient pu choisir autrement. Lire l'histoire comme une suite d'événements nécessaires, c'est oublier cette incertitude, et donc oublier la responsabilité de ceux qui ont agi. Sans ce doute, l'histoire deviendrait un destin, et personne ne serait plus responsable de rien.
+
+  On dirait un paradoxe : c'est en imaginant ce qui n'a pas eu lieu qu'on comprend le mieux ce qui a eu lieu. Les historiens n'aiment pas les « si ». Ils auraient tort, pourtant, de s'en priver complètement.
+items:
+  - q: "Как историки долгое время относились к контрфактической истории?"
+    options: ["скептически, как к игре для романистов", "с интересом, но без публикаций", "враждебно, из политических соображений"]
+    answer: 0
+    explain: "*Ces questions, qui font le bonheur des romanciers, ont longtemps **fait sourire** les historiens.* «История не терпит сослагательного наклонения»."
+  - q: "«Le travail de l'historien consisterait à établir ce qui a eu lieu» — чья это мысль?"
+    options: ["автора статьи", "традиционных историков, с которыми автор спорит", "авторов нового коллективного труда"]
+    answer: 1
+    explain: "Conditionnel *consisterait* передаёт **чужую** позицию (то, что «повторяли в аудиториях»). Следующий абзац начинается с *Pourtant* — автор возражает."
+  - q: "Почему, по мнению автора, ни один историк не обходится без conditionnel?"
+    options: ["Потому что историки любят писать романы.", "Потому что любое объяснение причин неявно предполагает, что было бы иначе.", "Потому что источники часто противоречат друг другу."]
+    answer: 1
+    explain: "*Affirmer qu'un événement a « causé » une guerre, c'est supposer que, sans lui, la guerre **n'aurait pas éclaté**.* Условие без *si* — *sans lui*."
+  - q: "Что показывает пример с подводной лодкой в 1962 году?"
+    options: ["Что ядерная война была неизбежна.", "Что решение одного человека может изменить ход истории.", "Что советские офицеры не подчинялись приказам."]
+    answer: 1
+    explain: "Пример иллюстрирует *le poids réel des décisions individuelles*: отказ одного офицера, возможно, предотвратил войну."
+  - q: "«Quand bien même tel ou tel dirigeant aurait pris une autre décision, les tendances économiques auraient conduit au même résultat». Это значит:"
+    options: ["Если бы лидер решил иначе, результат был бы другим.", "Даже если бы лидер решил иначе, результат был бы тем же.", "Лидеры всегда следуют экономическим тенденциям."]
+    answer: 1
+    explain: "**Quand bien même** + conditionnel = «даже если бы»: условие не меняет результата — такие события «почти неизбежны»."
+  - q: "Какое правило предлагают авторы книги против «риска вымысла»?"
+    options: ["Менять только один элемент и не уходить дальше нескольких лет.", "Не употреблять слово «peut-être».", "Писать только о XX веке."]
+    answer: 0
+    explain: "*ne modifier qu'un seul élément à la fois et ne pas aller au-delà de quelques années.*"
+  - q: "Vrai / faux / on ne sait pas: историк из Сорбонны назвал этот подход «опасным»."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 2
+    explain: "*Un historien… **aurait** qualifié la démarche de « dangereuse », selon des propos rapportés par la presse ; il ne les a ni confirmés ni démentis.* Conditionnel journalistique: информация не подтверждена → **on ne sait pas**."
+  - q: "Какова позиция автора?"
+    options: ["Контрфактическая история опасна, и её лучше избегать.", "При правильном подходе она полезна, хотя у неё есть риски.", "Она полезна только писателям."]
+    answer: 1
+    explain: "*Faut-il donc s'en méfier ? Je ne le crois pas. **Bien pratiquée**, l'histoire contrefactuelle a une vertu rare.* Риски автор признаёт в двух абзацах выше."
+  - q: "Какую главную пользу видит автор в «истории в сослагательном наклонении»?"
+    options: ["Она делает историю увлекательнее для школьников.", "Она напоминает, что прошлое не было предопределено, и возвращает людям ответственность.", "Она позволяет предсказывать будущее."]
+    answer: 1
+    explain: "*elle rappelle que le passé n'était pas écrit d'avance… oublier cette incertitude, et donc oublier **la responsabilité** de ceux qui ont agi.*"
+  - q: "Впиши из последней фразы глагол в той форме, в какой он стоит: Ils ___ tort, pourtant, de s'en priver complètement."
+    answers: ["auraient"]
+    explain: "*Ils **auraient tort** de…* — conditionnel смягчает упрёк: «они были бы неправы, если бы…» (условие выражено инфинитивом *de s'en priver*)."

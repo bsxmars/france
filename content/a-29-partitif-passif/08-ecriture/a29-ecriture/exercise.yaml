@@ -1,0 +1,26 @@
+title: "Message : un pique-nique surprise"
+type: writing
+intro: "Напиши сообщение друзьям по плану урока."
+prompt: |
+  Samedi, c'est l'anniversaire d'un(e) ami(e). Avec d'autres amis, vous organisez un pique-nique surprise. Tu écris un message au groupe : le lieu et l'heure, ce qui a déjà été fait, ce que chacun doit apporter, ce qu'il ne faut pas apporter et le cadeau.
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "частичный артикль du, de la, de l'; de после отрицания"
+  - "страдательный залог: a été acheté / ont été réservés (par…)"
+  - "devoir; offrir"
+checklist:
+  - "Есть обращение, место, время и прощание."
+  - "Хотя бы три продукта с частичным артиклем: du pain, de la salade, de l'eau."
+  - "После отрицания — de: pas de verres, pas de vin."
+  - "Хотя бы два глагола в пассиве; причастие согласовано: les boissons ont été achetées."
+  - "Есть devoir: tu dois…, chacun doit…"
+  - "Есть offrir: nous offrirons à… / nous lui offrons…"
+model_answer: |
+  Salut tout le monde !
+
+  Samedi, c'est l'anniversaire de Léa, et nous organisons un pique-nique surprise au parc de la Tête d'Or, à midi. Les boissons ont déjà été achetées par Paul, et le gâteau a été commandé à la boulangerie. Il nous faut encore de la nourriture ! Julie, tu peux apporter des sandwichs et de la salade ? Marc, tu dois prendre du fromage et du pain. Moi, j'apporterai des fruits et de l'eau. N'apportez pas de verres en plastique : nous avons de vrais verres. Nous offrirons à Léa deux livres et des boucles d'oreilles. Chacun doit donner dix euros. Et surtout, ne dites rien à Léa !
+
+  Bises,
+  Chloé

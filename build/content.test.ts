@@ -142,6 +142,8 @@ describe('listening and dictation', () => {
     ['missing file', 'title: L\ntype: listening\naudio: audio/tatoeba/2.mp3\n' + src + '\n' + item, false],
     ['outside audio dir', 'title: L\ntype: listening\naudio: m/x.mp3\n' + src + '\n' + item, false],
     ['closed license', 'title: L\ntype: listening\naudio: audio/tatoeba/1.mp3\naudio_source: {title: T, url: "https://x", author: a, license: "CC BY-NC-ND 3.0"}\n' + item, false],
+    ['TTS', 'title: L\ntype: listening\naudio: audio/tatoeba/1.mp3\naudio_source: {title: edge-tts, url: "https://github.com/rany2/edge-tts", author: fr-FR-DeniseNeural, license: TTS}\n' + item, true],
+    ['TTS without voice', 'title: L\ntype: listening\naudio: audio/tatoeba/1.mp3\naudio_source: {title: edge-tts, url: "https://github.com/rany2/edge-tts", license: TTS}\n' + item, false],
     ['CC BY without author', 'title: L\ntype: listening\naudio: audio/tatoeba/1.mp3\naudio_source: {title: T, url: "https://x", license: "CC BY 4.0"}\n' + item, false],
     ['unknown link host', 'title: L\ntype: listening\nlink: https://example.com/a\naudio_source: {title: T, url: "https://x", license: "©"}\n' + item, false],
     ['audio and link', 'title: L\ntype: listening\naudio: audio/tatoeba/1.mp3\nlink: https://rfi.fr/a\n' + src + '\n' + item, false],

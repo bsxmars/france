@@ -1,0 +1,45 @@
+title: "Témoignage : le mauvais train"
+type: listening
+intro: "Николя из Женевы рассказывает историю из своей жизни. Послушай и ответь на вопросы."
+hints:
+  - "Следи за поворотами истории: mais, une heure plus tard, depuis ce jour."
+  - "je me suis réveillé ≠ je ne me suis pas réveillé."
+audio: audio/tts/a-21/temoignage.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  Je m'appelle Nicolas, j'habite à Genève, et je vais vous raconter une histoire : un jour, je me suis trompé de train.
+
+  C'est arrivé en mars, l'année dernière. Ce matin-là, je ne me suis pas réveillé : mon téléphone n'a pas sonné. Je me suis levé à sept heures et demie, je me suis habillé en deux minutes et je suis sorti sans mon petit déjeuner.
+
+  À la gare, je me suis dépêché. J'ai vu un train sur la voie trois, comme tous les jours. J'ai sauté dedans, je me suis assis et… je me suis endormi.
+
+  Je me suis réveillé une heure plus tard. Par la fenêtre, j'ai vu des montagnes, un grand lac… mais pas le lac Léman ! Un contrôleur est arrivé et je lui ai demandé : « Où est-ce que nous sommes ? » Il a souri : « Bientôt à Brigue, monsieur. »
+
+  Je suis descendu à Brigue, j'ai téléphoné à mon chef et je lui ai tout expliqué. Il a beaucoup ri. Je suis rentré à Lausanne à midi.
+
+  Depuis ce jour, je me couche tôt… et je regarde toujours deux fois le panneau !
+items:
+  - q: "Почему Николя проспал?"
+    options: ["Он поздно лёг.", "Не прозвонил будильник в телефоне.", "Он был болен."]
+    answer: 1
+    explain: "*je **ne me suis pas réveillé** : mon téléphone n'a pas sonné.* — в отрицании *ne… pas* вокруг *me suis*."
+  - q: "Что он сделал за две минуты?"
+    options: ["оделся", "позавтракал", "доехал до вокзала"]
+    answer: 0
+    explain: "*je **me suis habillé** en deux minutes et je suis sorti sans mon petit déjeuner.*"
+  - q: "Что случилось в поезде?"
+    options: ["Он потерял билет.", "Он уснул.", "Он встретил своего начальника."]
+    answer: 1
+    explain: "*je **me suis assis** et… je **me suis endormi**.*"
+  - q: "Куда на самом деле шёл поезд?"
+    options: ["в Лозанну", "в Бриг", "в Женеву"]
+    answer: 1
+    explain: "*« Bientôt à Brigue, monsieur. »* Николя ехал в Лозанну, а озеро за окном было не Леман."
+  - q: "Как отреагировал начальник?"
+    options: ["Рассердился.", "Много смеялся.", "Не ответил."]
+    answer: 1
+    explain: "*je lui ai tout expliqué. Il a beaucoup ri.*"
+  - q: "Во сколько Николя вернулся в Лозанну?"
+    options: ["в 7:30", "в полдень", "вечером"]
+    answer: 1
+    explain: "*Je suis rentré à Lausanne à midi.* В 7:30 он встал."

@@ -1,0 +1,44 @@
+title: "La météo de demain"
+type: listening
+intro: "Прогноз погоды на квебекском радио. Послушай и ответь на вопросы. Числа можно писать цифрами."
+hints:
+  - "Каждый город — новый вопрос: Montréal, Québec, Chicoutimi."
+  - "moins quinze degrés = −15 °C."
+audio: audio/tts/a-23/meteo.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  Bonjour à tous, voici la météo pour demain, dimanche, au Québec.
+
+  À Montréal, le matin, il fera moins quinze degrés, et le ciel sera bleu. Mais l'après-midi, le vent arrivera de l'ouest, et il neigera à partir de seize heures.
+
+  À Québec, ce sera difficile : il neigera toute la journée. On attend trente centimètres de neige ! Si vous devez prendre la route, partez tôt le matin. Les écoles seront ouvertes, mais certains autobus auront du retard.
+
+  Dans le nord, à Chicoutimi, il fera très froid : jusqu'à moins trente-deux degrés pendant la nuit. Les médecins vous disent de ne pas sortir longtemps sans bonnet et sans gants.
+
+  Et lundi ? Bonne nouvelle : le soleil reviendra partout, et les températures remonteront un peu. Si vous aimez le ski, ce sera une journée parfaite !
+
+  Bon dimanche à tous, et soyez prudents sur les routes.
+items:
+  - q: "Какая погода будет утром в Монреале?"
+    options: ["−15 °C, ясное небо", "снег весь день", "−32 °C"]
+    answer: 0
+    explain: "*il **fera** moins quinze degrés, et le ciel **sera** bleu.*"
+  - q: "С какого часа в Монреале пойдёт снег? À partir de ___ heures."
+    answers: ["seize", "16"]
+    explain: "*il **neigera** à partir de seize heures* — *neiger* → *neiger-a*."
+  - q: "Сколько снега ждут в городе Квебеке?"
+    options: ["3 см", "13 см", "30 см"]
+    answer: 2
+    explain: "*On attend trente centimètres de neige !*"
+  - q: "Что советуют тем, кому нужно ехать по дороге?"
+    options: ["выехать рано утром", "остаться дома", "ехать на автобусе"]
+    answer: 0
+    explain: "*Si vous devez prendre la route, partez tôt le matin.* — *si* + *présent*, затем повелительное."
+  - q: "Что говорят врачи жителям Шикутими?"
+    options: ["не выходить надолго без шапки и перчаток", "не ездить на машине", "не открывать школы"]
+    answer: 0
+    explain: "*Les médecins vous **disent de** ne pas sortir longtemps sans bonnet et sans gants.*"
+  - q: "Какой будет понедельник?"
+    options: ["снова снег", "солнце везде, чуть теплее", "сильный ветер"]
+    answer: 1
+    explain: "*le soleil **reviendra** partout, et les températures **remonteront** un peu.*"

@@ -1,0 +1,20 @@
+# rate: -5%
+# pause: 700
+F: Allô, Claire ? C'est Marc. Je viens de finir les courses !
+C: Ah, super ! Tu as tout ?
+F: Presque. J'ai trois bouteilles de jus et deux bouteilles de champagne. Mais il n'y a pas de cerises au supermarché.
+C: Ce n'est pas grave, je viens de les acheter au marché : un kilo et demi ! Et deux boîtes de chocolats.
+F: Parfait. Et Julie ? Elle fait le gâteau ?
+C: Oui, elle vient de le finir. Elle va l'apporter à huit heures. Mais il y a un problème : Bernard vient de me téléphoner. Martine finit son travail à huit heures ce soir, pas à six heures.
+F: Oh non ! Et le restaurant, alors ?
+C: Bernard va l'inviter à huit heures et demie, et ils vont rentrer à dix heures, pas à neuf heures.
+F: D'accord, ça nous donne une heure. Et les enfants de Martine ? Ils savent pour la fête ?
+C: Oui, je viens de leur parler. Ils vont garder le secret, c'est promis.
+F: Et le cadeau ? Les billets pour Bruxelles ?
+C: Je vais les chercher à l'agence à cinq heures. Le train est samedi matin, à huit heures douze. C'est le premier train de la journée !
+F: Pauvre Martine ! Bon, et moi, qu'est-ce que je fais maintenant ?
+C: Tu vas chercher des chaises chez les voisins du quatrième étage, les Lambert. Je viens de leur demander, ils sont d'accord. Tu leur rends les chaises dimanche.
+F: Combien de chaises ?
+C: Une douzaine. Nous sommes vingt-deux !
+F: Une douzaine de chaises, au quatrième étage, sans ascenseur… Je vais téléphoner à Sophie : elle va m'aider !
+C: Bonne idée. Merci, Marc. À ce soir !

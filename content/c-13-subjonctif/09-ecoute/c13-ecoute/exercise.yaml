@@ -1,0 +1,75 @@
+title: "Villes de demain : la ville du quart d'heure"
+type: listening
+intro: "Послушай радиоинтервью с урбанистом (дважды) и ответь на вопросы."
+hints:
+  - "Отношение говорящего — в главном предложении: je ne pense pas que…, je ne crois pas que…"
+  - "Одно ne без pas / plus после avoir peur que, à moins que — explétif, не отрицание; ne… plus — настоящее отрицание."
+audio: audio/tts/c-13/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural, fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Vous écoutez « Villes de demain ». Mon invitée, Sophie Vandamme, est urbaniste à Bruxelles. Elle a participé à plusieurs projets de « ville du quart d'heure ». Sophie Vandamme, de quoi s'agit-il exactement ?
+
+  **Sophie Vandamme :** L'idée est simple : il faudrait que chaque habitant puisse trouver, à moins de quinze minutes à pied ou à vélo, tout ce dont il a besoin au quotidien : une école, un médecin, des commerces, un parc. Non pas pour qu'on ne sorte plus de son quartier, mais pour qu'on n'ait plus besoin de prendre la voiture pour la moindre course.
+
+  **Journaliste :** Cela paraît évident. Pourquoi faut-il un projet pour ça ?
+
+  **Sophie Vandamme :** Parce que, pendant cinquante ans, nos villes ont été pensées pour que la voiture puisse aller partout. On a mis les bureaux d'un côté, les logements de l'autre, les centres commerciaux à la sortie de la ville. Il n'est pas étonnant que les gens prennent leur voiture : on ne leur a pas laissé le choix.
+
+  **Journaliste :** Concrètement, qu'avez-vous fait ?
+
+  **Sophie Vandamme :** Dans un quartier de Bruxelles, nous avons commencé par écouter les habitants. Nous voulions qu'ils nous disent eux-mêmes ce qui leur manquait. La première demande, c'était une place où les enfants puissent jouer sans danger. Nous avons donc fermé une rue à la circulation, à titre d'essai, pendant six mois.
+
+  **Journaliste :** Et les commerçants n'ont pas protesté ?
+
+  **Sophie Vandamme :** Si, au début ! Ils avaient peur que leurs clients ne viennent plus. Bien que je comprenne leur inquiétude, les chiffres leur ont donné tort : le nombre de passants a augmenté, et la plupart des boutiques ont vu leur chiffre d'affaires progresser. Aujourd'hui, ce sont eux qui demandent qu'on ferme une deuxième rue !
+
+  **Journaliste :** On reproche aussi à ce modèle de faire grimper les loyers.
+
+  **Sophie Vandamme :** C'est la critique la plus sérieuse, et je ne pense pas qu'on puisse l'écarter. Quand un quartier devient agréable, les prix montent, et les familles modestes risquent de devoir partir. Pour que la ville du quart d'heure ne devienne pas un privilège, il faut que les pouvoirs publics construisent des logements sociaux en même temps qu'ils aménagent les rues.
+
+  **Journaliste :** Certains y voient même un projet autoritaire, qui voudrait enfermer les gens dans leur quartier.
+
+  **Sophie Vandamme :** J'ai lu ces théories sur les réseaux sociaux, oui. Je ne crois pas qu'il soit utile d'y répondre longuement. Personne n'interdit à personne de traverser la ville ! Il s'agit d'ajouter des possibilités, pas d'en supprimer.
+
+  **Journaliste :** Et les personnes âgées, qu'est-ce que cela change pour elles ?
+
+  **Sophie Vandamme :** Elles sont souvent les premières à en profiter. Une dame de quatre-vingts ans m'a raconté qu'elle ne sortait presque plus de chez elle jusqu'à ce que nous installions des bancs dans sa rue : elle avait peur de ne pas pouvoir s'asseoir en chemin. Il suffit parfois qu'on ajoute un banc tous les cent mètres pour qu'une personne retrouve son autonomie. C'est un détail, mais c'est le genre de détail qui fait une ville.
+
+  **Journaliste :** Une grande ville comme Bruxelles ou Paris peut-elle vraiment devenir une ville du quart d'heure ?
+
+  **Sophie Vandamme :** Pas du jour au lendemain, et pas partout de la même façon. Il faudra du temps avant que les habitudes changent. Mais quels que soient les obstacles, je reste convaincue que c'est la bonne direction. La ville la plus agréable n'est pas celle où l'on circule le plus vite, c'est celle où l'on a envie de rester.
+
+  **Journaliste :** Sophie Vandamme, merci beaucoup.
+items:
+  - q: "Какова цель «города пятнадцати минут»?"
+    options: ["Чтобы жители не покидали свой квартал.", "Чтобы всё необходимое было рядом и машина не была нужна для каждой мелочи.", "Чтобы запретить машины в центре города."]
+    answer: 1
+    explain: "*Non pas pour qu'on ne sorte plus de son quartier, mais pour qu'on n'ait plus besoin de prendre la voiture pour la moindre course.* Первый вариант назван, чтобы его отвергнуть."
+  - q: "Почему, по словам урбанистки, люди так часто ездят на машине?"
+    options: ["Им нравится водить.", "Города полвека строились так, что выбора у них не было.", "Общественный транспорт слишком дорогой."]
+    answer: 1
+    explain: "*nos villes ont été pensées pour que la voiture puisse aller partout… on ne leur a pas laissé le choix.*"
+  - q: "С чего начался проект в Брюсселе?"
+    options: ["С закрытия улицы для машин.", "С опроса жителей о том, чего им не хватает.", "Со строительства социального жилья."]
+    answer: 1
+    explain: "*nous avons commencé par écouter les habitants. Nous voulions qu'ils nous disent eux-mêmes ce qui leur manquait.* Улицу закрыли потом — по их первой просьбе."
+  - q: "Как изменилось отношение торговцев?"
+    options: ["Сначала протестовали, а теперь сами просят закрыть ещё одну улицу.", "Они до сих пор против проекта.", "Они с самого начала поддерживали проект."]
+    answer: 0
+    explain: "*Ils avaient peur que leurs clients ne viennent plus… Aujourd'hui, ce sont eux qui demandent qu'on ferme une deuxième rue !*"
+  - q: "Как она относится к критике о росте арендной платы?"
+    options: ["Считает её самой серьёзной и признаёт, что от неё нельзя отмахнуться.", "Считает её преувеличенной.", "Говорит, что аренда в Брюсселе не выросла."]
+    answer: 0
+    explain: "*C'est la critique la plus sérieuse, et je ne pense pas qu'on puisse l'écarter.* Решение — строить социальное жильё одновременно с обустройством улиц."
+  - q: "Как она отвечает тем, кто видит в проекте «авторитарный» замысел?"
+    options: ["Подробно опровергает их теории.", "Коротко: никто ничего не запрещает, речь о новых возможностях.", "Признаёт, что в проекте есть ограничения передвижения."]
+    answer: 1
+    explain: "*Je ne crois pas qu'il soit utile d'y répondre longuement. Personne n'interdit à personne de traverser la ville !*"
+  - q: "Что изменилось для пожилой дамы?"
+    options: ["Она переехала в другой квартал.", "Она снова стала выходить, когда на её улице поставили скамейки.", "Она попросила закрыть улицу."]
+    answer: 1
+    explain: "*elle ne sortait presque plus… jusqu'à ce que nous installions des bancs dans sa rue* — *jusqu'à ce que* + subjonctif."
+  - q: "Какой вывод делает урбанистка?"
+    options: ["Большие города никогда не станут «городами пятнадцати минут».", "Перемены потребуют времени, но направление верное.", "Проект нужно сначала опробовать в деревнях."]
+    answer: 1
+    explain: "*Il faudra du temps avant que les habitudes changent. Mais quels que soient les obstacles, je reste convaincue que c'est la bonne direction.*"

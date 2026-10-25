@@ -1,0 +1,33 @@
+title: "Lettre : le programme de ta visite"
+type: writing
+intro: "Напиши письмо другу с программой его визита по плану урока."
+prompt: |
+  Ton ami(e) français(e) viendra chez toi pendant une semaine, en été. Tu lui écris le programme : son arrivée, ce que vous ferez chaque jour, ce que vous ferez s'il pleut, ce qu'il (elle) doit prendre.
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "futur simple, в том числе особые основы: irons, ferons, verras, viendra, sera"
+  - "si + présent → futur в главной части"
+  - "dire à qn de + инфинитив; il est interdit de…"
+  - "tout «всё»; вопрос с отрицанием"
+checklist:
+  - "Есть обращение и прощание."
+  - "Программа — в futur simple, хотя бы шесть глаголов."
+  - "Хотя бы два особых будущих: irons, ferons, verras, viendra, sera, aura…"
+  - "Хотя бы одно условие si + présent (не si + futur!)."
+  - "Есть совет: je te dis de… / ma mère te dit de…"
+  - "Есть tout или tout le monde."
+  - "Есть вопрос другу."
+model_answer: |
+  Cher Paul,
+
+  Super, tu viendras chez moi du 5 au 12 juillet ! Tu arriveras à Saint-Pétersbourg le samedi matin, et je viendrai te chercher à la gare.
+
+  Le dimanche, nous irons au musée de l'Ermitage. Le lundi, nous ferons une promenade en bateau sur la Neva : tu verras toute la ville ! S'il fait beau, nous irons aussi à Peterhof. S'il pleut, nous resterons à la maison et ma grand-mère fera des blinis.
+
+  Les nuits sont très claires en juillet, alors je te dis de prendre un masque pour dormir. Tout sera prêt pour toi !
+
+  Tu n'as pas de questions ? Écris-moi vite !
+
+  Anna

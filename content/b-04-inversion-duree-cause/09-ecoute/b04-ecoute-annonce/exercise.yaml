@@ -1,0 +1,38 @@
+title: "Annonce : panne à l'aéroport"
+type: listening
+intro: "Объявление звучит один раз, как на экзамене. Прочитай вопросы заранее и впиши в пропуски цифры или слова из записи."
+hints:
+  - "В объявлении в транспорте — причина, последствие и что делать."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/b-04/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+transcript: |
+  Mesdames et messieurs, votre attention, s'il vous plaît. En raison d'une panne du système d'enregistrement survenue il y a une heure, les comptoirs fonctionnent au ralenti.
+
+  Les départs prévus avant midi sont retardés d'environ quarante-cinq minutes. Nos techniciens travaillent sur le problème depuis sept heures et prévoient un retour à la normale dans deux heures.
+
+  Comme les bornes automatiques ne fonctionnent pas non plus, vous êtes invités à présenter votre carte d'embarquement, imprimée ou sur votre téléphone, directement à la porte.
+
+  Les passagers ayant une correspondance avant quatorze heures sont priés de se présenter au comptoir numéro douze, au niveau des arrivées. Nous vous remercions de votre patience.
+items:
+  - q: "Что стало причиной проблем?"
+    options: ["забастовка персонала", "сбой системы регистрации", "плохая погода"]
+    answer: 1
+    explain: "***En raison d'**une panne du système d'enregistrement* — *en raison de* — официальное «по причине»."
+  - q: "Les départs prévus avant midi sont retardés d'environ ___ minutes."
+    answers: ["quarante-cinq", "45", "quarante cinq"]
+    explain: "*retardés d'environ **quarante-cinq** minutes.*"
+  - q: "Les techniciens travaillent sur le problème depuis ___ heures."
+    answers: ["sept", "7"]
+    explain: "*depuis **sept** heures* — с семи часов и до сих пор."
+  - q: "Когда ожидается возвращение к норме?"
+    options: ["через два часа", "к полудню", "через час"]
+    answer: 0
+    explain: "*prévoient un retour à la normale **dans deux heures*** — *dans* + срок = «через» (в будущем). *Il y a une heure* — когда случился сбой."
+  - q: "Почему посадочный талон нужно показать прямо у выхода?"
+    options: ["Терминалы самообслуживания тоже не работают.", "Стойки регистрации закрыты.", "Так быстрее для пассажиров с пересадкой."]
+    answer: 0
+    explain: "***Comme** les bornes automatiques ne fonctionnent pas non plus, vous êtes invités à présenter votre carte… directement à la porte.*"
+  - q: "Les passagers ayant une correspondance avant quatorze heures doivent aller au comptoir numéro ___."
+    answers: ["douze", "12"]
+    explain: "*au comptoir numéro **douze**, au niveau des arrivées.*"

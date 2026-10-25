@@ -1,0 +1,29 @@
+title: "Message : notre dimanche"
+type: writing
+intro: "Напиши другу о своём воскресенье по плану урока."
+prompt: |
+  Tu écris un message à ton ami(e). Tu racontes le dimanche avec ta famille ou tes amis : qu'est-ce que vous faites ? qu'est-ce que vous ne faites pas ? Tu poses une question et tu invites ton ami(e).
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "on = «мы» + глагол в 3-м лице ед. ч."
+  - "глаголы I группы в настоящем времени: утверждение, отрицание, вопрос"
+  - "c'est — ce sont"
+  - "повелительное наклонение глаголов на -er"
+checklist:
+  - "Есть обращение и прощание."
+  - "После on — форма 3-го лица ед. ч.: on dîne, on regarde."
+  - "Формы nous на -ons, ils на -ent: nous dînons, ils habitent."
+  - "Есть отрицание ne… pas (перед гласной — n')."
+  - "О нескольких людях или предметах — ce sont, не c'est."
+  - "Есть вопрос и приглашение в повелительном наклонении (téléphone, passe — без -s)."
+model_answer: |
+  Salut Paul !
+
+  Le dimanche, on dîne chez mes parents. Ils habitent près du parc. Mon père prépare le repas, et nous regardons des photos. On ne travaille pas ! Le soir, mes cousins chantent : ce sont des musiciens.
+
+  Et toi, est-ce que tu travailles le dimanche ? Passe chez nous dimanche !
+
+  Bisous,
+  Anna

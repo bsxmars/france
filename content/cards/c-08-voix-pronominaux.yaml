@@ -134,3 +134,27 @@
   lesson: c-08-voix-pronominaux/04-grammaire
   q: "il se trouve que, il se peut que — значение и наклонение"
   a: "*Il se trouve que* + indicatif — «оказывается, так вышло, что»; *il se peut que* + subjonctif — «возможно, что»."
+- id: c08-vu-accuser
+  lesson: c-08-voix-pronominaux/07-lecture
+  q: "«Фабрику обвинили во всех грехах» — через se voir"
+  a: "L'usine **s'est vu accuser** de tous les maux. — *vu* не согласуется: фабрика не выполняет действие инфинитива."
+- id: c08-laisse-emporter
+  lesson: c-08-voix-pronominaux/07-lecture
+  q: "«Мы поддались спешке»"
+  a: "Nous nous sommes **laissé emporter** par l'urgence. — *laissé* + инфинитив неизменяемо (реформа 1990 г.)."
+- id: c08-s-emparer
+  lesson: c-08-voix-pronominaux/07-lecture
+  q: "«Учителя взялись за эту историю, чтобы сделать из неё урок»"
+  a: "Les professeurs **se sont emparés de** l'affaire pour en faire un cours. — собственно местоимённый, причастие согласуется с подлежащим."
+- id: c08-s-accorder-sur
+  lesson: c-08-voix-pronominaux/08-ecriture
+  q: "Синтез: «Оба автора сходятся в одном»; «их позиции расходятся в…»"
+  a: "Les deux auteurs **s'accordent sur** un point. Leurs positions **divergent** en revanche **sur**…"
+- id: c08-ne-se-fait-plus
+  lesson: c-08-voix-pronominaux/09-ecoute
+  q: "«Так больше совсем не делают»; «стекло по-прежнему режут вручную»"
+  a: "**Ça ne se fait plus** du tout. Le verre **se coupe** toujours à la main. — местоимённый пассив."
+- id: c08-aurait-ete
+  lesson: c-08-voix-pronominaux/09-ecoute
+  q: "Новости: «По данным следствия, картину якобы продавали несколько раз»"
+  a: "Selon les enquêteurs, le tableau **aurait été vendu** à plusieurs reprises. — conditionnel passé пассива = неподтверждённая информация."

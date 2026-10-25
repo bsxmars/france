@@ -1,0 +1,42 @@
+title: "Marc et Claire"
+type: listening
+intro: "Послушай разговор и ответь на вопросы."
+hints:
+  - "Национальность и профессия звучат сразу после je suis / tu es."
+  - "Part-elle… ? — вопрос о Лее, а не о Клер."
+audio: audio/tts/a-07/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  — Salut ! Tu es Marc, l'ami de Léa ?
+  — Oui, c'est moi. Et toi, tu es Claire ?
+  — Oui. Léa dit que tu es canadien.
+  — Oui, je suis québécois, de Montréal.
+  — Et à Paris, est-ce que tu travailles ?
+  — Oui, je suis professeur d'anglais dans une école.
+  — Parles-tu aussi russe ? Léa dit que tu lis Tolstoï !
+  — Non, je ne parle pas russe. Je lis Tolstoï en français ! Et toi, tu travailles ici ?
+  — Oui, je suis secrétaire. Mais en septembre, je pars à Lyon.
+  — Ah bon ? Et Léa, part-elle aussi à Lyon ?
+  — Non, Léa reste à Paris. Bon, je vais à la gare. Au revoir, Marc !
+  — Au revoir, Claire !
+items:
+  - q: "Откуда Марк?"
+    options: ["из Монреаля, он квебекец", "из Лиона, он француз", "из Москвы, он русский"]
+    answer: 0
+    explain: "*Je suis québécois, de Montréal.* Лион — город, куда уезжает Клер."
+  - q: "Кем работает Марк в Париже?"
+    options: ["секретарём", "преподавателем английского", "преподавателем русского"]
+    answer: 1
+    explain: "*Je suis professeur d'anglais dans une école.* Секретарь — Клер."
+  - q: "Говорит ли Марк по-русски?"
+    options: ["Да, он читает Толстого по-русски.", "Нет, он читает Толстого по-французски.", "Да, но только читает."]
+    answer: 1
+    explain: "*Non, je ne parle pas russe. Je lis Tolstoï en français !*"
+  - q: "Что Клер делает в сентябре?"
+    options: ["уезжает в Лион", "уезжает в Монреаль", "остаётся в Париже"]
+    answer: 0
+    explain: "*En septembre, je pars à Lyon.* — форма *je pars* от *partir*."
+  - q: "А Лея?"
+    options: ["тоже уезжает в Лион", "остаётся в Париже", "идёт на вокзал"]
+    answer: 1
+    explain: "На вопрос *Léa, part-elle aussi à Lyon ?* Клер отвечает: *Non, Léa reste à Paris.* На вокзал идёт сама Клер."

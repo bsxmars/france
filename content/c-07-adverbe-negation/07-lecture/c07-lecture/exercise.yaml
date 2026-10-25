@@ -1,0 +1,62 @@
+title: "Éloge de l'ennui"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Перескажи отрицательную фразу утвердительно, прежде чем выбирать vrai / faux."
+  - "ne… que = «только», а не «не»."
+text: |
+  ## Éloge de l'ennui
+
+  *Nous ne nous ennuyons presque plus jamais. Faut-il vraiment s'en réjouir ?*
+
+  Observez attentivement une salle d'attente, un quai de gare ou une file devant une boulangerie : personne n'y attend plus vraiment. Dès que le moindre temps mort apparaît, la main glisse machinalement vers la poche, et l'écran comble immédiatement le vide. Il y a vingt ans à peine, on regardait les passants, on lisait distraitement une affiche, on ne faisait rien. Aujourd'hui, nous ne nous ennuyons pratiquement jamais — et nous en sommes, semble-t-il, ravis.
+
+  Rien n'est pourtant moins évident que ce progrès. Les psychologues qui étudient l'ennui le décrivent non point comme un manque, mais comme un signal : il nous avertit que notre activité présente ne nous satisfait guère et nous pousse à en chercher une autre. Supprimer l'ennui, ce n'est donc pas seulement supprimer un désagrément ; c'est faire taire une alarme utile. L'enfant qui s'ennuie un dimanche après-midi finit généralement par inventer un jeu, construire une cabane, dessiner. L'enfant à qui l'on tend une tablette dès les premiers signes d'impatience ne fait que consommer ce que d'autres ont inventé pour lui.
+
+  Les adultes ne sont nullement à l'abri. Plusieurs chercheurs ont montré que les idées neuves surgissent rarement quand on se concentre intensément ; elles apparaissent plus souvent quand l'esprit vagabonde — sous la douche, en marchant, en regardant par la fenêtre. Or ces moments de flottement, nous les sacrifions méthodiquement. Nous écoutons des podcasts en courant, nous répondons à nos messages en faisant la queue, nous regardons une série en cuisinant. Nous ne perdons plus une minute, mais nous ne pensons peut-être plus aussi librement qu'avant.
+
+  Il ne s'agit évidemment pas de diaboliser le téléphone. Personne ne souhaite revenir à l'époque où l'on attendait un train pendant une heure sans savoir s'il arriverait. Il ne s'agit pas non plus de transformer l'ennui en vertu : celui qui dure trop longtemps, qu'on subit sans pouvoir y échapper, n'a rien de créatif. Le chômeur, le prisonnier ou le malade hospitalisé ne connaissent que trop bien cet ennui-là, qui use au lieu de stimuler.
+
+  La question est plutôt de savoir si nous sommes encore capables de supporter quelques minutes de vide. Une expérience souvent citée l'a montré de façon frappante : laissés seuls dans une pièce sans aucune distraction pendant un quart d'heure, beaucoup de participants préféraient s'infliger une légère décharge électrique plutôt que de rester simplement avec leurs pensées. Ce n'est pas que le silence soit insupportable ; c'est que nous en avons perdu l'habitude.
+
+  Retrouver l'ennui ne demande ni méthode ni application. Il suffit de laisser, de temps en temps, le téléphone dans un tiroir, de marcher sans écouteurs, d'attendre sans rien faire. Les premières fois, l'inconfort est réel ; on n'ose guère avouer qu'on ne sait plus quoi faire de ses mains. Puis, peu à peu, quelque chose revient : l'attention aux détails, une idée inattendue, le simple plaisir de regarder. Il n'y a que l'ennui qui puisse nous rendre cela. Encore faut-il lui laisser une chance, avant qu'il ne disparaisse tout à fait de nos vies.
+items:
+  - q: "Как автор относится к тому, что мы больше не скучаем?"
+    options: ["Радуется этому как прогрессу.", "Сомневается, что это прогресс.", "Считает, что это касается только детей."]
+    answer: 1
+    explain: "*et nous en sommes, **semble-t-il**, ravis* — ирония; следом: *Rien n'est pourtant moins évident que ce progrès* = «нет ничего менее очевидного», то есть это совсем не очевидный прогресс."
+  - q: "Чем, по мнению психологов, является скука?"
+    options: ["Недостатком, от которого надо избавиться.", "Сигналом, что нынешнее занятие нас не устраивает.", "Признаком усталости."]
+    answer: 1
+    explain: "*non point comme un manque, mais comme un signal : il nous avertit que notre activité présente **ne** nous satisfait **guère**.* — *non point* = книжное «вовсе не»."
+  - q: "Vrai / faux / on ne sait pas: ребёнок с планшетом придумывает больше игр, чем скучающий ребёнок."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*ne fait que consommer ce que d'autres ont inventé pour lui* — «только потребляет»; придумывает как раз скучающий ребёнок."
+  - q: "Что означает фраза «Les adultes ne sont nullement à l'abri»?"
+    options: ["Взрослым это совсем не грозит.", "Взрослые тоже ничуть не защищены от этого.", "Взрослые защищены лучше детей."]
+    answer: 1
+    explain: "*nullement* — «нисколько»; *ne pas être à l'abri* — «не быть защищённым». Значит, проблема касается и взрослых."
+  - q: "Когда, по данным исследователей, чаще появляются новые идеи?"
+    options: ["когда мы интенсивно сосредоточены", "когда мысли свободно блуждают", "когда мы слушаем подкасты"]
+    answer: 1
+    explain: "*surgissent **rarement** quand on se concentre intensément ; elles apparaissent **plus souvent** quand l'esprit vagabonde.* Подкасты, наоборот, отнимают эти моменты."
+  - q: "Что подразумевает фраза «Nous ne perdons plus une minute, mais nous ne pensons peut-être plus aussi librement qu'avant»?"
+    options: ["Эффективность лишает нас свободного мышления.", "Мы стали думать быстрее.", "Мы тратим слишком много времени впустую."]
+    answer: 0
+    explain: "Противопоставление *mais*: выигрыш во времени оборачивается потерей — *ne… plus aussi librement qu'avant* (сравнение наречия)."
+  - q: "Vrai / faux / on ne sait pas: автор призывает отказаться от смартфонов."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*Il ne s'agit évidemment pas de diaboliser le téléphone.* Он предлагает лишь иногда оставлять телефон в ящике."
+  - q: "Какую скуку автор не считает полезной?"
+    options: ["короткую скуку в очереди", "долгую, навязанную скуку, от которой нельзя уйти", "детскую скуку в воскресенье"]
+    answer: 1
+    explain: "*celui qui dure trop longtemps, qu'on subit sans pouvoir y échapper, **n'a rien de** créatif* — «вовсе не творческая»; её *ne connaissent que trop bien* безработные и больные."
+  - q: "Впиши наречие из текста: la main glisse ___ vers la poche (машинально)."
+    answers: ["machinalement"]
+    explain: "*machinal* → *machinale* → **machinalement**: наречие от женского рода."
+  - q: "Впиши слово из текста: l'enfant… ne fait ___ consommer ce que d'autres ont inventé."
+    answers: ["que"]
+    explain: "**ne faire que** + infinitif — «только и делать, что…»."

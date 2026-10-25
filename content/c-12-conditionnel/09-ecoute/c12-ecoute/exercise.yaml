@@ -1,0 +1,73 @@
+title: "Le grand débat : la semaine de quatre jours"
+type: listening
+intro: "Послушай радиодебаты (дважды) и ответь на вопросы."
+hints:
+  - "«Je dirais plutôt…» — смягчение, а не смена позиции."
+  - "Conditionnel после selon / des études — сведения с оговоркой."
+audio: audio/tts/c-12/debat.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural, fr-FR-DeniseNeural, fr-FR-RemyMultilingualNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonsoir et bienvenue dans « Le grand débat ». Ce soir, une question qui divise les entreprises : faut-il passer à la semaine de quatre jours ? Selon un sondage publié ce matin, six salariés sur dix y seraient favorables. Pour en débattre, Nathalie Gagnon, qui dirige une entreprise de logiciels à Montréal et qui a adopté la semaine de quatre jours il y a deux ans, et Pierre Lambert, économiste du travail. Madame Gagnon, pourquoi avoir fait ce choix ?
+
+  **Nathalie Gagnon :** Au départ, c'était presque un pari. Nous perdions nos meilleurs développeurs, qui partaient chez des concurrents mieux payés. Je ne pouvais pas augmenter les salaires, alors je me suis dit : et si on leur offrait du temps plutôt que de l'argent ? Nous avons gardé trente-cinq heures par semaine, mais réparties sur quatre jours.
+
+  **Journaliste :** Et le résultat ?
+
+  **Nathalie Gagnon :** Au-delà de nos espérances. En deux ans, nous n'avons perdu que deux personnes, alors qu'avant, nous en perdions une dizaine par an. Et la productivité n'a pas baissé, au contraire. Honnêtement, si j'avais su, je l'aurais fait bien plus tôt.
+
+  **Journaliste :** Pierre Lambert, vous êtes plus sceptique.
+
+  **Pierre Lambert :** Je dirais plutôt prudent. Ce que décrit Madame Gagnon est très intéressant, mais je ferais une distinction. Dans une entreprise de logiciels, on peut organiser le travail autrement. Dans un hôpital, dans une école ou dans un supermarché, c'est une autre affaire. Si les infirmières ne travaillaient que quatre jours, il faudrait en embaucher davantage, et l'on manque déjà de personnel.
+
+  **Nathalie Gagnon :** Je vous l'accorde, ce ne serait pas simple partout. Mais on pourrait commencer là où c'est possible, non ?
+
+  **Pierre Lambert :** Bien sûr. Simplement, il ne faudrait pas présenter cela comme une solution miracle. Et il y a un autre point qu'on oublie souvent : des journées de neuf heures, c'est long. Plusieurs études britanniques montreraient une hausse de la fatigue chez certains salariés, en particulier chez les parents de jeunes enfants.
+
+  **Nathalie Gagnon :** Chez nous, les employés choisissent eux-mêmes leur jour de congé. Ceux qui ont des enfants prennent souvent le mercredi. Et quand bien même les journées seraient un peu plus longues, la plupart d'entre eux ne voudraient pour rien au monde revenir en arrière.
+
+  **Journaliste :** Monsieur Lambert, l'État devrait-il intervenir ?
+
+  **Pierre Lambert :** Je ne saurais le recommander pour le moment. Une loi imposée à tous, du jour au lendemain, ce serait une erreur. En revanche, l'État pourrait aider les entreprises qui veulent expérimenter, par exemple en finançant des études sérieuses. Nous aurions dû le faire depuis longtemps : nous disposons de très peu de données fiables.
+
+  **Journaliste :** Madame Gagnon, un mot pour conclure ?
+
+  **Nathalie Gagnon :** Aux chefs d'entreprise qui nous écoutent, je dirais : n'attendez pas une loi. Essayez pendant six mois, mesurez, discutez avec vos équipes. Au pire, vous reviendrez à l'ancien système. Au mieux, vous découvrirez que vos employés ne demandaient qu'à travailler mieux.
+
+  **Journaliste :** Nathalie Gagnon, Pierre Lambert, merci à tous les deux.
+items:
+  - q: "Что сообщает утренний опрос?"
+    options: ["Шесть работников из десяти, по данным опроса, поддерживают четырёхдневную неделю.", "Шесть компаний из десяти уже перешли на четырёхдневку.", "Большинство работников против четырёхдневной недели."]
+    answer: 0
+    explain: "*Selon un sondage…, six salariés sur dix y **seraient** favorables* — conditionnel journalistique: данные опроса, а не установленный факт. *y* = à la semaine de quatre jours."
+  - q: "Почему Натали Ганьон ввела четырёхдневную неделю?"
+    options: ["Чтобы сократить расходы на офис.", "Чтобы удержать сотрудников, не повышая зарплат.", "Потому что этого потребовал закон Квебека."]
+    answer: 1
+    explain: "*Nous perdions nos meilleurs développeurs… Je ne pouvais pas augmenter les salaires… et si on leur offrait du temps plutôt que de l'argent ?*"
+  - q: "Как изменилось рабочее время в её компании?"
+    options: ["32 часа за четыре дня", "35 часов, распределённые на четыре дня", "35 часов за пять дней с одним свободным днём в месяц"]
+    answer: 1
+    explain: "*Nous avons gardé trente-cinq heures par semaine, mais réparties sur quatre jours.*"
+  - q: "Что значит её фраза «si j'avais su, je l'aurais fait bien plus tôt» ?"
+    options: ["Она сомневается, стоило ли это делать.", "Она жалеет, что не сделала этого раньше.", "Она собирается сделать это в будущем."]
+    answer: 1
+    explain: "Si + plus-que-parfait → conditionnel passé: нереальное в прошлом, сожаление о том, что уже не изменить."
+  - q: "Как Пьер Ламбер определяет свою позицию?"
+    options: ["Он категорически против.", "Он скорее осторожен, чем скептичен.", "Он полностью согласен с Ганьон."]
+    answer: 1
+    explain: "*Je dirais plutôt prudent* — conditionnel смягчает: он не против, но видит ограничения."
+  - q: "Какой довод он приводит про больницы?"
+    options: ["Медсёстры не хотят работать по девять часов.", "Пришлось бы нанимать больше людей, а персонала уже не хватает.", "В больницах производительность упала бы."]
+    answer: 1
+    explain: "*Si les infirmières ne travaillaient que quatre jours, il **faudrait** en embaucher davantage, et l'on manque déjà de personnel.*"
+  - q: "Что говорится о британских исследованиях?"
+    options: ["Они доказали, что четырёхдневка вредна.", "По ним, у части работников, особенно родителей маленьких детей, будто бы растёт усталость.", "Они показали рост производительности."]
+    answer: 1
+    explain: "*Plusieurs études britanniques **montreraient** une hausse de la fatigue* — Ламбер ссылается на них с оговоркой."
+  - q: "Что Ламбер предлагает государству?"
+    options: ["Принять закон для всех компаний.", "Поддерживать компании-экспериментаторов и финансировать исследования.", "Ничего не делать."]
+    answer: 1
+    explain: "*Une loi imposée à tous… ce serait une erreur. En revanche, l'État pourrait aider les entreprises qui veulent expérimenter… en finançant des études sérieuses.* *Nous aurions dû le faire* — упрёк: данных мало."
+  - q: "Какую рекомендацию Ганьон даёт руководителям?"
+    options: ["Дождаться закона.", "Попробовать на полгода и оценить результат вместе с командой.", "Сразу перейти на четырёхдневку навсегда."]
+    answer: 1
+    explain: "*n'attendez pas une loi. Essayez pendant six mois, mesurez, discutez avec vos équipes.*"

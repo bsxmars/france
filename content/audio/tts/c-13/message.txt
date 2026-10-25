@@ -1,0 +1,5 @@
+# pause: 600
+A: Message à l'attention des parents d'élèves du collège Jean-Jaurès. En raison d'une grève des transports jeudi prochain, les cours seront maintenus, mais il est possible que certains professeurs soient absents.
+A: Afin que nous puissions organiser l'accueil, nous vous demandons de nous indiquer avant mercredi midi si votre enfant sera présent. Il est indispensable que les élèves de sixième soient accompagnés jusqu'à l'entrée du collège.
+A: La cantine fonctionnera normalement, à moins que le personnel ne soit lui-même en grève ; dans ce cas, prévoyez un repas froid. Enfin, la sortie au musée prévue jeudi après-midi est reportée au mardi suivant, pour que tous les élèves puissent y participer.
+A: Merci de votre compréhension.

@@ -1,0 +1,53 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком (или выбери вариант). Регистр и знаки препинания не важны, акценты и дефисы — важны."
+hints:
+  - "В инверсии — дефис: parles-tu, va-t-il."
+  - "-t- вставляется, если глагол кончается на гласную: parle-t-elle."
+items:
+  - audio: audio/tts/a-07/c1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Parle-t-il anglais ?", "Parle-t-elle anglais ?"]
+    answer: 1
+    explain: "[тэль] — **Parle-t-elle** «Она говорит по-английски?». *-t-il* звучит [тиль]."
+  - audio: audio/tts/a-07/c2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Est-il français ?", "Est-elle française ?"]
+    answer: 1
+    explain: "**Est-elle française ?** «Она француженка?» — слышно [тэль] и [з] на конце *française*."
+  - audio: audio/tts/a-07/c3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["C'est un Russe.", "C'est une Russe."]
+    answer: 0
+    explain: "Носовой [œ̃] — **un Russe** «Это русский». *une Russe* звучало бы [юн рюс]. После *c'est* артикль нужен."
+  - audio: audio/tts/a-07/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Lis-tu ce livre ?"]
+    explain: "«Ты читаешь эту книгу?» Простая инверсия: *tu lis* → **lis-tu**."
+  - audio: audio/tts/a-07/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Paul va-t-il à la gare ?"]
+    explain: "«Поль идёт на вокзал?» Сложная инверсия: имя впереди, после глагола — *il*; *va* кончается на гласную → **-t-**."
+  - audio: audio/tts/a-07/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Est-ce que tu pars à Lyon ?"]
+    explain: "«Ты уезжаешь в Лион?» После *est-ce que* — прямой порядок; *tu pars* без *t* основы."
+  - audio: audio/tatoeba/472077.mp3
+    audio_source: {title: "Tatoeba #1031677", url: "https://tatoeba.org/fr/sentences/show/1031677", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Parles-tu français ?"]
+    explain: "«Ты говоришь по-французски?» Форма *tu* глаголов на *-er* — **-es**: *parles-tu*."
+  - audio: audio/tatoeba/472067.mp3
+    audio_source: {title: "Tatoeba #475822", url: "https://tatoeba.org/fr/sentences/show/475822", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Parle-t-elle français ?"]
+    explain: "«Она говорит по-французски?» *parle* + *elle* — две гласные, между ними **-t-**."
+  - audio: audio/tatoeba/473130.mp3
+    audio_source: {title: "Tatoeba #6463288", url: "https://tatoeba.org/fr/sentences/show/6463288", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Écris-tu en français ?"]
+    explain: "«Ты пишешь по-французски?» *tu écris* → **écris-tu**; форма *tu* III группы — на *-s*."
+  - audio: audio/tatoeba/472363.mp3
+    audio_source: {title: "Tatoeba #5762775", url: "https://tatoeba.org/fr/sentences/show/5762775", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Le français est-il difficile ?"]
+    explain: "«Французский трудный?» Подлежащее — существительное → сложная инверсия: *le français* **est-il**."

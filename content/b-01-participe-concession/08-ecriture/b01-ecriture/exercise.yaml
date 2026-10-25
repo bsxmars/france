@@ -1,0 +1,38 @@
+title: "Courrier des lecteurs : faut-il interdire la publicité pour la mode jetable ?"
+type: writing
+intro: "Напиши формальное письмо в редакцию по плану урока."
+prompt: |
+  Le magazine *Style & Société* a publié un article intitulé « Mode jetable : il est temps d'interdire la publicité ». L'auteur propose d'interdire toute publicité pour les vêtements à très bas prix.
+
+  Vous écrivez au courrier des lecteurs du magazine pour réagir à cet article. Vous donnez votre opinion argumentée, appuyée sur des exemples précis.
+
+  Напиши **200–280 слов**.
+words: [200, 280]
+target_grammar:
+  - "уступка и противопоставление: bien que + subjonctif, malgré, avoir beau, alors que, il est vrai que… mais"
+  - "participe présent, gérondif (en + -ant), participe composé (ayant…)"
+  - "futur antérieur после quand / dès que / lorsque"
+checklist:
+  - "Формальное обращение и формула вежливости в конце."
+  - "Во вступлении названы статья и твоя позиция."
+  - "Два довода, у каждого — конкретный пример."
+  - "Есть уступка: bien que + subjonctif или malgré + существительное, и avoir beau или alors que."
+  - "Хотя бы одно participe présent или gérondif и одно participe composé (ayant / étant…)."
+  - "Хотя бы один futur antérieur после quand / dès que / lorsque."
+  - "Регистр формального письма: vous, без разговорных сокращений."
+model_answer: |
+  Madame, Monsieur,
+
+  Lecteur fidèle de votre magazine, j'ai lu avec attention l'article proposant d'interdire la publicité pour la mode jetable. Bien que je partage l'inquiétude de son auteur, cette mesure me semble à la fois injuste et peu efficace.
+
+  D'abord, interdire la publicité ne changera pas les habitudes des consommateurs. Les adolescents, passant des heures sur les réseaux sociaux, découvrent les nouvelles collections chez les influenceurs bien plus que sur les affiches. On aura beau supprimer les spots publicitaires, leurs vidéos continueront de circuler.
+
+  Ensuite, malgré ses défauts, la mode bon marché permet à de nombreuses familles de s'habiller correctement. Alors qu'un manteau de créateur coûte plusieurs centaines d'euros, un modèle d'entrée de gamme en coûte quarante. Avant de condamner ces achats, il faut proposer une alternative accessible.
+
+  Il est vrai que l'industrie textile pollue énormément, et je ne le nie pas. Ayant moi-même travaillé deux ans dans un magasin de vêtements, j'ai vu des cartons entiers de tee-shirts invendus partir à la poubelle. Mais au lieu d'interdire, pourquoi ne pas informer ? Une étiquette indiquant l'impact écologique de chaque vêtement aidera chacun à choisir en connaissance de cause.
+
+  En définitive, je suis convaincu que nous changerons nos habitudes non pas par la contrainte, mais en comprenant ce que nous achetons. Dès que les consommateurs auront compris le vrai prix d'un tee-shirt à cinq euros, la publicité aura perdu une grande partie de son pouvoir.
+
+  Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+  Paul Lemoine, Nantes

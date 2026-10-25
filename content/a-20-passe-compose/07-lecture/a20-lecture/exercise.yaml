@@ -1,0 +1,53 @@
+title: "Un week-end à Marseille"
+type: reading
+intro: "Прочитай запись в блоге и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста: пятница, суббота, воскресенье."
+  - "Отрицание ne… pas стоит вокруг avoir / être."
+text: |
+  ## Un week-end à Marseille
+
+  Le mois dernier, mon ami Julien et moi, nous sommes allés à Marseille pour le week-end. Nous sommes partis de Lyon vendredi soir, en train, et nous sommes arrivés à la gare Saint-Charles à dix heures. Il a beaucoup plu ce soir-là !
+
+  Samedi matin, nous sommes montés à Notre-Dame-de-la-Garde. De là-haut, nous avons vu toute la ville, la mer et les bateaux du Vieux-Port. Ensuite, nous sommes descendus au marché aux poissons. Julien a acheté deux journaux locaux : il adore lire les nouvelles de la ville.
+
+  À midi, nous avons mangé une bouillabaisse dans un petit restaurant. Je n'ai pas aimé le poisson, mais Julien a tout mangé ! L'après-midi, nous avons visité le MuCEM, un grand musée sur les cultures de la Méditerranée. Nous avons vu des tableaux, des bijoux et des objets très anciens, et Julien a pris beaucoup de photos.
+
+  Le soir, nous avons retrouvé Sami, un ami de Julien. Sami connaît la ville par cœur : il est né ici. Il nous a montré le Panier, le vieux quartier de Marseille, et nous avons marché dans ses petites rues jusqu'à minuit.
+
+  Dimanche, nous sommes restés à la plage toute la matinée. Nous sommes rentrés à Lyon le soir, fatigués mais heureux.
+
+  Est-ce que nous avons aimé Marseille ? Oui, beaucoup ! Nous avons déjà réservé un hôtel pour les vacances de Pâques.
+
+  *Camille*
+items:
+  - q: "Как Камиль и Жюльен приехали в Марсель?"
+    options: ["на машине", "на поезде", "на самолёте"]
+    answer: 1
+    explain: "*Nous sommes partis de Lyon vendredi soir, **en train**, et nous sommes arrivés à la gare Saint-Charles.*"
+  - q: "Какая была погода в пятницу вечером?"
+    options: ["Было солнечно.", "Шёл сильный дождь.", "Было холодно."]
+    answer: 1
+    explain: "*Il a **beaucoup** plu ce soir-là !* — *plu* от *pleuvoir*; наречие *beaucoup* — между *a* и причастием."
+  - q: "Что они увидели с Нотр-Дам-де-ла-Гард?"
+    options: ["весь город, море и корабли", "рыбный рынок", "старый квартал Панье"]
+    answer: 0
+    explain: "*De là-haut, nous avons vu toute la ville, la mer et les bateaux du Vieux-Port.*"
+  - q: "Жюльен купил на рынке две местные ___ (впиши слово из текста)."
+    answers: ["journaux"]
+    explain: "*deux **journaux** locaux* — *un journal* → *des journaux*; прилагательное тоже: *local* → *locaux*."
+  - q: "Понравилась ли Камиль буйабес?"
+    options: ["Да, она всё съела.", "Нет, ей не понравилась рыба.", "Она её не заказывала."]
+    answer: 1
+    explain: "*Je **n'ai pas aimé** le poisson, mais Julien a tout mangé !*"
+  - q: "Кто такой Сами?"
+    options: ["брат Камиль", "друг Жюльена, родился в Марселе", "гид в музее"]
+    answer: 1
+    explain: "*Sami, un ami de Julien. Sami **connaît** la ville par cœur : il **est né** ici.*"
+  - q: "Что они делали в воскресенье утром?"
+    options: ["ходили в музей", "были на пляже", "гуляли по Панье"]
+    answer: 1
+    explain: "*Dimanche, nous **sommes restés** à la plage toute la matinée.* — *rester* спрягается с *être*."
+  - q: "Впиши наречие из текста: Nous avons ___ réservé un hôtel pour les vacances de Pâques."
+    answers: ["déjà"]
+    explain: "*Nous avons **déjà** réservé* — короткое наречие стоит между вспомогательным глаголом и причастием."

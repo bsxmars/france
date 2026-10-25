@@ -1,0 +1,12 @@
+# rate: -15%
+# pause: 800
+A: Regarde, voici la gare.
+F: Oh, la gare est grande !
+A: Oui. Et voici le café de la gare. Le café est petit.
+F: Et Léa ? Léa est sur la terrasse ?
+A: Non. Léa cherche sa tasse.
+F: Sa tasse ? La tasse est sur la table !
+A: Ah oui, voici la tasse. Le café est chaud.
+F: Et Paul ?
+A: Paul va à l'école. Paul aime l'école.
+F: Et Léa aime le café !

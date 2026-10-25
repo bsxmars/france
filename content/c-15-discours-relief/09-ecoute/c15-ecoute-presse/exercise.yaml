@@ -1,0 +1,36 @@
+title: "Revue de presse : la rentrée sans logement"
+type: listening
+intro: "Обзор прессы звучит один раз. Следи, какая газета что пишет."
+hints:
+  - "Название газеты → её тема: держи в голове пары."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c-15/presse.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  Bonjour, c'est l'heure de la revue de presse. Ce matin, c'est la rentrée universitaire qui fait la une, et surtout le manque de logements étudiants. Selon « Le Quotidien du Sud », près de trois mille étudiants n'auraient toujours pas trouvé de chambre à Montpellier.
+
+  Dans « L'Écho de l'Ouest », le président de l'université de Nantes raconte qu'il a dû ouvrir un gymnase pour héberger des étudiants pendant une semaine, et il se demande pourquoi l'État n'a pas réagi plus tôt.
+
+  « Le Journal de l'Est », lui, a interrogé des propriétaires. L'un d'eux explique qu'il préférait louer aux touristes, parce que c'était plus rentable, mais qu'il proposerait désormais des chambres aux étudiants si on l'aidait à les rénover.
+
+  Enfin, ce qui revient dans tous ces articles, c'est la même question : que fera le gouvernement d'ici la fin du mois ? Réponse peut-être demain : la ministre de l'Enseignement supérieur doit s'exprimer devant les députés.
+items:
+  - q: "О чём сегодня главная тема обзора?"
+    options: ["нехватка жилья для студентов", "рост платы за обучение", "забастовка в университетах"]
+    answer: 0
+    explain: "*c'est la rentrée universitaire qui fait la une, et surtout le manque de logements étudiants.*"
+  - q: "Selon « Le Quotidien du Sud », près de ___ étudiants n'auraient pas trouvé de chambre à Montpellier."
+    answers: ["trois mille", "3000", "3 000"]
+    explain: "*près de trois mille étudiants **n'auraient** toujours pas trouvé de chambre* — conditionnel: данные газеты."
+  - q: "Что сделал президент Нантского университета?"
+    options: ["Открыл спортзал, чтобы на неделю разместить студентов.", "Закрыл общежитие на ремонт.", "Подал в отставку."]
+    answer: 0
+    explain: "*il a dû ouvrir un gymnase pour héberger des étudiants pendant une semaine, et **il se demande pourquoi** l'État n'a pas réagi plus tôt.*"
+  - q: "Что сказал один из владельцев жилья?"
+    options: ["Что больше никогда не будет сдавать студентам.", "Что раньше сдавал туристам, но теперь сдавал бы студентам, если бы ему помогли с ремонтом.", "Что уже сдаёт все комнаты студентам."]
+    answer: 1
+    explain: "Косвенная речь: *qu'il **préférait** louer aux touristes… mais qu'il **proposerait** désormais des chambres aux étudiants **si on l'aidait** à les rénover* — условие в пересказе."
+  - q: "Когда министр выступит перед депутатами?"
+    options: ["сегодня вечером", "завтра", "в конце месяца"]
+    answer: 1
+    explain: "*Réponse peut-être demain : la ministre… doit s'exprimer devant les députés.* Конец месяца — срок, к которому ждут решения."

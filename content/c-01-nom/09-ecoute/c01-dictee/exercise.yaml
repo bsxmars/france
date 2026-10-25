@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Мн. ч. часто не слышно — смотри на смысл: два, трое, des, les."
+  - "Род существительного проверяй по согласованию прилагательного и причастия."
+items:
+  - audio: audio/tts/c-01/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Les festivals de cet été ont attiré plus de monde que les carnavals d'hiver."]
+    explain: "«Фестивали этого лета привлекли больше людей, чем зимние карнавалы». *festival, carnaval* — исключения из правила *-al → -aux*: **des festivals, des carnavals**."
+  - audio: audio/tts/c-01/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Ma voisine est devenue cheffe d'orchestre à quarante ans.", "Ma voisine est devenue cheffe d'orchestre à 40 ans.", "Ma voisine est devenue chef d'orchestre à quarante ans.", "Ma voisine est devenue chef d'orchestre à 40 ans."]
+    explain: "«Моя соседка стала дирижёром в сорок лет». *cheffe* и *chef* звучат одинаково; сегодня обычна форма **cheffe**, традиционная *chef* тоже допустима. *voisine* — без удвоения *n*."
+  - audio: audio/tts/c-01/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Les chefs-d'œuvre de ce peintre sont exposés dans trois musées différents.", "Les chefs-d'œuvre de ce peintre sont exposés dans 3 musées différents."]
+    explain: "«Шедевры этого художника выставлены в трёх разных музеях». **des chefs-d'œuvre**: изменяется только *chef*, *d'œuvre* — дополнение с предлогом."
+  - audio: audio/tts/c-01/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["On annonce un violent orage pour la fin de l'après-midi."]
+    explain: "«К концу дня обещают сильную грозу». *orage* — мужского рода, в отличие от русской «грозы»: **un violent orage**."
+  - audio: audio/tts/c-01/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Après deux ans de travaux, les vitraux de la cathédrale ont retrouvé leurs couleurs.", "Après 2 ans de travaux, les vitraux de la cathédrale ont retrouvé leurs couleurs."]
+    explain: "«После двух лет работ витражи собора вновь обрели свои цвета». **travail → travaux** (ремонт), **vitrail → vitraux**."
+  - audio: audio/tts/c-01/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Elle a été le seul témoin de l'accident, et la police l'a longtemps interrogée."]
+    explain: "«Она была единственной свидетельницей аварии, и полиция долго её допрашивала». *témoin* — только мужского рода, даже о женщине: **le seul témoin**; *interrogée* согласуется с *l'* (= *elle*)."
+  - audio: audio/tts/c-01/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Les vieilles gens du village sont tous venus à la fête."]
+    explain: "«Все старики деревни пришли на праздник». *gens*: прилагательное **перед** словом — в женском роде (*vieilles*), а местоимение и причастие после — в мужском (*tous venus*)."
+  - audio: audio/tts/c-01/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Les grands-mères ont préparé des amuse-gueules pour tout le monde.", "Les grands-mères ont préparé des amuse-gueule pour tout le monde.", "Les grand-mères ont préparé des amuse-gueules pour tout le monde.", "Les grand-mères ont préparé des amuse-gueule pour tout le monde."]
+    explain: "«Бабушки приготовили закуски для всех». **grands-mères** — сегодня изменяются оба элемента (старое написание *grand-mères* тоже допустимо); *amuse-gueule* (глагол + сущ.): по традиции *des amuse-gueule*, по реформе 1990 — *des amuse-gueules*."

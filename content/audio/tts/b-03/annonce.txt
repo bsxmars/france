@@ -1,0 +1,5 @@
+# pause: 600
+G: Vous cherchez un endroit calme où travailler après dix-huit heures ? La médiathèque Jean-Moulin, dont les horaires viennent de changer, est désormais ouverte jusqu'à vingt-deux heures du mardi au vendredi.
+G: La nouvelle salle de lecture, laquelle se trouve au deuxième étage, compte quarante places, soit deux fois plus qu'avant. Le prêt de livres y est possible jusqu'à vingt et une heures trente.
+G: Le samedi, c'est l'espace jeunesse qui accueille les familles, avec des lectures pour enfants à dix heures et à quinze heures. L'entrée est gratuite pour les moins de dix-huit ans ; pour les adultes, la carte annuelle coûte douze euros.
+G: Attention : la médiathèque sera fermée le lundi onze novembre, jour férié.

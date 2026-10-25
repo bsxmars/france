@@ -1,0 +1,65 @@
+title: "Reportage : le Rex, sauvé par ses spectateurs"
+type: listening
+intro: |
+  Радиорепортаж. Прочитай вопросы, затем послушай запись **два раза** и выбери один вариант. Не знаешь — пропусти.
+pass: 1
+audio: audio/tts/b-09/reportage.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural, fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Dans la petite ville de Saint-Julien, tout le monde connaît le Rex. Le cinéma fut construit en 1932 par un architecte parisien, au bord de la rivière, juste en face de l'ancienne gare. Pendant soixante ans, il accueillit des générations de spectateurs. Puis, au début des années deux mille, les salles du centre commercial attirèrent le public, et le Rex ferma ses portes en 2009.
+
+  **Simon Gagné :** Quand j'ai appris qu'on allait le démolir pour construire un parking, je n'y croyais pas. J'étais arrivé du Québec deux ans plus tôt, et c'était le premier endroit où je m'étais senti chez moi. Si personne n'avait réagi, le Rex n'existerait plus aujourd'hui.
+
+  **Journaliste :** Avec une poignée de voisins, Simon Gagné crée alors une association. En six mois, elle réunit quatre cents membres et lance une collecte. Chaque habitant donne ce qu'il peut : dix euros, cent euros, parfois une journée de travail. Les fauteuils que les bénévoles ont repeints sont toujours là.
+
+  **Simon Gagné :** Les gens disaient que c'était impossible, qu'aucun cinéma de village ne survivait aujourd'hui. Franchement, je ne pense pas qu'ils aient eu tort de douter. Mais on cherchait un modèle qui soit différent : ici, il n'y a pas seulement des films. On organise des débats, des concerts, des séances pour les écoles.
+
+  **Journaliste :** Rouvert en 2014, le Rex est aujourd'hui géré par l'association et soutenu par la commune. Il est peu probable qu'il devienne un jour rentable, reconnaît Simon, mais la salle n'a jamais été aussi pleine. L'an dernier, elle a accueilli plus de vingt mille spectateurs, soit deux fois plus que la population de la ville.
+
+  **Simon Gagné :** Ce qui me rend le plus fier, ce ne sont pas les chiffres. Ce sont ces adolescents qui n'avaient jamais mis les pieds dans un vrai cinéma et qui y reviennent maintenant chaque semaine.
+items:
+  - q: "Где стоит кинотеатр Rex?"
+    options: ["На берегу реки, напротив старого вокзала.", "В торговом центре, рядом с парковкой.", "Посреди площади, за вокзалом."]
+    answer: 0
+    topic: "b-02-recit-passe"
+    explain: "*fut construit… **au bord de** la rivière, juste **en face de** l'ancienne gare.* *Fut construit* — passé simple пассива (*a été construit*)."
+  - q: "Когда Симон приехал из Квебека?"
+    options: ["В 2014 году, когда кинотеатр открылся снова.", "За два года до того, как узнал о планах сноса.", "Через два года после закрытия кинотеатра."]
+    answer: 1
+    topic: "b-02-recit-passe"
+    explain: "*J'**étais arrivé** du Québec deux ans **plus tôt*** — plus-que-parfait: раньше момента, когда он узнал о сносе."
+  - q: "*Si personne n'avait réagi, le Rex n'existerait plus aujourd'hui.* Что это значит?"
+    options: ["Кинотеатр всё-таки снесли.", "Кинотеатр существует, потому что жители отреагировали.", "Жители отреагировали слишком поздно."]
+    answer: 1
+    topic: "b-02-recit-passe"
+    explain: "Гипотеза о прошлом: *si* + plus-que-parfait → conditionnel présent (результат сейчас). Условие не выполнилось — люди отреагировали, и Rex существует."
+  - q: "Сколько членов собрала ассоциация и за какой срок?"
+    options: ["Четыреста за шесть месяцев.", "Сто за шесть месяцев.", "Четыреста за два года."]
+    answer: 0
+    topic: "b-04-inversion-duree-cause"
+    explain: "***En** six mois, elle réunit quatre cents membres* — *en* + срок: за сколько времени сделано."
+  - q: "Что говорили скептики?"
+    options: ["Что некоторым сельским кинотеатрам удаётся выжить.", "Что ни один сельский кинотеатр сегодня не выживает.", "Что каждый житель должен заплатить сто евро."]
+    answer: 1
+    topic: "b-06-condition-indefinis"
+    explain: "*qu'**aucun** cinéma de village ne survivait aujourd'hui* — *aucun* = ни один. Сто евро — пример взноса, а не требование."
+  - q: "Как Симон относится к сомнениям скептиков?"
+    options: ["Считает, что они ошибались с самого начала.", "Считает, что сомневаться было разумно.", "Считает, что они мешали ассоциации."]
+    answer: 1
+    topic: "b-08-subjonctif-negation"
+    explain: "*Je ne pense pas qu'ils **aient eu tort** de douter* = «не думаю, что они зря сомневались», то есть сомнения были понятны. Двойное отрицание смысла — главная ловушка."
+  - q: "Станет ли Rex прибыльным?"
+    options: ["Да, уже в следующем году.", "Маловероятно.", "Он уже прибыльный."]
+    answer: 1
+    topic: "b-08-subjonctif-negation"
+    explain: "*Il est **peu probable** qu'il **devienne** un jour rentable* — «скорее нет»; полный зал не значит прибыль."
+  - q: "Сколько зрителей было в прошлом году?"
+    options: ["Около десяти тысяч — как население города.", "Больше двадцати тысяч — вдвое больше населения города.", "Двадцать тысяч — вдвое меньше населения города."]
+    answer: 1
+    topic: "b-03-comparaison-relatifs"
+    explain: "*plus de vingt mille spectateurs, soit **deux fois plus que** la population de la ville* — значит, в городе около десяти тысяч жителей."
+  - q: "Чем Симон гордится больше всего?"
+    options: ["Рекордом посещаемости.", "Подростками, которые теперь ходят в кино каждую неделю.", "Креслами, которые отремонтировали волонтёры."]
+    answer: 1
+    topic: "b-03-comparaison-relatifs"
+    explain: "*Ce qui me rend le plus fier, **ce ne sont pas** les chiffres. **Ce sont** ces adolescents qui…* — выделение: цифры названы, чтобы их отбросить."

@@ -1,0 +1,63 @@
+title: "Anatomie d'une rumeur"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "При пассиве без агента спроси себя: известно ли, кто действовал?"
+  - "Позиция автора начинается там, где кончается хроника событий."
+text: |
+  ## Anatomie d'une rumeur
+
+  *En quarante-huit heures, une petite ville s'est persuadée que son lac était empoisonné. Retour sur une panique ordinaire — et sur ce qu'elle dit de nous.*
+
+  Tout a commencé un dimanche de juillet par une photo. On y voyait des dizaines de poissons morts flottant au bord du lac de Saint-Aubin, accompagnés d'un commentaire alarmant : « L'usine a encore rejeté ses déchets. Ne vous baignez plus ! » Publiée vers midi, l'image a été partagée plus de dix mille fois avant le soir. Les habitants se sont alertés les uns les autres, des parents se sont précipités pour sortir leurs enfants de l'eau, et la plage, d'habitude bondée, s'est vidée en une heure.
+
+  Le lendemain, l'affaire était reprise par plusieurs médias régionaux. L'usine, une entreprise de cosmétiques installée près du lac depuis trente ans, s'est vu accuser de tous les maux. Ses dirigeants se sont défendus maladroitement : leur communiqué, rédigé à la hâte, a été jugé trop vague et a surtout été perçu comme un aveu. Des manifestants se sont rassemblés devant les grilles ; quelques vitres ont été brisées.
+
+  Il a fallu attendre le mercredi pour que les analyses soient publiées. Elles étaient sans ambiguïté : l'eau ne contenait aucune substance toxique. Les poissons étaient morts d'un manque d'oxygène, un phénomène bien connu des biologistes, provoqué par la chaleur exceptionnelle des jours précédents. Quant à la photo, elle avait bien été prise à Saint-Aubin… mais trois ans plus tôt, lors d'une autre canicule.
+
+  Comment une ville entière a-t-elle pu se tromper si vite ? On serait tenté d'accuser les réseaux sociaux. Ce serait trop simple. La rumeur ne s'est pas imposée parce qu'elle était crédible, mais parce qu'elle correspondait à ce que beaucoup pensaient déjà. L'usine était depuis longtemps soupçonnée de polluer ; personne n'avait jamais rien prouvé, mais chacun « savait ». Une fausse nouvelle ne se crée pas à partir de rien : elle se nourrit d'une méfiance préexistante, et c'est cette méfiance qui la rend si difficile à combattre.
+
+  Les journalistes, eux, se sont interrogés après coup. « Nous nous sommes laissé emporter par l'urgence, reconnaît la rédactrice en chef d'un quotidien local. Une information qui se partage aussi vite donne l'impression d'être vérifiée. Elle ne l'est pas. » Vérifier une photo prend parfois dix minutes ; ces dix minutes, personne ne les a prises. Dans les jours qui ont suivi, plusieurs articles ont été corrigés, mais les rectificatifs ont été beaucoup moins lus que les premiers titres.
+
+  Faut-il pour autant céder au découragement ? Pas forcément. L'épisode a eu un effet inattendu : au collège de Saint-Aubin, les professeurs se sont emparés de l'affaire pour en faire un cours d'éducation aux médias. Les élèves ont retrouvé la photo d'origine, reconstitué la chronologie, comparé les articles. « Ils se sont rendu compte qu'on peut être trompé sans être naïf », explique une enseignante. C'est peut-être la leçon la plus précieuse : une rumeur ne se combat pas seulement par des démentis, mais par l'habitude, prise jeune, de se poser une question simple avant de partager : d'où vient ce que je vois ?
+items:
+  - q: "Как быстро распространилась фотография?"
+    options: ["Её перепостили больше десяти тысяч раз до вечера того же дня.", "Её опубликовали местные СМИ в тот же вечер.", "Её увидели десять тысяч человек за неделю."]
+    answer: 0
+    explain: "*Publiée vers midi, l'image **a été partagée** plus de dix mille fois avant le soir.* СМИ подхватили историю только на следующий день (*le lendemain*)."
+  - q: "Как было воспринято коммюнике фабрики?"
+    options: ["как убедительное опровержение", "как признание вины", "как угроза подать в суд"]
+    answer: 1
+    explain: "*leur communiqué… a été jugé trop vague et a surtout **été perçu comme un aveu**.* — пассив без агента: так восприняла его публика."
+  - q: "Vrai / faux / on ne sait pas: известно, кто разбил стёкла фабрики."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 2
+    explain: "*quelques vitres **ont été brisées*** — пассив без агента: виновники не названы. Из того, что у ворот были манифестанты, это не следует напрямую."
+  - q: "Что показали анализы воды?"
+    options: ["Небольшое загрязнение от фабрики.", "Отсутствие токсичных веществ: рыба погибла от нехватки кислорода из-за жары.", "Отравление водорослями."]
+    answer: 1
+    explain: "*l'eau ne contenait **aucune** substance toxique. Les poissons étaient morts d'un manque d'oxygène… provoqué par la chaleur.*"
+  - q: "Что выяснилось о фотографии?"
+    options: ["Её сделали в другом городе.", "Её сделали там же, но три года назад.", "Это был фотомонтаж."]
+    answer: 1
+    explain: "*elle **avait bien été prise** à Saint-Aubin… mais trois ans plus tôt* — plus-que-parfait пассива: снимок сделан задолго до событий."
+  - q: "Как автор относится к версии «во всём виноваты соцсети»?"
+    options: ["Полностью с ней согласен.", "Считает её слишком упрощённой.", "Не упоминает её."]
+    answer: 1
+    explain: "*On serait tenté d'accuser les réseaux sociaux. **Ce serait trop simple.*** — условное наклонение отмечает чужую, отвергаемую версию."
+  - q: "Почему, по мнению автора, слух прижился?"
+    options: ["Потому что фото было очень правдоподобным.", "Потому что он подтверждал давнее недоверие к фабрике.", "Потому что фабрика уже была осуждена за загрязнение."]
+    answer: 1
+    explain: "*La rumeur ne s'est pas imposée parce qu'elle était crédible, mais parce qu'elle correspondait à ce que beaucoup pensaient déjà… **personne n'avait jamais rien prouvé**.* Третий вариант противоречит тексту."
+  - q: "Что признаёт главный редактор местной газеты?"
+    options: ["Журналисты поддались спешке, хотя быстро распространяемая новость не обязательно проверена.", "Журналисты проверили фото, но им не поверили.", "Газета сознательно распространила слух."]
+    answer: 0
+    explain: "*Nous nous sommes **laissé emporter** par l'urgence… Une information qui **se partage** aussi vite donne l'impression d'être vérifiée. Elle ne l'est pas.*"
+  - q: "Vrai / faux / on ne sait pas: фабрика подала в суд на автора поста."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 2
+    explain: "В тексте об этом ничего нет: известно только, что руководители *se sont défendus maladroitement* коммюнике."
+  - q: "Впиши причастие из текста: «Ils se sont ___ compte qu'on peut être trompé sans être naïf»."
+    answers: ["rendu"]
+    explain: "*se rendre compte* — *compte* является прямым дополнением, *se* — косвенным, поэтому причастие **rendu** не согласуется."

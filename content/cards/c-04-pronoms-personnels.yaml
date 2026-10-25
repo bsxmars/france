@@ -174,3 +174,23 @@
   lesson: c-04-pronoms-personnels/05-grammaire
   q: "s'en prendre à qn / s'en sortir / en finir avec"
   a: "Нападать на, винить / справиться, выкрутиться / покончить с."
+- id: c04-s-en-vouloir
+  lesson: c-04-pronoms-personnels/07-lecture
+  q: "«Я каждый раз себя виню, но не знаю, как поступить иначе»."
+  a: "*Je **m'en veux** à chaque fois, mais je ne vois pas comment **m'y prendre** autrement.*"
+- id: c04-se-passer-de
+  lesson: c-04-pronoms-personnels/07-lecture
+  q: "«Без гибкости удалённой работы многие уже не смогли бы обойтись»."
+  a: "*La souplesse du travail à distance, beaucoup ne voudraient plus **s'en passer**.*"
+- id: c04-tu-n-y-penses-pas
+  lesson: c-04-pronoms-personnels/09-ecoute
+  q: "*Tu n'y penses pas !* — что значит?"
+  a: "«Ты с ума сошёл / сошла!», «Даже не думай!» — возмущённое несогласие."
+- id: c04-n-en-pouvoir-plus
+  lesson: c-04-pronoms-personnels/09-ecoute
+  q: "«Однажды вечером я выбилась из сил» / «Мать в конце концов смирилась»."
+  a: "*Un soir, je **n'en pouvais plus**.* / *Ma mère a fini par **s'y faire**.*"
+- id: c04-reprendre-la-main
+  lesson: c-04-pronoms-personnels/08-ecriture
+  q: "«Сделать самому — значит вернуть себе контроль над повседневной жизнью»."
+  a: "*Faire **soi-même**, c'est **reprendre la main** sur sa vie quotidienne.*"

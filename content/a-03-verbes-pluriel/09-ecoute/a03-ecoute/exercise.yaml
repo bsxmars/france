@@ -1,0 +1,44 @@
+title: "En classe"
+type: listening
+intro: "Послушай урок французского и ответь на вопросы."
+hints:
+  - "Просьба звучит в начале фразы: fermez, travaillez, parlez."
+  - "После non идёт объяснение."
+audio: audio/tts/a-03/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural, fr-CA-AntoineNeural, fr-FR-DeniseNeural", license: "TTS"}
+transcript: |
+  **La professeure :** Bonjour ! Fermez la porte, s'il vous plaît. Merci.
+  **La professeure :** Aujourd'hui, les élèves préparent un dialogue. Anna, répète le mot « places ».
+  **Anna :** Les places.
+  **La professeure :** Très bien ! Et toi, Hugo ? Ton sac est là ?
+  **Hugo :** Non, madame. Mes cahiers sont dans le sac, et le sac est dans la voiture de ma mère !
+  **La professeure :** Ah ! Anna et Hugo, travaillez ensemble.
+  **Anna :** D'accord. Hugo, regarde mon cahier.
+  **La professeure :** Maintenant, parlez ! Anna prépare le café, Hugo cherche les tasses.
+  **Hugo :** Anna, voici les tasses. Elles sont sur la table.
+  **Anna :** Merci, Hugo ! Le café est chaud.
+items:
+  - q: "О чём учительница просит в начале урока?"
+    options: ["открыть окно", "закрыть дверь", "закрыть тетради"]
+    answer: 1
+    explain: "*Fermez la porte, s'il vous plaît.* — форма на *-ez*: просьба ко всем."
+  - q: "Какое слово повторяет Анна?"
+    options: ["la place", "les places", "les tasses"]
+    answer: 1
+    explain: "*Anna, répète le mot « places ». — Les places.* — число слышно по *les* [le]."
+  - q: "Где тетради Хьюго?"
+    options: ["на столе", "в сумке, а сумка — в машине мамы", "у Анны"]
+    answer: 1
+    explain: "*Mes cahiers sont dans le sac, et le sac est dans la voiture de ma mère !*"
+  - q: "Что учительница предлагает Анне и Хьюго?"
+    options: ["работать вместе", "повторить слова", "пойти домой"]
+    answer: 0
+    explain: "*Anna et Hugo, travaillez ensemble.* — *ensemble* «вместе». Поэтому Анна говорит: *Hugo, regarde mon cahier.*"
+  - q: "Что делает Хьюго в сценке?"
+    options: ["готовит кофе", "ищет чашки", "закрывает дверь"]
+    answer: 1
+    explain: "*Anna prépare le café, Hugo cherche les tasses.* — и потом: *Anna, voici les tasses.*"
+  - q: "Где чашки?"
+    options: ["на столе", "в сумке", "в машине"]
+    answer: 0
+    explain: "*Elles sont sur la table.* — *elles* = *les tasses*."

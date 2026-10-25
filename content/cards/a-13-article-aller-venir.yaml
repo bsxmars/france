@@ -42,3 +42,23 @@
   lesson: a-13-article-aller-venir/02-grammaire
   q: "«Он хочет стать инженером»."
   a: "*Il veut **devenir ingénieur**.* После *devenir*, как после *être*, профессия без артикля."
+- id: a13-quartier
+  lesson: a-13-article-aller-venir/07-lecture
+  q: "«В квартале есть булочная, но нет супермаркета»."
+  a: "Dans le quartier, **il y a une** boulangerie, mais **il n'y a pas de** supermarché."
+- id: a13-bienvenue
+  lesson: a-13-article-aller-venir/07-lecture
+  q: "«Добро пожаловать в нашу квартиру!» «Соседка придёт завтра»."
+  a: "**Bienvenue** dans notre appartement ! Ma **voisine vient** demain."
+- id: a13-viens-chez-moi
+  lesson: a-13-article-aller-venir/08-ecriture
+  q: "«Ты приедешь в субботу? Приезжай ко мне! До субботы!»"
+  a: "Tu **viens** samedi ? **Viens chez moi** ! **À samedi** !"
+- id: a13-dommage
+  lesson: a-13-article-aller-venir/09-ecoute
+  q: "«Жаль!», «Договорились», «Вот как?» — по-французски."
+  a: "**Dommage !** — **D'accord.** — **Ah bon ?**"
+- id: a13-vient-viennent-oral
+  lesson: a-13-article-aller-venir/09-ecoute
+  q: "Как на слух отличить *il vient* от *ils viennent*?"
+  a: "*il vient* [vjɛ̃] — носовой гласный; *ils viennent* [vjɛn] — звучит [n]."

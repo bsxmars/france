@@ -1,0 +1,39 @@
+title: "Avis aux usagers : travaux sur la ligne orange"
+type: listening
+intro: "Объявление звучит один раз, как на экзамене. Прочитай вопросы заранее."
+hints:
+  - "aucun… ne, ne… que, seulement — главное в объявлении часто стоит в отрицании или ограничении."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c-07/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+transcript: |
+  Avis aux usagers du métro. En raison de travaux de modernisation, aucune rame ne circulera sur la ligne orange entre les stations Gare-Centrale et Université, du samedi vingt-deux heures au lundi cinq heures du matin.
+
+  Un service d'autobus de remplacement sera offert toutes les cinq minutes. Ne vous présentez pas aux portes de la station Université : l'arrêt temporaire se trouve rue Sainte-Anne, devant la bibliothèque.
+
+  Veuillez noter que les vélos ne sont acceptés que dans les autobus munis d'un support, et seulement en dehors des heures de pointe.
+
+  Nous vous conseillons de prévoir au moins vingt minutes de plus pour vos déplacements. Les titres de transport habituels restent valides : aucun supplément ne vous sera demandé.
+items:
+  - q: "Что произойдёт на линии в выходные?"
+    options: ["Поезда будут ходить реже.", "Поезда не будут ходить между двумя станциями.", "Закроется вся линия."]
+    answer: 1
+    explain: "*aucune rame ne circulera sur la ligne orange **entre** les stations Gare-Centrale et Université* — только на участке."
+  - q: "Les travaux durent du samedi vingt-deux heures au lundi ___ heures du matin."
+    answers: ["cinq", "5"]
+    explain: "*du samedi vingt-deux heures au lundi **cinq** heures du matin.*"
+  - q: "Les autobus de remplacement passent toutes les ___ minutes."
+    answers: ["cinq", "5"]
+    explain: "*Un service d'autobus de remplacement sera offert toutes les **cinq** minutes.* *offert* в значении «предоставлен» — квебекское употребление."
+  - q: "Где находится временная остановка?"
+    options: ["у входа на станцию Université", "на улице Sainte-Anne, перед библиотекой", "у вокзала"]
+    answer: 1
+    explain: "*Ne vous présentez pas aux portes de la station Université : l'arrêt temporaire se trouve rue Sainte-Anne, devant la bibliothèque.*"
+  - q: "Когда можно ехать с велосипедом?"
+    options: ["в любом автобусе в любое время", "только в автобусах с креплением и не в час пик", "никогда"]
+    answer: 1
+    explain: "*les vélos **ne** sont acceptés **que** dans les autobus munis d'un support, et **seulement** en dehors des heures de pointe* — два ограничения."
+  - q: "Vrai / faux / on ne sait pas: за автобус нужно доплатить."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*Les titres de transport habituels restent valides : **aucun** supplément **ne** vous sera demandé.*"

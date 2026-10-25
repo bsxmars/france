@@ -1,0 +1,70 @@
+title: "Un week-end dans les Vosges"
+type: listening
+intro: "Послушай разговор коллег в понедельник утром (дважды) и ответь на вопросы."
+hints:
+  - "Следи за порядком событий: суббота утром, днём, вечером, воскресенье."
+  - "ils ont [ильзõ] — avoir, ils sont [ильсõ] — être."
+audio: audio/tts/a-20/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  **Nathalie :** Salut Olivier ! Alors, ce week-end ? Tu es allé dans les Vosges, non ?
+
+  **Olivier :** Oui, avec ma femme et nos deux garçons. Tu connais les Vosges ?
+
+  **Nathalie :** Non, je ne connais pas. Vous êtes partis quand ?
+
+  **Olivier :** Samedi, à six heures du matin. Nous avons pris la voiture et nous sommes arrivés au lac de Gérardmer à neuf heures.
+
+  **Nathalie :** À six heures ! Et les enfants, ils ont protesté ?
+
+  **Olivier :** Un peu ! Mais ils ont dormi dans la voiture. Ensuite, nous avons marché toute la journée : vingt kilomètres !
+
+  **Nathalie :** Vingt kilomètres ? Bravo ! Et il a fait beau ?
+
+  **Olivier :** Le matin, oui. Mais l'après-midi, il a beaucoup plu. Et ma femme est tombée dans la boue !
+
+  **Nathalie :** Oh non ! Elle a eu mal ?
+
+  **Olivier :** Non, non, elle n'a pas eu mal. Mais elle a ri pendant dix minutes ! Les garçons ont pris des photos, bien sûr.
+
+  **Nathalie :** Et le soir, vous avez dormi où ?
+
+  **Olivier :** Dans un petit hôtel près du lac. Nous avons très bien mangé : une tarte aux myrtilles, une spécialité de la région. Le patron de l'hôtel, un monsieur très sympathique, connaît toutes les histoires de la montagne : il en a raconté trois aux enfants.
+
+  **Nathalie :** Super. Et dimanche ?
+
+  **Olivier :** Dimanche, nous sommes montés en haut d'une montagne, le Hohneck. De là-haut, nous avons vu les Alpes ! Puis nous sommes rentrés à Strasbourg vers dix-neuf heures.
+
+  **Nathalie :** Et vous êtes fatigués ?
+
+  **Olivier :** Moi, oui, très fatigué ! Mais les garçons, non. Ils ont déjà demandé : « Quand est-ce qu'on revient ? »
+
+  **Nathalie :** Ah, c'est bon signe !
+items:
+  - q: "С кем Оливье ездил в Вогезы?"
+    options: ["с коллегами", "с женой и двумя сыновьями", "с другом"]
+    answer: 1
+    explain: "*avec ma femme et nos deux garçons.*"
+  - q: "Во сколько они приехали к озеру Жерармер?"
+    options: ["в 6:00", "в 9:00", "в 19:00"]
+    answer: 1
+    explain: "*nous **sommes arrivés** au lac de Gérardmer à neuf heures.* В 6:00 они выехали, в 19:00 вернулись в воскресенье."
+  - q: "Сколько километров они прошли в субботу? ___"
+    answers: ["vingt", "20", "vingt kilomètres", "20 km", "20 kilomètres"]
+    explain: "*nous avons marché toute la journée : vingt kilomètres !*"
+  - q: "Что случилось с женой Оливье?"
+    options: ["Она упала в грязь и долго смеялась.", "Она поранилась и вернулась в отель.", "Она потерялась в горах."]
+    answer: 0
+    explain: "*ma femme **est tombée** dans la boue !… elle n'a pas eu mal. Mais elle a ri pendant dix minutes !* — *tomber* спрягается с *être*, причастие согласовано: *tombée*."
+  - q: "Что они ели вечером?"
+    options: ["рыбу из озера", "черничный пирог", "сыр и хлеб"]
+    answer: 1
+    explain: "*Nous avons très bien mangé : une tarte aux myrtilles, une spécialité de la région.*"
+  - q: "Что они увидели с вершины Онека?"
+    options: ["Альпы", "Страсбург", "озеро Жерармер"]
+    answer: 0
+    explain: "*De là-haut, nous avons vu les Alpes !*"
+  - q: "Что сказали мальчики после поездки?"
+    options: ["Что очень устали.", "Что хотят вернуться.", "Что им было скучно."]
+    answer: 1
+    explain: "*Ils ont **déjà** demandé : « Quand est-ce qu'on revient ? »* Устал как раз Оливье."

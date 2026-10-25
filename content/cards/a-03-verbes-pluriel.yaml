@@ -30,3 +30,23 @@
   lesson: a-03-verbes-pluriel/01-grammaire
   q: "Как на слух отличить *il aime* от *ils aiment*?"
   a: "Связывание: *ils aiment* [il-**z**ɛm], *il aime* [i-lɛm]."
+- id: a03-note-ferme
+  lesson: a-03-verbes-pluriel/07-lecture
+  q: "«Закрой окна и поищи ключи!»"
+  a: "***Ferme** les fenêtres et **cherche** les clés !* — на «ты» у глаголов на -er без *-s*."
+- id: a03-ce-soir
+  lesson: a-03-verbes-pluriel/07-lecture
+  q: "«Сегодня вечером мои подруги остаются дома»."
+  a: "*Ce soir, **mes** amies **restent** à la maison.* — *-ent* немое."
+- id: a03-parle-parlez-oral
+  lesson: a-03-verbes-pluriel/09-ecoute
+  q: "Как на слух отличить *parle !* от *parlez !*, *il aime* от *ils aiment*?"
+  a: "*-ez* звучит [e]: [par-le]. *ils aiment* — связывание [z]: [il-zɛm]; *il aime* — [i-lɛm]."
+- id: a03-travaillez-ensemble
+  lesson: a-03-verbes-pluriel/09-ecoute
+  q: "«Работайте вместе», «Закройте дверь, пожалуйста»."
+  a: "***Travaillez** ensemble.* ***Fermez** la porte, **s'il vous plaît**.*"
+- id: a03-merci-note
+  lesson: a-03-verbes-pluriel/08-ecriture
+  q: "«Ключи на столе. Спасибо!»"
+  a: "*Les clés **sont** sur la table. Merci !* — мн. ч.: *les clés* → *sont*."

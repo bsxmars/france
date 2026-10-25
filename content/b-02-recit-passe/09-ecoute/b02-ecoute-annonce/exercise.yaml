@@ -1,0 +1,40 @@
+title: "Annonce : la prison ouvre ses portes"
+type: listening
+intro: "Объявление звучит один раз, как на экзамене. Прочитай вопросы заранее и впиши в пропуски цифры или слова из записи."
+hints:
+  - "Держи в голове даты, годы, длительность и место встречи."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/b-02/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  À l'occasion des Journées du patrimoine, l'ancienne prison de la ville ouvre exceptionnellement ses portes le samedi vingt et le dimanche vingt et un septembre.
+
+  Construite en 1850, elle avait été fermée en 1998, après avoir accueilli des prisonniers pendant près d'un siècle et demi.
+
+  Les visites guidées partent toutes les demi-heures, de neuf heures à dix-huit heures, devant l'entrée principale, en face de la gare routière. Elles durent une heure et quart.
+
+  Les groupes sont limités à vingt-cinq personnes : la réservation est donc conseillée. Si vous n'avez pas pu réserver, venez quand même : quelques places sont gardées pour les visiteurs du jour.
+
+  Attention : la visite comprend un escalier de quatre-vingts marches et n'est pas accessible en fauteuil roulant.
+items:
+  - q: "La prison est ouverte le samedi ___ et le dimanche 21 septembre."
+    answers: ["vingt", "20"]
+    explain: "*le samedi **vingt** et le dimanche vingt et un septembre.*"
+  - q: "La prison avait été fermée en ___."
+    answers: ["1998", "mille neuf cent quatre-vingt-dix-huit"]
+    explain: "*Construite en 1850, elle **avait été fermée** en **1998**, après avoir accueilli des prisonniers…* — 1850 — год постройки."
+  - q: "Где начинаются экскурсии?"
+    options: ["перед главным входом, напротив автовокзала", "у железнодорожного вокзала", "во дворе тюрьмы"]
+    answer: 0
+    explain: "*devant l'entrée principale, en face de **la gare routière*** — автовокзал, не ж/д вокзал."
+  - q: "Сколько длится экскурсия?"
+    options: ["полчаса", "час", "час пятнадцать"]
+    answer: 2
+    explain: "*Elles durent **une heure et quart**.* Полчаса — интервал между группами (*toutes les demi-heures*)."
+  - q: "Les groupes sont limités à ___ personnes."
+    answers: ["vingt-cinq", "25", "vingt cinq"]
+    explain: "*Les groupes sont limités à **vingt-cinq** personnes.*"
+  - q: "Что делать, если не удалось забронировать?"
+    options: ["Прийти в другой день.", "Всё равно прийти: несколько мест оставляют для посетителей в тот же день.", "Позвонить в мэрию."]
+    answer: 1
+    explain: "*Si vous n'avez pas pu réserver, venez quand même : quelques places sont gardées pour les visiteurs du jour.*"

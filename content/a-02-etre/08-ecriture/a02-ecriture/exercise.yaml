@@ -1,0 +1,26 @@
+title: "Message : voici ma maison"
+type: writing
+intro: "Напиши другу сообщение о том, где ты и что вокруг, по плану урока."
+prompt: |
+  Tu es chez un ami ou chez ta famille. Tu écris à ton ami(e) français(e) : où tu es, chez qui, comment est la maison ou la chambre.
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "глагол être: je suis, tu es, il / elle est, nous sommes"
+  - "притяжательные mon, ma, ton, ta, son, sa и указательные ce, cet, cette"
+  - "оборот c'est"
+checklist:
+  - "Есть обращение, вопрос другу и прощание."
+  - "В каждой фразе есть глагол: je suis, elle est, c'est…"
+  - "Форма être согласована с подлежащим: je suis, tu es, nous sommes."
+  - "Притяжательное слово выбрано по роду предмета: son chat, sa maison, mon amie."
+  - "После ce, cette — без артикля: cette chambre, а не la cette chambre."
+  - "Прилагательное согласовано: la chambre est petite, le chat est content."
+model_answer: |
+  Salut Hugo !
+
+  Je suis à Lille, chez ma sœur. Voici sa maison : elle est petite, mais belle. Voici ma chambre. Cette chambre est grande. C'est mon sac sur la chaise. Et voici le chat de ma sœur : il est content ! Et toi, tu es à Paris ?
+
+  Bisous,
+  Léa

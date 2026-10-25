@@ -1,0 +1,13 @@
+# rate: -15%
+# pause: 800
+C: Allô, Marc ? C'est Julie. Tu es où ?
+H: Salut, Julie ! Je suis à la gare. Je vais à Lausanne, chez mes parents.
+C: Ah bon ? Tu reviens demain ?
+H: Non, je reviens lundi. Pourquoi ?
+C: Samedi soir, il y a un concert dans le parc. Mes amis viennent aussi.
+H: C'est gratuit ?
+C: Oui, il n'y a pas de billets. Le concert commence à huit heures.
+H: Samedi, je ne peux pas. Je vais aider mon père dans son jardin.
+C: Dommage ! Alors, lundi soir, tu viens chez moi ? Nous allons regarder un film.
+H: D'accord, je viens à sept heures. Je vais apporter des gâteaux !
+C: Super ! À lundi !

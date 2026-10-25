@@ -1,0 +1,26 @@
+title: "Lettre : mon nouveau village"
+type: writing
+intro: "Напиши письмо другу по плану урока."
+prompt: |
+  Tu viens de t'installer dans un petit village (ou dans un nouveau quartier). Tu écris à ton ami(e) français(e) : tu décris les gens et les lieux que tu aimes, tu dis ce qui manque, ce qui a changé dans tes habitudes, et tu l'invites.
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "относительные qui (подлежащее) и que (прямое дополнение)"
+  - "отрицания: ne… personne, rien, jamais, plus, ni… ni"
+  - "глаголы группы mettre: se mettre à, promettre de, permettre de"
+checklist:
+  - "Есть обращение, приглашение и прощание."
+  - "Хотя бы два придаточных с qui и одно с que."
+  - "Хотя бы три разных отрицания: personne, rien, jamais, plus, ni… ni."
+  - "Одно ne на глагол, без pas рядом с personne / rien / jamais."
+  - "В passé composé отрицание обнимает вспомогательный глагол: je n'ai rien trouvé, mais je n'ai vu personne."
+  - "Есть глагол группы mettre: je me suis mis(e) à…, je te promets de…"
+model_answer: |
+  Salut Hugo,
+
+  Me voilà dans mon nouveau village ! J'habite une petite maison que j'ai trouvée sur Internet, à côté d'une boulangère qui fait le meilleur pain de la région. Les voisins sont des gens qui disent toujours bonjour. Mais ici, il n'y a ni cinéma ni piscine, et après sept heures du soir, on ne voit personne dans les rues. Le bus ne passe jamais le dimanche, et il n'y a rien à faire le soir. Alors je ne regarde plus la télé : je me suis mis à lire ! Tu viens me voir bientôt ? Je te promets une belle balade en forêt.
+
+  À bientôt,
+  Thomas

@@ -166,3 +166,27 @@
   lesson: c-07-adverbe-negation/05-grammaire
   q: "«Я прочитал только две главы»"
   a: "*Je n'ai lu que deux chapitres.* — *ne* перед *ai*, *que* после причастия, перед дополнением."
+- id: c07-machinalement
+  lesson: c-07-adverbe-negation/07-lecture
+  q: "«Рука машинально тянется к карману»"
+  a: "La main glisse **machinalement** vers la poche. — *machinal* → *machinale* → *machinalement*."
+- id: c07-que-trop-bien
+  lesson: c-07-adverbe-negation/07-lecture
+  q: "«Безработные слишком хорошо знают эту скуку»"
+  a: "Les chômeurs **ne connaissent que trop bien** cet ennui-là."
+- id: c07-rien-de-creatif
+  lesson: c-07-adverbe-negation/07-lecture
+  q: "«В такой скуке нет ничего творческого»"
+  a: "Cet ennui **n'a rien de** créatif. — *rien de* + прилагательное в м. р."
+- id: c07-a-juste-titre
+  lesson: c-07-adverbe-negation/08-ecriture
+  q: "«Сторонники справедливо указывают, что…»"
+  a: "Ses défenseurs font valoir, **à juste titre**, que…"
+- id: c07-ne-faire-que-compliquer
+  lesson: c-07-adverbe-negation/08-ecriture
+  q: "«Это лишь усложнило бы их жизнь»"
+  a: "Cela **ne ferait que** compliquer leur vie."
+- id: c07-passer-pour
+  lesson: c-07-adverbe-negation/09-ecoute
+  q: "«На письме пропуск ne выглядит небрежностью»"
+  a: "À l'écrit, l'omission du « ne » **passe pour une négligence**."

@@ -1,0 +1,60 @@
+title: "La semaine de quatre jours : progrès social ou fausse bonne idée ?"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросе с полем впиши форму из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Позицию автора ищи в последнем абзаце; цитаты — мнения других людей."
+text: |
+  ## La semaine de quatre jours : progrès social ou fausse bonne idée ?
+
+  *Testée par des centaines d'entreprises en Europe, la semaine de quatre jours séduit de plus en plus de salariés. Mais peut-elle convenir à tout le monde ?*
+
+  Il y a cinq ans, l'idée était encore considérée comme une utopie. Aujourd'hui, la semaine de quatre jours a été adoptée par plusieurs centaines d'entreprises européennes, et le sujet est régulièrement débattu dans les parlements. En France, quelques administrations la testent depuis 2024, et les syndicats demandent qu'elle soit étendue à d'autres secteurs.
+
+  Les premiers résultats semblent encourageants. Dans une entreprise lyonnaise de logiciels, où l'expérience a été lancée il y a deux ans, les arrêts maladie ont été divisés par deux, et les candidatures sont trois fois plus nombreuses qu'avant. « Plus les salariés se reposent, plus ils sont efficaces », résume la directrice. Les employés, eux, se disent bien plus satisfaits de l'équilibre entre leur vie professionnelle et leur vie privée.
+
+  Il est pourtant essentiel que l'on distingue deux modèles. Dans le premier, le temps de travail est réellement réduit, sans baisse de salaire. Dans le second, le plus répandu, on travaille autant qu'avant, mais en quatre journées plus longues. Or, des journées de neuf ou dix heures ne conviennent pas à tous : les parents de jeunes enfants, en particulier, ont du mal à s'organiser. Qu'il s'agisse d'une vraie réduction du temps de travail ou d'une simple réorganisation, les effets ne sont donc pas les mêmes, et la question de la fatigue doit être posée.
+
+  Par ailleurs, de nombreux métiers se prêtent mal à cette organisation. Un hôpital, une école ou un supermarché ne peuvent pas fermer un jour par semaine : il faudrait embaucher, ce qui coûte cher. Les petites entreprises craignent d'être pénalisées. « Je ne pense pas que nous puissions nous le permettre, explique le patron d'une boulangerie de six salariés. Si je ferme le lundi, mes clients iront ailleurs. » Plusieurs sociologues craignent même qu'une société à deux vitesses ne se crée : d'un côté, des cadres qui profitent d'un long week-end ; de l'autre, des employés dont les horaires ne peuvent pas être réduits.
+
+  Faut-il pour autant renoncer à cette réforme ? Je ne le crois pas. Il est évident que le travail a changé et que nos façons de l'organiser doivent évoluer elles aussi. Mais il est indispensable que chaque secteur puisse choisir son propre modèle, et que l'on ne fasse pas de la semaine de quatre jours une règle imposée à tous. Le progrès social ne se mesure pas au nombre de jours travaillés, mais à la liberté laissée à chacun d'organiser son temps. Et plus cette liberté sera partagée, plus la réforme sera juste.
+items:
+  - q: "Что изменилось за пять лет?"
+    options: ["Идею по-прежнему считают утопией.", "Четырёхдневную неделю приняли сотни европейских компаний.", "Во Франции её ввели по закону."]
+    answer: 1
+    explain: "*Il y a cinq ans, l'idée **était considérée** comme une utopie. Aujourd'hui, la semaine de quatre jours **a été adoptée par** plusieurs centaines d'entreprises* — пассив с *par*: кто принял."
+  - q: "Vrai / faux / on ne sait pas: во Франции некоторые администрации тестируют четырёхдневную неделю с 2024 года."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 0
+    explain: "*quelques administrations la testent **depuis 2024*** — верно. Закона нет: профсоюзы лишь *demandent qu'elle soit étendue*."
+  - q: "Каковы результаты в лионской компании?"
+    options: ["Больничных вдвое меньше, а кандидатов втрое больше.", "Больничных вдвое больше, а кандидатов втрое меньше.", "Зарплаты выросли втрое."]
+    answer: 0
+    explain: "*les arrêts maladie **ont été divisés par deux**, et les candidatures sont **trois fois plus nombreuses** qu'avant.*"
+  - q: "Что значит фраза директрисы «Plus les salariés se reposent, plus ils sont efficaces»?"
+    options: ["Отдых мешает эффективности.", "Чем больше сотрудники отдыхают, тем они эффективнее.", "Сотрудники отдыхают больше, чем работают."]
+    answer: 1
+    explain: "*plus… plus…* без *que* — «чем…, тем…»: пропорциональная зависимость."
+  - q: "Чем отличаются две модели четырёхдневной недели?"
+    options: ["В первой меньше часов при той же зарплате, во второй — те же часы, но за четыре дня.", "В первой меньше зарплата, во второй — больше выходных.", "Первая — для администраций, вторая — для частных компаний."]
+    answer: 0
+    explain: "*Dans le premier, le temps de travail **est réellement réduit**, sans baisse de salaire. Dans le second…, on travaille **autant qu'**avant, mais en quatre journées plus longues.*"
+  - q: "Кому, по статье, особенно трудно с длинными рабочими днями?"
+    options: ["руководителям", "родителям маленьких детей", "пекарям"]
+    answer: 1
+    explain: "*les parents de jeunes enfants, en particulier, ont du mal à s'organiser.*"
+  - q: "Vrai / faux / on ne sait pas: хозяин пекарни уже пробовал закрываться по понедельникам."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 2
+    explain: "*Si je ferme le lundi, mes clients iront ailleurs* — это гипотеза о будущем, а пробовал ли он, в тексте не сказано."
+  - q: "Чего опасаются социологи?"
+    options: ["что пекарни закроются", "что возникнет общество двух скоростей: у одних длинные выходные, у других нет", "что сотрудники будут больше болеть"]
+    answer: 1
+    explain: "*Plusieurs sociologues **craignent** même **qu'**une société à deux vitesses **ne se crée*** — *craindre que* + (ne explétif) + subjonctif."
+  - q: "Какова позиция автора?"
+    options: ["От реформы нужно отказаться: она несправедлива.", "Реформу нужно сделать обязательной для всех.", "От реформы не стоит отказываться, но каждая отрасль должна выбирать свою модель."]
+    answer: 2
+    explain: "*Faut-il pour autant renoncer à cette réforme ? Je ne le crois pas… il est indispensable que chaque secteur **puisse** choisir son propre modèle, et que l'on ne **fasse** pas… une règle imposée à tous.*"
+  - q: "Впиши форму из текста: « Je ne pense pas que nous ___ nous le permettre », explique le patron."
+    answers: ["puissions"]
+    explain: "*Je ne pense pas que* — мнение в отрицании → subjonctif: **puissions** (*pouvoir*). В утверждении было бы *Je pense que nous **pouvons***."

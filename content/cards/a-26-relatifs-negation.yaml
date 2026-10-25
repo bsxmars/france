@@ -42,3 +42,27 @@
   lesson: a-26-relatifs-negation/02-grammaire
   q: "Порядок нескольких отрицаний?"
   a: "*plus jamais, plus rien, plus personne, jamais rien, jamais personne*: *Il ne m'a **jamais rien** dit.*"
+- id: a26-se-mettre-a-observer
+  lesson: a-26-relatifs-negation/07-lecture
+  q: "«Я начала наблюдать за людьми» (говорит женщина)."
+  a: "*Je **me suis mise à** observer les gens.*"
+- id: a26-permettre-de-travailler
+  lesson: a-26-relatifs-negation/07-lecture
+  q: "«Начальник разрешил мне работать на бумаге»."
+  a: "*Mon chef **m'a permis de** travailler sur papier.*"
+- id: a26-rien-a-faire
+  lesson: a-26-relatifs-negation/08-ecriture
+  q: "«Вечером нечего делать», «на улицах никого не видно»."
+  a: "*Il **n'**y a **rien** à faire le soir. On **ne** voit **personne** dans les rues.*"
+- id: a26-ni-cles-ni
+  lesson: a-26-relatifs-negation/09-ecoute
+  q: "«Ни ключей, ни кошелька там не было»."
+  a: "*Il n'y avait **ni** mes clés **ni** mon portefeuille.*"
+- id: a26-personne-n-a
+  lesson: a-26-relatifs-negation/09-ecoute
+  q: "«Никто не приносил синий рюкзак»."
+  a: "***Personne n'a** rapporté de sac bleu.* — *personne* подлежащее, без *pas*."
+- id: a26-promettre-de
+  lesson: a-26-relatifs-negation/09-ecoute
+  q: "«Обещаю вам позвонить в четверг»."
+  a: "*Je vous **promets de** vous appeler jeudi.*"

@@ -46,3 +46,27 @@
   lesson: a-28-concordance-adverbes/02-grammaire
   q: "Проспрягай *apercevoir* в présent; participe passé?"
   a: "*j'aperçois, tu aperçois, il aperçoit, nous apercevons, vous apercevez, ils aperçoivent*; *aperçu*."
+- id: a28-poste-commencerait
+  lesson: a-28-concordance-adverbes/07-lecture
+  q: "«Она объяснила, что музей ищет гида и что работа начнётся в январе»."
+  a: "*Elle a expliqué que le musée **cherchait** un guide et que le poste **commencerait** en janvier.*"
+- id: a28-demande-si
+  lesson: a-28-concordance-adverbes/07-lecture
+  q: "«Она спросила, работал ли я уже с детьми»."
+  a: "*Elle m'a demandé **si** j'**avais** déjà **travaillé** avec des enfants.*"
+- id: a28-annonce-que
+  lesson: a-28-concordance-adverbes/08-ecriture
+  q: "«Председатель объявила, что мы будем репетировать по вторникам»."
+  a: "*La présidente a annoncé que nous **répéterions** le mardi.*"
+- id: a28-ne-pourrais-pas
+  lesson: a-28-concordance-adverbes/09-ecoute
+  q: "«Врач сказал, что мне нельзя будет бегать три недели»."
+  a: "*Le médecin a dit que je **ne pourrais pas** courir pendant trois semaines.*"
+- id: a28-rembourser
+  lesson: a-28-concordance-adverbes/09-ecoute
+  q: "*rembourser*, *la Sécurité sociale*?"
+  a: "«возмещать расходы», «соцстрах»: *La Sécurité sociale rembourse presque tout.*"
+- id: a28-tranquillement
+  lesson: a-28-concordance-adverbes/09-ecoute
+  q: "Наречия от *tranquille, parfait, courant, patient*?"
+  a: "*tranquillement, parfaitement, couramment, patiemment*."

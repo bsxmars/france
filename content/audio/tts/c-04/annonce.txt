@@ -1,0 +1,5 @@
+# pause: 600
+H: Votre attention, s'il vous plaît. En raison d'un incident technique, le train régional de dix-sept heures douze à destination de Lausanne est supprimé. Les voyageurs sont invités à prendre le train de dix-sept heures quarante-deux, voie quatre.
+H: Si vous avez une correspondance pour Genève, adressez-vous au guichet du hall principal : nos agents vous y attendent et vous remettront un nouveau billet. Votre billet actuel, gardez-le : il reste valable toute la journée.
+H: Nous vous rappelons qu'il est interdit de laisser des bagages sans surveillance. Si vous en voyez un, ne le touchez pas et signalez-le immédiatement à notre personnel.
+H: Nous vous prions de nous excuser pour ce désagrément.

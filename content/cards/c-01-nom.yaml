@@ -146,3 +146,27 @@
   lesson: c-01-nom/04-composes
   q: "Какие латинские выражения не изменяются во мн. ч.?"
   a: "*des post-scriptum, des mea-culpa, des statu quo, des a priori* (по реформе 1990 — *des aprioris*)."
+- id: c01-sans-sourciller
+  lesson: c-01-nom/07-lecture
+  q: "«Не моргнув глазом», «за неимением лучшего»."
+  a: "**sans sourciller**, **faute de mieux**."
+- id: c01-pretendu
+  lesson: c-01-nom/07-lecture
+  q: "Как одним словом выразить скепсис: «так называемый нейтральный род»?"
+  a: "*le **prétendu** neutre* (*prétendu* = мнимый, так называемый)."
+- id: c01-trancher
+  lesson: c-01-nom/07-lecture
+  q: "«В конце концов решает употребление, а не правило»."
+  a: "*C'est l'usage, et non la règle, qui finit par **trancher**.*"
+- id: c01-l-emporter
+  lesson: c-01-nom/09-ecoute
+  q: "«У молодых явно побеждает форма autrice»."
+  a: "*« Autrice » **l'emporte** nettement chez les jeunes.*"
+- id: c01-divulgacher
+  lesson: c-01-nom/09-ecoute
+  q: "Квебекская замена англицизма *spoiler*?"
+  a: "**divulgâcher** (*divulguer* + *gâcher*)."
+- id: c01-plutot-que
+  lesson: c-01-nom/08-ecriture
+  q: "Как в эссе предложить альтернативу запрету?"
+  a: "*Plutôt que d'interdire, il vaudrait mieux expliquer.* / *Il n'en reste pas moins que…* — «и всё же»."

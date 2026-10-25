@@ -1,0 +1,75 @@
+title: "Le temps des médias : vérifier les faits"
+type: listening
+intro: "Послушай радиоинтервью (дважды) и ответь на вопросы."
+hints:
+  - "La veille — накануне, le lendemain — на следующий день."
+  - "После «ce qui…, ce n'est pas X, c'est Y» ответ — Y."
+audio: audio/tts/c-15/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural, fr-FR-RemyMultilingualNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bienvenue dans « Le temps des médias ». Mon invitée, Julie Bouchard, est journaliste à Montréal, où elle dirige une cellule de vérification des faits. Julie Bouchard, en quoi consiste votre travail, exactement ?
+
+  **Julie Bouchard :** Nous vérifions ce que disent les personnalités publiques, mais aussi ce qui circule sur les réseaux sociaux. Concrètement, ce sont souvent nos lecteurs qui nous écrivent. Ils nous envoient une image, une vidéo, une déclaration, et ils nous demandent si c'est vrai. Notre rôle, c'est de remonter à la source.
+
+  **Journaliste :** Vous pouvez nous donner un exemple récent ?
+
+  **Julie Bouchard :** Le mois dernier, une vidéo a fait le tour du Web. On y voyait un pont s'effondrer, et le texte affirmait que l'accident s'était produit la veille, au Québec. Des centaines de personnes nous ont demandé ce qui s'était passé et si le pont se trouvait près de chez eux. En cherchant un peu, nous avons découvert que la vidéo avait été tournée huit ans plus tôt, en Asie.
+
+  **Journaliste :** Comment l'avez-vous découvert ?
+
+  **Julie Bouchard :** En regardant les images de près, tout simplement. Ce qui nous a mis sur la piste, c'est un panneau en arrière-plan, écrit dans une autre langue. Ensuite, nous avons retrouvé la première publication de la vidéo. Ce travail-là, c'est un travail de patience, pas de génie.
+
+  **Journaliste :** Et avec les responsables politiques, comment ça se passe ?
+
+  **Julie Bouchard :** C'est plus délicat. Il y a deux ans, un ministre avait déclaré à la radio que le chômage avait baissé de moitié depuis son arrivée. Nous lui avons demandé d'où venaient ses chiffres. Son équipe nous a d'abord répondu qu'elle nous les enverrait le lendemain. Le lendemain, on nous a expliqué que le ministre avait voulu parler des jeunes seulement. Et finalement, il a reconnu qu'il s'était trompé.
+
+  **Journaliste :** Il l'a reconnu publiquement ?
+
+  **Julie Bouchard :** Oui, et c'est ce que je retiens de cette histoire. Les gens pensent souvent que notre but est de piéger les politiciens. Ce n'est pas ça du tout. Ce que nous voulons, c'est que les citoyens sachent sur quoi reposent les débats.
+
+  **Journaliste :** On vous accuse parfois de partialité.
+
+  **Julie Bouchard :** Évidemment. Chaque semaine, quelqu'un nous écrit pour nous demander pourquoi nous vérifions tel parti plutôt que tel autre. Je réponds toujours la même chose : nous vérifions des affirmations, pas des personnes. Et nous publions notre méthode, pour que chacun puisse refaire le chemin.
+
+  **Journaliste :** Qu'est-ce qui a le plus changé depuis vos débuts ?
+
+  **Julie Bouchard :** La vitesse. Quand j'ai commencé, il y a douze ans, une fausse nouvelle mettait des jours à se répandre. Aujourd'hui, c'est une question de minutes. Et ce qui m'inquiète le plus, ce ne sont pas les grandes manipulations, ce sont les petites erreurs que tout le monde partage sans réfléchir.
+
+  **Journaliste :** Un conseil, pour terminer ?
+
+  **Julie Bouchard :** Avant de partager quelque chose, demandez-vous qui l'a publié, quand, et pourquoi. Trois questions, trente secondes. Ça ne vous rendra pas infaillibles, mais ça ralentira beaucoup la rumeur.
+
+  **Journaliste :** Julie Bouchard, merci.
+items:
+  - q: "Откуда обычно приходят сюжеты для проверки?"
+    options: ["От читателей, которые спрашивают, правда ли это.", "Из пресс-релизов правительства.", "Из других газет."]
+    answer: 0
+    explain: "*ce sont souvent nos lecteurs qui nous écrivent… et ils nous demandent si c'est vrai.*"
+  - q: "Что утверждал текст к видео с обрушившимся мостом?"
+    options: ["Что мост обрушился накануне в Квебеке.", "Что мост обрушился восемь лет назад в Азии.", "Что мост вот-вот обрушится."]
+    answer: 0
+    explain: "*le texte affirmait que l'accident **s'était produit la veille**, au Québec* — косвенная речь: plus-que-parfait + *la veille*. Азия и восемь лет — то, что выяснили журналисты."
+  - q: "Что помогло журналистам разоблачить видео?"
+    options: ["Звонок свидетеля.", "Табличка на заднем плане на другом языке.", "Дата в описании видео."]
+    answer: 1
+    explain: "*Ce qui nous a mis sur la piste, c'est un panneau en arrière-plan, écrit dans une autre langue.*"
+  - q: "Как Жюли описывает свою работу?"
+    options: ["как работу, требующую терпения, а не гениальности", "как работу, требующую технических знаний", "как опасную работу"]
+    answer: 0
+    explain: "*Ce travail-là, c'est un travail de patience, pas de génie* — вынесение с повтором *ce travail-là, c'est…*."
+  - q: "Как менялась версия команды министра?"
+    options: ["Сначала обещали прислать цифры на следующий день, потом сказали, что речь шла только о молодёжи, а затем министр признал ошибку.", "Министр сразу признал ошибку.", "Команда отказалась отвечать."]
+    answer: 0
+    explain: "*Son équipe nous a d'abord répondu qu'elle nous les enverrait le lendemain. Le lendemain, on nous a expliqué que le ministre avait voulu parler des jeunes seulement. Et finalement, il a reconnu qu'il s'était trompé.*"
+  - q: "В чём, по словам Жюли, цель её работы?"
+    options: ["Ловить политиков на ошибках.", "Чтобы граждане знали, на чём основаны дебаты.", "Поддерживать одну из партий."]
+    answer: 1
+    explain: "*Les gens pensent souvent que notre but est de piéger les politiciens. Ce n'est pas ça du tout. Ce que nous voulons, c'est que les citoyens sachent sur quoi reposent les débats.*"
+  - q: "Как она отвечает на обвинения в пристрастности?"
+    options: ["Проверяют утверждения, а не людей, и публикуют метод.", "Проверяют все партии по очереди.", "Не отвечает на такие письма."]
+    answer: 0
+    explain: "*nous vérifions des affirmations, pas des personnes. Et nous publions notre méthode, pour que chacun puisse refaire le chemin.*"
+  - q: "Что её больше всего тревожит сегодня?"
+    options: ["крупные манипуляции", "мелкие ошибки, которыми все делятся не думая", "медленная работа журналистов"]
+    answer: 1
+    explain: "*ce qui m'inquiète le plus, ce ne sont pas les grandes manipulations, ce sont les petites erreurs que tout le monde partage sans réfléchir.*"

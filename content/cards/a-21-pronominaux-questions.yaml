@@ -38,3 +38,23 @@
   lesson: a-21-pronominaux-questions/02-grammaire
   q: "*partir, sortir, dormir, sentir, s'endormir* — с каким вспомогательным в passé composé?"
   a: "*partir, sortir, s'endormir* — с *être* (*elle est partie*); *dormir, sentir, servir, mentir* — с *avoir* (*j'ai dormi*)."
+- id: a21-se-marier
+  lesson: a-21-pronominaux-questions/07-lecture
+  q: "«Клара вышла замуж за Юго; они познакомились пять лет назад»."
+  a: "Clara **s'est mariée** avec Hugo ; ils **se sont rencontrés** il y a cinq ans."
+- id: a21-meme-deux-sens
+  lesson: a-21-pronominaux-questions/07-lecture
+  q: "«За тем же столом» и «даже дедушка плакал»."
+  a: "à **la même** table — **même** mon grand-père a pleuré."
+- id: a21-tromper
+  lesson: a-21-pronominaux-questions/09-ecoute
+  q: "«Он перепутал кинотеатр», «мы ошиблись дорогой»."
+  a: "Il **s'est trompé** de cinéma. Nous **nous sommes trompés** de route. — *se tromper de* + сущ. без артикля."
+- id: a21-s-est-c-est
+  lesson: a-21-pronominaux-questions/09-ecoute
+  q: "Как на слух отличить *s'est* от *c'est*?"
+  a: "Если перед [сэ] подлежащее, а после — причастие: ***s'est*** (*il s'est trompé*). *C'est* стоит в начале: *c'est drôle*."
+- id: a21-avec-qui
+  lesson: a-21-pronominaux-questions/08-ecriture
+  q: "«С кем вы ездили в отпуск?» — «О чём вы говорили?»"
+  a: "**Avec qui est-ce que** vous êtes partis en vacances ? — **De quoi est-ce que** vous avez parlé ?"

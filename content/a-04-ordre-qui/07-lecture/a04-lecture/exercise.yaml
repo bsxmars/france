@@ -1,0 +1,43 @@
+title: "Ma famille à Marseille"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросе с полем впиши одно слово из текста."
+hints:
+  - "Кто действует — тот, кто стоит перед глаголом."
+  - "Вопросы идут по порядку текста."
+text: |
+  **Bonjour Anna !**
+
+  Je suis à Marseille avec ma famille. Mon père travaille à la mairie. Ma mère écrit des livres : elle écrit le soir, dans la cuisine.
+
+  Mes frères Paul et Hugo habitent Lille. Ce soir, ils quittent Marseille et prennent le train. Ma sœur Lou lit beaucoup. Elle prend mes livres et mes cahiers !
+
+  Qui fait la cuisine ? Papa ! Il fait la salade, et les enfants font le café.
+
+  Et toi ? Qui habite avec toi à Moscou ?
+
+  **Bisous,**
+  **Léa**
+items:
+  - q: "Где работает отец Леи?"
+    options: ["в мэрии", "в школе", "в Лилле"]
+    answer: 0
+    explain: "*Mon père travaille à la mairie.*"
+  - q: "Что делает мама?"
+    options: ["читает книги на кухне", "пишет книги", "работает в мэрии"]
+    answer: 1
+    explain: "*Ma mère écrit des livres : elle écrit le soir, dans la cuisine.* Читает много сестра Лу: *Ma sœur Lou lit beaucoup.*"
+  - q: "Где живут братья Леи?"
+    options: ["в Марселе", "в Лилле", "в Москве"]
+    answer: 1
+    explain: "*Mes frères Paul et Hugo habitent Lille.* — город без артикля и без предлога. Из Марселя они сегодня уезжают: *ils quittent Marseille*."
+  - q: "Кто берёт книги и тетради Леи?"
+    options: ["братья", "мама", "сестра Лу"]
+    answer: 2
+    explain: "*Elle prend mes livres et mes cahiers !* — *elle* = Лу. Берёт она, а книги — Леи (*mes*)."
+  - q: "Кто готовит еду?"
+    options: ["папа", "мама", "дети"]
+    answer: 0
+    explain: "*Qui fait la cuisine ? Papa !* Дети только варят кофе: *les enfants font le café*."
+  - q: "Впиши слово из текста: «Кто живёт с тобой в Москве?» — ___ habite avec toi à Moscou ?"
+    answers: ["qui"]
+    explain: "**qui** — «кто?»: вопрос к подлежащему, глагол после него в 3-м лице ед. ч. — *habite*."

@@ -1,0 +1,16 @@
+# pause: 700
+C: Bonjour. Nous sommes ce samedi dans un Repair Café, à Lyon : une salle municipale transformée en atelier, où des bénévoles aident les habitants à réparer leurs objets cassés. Je suis avec Mathieu Tremblay, qui a fondé cet atelier il y a cinq ans. Mathieu, vous êtes québécois ?
+F: Oui ! Arrivé à Lyon il y a dix ans pour mes études, je ne suis jamais reparti. Au Québec, j'avais pris l'habitude de tout réparer moi-même, en regardant faire mon grand-père. En arrivant ici, j'ai été surpris de voir combien d'objets on jetait simplement parce qu'une petite pièce était usée.
+C: Comment fonctionne l'atelier ?
+F: C'est très simple. Les gens viennent avec un objet en panne : un grille-pain, une lampe, un vélo, une machine à coudre. Un bénévole s'assoit avec eux, et ils cherchent la panne ensemble. Le principe, c'est qu'on ne répare pas à la place des gens : on les fait participer. Le grille-pain une fois démonté, c'est souvent le propriétaire lui-même qui trouve le fil coupé.
+C: Pourquoi ne pas le réparer pour eux ? Ce serait plus rapide.
+F: Plus rapide, oui, mais moins utile. Quelqu'un qui a vu son appareil s'ouvrir sous ses yeux n'a plus peur d'y toucher. La fois suivante, il essaiera tout seul. L'an dernier, une dame de soixante-dix ans est venue avec sa machine à coudre, persuadée qu'elle était bonne pour la poubelle. Elle est repartie en sachant changer la courroie. Aujourd'hui, c'est elle qui aide les autres à réparer leurs machines !
+C: Est-ce que tout se répare ?
+F: Malheureusement non. Environ six objets sur dix repartent en état de marche. Pour les autres, c'est souvent la conception qui pose problème : des boîtiers collés au lieu d'être vissés, des pièces introuvables… Certains fabricants font tout pour qu'on ne puisse pas ouvrir leurs produits. On a l'impression qu'ils nous laissent acheter un objet sans vraiment nous le laisser posséder.
+C: Les choses évoluent un peu, pourtant.
+F: Un peu, oui. Depuis l'introduction de l'indice de réparabilité, affiché dans les magasins, les clients peuvent comparer avant d'acheter. C'est encourageant. Mais je crois que la loi seule ne suffira pas. Ce qu'il faut changer, ce sont nos habitudes : nous nous sommes habitués à tout faire remplacer au moindre problème.
+C: Qui sont vos bénévoles ?
+F: Des profils très différents ! Des électriciens à la retraite, des étudiants en ingénierie, une couturière, un horloger… Certains sont d'abord venus en tant que visiteurs, avant de rester comme bénévoles. Et le lien social compte autant que la réparation. Les gens attendent leur tour en buvant un café, ils discutent, ils échangent des conseils. J'ai vu des voisins faire connaissance ici, alors qu'ils habitaient le même immeuble depuis des années sans s'être jamais parlé.
+C: Un conseil pour nos auditeurs ?
+F: Avant de jeter un objet, posez-vous une question : est-il vraiment mort, ou a-t-il simplement besoin d'un peu d'attention ? Et si vous ne savez pas, venez nous voir. On ne vous promet pas de miracle, mais vous repartirez en ayant appris quelque chose.
+C: Mathieu Tremblay, merci.

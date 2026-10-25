@@ -1,0 +1,50 @@
+title: "Lettre au maire : un projet pour le quartier"
+type: writing
+intro: "Напиши официальное письмо по плану урока."
+prompt: |
+  Votre commune lance un budget participatif : les habitants peuvent proposer un projet pour leur quartier. Vous écrivez au maire pour présenter votre projet (atelier de réparation, jardin partagé, boîte à livres, aire de jeux…).
+
+  Vous expliquez à qui il serait utile, vous indiquez à quelles conditions il pourrait fonctionner et vous répondez à une objection possible (coût, entretien, bruit…). Vous respectez la forme d'une lettre formelle.
+
+  Напиши **200–280 слов**.
+words: [200, 280]
+target_grammar:
+  - "условие: si + indicatif, à condition que / pourvu que / à moins que + subjonctif, au cas où + conditionnel, en cas de"
+  - "conditionnel présent: вежливая просьба и предложение (pourriez-vous, il serait souhaitable)"
+  - "conditionnel passé: мягкий упрёк или сожаление (il aurait fallu, on aurait pu)"
+  - "неопределённые: chaque, chacun, aucun, certains, plusieurs, la plupart"
+checklist:
+  - "Есть шапка, Objet, обращение Madame la Maire / Monsieur le Maire и полная формула вежливости."
+  - "Во вступлении ясно, кто пишет и зачем."
+  - "Проект описан конкретно: место, кому поможет, пример или цифра."
+  - "Хотя бы два условия разными способами (à condition que / pourvu que / au cas où / en cas de / si)."
+  - "Хотя бы две вежливые формы в conditionnel и одна форма conditionnel passé."
+  - "Хотя бы три неопределённых слова, из них одно — chaque или aucun."
+  - "Ответ на возражение и вежливый, но не разговорный регистр."
+model_answer: |
+  Paul Lemaire
+  12, rue des Tilleuls
+  44000 Nantes
+
+  Madame la Maire
+  Hôtel de Ville, 44000 Nantes
+
+  Nantes, le 3 mars 2026
+
+  Objet : proposition pour le budget participatif
+
+  Madame la Maire,
+
+  Habitant du quartier Saint-Félix depuis quinze ans, je me permets de vous écrire au sujet du budget participatif que vous venez de lancer.
+
+  Je propose de créer un atelier de réparation dans l'ancienne salle des fêtes, rue Barbin, qui reste fermée la plupart du temps. Chaque samedi, des bénévoles y aideraient les habitants à réparer leurs vélos, leurs lampes ou leurs vêtements. Plusieurs voisins, dont deux anciens électriciens, sont déjà prêts à participer.
+
+  Cet atelier serait utile à tous : aux familles, qui feraient des économies, mais aussi aux personnes âgées, dont certaines vivent seules. Aucun lieu du quartier ne leur permet aujourd'hui de se retrouver.
+
+  On pourrait objecter que le projet coûterait cher. Il ne demanderait pourtant qu'un peu de matériel, à condition que la ville nous prête la salle. En cas de problème de bruit, nous fermerions avant dix-huit heures, et au cas où l'assurance poserait une difficulté, notre association pourrait la prendre en charge. Il aurait d'ailleurs fallu, à mon avis, rouvrir cette salle bien plus tôt.
+
+  Pourriez-vous transmettre ce projet aux services concernés ? Je vous serais reconnaissant de bien vouloir me recevoir pour vous le présenter en détail.
+
+  Dans l'attente de votre réponse, je vous prie d'agréer, Madame la Maire, l'expression de mes salutations distinguées.
+
+  Paul Lemaire

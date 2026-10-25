@@ -1,0 +1,72 @@
+title: "Au vide-grenier"
+type: listening
+intro: "Послушай разговор на барахолке (дважды) и ответь на вопросы."
+hints:
+  - "Записывай числа цифрами прямо во время прослушивания."
+  - "Цена может меняться: обычная, предложенная, окончательная."
+audio: audio/tts/a-17/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural, fr-FR-DeniseNeural, fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  **Le client :** Bonjour madame ! Excusez-moi, qu'est-ce qui coûte quatre-vingts euros ici ? Je vois le prix, mais je ne vois pas l'objet.
+
+  **La vendeuse :** Bonjour monsieur ! C'est la lampe, là, à côté des livres. Elle est très vieille, mais elle marche bien.
+
+  **Le client :** Quatre-vingts euros, c'est cher pour une lampe !
+
+  **La vendeuse :** Vous trouvez ? Dans un magasin, elle coûte trois cents euros.
+
+  **Le client :** Peut-être… Et les disques, là ? Qui vend les disques ?
+
+  **La vendeuse :** C'est mon mari. Il est au café, en face. Il revient dans dix minutes. Vous attendez ?
+
+  **Le client :** Oui, j'attends. Je cherche des disques de jazz pour mon père. Il a soixante-dix-huit ans et il adore Ella Fitzgerald.
+
+  **La vendeuse :** Alors, vous avez de la chance : mon mari en a quatre cent cinquante ! Il vend les disques de jazz six euros.
+
+  **Le client :** Six euros, c'est parfait. Et qu'est-ce qui fait ce bruit ? J'entends de la musique.
+
+  **La vendeuse :** C'est la vieille radio de ma grand-mère. Elle marche encore ! Je la vends quatre-vingt-quinze euros.
+
+  **Le client :** Elle est belle, mais je n'ai pas de place dans ma voiture.
+
+  **La vendeuse :** Ah, voilà mon mari ! Paul, le monsieur attend pour les disques de jazz.
+
+  **Paul :** Bonjour ! Les disques de jazz sont dans la grande boîte rouge. Vous en cherchez combien ?
+
+  **Le client :** Quatre, s'il vous plaît. Vous descendez le prix ? Vingt euros pour les quatre ?
+
+  **Paul :** Vingt euros… Bon, d'accord. C'est pour votre père !
+
+  **Le client :** Merci beaucoup ! Et la lampe, madame… soixante-dix euros ?
+
+  **La vendeuse :** Soixante-quinze. C'est mon dernier prix.
+
+  **Le client :** D'accord, soixante-quinze ! Oh, mon téléphone… C'est mon père. Il attend ma réponse. Je réponds tout de suite : quatre disques de jazz et une lampe !
+items:
+  - q: "Сколько стоит лампа в магазине, по словам продавщицы?"
+    options: ["80 евро", "300 евро", "450 евро"]
+    answer: 1
+    explain: "*Dans un magasin, elle coûte **trois cents** euros.* 80 — цена лампы на барахолке, 450 — число пластинок."
+  - q: "Почему покупатель ждёт?"
+    options: ["Продавщица ищет сдачу.", "Пластинки продаёт муж продавщицы, он в кафе.", "Пластинки ещё в машине."]
+    answer: 1
+    explain: "*Qui vend les disques ? — C'est mon mari. Il est au café, en face. Il revient dans dix minutes.*"
+  - q: "Сколько лет отцу покупателя?"
+    options: ["68", "78", "98"]
+    answer: 1
+    explain: "*Il a **soixante-dix-huit** ans* — 60 + 18 = 78."
+  - q: "Что шумит?"
+    options: ["радио бабушки", "телефон покупателя", "лампа"]
+    answer: 0
+    explain: "*Qu'est-ce qui fait ce bruit ? … C'est la vieille radio de ma grand-mère.* Телефон звонит позже, в конце."
+  - q: "Почему покупатель не берёт радио?"
+    options: ["Оно слишком дорогое.", "Оно не работает.", "В машине нет места."]
+    answer: 2
+    explain: "*Elle est belle, mais je n'ai pas de place dans ma voiture.* Радио работает: *elle marche encore*."
+  - q: "Сколько евро покупатель платит за четыре пластинки? ___"
+    answers: ["vingt", "20"]
+    explain: "Обычно 6 евро за штуку (24), но Поль сбавляет цену: *Vingt euros… Bon, d'accord.*"
+  - q: "За сколько он покупает лампу?"
+    options: ["70 евро", "75 евро", "80 евро"]
+    answer: 1
+    explain: "Он предлагает 70, продавщица отвечает: *Soixante-quinze. C'est mon dernier prix.* — *D'accord, soixante-quinze !*"

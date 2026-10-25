@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "В косвенном вопросе — прямой порядок слов или инверсия существительного, без est-ce que."
+  - "C'est… qui: глагол согласуется с выделенным словом."
+items:
+  - audio: audio/tts/c-15/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Elle m'a demandé si j'avais bien reçu son message."]
+    explain: "«Она спросила меня, получила ли я её сообщение». Косвенный вопрос с **si**; *as reçu* → plus-que-parfait *avais reçu* после прошедшего."
+  - audio: audio/tts/c-15/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Il nous a dit qu'il partirait le lendemain matin."]
+    explain: "«Он сказал нам, что уедет на следующее утро». *Je partirai demain matin* → *qu'il **partirait le lendemain** matin*."
+  - audio: audio/tts/c-15/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Je ne sais pas ce qui l'intéresse vraiment."]
+    explain: "«Я не знаю, что его (её) на самом деле интересует». *Qu'est-ce qui* → **ce qui** (подлежащее)."
+  - audio: audio/tts/c-15/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Dis-moi à quelle heure commence le concert.", "Dis-moi à quelle heure le concert commence."]
+    explain: "«Скажи мне, во сколько начинается концерт». В косвенном вопросе возможна инверсия существительного: *à quelle heure **commence le concert***."
+  - audio: audio/tts/c-15/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["C'est à toi que je pense depuis ce matin."]
+    explain: "«Это о тебе я думаю с самого утра». Выделение дополнения с предлогом: **c'est à toi que** (*penser à qqn*)."
+  - audio: audio/tts/c-15/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Ce que je ne comprends pas, c'est pourquoi il a menti."]
+    explain: "«Чего я не понимаю — так это почему он соврал». **Ce que… c'est** + косвенный вопрос."
+  - audio: audio/tts/c-15/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Mon frère, lui, il ne boit jamais de café.", "Mon frère, lui, ne boit jamais de café."]
+    explain: "«А мой брат — он никогда не пьёт кофе». Вынесение с повтором: *mon frère, lui, il…* — разговорное противопоставление."
+  - audio: audio/tts/c-15/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Ce sont mes parents qui m'ont appris à nager.", "C'est mes parents qui m'ont appris à nager."]
+    explain: "«Это родители научили меня плавать». **Ce sont… qui**; глагол согласуется с *mes parents* — *ont appris*."

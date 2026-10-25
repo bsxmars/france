@@ -1,0 +1,46 @@
+title: "Au musée de l'école d'autrefois"
+type: listening
+intro: "Экскурсия в музее старой школы в Бельгии. Послушай и ответь на вопросы."
+hints:
+  - "Каждый предмет экскурсии — новый вопрос: столы, печка, фотография."
+  - "car, comme — причина."
+audio: audio/tts/a-22/musee.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  Bonjour à tous et bienvenue au musée de l'école d'autrefois. Nous sommes ici dans une vraie salle de classe d'il y a presque cent ans.
+
+  À cette époque, les enfants venaient à l'école à pied, souvent de très loin. Ils arrivaient à huit heures et demie et ils restaient jusqu'à seize heures.
+
+  Regardez les tables : elles sont en bois, et il y a un petit trou pour l'encre. Les élèves écrivaient avec une plume, car le stylo à bille n'existait pas encore.
+
+  Comme la classe était froide l'hiver, chaque élève apportait un morceau de bois pour le poêle, là, au milieu de la salle.
+
+  Le maître était très strict. Les enfants ne pouvaient pas parler sans lever la main. Ils voulaient souvent jouer dehors, mais la récréation durait seulement quinze minutes.
+
+  Et cette photo ? Le maître l'a prise un jour de printemps, devant l'école. Il y avait vingt-huit élèves dans une seule classe !
+
+  Maintenant, asseyez-vous, prenez une plume, et essayez d'écrire votre nom à l'ancienne. Attention à l'encre !
+items:
+  - q: "Как дети приходили в школу?"
+    options: ["пешком, часто издалека", "на санях", "их привозили родители"]
+    answer: 0
+    explain: "*les enfants **venaient** à l'école à pied, souvent de très loin.*"
+  - q: "До которого часа они оставались в школе?"
+    options: ["до 12:00", "до 16:00", "до 18:00"]
+    answer: 1
+    explain: "*Ils arrivaient à huit heures et demie et ils **restaient** jusqu'à seize heures.*"
+  - q: "Почему ученики писали пером?"
+    options: ["Так требовал учитель.", "Шариковой ручки ещё не было.", "Перо было дешевле."]
+    answer: 1
+    explain: "*Les élèves écrivaient avec une plume, **car** le stylo à bille n'existait pas encore.*"
+  - q: "Что каждый ученик приносил зимой?"
+    options: ["кусок дерева для печки", "чернила", "обед"]
+    answer: 0
+    explain: "***Comme** la classe était froide l'hiver, chaque élève **apportait** un morceau de bois pour le poêle.*"
+  - q: "Сколько длилась перемена? ___ minutes"
+    answers: ["quinze", "15"]
+    explain: "*la récréation **durait** seulement quinze minutes.*"
+  - q: "Кто сделал фотографию у школы?"
+    options: ["экскурсовод", "учитель", "один из учеников"]
+    answer: 1
+    explain: "*Et cette photo ? Le maître **l'a prise**…* — *l'* = *la photo*, поэтому *prise*."

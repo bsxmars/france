@@ -1,0 +1,35 @@
+title: "Essai : hériter, faut-il tout garder ?"
+type: writing
+intro: "Напиши essai argumenté по плану урока."
+prompt: |
+  Dans sa rubrique « Vies de famille », un magazine publie des textes de lecteurs sur la question suivante : « Après la disparition de nos parents, faut-il tout garder au nom de la mémoire, ou savoir se séparer des objets qu'ils nous laissent ? »
+
+  Rédigez un essai argumenté dans lequel vous exposez votre point de vue de façon nuancée, en vous appuyant sur des exemples précis.
+
+  Напиши **220–300 слов**.
+words: [220, 300]
+target_grammar:
+  - "относительные dont, auquel / à laquelle, prép. + qui, ce dont, ce à quoi"
+  - "указательные celui / ceux qui, celle que, celui-ci"
+  - "притяжательные le nôtre, les leurs, les miens"
+  - "вопросительные в косвенном вопросе: à qui, ce que, quoi"
+checklist:
+  - "Во вступлении — ситуация, дилемма и тезис."
+  - "Есть уступка с конкретным примером."
+  - "Проблема переформулирована (la véritable question n'est pas…, mais…)."
+  - "Хотя бы два разных относительных с предлогом или dont, с прямым порядком слов после dont."
+  - "Хотя бы одно ce dont или ce à quoi."
+  - "Указательные и притяжательные местоимения вместо повторов (celui qui, la nôtre)."
+  - "Вывод — короткая обобщающая формула."
+model_answer: |
+  Ce que l'on garde de ceux qu'on aime
+
+  Lorsqu'un parent disparaît, ses enfants se retrouvent face à une maison pleine d'objets : des meubles, des lettres, des photos, des outils dont plus personne ne se sert. Faut-il tout conserver, au nom de la mémoire, ou savoir se séparer de ce qui encombre ? À mon sens, garder n'a de sens que si l'on choisit.
+
+  Il est vrai que les objets portent une mémoire à laquelle aucun récit ne peut se substituer. La tasse dans laquelle ma grand-mère buvait son café chaque matin dit d'elle plus de choses qu'un long discours. Ceux qui ont tout jeté trop vite le regrettent souvent des années plus tard, quand ils cherchent en vain un visage ou une écriture.
+
+  Cependant, tout garder revient à ne rien garder vraiment. Les cartons qui s'entassent au grenier ne transmettent rien : on ne sait plus à qui appartenaient ces vêtements, ni ce que représentaient ces cartes postales. Par ailleurs, la maison de nos parents n'est pas la nôtre ; nous avons nos propres vies, et nos enfants auront les leurs.
+
+  C'est pourquoi la véritable question n'est pas « quoi garder ? », mais « pour quoi faire ? ». Un objet dont on connaît l'histoire, celle qu'on pourra raconter à ses petits-enfants, mérite une place. Ceux qui n'évoquent plus rien peuvent être donnés à des proches ou à des associations, chez qui ils retrouveront une utilité.
+
+  En définitive, hériter, ce n'est pas devenir le gardien d'un musée familial. C'est choisir ce à quoi l'on tient, et accepter de laisser partir le reste. La mémoire de ceux qu'on a perdus ne se mesure pas au nombre de cartons qu'on leur consacre.

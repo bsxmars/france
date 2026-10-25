@@ -1,0 +1,40 @@
+title: "Un chien dans l'autobus"
+type: listening
+intro: "Новость квебекского радио. Прочитай вопросы заранее, послушай и ответь."
+hints:
+  - "avait disparu — plus-que-parfait: собака пропала ещё до утра."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/a-28/chien.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+transcript: |
+  Et maintenant, une histoire étonnante qui s'est passée à Sherbrooke.
+
+  Mardi soir, Biscuit, un petit chien blanc, avait disparu du jardin de ses maîtres, la famille Tremblay. Toute la nuit, ils l'avaient cherché dans le quartier. Ils pensaient qu'ils ne le reverraient jamais.
+
+  Mercredi matin, une voisine a aperçu le chien… dans l'autobus numéro trois ! Le chauffeur a expliqué que Biscuit était monté tout seul près du parc, et qu'il paraissait parfaitement calme. Il s'était assis tranquillement près de la fenêtre, comme un vrai passager.
+
+  Le chauffeur a appelé la police, qui a rapidement retrouvé la famille. Madame Tremblay a déclaré qu'elle ne laisserait plus jamais la porte du jardin ouverte.
+items:
+  - q: "Когда пропала собака?"
+    options: ["во вторник вечером", "в среду утром", "в понедельник ночью"]
+    answer: 0
+    explain: "*Mardi soir, Biscuit… **avait disparu** du jardin* (*disparaître → disparu*)."
+  - q: "Что думали хозяева?"
+    options: ["что собаку украли", "что больше никогда её не увидят", "что она вернётся утром"]
+    answer: 1
+    explain: "*Ils pensaient qu'ils ne le **reverraient** jamais* — futur dans le passé от *revoir*."
+  - q: "Кто заметил собаку?"
+    options: ["полицейский", "соседка", "водитель автобуса"]
+    answer: 1
+    explain: "*une voisine **a aperçu** le chien* (*apercevoir → aperçu*)."
+  - q: "Biscuit était dans l'autobus numéro ___."
+    answers: ["trois", "3"]
+    explain: "*dans l'autobus numéro trois !*"
+  - q: "Как вела себя собака в автобусе?"
+    options: ["лаяла и бегала по салону", "спокойно сидела у окна", "пряталась под сиденьем"]
+    answer: 1
+    explain: "*il paraissait **parfaitement** calme. Il s'était assis **tranquillement** près de la fenêtre.*"
+  - q: "Что пообещала мадам Трамбле?"
+    options: ["больше никогда не оставлять калитку сада открытой", "подарить водителю подарок", "больше не выпускать собаку в сад"]
+    answer: 0
+    explain: "*elle **ne laisserait plus jamais** la porte du jardin ouverte* — пересказ обещания «Je ne laisserai plus jamais…»."

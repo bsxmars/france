@@ -1,0 +1,75 @@
+title: "Un week-end à la montagne"
+type: listening
+intro: "Послушай телефонный разговор (дважды) и ответь на вопросы."
+hints:
+  - "Условие — после si, следствие — в futur."
+  - "Tu n'as pas oublié… ? — Si ! = «как же, помню»."
+audio: audio/tts/a-23/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  **Sophie :** Marc, c'est Sophie. Alors, ce week-end dans les Alpes, c'est toujours d'accord ?
+
+  **Marc :** Bien sûr ! Nous partirons samedi à sept heures. Je viendrai te chercher en voiture.
+
+  **Sophie :** Sept heures ? C'est tôt ! Tu ne veux pas partir à neuf heures ?
+
+  **Marc :** Non, ce sera trop tard. La route est longue, et samedi après-midi, il y aura beaucoup de monde au col.
+
+  **Sophie :** D'accord. Et qu'est-ce qu'on fera là-bas ?
+
+  **Marc :** Samedi, nous monterons jusqu'au lac Bleu. C'est une belle marche : quatre heures. Le soir, nous dormirons au refuge. Tout est réservé.
+
+  **Sophie :** Et s'il pleut ?
+
+  **Marc :** S'il pleut, nous visiterons le musée de la montagne à Chamonix, et nous mangerons une fondue. Mais la météo dit qu'il fera beau.
+
+  **Sophie :** Super. Et dimanche ?
+
+  **Marc :** Dimanche, si tu n'es pas trop fatiguée, nous irons jusqu'au glacier. Tu verras, c'est magnifique.
+
+  **Sophie :** Je ne serai pas fatiguée ! Qu'est-ce que je dois prendre ?
+
+  **Marc :** De bonnes chaussures, un pull chaud et un imperméable. Mon frère m'a dit de prendre aussi de la crème solaire : en montagne, le soleil est très fort.
+
+  **Sophie :** Et à manger ?
+
+  **Marc :** Tu ne prends pas de sandwichs : je ferai tout ! Des sandwichs, des fruits, du chocolat.
+
+  **Sophie :** Tu n'as pas oublié Julien ? Il viendra avec nous ?
+
+  **Marc :** Si, si, je ne l'ai pas oublié ! Mais il ne pourra pas venir samedi, il travaille. Il nous retrouvera au refuge le soir.
+
+  **Sophie :** Parfait. Ah, encore une question : on pourra faire un feu près du lac ?
+
+  **Marc :** Non, c'est interdit. Le gardien du refuge dit à tout le monde de ne pas faire de feu dans le parc.
+
+  **Sophie :** D'accord. Alors à samedi, sept heures !
+items:
+  - q: "Во сколько они выезжают в субботу?"
+    options: ["в 7:00", "в 9:00", "после обеда"]
+    answer: 0
+    explain: "*Nous **partirons** samedi à sept heures.* Софи предлагает девять, но Марк отказывается: *ce **sera** trop tard*."
+  - q: "Сколько часов займёт путь до Голубого озера?"
+    options: ["два", "четыре", "семь"]
+    answer: 1
+    explain: "*nous **monterons** jusqu'au lac Bleu. C'est une belle marche : quatre heures.*"
+  - q: "Что они сделают, если пойдёт дождь?"
+    options: ["останутся в приюте", "сходят в музей в Шамони и поедят фондю", "вернутся домой"]
+    answer: 1
+    explain: "***S'il pleut**, nous **visiterons** le musée de la montagne à Chamonix, et nous **mangerons** une fondue.* — *si* + *présent*, затем *futur*."
+  - q: "Почему брат Марка советует взять солнцезащитный крем?"
+    options: ["В горах очень сильное солнце.", "Будет жарко.", "Они пойдут на пляж."]
+    answer: 0
+    explain: "*Mon frère m'a dit de prendre aussi de la crème solaire : en montagne, le soleil est très fort.*"
+  - q: "Кто приготовит еду?"
+    options: ["Софи", "Марк", "Жюльен"]
+    answer: 1
+    explain: "*Tu ne prends pas de sandwichs : **je ferai tout** !* — *tout* «всё»."
+  - q: "Что с Жюльеном?"
+    options: ["Он не поедет.", "Он приедет в приют вечером в субботу.", "Он поедет вместе с ними утром."]
+    answer: 1
+    explain: "*Tu n'as pas oublié Julien ? — **Si**, si… il ne **pourra** pas venir samedi, il travaille. Il nous **retrouvera** au refuge le soir.*"
+  - q: "Что запрещено в парке?"
+    options: ["ночевать у озера", "разводить костёр", "ходить к леднику"]
+    answer: 1
+    explain: "*Non, c'est interdit. Le gardien… **dit à** tout le monde **de** ne pas faire de feu.*"

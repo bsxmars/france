@@ -1,0 +1,45 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком (или выбери вариант). Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Plus-que-parfait: avait / était + причастие."
+  - "Женский род часто слышно по конечной согласной: paresseuse [z], blanche [ʃ]."
+items:
+  - audio: audio/tts/a-27/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Quand nous sommes arrivés, le film avait déjà commencé.", "Quand nous sommes arrivées, le film avait déjà commencé."]
+    explain: "«Когда мы пришли, фильм уже начался». Фильм начался **раньше** нашего прихода → plus-que-parfait *avait commencé*."
+  - audio: audio/tts/a-27/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Elle m'a rendu le livre que je lui avais prêté."]
+    explain: "«Она вернула мне книгу, которую я ей одалживала». Сначала одолжила (*avais prêté*), потом вернула (*a rendu*)."
+  - audio: audio/tts/a-27/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Ma voisine est une ancienne actrice."]
+    explain: "«Моя соседка — бывшая актриса». *acteur → actrice*, *ancien → ancienne* (удвоение *n*)."
+  - audio: audio/tts/a-27/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Il avait plu toute la nuit, il fallait rester à la maison."]
+    explain: "«Всю ночь шёл дождь, надо было сидеть дома». *pleuvoir → il avait plu*, *falloir → il fallait*."
+  - audio: audio/tts/a-27/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Ma grand-mère conduisait une vieille voiture blanche."]
+    explain: "«Бабушка водила старую белую машину». *conduire → elle conduisait*; *vieux → vieille*, *blanc → blanche*."
+  - audio: audio/tts/a-27/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Ils ont construit une nouvelle école près de chez nous."]
+    explain: "«Рядом с нами построили новую школу». *construire → construit*; *nouveau → nouvelle*."
+  - audio: audio/tatoeba/474695.mp3
+    audio_source: {title: "Tatoeba #4654474", url: "https://tatoeba.org/fr/sentences/show/4654474", author: "vlecomte", license: "CC BY-SA 4.0"}
+    q: "Что прозвучало?"
+    options: ["Tu es paresseux.", "Tu es paresseuse."]
+    answer: 1
+    explain: "«Ты ленивая». В конце слышно [z]: ***paresseuse***. *paresseux* оканчивается на гласный [ø]."
+  - audio: audio/tatoeba/473769.mp3
+    audio_source: {title: "Tatoeba #2113290", url: "https://tatoeba.org/fr/sentences/show/2113290", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Sois créative !"]
+    explain: "«Будь изобретательной!» *créatif → créative*: *-f → -ve*, в конце слышно [v]."
+  - audio: audio/tatoeba/473810.mp3
+    audio_source: {title: "Tatoeba #2114312", url: "https://tatoeba.org/fr/sentences/show/2114312", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Sois ponctuelle !"]
+    explain: "«Будь пунктуальна!» *ponctuel → ponctuelle* — удвоение *l* + *e*."

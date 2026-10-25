@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Passé simple 1-й группы на -a / -èrent, 2-й и 3-й — на -it / -ut: il ouvrit, elle vécut."
+  - "Passé antérieur = eut / fut + причастие: dès qu'il eut terminé, à peine fut-il sorti."
+items:
+  - audio: audio/tts/c-10/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Il ouvrit la porte et s'arrêta net."]
+    explain: "«Он открыл дверь и замер». Два последовательных события в passé simple: *ouvrir* → **ouvrit**, *s'arrêter* → **s'arrêta**."
+  - audio: audio/tts/c-10/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Quand je suis arrivée, le film avait déjà commencé."]
+    explain: "«Когда я пришла, фильм уже начался». Plus-que-parfait — раньше другого прошедшего; *arrivée* — говорит женщина."
+  - audio: audio/tts/c-10/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Nous venions de nous coucher quand l'orage éclata."]
+    explain: "«Мы только что легли, когда разразилась гроза». **venions de** + infinitif — passé immédiat в плане прошлого; *éclata* — passé simple."
+  - audio: audio/tts/c-10/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["À peine fut-il sorti qu'il se mit à pleuvoir."]
+    explain: "«Едва он вышел, как пошёл дождь». После *à peine* в начале фразы — инверсия; **fut sorti** — passé antérieur, *se mit* — passé simple от *se mettre*."
+  - audio: audio/tts/c-10/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Pendant des années, ils passaient leurs vacances au bord de la mer."]
+    explain: "«Годами они проводили отпуск на море». Повторяющееся действие без чётких границ → imparfait, несмотря на *pendant des années*."
+  - audio: audio/tts/c-10/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Elle vécut à Rome jusqu'à la fin de sa vie."]
+    explain: "«Она прожила в Риме до конца жизни». *vivre* → **vécut** (passé simple на -ut); период с границей (*jusqu'à la fin*) → passé simple, не imparfait."
+  - audio: audio/tts/c-10/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Si on allait au cinéma ce soir ?"]
+    explain: "«А не сходить ли нам в кино сегодня вечером?» **Si + imparfait** в самостоятельной фразе — предложение, а не прошлое."
+  - audio: audio/tts/c-10/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Dès qu'il eut terminé son discours, la salle applaudit."]
+    explain: "«Как только он закончил речь, зал зааплодировал». **eut terminé** — passé antérieur после *dès que*; *applaudit* — passé simple (совпадает с présent, различает контекст)."

@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "После à condition que — subjonctif, после au cas où — conditionnel."
+  - "Причастие с avoir согласуется с COD, который стоит перед глаголом: les photos que… prises."
+items:
+  - audio: audio/tts/b-06/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Je viendrai à condition que tu m'attendes."]
+    explain: "«Я приду при условии, что ты меня подождёшь». *à condition que* + subjonctif: *que tu **attendes***."
+  - audio: audio/tts/b-06/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Prends un parapluie au cas où il pleuvrait."]
+    explain: "«Возьми зонт на случай, если пойдёт дождь». *au cas où* + conditionnel: ***pleuvrait*** (от *pleuvoir*)."
+  - audio: audio/tts/b-06/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Tu aurais dû me prévenir plus tôt."]
+    explain: "«Тебе следовало предупредить меня раньше». Conditionnel passé *devoir* — упрёк."
+  - audio: audio/tts/b-06/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Selon la presse, le ministre aurait démissionné hier soir."]
+    explain: "«По сообщениям прессы, министр вчера вечером подал в отставку». Conditionnel passé прессы — неподтверждённый факт в прошлом."
+  - audio: audio/tts/b-06/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Chacun de nous a reçu une invitation.", "Chacune de nous a reçu une invitation."]
+    explain: "«Каждый из нас получил приглашение». *chacun* — местоимение, глагол в единственном числе: ***a** reçu*."
+  - audio: audio/tts/b-06/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Je n'ai lu aucun de ces livres."]
+    explain: "«Я не прочитал ни одной из этих книг». *aucun* требует *ne* и не сочетается с *pas*."
+  - audio: audio/tts/b-06/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Les photos que tu as prises sont magnifiques."]
+    explain: "«Снятые тобой фотографии великолепны». *que* = *les photos* (COD перед *avoir*) → ***prises***; на слух слышно [z]."
+  - audio: audio/tts/b-06/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Combien de lettres avez-vous écrites cette semaine ?"]
+    explain: "«Сколько писем вы написали на этой неделе?» COD *combien de lettres* стоит перед *avoir* → ***écrites*** (слышно [t])."

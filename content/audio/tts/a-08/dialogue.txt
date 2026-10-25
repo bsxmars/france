@@ -1,0 +1,15 @@
+# rate: -15%
+# pause: 800
+G: Salut, Thomas ! Qu'est-ce que tu cherches ?
+B: Je cherche le cahier du professeur de français. Il est dans la classe ?
+G: Non, il est sur la table des élèves, près de la fenêtre.
+B: Merci ! Et toi, que fais-tu ici ?
+G: Je regarde les photos des élèves. C'est pour le journal de l'école.
+B: Ah, tu écris pour le journal ! Qu'est-ce que tu écris ?
+G: Un texte sur Madame Garnier, la prof de musique.
+B: Elle est belge, comme toi ?
+G: Non, elle est suisse. Elle est pianiste. Et elle est une pianiste très sérieuse !
+B: Et qu'est-ce qu'elle joue ?
+G: Elle joue du Chopin. C'est très beau !
+B: Bon, je cherche le cahier. À bientôt, Inès !
+G: À bientôt, Thomas !

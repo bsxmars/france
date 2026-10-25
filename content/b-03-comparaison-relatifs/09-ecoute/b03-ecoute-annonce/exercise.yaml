@@ -1,0 +1,40 @@
+title: "Annonce : la médiathèque change d'horaires"
+type: listening
+intro: "Объявление звучит один раз, как на экзамене. Прочитай вопросы заранее и впиши в пропуски цифры или слова из записи."
+hints:
+  - "Держи в голове цифры: часы, этаж, места, цены."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/b-03/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  Vous cherchez un endroit calme où travailler après dix-huit heures ? La médiathèque Jean-Moulin, dont les horaires viennent de changer, est désormais ouverte jusqu'à vingt-deux heures du mardi au vendredi.
+
+  La nouvelle salle de lecture, laquelle se trouve au deuxième étage, compte quarante places, soit deux fois plus qu'avant. Le prêt de livres y est possible jusqu'à vingt et une heures trente.
+
+  Le samedi, c'est l'espace jeunesse qui accueille les familles, avec des lectures pour enfants à dix heures et à quinze heures. L'entrée est gratuite pour les moins de dix-huit ans ; pour les adultes, la carte annuelle coûte douze euros.
+
+  Attention : la médiathèque sera fermée le lundi onze novembre, jour férié.
+items:
+  - q: "Du mardi au vendredi, la médiathèque est ouverte jusqu'à ___ heures."
+    answers: ["vingt-deux", "22", "vingt deux"]
+    explain: "*ouverte jusqu'à **vingt-deux heures** du mardi au vendredi.*"
+  - q: "La nouvelle salle de lecture se trouve au ___ étage."
+    answers: ["deuxième", "2e", "2ème", "second"]
+    explain: "*laquelle se trouve au **deuxième étage*** — *laquelle* в книжном стиле вводит уточнение."
+  - q: "La salle compte ___ places."
+    answers: ["quarante", "40"]
+    explain: "*compte **quarante** places, soit deux fois plus qu'avant* — значит, раньше было двадцать."
+  - q: "Сколько мест было в зале раньше?"
+    options: ["двадцать", "сорок", "восемьдесят"]
+    answer: 0
+    explain: "*quarante places, soit **deux fois plus** qu'avant* → раньше 20."
+  - q: "Le samedi, c'est l'espace ___ qui accueille les familles."
+    answers: ["jeunesse"]
+    explain: "*c'est l'espace **jeunesse** qui accueille les familles* — выделение c'est… qui."
+  - q: "Pour les adultes, la carte annuelle coûte ___ euros."
+    answers: ["douze", "12"]
+    explain: "*la carte annuelle coûte **douze** euros*; для младше 18 лет — бесплатно."
+  - q: "Когда медиатека закрыта?"
+    options: ["в понедельник 11 ноября", "во все субботы", "в пятницу вечером"]
+    answer: 0
+    explain: "*la médiathèque sera fermée le lundi onze novembre, jour férié.*"

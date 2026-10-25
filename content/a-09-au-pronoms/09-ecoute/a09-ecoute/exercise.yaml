@@ -1,0 +1,47 @@
+title: "Un coup de téléphone"
+type: listening
+intro: "Послушай телефонный разговор и ответь на вопросы."
+hints:
+  - "В записи несколько часов: à six heures, à neuf heures, à cinq heures et demie."
+  - "le перед глаголом заменяет слово из предыдущей фразы."
+audio: audio/tts/a-09/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural, fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  — Allô, Marc ? C'est Julie. Tu es à la maison ?
+  — Oui. Il pleut, il fait froid… Je regarde la télé.
+  — Moi, je vais au cinéma ce soir. Le film italien, tu le regardes avec moi ?
+  — Au cinéma près du parc ?
+  — Oui, au Rex. Le film est à six heures.
+  — D'accord ! Et après ?
+  — Après, il faut aller à la gare : ma sœur Anne arrive à neuf heures.
+  — Anne ? Je l'aime beaucoup ! Je vais aussi à la gare avec toi.
+  — Super ! Alors, rendez-vous au cinéma à cinq heures et demie.
+  — Il pleut beaucoup… Je prends le métro jusqu'au parc.
+  — N'oublie pas ton parapluie !
+  — Mon parapluie ? Je le cherche… Ah, il est là ! À tout à l'heure, Julie !
+  — À tout à l'heure !
+items:
+  - q: "Какая погода?"
+    options: ["Жарко и солнечно.", "Идёт дождь, холодно.", "Хорошая погода, но холодно."]
+    answer: 1
+    explain: "*Il pleut, il fait froid…* — два безличных оборота."
+  - q: "Что делает Марк дома?"
+    options: ["смотрит телевизор", "ищет зонт", "читает"]
+    answer: 0
+    explain: "*Je regarde la télé.* Зонт он ищет в конце разговора."
+  - q: "Где кинотеатр «Рекс»?"
+    options: ["рядом с вокзалом", "рядом с парком", "рядом с домом Марка"]
+    answer: 1
+    explain: "*Au cinéma près du parc ? — Oui, au Rex.* — *près de* + *le parc* = *près du parc*."
+  - q: "Почему после фильма надо ехать на вокзал?"
+    options: ["Марк уезжает.", "В девять приезжает сестра Жюли.", "Там встреча в половине шестого."]
+    answer: 1
+    explain: "*Il faut aller à la gare : ma sœur Anne arrive à neuf heures.*"
+  - q: "Где и когда встреча?"
+    options: ["у кинотеатра в половине шестого", "у кинотеатра в шесть", "в метро в половине шестого"]
+    answer: 0
+    explain: "*Rendez-vous au cinéma à cinq heures et demie.* В шесть начинается фильм."
+  - q: "Что заменяет *le* в *Je le cherche* в конце разговора?"
+    options: ["фильм", "зонт", "метро"]
+    answer: 1
+    explain: "*Mon parapluie ? Je **le** cherche…* — *le* = *mon parapluie*; местоимение стоит перед глаголом."

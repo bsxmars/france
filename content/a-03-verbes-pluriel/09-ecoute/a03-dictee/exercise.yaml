@@ -1,0 +1,53 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком (или выбери вариант). Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "-ent у глагола и -s у существительного не слышно, но пишутся."
+  - "-ez звучит [e]: parlez, fermez, regardez."
+items:
+  - audio: audio/tts/a-03/parlez.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Parle !", "Parlez !"]
+    answer: 1
+    explain: "[par-le] — **Parlez !** «Говорите!»: *-ez* звучит как [e]. *Parle !* — один слог [parl]."
+  - audio: audio/tts/a-03/ferme.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Ferme la porte !", "Fermez la porte !"]
+    answer: 0
+    explain: "[fɛrm-la-pɔrt] — **Ferme la porte !** «Закрой дверь!»: после *ferm-* сразу *la*, без [e]."
+  - audio: audio/tts/a-03/ils.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Il aime le café.", "Ils aiment le café."]
+    answer: 1
+    explain: "[il-zɛm] — **Ils aiment** «они любят»: перед гласной *-s* местоимения звучит как [z]. *Il aime* — [i-lɛm]."
+  - audio: audio/tts/a-03/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Les élèves préparent le café."]
+    explain: "«Ученики готовят кофе». Подлежащее во мн. ч. → *préparent*, *-ent* немое."
+  - audio: audio/tts/a-03/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Ses amies restent à Paris.", "Ses amis restent à Paris.", "Ces amies restent à Paris.", "Ces amis restent à Paris."]
+    explain: "«Его (её) подруги остаются в Париже». *ses amies*, *ses amis*, *ces amies* звучат одинаково — [se-za-mi]: все варианты верны. *-ent* в *restent* немое."
+  - audio: audio/tts/a-03/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Cherche tes clés !"]
+    explain: "«Поищи свои ключи!». Повелительное на «ты» без *-s*; *tes* [te] — мн. ч. от *ta*."
+  - audio: audio/tts/a-03/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Elles parlent avec ces élèves.", "Elle parle avec ces élèves."]
+    explain: "«Они (она) говорят с этими учениками». *elles parlent* и *elle parle* звучат одинаково — [ɛl-parl]: без контекста число не слышно. *ces* [se] — мн. ч. от *ce, cet, cette*."
+  - audio: audio/tatoeba/472691.mp3
+    audio_source: {title: "Tatoeba #934633", url: "https://tatoeba.org/fr/sentences/show/934633", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Les chiens aboient."]
+    explain: "«Собаки лают». *aboyer* — глагол I группы; *-ent* в *aboient* не читается."
+  - audio: audio/tatoeba/472347.mp3
+    audio_source: {title: "Tatoeba #5702745", url: "https://tatoeba.org/fr/sentences/show/5702745", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Elles parlent en français.", "Elle parle en français."]
+    explain: "«Они (она) говорят по-французски». *elles parlent* и *elle parle* звучат одинаково — [ɛl-parl]: оба ответа верны."
+  - audio: audio/tatoeba/473979.mp3
+    audio_source: {title: "Tatoeba #6463267", url: "https://tatoeba.org/fr/sentences/show/6463267", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Regardez à nouveau."]
+    explain: "«Посмотрите ещё раз». Повелительное на *-ez* [e]; *à nouveau* — «снова»."

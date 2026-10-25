@@ -1,0 +1,37 @@
+title: "Éphéméride : le 1er décembre 1955"
+type: listening
+intro: "Короткая радиорубрика «В этот день» звучит один раз, как на экзамене. Прочитай вопросы заранее."
+hints:
+  - "Рубрика ведётся в passé simple: каждое событие — новый шаг рассказа."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c-10/ephemeride.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  C'était un premier décembre, en mille neuf cent cinquante-cinq, à Montgomery, en Alabama. Il était un peu plus de dix-huit heures. Rosa Parks, couturière de quarante-deux ans, rentrait du travail en bus. Lorsque le chauffeur lui ordonna de céder sa place à un passager blanc, elle refusa.
+
+  Elle fut arrêtée quelques minutes plus tard. Dès que la nouvelle se fut répandue, la communauté noire de la ville organisa un boycott des bus. Il dura plus d'un an : trois cent quatre-vingt-un jours.
+
+  En novembre mille neuf cent cinquante-six, la Cour suprême déclara la ségrégation dans les bus contraire à la Constitution. Rosa Parks avait entre-temps perdu son emploi ; elle quitta Montgomery quelques mois plus tard. Elle est aujourd'hui considérée comme l'une des grandes figures du mouvement des droits civiques.
+items:
+  - q: "Rosa Parks avait ___ ans en 1955."
+    answers: ["quarante-deux", "42", "quarante deux"]
+    explain: "*Rosa Parks, couturière de **quarante-deux** ans* — она была швеёй."
+  - q: "Что делала Роза Паркс, когда водитель потребовал уступить место?"
+    options: ["Она ехала на работу.", "Она возвращалась с работы.", "Она ждала автобус."]
+    answer: 1
+    explain: "*Rosa Parks… **rentrait** du travail en bus. Lorsque le chauffeur lui **ordonna**…, elle **refusa**.* — imparfait (фон) и passé simple (события)."
+  - q: "Что означает «Dès que la nouvelle se fut répandue, la communauté… organisa un boycott»?"
+    options: ["Бойкот организовали сразу, как только распространилась новость.", "Бойкот организовали ещё до ареста.", "Новость распространилась благодаря бойкоту."]
+    answer: 0
+    explain: "*Dès que* + passé antérieur (*se fut répandue*) — действие непосредственно перед главным, в passé simple."
+  - q: "Le boycott dura ___ jours."
+    answers: ["trois cent quatre-vingt-un", "381", "trois cent quatre-vingt un", "trois-cent-quatre-vingt-un"]
+    explain: "*Il dura plus d'un an : **trois cent quatre-vingt-un** jours.*"
+  - q: "Что произошло в ноябре 1956 года?"
+    options: ["Роза Паркс уехала из Монтгомери.", "Верховный суд признал сегрегацию в автобусах неконституционной.", "Бойкот начался."]
+    answer: 1
+    explain: "*la Cour suprême **déclara** la ségrégation dans les bus contraire à la Constitution.* Из Монтгомери она уехала *quelques mois plus tard*."
+  - q: "Vrai / faux / on ne sait pas: Роза Паркс сохранила работу."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*Rosa Parks **avait** entre-temps **perdu** son emploi* — plus-que-parfait: это случилось до её отъезда."

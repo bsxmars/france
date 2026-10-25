@@ -1,0 +1,66 @@
+title: "Les promesses de l'an 2000"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. В вопросах с полем впиши форму глагола или выражение из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Отделяй чужие прогнозы (on affirmait que…, les ingénieurs promettaient que…) от мнения автора."
+  - "Conditionnel после глагола в прошедшем — будущее с точки зрения прошлого, а не «бы»."
+text: |
+  ## Les promesses de l'an 2000
+
+  *En 1960, on savait déjà à quoi ressemblerait le monde de l'an 2000. Ou plutôt, on croyait le savoir.*
+
+  Feuilletez un magazine de vulgarisation scientifique des années soixante : vous y apprendrez que nous devrions, depuis longtemps, passer nos vacances sur la Lune. Les illustrateurs de l'époque l'affirmaient sans l'ombre d'un doute : les voitures voleraient au-dessus des villes, les repas tiendraient dans une pilule et des robots domestiques feraient le ménage pendant que leurs propriétaires se reposeraient. Quant à la semaine de travail, elle ne durerait plus que quinze heures, puisque les machines auraient remplacé l'homme dans toutes les tâches pénibles.
+
+  Il serait facile d'en sourire. Pourtant, ces prophéties nous renseignent moins sur l'avenir que sur le présent qui les a produites. Dans une France qui se reconstruisait, qui découvrait le réfrigérateur et la télévision, on était persuadé que le progrès technique rendrait les hommes plus libres et, par conséquent, plus heureux. Les ingénieurs promettaient que l'énergie atomique serait si bon marché qu'on ne prendrait même plus la peine de la facturer. Un ministre déclarait en 1963 que, d'ici la fin du siècle, la faim aurait disparu de la planète.
+
+  Certaines prédictions se sont réalisées, mais jamais de la manière prévue. Personne n'avait imaginé que le téléphone deviendrait un objet de poche, ni que chacun y passerait plusieurs heures par jour. On annonçait que l'ordinateur resterait une machine gigantesque réservée aux États et aux grandes entreprises ; on ne se doutait pas qu'il tiendrait un jour dans la main d'un enfant. Inversement, les voitures volantes, que l'on attendait pour 1985, n'ont jamais quitté les salons d'exposition. Quant à la pilule-repas, elle est restée un accessoire de science-fiction : jamais les Français n'ont autant parlé de gastronomie qu'aujourd'hui.
+
+  Ce qui frappe surtout, c'est ce que ces visions oubliaient. Elles avaient prévu que les machines travailleraient à notre place, mais pas que nous travaillerions pour qu'elles fonctionnent. Elles montraient des villes immenses et lumineuses, sans se demander d'où viendrait l'électricité ni où iraient les déchets. La planète, dans ces images, était un décor inépuisable. Les historiens le rappellent : avant le premier choc pétrolier de 1973, rares étaient ceux qui pensaient que les ressources pourraient un jour manquer.
+
+  Faut-il pour autant renoncer à imaginer l'avenir ? Certainement pas. Les futurologues d'aujourd'hui ont simplement changé de ton. Leurs rapports ne disent plus « voici ce qui arrivera », mais « voici ce qui pourrait arriver si nous ne faisons rien ». L'impératif a remplacé le futur : réduisons nos émissions, consommons moins, préparons nos villes aux canicules. Un rapport publié l'an dernier affirmait ainsi que, si rien ne changeait, certaines villes du Sud connaîtraient chaque été plus d'un mois de chaleur extrême. Ce glissement grammatical n'est pas anodin. Le futur des années soixante était une promesse ; l'impératif d'aujourd'hui est une responsabilité.
+
+  Il reste une leçon à tirer de ces vieilles images. Nos aînés se trompaient moins sur la technique que sur eux-mêmes : ils croyaient que des objets nouveaux suffiraient à changer la vie. Alors, la prochaine fois qu'on vous annoncera une révolution, souvenez-vous des voitures volantes. Ne vous moquez pas trop vite de ceux qui y croyaient, mais demandez-vous ce que, dans cinquante ans, nos petits-enfants diront de nos propres certitudes. Et soyez-en sûrs : ils en souriront, eux aussi.
+items:
+  - q: "Почему, по журналам 1960-х, рабочая неделя должна была сократиться до пятнадцати часов?"
+    options: ["Потому что машины к тому времени заменят человека на тяжёлой работе.", "Потому что этого требовали профсоюзы.", "Потому что люди будут проводить отпуск на Луне."]
+    answer: 0
+    explain: "*puisque les machines **auraient remplacé** l'homme dans toutes les tâches pénibles* — conditionnel passé здесь = futur antérieur dans le passé: замена должна была произойти раньше сокращения недели. Отпуск на Луне — другой прогноз, не причина."
+  - q: "Что, по мнению автора, прежде всего показывают эти пророчества?"
+    options: ["Каким на самом деле стал 2000 год.", "Надежды и представления эпохи, которая их создала.", "Наивность учёных в любую эпоху."]
+    answer: 1
+    explain: "*ces prophéties nous renseignent **moins sur l'avenir que sur le présent** qui les a produites* — дальше автор описывает Францию, которая «восстанавливалась» и верила в прогресс."
+  - q: "Vrai / faux / on ne sait pas: в 1963 году министр пообещал, что атомная энергия станет бесплатной."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "Про атомную энергию говорили **инженеры** (*les ingénieurs promettaient que…*), а министр обещал, что **исчезнет голод** (*la faim aurait disparu*). Ловушка: в одном абзаце два разных прогноза."
+  - q: "Что автор говорит о телефоне и компьютере?"
+    options: ["Их появление никто не предсказывал.", "Предсказания сбылись, но не так, как ожидали.", "Их развитие точно описали журналы 1960-х."]
+    answer: 1
+    explain: "*Certaines prédictions se sont réalisées, mais jamais de la manière prévue*: компьютер ждали, но огромным и государственным; *on ne se doutait pas qu'il tiendrait un jour dans la main d'un enfant*."
+  - q: "Vrai / faux / on ne sait pas: летающие машины когда-то показывали на выставках."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 0
+    explain: "*les voitures volantes… n'ont jamais quitté les salons d'exposition* — значит, на выставках они были, но дальше не пошли. Вопрос на имплицитное: в тексте нет слов «их показывали», но это следует из фразы."
+  - q: "Что «забывали» футуристические картины, по мнению автора?"
+    options: ["Что ресурсы планеты ограничены, а у энергии и отходов есть цена.", "Что люди будут работать меньше.", "Что города станут огромными."]
+    answer: 0
+    explain: "*sans se demander d'où viendrait l'électricité ni où iraient les déchets… La planète… était un décor inépuisable.* Огромные города, наоборот, на картинах были."
+  - q: "Что значит фраза «L'impératif a remplacé le futur»?"
+    options: ["Сегодняшние прогнозисты пишут более простым языком.", "Будущее теперь описывают не как обещание, а как призыв действовать.", "Учёные перестали интересоваться будущим."]
+    answer: 1
+    explain: "Автор сам объясняет формулу: *Le futur… était une **promesse** ; l'impératif d'aujourd'hui est une **responsabilité**.* Императив — *réduisons, consommons, préparons* — призыв к действию."
+  - q: "«Nos aînés se trompaient moins sur la technique que sur eux-mêmes» — в чём, по автору, была главная ошибка?"
+    options: ["Они плохо разбирались в технике.", "Они считали, что новые вещи сами по себе изменят жизнь.", "Они не верили в прогресс."]
+    answer: 1
+    explain: "Продолжение фразы: *ils croyaient que des objets nouveaux **suffiraient** à changer la vie*. *Suffiraient* — снова futur dans le passé."
+  - q: "Каков тон последнего абзаца?"
+    options: ["насмешливый и презрительный к людям 1960-х", "ироничный, но призывающий к скромности", "тревожный и пессимистичный"]
+    answer: 1
+    explain: "*Ne vous moquez pas trop vite de ceux qui y croyaient* — автор не смеётся над предками, а предлагает усомниться в собственных уверенностях: *ils en souriront, eux aussi*."
+  - q: "Впиши глагол из текста в той форме, в какой он стоит: Personne n'avait imaginé que le téléphone ___ un objet de poche."
+    answers: ["deviendrait"]
+    explain: "Главное в plus-que-parfait (*n'avait imaginé*), действие придаточного — позже → **futur dans le passé** (= conditionnel présent): *deviendrait*."
+  - q: "Найди в тексте выражение «утруждать себя»: on ne prendrait même plus ___ de la facturer."
+    answers: ["la peine"]
+    explain: "**prendre la peine de** + infinitif — взять на себя труд, потрудиться."

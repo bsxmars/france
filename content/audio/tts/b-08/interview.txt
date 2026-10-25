@@ -1,0 +1,14 @@
+# pause: 700
+D: Bonjour et bienvenue dans « École d'ailleurs ». Nous recevons aujourd'hui Marie-Ève Lavoie, directrice d'une école primaire alternative à Montréal. Marie-Ève, qu'est-ce qui distingue votre école d'une école traditionnelle ?
+E: D'abord, les enfants n'y sont ni classés par âge ni assis en rangs. Les classes mélangent des élèves de huit à onze ans, et chacun avance à son rythme. Les plus grands aident les plus petits. On dit souvent qu'on ne comprend jamais aussi bien une notion que lorsqu'on doit l'expliquer à quelqu'un d'autre.
+D: Vous n'avez pas de notes ?
+E: Pas avant la dernière année. Les parents reçoivent un portfolio, avec des travaux et des commentaires. Je ne pense pas qu'une note dise grand-chose à un enfant de huit ans. En revanche, je crois qu'il comprend très bien quand on lui montre ce qu'il savait faire en septembre et ce qu'il sait faire en juin.
+D: Qui sont les familles qui vous choisissent ?
+E: Il y a de tout. Mais la plupart cherchent une école où leur enfant puisse poser des questions sans avoir peur de se tromper. Certains parents arrivent après une mauvaise expérience ailleurs ; d'autres viennent simplement par conviction.
+D: On reproche souvent aux écoles alternatives de ne pas préparer à la vie réelle, à la compétition…
+E: J'entends cette critique, mais je ne suis pas sûre qu'elle soit fondée. Nos anciens élèves réussissent au secondaire aussi bien que les autres. Il est même possible qu'ils s'adaptent plus vite, parce qu'ils savent travailler seuls. Ce qui est vrai, c'est que la première année avec des notes est parfois un choc.
+D: Et les enseignants ? Il faut un profil particulier ?
+E: Oui. Je cherche toujours des enseignants qui sachent travailler en équipe et qui acceptent de ne pas tout contrôler. Ce n'est ni un métier plus facile ni un métier plus reposant : préparer des activités pour trois niveaux à la fois, ça demande énormément de travail.
+D: Ce modèle pourrait-il s'étendre à toutes les écoles publiques ?
+E: Honnêtement, il est peu probable que ça se fasse rapidement : il faudrait former des milliers d'enseignants et réduire le nombre d'élèves par classe. Mais il est probable que certaines idées passeront dans l'école ordinaire. Les classes qui mélangent les âges, par exemple, existent déjà dans beaucoup de villages, faute d'élèves !
+D: Marie-Ève Lavoie, merci beaucoup.

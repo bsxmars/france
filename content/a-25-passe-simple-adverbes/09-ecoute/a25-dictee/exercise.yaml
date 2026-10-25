@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "Passé simple I группы в 3-м л. ед. ч. — на -a: il entra, il regarda."
+  - "mieux — у глагола, meilleur — у существительного."
+items:
+  - audio: audio/tts/a-25/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Le roi entra dans la salle et regarda ses invités."]
+    explain: "«Король вошёл в зал и посмотрел на гостей». *entra, regarda* — passé simple I группы, без *-t* на конце."
+  - audio: audio/tts/a-25/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Elle prit son manteau et sortit sans un mot."]
+    explain: "«Она взяла пальто и вышла, не сказав ни слова». *prendre → elle prit*, *sortir → elle sortit* — тип на *-i*."
+  - audio: audio/tts/a-25/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Ils firent le tour du lac et revinrent le soir."]
+    explain: "«Они обошли озеро и вернулись вечером». *faire → ils firent*, *revenir → ils revinrent* — особые формы."
+  - audio: audio/tts/a-25/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Parle moins vite, s'il te plaît !"]
+    explain: "«Говори помедленнее, пожалуйста!» *moins vite* — сравнительная степень наречия."
+  - audio: audio/tts/a-25/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Ma sœur nage mieux que moi.", "Ma soeur nage mieux que moi."]
+    explain: "«Сестра плавает лучше меня». *nager bien → nager **mieux***; после *que* — ударное *moi*."
+  - audio: audio/tts/a-25/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["C'est lui qui travaille le plus."]
+    explain: "«Больше всех работает он». *le plus* после глагола — превосходная степень от *beaucoup*."
+  - audio: audio/tatoeba/472028.mp3
+    audio_source: {title: "Tatoeba #2043945", url: "https://tatoeba.org/fr/sentences/show/2043945", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Elle lui rendit visite le 20 octobre.", "Elle lui rendit visite le vingt octobre."]
+    explain: "«Она навестила его (её) 20 октября». *rendre → elle rendit* — passé simple на *-i*; в разговоре было бы *elle lui a rendu visite*."
+  - audio: audio/tatoeba/474625.mp3
+    audio_source: {title: "Tatoeba #3669667", url: "https://tatoeba.org/fr/sentences/show/3669667", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Travaille lentement !"]
+    explain: "«Работай медленно!» *lentement* — наречие; сравнительная степень *plus lentement*."
+  - audio: audio/tatoeba/474541.mp3
+    audio_source: {title: "Tatoeba #2284692", url: "https://tatoeba.org/fr/sentences/show/2284692", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Il fait plus chaud."]
+    explain: "«Стало теплее (жарче)». В безличном *il fait chaud* сравнение тоже строится с *plus*."

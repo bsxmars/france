@@ -1,0 +1,67 @@
+title: "Débat : faut-il limiter le nombre de touristes ?"
+type: listening
+intro: "Послушай радиодебаты (дважды) и ответь на вопросы."
+hints:
+  - "Следи, кто говорит: Шарлин Ламбер — гид из Брюгге, Анри Вассёр — отельер из Анси."
+  - "Je vous rejoins, sur ce point nous sommes d'accord — сигналы согласия."
+audio: audio/tts/c-02/debat.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-BE-CharlineNeural, fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  **Animatrice :** Bonsoir. Venise, Barcelone, Dubrovnik… et, plus près de nous, Annecy ou Bruges : bien des villes se disent victimes de leur succès. Faut-il limiter le nombre de touristes ? Nous en débattons ce soir avec Charline Lambert, guide à Bruges, et Henri Vasseur, qui préside l'association des hôteliers d'Annecy. Charline Lambert, Bruges, qu'on surnomme la Venise du Nord, a déjà pris des mesures. Lesquelles ?
+
+  **Charline Lambert :** Oui. La ville a limité le nombre de bateaux de croisière qui peuvent accoster chaque jour dans le port voisin, et elle a cessé de faire de la publicité dans les pays lointains. L'idée n'est pas de fermer la ville, mais d'attirer moins de visiteurs d'un jour et plus de visiteurs qui restent. Un touriste qui passe trois heures à Bruges prend des photos, achète une gaufre et repart. Il ne voit pas la ville, il la consomme.
+
+  **Animatrice :** Henri Vasseur, à Annecy aussi, on parle de « surtourisme ». Vous partagez ce diagnostic ?
+
+  **Henri Vasseur :** En partie seulement. Je ne nie pas qu'il y ait du monde au bord du lac en août. Mais le mot « surtourisme » me gêne : il donne l'impression que le tourisme est une maladie. Or, sans touristes, la plupart des commerces de la vieille ville fermeraient. Il n'y aurait ni hôtels, ni restaurants, ni emplois pour les jeunes. Et ce n'est pas un détail : chez nous, un emploi sur cinq dépend du tourisme.
+
+  **Charline Lambert :** Mais personne ne veut supprimer le tourisme ! Il faut simplement regarder qui en profite. À Bruges, bien des habitants ont quitté le centre, parce que les appartements sont devenus des locations de courte durée. On vend du chocolat et de la dentelle à chaque coin de rue, mais il n'y a plus de boulangerie de quartier. Une ville sans habitants, c'est un décor, ce n'est plus une ville.
+
+  **Henri Vasseur :** Là, je vous rejoins. Les locations de courte durée posent un vrai problème, et il faut les encadrer. Mais limiter le nombre de visiteurs, c'est autre chose. Qui va-t-on refuser ? Les familles qui viennent en voiture ? Les étudiants qui voyagent sans argent ? On risque de réserver les plus belles villes à ceux qui ont les moyens de payer.
+
+  **Animatrice :** C'est le reproche qu'on adresse souvent aux taxes d'entrée, comme à Venise.
+
+  **Charline Lambert :** Je ne suis pas favorable à une taxe d'entrée, justement pour cette raison. Je préfère des mesures plus fines : étaler les visites sur toute l'année, faire découvrir d'autres quartiers, d'autres villes de la région. Gand, Courtrai, Ostende sont à moins d'une heure de train, et la plupart des visiteurs n'en ont jamais entendu parler.
+
+  **Henri Vasseur :** Sur ce point, nous sommes d'accord. Le tourisme de masse, c'est d'abord un tourisme de cartes postales : tout le monde veut la même photo, au même endroit, à la même heure. Le Paris de la tour Eiffel est saturé, mais il existe un Paris des quartiers que les touristes ne voient jamais. C'est la même chose chez nous : à vingt minutes du lac, les villages de montagne sont presque vides en été.
+
+  **Animatrice :** Alors, pour conclure : faut-il limiter, oui ou non ?
+
+  **Henri Vasseur :** Limiter, non. Organiser, oui. Avec de l'intelligence plutôt qu'avec des barrières.
+
+  **Charline Lambert :** Moi, je dirais : limiter là où c'est nécessaire, quand une ville risque de mourir. Mais l'essentiel, c'est de changer notre façon de voyager. Avoir du temps, voilà le vrai luxe du voyageur.
+
+  **Animatrice :** Charline Lambert, Henri Vasseur, merci à tous les deux.
+items:
+  - q: "Какую цель преследует Брюгге своими мерами?"
+    options: ["Закрыть город для туристов.", "Привлекать меньше туристов «на день» и больше тех, кто остаётся.", "Привлечь туристов из далёких стран."]
+    answer: 1
+    explain: "*L'idée n'est pas de fermer la ville, mais d'attirer moins de visiteurs d'un jour et plus de visiteurs qui restent.* Рекламу в далёких странах город, наоборот, прекратил."
+  - q: "Что Шарлин Ламбер хочет сказать фразой «Il ne voit pas la ville, il la consomme» ?"
+    options: ["Однодневный турист видит город поверхностно, как товар.", "Туристы тратят в городе слишком много денег.", "Туристы плохо ориентируются в городе."]
+    answer: 0
+    explain: "Перед этим — три часа, фото, вафля и отъезд: город превращается в продукт потребления."
+  - q: "Почему Анри Вассёру не нравится слово «surtourisme» ?"
+    options: ["Оно неточно описывает ситуацию в августе.", "Оно представляет туризм как болезнь.", "Оно пришло из английского."]
+    answer: 1
+    explain: "*il donne l'impression que le tourisme est une maladie* — а без туристов закрылись бы магазины, отели, рестораны."
+  - q: "Какую проблему Брюгге гид считает главной?"
+    options: ["Центр покидают жители из-за краткосрочной аренды.", "В городе слишком много булочных.", "Туристы не покупают шоколад."]
+    answer: 0
+    explain: "*bien des habitants ont quitté le centre, parce que les appartements sont devenus des locations de courte durée… Une ville sans habitants, c'est un décor.*"
+  - q: "В чём Анри Вассёр соглашается с Шарлин Ламбер?"
+    options: ["Нужна входная плата.", "Краткосрочную аренду нужно регулировать.", "Число туристов надо строго ограничить."]
+    answer: 1
+    explain: "*Là, je vous rejoins. Les locations de courte durée posent un vrai problème, et il faut les encadrer.* С ограничением числа туристов он не согласен."
+  - q: "Чего он опасается при ограничении числа туристов?"
+    options: ["Что красивые города станут доступны только богатым.", "Что туристы поедут в Брюгге вместо Анси.", "Что отели подорожают из-за налогов."]
+    answer: 0
+    explain: "*On risque de réserver les plus belles villes à ceux qui ont les moyens de payer.*"
+  - q: "Какое решение предлагают оба гостя?"
+    options: ["Распределять туристов во времени и по менее известным местам.", "Ввести входную плату, как в Венеции.", "Запретить круизные лайнеры."]
+    answer: 0
+    explain: "Она: *étaler les visites… faire découvrir d'autres quartiers, d'autres villes*. Он: *Sur ce point, nous sommes d'accord… il existe un Paris des quartiers que les touristes ne voient jamais.*"
+  - q: "Итоговая позиция Шарлин Ламбер?"
+    options: ["Ограничивать никогда не нужно.", "Ограничивать только там, где городу грозит гибель, а главное — менять способ путешествовать.", "Ограничивать везде и сразу."]
+    answer: 1
+    explain: "*limiter là où c'est nécessaire, quand une ville risque de mourir. Mais l'essentiel, c'est de changer notre façon de voyager.*"

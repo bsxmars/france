@@ -1,0 +1,62 @@
+title: "Autrui, ce grand oublié ?"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Позицию автора ищи после toutefois, or, mais; уступку — после certes и aussi… soient-ils."
+  - "Следи за объёмом: aucun, nul, tous, chacun, certains."
+text: |
+  ## Autrui, ce grand oublié ?
+
+  *On répète à l'envi que nos sociétés sont devenues individualistes. Le constat mérite pourtant d'être nuancé.*
+
+  Quiconque a pris le métro aux heures de pointe connaît la scène : chacun fixe son écran, nul ne croise le regard de son voisin, et l'on s'excuse à peine lorsqu'on le bouscule. De tels moments semblent confirmer un diagnostic que certains sociologues posent depuis des décennies : nous vivrions à l'ère du « chacun pour soi », où autrui ne serait plus qu'un obstacle ou, au mieux, un décor.
+
+  Ce tableau, aussi répandu soit-il, n'est toutefois pas tout à fait exact. Les chiffres du bénévolat racontent une tout autre histoire. En France, près d'une personne sur quatre consacre chaque année quelques heures à une association, et cette proportion n'a pratiquement pas baissé depuis vingt ans. Certes, les formes de l'engagement ont changé : on s'investit moins dans un parti ou un syndicat, davantage dans des actions ponctuelles et concrètes. Mais qui oserait dire que celui qui distribue des repas un soir par semaine se désintéresse des autres ?
+
+  Le même paradoxe s'observe dans la vie quotidienne. Les applications de voisinage, que d'aucuns accusaient de remplacer les vraies rencontres, servent en réalité à prêter une perceuse, à garder un chat, à aider une personne âgée à porter ses courses. Rien de spectaculaire, sans doute ; rien d'anodin non plus. Ces gestes minuscules tissent un lien qu'aucune institution ne pourrait imposer par décret.
+
+  Faut-il en conclure que tout va bien ? Évidemment pas. L'individualisme contemporain n'est pas l'égoïsme, mais il a un prix : chacun veut choisir ses solidarités, et l'on aide plus volontiers ceux qui nous ressemblent. Le bénévole engagé auprès des sans-abri de son quartier ne connaît souvent aucun de ses voisins de palier. Tout se passe comme si la générosité était devenue une affaire de goût personnel, au même titre que la musique ou la cuisine. Or une société ne tient pas seulement grâce à des élans individuels, aussi sincères soient-ils ; elle repose sur des règles communes que tous acceptent, y compris lorsqu'ils n'en tirent aucun avantage immédiat.
+
+  C'est là que le débat devient politique. Payer ses impôts, respecter une file d'attente, baisser la musique après vingt-deux heures : autant de formes discrètes de respect d'autrui, auxquelles personne ne pense quand on parle d'engagement. Elles sont pourtant le socle de toute vie collective. Une telle solidarité, anonyme, sans visage ni récompense, est peut-être la plus précieuse de toutes, précisément parce qu'elle ne s'adresse à personne en particulier.
+
+  On aurait donc tort d'opposer un passé solidaire à un présent égoïste. Les mêmes individus qui s'ignorent dans le métro sont capables, le soir même, de se mobiliser pour un inconnu. La vraie question n'est pas de savoir si nous nous soucions encore des autres, mais de quels autres nous nous soucions. Tout l'enjeu des années à venir sera d'élargir ce cercle : passer du « chacun pour soi » non pas au « tous pareils », mais au « chacun pour tous ».
+items:
+  - q: "Зачем автор начинает со сцены в метро?"
+    options: ["Чтобы доказать, что общество стало эгоистичным.", "Чтобы показать распространённый диагноз, который он затем оспорит.", "Чтобы пожаловаться на неудобства общественного транспорта."]
+    answer: 1
+    explain: "Сцена «подтверждает диагноз» социологов (*semblent confirmer*), но уже следующий абзац начинается с возражения: *Ce tableau… n'est **toutefois** pas tout à fait exact.* Глагол *sembler* и условное *nous vivrions* показывают: это чужая позиция."
+  - q: "Как автор относится к тезису «chacun pour soi»?"
+    options: ["Полностью разделяет его.", "Считает его распространённым, но неточным.", "Считает его выдумкой журналистов."]
+    answer: 1
+    explain: "*Ce tableau, **aussi répandu soit-il**, n'est toutefois **pas tout à fait** exact.* — признание распространённости (уступка) + смягчённое несогласие (*pas tout à fait* — «не вполне»)."
+  - q: "Vrai / faux / on ne sait pas: сегодня французы активнее, чем раньше, участвуют в партиях и профсоюзах."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*on s'investit **moins** dans un parti ou un syndicat, davantage dans des actions ponctuelles* — неверно: участие в партиях снизилось."
+  - q: "Что автор хочет сказать фразой «Rien de spectaculaire, sans doute ; rien d'anodin non plus»?"
+    options: ["Соседская помощь скромна, но по-настоящему важна.", "Приложения для соседей бесполезны.", "Мелкие услуги ничего не меняют в обществе."]
+    answer: 0
+    explain: "*rien de + прилагательное* — «ничего такого»: «ничего зрелищного — но и ничего незначительного». Следующая фраза поясняет: *ces gestes minuscules tissent un lien*. Вариант «бесполезны» — мнение тех, кого автор называет *d'aucuns*."
+  - q: "В чём, по мнению автора, «цена» современного индивидуализма?"
+    options: ["Люди перестали помогать друг другу.", "Каждый выбирает, кому помогать, и охотнее помогает похожим на себя.", "Волонтёрство стало платным."]
+    answer: 1
+    explain: "*chacun veut choisir ses solidarités, et l'on aide plus volontiers ceux qui nous ressemblent.* Автор прямо говорит, что индивидуализм — **не** эгоизм, поэтому первый вариант неверен."
+  - q: "Vrai / faux / on ne sait pas: волонтёр, помогающий бездомным, обычно хорошо знает соседей по лестничной клетке."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*ne connaît souvent **aucun** de ses voisins de palier* — «часто не знает ни одного»."
+  - q: "Почему анонимная солидарность (налоги, очередь, тишина) может быть самой ценной?"
+    options: ["Потому что за неё платят.", "Потому что она обращена не к кому-то конкретному, а ко всем.", "Потому что о ней много говорят."]
+    answer: 1
+    explain: "*précisément parce qu'elle ne s'adresse **à personne en particulier***. О ней, наоборот, не думают: *auxquelles **personne** ne pense*."
+  - q: "Какой вывод делает автор?"
+    options: ["Прошлое было солидарнее настоящего.", "Главное — не то, заботимся ли мы о других, а о каких других; круг нужно расширить.", "Нужно запретить телефоны в метро."]
+    answer: 1
+    explain: "*La vraie question n'est pas de savoir si nous nous soucions encore des autres, mais de quels autres…* и *Tout l'enjeu… sera d'élargir ce cercle.* Первый вариант автор прямо отвергает: *On aurait tort d'opposer un passé solidaire à un présent égoïste.*"
+  - q: "Впиши неопределённое местоимение из первой фразы текста: «___ a pris le métro aux heures de pointe connaît la scène»."
+    answers: ["Quiconque"]
+    explain: "**Quiconque** = «всякий, кто»: одно слово заменяет *celui qui*, глагол в 3-м лице ед. ч."
+  - q: "Впиши книжное «некоторые» из текста: «les applications de voisinage, que d'___ accusaient…»"
+    answers: ["aucuns"]
+    explain: "**d'aucuns** — книжное «некоторые, кое-кто», с утвердительным глаголом и без *ne*."

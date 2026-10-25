@@ -1,0 +1,41 @@
+title: "Annonce : la Nuit des musées"
+type: listening
+intro: "Объявление звучит один раз, как на экзамене. Прочитай вопросы заранее."
+hints:
+  - "Держи в голове цифры: часы, количество, интервалы."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c-06/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  La Nuit des musées revient ce samedi dans toute la ville. De dix-huit heures à deux heures du matin, chacun des vingt-trois musées participants vous ouvre ses portes gratuitement.
+
+  Aucune réservation n'est nécessaire, sauf pour les visites guidées du musée d'Histoire naturelle, limitées à vingt-cinq personnes chacune.
+
+  Des navettes relieront les différents sites toutes les quinze minutes. Les mêmes navettes vous ramèneront au centre-ville jusqu'à deux heures et demie.
+
+  Nouveauté de cette édition : tout visiteur qui fera tamponner son billet dans trois musées différents recevra une affiche de l'événement, dans la limite des stocks disponibles.
+
+  Attention : certains bâtiments anciens ne sont que partiellement accessibles aux personnes à mobilité réduite. Le programme complet est disponible sur le site de la ville.
+items:
+  - q: "Combien de musées participent à la Nuit des musées ? ___"
+    answers: ["vingt-trois", "23", "vingt trois"]
+    explain: "*chacun des **vingt-trois** musées participants vous ouvre ses portes* — *chacun des* + число."
+  - q: "Нужно ли бронировать?"
+    options: ["Да, во все музеи.", "Нет, кроме экскурсий в музее естественной истории.", "Только для групп больше 25 человек."]
+    answer: 1
+    explain: "*Aucune réservation n'est nécessaire, **sauf** pour les visites guidées du musée d'Histoire naturelle.* 25 — это размер группы на экскурсии."
+  - q: "Les navettes passent toutes les ___ minutes."
+    answers: ["quinze", "15"]
+    explain: "*toutes les **quinze** minutes* — *tous / toutes les* + время = периодичность."
+  - q: "До которого часа шаттлы отвозят в центр?"
+    options: ["до 2:00", "до 2:30", "до 18:00"]
+    answer: 1
+    explain: "*Les mêmes navettes vous ramèneront au centre-ville jusqu'à **deux heures et demie**.* 2:00 — конец работы музеев."
+  - q: "Что нужно сделать, чтобы получить афишу?"
+    options: ["Прийти до 18 часов.", "Отметить билет в трёх разных музеях.", "Записаться на сайте города."]
+    answer: 1
+    explain: "*tout visiteur qui fera tamponner son billet dans **trois** musées différents recevra une affiche* — *tout* + сущ. без артикля = «любой, каждый»."
+  - q: "Vrai / faux / on ne sait pas: все здания полностью доступны для людей с ограниченной подвижностью."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*certains bâtiments anciens **ne** sont **que** partiellement accessibles* — неверно."

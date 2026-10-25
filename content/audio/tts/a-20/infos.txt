@@ -1,0 +1,8 @@
+# rate: -5%
+# pause: 800
+H: Bonjour, il est midi, voici les nouvelles de la région.
+H: À Lausanne, ce matin, les pompiers ont sauvé un chat. L'animal est monté sur le toit d'une école de six étages et il est resté là-haut pendant toute la nuit. Les élèves ont applaudi les pompiers.
+H: À Montreux, le festival des bateaux anciens a commencé samedi. Plus de quatre-vingts bateaux sont arrivés sur le lac Léman, et dix mille visiteurs sont venus les voir. Les journaux locaux ont beaucoup parlé de ce beau spectacle.
+H: À Vevey, une habitante a trouvé un portefeuille avec huit cents francs dans la rue. Elle l'a apporté à la police. Le propriétaire, un touriste italien, a retrouvé son argent hier soir et il a offert des fleurs à la dame.
+H: À Genève, l'aéroport a accueilli hier son premier avion électrique. Le petit avion est parti de Zurich à huit heures et il est arrivé à Genève une heure plus tard, avec quatre passagers.
+H: La météo, maintenant : il a beaucoup neigé cette nuit dans les montagnes. Les routes sont dangereuses : soyez prudents !

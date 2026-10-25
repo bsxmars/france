@@ -1,0 +1,13 @@
+# rate: -15%
+# pause: 800
+D: Bonjour Sylvie ! Voici ma maison. Et voici ma chambre.
+E: Oh, cette chambre est grande ! C'est ta table ?
+D: Non, c'est la table de ma sœur. Ma sœur est à Lyon.
+E: Et ce sac, c'est ton sac ?
+D: Oui, c'est mon sac. Et voici mon chat, Max.
+E: Il est petit ! Il est malade ?
+D: Non, il est content. Il est sur sa chaise.
+E: Et ta sœur ? Elle est contente à Lyon ?
+D: Oui, elle est contente. Sa chambre est belle !
+E: Est-ce ta voiture, là ?
+D: Oui, c'est ma voiture. Elle est petite, mais elle est belle !

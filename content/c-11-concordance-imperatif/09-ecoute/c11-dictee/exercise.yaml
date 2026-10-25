@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "После глагола в прошедшем — imparfait, plus-que-parfait, conditionnel; общеизвестная истина остаётся в présent."
+  - "В императиве у глаголов на -er перед y и en появляется -s: vas-y, penses-y."
+items:
+  - audio: audio/tts/c-11/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Il m'a promis qu'il m'appellerait dès qu'il serait arrivé."]
+    explain: "«Он обещал мне, что позвонит, как только приедет». План прошедшего: futur → conditionnel présent (*appellerait*, два *l*), futur antérieur → conditionnel passé (*serait arrivé*)."
+  - audio: audio/tatoeba/472106.mp3
+    audio_source: {title: "Tatoeba #2046065", url: "https://tatoeba.org/fr/sentences/show/2046065", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je pensais que j'avais jusqu'à deux heures et demie.", "Je pensais que j'avais jusqu'à 2 h 30.", "Je pensais que j'avais jusqu'à 2h30.", "Je pensais que j'avais jusqu'à 14 h 30.", "Je pensais que j'avais jusqu'à 14h30."]
+    explain: "«Я думал, что у меня есть время до половины третьего». Одновременность в плане прошедшего → imparfait *avais*."
+  - audio: audio/tts/c-11/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Le professeur nous a rappelé que l'eau bout à cent degrés.", "Le professeur nous a rappelé que l'eau bout à 100 degrés."]
+    explain: "«Учитель напомнил нам, что вода кипит при ста градусах». Общеизвестная истина — **présent** и после прошедшего: *bout* (от *bouillir*)."
+  - audio: audio/tts/c-11/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Vas-y, mais penses-y bien avant de signer."]
+    explain: "«Давай, но хорошенько подумай, прежде чем подписывать». Перед *y* — *-s*: **vas-y**, **penses-y** (для благозвучия)."
+  - audio: audio/tts/c-11/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Ne leur en parlez pas avant la réunion de lundi."]
+    explain: "«Не говорите им об этом до собрания в понедельник». Отрицательный императив — обычный порядок местоимений перед глаголом: *ne leur en parlez pas*."
+  - audio: audio/tts/c-11/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Veuillez agréer, Madame, l'expression de mes salutations distinguées."]
+    explain: "Финальная формула официального письма: «Примите, мадам, уверения в моём глубоком уважении». **Veuillez** — застывший императив *vouloir*."
+  - audio: audio/tts/c-11/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Soyez rentrés avant minuit, sinon nous nous inquiéterons.", "Soyez rentrées avant minuit, sinon nous nous inquiéterons."]
+    explain: "«Вернитесь до полуночи, иначе мы будем волноваться». **Passé de l'impératif**: действие должно быть завершено к сроку; причастие согласуется с подлежащим (*rentrés / rentrées*)."
+  - audio: audio/tts/c-11/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Donne-m'en un peu, et garde le reste pour demain."]
+    explain: "«Дай мне немного, а остальное оставь на завтра». *moi* перед *en* → **m'en**: *donne-m'en*, не ~~donne-moi-en~~."

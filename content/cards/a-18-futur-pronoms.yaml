@@ -54,3 +54,23 @@
   lesson: a-18-futur-pronoms/02-grammaire
   q: "«Она умеет плавать», «Я не знаю, куда идти»."
   a: "*Elle **sait** nager* (savoir + инфинитив = уметь). *Je ne **sais** pas où aller.*"
+- id: a18-fete-surprise
+  lesson: a-18-futur-pronoms/07-lecture
+  q: "«Мы устроим ей праздник-сюрприз»."
+  a: "Nous **allons lui préparer** une fête surprise. *lui* — перед инфинитивом."
+- id: a18-offrir-lui
+  lesson: a-18-futur-pronoms/07-lecture
+  q: "«Мы подарим ей выходные в Брюсселе»."
+  a: "Nous allons **lui offrir** un week-end à Bruxelles. *offrir à qn* → *lui*."
+- id: a18-rez-de-chaussee
+  lesson: a-18-futur-pronoms/09-ecoute
+  q: "Русский «первый этаж» и «второй этаж» по-французски?"
+  a: "**le rez-de-chaussée** и **le premier étage**."
+- id: a18-garder-secret
+  lesson: a-18-futur-pronoms/09-ecoute
+  q: "«Мы только что с ними поговорили. Они сохранят тайну»."
+  a: "Nous **venons de leur parler**. Ils **vont garder** le secret."
+- id: a18-qui-apporte
+  lesson: a-18-futur-pronoms/08-ecriture
+  q: "«Принесёшь две бутылки сока и килограмм клубники?»"
+  a: "Tu apportes deux bouteilles **de** jus et un kilo **de** fraises ? — *de* без артикля."

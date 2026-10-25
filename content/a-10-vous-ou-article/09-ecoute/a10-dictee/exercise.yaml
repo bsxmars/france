@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и дефисы — важны."
+hints:
+  - "Форма vous пишется на -ez; исключения: êtes, faites, dites."
+  - "В инверсии — дефис: allez-vous, êtes-vous."
+items:
+  - audio: audio/tts/a-10/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Vous parlez très bien français.", "Vous parlez très bien le français."]
+    explain: "«Вы очень хорошо говорите по-французски». *vous parl**ez***; наречие *bien* после глагола, *très* перед *bien*."
+  - audio: audio/tts/a-10/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Où allez-vous ce soir ?"]
+    explain: "«Куда вы идёте сегодня вечером?» *où* + простая инверсия **allez-vous**."
+  - audio: audio/tts/a-10/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Vous arrivez de Lyon ?"]
+    explain: "«Вы приезжаете из Лиона?» **de** — откуда; связывание [вузаривэ]."
+  - audio: audio/tts/a-10/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Vous faites les exercices ?"]
+    explain: "«Вы делаете упражнения?» Исключение: **vous faites**, не ~~faisez~~."
+  - audio: audio/tts/a-10/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Tous les élèves sont là."]
+    explain: "«Все ученики здесь». **tous** + *les* + существительное мужского рода во мн. ч."
+  - audio: audio/tatoeba/472058.mp3
+    audio_source: {title: "Tatoeba #14077", url: "https://tatoeba.org/fr/sentences/show/14077", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Parlez-vous français ?"]
+    explain: "«Вы говорите по-французски?» Инверсия с *vous*: **parlez-vous**."
+  - audio: audio/tatoeba/474412.mp3
+    audio_source: {title: "Tatoeba #1250768", url: "https://tatoeba.org/fr/sentences/show/1250768", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Êtes-vous à la maison ?"]
+    explain: "«Вы дома?» Исключение **vous êtes** в инверсии: *êtes-vous*."
+  - audio: audio/tatoeba/474300.mp3
+    audio_source: {title: "Tatoeba #10191", url: "https://tatoeba.org/fr/sentences/show/10191", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Tout est calme."]
+    explain: "«Всё спокойно». **tout** без существительного — «всё»."
+  - audio: audio/tatoeba/472722.mp3
+    audio_source: {title: "Tatoeba #1275473", url: "https://tatoeba.org/fr/sentences/show/1275473", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Venez ici !"]
+    explain: "«Идите сюда!» Просьба на «вы» — форма *vous* без местоимения: **venez**."

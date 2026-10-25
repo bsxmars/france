@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "После предлога и после que в сравнении — ударное местоимение: chez eux, que moi."
+  - "Перед прилагательным во множественном числе — de: de beaux yeux."
+items:
+  - audio: audio/tts/a-24/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Mon frère est plus grand que moi."]
+    explain: "«Мой брат выше меня». После *que* в сравнении — ударное **moi**."
+  - audio: audio/tts/a-24/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Chez nous, l'hiver est plus long qu'en France."]
+    explain: "«У нас зима длиннее, чем во Франции». *que* + *en* → **qu'en**; *chez nous* — ударное после предлога."
+  - audio: audio/tts/a-24/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Ce restaurant est le meilleur du quartier."]
+    explain: "«Этот ресторан — лучший в квартале». *le meilleur* — превосходная степень от *bon*; «в квартале» — *du quartier*."
+  - audio: audio/tts/a-24/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Elle a de beaux yeux et de longs cheveux."]
+    explain: "«У неё красивые глаза и длинные волосы». Прилагательное перед существительным во мн. ч. → **de**, не *des*."
+  - audio: audio/tts/a-24/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Ce soir, je dîne chez eux, pas chez elle."]
+    explain: "«Сегодня вечером я ужинаю у них, а не у неё». После *chez* — ударные **eux**, **elle**."
+  - audio: audio/tts/a-24/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Le deuxième film est pire que le premier.", "Le 2e film est pire que le premier."]
+    explain: "«Второй фильм хуже первого». **pire** = *plus mauvais*."
+  - audio: audio/tatoeba/472885.mp3
+    audio_source: {title: "Tatoeba #4221828", url: "https://tatoeba.org/fr/sentences/show/4221828", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["C'est moi qui l'ai fait."]
+    explain: "«Это я сделал». После *c'est moi qui* глагол в 1-м лице: *qui **ai** fait*, не ~~qui a fait~~."
+  - audio: audio/tatoeba/473715.mp3
+    audio_source: {title: "Tatoeba #1313552", url: "https://tatoeba.org/fr/sentences/show/1313552", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je suis plus grand."]
+    explain: "«Я выше». *plus* + прилагательное; *que…* можно опустить, если ясно, с кем сравнивают."
+  - audio: audio/tatoeba/474908.mp3
+    audio_source: {title: "Tatoeba #5791977", url: "https://tatoeba.org/fr/sentences/show/5791977", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["J'ai besoin d'eux."]
+    explain: "«Они мне нужны». *avoir besoin **de*** + ударное: *de* + *eux* → **d'eux**."

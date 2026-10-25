@@ -1,0 +1,79 @@
+title: "Cap sur demain : six mois près de la Lune"
+type: listening
+intro: "Послушай радиоинтервью с астронавтом (дважды) и ответь на вопросы."
+hints:
+  - "Futur и futur antérieur — план миссии; conditionnel после прошедшего — то, что он думал раньше."
+  - "Quand / une fois que + futur antérieur — что должно произойти сначала."
+audio: audio/tts/c-09/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural, fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour à tous. Dans « Cap sur demain », nous recevons aujourd'hui Marc Rochat, ingénieur et astronaute suisse, qui fait partie de l'équipage sélectionné pour une mission de longue durée en orbite autour de la Lune. Marc Rochat, bonjour. Quand partez-vous ?
+
+  **Marc Rochat :** Bonjour. Si tout se passe comme prévu, le lancement a lieu dans trois ans, au printemps. Mais dans ce métier, les dates bougent souvent : je ne serai vraiment sûr de partir que lorsque je serai assis dans la capsule.
+
+  **Journaliste :** Vous rêviez de l'espace depuis l'enfance ?
+
+  **Marc Rochat :** Pas du tout, et c'est ce qui amuse ma famille. Enfant, j'étais persuadé que je deviendrais vétérinaire. À dix-huit ans, j'allais m'inscrire en biologie quand un professeur de physique m'a convaincu de tenter une école d'ingénieurs. Si on m'avait dit alors que je partirais un jour vers la Lune, j'aurais éclaté de rire.
+
+  **Journaliste :** Comment se déroulera la mission ?
+
+  **Marc Rochat :** Le voyage aller durera environ cinq jours. Une fois que nous nous serons amarrés à la station, nous y resterons six mois. Nous mènerons surtout des expériences sur les effets des radiations et de l'isolement sur le corps humain. Ce sont des données dont on aura absolument besoin le jour où l'on enverra des équipages vers Mars.
+
+  **Journaliste :** Six mois, c'est long. Comment vous y préparez-vous ?
+
+  **Marc Rochat :** Nous nous entraînons depuis deux ans déjà. L'année prochaine, nous passerons quatre semaines enfermés dans un module, au fond d'une grotte, sans voir la lumière du jour. Quand nous en sortirons, nous aurons appris à vivre ensemble dans un espace de la taille d'un studio, et surtout à régler les conflits avant qu'ils ne deviennent graves.
+
+  **Journaliste :** Qu'est-ce qui vous fait le plus peur ?
+
+  **Marc Rochat :** Honnêtement, ce n'est pas le décollage. Ce sont les petites choses : une dispute qui s'envenime, une mauvaise nouvelle de la Terre à laquelle je ne pourrai pas répondre tout de suite. Ma fille aura onze ans quand je partirai. Je sais que je manquerai son anniversaire, et probablement sa première rentrée au collège.
+
+  **Journaliste :** Elle comprend ?
+
+  **Marc Rochat :** Elle dit qu'elle me regardera passer dans le ciel avec un télescope. Nous nous parlerons par vidéo une fois par semaine. Et je lui ai promis une chose : à mon retour, je l'emmènerai voir l'endroit d'où je serai parti.
+
+  **Journaliste :** Qu'est-ce que vous emporterez à bord ?
+
+  **Marc Rochat :** Nous avons droit à un kilo et demi d'objets personnels, pas plus. J'emporterai des photos, un recueil de poèmes que mon grand-père m'avait offert, et du chocolat suisse, évidemment ! Mes collègues m'ont déjà prévenu qu'ils en réclameraient leur part.
+
+  **Journaliste :** On dit que la vue de la Terre depuis l'espace transforme ceux qui partent. Vous y croyez ?
+
+  **Marc Rochat :** Tous ceux qui sont revenus le disent, alors je les crois. Je me doute qu'en voyant la Terre de si loin, je comprendrai à quel point elle est petite et fragile. Peut-être que je reviendrai un peu différent. Ma femme me l'a dit en riant : elle verra bien, elle, si j'ai changé.
+
+  **Journaliste :** Et après la mission, que ferez-vous ?
+
+  **Marc Rochat :** D'abord, je réapprendrai à marcher ! Après six mois en apesanteur, les muscles et les os s'affaiblissent ; il faudra plusieurs semaines de rééducation. Ensuite, je reprendrai mon travail d'ingénieur. Quand on aura analysé toutes nos données, dans deux ou trois ans, on saura si notre mission a vraiment été utile. C'est cela qui compte pour moi : pas d'avoir été là-haut, mais d'avoir ouvert un peu la route à ceux qui iront plus loin.
+
+  **Journaliste :** Marc Rochat, merci, et bon vol… dans trois ans !
+items:
+  - q: "Когда старт миссии?"
+    options: ["Через три года весной, но дата может сдвинуться.", "Ровно через три года, это окончательно.", "Следующей весной."]
+    answer: 0
+    explain: "*le lancement **a lieu** dans trois ans* — présent вместо будущего для запланированного события; но *les dates bougent souvent : je ne serai vraiment sûr… que lorsque je serai assis dans la capsule.*"
+  - q: "Кем Марк Роша хотел стать в детстве?"
+    options: ["астронавтом", "ветеринаром", "учителем физики"]
+    answer: 1
+    explain: "*j'étais persuadé que je **deviendrais** vétérinaire* — futur dans le passé: так он думал тогда."
+  - q: "Что произошло, когда ему было восемнадцать?"
+    options: ["Он поступил на биологический факультет.", "Он собирался поступать на биологию, но учитель физики убедил его пойти в инженерную школу.", "Он прошёл отбор в астронавты."]
+    answer: 1
+    explain: "*j'**allais** m'inscrire en biologie **quand** un professeur de physique m'a convaincu…* — *allait + infinitif* = несостоявшееся действие, прерванное событием."
+  - q: "Сколько продлятся полёт и пребывание на станции?"
+    options: ["пять дней полёта и шесть месяцев на станции", "шесть дней полёта и пять месяцев на станции", "полгода полёта"]
+    answer: 0
+    explain: "*Le voyage aller durera environ cinq jours. Une fois que nous **nous serons amarrés** à la station, nous y resterons six mois.*"
+  - q: "Чему они должны научиться за четыре недели в пещере?"
+    options: ["Ориентироваться в темноте.", "Жить вместе в тесном пространстве и улаживать конфликты, пока они не обострились.", "Работать без связи с Землёй."]
+    answer: 1
+    explain: "*Quand nous en sortirons, nous **aurons appris** à vivre ensemble… et surtout à régler les conflits avant qu'ils ne deviennent graves.*"
+  - q: "Что пугает его больше всего?"
+    options: ["взлёт", "мелочи: ссора, плохая новость с Земли", "радиация"]
+    answer: 1
+    explain: "*Honnêtement, ce n'est pas le décollage. Ce sont les petites choses…* Взлёт назван, чтобы его отбросить."
+  - q: "Что он пообещал дочери?"
+    options: ["Звонить каждый день.", "Показать ей место, откуда он стартует.", "Взять её с собой в следующий полёт."]
+    answer: 1
+    explain: "*je l'emmènerai voir l'endroit d'où je **serai parti*** — futur antérieur: к моменту возвращения старт будет в прошлом. Связь — *une fois par semaine*, не каждый день."
+  - q: "Что для него главное в миссии?"
+    options: ["Побывать в космосе.", "Проложить путь тем, кто полетит дальше.", "Вернуться известным."]
+    answer: 1
+    explain: "*pas d'avoir été là-haut, mais d'avoir ouvert un peu la route à ceux qui iront plus loin.*"

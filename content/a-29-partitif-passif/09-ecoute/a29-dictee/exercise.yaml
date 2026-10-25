@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "После отрицания — de: pas de café, jamais de pain."
+  - "В пассиве причастие согласуется с подлежащим."
+items:
+  - audio: audio/tts/a-29/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Il faut acheter du pain, de la viande et des œufs.", "Il faut acheter du pain, de la viande et des oeufs."]
+    explain: "«Надо купить хлеба, мяса и яиц». Частичный артикль *du, de la*; яйца считают — *des œufs*."
+  - audio: audio/tts/a-29/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Je ne bois jamais de café le soir."]
+    explain: "«Я никогда не пью кофе вечером». После *ne… jamais* — **de**, не *du*."
+  - audio: audio/tts/a-29/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Ce roman a été écrit par une jeune Québécoise."]
+    explain: "«Этот роман написала молодая жительница Квебека». Пассив *a été écrit par*; *Québécoise* — с заглавной, это жительница."
+  - audio: audio/tts/a-29/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Les journaux et les cadeaux sont vendus à l'entrée."]
+    explain: "«Газеты и подарки продаются у входа». *journal → journaux*, *cadeau → cadeaux*; *vendus* согласуется с подлежащим."
+  - audio: audio/tts/a-29/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Nous devons ouvrir les fenêtres."]
+    explain: "«Нам нужно открыть окна». *devoir* + инфинитив: *nous devons ouvrir*."
+  - audio: audio/tts/a-29/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Elle m'a offert de belles fleurs."]
+    explain: "«Она подарила мне красивые цветы». *offrir → offert*; перед прилагательным во мн. ч. — *de belles*."
+  - audio: audio/tatoeba/473843.mp3
+    audio_source: {title: "Tatoeba #2723492", url: "https://tatoeba.org/fr/sentences/show/2723492", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je mange du pain."]
+    explain: "«Я ем хлеб». *du pain* — часть, «хлеба», а не весь хлеб на свете."
+  - audio: audio/tatoeba/472043.mp3
+    audio_source: {title: "Tatoeba #5626922", url: "https://tatoeba.org/fr/sentences/show/5626922", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Le public a été averti le 20 octobre.", "Le public a été averti le vingt octobre."]
+    explain: "«Публику предупредили 20 октября». Пассив в passé composé: *a été* + *averti*; деятель не назван."
+  - audio: audio/tatoeba/472053.mp3
+    audio_source: {title: "Tatoeba #6396105", url: "https://tatoeba.org/fr/sentences/show/6396105", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Nous espérons ouvrir en octobre."]
+    explain: "«Мы надеемся открыться в октябре». *ouvrir* после *espérer* — инфинитив без предлога."

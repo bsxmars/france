@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Числа можно писать цифрами или словами. Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "en стоит перед глаголом: j'en ai, nous en voulons."
+  - "Повелительное être: sois, soyez."
+items:
+  - audio: audio/tts/a-16/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Oui, j'en ai deux.", "Oui, j'en ai 2."]
+    explain: "«Да, у меня их два (две)». *en* заменяет существительное, число — в конце."
+  - audio: audio/tts/a-16/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Il y a vingt-deux élèves dans cette classe.", "Il y a 22 élèves dans cette classe."]
+    explain: "«В этом классе двадцать два ученика». *vingt-deux* — с дефисом, *t* в *vingt* звучит [vɛ̃t-dø]."
+  - audio: audio/tts/a-16/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Ne mets pas ton manteau, il fait chaud."]
+    explain: "«Не надевай пальто, жарко». *mets* — повелительное от *mettre*; *mettre* «надевать»."
+  - audio: audio/tts/a-16/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Soyez prudents sur la route !", "Soyez prudentes sur la route !", "Soyez prudent sur la route !", "Soyez prudente sur la route !"]
+    explain: "«Будьте осторожны на дороге!» ***soyez*** [swa-je] — повелительное от *être*; окончание *prudent* на слух не слышно — подходит любой род и число."
+  - audio: audio/tts/a-16/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Elle a quarante et un ans.", "Elle a 41 ans.", "Elle a quarante-et-un ans."]
+    explain: "«Ей сорок один год». *quarante **et** un* — без дефиса (реформа 1990 года разрешает *quarante-et-un*); возраст — с *avoir*."
+  - audio: audio/tatoeba/474962.mp3
+    audio_source: {title: "Tatoeba #6486672", url: "https://tatoeba.org/fr/sentences/show/6486672", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Nous en voulons un.", "Nous en voulons 1."]
+    explain: "«Мы хотим один (одну штуку)». *en* перед глаголом, *un* в утвердительном ответе повторяется в конце."
+  - audio: audio/tatoeba/472712.mp3
+    audio_source: {title: "Tatoeba #1148020", url: "https://tatoeba.org/fr/sentences/show/1148020", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["J'ai trente ans.", "J'ai 30 ans."]
+    explain: "«Мне тридцать лет». Возраст — *avoir … ans*, не ~~je suis trente ans~~."
+  - audio: audio/tatoeba/472768.mp3
+    audio_source: {title: "Tatoeba #1916590", url: "https://tatoeba.org/fr/sentences/show/1916590", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Sois calme !"]
+    explain: "«Успокойся! / Будь спокойнее!» ***sois*** [swa] — повелительное от *être* на «ты»."
+  - audio: audio/tatoeba/473174.mp3
+    audio_source: {title: "Tatoeba #6468597", url: "https://tatoeba.org/fr/sentences/show/6468597", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Soyez à l'heure."]
+    explain: "«Приходите вовремя». ***soyez*** — повелительное *être* на «вы»; *à l'heure* — «вовремя»."

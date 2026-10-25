@@ -1,0 +1,12 @@
+# rate: -15%
+# pause: 800
+A: Regarde, c'est la photo de ma famille.
+B: Oh, c'est ton père ?
+A: Oui, c'est mon père. Il est médecin. Il habite à Lyon.
+B: Et la jeune fille, c'est ta sœur ?
+A: Non, ce n'est pas ma sœur. C'est la fille de ma tante. Elle s'appelle Chloé.
+B: Elle est étudiante ?
+A: Non, elle n'est pas étudiante. Elle est pianiste !
+B: Et ta mère ?
+A: Ma mère est architecte. Elle est à Paris avec mes frères.
+B: Ta famille est grande !

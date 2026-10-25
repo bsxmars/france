@@ -1,0 +1,61 @@
+title: "Autrice, cheffe, pompière : la langue en retard d'une révolution ?"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем впиши слово или форму из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Отделяй позицию автора от мнений, которые он пересказывает (кондиционал, les adversaires invoquent…)."
+text: |
+  ## Autrice, cheffe, pompière : la langue en retard d'une révolution ?
+
+  *Longtemps jugés « barbares », les noms de métiers au féminin se sont imposés en une génération. Reste à savoir si changer les mots suffit à changer les mentalités.*
+
+  Il y a trente ans, une femme qui dirigeait un ministère se faisait appeler « Madame le ministre », et celle qui écrivait des romans était, au mieux, « un auteur ». En 2019, l'Académie française, qui s'y était opposée pendant des décennies, a fini par admettre qu'il n'existait aucun obstacle de principe à la féminisation des noms de métiers. Aujourd'hui, on lit sans sourciller qu'une autrice a reçu le prix Goncourt, qu'une cheffe étoilée ouvre un restaurant à Lyon ou qu'une professeure des écoles a été nommée inspectrice.
+
+  Ces formes ne sont pourtant pas toutes nouvelles. *Autrice* figurait déjà dans des textes du XVIe siècle, avant d'être chassée par les grammairiens du siècle suivant, pour qui certaines fonctions — écrire, juger, gouverner — relevaient par nature du masculin. Ce que l'on présente comme une invention moderne est souvent une restauration. La langue, elle, disposait depuis toujours des outils nécessaires : un changement d'article (*une juge, une ministre*), un *e* final (*une avocate, une députée*), un suffixe (*une directrice, une ambassadrice*). Le français n'a rien inventé ; il a simplement cessé de s'interdire ce qu'il savait faire.
+
+  Restent les cas épineux. Faut-il dire *une professeur* ou *une professeure*, *une écrivain* ou *une écrivaine* ? La France a longtemps hésité là où le Québec, la Suisse et la Belgique avaient tranché bien plus tôt, en adoptant le *e* final. Certains mots passent mieux que d'autres : on accepte volontiers *une pompière*, mais *une médecin* reste plus fréquente que *une médecine*, qui désigne déjà une discipline. Inversement, des couples anciens se sont figés dans des sens différents : *une maîtresse* n'est pas l'équivalent d'*un maître*, et *une gouvernante* ne gouverne aucune région. C'est souvent l'usage, et non la règle, qui finit par trancher.
+
+  Les adversaires de la féminisation invoquent deux arguments. Le premier est esthétique : *cheffe* ou *autrice* « sonneraient mal ». Mais l'oreille s'habitue à tout — *actrice* et *directrice* ne choquent plus personne. Le second est plus sérieux : le masculin serait en français une forme « neutre », capable de désigner aussi bien les hommes que les femmes. Plusieurs études de psycholinguistique ont pourtant montré que, lorsqu'on demande de citer « un écrivain célèbre », les personnes interrogées pensent d'abord à des hommes. Le prétendu neutre n'est pas perçu comme tel.
+
+  Faut-il pour autant croire que les mots transforment la réalité ? Rien n'est moins sûr. Les sages-femmes, dont le métier est l'un des plus féminisés, n'ont pas attendu la grammaire pour exister — et les hommes qui exercent cette profession s'appellent toujours, faute de mieux, des sages-femmes ou des maïeuticiens. À l'inverse, on peut dire *une cheffe d'orchestre* et constater que les femmes ne dirigent encore qu'une infime partie des concerts. La langue rend visible ; elle ne rend pas égal.
+
+  C'est peut-être là le vrai enjeu. Nommer une réalité, c'est reconnaître qu'elle existe, et une petite fille qui entend parler d'une astronaute ou d'une chirurgienne peut plus facilement s'imaginer à leur place. Mais ce bénéfice symbolique ne dispense pas de l'essentiel : les écarts de salaire, les carrières interrompues, les postes de direction encore largement réservés aux hommes. Les mots ont fait leur révolution ; il reste à la société de faire la sienne.
+items:
+  - q: "Что изменилось в позиции Французской академии?"
+    options: ["В 2019 году она признала, что принципиальных препятствий для феминизации нет.", "Она всегда поддерживала феминизацию названий профессий.", "Она запретила форму autrice."]
+    answer: 0
+    explain: "*l'Académie française, qui s'y était opposée pendant des décennies, a fini par admettre qu'il n'existait aucun obstacle de principe* — *finir par* = «в конце концов», то есть раньше она была против."
+  - q: "Vrai / faux / on ne sait pas: форма autrice появилась в XX веке."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*Autrice figurait déjà dans des textes du XVIe siècle* — неверно: форма старая, её вытеснили грамматисты XVII века."
+  - q: "Что автор хочет сказать фразой «Le français n'a rien inventé» ?"
+    options: ["Французский заимствовал женские формы из других языков.", "Средства образовать женский род (артикль, -e, суффикс) в языке были всегда.", "Новые формы — неудачные изобретения."]
+    answer: 1
+    explain: "Перед этим перечислены три старых способа: *un changement d'article, un e final, un suffixe*. Язык просто *cessé de s'interdire ce qu'il savait faire*."
+  - q: "Почему, по статье, une médecine не прижилась?"
+    options: ["Слово уже означает дисциплину — медицину.", "Академия его запретила.", "Квебек выбрал другую форму."]
+    answer: 0
+    explain: "*une médecin reste plus fréquente que une médecine, qui désigne déjà une discipline* — мешает омоним."
+  - q: "Зачем автор упоминает maîtresse и gouvernante?"
+    options: ["Чтобы показать, что старые пары мужского и женского рода могли разойтись по смыслу.", "Чтобы привести примеры удачной феминизации.", "Чтобы доказать, что женские формы звучат плохо."]
+    answer: 0
+    explain: "*des couples anciens se sont figés dans des sens différents* — *maîtresse* ≠ женский вариант *maître* во всех смыслах, *gouvernante* — не «губернаторша»."
+  - q: "Как автор относится к «эстетическому» аргументу противников?"
+    options: ["Считает его серьёзным.", "Считает его слабым: ухо ко всему привыкает.", "Не высказывает мнения."]
+    answer: 1
+    explain: "Кондиционал *sonneraient mal* — чужое мнение; ответ автора: *Mais l'oreille s'habitue à tout*. Второй аргумент он прямо называет *plus sérieux* — значит, первый несерьёзный."
+  - q: "Что показали психолингвистические исследования?"
+    options: ["Мужской род воспринимается как действительно нейтральный.", "Мужской род вызывает в первую очередь образ мужчин.", "Женские формы плохо понимают."]
+    answer: 1
+    explain: "*les personnes interrogées pensent d'abord à des hommes. Le **prétendu** neutre n'est pas perçu comme tel* — *prétendu* («так называемый») выдаёт скепсис автора."
+  - q: "Какую мысль иллюстрирует пример с sages-femmes и cheffe d'orchestre?"
+    options: ["Грамматика меняет общество.", "Слова сами по себе не меняют реальность.", "Мужчинам нельзя работать акушерами."]
+    answer: 1
+    explain: "Тезис — *Rien n'est moins sûr* (что слова меняют реальность). Профессия акушерки существовала без грамматики, а *une cheffe d'orchestre* не дала женщинам дирижировать чаще: *La langue rend visible ; elle ne rend pas égal.*"
+  - q: "Впиши форму мн. ч. из текста: une sage-femme → des ___."
+    answers: ["sages-femmes"]
+    explain: "Составное из прилагательного и существительного: изменяются **оба** элемента — *des sages-femmes*."
+  - q: "Найди в тексте выражение «не моргнув глазом»: sans ___."
+    answers: ["sourciller"]
+    explain: "**sans sourciller** — не удивляясь, не моргнув глазом (*sourciller* — повести бровью)."

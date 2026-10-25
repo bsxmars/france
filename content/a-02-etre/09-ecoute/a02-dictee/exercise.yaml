@@ -1,0 +1,53 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком (или выбери вариант). Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "Il est [i-lɛ] — один, ils sont [il-sɔ̃] — несколько."
+  - "Перед гласной — элизия: c'est, l'école; cet и cette звучат одинаково."
+items:
+  - audio: audio/tts/a-02/elle.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Elle est contente.", "Elles sont contentes."]
+    answer: 0
+    explain: "[ɛ-lɛ] — **elle est**, одна. *contente* и *contentes* звучат одинаково — число слышно по глаголу."
+  - audio: audio/tts/a-02/elles.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Elle est contente.", "Elles sont contentes."]
+    answer: 1
+    explain: "[ɛl-sɔ̃] — **elles sont**, несколько. Окончание *-s* у *elles* и *contentes* не слышно."
+  - audio: audio/tts/a-02/estce.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["C'est ta chaise.", "Est-ce ta chaise ?"]
+    answer: 1
+    explain: "Фраза начинается с [ɛs] и голос идёт вверх — это вопрос **Est-ce ta chaise ?** «Это твой стул?». *C'est* начиналось бы с [sɛ]."
+  - audio: audio/tts/a-02/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Cette chambre est grande."]
+    explain: "«Эта комната большая». *chambre* женского рода → *cette* и *grande*."
+  - audio: audio/tts/a-02/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Nous sommes chez mon amie.", "Nous sommes chez mon ami."]
+    explain: "«Мы у моей подруги (моего друга)». *mon amie* и *mon ami* звучат одинаково: перед гласной и у женского рода — *mon*."
+  - audio: audio/tts/a-02/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["C'est son chat."]
+    explain: "«Это его (её) кот». *chat* мужского рода → *son*, кто бы ни был владельцем."
+  - audio: audio/tts/a-02/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Cet ami est malade.", "Cette amie est malade."]
+    explain: "«Этот друг (эта подруга) болен (больна)». *cet ami* и *cette amie* звучат одинаково — [sɛ-ta-mi], а *malade* не меняется."
+  - audio: audio/tatoeba/474422.mp3
+    audio_source: {title: "Tatoeba #1313561", url: "https://tatoeba.org/fr/sentences/show/1313561", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["C'est mon emploi."]
+    explain: "«Это моя работа». *l'emploi* — мужского рода, поэтому *mon*."
+  - audio: audio/tatoeba/472872.mp3
+    audio_source: {title: "Tatoeba #3225649", url: "https://tatoeba.org/fr/sentences/show/3225649", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Elle est ici."]
+    explain: "«Она здесь». *est* связывается с *ici*: [ɛ-lɛ-ti-si]."
+  - audio: audio/tatoeba/473893.mp3
+    audio_source: {title: "Tatoeba #4694615", url: "https://tatoeba.org/fr/sentences/show/4694615", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Il est jeune."]
+    explain: "«Он молодой». *jeune* — со звуком [ʒ], как мягкое «ж»; связка *est* обязательна."

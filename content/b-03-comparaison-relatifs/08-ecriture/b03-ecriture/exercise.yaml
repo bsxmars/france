@@ -1,0 +1,36 @@
+title: "Forum : ville ou campagne ?"
+type: writing
+intro: "Напиши сообщение на форум по плану урока."
+prompt: |
+  Sur le forum du magazine *Vivre mieux*, on lit : « Le télétravail permet enfin de quitter les grandes villes. Pourquoi rester en ville en 2026 ? »
+
+  Vous répondez en donnant votre opinion argumentée, appuyée sur des exemples précis.
+
+  Напиши **200–280 слов**.
+words: [200, 280]
+target_grammar:
+  - "сравнение: plus / moins / aussi… que, autant de… que, meilleur / mieux"
+  - "относительные: où, dont, lequel / auquel, ce à quoi"
+  - "выделение: c'est… qui / que, ce qui… c'est"
+checklist:
+  - "Во вступлении ясно названа позиция."
+  - "Два довода, у каждого — конкретный пример."
+  - "Есть уступка (certes… mais / il est vrai que… pourtant)."
+  - "Хотя бы два сравнения и одно meilleur / mieux."
+  - "Хотя бы два относительных местоимения, одно из них — dont или lequel."
+  - "Хотя бы одно выделение c'est… qui / que или ce qui… c'est."
+  - "Вывод и регистр форума: вежливо, без разговорных сокращений."
+model_answer: |
+  Bonjour à tous,
+
+  Je comprends ceux qui rêvent de quitter la ville, mais pour ma part, je crois que la grande ville reste le meilleur choix pour beaucoup d'entre nous.
+
+  D'abord, ce qui compte le plus dans une vie, ce sont les rencontres. À Lyon, où j'habite depuis dix ans, je peux voir un film en version originale, suivre un cours de théâtre ou découvrir une exposition le même soir. Dans le village de mes grands-parents, le cinéma le plus proche est à quarante kilomètres.
+
+  Ensuite, le télétravail n'est pas une solution pour tout le monde. Les infirmiers, les vendeurs ou les cuisiniers, dont on a tant parlé pendant la crise sanitaire, ne peuvent pas travailler depuis leur salon. C'est pour eux que les services de la ville sont indispensables : transports, crèches, hôpitaux.
+
+  Certes, les loyers sont bien plus élevés qu'à la campagne, et l'air y est moins pur. Mais la voiture, à laquelle on ne pense pas toujours, coûte cher elle aussi : à la campagne, une famille en a souvent besoin de deux. Au total, la différence est moins grande qu'on ne le croit.
+
+  En définitive, il vaut mieux choisir son lieu de vie selon ses besoins que de suivre une mode. Ce que la ville offre, c'est la liberté de ne pas tout prévoir. Et cette liberté, je ne suis pas prêt à y renoncer.
+
+  Marc, Lyon

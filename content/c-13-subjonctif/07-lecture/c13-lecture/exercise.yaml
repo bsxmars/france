@@ -1,0 +1,63 @@
+title: "Le droit à l'erreur : et si l'on cessait de cacher nos ratés ?"
+type: reading
+intro: "Прочитай колонку и ответь на вопросы. В вопросе с полем впиши слова из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Позиция автора — в двух последних абзацах, после уступки «Ce serait confondre deux choses»."
+  - "Отношение автора к «культуре провала» не сказано прямо — смотри на выбор слов."
+text: |
+  ## Le droit à l'erreur : et si l'on cessait de cacher nos ratés ?
+
+  *Dans les entreprises comme à l'hôpital, l'erreur reste un tabou. Pourtant, c'est en la regardant en face qu'on apprend.*
+
+  Il suffit qu'un salarié avoue une erreur en réunion pour que le silence se fasse autour de la table. Bien que tout le monde se trompe, chaque jour et plusieurs fois par jour, rares sont les organisations où l'on ose le dire. On préfère que les fautes restent dans les tiroirs, de peur qu'elles ne ternissent une carrière ou la réputation d'un service. Résultat : les mêmes erreurs se répètent d'un bureau à l'autre, sans que personne en tire la moindre leçon.
+
+  L'aviation civile offre pourtant un contre-modèle. Depuis des décennies, les pilotes sont encouragés à signaler leurs propres incidents — une procédure oubliée, un instrument mal lu — sans craindre d'être sanctionnés, à moins qu'ils n'aient agi par négligence délibérée. Ces signalements sont anonymisés, analysés, puis partagés avec l'ensemble de la profession. Il ne s'agit pas de trouver un coupable, mais de comprendre comment un professionnel compétent a pu se tromper, pour que d'autres ne se trompent pas à leur tour. Que le transport aérien soit devenu l'un des plus sûrs au monde ne doit rien au hasard.
+
+  Certains hôpitaux s'en sont inspirés. Une fois par mois, les équipes se réunissent pour examiner les « événements indésirables » : un médicament donné au mauvais patient, un examen oublié, un dossier mal transmis. La règle est simple : on parle des faits, jamais des personnes. Une infirmière qui participe à ces séances se souvient qu'au début, personne ne voulait prendre la parole. « Il a fallu qu'un chef de service reconnaisse lui-même une erreur devant tout le monde pour que les langues se délient. »
+
+  Faut-il en conclure que toute erreur doit être pardonnée ? Ce serait confondre deux choses. Le droit à l'erreur n'est pas un droit à la négligence. Qu'un chirurgien se trompe une fois, malgré toutes les précautions, c'est humain ; qu'il refuse de vérifier ce qu'il fait, c'en est une autre. Je doute d'ailleurs que les partisans les plus enthousiastes de la « culture de l'échec », si à la mode dans les start-up, aient toujours fait cette distinction. Raconter ses échecs sur une scène, devant un public conquis, n'est pas la même chose que les analyser patiemment avec ses collègues. Il arrive même que cette mise en scène profite surtout à ceux qui peuvent se permettre d'échouer.
+
+  Car c'est là le cœur du problème : le droit à l'erreur n'est pas également partagé. Un directeur qui rate un projet changera de poste ; un employé en période d'essai, lui, risque de perdre le sien. Pour qu'une telle culture ait un sens, il faut que ceux qui sont en haut de la hiérarchie soient les premiers à reconnaître leurs fautes, et que les plus fragiles soient protégés. Sans cette garantie, exiger des salariés qu'ils soient « transparents » relève de l'hypocrisie.
+
+  La seule organisation qui ne commette jamais d'erreurs est celle qui ne fait rien. Toutes les autres se trompent ; reste à savoir ce qu'elles en font. Il n'est pas nécessaire qu'on organise des cérémonies ou qu'on rédige de grandes chartes. Il suffirait que, lorsqu'un collègue dit « je me suis trompé », la première question ne soit plus « à qui la faute ? » mais « qu'est-ce qu'on peut changer ? ». Que chacun puisse avouer une erreur sans trembler : voilà, peut-être, le signe le plus sûr d'une équipe en bonne santé.
+items:
+  - q: "Почему, по автору, в организациях прячут ошибки?"
+    options: ["Ошибки случаются слишком редко, чтобы о них говорить.", "Боятся, что ошибка испортит карьеру или репутацию отдела.", "Начальство запрещает о них рассказывать."]
+    answer: 1
+    explain: "*On préfère que les fautes restent dans les tiroirs, **de peur qu'elles ne ternissent** une carrière ou la réputation d'un service.* *Ne* здесь — explétif, не отрицание: «из страха, что они запятнают»."
+  - q: "Когда пилота всё-таки накажут за сообщение об инциденте?"
+    options: ["Если инцидент был серьёзным.", "Если он сообщил о нём слишком поздно.", "Если он действовал с умышленной небрежностью."]
+    answer: 2
+    explain: "*sans craindre d'être sanctionnés, **à moins qu'ils n'aient agi** par négligence délibérée* — *à moins que (ne)* + subjonctif passé: «если только они не…» — единственное исключение."
+  - q: "Какова цель анализа инцидентов в авиации?"
+    options: ["Найти виновного и отстранить его.", "Понять, как компетентный профессионал мог ошибиться, чтобы другие не повторили ошибку.", "Собрать статистику для авиакомпаний."]
+    answer: 1
+    explain: "*Il ne s'agit pas de trouver un coupable, mais de comprendre comment un professionnel compétent a pu se tromper, **pour que** d'autres ne se **trompent** pas à leur tour.*"
+  - q: "«Que le transport aérien soit devenu l'un des plus sûrs au monde ne doit rien au hasard» означает:"
+    options: ["Неизвестно, безопасен ли авиатранспорт.", "Безопасность авиации — случайность.", "Безопасность авиации — результат такой практики работы с ошибками."]
+    answer: 2
+    explain: "Придаточное с *que* в начале фразы (подлежащее) требует subjonctif, хотя речь о факте: *soit devenu*. Утверждается не сам факт, а его причина — «не случайно»."
+  - q: "Vrai / faux / on ne sait pas: в больницах, которые ввели такие собрания, ошибок стало меньше."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 2
+    explain: "Текст описывает, как проходят собрания (*on parle des faits, jamais des personnes*), но ничего не говорит о результатах в цифрах."
+  - q: "Что помогло медикам начать говорить об ошибках?"
+    options: ["Заведующий отделением сам публично признал ошибку.", "Ввели анонимные анкеты.", "Медсёстрам пообещали премию."]
+    answer: 0
+    explain: "*Il a fallu qu'un chef de service **reconnaisse** lui-même une erreur devant tout le monde pour que les langues **se délient**.* — *il a fallu que* + subjonctif présent (в современном языке после прошедшего времени), *pour que* + subjonctif."
+  - q: "Vrai / faux / on ne sait pas: автор считает, что любую ошибку нужно прощать."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*Faut-il en conclure que toute erreur doit être pardonnée ? Ce serait confondre deux choses. Le droit à l'erreur n'est pas un droit à la négligence.*"
+  - q: "Как автор относится к «культуре провала» в стартапах?"
+    options: ["Скептически: публичный рассказ о провалах — не анализ, и выгоден он тем, кто может позволить себе провал.", "С восторгом: это лучший пример права на ошибку.", "Нейтрально: он о ней только упоминает."]
+    answer: 0
+    explain: "Прямо не сказано, но *Je doute que les partisans… aient toujours fait cette distinction*, *devant un public conquis*, *mise en scène*, *profite surtout à ceux qui peuvent se permettre d'échouer* — оценка явно критическая. *Je doute que* + subjonctif passé."
+  - q: "Какова позиция автора?"
+    options: ["Право на ошибку — это мода, которая скоро пройдёт.", "Право на ошибку имеет смысл, только если руководство первым признаёт свои ошибки, а самые уязвимые защищены.", "Нужно писать большие хартии о праве на ошибку."]
+    answer: 1
+    explain: "*Pour qu'une telle culture ait un sens, il faut que ceux qui sont en haut de la hiérarchie soient les premiers à reconnaître leurs fautes, et que les plus fragiles soient protégés.* Хартии автор как раз считает необязательными: *Il n'est pas nécessaire qu'on… rédige de grandes chartes.*"
+  - q: "Впиши глагол из текста: La seule organisation qui ne ___ jamais d'erreurs est celle qui ne fait rien."
+    answers: ["commette"]
+    explain: "**le seul… qui** + subjonctif: *la seule organisation qui ne **commette** jamais d'erreurs*. Subjonctif смягчает утверждение исключительности."

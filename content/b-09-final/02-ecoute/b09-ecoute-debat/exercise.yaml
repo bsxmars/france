@@ -1,0 +1,90 @@
+title: "Le Débat : un centre-ville sans voitures ?"
+type: listening
+intro: |
+  Радиодебаты. Прочитай вопросы, затем послушай запись **два раза** и выбери один вариант. Не знаешь — пропусти.
+pass: 1
+audio: audio/tts/b-09/debat.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-FR-HenriNeural, fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonsoir et bienvenue dans « Le Débat ». Ce soir, une question qui divise de nombreuses villes : faut-il fermer les centres-villes aux voitures ? À Valmont, la municipalité a annoncé qu'elle interdirait la circulation dans le vieux centre dès septembre. Nous en parlons avec Paul Garnier, adjoint au maire chargé des transports, et avec Céline Maes, qui tient une librairie rue du Marché depuis vingt ans. Monsieur Garnier, pourquoi cette décision ?
+
+  **Paul Garnier :** Parce que le centre étouffe. En dix ans, le trafic a augmenté de trente pour cent, si bien que l'air y est aujourd'hui deux fois plus pollué qu'en périphérie. Ce n'est pas la mairie qui l'invente, ce sont les mesures de l'agence régionale. Et la situation est de plus en plus grave : les médecins nous ont dit qu'ils voyaient chaque hiver davantage d'enfants asthmatiques.
+
+  **Journaliste :** Madame Maes, vous êtes contre ?
+
+  **Céline Maes :** Je ne suis pas contre l'idée, je suis contre la méthode. Personne ne nous a demandé notre avis. On nous a présenté le projet en juin, et on nous a dit qu'il était trop tard pour le modifier. Bien que je fasse moi-même mes livraisons à vélo, je sais que la moitié de mes clients viennent des villages voisins, en voiture. S'ils ne peuvent plus se garer, ils iront au centre commercial.
+
+  **Paul Garnier :** C'est justement pour eux que nous construisons deux parkings à l'entrée de la ville, avec une navette gratuite toutes les dix minutes.
+
+  **Céline Maes :** Des parkings qui ne seront terminés qu'en 2028 ! Il aurait fallu les construire avant de fermer les rues. Aujourd'hui, j'ai beau expliquer à mes clients qu'il y aura une navette, ils me répondent qu'ils y croiront quand ils la verront.
+
+  **Journaliste :** Monsieur Garnier, l'argument est sérieux. Pourquoi ne pas attendre ?
+
+  **Paul Garnier :** Parce qu'on attend depuis quinze ans ! Chaque fois, on nous dit que ce n'est pas le bon moment. Mais j'entends madame Maes : nous ne fermerons la rue du Marché qu'une fois que les parkings auront ouvert. Les autres rues, en revanche, seront piétonnes dès septembre.
+
+  **Journaliste :** Madame Maes, cela vous rassure ?
+
+  **Céline Maes :** Un peu. Mais je ne crois pas qu'une navette suffise. Ce qu'il nous faudrait, c'est un vrai plan pour les commerçants : des aides pendant les travaux, un service de livraison commun… Sinon, il est possible que certaines boutiques ne survivent pas à la première année.
+
+  **Journaliste :** Selon plusieurs études, les villes qui ont fait ce choix auraient vu leurs commerces se développer. C'est vrai ?
+
+  **Paul Garnier :** C'est vrai à Pontevedra, en Espagne, ou à Gand, en Belgique : le centre y est devenu plus vivant qu'avant. Mais je reconnais que ces résultats ont été obtenus en plusieurs années, pas en six mois.
+
+  **Céline Maes :** Gand, je connais bien, j'y suis née ! Et c'est vrai que c'est une réussite. Mais là-bas, on a pris le temps d'en discuter avec tout le monde. C'est cela que je demande : qu'on nous écoute, que l'on soit d'accord ou non.
+
+  **Journaliste :** Un dernier mot, monsieur Garnier ?
+
+  **Paul Garnier :** Je m'y engage ce soir : nous rencontrerons chaque commerçant avant l'été. Et si madame Maes a des propositions, qu'elle me les envoie : je les présenterai moi-même au conseil municipal.
+
+  **Journaliste :** Merci à tous les deux.
+items:
+  - q: "Что объявила мэрия Вальмона?"
+    options: ["Что уже запретила движение в старом центре.", "Что запретит движение в старом центре с сентября.", "Что спросит жителей, нужно ли закрывать центр."]
+    answer: 1
+    topic: "b-07-discours-pronoms"
+    explain: "*la municipalité a annoncé qu'elle **interdirait**…* — futur dans le passé в косвенной речи: решение на будущее, а не уже сделанное."
+  - q: "Насколько загрязнён воздух в центре, по словам Гарнье?"
+    options: ["Вдвое сильнее, чем на окраине.", "На тридцать процентов сильнее, чем на окраине.", "Так же, как на окраине."]
+    answer: 0
+    topic: "b-03-comparaison-relatifs"
+    explain: "*l'air y est… **deux fois plus** pollué **qu'**en périphérie.* Тридцать процентов — рост трафика, а не разница в загрязнении."
+  - q: "Как меняется ситуация со здоровьем?"
+    options: ["Становится всё серьёзнее: каждую зиму больше детей-астматиков.", "Остаётся прежней уже десять лет.", "Улучшается благодаря агентству."]
+    answer: 0
+    topic: "b-05-passif-subjonctif"
+    explain: "*la situation est **de plus en plus** grave* — нарастание; врачи *voyaient chaque hiver **davantage** d'enfants asthmatiques*."
+  - q: "Что верно о Селин Маэс?"
+    options: ["Она ездит на машине, как и её клиенты.", "Она сама развозит заказы на велосипеде, но половина её клиентов приезжает на машине.", "Все её клиенты живут в центре."]
+    answer: 1
+    topic: "b-01-participe-concession"
+    explain: "*Bien que je **fasse** moi-même mes livraisons à vélo, je sais que la moitié de mes clients viennent… en voiture.* — уступка: факт про неё не отменяет довода о клиентах."
+  - q: "В чём Селин упрекает мэрию?"
+    options: ["Что парковки построили слишком далеко.", "Что парковки нужно было построить до закрытия улиц.", "Что шаттл будет платным."]
+    answer: 1
+    topic: "b-06-condition-indefinis"
+    explain: "*Il **aurait fallu** les construire avant de fermer les rues* — conditionnel passé: упрёк в том, что не сделано."
+  - q: "Почему Гарнье не хочет ждать?"
+    options: ["Потому что парковки будут готовы уже в сентябре.", "Потому что выборы через год.", "Потому что этого ждут уже пятнадцать лет."]
+    answer: 2
+    topic: "b-04-inversion-duree-cause"
+    explain: "*Parce qu'on attend **depuis** quinze ans !* — *depuis* + настоящее время: ожидание длится до сих пор."
+  - q: "Какую уступку делает Гарнье?"
+    options: ["Улицу Рынка закроют только после открытия парковок.", "Центр закроют только в 2028 году целиком.", "Улицу Рынка закроют первой, в сентябре."]
+    answer: 0
+    topic: "b-01-participe-concession"
+    explain: "*nous ne fermerons la rue du Marché qu'une fois que les parkings **auront ouvert*** — futur antérieur: сначала откроются парковки. Остальные улицы — с сентября."
+  - q: "Что Селин думает о шаттле?"
+    options: ["Что его будет достаточно.", "Что его не хватит: нужен настоящий план для торговцев.", "Что он не нужен, раз есть парковки."]
+    answer: 1
+    topic: "b-08-subjonctif-negation"
+    explain: "*Je **ne crois pas** qu'une navette **suffise*** — отрицание мнения + subjonctif = несогласие. *Ce qu'il nous faudrait, c'est un vrai plan…*"
+  - q: "Чего требует Селин, рассказывая о Генте?"
+    options: ["Чтобы с торговцами считались, согласны они или нет.", "Чтобы Вальмон отказался от проекта.", "Чтобы в Вальмоне сделали всё точно как в Генте."]
+    answer: 0
+    topic: "b-05-passif-subjonctif"
+    explain: "*qu'on nous écoute, **que l'on soit d'accord ou non*** — subjonctif альтернативы: выслушать нужно в любом случае."
+  - q: "Что Гарнье предлагает в конце?"
+    options: ["Чтобы Селин представила свои предложения совету сама.", "Чтобы Селин прислала ему предложения — он сам представит их совету.", "Чтобы торговцы написали в агентство."]
+    answer: 1
+    topic: "b-07-discours-pronoms"
+    explain: "*qu'elle **me les** envoie : je **les** présenterai moi-même au conseil municipal* — *me* = ему, *les* = предложения."

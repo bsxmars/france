@@ -1,0 +1,64 @@
+title: "Droit à la déconnexion : le luxe de ne pas répondre"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем впиши местоимение из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Перед ответом найди, что заменяет местоимение: слово или целую мысль."
+text: |
+  ## Droit à la déconnexion : le luxe de ne pas répondre
+
+  *Depuis 2017, la loi française reconnaît aux salariés le droit de ne pas répondre aux messages professionnels en dehors de leurs heures de travail. Huit ans plus tard, beaucoup se demandent s'ils en profitent vraiment.*
+
+  Il est vingt-deux heures. Claire, cheffe de projet dans une agence de communication, vient de coucher ses enfants. Son téléphone vibre : un client lui demande de « jeter un œil rapide » à une présentation. Elle sait qu'elle n'est pas obligée d'y répondre. Elle sait aussi que si elle ne le fait pas, quelqu'un d'autre le fera à sa place. Alors elle ouvre son ordinateur. « Je m'en veux à chaque fois, avoue-t-elle. Mais je ne vois pas comment m'y prendre autrement. »
+
+  Comme elle, des millions de salariés vivent dans une disponibilité permanente que personne ne leur a officiellement imposée. Car le paradoxe est là : le droit à la déconnexion existe, mais il repose presque entièrement sur l'individu. La loi oblige les entreprises à négocier des règles ; elle ne leur interdit pas d'envoyer des courriels à minuit. Et entre le droit de ne pas répondre et le courage de ne pas le faire, il y a souvent un gouffre.
+
+  Les effets de cette connexion continue sont pourtant bien connus. Fatigués, beaucoup de cadres le sont avant même d'arriver au bureau. Les médecins du travail parlent de « charge mentale numérique » : on ne travaille pas forcément plus, mais on y pense tout le temps. Le cerveau, sollicité par chaque notification, ne se repose jamais vraiment. Le phénomène est plus répandu qu'on ne le croit, et il ne touche pas seulement les dirigeants : enseignants, infirmières, commerçants reçoivent eux aussi des messages de leurs collègues ou de leurs clients bien après la fin de leur journée.
+
+  Faut-il pour autant tout reprocher aux outils ? Ce serait trop simple. Le téléphone n'y est pour rien ; c'est l'usage qu'on en fait qui pose problème. Certaines entreprises l'ont compris : elles programment l'envoi des courriels pour le lendemain matin, ferment les serveurs le week-end ou demandent aux managers de donner l'exemple. Car c'est souvent d'eux que tout dépend. Si le directeur écrit à vingt-trois heures, ses équipes se sentent obligées de lui répondre, même s'il leur répète que « ce n'est pas urgent ».
+
+  Reste la part de chacun. Se déconnecter, ce n'est pas seulement éteindre son téléphone : c'est accepter de ne pas tout contrôler, de laisser les autres attendre, de se faire confiance. Cela ne va pas de soi dans une culture où la réactivité passe pour une qualité. Beaucoup de salariés finissent par se laisser envahir non par obligation, mais par peur de paraître moins engagés que leurs collègues. Chacun pour soi, et la messagerie pour tous.
+
+  Il n'est pas question de revenir à l'époque où l'on ne pouvait joindre personne après dix-huit heures. La souplesse du travail à distance, beaucoup ne voudraient plus s'en passer. Mais la liberté de travailler n'importe où ne doit pas devenir l'obligation de travailler n'importe quand. Ceux qui en ont assez de vivre « en veille » ne réclament pas moins de technologie ; ils réclament des règles claires, appliquées par tous, et d'abord par ceux qui les fixent.
+
+  Claire, elle, a pris une résolution : à partir de vingt heures, son téléphone dort dans l'entrée. Les premiers soirs, elle n'a pas tenu. Aujourd'hui, elle s'y est habituée. « Personne ne m'en a voulu, sourit-elle. Le plus difficile, c'était de me l'autoriser. »
+items:
+  - q: "Почему Клэр в десять вечера открывает компьютер?"
+    options: ["Клиент пригрозил расторгнуть договор.", "Она боится, что иначе работу сделает кто-то другой.", "Это требует её трудовой договор."]
+    answer: 1
+    explain: "*si elle ne le fait pas, quelqu'un d'autre le fera à sa place* — *le* заменяет мысль «ответить клиенту». Она *n'est pas obligée d'y répondre*."
+  - q: "В чём, по автору, парадокс закона?"
+    options: ["Он запрещает писать письма после полуночи, но его никто не соблюдает.", "Право существует, но пользоваться им приходится каждому в одиночку.", "Он касается только руководителей."]
+    answer: 1
+    explain: "*il repose presque entièrement sur l'individu… elle ne leur interdit pas d'envoyer des courriels à minuit.*"
+  - q: "Что значит фраза «entre le droit de ne pas répondre et le courage de ne pas le faire, il y a souvent un gouffre» ?"
+    options: ["Иметь право — не то же самое, что решиться им воспользоваться.", "Многие не знают о своём праве.", "Смелые сотрудники никогда не отвечают."]
+    answer: 0
+    explain: "*Le* = «не отвечать». Между правом и поступком — «пропасть»."
+  - q: "Vrai / faux / on ne sait pas: «charge mentale numérique» означает, что люди стали работать больше часов."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*on ne travaille pas forcément plus, mais on y pense tout le temps* — дело в постоянных мыслях о работе (*y* = à son travail)."
+  - q: "Что хочет сказать автор фразой «Le téléphone n'y est pour rien» ?"
+    options: ["Телефоны часто ломаются.", "Виноват не инструмент, а то, как им пользуются.", "Телефон не помогает в работе."]
+    answer: 1
+    explain: "*n'y être pour rien* — «быть ни при чём»; дальше: *c'est l'usage qu'on en fait qui pose problème*."
+  - q: "Почему автор особо говорит о руководителях?"
+    options: ["От их примера зависит поведение команды.", "Они больше всех страдают от уведомлений.", "Только они имеют право на отключение."]
+    answer: 0
+    explain: "*c'est souvent d'eux que tout dépend* (ударное *eux* после *de*) — если директор пишет в 23 часа, команда считает себя обязанной ответить."
+  - q: "Почему, по статье, многие позволяют работе «захватить» вечер?"
+    options: ["Из страха показаться менее вовлечёнными, чем коллеги.", "Потому что этого требует начальство.", "Потому что им нравится работать вечером."]
+    answer: 0
+    explain: "*se laisser envahir non par obligation, mais par peur de paraître moins engagés que leurs collègues.*"
+  - q: "Чего, по автору, требуют уставшие сотрудники?"
+    options: ["Меньше технологий.", "Ясных правил, которые соблюдают все, начиная с тех, кто их устанавливает.", "Вернуться к работе только в офисе."]
+    answer: 1
+    explain: "*ne réclament pas moins de technologie ; ils réclament des règles claires, appliquées par tous, et d'abord par ceux qui les fixent.*"
+  - q: "Что для Клэр оказалось самым трудным?"
+    options: ["Объяснить клиентам новые правила.", "Разрешить себе не отвечать.", "Не получать упрёков коллег."]
+    answer: 1
+    explain: "*Personne ne m'en a voulu… Le plus difficile, c'était de me l'autoriser.* — *l'* = «не отвечать вечером»; упрёков как раз не было."
+  - q: "Впиши местоимение из текста: Fatigués, beaucoup de cadres ___ sont avant même d'arriver au bureau."
+    answers: ["le"]
+    explain: "Нейтральное **le** заменяет прилагательное-атрибут и не изменяется: *Fatigués, ils **le** sont*."

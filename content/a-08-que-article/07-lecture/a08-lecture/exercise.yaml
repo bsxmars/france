@@ -1,0 +1,41 @@
+title: "Samedi au ciné-club"
+type: reading
+intro: "Прочитай записку и ответь на вопросы. В вопросах с полем впиши слова из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "du = de + le, des = de + les."
+text: |
+  **Salut Hugo,**
+
+  Qu'est-ce que tu fais samedi soir ? Moi, je regarde un film avec Inès dans la salle du ciné-club de l'école. C'est un film italien, *La Classe*. C'est l'histoire des élèves d'une petite école de Naples et du professeur de musique.
+
+  Sofia Bruni est une jeune actrice italienne. Elle est très bonne dans le film ! Le professeur du film, c'est Marc Lenoir, un acteur français. Il est acteur, mais il est aussi musicien : il chante dans le film !
+
+  Le directeur du ciné-club, M. Petit, présente le film à huit heures. Après, les élèves parlent du film avec M. Petit.
+
+  Tu es libre ? Écris-moi !
+
+  **Léo**
+items:
+  - q: "Что Лео делает в субботу вечером?"
+    options: ["смотрит фильм в зале киноклуба", "поёт в школьном хоре", "смотрит фильм дома с Инес"]
+    answer: 0
+    explain: "*Je regarde un film avec Inès dans la salle **du** ciné-club* — *du* = *de* + *le ciné-club*."
+  - q: "Кто такая София Бруни?"
+    options: ["учительница музыки", "молодая итальянская актриса", "директор киноклуба"]
+    answer: 1
+    explain: "*Sofia Bruni est **une** jeune actrice italienne* — у существительного есть прилагательные, поэтому артикль."
+  - q: "Что делает Марк Ленуар в фильме?"
+    options: ["Он режиссёр фильма.", "Он играет учителя и поёт.", "Он представляет фильм."]
+    answer: 1
+    explain: "*Le professeur du film, c'est Marc Lenoir… il chante dans le film !* Фильм представляет М. Пети."
+  - q: "Что будет после фильма?"
+    options: ["Ученики поговорят о фильме с М. Пети.", "Марк Ленуар споёт для учеников.", "Ученики посмотрят второй фильм."]
+    answer: 0
+    explain: "*Après, les élèves parlent **du** film avec M. Petit.* — *parler de* + *le film* = *parler du film*."
+  - q: "Впиши из текста: «Что ты делаешь в субботу вечером?» — ___ tu fais samedi soir ?"
+    answers: ["Qu'est-ce que"]
+    explain: "**Qu'est-ce que** + прямой порядок слов (*tu fais*). С инверсией было бы *Que fais-tu… ?*"
+  - q: "Впиши из текста: «история учеников» — l'histoire ___ élèves."
+    answers: ["des"]
+    explain: "**des** = *de* + *les*: «история (кого?) учеников»."

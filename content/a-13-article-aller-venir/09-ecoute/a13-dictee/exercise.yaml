@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "il n'y a pas de… — de легко пропустить на слух."
+  - "ils viennent, ils reviennent — два n."
+items:
+  - audio: audio/tts/a-13/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Il y a une pharmacie près de la gare."]
+    explain: "«Рядом с вокзалом есть аптека». Новый предмет — *il y a* + **une**."
+  - audio: audio/tts/a-13/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Il n'y a pas de café dans cette rue."]
+    explain: "«На этой улице нет кафе». После *il n'y a pas* — **de** вместо *un*."
+  - audio: audio/tts/a-13/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Nous allons au cinéma ce soir."]
+    explain: "«Сегодня вечером мы идём в кино». *nous allons*; *au* = *à + le*."
+  - audio: audio/tts/a-13/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Mes amis viennent de Lyon."]
+    explain: "«Мои друзья приезжают из Лиона». *viennent* [vjɛn] — два *n*; откуда — предлог *de*."
+  - audio: audio/tts/a-13/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Ils reviennent de l'école à cinq heures."]
+    explain: "«Они возвращаются из школы в пять часов». *revenir* как *venir*: *ils reviennent*; *de l'école* — *de* не сливается с *l'*."
+  - audio: audio/tatoeba/474430.mp3
+    audio_source: {title: "Tatoeba #1313933", url: "https://tatoeba.org/fr/sentences/show/1313933", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Y a-t-il quelqu'un dans la maison ?"]
+    explain: "«В доме кто-нибудь есть?» Вопрос с *il y a* инверсией: ***y a-t-il***; *quelqu'un* — «кто-то, кто-нибудь»."
+  - audio: audio/tatoeba/473107.mp3
+    audio_source: {title: "Tatoeba #6463099", url: "https://tatoeba.org/fr/sentences/show/6463099", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je vais parler."]
+    explain: "«Я сейчас скажу / я буду говорить». *aller* + инфинитив — ближайшее будущее."
+  - audio: audio/tatoeba/474425.mp3
+    audio_source: {title: "Tatoeba #1313569", url: "https://tatoeba.org/fr/sentences/show/1313569", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["S'il te plait, viens.", "S'il te plaît, viens."]
+    explain: "«Приходи, пожалуйста». *viens* — повелительное от *venir*; *plaît* после реформы 1990 года можно писать и без ^: *plait*."
+  - audio: audio/tatoeba/473690.mp3
+    audio_source: {title: "Tatoeba #1121067", url: "https://tatoeba.org/fr/sentences/show/1121067", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je mange des fruits."]
+    explain: "«Я ем фрукты». Неопределённое количество — **des**: без него ~~je mange fruits~~ нельзя."

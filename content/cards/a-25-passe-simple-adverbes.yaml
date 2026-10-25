@@ -42,3 +42,27 @@
   lesson: a-25-passe-simple-adverbes/02-grammaire
   q: "Как сравнить количество: «больше книг», «больше всего книг»?"
   a: "***plus de** livres que*; *C'est lui qui a **le plus de** livres.* Также *moins de, autant de*."
+- id: a25-il-etait-une-fois
+  lesson: a-25-passe-simple-adverbes/07-lecture
+  q: "Как начинается французская сказка?"
+  a: "***Il était une fois** un vieux meunier.* — «Жил-был старый мельник»."
+- id: a25-ils-partirent
+  lesson: a-25-passe-simple-adverbes/07-lecture
+  q: "Инфинитив: *ils partirent, il s'assit, il vit, il sourit*?"
+  a: "*partir, s'asseoir, voir, sourire*."
+- id: a25-le-plus-vite-possible
+  lesson: a-25-passe-simple-adverbes/07-lecture
+  q: "«Он бежал как можно быстрее»."
+  a: "*Il a couru **le plus vite possible**.* (в сказке — *il courut*)"
+- id: a25-ps-lettre
+  lesson: a-25-passe-simple-adverbes/08-ecriture
+  q: "Какое время для событий в письме другу: *je courus* или *j'ai couru*?"
+  a: "***J'ai couru*** — passé composé. Passé simple — только в книжном рассказе."
+- id: a25-moins-souvent
+  lesson: a-25-passe-simple-adverbes/09-ecoute
+  q: "«Он стал реже тренироваться»."
+  a: "*Il s'entraîne **moins souvent**.*"
+- id: a25-elle-devint
+  lesson: a-25-passe-simple-adverbes/09-ecoute
+  q: "*Elle devint la boulangère du roi* — инфинитив и перевод?"
+  a: "*devenir* — «Она стала пекаршей короля»."

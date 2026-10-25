@@ -1,0 +1,54 @@
+title: "Chez le médecin"
+type: listening
+intro: "Послушай разговор (дважды) и ответь на вопросы."
+hints:
+  - "Il a dit que je ne pourrais pas… — он сказал, что я не смогу…"
+  - "Верный ответ — что врач сказал на самом деле, а не шутка."
+audio: audio/tts/a-28/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural, fr-FR-DeniseNeural", license: "TTS"}
+transcript: |
+  — Te voilà enfin ! Tu as attendu longtemps ?
+  — Une heure ! La secrétaire m'avait prévenue que le docteur serait en retard, alors j'ai lu tranquillement un magazine.
+  — Alors, qu'est-ce que le médecin t'a dit pour ton genou ?
+  — Il m'a dit que ce n'était pas grave. Il pensait que j'étais mal tombée au ski, et que mon genou était seulement fatigué.
+  — Ouf ! Et le sport ?
+  — Il m'a expliqué que je ne pourrais pas courir pendant trois semaines, mais que je pourrais nager tranquillement. Il m'a aussi donné le nom d'une kinésithérapeute. Il a dit qu'elle m'appellerait demain matin.
+  — Une kiné ? C'est cher, non ?
+  — Il m'a assuré que la Sécurité sociale rembourserait presque tout.
+  — Et pour le travail ?
+  — Je lui ai demandé si je pouvais travailler. Il a répondu que oui, mais qu'il fallait marcher lentement et prendre l'ascenseur.
+  — L'ascenseur ? Toi ? Tu montes toujours à pied au sixième étage !
+  — Je sais… Ah, et il a ajouté une chose importante : il a dit que tu porterais les courses pendant trois semaines !
+  — Il a vraiment dit ça ?
+  — Bon… pas exactement. Il a dit que je ne porterais rien de lourd. Mais c'est la même chose, non ?
+  — Ha ha ! D'accord, je porterai les courses. Mais alors, c'est toi qui feras la cuisine !
+  — Avec plaisir. Je cuisinerai assise, tranquillement !
+items:
+  - q: "Почему пришлось долго ждать?"
+    options: ["Врач опаздывал, секретарь об этом предупредила.", "Она пришла слишком рано.", "Перед ней было много пациентов."]
+    answer: 0
+    explain: "*La secrétaire m'avait prévenue que le docteur **serait** en retard* — futur dans le passé после глагола в прошлом."
+  - q: "Что врач сказал о колене?"
+    options: ["Нужна операция.", "Ничего серьёзного: колено просто устало.", "Колено сломано."]
+    answer: 1
+    explain: "*Il m'a dit que ce **n'était pas** grave… que mon genou **était** seulement fatigué.*"
+  - q: "Что ей нельзя делать три недели?"
+    options: ["плавать", "бегать", "работать"]
+    answer: 1
+    explain: "*je **ne pourrais pas** courir pendant trois semaines, mais que je **pourrais** nager tranquillement.*"
+  - q: "Когда позвонит физиотерапевт?"
+    options: ["сегодня вечером", "завтра утром", "через три недели"]
+    answer: 1
+    explain: "*Il a dit qu'elle m'**appellerait** demain matin.*"
+  - q: "Кто оплатит лечение?"
+    options: ["почти всё вернёт соцстрах", "оплатит работодатель", "придётся платить самим"]
+    answer: 0
+    explain: "*Il m'a assuré que la Sécurité sociale **rembourserait** presque tout.*"
+  - q: "Что врач сказал о работе?"
+    options: ["Работать нельзя три недели.", "Работать можно, но ходить медленно и ездить на лифте.", "Работать можно только из дома."]
+    answer: 1
+    explain: "*Je lui ai demandé **si** je pouvais travailler. Il a répondu que oui, mais qu'il **fallait** marcher **lentement** et prendre l'ascenseur.*"
+  - q: "Что врач сказал на самом деле о покупках?"
+    options: ["Муж будет носить покупки три недели.", "Ей нельзя носить ничего тяжёлого.", "Покупки лучше заказывать на дом."]
+    answer: 1
+    explain: "Про мужа — шутка: *Bon… pas exactement. Il a dit que je **ne porterais rien** de lourd.*"

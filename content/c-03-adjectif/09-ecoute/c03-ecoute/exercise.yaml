@@ -1,0 +1,59 @@
+title: "Conférence : une histoire du bleu"
+type: listening
+intro: "Послушай лекцию (дважды, как на DALF) и ответь на вопросы."
+hints:
+  - "План лекции — по связкам: Commençons par…, Tout change…, Il faut aussi parler de…, enfin…"
+  - "Запиши века: XIIe, XVIe, XVIIIe, XIXe."
+audio: audio/tts/c-03/conference.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural, fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  **Animatrice :** Bonjour à toutes et à tous. Dans notre cycle « Histoire des couleurs », nous accueillons aujourd'hui Fabrice Morel, historien de l'art à l'Université de Genève. Il va nous parler d'une couleur que nous croyons bien connaître : le bleu.
+
+  **Fabrice Morel :** Merci. Commençons par une petite expérience. Si je vous demande votre couleur préférée, une bonne moitié d'entre vous répondra probablement : le bleu. Dans les sondages réalisés en Europe depuis un siècle, le bleu arrive en tête, loin devant le vert et le rouge. Or, ce succès est récent. Dans l'Antiquité, le bleu était une couleur peu estimée, presque méprisée. Les Romains l'associaient aux barbares : certains guerriers celtes se peignaient le corps en bleu. Le grec ancien et le latin n'avaient même pas de mot stable pour le désigner.
+
+  **Fabrice Morel :** Tout change au douzième siècle. Les vitraux des nouvelles cathédrales — pensez au bleu de Chartres — font entrer la lumière bleue dans les églises. La Vierge, jusque-là vêtue de couleurs sombres, reçoit un manteau bleu. Et ce que porte la Vierge devient vite à la mode : les rois de France adoptent un blason bleu semé de fleurs de lis dorées. En deux siècles, la couleur méprisée est devenue la couleur des rois.
+
+  **Fabrice Morel :** Il faut aussi parler de technique. Pour teindre une étoffe en bleu, on utilisait au Moyen Âge une plante, la guède, qu'on appelle aussi le pastel. La région de Toulouse s'est enrichie grâce à elle. Mais au seizième siècle arrive d'Asie l'indigo, bien moins cher et bien plus intense. Les producteurs de pastel ont tout fait pour le faire interdire — on l'appelait la « teinture du diable » —, sans succès. C'est un bon exemple de ce que je disais : l'histoire des couleurs est aussi une histoire économique.
+
+  **Fabrice Morel :** Au dix-huitième siècle, la chimie invente le bleu de Prusse, puis, au dix-neuvième, des bleus synthétiques bon marché. Le bleu devient la couleur des uniformes, celle des ouvriers — pensez au « bleu de travail » —, et enfin celle du jean, qui part d'Europe, traverse l'Atlantique et revient conquérir le monde entier.
+
+  **Fabrice Morel :** Une remarque, enfin, sur la langue. Le français distingue très finement les nuances : on porte des chemises bleu ciel, des vestes bleu marine, des robes bleu nuit. Vous remarquerez que dans ces expressions, le mot « bleu » reste invariable : ce n'est plus un simple adjectif, c'est le nom d'une nuance précise. Ce raffinement du vocabulaire est un signe : on nomme avec soin ce qui compte pour nous.
+
+  **Fabrice Morel :** La langue garde aussi la trace de cette histoire dans ses expressions. On a une peur bleue, on se fait des bleus en tombant, on commande un steak bleu, c'est-à-dire presque cru. Une excellente cuisinière est un cordon-bleu, souvenir d'un ordre de chevaliers qui portaient un ruban bleu et dont les banquets étaient célèbres. Et un débutant, à l'armée ou au travail, c'est un bleu, sans doute à cause de la blouse bleue que portaient autrefois les nouvelles recrues.
+
+  **Fabrice Morel :** Alors, pourquoi le bleu plaît-il tant aujourd'hui ? Probablement parce qu'il est devenu une couleur consensuelle, qui ne choque personne. Le rouge est passionné, le noir est sévère, le jaune a mauvaise réputation. Le bleu, lui, est calme, sérieux, rassurant. C'est d'ailleurs pour cette raison que tant d'institutions l'ont choisi, de l'Union européenne aux Nations unies. Mais méfions-nous : une couleur que tout le monde aime est peut-être aussi une couleur qui ne dit plus grand-chose.
+
+  **Animatrice :** Merci, Fabrice Morel. Place maintenant à vos questions.
+items:
+  - q: "Какой тезис лектор выдвигает в начале?"
+    options: ["Синий всегда был любимым цветом европейцев.", "Популярность синего — явление недавнее.", "Синий нравится только в Европе."]
+    answer: 1
+    explain: "*le bleu arrive en tête… **Or, ce succès est récent.*** — *or* вводит неожиданный поворот."
+  - q: "Как к синему относились в Античности?"
+    options: ["Его почти презирали и связывали с варварами.", "Это был цвет императоров.", "Его считали священным."]
+    answer: 0
+    explain: "*une couleur peu estimée, presque méprisée. Les Romains l'associaient aux barbares.*"
+  - q: "Что изменилось в XII веке?"
+    options: ["Изобрели синтетическую синюю краску.", "Синий вошёл в витражи и одежду Богородицы, а затем в герб королей.", "Из Азии привезли индиго."]
+    answer: 1
+    explain: "*Les vitraux des nouvelles cathédrales… La Vierge… reçoit un manteau bleu… les rois de France adoptent un blason bleu.* Индиго — XVI век, синтетика — XVIII–XIX."
+  - q: "Почему производители пастели боролись с индиго?"
+    options: ["Индиго было дешевле и ярче — это была конкуренция.", "Индиго было ядовитым.", "Церковь запретила индиго."]
+    answer: 0
+    explain: "*l'indigo, **bien moins cher** et **bien plus intense**… l'histoire des couleurs est aussi une histoire économique.* «Дьявольская краска» — прозвище, а не причина."
+  - q: "Почему в «des chemises bleu ciel» слово bleu не согласуется?"
+    options: ["Потому что это заимствование.", "Потому что составное обозначение цвета называет оттенок, а не простой признак.", "Потому что chemise — мужского рода."]
+    answer: 1
+    explain: "*ce n'est plus un simple adjectif, c'est le nom d'une nuance précise* — составные цвета (*bleu ciel, bleu marine, vert foncé*) неизменяемы."
+  - q: "Откуда, по лектору, выражение «un bleu» о новичке?"
+    options: ["От синего цвета формы офицеров.", "Видимо, от синей блузы, которую раньше носили новобранцы.", "От выражения «une peur bleue»."]
+    answer: 1
+    explain: "*sans doute à cause de la blouse bleue que portaient autrefois les nouvelles recrues* — *sans doute* показывает: это гипотеза."
+  - q: "Почему синий так популярен сегодня?"
+    options: ["Он самый дешёвый в производстве.", "Он стал «согласительным» цветом: спокойным и никого не шокирующим.", "Его выбрал Евросоюз."]
+    answer: 1
+    explain: "*parce qu'il est devenu une couleur consensuelle, qui ne choque personne.* Выбор институций — следствие, а не причина."
+  - q: "Каков смысл последней оговорки лектора?"
+    options: ["Цвет, который всем нравится, рискует ничего не выражать.", "Синий скоро выйдет из моды.", "Красный лучше синего."]
+    answer: 0
+    explain: "*une couleur que tout le monde aime est peut-être aussi une couleur qui ne dit plus grand-chose* — *méfions-nous* вводит критический вывод."

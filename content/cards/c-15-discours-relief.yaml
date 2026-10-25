@@ -154,3 +154,27 @@
   lesson: c-15-discours-relief/04-dislocation-presentatifs
   q: "Aussi a-t-il refusé. Rares sont ceux qui… — что это?"
   a: "Книжное выделение с инверсией: *aussi* в начале = «поэтому» + инверсия; прилагательное в начале фразы (*Rares sont…, Grande fut sa surprise*)."
+- id: c15-preter-a
+  lesson: c-15-discours-relief/07-lecture
+  q: "«Вольтеру приписывали остроты, которых он никогда не писал»."
+  a: "On **prêtait à** Voltaire des mots d'esprit qu'il n'avait jamais écrits. / Voltaire **se voyait attribuer**…"
+- id: c15-croire-sur-parole
+  lesson: c-15-discours-relief/07-lecture
+  q: "«Фальшивая цитата приучает читателя верить на слово»."
+  a: "La fausse citation habitue le lecteur à **croire sur parole**."
+- id: c15-dans-quelle-mesure
+  lesson: c-15-discours-relief/08-ecriture
+  q: "Как в синтезе поставить проблему косвенным вопросом («можно задаться вопросом, насколько они надёжны»)?"
+  a: "**On peut se demander dans quelle mesure** ils sont fiables."
+- id: c15-reste-a-savoir
+  lesson: c-15-discours-relief/08-ecriture
+  q: "«Остаётся понять, как исправить эти перекосы» — переход в синтезе."
+  a: "**Reste à savoir** comment remédier à ces dérives."
+- id: c15-mettre-sur-la-piste
+  lesson: c-15-discours-relief/09-ecoute
+  q: "«Навела нас на след табличка на заднем плане»."
+  a: "**Ce qui nous a mis sur la piste, c'est** un panneau en arrière-plan."
+- id: c15-faire-la-une
+  lesson: c-15-discours-relief/09-ecoute
+  q: "«Сегодня на первых полосах — начало учебного года»."
+  a: "Ce matin, **c'est la rentrée qui fait la une**."

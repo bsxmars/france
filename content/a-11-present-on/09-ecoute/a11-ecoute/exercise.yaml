@@ -1,0 +1,45 @@
+title: "Ce week-end"
+type: listening
+intro: "Послушай телефонный разговор и ответь на вопросы."
+hints:
+  - "on здесь значит «мы»."
+  - "Non, merci и D'accord отвечают на разные предложения."
+audio: audio/tts/a-11/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  — Allô, Sophie ? C'est Anne. On dîne ensemble ce soir ?
+  — Ce soir ? Désolée, je travaille jusqu'à huit heures.
+  — Et après ? On mange au restaurant italien, près de la gare ?
+  — Non, merci. Mes parents arrivent de Bruxelles ce soir. Ils restent chez moi jusqu'à dimanche. Tu aimes le jazz ? Samedi, on écoute un concert de jazz dans le parc.
+  — J'adore le jazz ! Ce sont des musiciens de Paris ?
+  — Non, ce sont des musiciens belges. Mon frère Luc joue du saxophone dans le groupe !
+  — Super ! Le concert commence à quelle heure ?
+  — À trois heures. Apporte un sandwich : on mange dans le parc, avec mes parents.
+  — D'accord. Mon mari et moi, nous apportons aussi des gâteaux !
+  — Parfait ! À samedi, Anne !
+  — À samedi !
+items:
+  - q: "Почему Софи не может поужинать с Анной сегодня?"
+    options: ["Она идёт на концерт.", "Она работает до восьми, а вечером приезжают родители.", "Она ужинает в итальянском ресторане."]
+    answer: 1
+    explain: "*Je travaille jusqu'à huit heures… Mes parents arrivent de Bruxelles ce soir.* Ресторан предлагала Анна: *Non, merci.*"
+  - q: "До какого дня родители остаются у Софи?"
+    options: ["до субботы", "до воскресенья", "до вечера"]
+    answer: 1
+    explain: "*Ils restent chez moi jusqu'à dimanche.*"
+  - q: "Что Софи предлагает в субботу?"
+    options: ["ужин в ресторане у вокзала", "концерт джаза в парке", "поход в музей"]
+    answer: 1
+    explain: "*Samedi, on écoute un concert de jazz dans le parc.* — *on* = «мы»."
+  - q: "Кто играет в группе?"
+    options: ["парижские музыканты", "бельгийские музыканты, среди них брат Софи", "муж Анны"]
+    answer: 1
+    explain: "*Ce sont des musiciens belges. Mon frère Luc joue du saxophone dans le groupe !* — о нескольких людях **ce sont**."
+  - q: "Во сколько начинается концерт?"
+    options: ["в три часа", "в восемь часов", "в полдень"]
+    answer: 0
+    explain: "*Le concert commence à quelle heure ? — À trois heures.* До восьми Софи работает."
+  - q: "Что Анна с мужем принесут, кроме бутерброда?"
+    options: ["вино", "пирожные", "фотографии"]
+    answer: 1
+    explain: "*Mon mari et moi, nous apportons aussi des gâteaux !* *aussi* — «ещё и», в добавление к бутерброду, о котором просит Софи: *Apporte un sandwich*."

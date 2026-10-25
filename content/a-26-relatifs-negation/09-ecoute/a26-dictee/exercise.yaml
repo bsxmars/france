@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Одно ne на глагол; с personne, rien, jamais, plus нет pas."
+  - "Qui — перед глаголом, que (qu') — перед подлежащим."
+items:
+  - audio: audio/tts/a-26/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["C'est un film que je n'ai jamais vu."]
+    explain: "«Это фильм, который я никогда не видела». *que* — дополнение (фильм вижу я); *ne… jamais* обнимает *ai*."
+  - audio: audio/tts/a-26/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Le garçon qui parle avec ma sœur est mon voisin.", "Le garçon qui parle avec ma soeur est mon voisin."]
+    explain: "«Мальчик, который разговаривает с моей сестрой, — мой сосед». *qui* — подлежащее придаточного."
+  - audio: audio/tts/a-26/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Il n'y a personne à la maison."]
+    explain: "«Дома никого нет». *il n'y a personne* — без *pas*."
+  - audio: audio/tts/a-26/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Je ne bois ni thé ni café."]
+    explain: "«Я не пью ни чая, ни кофе». После *ni… ni* артикль обычно опускают."
+  - audio: audio/tts/a-26/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Elle s'est mise à rire."]
+    explain: "«Она засмеялась (начала смеяться)». *se mettre à* + инфинитив; *mise* согласуется с *elle* — слышно [miz]."
+  - audio: audio/tts/a-26/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Il m'a promis de ne plus jamais mentir."]
+    explain: "«Он пообещал мне больше никогда не врать». При инфинитиве отрицание целиком **перед** ним: *de ne plus jamais mentir*."
+  - audio: audio/tatoeba/471447.mp3
+    audio_source: {title: "Tatoeba #1997649", url: "https://tatoeba.org/fr/sentences/show/1997649", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je ne vous ai jamais vue.", "Je ne vous ai jamais vu.", "Je ne vous ai jamais vus.", "Je ne vous ai jamais vues."]
+    explain: "«Я никогда вас не видел». На слух *vu / vue / vus / vues* звучат одинаково; в оригинале *vue* — согласование с *vous* (одна женщина)."
+  - audio: audio/tatoeba/474353.mp3
+    audio_source: {title: "Tatoeba #1112106", url: "https://tatoeba.org/fr/sentences/show/1112106", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Ça ne sert à rien."]
+    explain: "«Это бесполезно (ни к чему)». *servir à qch* → *ne servir à rien*."
+  - audio: audio/tatoeba/472118.mp3
+    audio_source: {title: "Tatoeba #2389381", url: "https://tatoeba.org/fr/sentences/show/2389381", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je n'étudie plus le français."]
+    explain: "«Я больше не изучаю французский». *ne… plus* — «больше не»; перед гласной *n'*."

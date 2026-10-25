@@ -1,0 +1,34 @@
+title: "Tribune : faut-il encore enseigner le passé simple ?"
+type: writing
+intro: "Напиши tribune (essai argumenté) по плану урока."
+prompt: |
+  Dans une revue pédagogique, un groupe d'enseignants propose de ne plus faire apprendre aux élèves les formes du passé simple : ce temps, disent-ils, n'est plus employé à l'oral et presque plus dans la presse.
+
+  Vous rédigez une tribune pour cette revue. Vous donnez votre point de vue argumenté sur cette proposition, en vous appuyant sur des exemples précis, notamment tirés de votre expérience ou de vos lectures.
+
+  Напиши **220–300 слов**.
+words: [220, 300]
+target_grammar:
+  - "passé composé и imparfait в личном примере: ограниченный срок, фон, повторение"
+  - "plus-que-parfait для предыстории; passé simple в цитате или историческом примере"
+  - "à peine… que, dès que, après que + indicatif"
+checklist:
+  - "Есть заголовок и problématique во вступлении."
+  - "Аргументы противоположной стороны признаны и опровергнуты."
+  - "Личный пример рассказан в passé composé / imparfait, с хотя бы одним plus-que-parfait."
+  - "Хотя бы одна фраза в passé simple (цитата или исторический пример), объяснено, что она даёт."
+  - "Времена в каждом рассказе не смешаны без причины; выбор imparfait / passé composé — по ограниченности действия, а не по русскому виду."
+  - "Есть à peine… que, dès que или après que + indicatif."
+  - "Вывод с нюансированной позицией."
+model_answer: |
+  **Le passé simple, une relique ?**
+
+  Le passé simple a pratiquement disparu de la langue parlée. Plus personne ne dit « je vins » ou « nous allâmes », et même la presse lui préfère désormais le passé composé. D'où la proposition de ne plus l'enseigner qu'à titre de curiosité. Ce temps mérite-t-il encore une place à l'école ?
+
+  Les partisans de cette réforme ont raison sur un point : on ne l'emploie plus pour parler de sa propre vie. Quand j'étais au collège, j'ai appris par cœur, pendant deux ans, des listes de formes que notre professeur avait recopiées au tableau et dont je ne me suis jamais servi depuis. Ce temps aurait sans doute pu être consacré à l'écriture de vrais textes.
+
+  Pourtant, renoncer au passé simple, ce serait se couper de presque toute notre littérature. Un élève qui ne le reconnaît pas lit Maupassant ou Dumas comme on déchiffre une langue étrangère. Surtout, ce temps n'a pas disparu de la fiction contemporaine : la plupart des romans, et même bien des livres pour enfants, sont encore écrits au passé simple. « Il ouvrit la porte et s'arrêta net » : à peine a-t-on lu ces mots qu'on sait qu'une histoire commence, coupée du moment où l'on parle.
+
+  Il me semble donc nécessaire de distinguer deux objectifs. Tous les élèves doivent savoir reconnaître le passé simple et comprendre ce qu'il apporte au récit ; en revanche, la maîtrise des formes rares, comme « nous résolûmes », pourrait être réservée à ceux qui choisissent d'écrire.
+
+  En définitive, le passé simple n'est pas une relique : c'est la voix du récit. Le supprimer appauvrirait non pas la grammaire, mais l'imaginaire.

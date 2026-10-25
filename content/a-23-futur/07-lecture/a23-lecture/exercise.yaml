@@ -1,0 +1,61 @@
+title: "Un hiver à Québec"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста: суббота, воскресенье, понедельник, шале."
+  - "Futur simple узнаёшь по -r- перед окончанием: tu verras, nous irons."
+text: |
+  **Objet : Ton voyage à Québec !**
+
+  Salut Thomas,
+
+  Super nouvelle : tu viendras donc chez nous du 3 au 12 février ! Mes parents sont très contents. Voilà le programme.
+
+  Tu arriveras à Montréal le samedi soir. Mon père viendra te chercher à l'aéroport, et nous prendrons la route ensemble pour Québec : le voyage durera trois heures. Tu dormiras dans la chambre de mon frère : il est à l'université cette année.
+
+  Le dimanche, nous irons au Carnaval de Québec. Tu verras le palais de glace et tu feras du traîneau à chiens. Si tu veux, nous patinerons aussi sur la grande patinoire du centre-ville.
+
+  Le lundi, j'aurai des cours, mais tu ne t'ennuieras pas : ma mère t'emmènera visiter le Vieux-Québec.
+
+  Attention, il fera très froid, jusqu'à moins trente degrés ! Ma mère te dit de prendre un bon manteau, des gants et un bonnet. Tu n'as pas de bottes d'hiver ? Ce n'est pas grave : tu prendras les bottes de mon frère.
+
+  Encore une chose : chez nous, il est interdit de garder ses chaussures dans la maison. Tout le monde les enlève à l'entrée !
+
+  Si tout va bien, nous partirons aussi deux jours dans un chalet à la montagne, avec mes cousins. Là-bas, il n'y a pas de réseau : tu ne pourras pas téléphoner, mais tu verras des étoiles magnifiques.
+
+  N'as-tu pas oublié quelque chose ? Ton heure d'arrivée ! Écris-moi vite.
+
+  À bientôt,
+  **Léa**
+items:
+  - q: "Когда Тома приедет в Квебек?"
+    options: ["с 3 по 12 февраля", "с 12 по 30 января", "на три дня в феврале"]
+    answer: 0
+    explain: "*tu **viendras** donc chez nous du 3 au 12 février* — *venir* → особая основа *viendr-*."
+  - q: "Кто встретит Тома в аэропорту?"
+    options: ["Леа", "отец Леа", "брат Леа"]
+    answer: 1
+    explain: "*Mon père **viendra** te chercher à l'aéroport.* Брат Леа учится в университете."
+  - q: "Сколько будет длиться дорога до Квебека? Le voyage ___ trois heures."
+    answers: ["durera"]
+    explain: "*le voyage **durera** trois heures* — *durer* → *durer-* + *-a*."
+  - q: "Что Тома увидит и сделает в воскресенье?"
+    options: ["ледяной дворец и собачья упряжка", "Старый Квебек с мамой Леа", "звёзды в горах"]
+    answer: 0
+    explain: "*nous **irons** au Carnaval de Québec. Tu **verras** le palais de glace et tu **feras** du traîneau à chiens.* Старый Квебек — в понедельник."
+  - q: "Что советует взять мама Леа?"
+    options: ["сапоги и лыжи", "тёплое пальто, перчатки и шапку", "коньки"]
+    answer: 1
+    explain: "*Ma mère te **dit de** prendre un bon manteau, des gants et un bonnet.* — *dire à qn de* + инфинитив: «велеть, советовать». Сапоги он возьмёт у брата Леа."
+  - q: "Что запрещено в доме Леа?"
+    options: ["ходить в обуви", "звонить по телефону", "кататься на коньках"]
+    answer: 0
+    explain: "*il est interdit de garder ses chaussures dans la maison. **Tout le monde** les enlève à l'entrée !*"
+  - q: "При каком условии они поедут в шале?"
+    options: ["если будет не слишком холодно", "если всё будет хорошо", "если Тома захочет"]
+    answer: 1
+    explain: "***Si tout va bien**, nous **partirons** aussi deux jours dans un chalet* — *si* + *présent*, в главной части *futur*."
+  - q: "Что Тома не сможет делать в шале?"
+    options: ["смотреть на звёзды", "звонить", "спать"]
+    answer: 1
+    explain: "*il n'y a pas de réseau : tu **ne pourras pas** téléphoner* — *pouvoir* → *pourr-*."

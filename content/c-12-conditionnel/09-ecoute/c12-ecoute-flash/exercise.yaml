@@ -1,0 +1,36 @@
+title: "Flash info de 18 heures"
+type: listening
+intro: "Сводка новостей звучит один раз. Следи, какие сведения подтверждены, а какие поданы с оговоркой."
+hints:
+  - "Passé composé / présent — факт; conditionnel — по неподтверждённым данным."
+audio: audio/tts/c-12/flash.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  Il est dix-huit heures, voici les titres de l'actualité. Un important incendie s'est déclaré cet après-midi dans un entrepôt de la zone industrielle de Laval. Selon les premières informations, aucun blessé ne serait à déplorer, mais une centaine de personnes auraient été évacuées par précaution.
+
+  L'origine du feu reste inconnue. D'après un témoin, un court-circuit serait en cause ; les pompiers, eux, refusent pour l'instant de se prononcer.
+
+  En politique municipale, le maire aurait l'intention de briguer un troisième mandat. Il devrait l'annoncer officiellement lundi prochain.
+
+  Enfin, la météo : après une semaine de chaleur, des orages sont attendus dans la nuit. Si vous deviez prendre la route demain matin, soyez prudents : la chaussée risque d'être glissante.
+items:
+  - q: "Что известно точно?"
+    options: ["На складе в промзоне Лаваля начался пожар.", "Никто не пострадал.", "Причина — короткое замыкание."]
+    answer: 0
+    explain: "*Un important incendie **s'est déclaré**…* — passé composé, факт. Остальное подано в conditionnel."
+  - q: "Сколько человек, по первым данным, эвакуировали?"
+    options: ["около ста", "около десяти", "никого"]
+    answer: 0
+    explain: "*une centaine de personnes **auraient été évacuées*** — passé du conditionnel journalistique: «как сообщается, были эвакуированы»."
+  - q: "Откуда версия о коротком замыкании?"
+    options: ["от пожарных", "от свидетеля", "от мэра"]
+    answer: 1
+    explain: "*D'après un témoin, un court-circuit **serait** en cause ; les pompiers… refusent… de se prononcer.*"
+  - q: "Что сказано о мэре?"
+    options: ["Он уже объявил, что идёт на третий срок.", "По слухам, он намерен идти на третий срок и должен объявить об этом в понедельник.", "Он отказался от третьего срока."]
+    answer: 1
+    explain: "*le maire **aurait l'intention** de briguer un troisième mandat. Il **devrait** l'annoncer… lundi* — оба conditionnel: слух и вероятное событие. *briguer* — добиваться (должности)."
+  - q: "«Si vous deviez prendre la route demain matin» значит:"
+    options: ["«Вы должны выехать завтра утром»", "«Если вам придётся завтра утром ехать»", "«Если бы вы выехали вчера»"]
+    answer: 1
+    explain: "*Si* + imparfait от *devoir* — «если вдруг придётся»: предполагаемое условие. Совет — в императиве: *soyez prudents*."

@@ -1,0 +1,55 @@
+title: "Au magasin de vélos"
+type: listening
+intro: "Послушай разговор в магазине (дважды) и ответь на вопросы."
+hints:
+  - "Сравнения: trois fois plus cher — в три раза дороже."
+  - "Решение клиентки меняется в конце разговора."
+audio: audio/tts/a-24/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural, fr-FR-EloiseNeural", license: "TTS"}
+transcript: |
+  — Bonjour madame, je peux vous aider ?
+  — Bonjour. Je cherche un vélo pour aller au travail. J'habite à six kilomètres du bureau.
+  — Alors, regardez ces deux modèles. Le vert est un vélo de ville, le noir est un vélo électrique.
+  — Le noir est plus joli, mais il est plus lourd, non ?
+  — Oui, il est plus lourd : il pèse vingt-deux kilos. Le vert pèse seulement quatorze kilos. Mais avec son moteur, le noir est plus rapide et beaucoup moins fatigant.
+  — Et les prix ?
+  — Le vert coûte quatre cents euros. Le noir est trois fois plus cher : mille deux cents euros.
+  — Mille deux cents euros ! C'est le vélo le plus cher du magasin ?
+  — Non, le rouge, là-bas, est encore plus cher. Mais pour vous, le noir est le meilleur choix. Il y a des côtes dans votre quartier ?
+  — Oh oui, j'habite en haut de la colline. Mon mari, lui, monte à pied tous les jours, mais moi, je suis beaucoup moins sportive que lui !
+  — Alors, croyez-moi, avec le vert, cette colline sera votre pire ennemie !
+  — Ha ha ! Et pour mes enfants ? Ils ont dix et douze ans.
+  — Pour eux, nous avons de petits vélos très solides, à deux cents euros.
+  — Bon. Je vais réfléchir. Je reviens samedi avec mon mari : c'est lui qui fait les comptes à la maison !
+  — Pas de problème, samedi, c'est moi qui suis au magasin toute la journée. Mais attention : les vélos électriques sont en promotion jusqu'à vendredi seulement. Samedi, ils seront plus chers.
+  — Ah bon ? Alors je reviens jeudi soir, avec lui.
+  — Parfait. À jeudi, madame !
+items:
+  - q: "Зачем клиентке велосипед?"
+    options: ["чтобы ездить на работу", "чтобы кататься с детьми по выходным", "в подарок мужу"]
+    answer: 0
+    explain: "*Je cherche un vélo pour aller au travail. J'habite à six kilomètres du bureau.*"
+  - q: "Какой велосипед легче?"
+    options: ["чёрный электрический", "зелёный городской", "красный"]
+    answer: 1
+    explain: "Чёрный *plus lourd* — 22 кг; *le vert pèse seulement quatorze kilos*."
+  - q: "Сколько стоит чёрный велосипед?"
+    options: ["400 евро", "1200 евро", "200 евро"]
+    answer: 1
+    explain: "*Le noir est **trois fois plus cher** : mille deux cents euros* — в три раза дороже зелёного (400). 200 евро стоят детские."
+  - q: "Это самый дорогой велосипед в магазине?"
+    options: ["Да, самый дорогой.", "Нет, красный ещё дороже.", "Нет, зелёный дороже."]
+    answer: 1
+    explain: "*Non, le rouge, là-bas, est **encore plus cher**.* *Encore plus* — «ещё более»."
+  - q: "Почему продавец советует чёрный велосипед?"
+    options: ["Он самый красивый.", "Клиентка живёт на холме, а с мотором легче.", "На него сейчас самая большая скидка."]
+    answer: 1
+    explain: "*J'habite en haut de la colline… je suis beaucoup moins sportive que lui* — продавец: *avec le vert, cette colline sera votre pire ennemie*."
+  - q: "Кто в семье спортивнее?"
+    options: ["клиентка", "её муж", "её дети"]
+    answer: 1
+    explain: "*Mon mari, **lui**, monte à pied… mais **moi**, je suis beaucoup **moins sportive que lui**.* Ударные местоимения противопоставляют мужа и жену."
+  - q: "Когда клиентка вернётся в магазин?"
+    options: ["в субботу с мужем", "в четверг вечером с мужем", "в пятницу одна"]
+    answer: 1
+    explain: "Сначала она говорит *samedi*, но в субботу скидки уже не будет: *Alors je reviens **jeudi soir, avec lui***."

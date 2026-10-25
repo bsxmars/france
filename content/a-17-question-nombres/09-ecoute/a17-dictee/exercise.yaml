@@ -1,0 +1,47 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Числа можно писать цифрами или словами. Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "ils vendent, elles descendent — во мн. ч. слышно [д], но -ent не произносится."
+  - "qu'est-ce qui [кэски] — «что?» о подлежащем."
+items:
+  - audio: audio/tts/a-17/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Qu'est-ce qui fait ce bruit ?"]
+    explain: "«Что это шумит?» *Qu'est-ce qui* — вопрос к подлежащему-предмету."
+  - audio: audio/tts/a-17/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Il y a quatre-vingts élèves dans cette école.", "Il y a 80 élèves dans cette école.", "Il y a quatre vingts élèves dans cette école."]
+    explain: "«В этой школе восемьдесят учеников». *quatre-vingts* — с *-s*: после него ничего нет; *-s* связывается с *élèves* [катрёвэ̃зэлэв]."
+  - audio: audio/tts/a-17/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Qui répond au téléphone ?"]
+    explain: "«Кто отвечает по телефону?» *Qui* + глагол в 3-м лице ед. ч.; *il répond* — *-d* не звучит."
+  - audio: audio/tts/a-17/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Ce vélo coûte quatre cent quatre-vingt-dix euros.", "Ce vélo coûte 490 euros.", "Ce vélo coûte quatre-cent-quatre-vingt-dix euros."]
+    explain: "«Этот велосипед стоит 490 евро». *cent* без *-s*: дальше идёт число; *quatre-vingt-dix* — тоже без *-s*."
+  - audio: audio/tts/a-17/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Vous voyez la maison au bout de la rue ?"]
+    explain: "«Вы видите дом в конце улицы?» *vous voyez* — основа *voy-* в формах *nous* и *vous*."
+  - audio: audio/tts/a-17/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Elles descendent du bus devant la poste."]
+    explain: "«Они выходят из автобуса у почты». *elles descendent* — [д] слышно, значит, множественное число; *du bus* = *de + le*."
+  - audio: audio/tatoeba/474637.mp3
+    audio_source: {title: "Tatoeba #4266473", url: "https://tatoeba.org/fr/sentences/show/4266473", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je vends des voitures."]
+    explain: "«Я продаю машины». *je vends* — *-ds* на конце не звучит."
+  - audio: audio/tatoeba/472405.mp3
+    audio_source: {title: "Tatoeba #5829951", url: "https://tatoeba.org/fr/sentences/show/5829951", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Réponds en français, s'il te plaît.", "Réponds en français s'il te plait."]
+    explain: "«Ответь по-французски, пожалуйста». Повелительное наклонение *réponds* — как форма *tu*, но без *tu*."
+  - audio: audio/tatoeba/474802.mp3
+    audio_source: {title: "Tatoeba #4779581", url: "https://tatoeba.org/fr/sentences/show/4779581", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Maintenant nous attendons.", "Maintenant, nous attendons."]
+    explain: "«Теперь мы ждём». *nous attendons* — связывание [нузатãдõ]."
+  - audio: audio/tatoeba/472298.mp3
+    audio_source: {title: "Tatoeba #5420024", url: "https://tatoeba.org/fr/sentences/show/5420024", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Qui est votre professeur de français ?"]
+    explain: "«Кто у вас преподаёт французский?» *Qui* — вопрос о человеке."

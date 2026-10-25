@@ -1,0 +1,49 @@
+title: "Le meunier et ses deux fils"
+type: reading
+intro: "Прочитай сказку и ответь на вопросы. В вопросах с полем впиши одно слово из текста."
+hints:
+  - "Passé simple — события сказки, imparfait — описание героев."
+  - "plus vite — быстрее, mieux — лучше (о действии)."
+text: |
+  ## Le meunier et ses deux fils
+
+  Il était une fois un vieux meunier. Il avait deux fils, Pierre et Jean. Pierre était grand et fort : il courait plus vite que tous les garçons du village et il travaillait plus vite que son frère. Jean, lui, était plus petit et plus calme. Il travaillait moins vite, mais il travaillait mieux.
+
+  Un hiver, le meunier tomba malade. Il appela ses deux fils et leur dit : « Je suis vieux, et je vais donner le moulin à l'un de vous deux. Demain, vous irez à la ville et chacun rapportera un sac de blé. Le premier ici aura le moulin. »
+
+  Le lendemain, les deux frères partirent à l'aube. Pierre courut le plus vite possible. À midi, il arriva à la ville, acheta un sac de blé et repartit tout de suite. Mais le sac était lourd et la route montait. Bientôt, Pierre marcha moins vite, puis il s'arrêta. Il s'assit sous un arbre et s'endormit.
+
+  Jean marcha lentement toute la journée. Il ne courut pas une seule fois, et il ne s'arrêta pas. Le soir, il passa près de l'arbre et vit son frère. Il le réveilla et lui dit : « Viens, nous rentrerons ensemble. Je vais t'aider. »
+
+  Les deux frères arrivèrent au moulin à minuit. Le meunier les regarda longtemps, puis il sourit : « Pierre, tu cours plus vite que Jean. Jean, tu vas plus loin que lui. Ensemble, vous travaillerez mieux que moi. » Et il leur donna le moulin à tous les deux.
+items:
+  - q: "Чем Пьер отличался от Жана?"
+    options: ["Он работал быстрее, а Жан — лучше.", "Он работал лучше, а Жан — быстрее.", "Он был младше и спокойнее."]
+    answer: 0
+    explain: "*Pierre… travaillait **plus vite** que son frère… Jean… travaillait **moins vite**, mais il travaillait **mieux**.*"
+  - q: "Что решил мельник?"
+    options: ["Продать мельницу в городе.", "Отдать мельницу тому, кто первым принесёт мешок зерна.", "Отдать мельницу старшему сыну."]
+    answer: 1
+    explain: "*Chacun rapportera un sac de blé. Le premier ici aura le moulin.*"
+  - q: "Почему Пьер остановился?"
+    options: ["Мешок был тяжёлым, а дорога шла в гору.", "Он потерял дорогу в городе.", "Он ждал брата."]
+    answer: 0
+    explain: "*Mais le sac était lourd et la route montait. Bientôt, Pierre marcha moins vite, puis il s'arrêta.* Imparfait (*était, montait*) — обстоятельства, passé simple (*marcha, s'arrêta*) — события."
+  - q: "Как шёл Жан?"
+    options: ["бегом, но с остановками", "медленно, но без остановок", "быстрее брата"]
+    answer: 1
+    explain: "*Jean marcha lentement toute la journée. Il ne courut pas une seule fois, et il ne s'arrêta pas.*"
+  - q: "Что сделал Жан, когда увидел брата?"
+    options: ["Прошёл мимо и пришёл первым.", "Разбудил его и предложил вернуться вместе.", "Взял его мешок и ушёл."]
+    answer: 1
+    explain: "*Il vit son frère. Il le réveilla et lui dit : « Viens, nous rentrerons ensemble. »* *il vit* — passé simple от *voir* («увидел»), а не *vivre*."
+  - q: "Кому досталась мельница?"
+    options: ["Пьеру", "Жану", "обоим братьям"]
+    answer: 2
+    explain: "*Il leur donna le moulin **à tous les deux**.* Вместе братья *travailleront mieux* — смысл сказки."
+  - q: "Впиши форму passé simple из текста: «Братья ушли на рассвете» — Les deux frères ___ à l'aube."
+    answers: ["partirent"]
+    explain: "*partir* → *ils **partirent*** (passé simple на *-i*, 3-е л. мн. ч. *-irent*)."
+  - q: "Впиши из текста наречие: Jean travaillait moins vite, mais il travaillait ___."
+    answers: ["mieux"]
+    explain: "**mieux** — «лучше» о действии (сравнительная степень *bien*). ~~plus bien~~ не бывает."

@@ -1,0 +1,12 @@
+# rate: -15%
+# pause: 800
+E: Théo, mets la table, s'il te plaît. Nous sommes huit ce soir.
+D: Huit ? Tu as assez de chaises ?
+E: Non, j'en ai six. Va chercher deux chaises chez la voisine.
+D: D'accord. Et les verres ? Il y en a combien ?
+E: Il y en a douze dans le placard. Mets aussi les assiettes rouges.
+D: Je mets des bougies sur le gâteau ? Mamie a soixante-sept ans, non ?
+E: Non, elle a soixante-neuf ans ! Mais ne mets pas soixante-neuf bougies. Mets-en dix.
+D: Et des fleurs, il y en a ?
+E: Non, il n'y en a pas. Achètes-en au marché, s'il te plaît.
+D: Bon, j'y vais. Et toi, maman, sois calme. Tout va bien !

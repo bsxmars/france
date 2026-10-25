@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "ces / ses и cet / cette звучат одинаково: выбирай по смыслу и роду слова."
+  - "lisent, écrivent: окончание -ent не слышно, но согласный основы слышен."
+items:
+  - audio: audio/tts/a-12/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Nos enfants lisent beaucoup."]
+    explain: "«Наши дети много читают». *nos* — «наши» при нескольких предметах; связывание [no-zɑ̃-fɑ̃]."
+  - audio: audio/tts/a-12/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Cette école est très grande."]
+    explain: "«Эта школа очень большая». *école* — ж. р., поэтому **cette**, хотя звучит так же, как *cet*."
+  - audio: audio/tts/a-12/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["J'écris à mes parents."]
+    explain: "«Я пишу родителям». *écrire **à*** — кому пишут; *mes* [me] — «мои»."
+  - audio: audio/tts/a-12/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Ils écrivent leurs noms au tableau."]
+    explain: "«Они пишут свои имена на доске». *leurs* — у каждого своё имя, имён несколько; *au tableau* — *à + le*."
+  - audio: audio/tts/a-12/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Vous lisez ce journal ?"]
+    explain: "«Вы читаете эту газету?» *journal* — м. р., на согласную → **ce**; *vous lisez* — от полной основы *lis-*."
+  - audio: audio/tatoeba/471445.mp3
+    audio_source: {title: "Tatoeba #432721", url: "https://tatoeba.org/fr/sentences/show/432721", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je lis un livre sur les animaux."]
+    explain: "«Я читаю книгу о животных». *je lis* — окончание III группы *-s*; *sur* здесь «о, про»."
+  - audio: audio/tatoeba/473060.mp3
+    audio_source: {title: "Tatoeba #6309497", url: "https://tatoeba.org/fr/sentences/show/6309497", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je préfère écrire en français."]
+    explain: "«Я предпочитаю писать по-французски». После *préférer* — инфинитив *écrire*; *je préfère* — *é* меняется на *è* под ударением."
+  - audio: audio/tatoeba/473129.mp3
+    audio_source: {title: "Tatoeba #6463286", url: "https://tatoeba.org/fr/sentences/show/6463286", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Écrivez-vous en français ?"]
+    explain: "«Вы пишете по-французски?» Вопрос инверсией; *écrivez* — полная основа *écriv-*."
+  - audio: audio/tatoeba/472371.mp3
+    audio_source: {title: "Tatoeba #5762795", url: "https://tatoeba.org/fr/sentences/show/5762795", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Votre français est parfait."]
+    explain: "«Ваш французский безупречен». *votre* + сущ. м. р.; *parfait* — «совершенный, отличный»."

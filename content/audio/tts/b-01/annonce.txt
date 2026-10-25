@@ -1,0 +1,5 @@
+# pause: 600
+H: Vous avez beau ranger votre armoire, elle déborde toujours ? Le grand troc de vêtements de la Maison des associations revient le samedi douze avril, de dix heures à dix-sept heures.
+H: Le principe est simple : en apportant jusqu'à dix vêtements propres et en bon état, vous recevez des points permettant d'en choisir d'autres. Les dépôts sont acceptés la veille, le vendredi, entre quinze heures et dix-neuf heures, au rez-de-chaussée.
+H: Bien que l'entrée soit gratuite, une participation de deux euros est demandée pour le café et les gâteaux. Les vêtements restant à la fin de la journée seront donnés à une association du quartier.
+H: Attention : les chaussures et les sous-vêtements ne sont pas acceptés.

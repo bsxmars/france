@@ -1,0 +1,40 @@
+title: "Message : le service des objets trouvés"
+type: listening
+intro: "Сообщение звучит один раз. Прочитай вопросы заранее; в пропуски впиши число или слово из записи."
+hints:
+  - "Celui que… / l'autre… — два разных рюкзака."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c-05/message.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  Bonjour, ici le service des objets trouvés de la gare du Midi, à Bruxelles. Ce message s'adresse à madame Lefèvre. Vous nous avez signalé hier la perte d'un sac à dos gris, oublié dans le train de huit heures quinze. Nous en avons retrouvé deux qui correspondent à votre description.
+
+  Celui que nous avons trouvé dans le premier wagon contient un ordinateur et un trousseau de clés ; l'autre, des livres et une écharpe rouge. Pour que nous puissions savoir lequel est le vôtre, merci de nous rappeler et de nous décrire ce qu'il y avait à l'intérieur.
+
+  Notre bureau est ouvert du lundi au samedi, de sept heures à dix-neuf heures. N'oubliez pas d'apporter une pièce d'identité. Les objets que personne ne réclame dans un délai de trois mois sont remis à une association. Bonne journée.
+items:
+  - q: "Мадам Лефевр потеряла…"
+    options: ["серый рюкзак", "красный шарф", "ноутбук"]
+    answer: 0
+    explain: "*la perte d'un sac à dos gris* — шарф и ноутбук лежат в найденных рюкзаках."
+  - q: "Le sac a été oublié dans le train de huit heures ___."
+    answers: ["quinze", "15"]
+    explain: "*oublié dans le train de huit heures **quinze***."
+  - q: "On a retrouvé ___ sacs qui correspondent à la description."
+    answers: ["deux", "2"]
+    explain: "*Nous **en** avons retrouvé **deux*** — *en* + числительное."
+  - q: "Что лежит в рюкзаке из первого вагона?"
+    options: ["книги и красный шарф", "ноутбук и связка ключей", "документы"]
+    answer: 1
+    explain: "*Celui que nous avons trouvé dans le premier wagon contient un ordinateur et un trousseau de clés ; l'autre, des livres et une écharpe rouge.*"
+  - q: "Что нужно сделать, чтобы бюро поняло, какой рюкзак её?"
+    options: ["Прислать фотографию рюкзака.", "Перезвонить и описать содержимое.", "Прийти с билетом на поезд."]
+    answer: 1
+    explain: "*Pour que nous puissions savoir **lequel est le vôtre**, merci de nous rappeler et de nous décrire ce qu'il y avait à l'intérieur.*"
+  - q: "Что надо взять с собой?"
+    options: ["удостоверение личности", "ключи от дома", "квитанцию о покупке"]
+    answer: 0
+    explain: "*N'oubliez pas d'apporter une pièce d'identité.*"
+  - q: "Les objets non réclamés sont donnés à une association après ___ mois."
+    answers: ["trois", "3"]
+    explain: "*Les objets que personne ne réclame dans un délai de **trois** mois sont remis à une association.*"

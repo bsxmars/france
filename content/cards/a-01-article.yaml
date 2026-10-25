@@ -26,3 +26,23 @@
   lesson: a-01-article/01-grammaire
   q: "Переведи с артиклем: стол, гараж, школа."
   a: "*la table* (ж. р.!), *le garage* (м. р.!), *l'école* (ж. р.). Род учи вместе со словом."
+- id: a01-voici
+  lesson: a-01-article/07-lecture
+  q: "«Вот вокзал», «Вот Поль»."
+  a: "***Voici** la gare.* — с артиклем; ***Voici** Paul.* — перед именем артикля нет."
+- id: a01-de-genitif
+  lesson: a-01-article/07-lecture
+  q: "«Чашка Леи», «кафе у вокзала (вокзальное)»."
+  a: "*la tasse **de** Léa*, *le café **de** la gare*: *de* передаёт русский родительный падеж."
+- id: a01-sur-la-table
+  lesson: a-01-article/09-ecoute
+  q: "«Чашка на столе»."
+  a: "*La tasse **est sur** la table.* — нужна связка *est*, *sur* — «на»."
+- id: a01-le-la-oral
+  lesson: a-01-article/09-ecoute
+  q: "Как на слух отличить *le*, *la* и *les*?"
+  a: "**le** [lə] — краткий неясный звук, **la** [la] — открытое [a], **les** [le]; перед гласной — [lez]: *les amis* [le-za-mi]."
+- id: a01-cafe-petit
+  lesson: a-01-article/08-ecriture
+  q: "«Кафе маленькое, но терраса большая»."
+  a: "*Le café **est** petit, **mais** la terrasse **est** grande.* — артикль, связка, согласование *grand → grande*."

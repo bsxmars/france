@@ -1,0 +1,45 @@
+title: "Une lettre de la campagne"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросах с полем впиши одно слово из текста."
+hints:
+  - "Вопросы идут по порядку текста: утро, день, вечер."
+  - "y — «туда, там», en — «оттуда»: найди место, названное раньше."
+text: |
+  **Chère Inès,**
+
+  Je suis à la campagne, chez mes grands-parents, pour deux semaines. Leur maison est petite, mais leur jardin est très grand.
+
+  Le matin, je fais une promenade avec mon grand-père. Nous allons au village : nous y allons à pied. Le mercredi, il y a un marché. Nous en revenons à midi avec des fruits et des légumes.
+
+  L'après-midi, quand il fait beau, nous allons à la rivière et nous y restons jusqu'à six heures. Ma grand-mère ne vient pas : elle fait des gâteaux à la maison.
+
+  Le soir, nous jouons aux cartes. Mon grand-père joue très bien, mais moi aussi, je fais des progrès !
+
+  Et toi, comment vas-tu ? Quand pars-tu à la mer ? Tu viens ici en août ?
+
+  **Bisous,**
+  **Camille**
+items:
+  - q: "Где и у кого Камилла?"
+    options: ["на море, у подруги", "в деревне, у бабушки с дедушкой", "в городе, у родителей"]
+    answer: 1
+    explain: "*Je suis à la campagne, chez mes grands-parents.* Море — это вопрос к Инес: *Quand pars-tu à la mer ?*"
+  - q: "Как Камилла с дедушкой добираются до посёлка?"
+    options: ["пешком", "на автобусе", "на велосипеде"]
+    answer: 0
+    explain: "*Nous allons au village : nous y allons à pied.* — *y* = *au village*."
+  - q: "Когда в посёлке рынок?"
+    options: ["каждый день утром", "по средам", "по субботам в полдень"]
+    answer: 1
+    explain: "*Le mercredi, il y a un marché* — *le* перед днём недели: «каждую среду». В полдень они **возвращаются** с рынка."
+  - q: "Что делает бабушка, пока все на реке?"
+    options: ["гуляет в саду", "играет в карты", "печёт пирожные дома"]
+    answer: 2
+    explain: "*Ma grand-mère ne vient pas : elle fait des gâteaux à la maison.* — *faire des gâteaux* «печь пирожные»."
+  - q: "Что делают вечером?"
+    options: ["играют в карты", "ходят на рынок", "сидят у реки до шести"]
+    answer: 0
+    explain: "*Le soir, nous jouons aux cartes* — *jouer aux cartes*: *aux* = *à + les*."
+  - q: "Впиши слово из текста, которое заменяет «à la rivière»: nous ___ restons jusqu'à six heures."
+    answers: ["y"]
+    explain: "**y** заменяет место с *à* — «там». *En* заменило бы место с *de*: *nous en revenons* (= *du village*)."

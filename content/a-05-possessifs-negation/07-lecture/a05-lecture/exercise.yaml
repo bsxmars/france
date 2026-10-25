@@ -1,0 +1,43 @@
+title: "Une lettre de Lyon"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросах с полем впиши одно слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "son / sa / ses — «его» или «её»: решает владелец, а не род слова."
+text: |
+  **Chère Anna,**
+
+  Je suis à Lyon, chez ma sœur Claire. Claire est architecte. Son mari, Paul, est médecin. Ils habitent un petit appartement rue Mercière.
+
+  Leur fille, Lou, est jeune : elle est à l'école. Elle n'est pas timide, elle parle beaucoup !
+
+  Le soir, Paul joue du piano et Lou chante. Moi, je ne chante pas, je regarde et j'écoute. C'est une famille de musique.
+
+  Et toi ? Tu es à Paris avec tes parents ?
+
+  **Bisous,**
+  **Marie**
+items:
+  - q: "Где сейчас Мари?"
+    options: ["в Париже, у родителей", "в Лионе, у сестры", "в Лионе, в школе"]
+    answer: 1
+    explain: "*Je suis à Lyon, chez ma sœur Claire* — «у моей сестры Клер»."
+  - q: "Кто Клер по профессии?"
+    options: ["врач", "архитектор", "пианистка"]
+    answer: 1
+    explain: "*Claire est architecte* — профессия после *être* без артикля."
+  - q: "Кто Поль?"
+    options: ["брат Мари", "муж Клер", "отец Анны"]
+    answer: 1
+    explain: "*Son mari, Paul* — «её муж»: *son* относится к Клер."
+  - q: "Что известно о Лу?"
+    options: ["Она застенчивая и молчит.", "Она ходит в школу и много говорит.", "Она архитектор, как мама."]
+    answer: 1
+    explain: "*Elle est à l'école. Elle n'est pas timide, elle parle beaucoup !* — отрицание у *timide*."
+  - q: "Что делает Мари вечером?"
+    options: ["поёт с Лу", "играет на пианино", "смотрит и слушает"]
+    answer: 2
+    explain: "*Moi, je ne chante pas, je regarde et j'écoute.*"
+  - q: "Впиши из текста: «их дочь» — ___ fille."
+    answers: ["leur"]
+    explain: "**leur** — «их» при одном предмете; *leurs* — при нескольких."

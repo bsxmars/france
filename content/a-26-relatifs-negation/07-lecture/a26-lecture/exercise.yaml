@@ -1,0 +1,56 @@
+title: "Une semaine sans écran"
+type: reading
+intro: "Прочитай запись в блоге и ответь на вопросы. В вопросах с полем впиши одно слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Personne ne… — никто не…; ne… rien — ничего; ne… plus — больше не."
+text: |
+  ## Une semaine sans écran
+
+  Le mois dernier, j'ai fait une promesse à ma fille : une semaine sans téléphone, sans ordinateur et sans télévision. Elle ne m'a pas crue. « Toi ? Tu ne tiendras jamais ! »
+
+  Le premier jour a été le plus difficile. Le matin, je n'avais rien à lire dans le métro. Personne ne pouvait m'écrire, et je ne savais même pas l'heure : ma montre, je ne la mets plus depuis des années !
+
+  Le deuxième jour, je me suis mise à observer les gens. Dans le métro, il y avait une dame qui lisait un vrai livre, un garçon qui dessinait et un vieil homme que je vois tous les matins. Ce jour-là, pour la première fois, nous avons parlé.
+
+  Le soir, à la maison, nous n'avons regardé ni la télévision ni nos téléphones. Nous avons joué aux cartes, et ma fille m'a appris un jeu que je ne connaissais pas.
+
+  Bien sûr, tout n'a pas été facile. Au bureau, une collègue m'a remis un dossier urgent sur une clé USB… et je ne pouvais rien faire ! Heureusement, mon chef m'a permis de travailler sur papier pendant trois jours.
+
+  À la fin de la semaine, je n'avais plus envie de reprendre mon téléphone. Je ne suis pas devenue une autre personne, mais j'ai changé une habitude : chez nous, après huit heures du soir, personne ne touche à son téléphone. C'est une règle que nous avons écrite ensemble, ma fille et moi.
+
+  Et vous, est-ce que vous pouvez vivre une semaine sans écran ?
+
+  *Hélène, 42 ans*
+items:
+  - q: "Что Элен пообещала дочери?"
+    options: ["неделю без телефона, компьютера и телевизора", "неделю без работы", "читать каждый день в метро"]
+    answer: 0
+    explain: "*j'ai fait une promesse à ma fille : une semaine sans téléphone, sans ordinateur et sans télévision.*"
+  - q: "Как отреагировала дочь?"
+    options: ["Она сразу согласилась тоже попробовать.", "Она не поверила маме.", "Она рассердилась."]
+    answer: 1
+    explain: "*Elle ne m'a pas crue. « Tu ne tiendras jamais ! »* — «ты ни за что не выдержишь». *crue* согласуется с *m'* (Элен)."
+  - q: "Почему Элен не знала, который час?"
+    options: ["Её часы сломались.", "Она давно не носит часы.", "Она оставила часы дома."]
+    answer: 1
+    explain: "*ma montre, je **ne** la mets **plus** depuis des années* — «я уже много лет их не ношу»."
+  - q: "Что произошло на второй день?"
+    options: ["Она впервые поговорила с пожилым мужчиной, которого видит каждое утро.", "Она нарисовала портрет мальчика в метро.", "Она взяла книгу у незнакомой дамы."]
+    answer: 0
+    explain: "*un vieil homme **que** je vois tous les matins. Ce jour-là, pour la première fois, nous avons parlé.* *que* — его вижу я. Читала дама, рисовал мальчик."
+  - q: "Что Элен и дочь делали вечером?"
+    options: ["смотрели телевизор", "играли в карты", "читали книги"]
+    answer: 1
+    explain: "*nous n'avons regardé **ni** la télévision **ni** nos téléphones. Nous avons joué aux cartes.*"
+  - q: "Как решилась проблема на работе?"
+    options: ["Коллега распечатала файл.", "Начальник разрешил три дня работать на бумаге.", "Элен взяла компьютер домой."]
+    answer: 1
+    explain: "*mon chef m'a **permis de** travailler sur papier pendant trois jours.* *permettre à qn de faire* — разрешить кому-то."
+  - q: "Vrai / faux / on ne sait pas: в конце недели Элен очень хотела снова взять телефон."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "Неверно: *je **n'**avais **plus** envie de reprendre mon téléphone* — «мне уже не хотелось»."
+  - q: "Впиши относительное местоимение из текста: C'est une règle ___ nous avons écrite ensemble."
+    answers: ["que"]
+    explain: "Правило написали *мы* → оно дополнение → **que**. Причастие *écrite* согласуется с *que* = *une règle*."

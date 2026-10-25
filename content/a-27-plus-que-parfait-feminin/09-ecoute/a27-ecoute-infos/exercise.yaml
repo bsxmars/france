@@ -1,0 +1,41 @@
+title: "Les informations de midi"
+type: listening
+intro: "Выпуск новостей бельгийского радио. Прочитай вопросы заранее, послушай и ответь."
+hints:
+  - "Числа можно писать цифрами или словами."
+  - "était montée, avait fermé — plus-que-parfait: это произошло ещё до утра."
+audio: audio/tts/a-27/infos.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  Les informations de midi.
+
+  Il a plu sans arrêt pendant deux jours sur la région de Liège. Ce matin, la Meuse était montée de deux mètres, et la police avait fermé trois routes avant six heures.
+
+  À Huy, l'école primaire est restée fermée. La directrice, madame Lambert, avait prévenu les parents hier soir par message.
+
+  Selon la météo, il pleuvra encore demain matin, mais le soleil reviendra l'après-midi. Il faudra attendre jeudi pour voir la rivière baisser.
+
+  Enfin, une bonne nouvelle : le nouveau pont de Namur est ouvert depuis ce matin. Les ouvriers l'avaient construit en trois ans. C'est la bourgmestre, Anne Dubois, qui a coupé le ruban.
+items:
+  - q: "Сколько дней шёл дождь?"
+    options: ["один день", "два дня", "три дня"]
+    answer: 1
+    explain: "*Il a plu sans arrêt pendant **deux jours**.* Три — это число дорог и лет стройки."
+  - q: "Ce matin, la Meuse était montée de ___ mètres."
+    answers: ["deux", "2"]
+    explain: "*la Meuse **était montée** de deux mètres* — *monter* с *être*, причастие согласуется с *la Meuse*."
+  - q: "La police avait fermé ___ routes."
+    answers: ["trois", "3"]
+    explain: "*la police avait fermé trois routes avant six heures.*"
+  - q: "Кто предупредил родителей, что школа закрыта?"
+    options: ["полиция", "директор школы", "мэр"]
+    answer: 1
+    explain: "*La **directrice**, madame Lambert, **avait prévenu** les parents hier soir par message.*"
+  - q: "Когда вода в реке начнёт спадать?"
+    options: ["завтра после обеда", "в четверг", "уже сегодня"]
+    answer: 1
+    explain: "*Il faudra attendre **jeudi** pour voir la rivière baisser.* Завтра после обеда вернётся солнце."
+  - q: "Сколько времени строили новый мост в Намюре?"
+    options: ["три года", "два года", "шесть месяцев"]
+    answer: 0
+    explain: "*Les ouvriers l'**avaient construit** en trois ans.* (*construire → construit*)"

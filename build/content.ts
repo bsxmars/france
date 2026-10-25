@@ -118,8 +118,9 @@ export interface Course {
 /** The top-level content directory with audio files. */
 export const AUDIO_DIR = 'audio';
 
-/** Licenses under which audio may be stored in the course and served from it. */
-const OPEN_LICENSES = new Set(['CC0', 'CC BY', 'CC BY-SA', 'PD']);
+/** Licenses under which audio may be stored in the course and served from it.
+ * TTS is the course's own text voiced by a speech synthesizer; author names the voice. */
+const OPEN_LICENSES = new Set(['CC0', 'CC BY', 'CC BY-SA', 'PD', 'TTS']);
 
 /** Sites a listening exercise may link to: their recordings are copyrighted,
  * so the course keeps only its own questions and sends the learner there. */
@@ -149,8 +150,9 @@ function validateSource(a: AudioSource | null, stored: boolean) {
   if (!a) throw new Error('needs audio_source');
   if (!a.title || !a.url || !a.license) throw new Error('audio_source needs title, url and license');
   if (stored && !OPEN_LICENSES.has(licenseBase(a.license)))
-    throw new Error(`audio stored in the course must be CC0, CC BY, CC BY-SA or PD, got "${a.license}"`);
+    throw new Error(`audio stored in the course must be CC0, CC BY, CC BY-SA, PD or TTS, got "${a.license}"`);
   if (stored && a.license.startsWith('CC BY') && !a.author) throw new Error(`${a.license} needs author for attribution`);
+  if (a.license === 'TTS' && !a.author) throw new Error('TTS needs author: the voice, e.g. fr-FR-DeniseNeural');
 }
 
 export const isChoice = (it: Item) => it.options.length > 0;

@@ -87,7 +87,8 @@ export function course(contentDir = 'content'): Plugin {
 
     generateBundle() {
       const audio = join(root, AUDIO_DIR);
-      for (const file of walk(audio)) {
+      // Only recordings: the voiced scripts (.txt) next to them stay out of the site.
+      for (const file of walk(audio).filter((f) => /\.(mp3|ogg|wav)$/.test(f))) {
         this.emitFile({ type: 'asset', fileName: relative(root, file).split(sep).join('/'), source: readFileSync(file) });
       }
     },

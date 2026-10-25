@@ -1,0 +1,14 @@
+# rate: -15%
+# pause: 800
+A: Salut ! Tu es Marc, l'ami de Léa ?
+F: Oui, c'est moi. Et toi, tu es Claire ?
+A: Oui. Léa dit que tu es canadien.
+F: Oui, je suis québécois, de Montréal.
+A: Et à Paris, est-ce que tu travailles ?
+F: Oui, je suis professeur d'anglais dans une école.
+A: Parles-tu aussi russe ? Léa dit que tu lis Tolstoï !
+F: Non, je ne parle pas russe. Je lis Tolstoï en français ! Et toi, tu travailles ici ?
+A: Oui, je suis secrétaire. Mais en septembre, je pars à Lyon.
+F: Ah bon ? Et Léa, part-elle aussi à Lyon ?
+A: Non, Léa reste à Paris. Bon, je vais à la gare. Au revoir, Marc !
+F: Au revoir, Claire !

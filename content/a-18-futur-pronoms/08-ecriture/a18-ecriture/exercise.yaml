@@ -1,0 +1,32 @@
+title: "Message : on prépare la fête"
+type: writing
+intro: "Напиши письмо другу по плану урока."
+prompt: |
+  Samedi, c'est l'anniversaire d'un(e) ami(e). Avec un autre ami, vous préparez une fête. Tu lui écris : qu'est-ce que tu viens de faire ? Qu'est-ce que vous allez faire ? Qui apporte quoi ? Où et à quelle heure ?
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "futur immédiat: aller + инфинитив"
+  - "passé immédiat: venir de + инфинитив"
+  - "местоимения le, la, les, lui, leur перед глаголом"
+  - "de после слов количества: un kilo de, deux bouteilles de"
+  - "порядковые числа: le troisième étage"
+checklist:
+  - "Есть обращение, повод праздника и прощание."
+  - "Хотя бы два действия с venir de + инфинитив и два с aller + инфинитив."
+  - "Хотя бы два местоимения: одно прямое (le, la, les), одно косвенное (lui, leur)."
+  - "Местоимение стоит перед инфинитивом: je vais lui offrir, а не je lui vais offrir."
+  - "После слов количества — de без артикля: un kilo de fraises."
+  - "Указаны место (этаж — порядковым числом) и время."
+model_answer: |
+  Salut Lucas !
+
+  Samedi, c'est l'anniversaire de Nina. Je viens de réserver une salle au café Le Jardin, au premier étage. Je viens aussi de téléphoner à ses parents : ils vont lui offrir un vélo. Nous, nous allons lui acheter un livre.
+
+  Tu apportes deux bouteilles de jus et un kilo de fraises ? Moi, je vais faire le gâteau. Les amis de Nina vont l'attendre à huit heures. Son frère va la chercher chez elle et il va l'amener au café.
+
+  Tu sais où est le café ? C'est la deuxième rue à droite après la poste.
+
+  Réponds-moi vite !
+  Mila

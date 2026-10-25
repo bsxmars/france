@@ -1,0 +1,26 @@
+title: "Message : mon livre préféré"
+type: writing
+intro: "Напиши сообщение другу о книге, которую ты сейчас читаешь, по плану урока."
+prompt: |
+  Tu écris un message à ton ami(e) français(e). Tu parles du livre que tu lis : le titre, l'auteur, ton opinion. Tu parles aussi de ton club de lecture et tu invites ton ami(e).
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "притяжательные: mon, ma, mes, notre, nos, votre, leur"
+  - "указательные: ce, cet, cette, ces"
+  - "lire и écrire: je lis, nous lisons, ils lisent; j'écris, nous écrivons"
+checklist:
+  - "Есть обращение (Salut… / Cher… / Chère…) и прощание."
+  - "Названа книга и автор: Je lis… C'est un livre de…"
+  - "Есть хотя бы два указательных: ce livre, cette histoire, cet auteur, ces pages."
+  - "Есть notre / nos или leur / leurs — согласовано с числом предмета."
+  - "lire и écrire — в правильной форме: nous lisons, ils lisent, nous écrivons."
+  - "После écrire перед адресатом — предлог à: écris à…, écris-moi."
+model_answer: |
+  Salut Hugo,
+
+  Je lis un livre de Victor Hugo, *Les Misérables*. Ce livre est très long, mais cette histoire est belle. Le jeudi, mes amis et moi, nous lisons ensemble à la bibliothèque. Nous écrivons aussi nos commentaires. Notre club est gratuit. Tu aimes lire ? Écris-moi vite !
+
+  Bisous,
+  Anna

@@ -1,0 +1,26 @@
+title: "Message : ma famille"
+type: writing
+intro: "Напиши сообщение другу о своей семье по плану урока."
+prompt: |
+  Tu écris à ton ami(e) français(e). Tu présentes ta famille : qui c'est, la profession, la ville.
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "притяжательные: mon, ma, mes, son, sa, leur"
+  - "être + профессия без артикля"
+  - "ne… pas"
+checklist:
+  - "Есть обращение (Cher… / Chère…) и прощание."
+  - "Про каждого человека — с глаголом: Mon père est…, Elle habite…"
+  - "Профессия после être — без артикля."
+  - "Притяжательное согласовано с родом слова: ma sœur, mon frère, mes parents."
+  - "Есть хотя бы одно отрицание ne… pas."
+  - "Перед гласной — элизия: l'école, n'est, j'écoute."
+model_answer: |
+  Chère Léa,
+
+  Je suis à Nantes chez mes parents. Mon père est professeur, ma mère est secrétaire. Mon frère Hugo habite à Paris. Il est architecte. Sa femme n'est pas française, elle est italienne. Leur fille est petite. Et toi ? Tu es à Lyon ?
+
+  Bisous,
+  Anna

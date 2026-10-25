@@ -1,0 +1,64 @@
+title: "À qui appartiennent les trésors des musées ?"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем впиши местоимение из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Различай лагеря: adversaires и défenseurs de la restitution."
+text: |
+  ## À qui appartiennent les trésors des musées ?
+
+  *Statues, masques, manuscrits : des milliers d'objets conservés en Europe ont été acquis pendant la période coloniale. Leur restitution, longtemps impensable, est aujourd'hui au cœur d'un débat dont les enjeux dépassent largement les musées.*
+
+  En novembre 2021, vingt-six œuvres du royaume d'Abomey, parmi lesquelles des trônes et des statues royales, ont quitté Paris pour Cotonou. Pillées par l'armée française en 1892, elles ont été accueillies au Bénin par des milliers de visiteurs, dont beaucoup en avaient entendu parler toute leur vie sans les avoir jamais vues. Pour les uns, c'était un geste historique ; pour les autres, un précédent dangereux. Les deux camps avaient au moins un point commun : ils savaient que rien ne serait plus comme avant.
+
+  La question que pose la restitution est simple en apparence : à qui ces objets appartiennent-ils ? Juridiquement, la réponse a longtemps été claire. Les collections publiques françaises sont « inaliénables » : ce qui y entre ne peut plus en sortir, sauf par une loi spéciale. Ce principe, auquel les conservateurs restent très attachés, a protégé les musées contre les ventes et les dispersions. Mais il a aussi servi d'argument pour ne jamais examiner l'origine des collections.
+
+  Or c'est précisément cette origine qui fait problème. Parmi les objets africains conservés en Europe, beaucoup ont été achetés honnêtement, d'autres ont été offerts, d'autres encore ont été pris par la force. Les distinguer suppose un travail minutieux, auquel les musées se sont longtemps refusés. Ce à quoi les chercheurs s'attellent aujourd'hui, c'est la reconstitution du parcours de chaque objet : qui l'a acquis, dans quelles circonstances, contre quoi.
+
+  Les adversaires de la restitution avancent plusieurs arguments, dont deux méritent d'être pris au sérieux. Le premier est universaliste : un musée comme le Louvre ou le British Museum ne serait pas celui d'une nation, mais celui de l'humanité tout entière, et c'est à ce titre qu'il conserverait des œuvres venues de partout. Le second est pratique : les pays d'origine disposent-ils des moyens de conserver ces objets fragiles ? À ces questions, les défenseurs de la restitution répondent par une autre : pourquoi ce qui serait « universel » se trouve-t-il presque toujours à Paris, à Londres ou à Berlin, et si rarement à Dakar ou à Lagos ? Quant aux moyens, ils rappellent que plusieurs musées africains, dont celui des Civilisations noires à Dakar, n'ont rien à envier aux nôtres.
+
+  Le débat dépasse d'ailleurs les seuls objets. Ce dont il est question, au fond, c'est de la manière dont l'Europe regarde son passé. Rendre un objet, ce n'est pas effacer l'histoire ; c'est reconnaître qu'elle a eu des victimes. Celles-ci ne peuvent plus rien réclamer ; leurs descendants, eux, le peuvent. Et leur patrimoine n'est pas moins précieux que le nôtre.
+
+  Faut-il alors tout rendre ? Personne ne le propose sérieusement. Ce que réclament la plupart des États concernés, ce n'est pas le vidage des musées européens, mais la possibilité de décider eux-mêmes du sort des objets qui leur ont été pris. Certains choisiront de les exposer chez eux, d'autres de les prêter, d'autres encore de les laisser là où ils sont, à condition que leur histoire y soit enfin racontée.
+
+  Car c'est peut-être là l'essentiel. Un masque exposé dans une vitrine, accompagné d'une étiquette qui ne dit rien de la façon dont il est arrivé là, raconte une histoire incomplète. Le même masque, avec son passé assumé, devient autre chose : non plus un trophée, mais un témoin.
+items:
+  - q: "Как было воспринято возвращение сокровищ Абомея в 2021 году?"
+    options: ["Все признали его историческим жестом.", "Одни видели в нём исторический жест, другие — опасный прецедент.", "Его почти не заметили."]
+    answer: 1
+    explain: "*Pour les uns, c'était un geste historique ; pour les autres, un précédent dangereux.* Общее у лагерей — понимание, что *rien ne serait plus comme avant*."
+  - q: "Что означает принцип «inaliénabilité» коллекций?"
+    options: ["Предметы нельзя выставлять за границей.", "То, что вошло в государственную коллекцию, нельзя из неё вывести без специального закона.", "Музеи не могут покупать новые предметы."]
+    answer: 1
+    explain: "*ce qui y entre ne peut plus en sortir, sauf par une loi spéciale* — *y* = в коллекции, *en* = из них."
+  - q: "Какой недостаток этого принципа отмечает автор?"
+    options: ["Он не защищает музеи от продаж.", "Он служил предлогом, чтобы не изучать происхождение коллекций.", "Он слишком дорог для государства."]
+    answer: 1
+    explain: "*Mais il a aussi servi d'argument pour ne jamais examiner l'origine des collections.* Защиту от продаж автор, наоборот, признаёт."
+  - q: "Vrai / faux / on ne sait pas: все африканские предметы в европейских музеях были похищены."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*beaucoup ont été achetés honnêtement, d'autres ont été offerts, d'autres encore ont été pris par la force* — неверно."
+  - q: "Чем сегодня заняты исследователи?"
+    options: ["Восстанавливают путь каждого предмета: кто, как и в обмен на что его получил.", "Составляют список предметов на продажу.", "Реставрируют повреждённые статуи."]
+    answer: 0
+    explain: "*Ce à quoi les chercheurs s'attellent aujourd'hui, c'est la reconstitution du parcours de chaque objet* — *s'atteler à* → **ce à quoi**."
+  - q: "В чём состоит «универсалистский» аргумент?"
+    options: ["Крупный музей принадлежит всему человечеству, поэтому может хранить предметы отовсюду.", "Все страны должны иметь одинаковые музеи.", "Предметы надо вернуть всем странам сразу."]
+    answer: 0
+    explain: "*un musée comme le Louvre… ne serait pas celui d'une nation, mais celui de l'humanité* — *celui* = музей; кондиционал показывает чужую позицию."
+  - q: "Что подразумевает встречный вопрос сторонников реституции?"
+    options: ["Что в Дакаре и Лагосе нет музеев.", "Что «универсальность» подозрительно совпадает с европейскими столицами.", "Что Париж, Лондон и Берлин — лучшие места для хранения."]
+    answer: 1
+    explain: "Риторический вопрос *pourquoi ce qui serait « universel » se trouve-t-il presque toujours à Paris…?* и кавычки вокруг *universel* — ирония, а не просьба об информации."
+  - q: "Чего требует большинство заинтересованных государств?"
+    options: ["Вернуть все предметы немедленно.", "Права самим решать судьбу вывезенных у них предметов.", "Денежной компенсации."]
+    answer: 1
+    explain: "*ce n'est pas le vidage des musées européens, mais la possibilité de décider eux-mêmes du sort des objets qui leur ont été pris.*"
+  - q: "Что хочет сказать автор фразой «non plus un trophée, mais un témoin» ?"
+    options: ["Предмет надо убрать из витрины.", "Предмет, чья история рассказана честно, свидетельствует о прошлом, а не прославляет завоевание.", "Музеи должны показывать только копии."]
+    answer: 1
+    explain: "*Le même masque, avec son passé assumé, devient autre chose* — главное для автора — рассказать историю предмета, где бы он ни находился."
+  - q: "Впиши местоимение из текста: un travail minutieux, ___ les musées se sont longtemps refusés."
+    answers: ["auquel"]
+    explain: "*se refuser **à** qch* + *un travail* (м. р., ед. ч.) → **auquel** (*à + lequel*)."

@@ -1,0 +1,71 @@
+title: "Le monde numérique : un repair café à Lausanne"
+type: listening
+intro: "Послушай радиоинтервью (дважды) и ответь на вопросы."
+hints:
+  - "Вопрос журналиста с инверсией подсказывает, о чём будет ответ."
+  - "Различай il y a (тому назад), ça fait… que / depuis (до сих пор), en (за сколько), pendant (сколько длится)."
+audio: audio/tts/b-04/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural, fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour et bienvenue dans « Le monde numérique ». Notre invité, Marc Favre, a fondé il y a six ans à Lausanne un « repair café », un atelier gratuit où des bénévoles réparent les appareils des habitants. Marc, comment l'idée vous est-elle venue ?
+
+  **Marc :** À cause de mon propre téléphone, en fait. Il s'est arrêté de fonctionner deux ans à peine après l'achat. Le vendeur m'a dit que la réparation coûterait presque aussi cher qu'un appareil neuf. J'étais tellement furieux que j'ai cherché moi-même la panne sur Internet. En vingt minutes, j'avais trouvé : c'était la batterie. Elle coûtait quinze francs.
+
+  **Journaliste :** Et depuis, vous réparez pour les autres.
+
+  **Marc :** Oui. Au début, nous étions trois bénévoles dans le garage d'un ami. Aujourd'hui, nous sommes une quarantaine, et nous nous retrouvons le premier samedi de chaque mois dans une salle de quartier. Ça fait six ans que ça dure, et nous avons réparé plus de quatre mille objets.
+
+  **Journaliste :** Quels appareils vous apporte-t-on le plus souvent ?
+
+  **Marc :** Des téléphones et des ordinateurs portables, bien sûr, mais aussi des grille-pain, des aspirateurs, des lampes… Environ sept objets sur dix repartent en état de marche. Les autres, nous ne pouvons pas les sauver, le plus souvent parce que les pièces de rechange n'existent plus.
+
+  **Journaliste :** Les fabricants sont-ils responsables de cette situation ?
+
+  **Marc :** En partie. Certains collent les batteries au lieu de les visser, si bien qu'il est impossible de les changer sans casser l'appareil. Mais nous, les consommateurs, nous avons aussi changé. Comme les prix ont beaucoup baissé, nous avons pris l'habitude de remplacer plutôt que de réparer.
+
+  **Journaliste :** Et les choses évoluent-elles ?
+
+  **Marc :** Oui, lentement. Grâce à la pression des consommateurs et aux nouvelles règles européennes, les fabricants devront bientôt proposer des pièces pendant plusieurs années. Et puisque de plus en plus de gens viennent nous voir, certaines marques commencent même à publier leurs guides de réparation.
+
+  **Journaliste :** Qu'est-ce qui vous motive encore, après six ans ?
+
+  **Marc :** Le moment où quelqu'un retrouve un objet qu'il croyait perdu. La semaine dernière, une dame est venue avec la radio de son mari, décédé il y a dix ans. Elle ne marchait plus depuis longtemps. Nous l'avons réparée en une heure, et quand la musique est sortie du haut-parleur, elle a pleuré. Ce jour-là, j'ai compris que nous ne réparions pas seulement des machines.
+
+  **Journaliste :** Et si un auditeur veut vous rejoindre ?
+
+  **Marc :** Il n'a pas besoin d'être ingénieur ! Nous formons les nouveaux bénévoles pendant trois mois. Il suffit d'être patient et curieux.
+
+  **Journaliste :** Marc Favre, merci beaucoup.
+items:
+  - q: "С чего началась идея ремонтного кафе?"
+    options: ["Марк потерял работу в магазине электроники.", "Его телефон сломался через два года, а ремонт предлагали почти по цене нового.", "Друг предложил ему свой гараж."]
+    answer: 1
+    explain: "***À cause de** mon propre téléphone… Le vendeur m'a dit que la réparation coûterait presque aussi cher qu'un appareil neuf.* Гараж друга — это уже начало работы кафе."
+  - q: "За сколько времени Марк нашёл поломку?"
+    options: ["за двадцать минут", "за два года", "за шесть месяцев"]
+    answer: 0
+    explain: "***En** vingt minutes, j'avais trouvé* — *en* + срок = «за сколько»."
+  - q: "Сколько отремонтированных предметов возвращаются в рабочем состоянии?"
+    options: ["около семи из десяти", "все, кроме телефонов", "около половины"]
+    answer: 0
+    explain: "*Environ **sept objets sur dix** repartent en état de marche.*"
+  - q: "Почему остальные предметы не удаётся спасти?"
+    options: ["Их владельцы не хотят платить.", "Чаще всего больше не существует запчастей.", "Волонтёрам не хватает времени."]
+    answer: 1
+    explain: "*le plus souvent **parce que** les pièces de rechange n'existent plus.*"
+  - q: "В чём Марк упрекает некоторых производителей?"
+    options: ["Они приклеивают батареи, так что их нельзя заменить, не сломав устройство.", "Они не продают устройства в Швейцарии.", "Они запрещают ремонтные кафе."]
+    answer: 0
+    explain: "*Certains collent les batteries au lieu de les visser, **si bien qu'**il est impossible de les changer sans casser l'appareil* — *si bien que* вводит следствие."
+  - q: "Почему, по словам Марка, изменились и потребители?"
+    options: ["Они стали лучше разбираться в технике.", "Цены сильно упали, и люди привыкли заменять, а не чинить.", "Они больше не доверяют магазинам."]
+    answer: 1
+    explain: "***Comme** les prix ont beaucoup baissé, nous avons pris l'habitude de remplacer plutôt que de réparer.* — ответ на вопрос *Les fabricants sont-ils responsables ?* начинается с *En partie*."
+  - q: "Что произошло с радиоприёмником?"
+    options: ["Его не удалось починить, и хозяйка расплакалась.", "Радио мужа, умершего десять лет назад, давно не работало; его починили за час.", "Хозяйка подарила радио ремонтному кафе."]
+    answer: 1
+    explain: "*la radio de son mari, décédé **il y a dix ans**. Elle ne marchait plus **depuis longtemps**. Nous l'avons réparée **en une heure*** — три разных выражения времени."
+  - q: "Что нужно, чтобы стать волонтёром?"
+    options: ["инженерное образование", "терпение и любопытство; обучение длится три месяца", "собственные инструменты"]
+    answer: 1
+    explain: "*Il n'a pas besoin d'être ingénieur ! Nous formons les nouveaux bénévoles **pendant trois mois**. Il suffit d'être patient et curieux.*"

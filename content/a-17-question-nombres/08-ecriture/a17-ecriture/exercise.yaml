@@ -1,0 +1,33 @@
+title: "Lettre : viens au vide-grenier !"
+type: writing
+intro: "Напиши письмо другу по плану урока."
+prompt: |
+  Samedi, il y a un vide-grenier dans ta rue. Tu écris à ton ami(e) : qu'est-ce que tu vends ? Combien ça coûte ? Qui vend aussi ? Comment venir chez toi ? Invite ton ami(e).
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "числа от 70 до 1000: цены, количество, адрес"
+  - "глаголы на -endre / -ondre: vendre, attendre, répondre, descendre"
+  - "глагол voir"
+  - "вопрос qui ? / qu'est-ce qui ?"
+checklist:
+  - "Есть обращение (Cher… / Chère…) и прощание."
+  - "Сказано, что, где и когда будет."
+  - "Хотя бы три числа больше 70 — написаны правильно (quatre-vingts, cent, deux cents)."
+  - "Хотя бы два глагола на -endre / -ondre в нужной форме (je vends, ils attendent)."
+  - "Есть глагол voir и хотя бы один вопрос другу."
+  - "Есть приглашение: Tu viens ? / Réponds vite !"
+model_answer: |
+  Cher Hugo,
+
+  Samedi, il y a un vide-grenier dans ma rue. Je vends mes vieilles affaires : mon vélo coûte quatre-vingt-cinq euros, et mes livres, deux euros. Mes voisins vendent aussi des meubles et des jouets. On attend trois cents visiteurs !
+
+  Qu'est-ce qui t'intéresse ? J'ai aussi une belle lampe à soixante-dix euros, pour ta chambre.
+
+  Tu descends à la station Gambetta et tu vois une grande école. Ma maison est en face, au numéro cent douze.
+
+  Tu viens ? Réponds vite, j'attends ta réponse !
+
+  Bises,
+  Emma

@@ -34,3 +34,23 @@
   lesson: a-19-pronominaux/01-grammaire
   q: "Проспрягай *prendre* в настоящем времени."
   a: "*je prends, tu prends, il prend, nous pre**n**ons, vous pre**n**ez, ils pre**nn**ent*. Так же *comprendre, apprendre*."
+- id: a19-au-pair
+  lesson: a-19-pronominaux/07-lecture
+  q: "«Я бужу детей» и «я просыпаюсь»."
+  a: "Je **réveille** les enfants. — Je **me réveille**."
+- id: a19-leve-toi
+  lesson: a-19-pronominaux/07-lecture
+  q: "«Вставай! Поторопись!» — и в отрицании: «Не торопись!»"
+  a: "**Lève-toi ! Dépêche-toi !** — **Ne te dépêche pas !**"
+- id: a19-salle-de-bains
+  lesson: a-19-pronominaux/09-ecoute
+  q: "«Кто у нас встаёт первым?» — «Я бреюсь, принимаю душ и тороплюсь»."
+  a: "Qui **se lève** le premier ? — Je **me rase**, je **me douche** et je **me dépêche**."
+- id: a19-asseyez-vous
+  lesson: a-19-pronominaux/09-ecoute
+  q: "Команды на уроке: «Садитесь», «Не волнуйтесь», «Отдохните»."
+  a: "**Asseyez-vous**, **ne vous inquiétez pas**, **reposez-vous**."
+- id: a19-dois-me-lever
+  lesson: a-19-pronominaux/08-ecriture
+  q: "«Мне надо рано вставать», «Мы пойдём гулять»."
+  a: "Je dois **me** lever tôt. Nous allons **nous** promener. — местоимение того же лица."

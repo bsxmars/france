@@ -22,3 +22,23 @@
   lesson: a-08-que-article/01-grammaire
   q: "Чем *des* в *les livres des élèves* отличается от *des* в *des livres*?"
   a: "Первое — слитный артикль *de + les* «(чьи?) учеников»; второе — неопределённый артикль мн. ч. «книги»."
+- id: a08-cine-club
+  lesson: a-08-que-article/07-lecture
+  q: "«Что ты делаешь в субботу вечером?»"
+  a: "***Qu'est-ce que** tu fais samedi soir ?* = *Que fais-tu samedi soir ?*"
+- id: a08-parler-du-film
+  lesson: a-08-que-article/07-lecture
+  q: "«Они говорят о фильме», «зал киноклуба»."
+  a: "*Ils parlent **du** film*, *la salle **du** ciné-club* — *de* + *le* = **du**."
+- id: a08-une-jeune-actrice
+  lesson: a-08-que-article/08-ecriture
+  q: "«Она актриса» и «Она молодая актриса»."
+  a: "*Elle est actrice.* — *C'est (Elle est) **une** jeune actrice.* С прилагательным — артикль."
+- id: a08-du-des-oral
+  lesson: a-08-que-article/09-ecoute
+  q: "Как на слух отличить *du film* и *des films*, *de l'élève* и *des élèves*?"
+  a: "[дю] — **du**, [дэ] — **des**; перед гласной у *des* связывание [з]: *des élèves* [дэзэлэв]."
+- id: a08-a-bientot
+  lesson: a-08-que-article/09-ecoute
+  q: "«До скорого!», «как ты»."
+  a: "***À bientôt !*** — *Elle est belge, **comme toi** ?*"

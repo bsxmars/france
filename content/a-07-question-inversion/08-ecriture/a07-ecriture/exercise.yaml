@@ -1,0 +1,29 @@
+title: "Message à un correspondant"
+type: writing
+intro: "Напиши первое сообщение другу по переписке по плану урока."
+prompt: |
+  Tu as un(e) correspondant(e) français(e). Tu écris ton premier message : ton nom, ta nationalité, ta ville, ta profession. Tu poses trois questions à ton correspondant (inversion et est-ce que).
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "национальность после être без артикля: je suis russe"
+  - "формы tu: tu lis, tu écris, tu pars, tu vas"
+  - "вопрос: простая и сложная инверсия, est-ce que"
+  - "c'est un… / c'est le… de…"
+checklist:
+  - "Есть обращение и прощание."
+  - "Национальность и профессия после être — без артикля."
+  - "Минимум три вопроса, хотя бы один с инверсией и один с est-ce que."
+  - "В инверсии есть дефис, а между гласными — -t-: parle-t-il, va-t-elle."
+  - "После est-ce que — прямой порядок слов: est-ce que tu lis…"
+  - "Форма tu: -es у глаголов на -er (tu parles), -s у остальных (tu lis, tu écris)."
+model_answer: |
+  Salut Julie !
+
+  Je m'appelle Anna. Je suis russe, j'habite Kazan. Je suis ingénieur dans une usine. Voici une photo : c'est la rue de mon usine.
+
+  Et toi ? Lis-tu des livres russes ? Ton ami Karim parle-t-il russe ? Est-ce que tu vas à Kazan en août ?
+
+  Écris-moi vite !
+  Anna

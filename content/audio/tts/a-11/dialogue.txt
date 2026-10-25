@@ -1,0 +1,13 @@
+# rate: -15%
+# pause: 650
+A: Allô, Sophie ? C'est Anne. On dîne ensemble ce soir ?
+G: Ce soir ? Désolée, je travaille jusqu'à huit heures.
+A: Et après ? On mange au restaurant italien, près de la gare ?
+G: Non, merci. Mes parents arrivent de Bruxelles ce soir. Ils restent chez moi jusqu'à dimanche. Tu aimes le jazz ? Samedi, on écoute un concert de jazz dans le parc.
+A: J'adore le jazz ! Ce sont des musiciens de Paris ?
+G: Non, ce sont des musiciens belges. Mon frère Luc joue du saxophone dans le groupe !
+A: Super ! Le concert commence à quelle heure ?
+G: À trois heures. Apporte un sandwich : on mange dans le parc, avec mes parents.
+A: D'accord. Mon mari et moi, nous apportons aussi des gâteaux !
+G: Parfait ! À samedi, Anne !
+A: À samedi !

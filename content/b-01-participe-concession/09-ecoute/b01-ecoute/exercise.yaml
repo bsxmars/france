@@ -1,0 +1,67 @@
+title: "Tendances : une seconde vie pour nos vêtements"
+type: listening
+intro: "Послушай радиоинтервью (дважды) и ответь на вопросы."
+hints:
+  - "После malgré, bien que, j'ai beau… говорящий называет то, что не помогло."
+  - "aurai + participe — futur antérieur: «к такому-то моменту уже сделаю»."
+audio: audio/tts/b-01/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-CA-SylvieNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour à toutes et à tous, et bienvenue dans « Tendances ». Mon invitée s'appelle Mélanie Gagnon. Originaire de Montréal, elle a ouvert il y a quatre ans, à Lyon, un atelier transformant de vieux vêtements en pièces uniques. Mélanie, comment est-ce que tout a commencé ?
+
+  **Mélanie :** Un peu par hasard. Je travaillais pour une grande marque de prêt-à-porter, et chaque saison, je voyais des tonnes de tissu partir à la poubelle. Ayant grandi chez une grand-mère couturière, je ne supportais pas ce gaspillage. Un jour, j'ai récupéré une vieille robe de ma mère, et en la découpant, j'ai eu l'idée d'en faire une veste. Mes amies l'ont adorée, et elles m'ont toutes apporté leurs vieux vêtements.
+
+  **Journaliste :** Vous avez donc quitté votre emploi ?
+
+  **Mélanie :** Pas tout de suite. Pendant deux ans, j'ai cousu le soir et le week-end, en gardant mon salaire. Malgré les encouragements de mes proches, j'avais peur de me lancer. Je ne suis partie qu'après avoir trouvé mes premiers clients réguliers.
+
+  **Journaliste :** Et qui sont-ils, ces clients ?
+
+  **Mélanie :** On imagine souvent de jeunes militants écologistes. En réalité, ce sont surtout des femmes de quarante, cinquante ans, qui cherchent des vêtements originaux. Alors que les jeunes achètent beaucoup en ligne, mes clientes, elles, aiment toucher le tissu, essayer, discuter. Certaines m'apportent la chemise d'un mari ou le manteau d'un père disparu : elles veulent garder un souvenir tout en le portant.
+
+  **Journaliste :** Parlons des prix. Une pièce unique, ça coûte cher.
+
+  **Mélanie :** C'est vrai, et je ne vais pas le cacher. Une veste me demande entre dix et quinze heures de travail. J'ai beau optimiser chaque étape, je ne peux pas vendre au prix d'une grande enseigne. Mais une veste qu'on garde dix ans revient moins cher que trois vestes qu'on jette au bout d'une saison.
+
+  **Journaliste :** Pensez-vous que l'upcycling va devenir la norme ?
+
+  **Mélanie :** Non, et ce n'est pas mon objectif. Bien que les grandes marques proposent maintenant des collections « recyclées », elles le font surtout pour leur image. Moi, je préfère rester petite, mais garder le contact avec chaque cliente.
+
+  **Journaliste :** Quels sont vos projets ?
+
+  **Mélanie :** D'ici l'été, j'aurai ouvert une deuxième boutique, à Montréal cette fois. Et quand j'aurai formé deux apprenties, je pourrai enfin prendre des vacances ! Je veux aussi donner des ateliers dans les écoles, pour apprendre aux enfants à réparer avant de jeter.
+
+  **Journaliste :** Mélanie Gagnon, merci beaucoup.
+items:
+  - q: "Чем занимается ателье Мелани?"
+    options: ["Продаёт подержанную одежду из Канады.", "Превращает старую одежду в уникальные вещи.", "Ремонтирует одежду крупных марок."]
+    answer: 1
+    explain: "*un atelier **transformant** de vieux vêtements en pièces uniques* — participe présent = *qui transforme*."
+  - q: "Почему её так задевали отходы ткани в компании?"
+    options: ["Она выросла у бабушки-портнихи.", "Ей за это снижали зарплату.", "Об этом писали журналисты."]
+    answer: 0
+    explain: "*Ayant grandi chez une grand-mère couturière, je ne supportais pas ce gaspillage.* — participe composé передаёт причину: «поскольку выросла…»."
+  - q: "Как появилась её первая вещь?"
+    options: ["Она перешила бабушкино пальто.", "Разрезая старое платье матери, она придумала сделать из него куртку.", "Подруги заказали ей куртку из своих вещей."]
+    answer: 1
+    explain: "*j'ai récupéré une vieille robe de ma mère, et **en la découpant**, j'ai eu l'idée d'en faire une veste* — gérondif: «разрезая её». Подруги принесли вещи уже потом."
+  - q: "Когда Мелани ушла с работы?"
+    options: ["сразу после первой куртки", "только когда нашла первых постоянных клиентов", "когда родные стали её уговаривать"]
+    answer: 1
+    explain: "*Je ne suis partie qu'après avoir trouvé mes premiers clients réguliers.* А *malgré les encouragements de mes proches, j'avais peur* — поддержка родных как раз не помогла решиться."
+  - q: "Кто её основные клиенты?"
+    options: ["молодые активисты-экологи", "женщины 40–50 лет, которые ищут оригинальную одежду", "туристы из Монреаля"]
+    answer: 1
+    explain: "*On imagine souvent de jeunes militants écologistes. En réalité, ce sont surtout des femmes de quarante, cinquante ans* — первый вариант назван, чтобы его отбросить."
+  - q: "Как Мелани оправдывает высокие цены?"
+    options: ["Вещь, которую носят десять лет, в итоге дешевле трёх вещей на сезон.", "Её ткани дороже, чем у крупных марок.", "Она скоро снизит цены."]
+    answer: 0
+    explain: "*une veste qu'on garde dix ans revient moins cher que trois vestes qu'on jette au bout d'une saison.* *J'ai beau optimiser…* — оптимизация цену не снижает."
+  - q: "Что она думает о «переработанных» коллекциях крупных марок?"
+    options: ["Это начало новой нормы.", "Марки делают это прежде всего ради имиджа.", "Это её главный конкурент."]
+    answer: 1
+    explain: "*Bien que les grandes marques proposent maintenant des collections « recyclées », elles le font surtout pour leur image.* — уступка + главное мнение."
+  - q: "Что произойдёт к лету?"
+    options: ["Она откроет второй магазин — в Монреале.", "Она уйдёт в отпуск.", "Она откроет второй магазин в Лионе."]
+    answer: 0
+    explain: "*D'ici l'été, j'**aurai ouvert** une deuxième boutique, à Montréal* — futur antérieur: к лету уже. Отпуск — только *quand j'aurai formé deux apprenties*."

@@ -1,0 +1,40 @@
+title: "La photo de famille"
+type: listening
+intro: "Послушай разговор о фотографии и ответь на вопросы."
+hints:
+  - "Профессия звучит сразу после il est / elle est."
+  - "Ce n'est pas… — «это не…»."
+audio: audio/tts/a-05/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  — Regarde, c'est la photo de ma famille.
+  — Oh, c'est ton père ?
+  — Oui, c'est mon père. Il est médecin. Il habite à Lyon.
+  — Et la jeune fille, c'est ta sœur ?
+  — Non, ce n'est pas ma sœur. C'est la fille de ma tante. Elle s'appelle Chloé.
+  — Elle est étudiante ?
+  — Non, elle n'est pas étudiante. Elle est pianiste !
+  — Et ta mère ?
+  — Ma mère est architecte. Elle est à Paris avec mes frères.
+  — Ta famille est grande !
+items:
+  - q: "Кто отец по профессии?"
+    options: ["врач", "архитектор", "пианист"]
+    answer: 0
+    explain: "*C'est mon père. Il est médecin.*"
+  - q: "Где живёт отец?"
+    options: ["в Париже", "в Лионе", "в Ницце"]
+    answer: 1
+    explain: "*Il habite à Lyon.*"
+  - q: "Кто девушка на фотографии?"
+    options: ["сестра", "двоюродная сестра (дочь тёти)", "подруга"]
+    answer: 1
+    explain: "*Ce n'est pas ma sœur. C'est la fille de ma tante.* — отрицание отменяет первый вариант."
+  - q: "Кем работает Хлоя?"
+    options: ["она студентка", "она пианистка", "она архитектор"]
+    answer: 1
+    explain: "*Elle n'est pas étudiante. Elle est pianiste !*"
+  - q: "Где мама?"
+    options: ["в Париже с братьями", "в Лионе с отцом", "дома с тётей"]
+    answer: 0
+    explain: "*Elle est à Paris avec mes frères.*"

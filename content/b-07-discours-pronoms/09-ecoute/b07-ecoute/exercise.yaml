@@ -1,0 +1,67 @@
+title: "Vie de bureau : réussir un entretien d'embauche"
+type: listening
+intro: "Послушай радиоинтервью (дважды) и ответь на вопросы."
+hints:
+  - "После il m'a répondu que / elle m'a expliqué que — само высказывание в прошлом."
+  - "Восстанови, что стоит за двойными местоимениями: ne la lui donnez pas."
+audio: audio/tts/b-07/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural, fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour, vous écoutez « Vie de bureau ». Aujourd'hui, nous parlons des entretiens d'embauche avec Isabelle Dumont, consultante en recrutement à Bruxelles. Isabelle, quelle est l'erreur que vous voyez le plus souvent ?
+
+  **Isabelle :** Sans hésiter : le manque de préparation. La semaine dernière, j'ai demandé à un candidat ce qu'il savait de notre client. Il m'a répondu qu'il n'avait pas eu le temps de regarder son site, mais qu'il le ferait le lendemain ! Évidemment, le lendemain, c'était trop tard.
+
+  **Journaliste :** Qu'est-ce que les recruteurs veulent entendre, au fond ?
+
+  **Isabelle :** Des exemples concrets. Quand on vous demande quelles sont vos qualités, ne vous contentez pas de dire que vous êtes dynamique. Racontez une situation. Une jeune femme m'a expliqué un jour qu'elle avait organisé, presque seule, un festival de musique dans son village. Elle ne me l'a pas dit pour se vanter : elle me l'a raconté avec des chiffres, des difficultés, des solutions. Je m'en souviens encore.
+
+  **Journaliste :** Et la fameuse question sur les défauts ?
+
+  **Isabelle :** Ah ! Tout le monde répond qu'il est trop perfectionniste. Les recruteurs l'ont entendu mille fois. Choisissez plutôt un vrai défaut, et expliquez ce que vous faites pour le corriger.
+
+  **Journaliste :** Beaucoup d'auditeurs nous demandent s'il faut parler du salaire dès le premier entretien.
+
+  **Isabelle :** En Belgique comme en France, on évite d'en parler en premier. Mais si le recruteur vous pose la question, répondez-lui franchement, avec une fourchette réaliste. Et surtout, ne la lui donnez pas trop basse : on ne vous paiera jamais plus que ce que vous avez demandé.
+
+  **Journaliste :** Après l'entretien, est-ce qu'il faut relancer ?
+
+  **Isabelle :** Oui, mais poliment. Envoyez un court message de remerciement le jour même. Si on vous a promis une réponse sous huit jours et que vous n'avez rien reçu, appelez. Un candidat m'a confié l'an dernier qu'il n'avait jamais osé rappeler une entreprise. Quand il s'est enfin décidé, trois semaines plus tard, on lui a annoncé que le poste venait d'être attribué à quelqu'un d'autre.
+
+  **Journaliste :** Un dernier conseil ?
+
+  **Isabelle :** Préparez deux ou trois questions pour la fin. Quand le recruteur vous demande si vous avez des questions, ne lui répondez jamais : « Non, tout est clair. » Demandez-lui plutôt comment se passe une journée type dans l'équipe. Ça montre que vous vous voyez déjà dans le poste.
+
+  **Journaliste :** Isabelle Dumont, merci beaucoup.
+items:
+  - q: "Какую ошибку Изабель видит чаще всего?"
+    options: ["слишком длинные ответы", "неподготовленность", "опоздания на собеседование"]
+    answer: 1
+    explain: "*Sans hésiter : le manque de préparation.*"
+  - q: "Что кандидат ответил на вопрос о компании-клиенте?"
+    options: ["Что хорошо изучил её сайт.", "Что не успел посмотреть сайт, но сделает это на следующий день.", "Что уже работал в этой компании."]
+    answer: 1
+    explain: "*Il m'a répondu qu'il n'**avait** pas **eu** le temps de regarder son site, mais qu'il le **ferait** le **lendemain**.* — plus-que-parfait и futur dans le passé в косвенной речи."
+  - q: "Почему Изабель запомнила молодую женщину?"
+    options: ["Та рассказала о своём фестивале конкретно: с цифрами, трудностями и решениями.", "Та назвала себя очень динамичной.", "Та пригласила её на свой фестиваль."]
+    answer: 0
+    explain: "*Elle ne me l'a pas dit pour se vanter : elle me l'a raconté avec des chiffres, des difficultés, des solutions.* А «динамичный» — как раз пример того, чего говорить не надо."
+  - q: "Что советуют отвечать на вопрос о недостатках?"
+    options: ["Что ты слишком перфекционист.", "Что недостатков нет.", "Назвать настоящий недостаток и сказать, как ты его исправляешь."]
+    answer: 2
+    explain: "*Choisissez plutôt un vrai défaut, et expliquez ce que vous faites pour le corriger.* «Перфекционист» рекрутеры *ont entendu mille fois*."
+  - q: "*Ne la lui donnez pas trop basse.* — о чём речь?"
+    options: ["Не называйте рекрутеру слишком низкую вилку зарплаты.", "Не давайте рекрутеру слишком короткое резюме.", "Не ставьте себе слишком низкую оценку."]
+    answer: 0
+    explain: "*la* = *une fourchette réaliste*, *lui* = *le recruteur*: *on ne vous paiera jamais plus que ce que vous avez demandé.*"
+  - q: "Что делать, если через неделю ответа нет?"
+    options: ["Ждать ещё месяц.", "Позвонить.", "Отправить резюме повторно."]
+    answer: 1
+    explain: "*Si on vous a promis une réponse sous huit jours et que vous n'avez rien reçu, appelez.* Письмо с благодарностью отправляют в тот же день, это другое."
+  - q: "Что случилось с кандидатом, который не решался перезвонить?"
+    options: ["Его взяли на работу через три недели.", "Место отдали другому, пока он ждал.", "Ему перезвонили на следующий день."]
+    answer: 1
+    explain: "*on lui a annoncé que le poste **venait d'être attribué** à quelqu'un d'autre* — passé immédiat в косвенной речи: *venir de* в imparfait."
+  - q: "Какой вопрос советуют задать в конце собеседования?"
+    options: ["Сколько стоит обед в столовой.", "Как проходит обычный рабочий день в команде.", "Когда будет первый отпуск."]
+    answer: 1
+    explain: "*Demandez-lui plutôt comment se passe une journée type dans l'équipe.* А отвечать «Non, tout est clair» — *jamais*."

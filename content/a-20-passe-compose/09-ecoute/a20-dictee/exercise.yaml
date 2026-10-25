@@ -1,0 +1,47 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "С être причастие согласуется с подлежащим: elle est née, nous sommes arrivés."
+  - "Если род на слух не определить, годятся оба варианта."
+items:
+  - audio: audio/tts/a-20/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Nous sommes arrivés à la gare à dix heures.", "Nous sommes arrivées à la gare à dix heures.", "Nous sommes arrivés à la gare à 10 heures.", "Nous sommes arrivées à la gare à 10 heures.", "Nous sommes arrivés à la gare à 10 h.", "Nous sommes arrivées à la gare à 10 h."]
+    explain: "«Мы приехали на вокзал в десять». *arriver* — с *être*; *nous* → *-s* (или *-es*, если все — женщины: на слух не различить)."
+  - audio: audio/tts/a-20/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Je n'ai pas compris la question."]
+    explain: "«Я не понял вопрос». *ne… pas* вокруг *ai*; *compris* — от *comprendre*, как *pris*."
+  - audio: audio/tts/a-20/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Elle est née à Québec."]
+    explain: "«Она родилась в Квебеке (городе)». *naître* → *née*: подлежащее женского рода."
+  - audio: audio/tts/a-20/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Tu as déjà vu ces tableaux ?"]
+    explain: "«Тебе уже доводилось видеть эти картины?» *déjà* — между *as* и *vu*; *tableau* → *tableaux*."
+  - audio: audio/tts/a-20/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Les journaux ont beaucoup parlé de ce festival."]
+    explain: "«Газеты много писали об этом фестивале». *journal* → *journaux*; *ont* [õ] — *avoir*; *beaucoup* — перед причастием."
+  - audio: audio/tts/a-20/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Vous connaissez ce quartier ?"]
+    explain: "«Вы знаете этот квартал?» *connaître* — *vous connaissez*, основа *connaiss-*."
+  - audio: audio/tatoeba/472151.mp3
+    audio_source: {title: "Tatoeba #3346852", url: "https://tatoeba.org/fr/sentences/show/3346852", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["J'ai appris le français à Paris."]
+    explain: "«Я выучил французский в Париже». *apprendre* → *appris*."
+  - audio: audio/tatoeba/472036.mp3
+    audio_source: {title: "Tatoeba #4684839", url: "https://tatoeba.org/fr/sentences/show/4684839", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je suis né en octobre.", "Je suis née en octobre."]
+    explain: "«Я родился в октябре». *naître* — с *être*; говорит мужчина, но на слух *né* и *née* одинаковы."
+  - audio: audio/tatoeba/472936.mp3
+    audio_source: {title: "Tatoeba #4729360", url: "https://tatoeba.org/fr/sentences/show/4729360", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Ils sont partis."]
+    explain: "«Они ушли (уехали)». *partir* — с *être*: *ils sont* [ильсõ], причастие *partis* во мн. ч."
+  - audio: audio/tatoeba/473184.mp3
+    audio_source: {title: "Tatoeba #6474230", url: "https://tatoeba.org/fr/sentences/show/6474230", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["J'ai pris rendez-vous chez le docteur lundi à 14 h 30.", "J'ai pris rendez-vous chez le docteur lundi à quatorze heures trente.", "J'ai pris rendez-vous chez le docteur lundi à 14h30.", "J'ai pris rendez-vous chez le docteur lundi à 14 heures 30."]
+    explain: "«Я записался к врачу на понедельник на 14:30». *prendre rendez-vous* → *j'ai pris*."

@@ -126,3 +126,23 @@
   lesson: b-08-subjonctif-negation/04-grammaire
   q: "«Я не понял». — «Я тоже»."
   a: "*Je n'ai pas compris. — **Moi non plus.*** (не ~~moi aussi~~)."
+- id: b08-competence-acquise
+  lesson: b-08-subjonctif-negation/07-lecture
+  q: "«Навык освоен / в процессе освоения»."
+  a: "La compétence est **acquise** / **en cours d'acquisition**."
+- id: b08-ne-serait-ce-que
+  lesson: b-08-subjonctif-negation/07-lecture
+  q: "«Семьям нужен ориентир в цифрах — хотя бы для того, чтобы успокоиться»."
+  a: "Les familles ont besoin d'un **repère chiffré**, **ne serait-ce que pour** se rassurer."
+- id: b08-on-objectera
+  lesson: b-08-subjonctif-negation/08-ecriture
+  q: "Как ввести контраргумент в эссе и ответить на него?"
+  a: "*On objectera que… C'est vrai, et je ne pense pas qu'on **puisse** l'ignorer. Mais il est peu probable que… **règle** le problème.*"
+- id: b08-a-son-rythme
+  lesson: b-08-subjonctif-negation/09-ecoute
+  q: "«Каждый продвигается в своём темпе»."
+  a: "*Chacun avance **à son rythme**.*"
+- id: b08-faute-de
+  lesson: b-08-subjonctif-negation/09-ecoute
+  q: "«Разновозрастные классы уже есть во многих деревнях — из-за нехватки учеников»."
+  a: "*Les classes qui mélangent les âges existent déjà dans beaucoup de villages, **faute d'élèves**.* — *faute de* + существительное без артикля."

@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "tous-местоимение звучит [tus], tous перед существительным — [tu]."
+  - "tout-наречие перед гласной не меняется (tout émue), перед согласной в женском роде согласуется (toutes seules)."
+items:
+  - audio: audio/tts/c-06/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Chacun a le droit de donner son avis."]
+    explain: "«Каждый имеет право высказать своё мнение». **Chacun** — местоимение (без существительного), притяжательное — *son*."
+  - audio: audio/tts/c-06/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Nul ne peut entrer sans autorisation."]
+    explain: "«Никто не может войти без разрешения». **Nul** — книжное «никто», с *ne* без *pas*."
+  - audio: audio/tts/c-06/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Elle était tout émue de revoir ses anciens élèves."]
+    explain: "«Она была очень растрогана, увидев своих бывших учеников». *tout* — наречие «совсем»: перед гласной не меняется: **tout émue**. На слух [tutemy] — связывающее [t] легко принять за *toute*, решает правило."
+  - audio: audio/tts/c-06/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Je n'ai reçu aucune réponse à mes lettres."]
+    explain: "«Я не получила ни одного ответа на свои письма». **Aucune** — в ед. ч. и согласуется с *réponse*; *ne* без *pas*."
+  - audio: audio/tts/c-06/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Ils ont tous les mêmes idées, mais chacun les défend à sa manière."]
+    explain: "«У них у всех одни и те же идеи, но каждый защищает их по-своему». *tous* [tus] — местоимение; **les mêmes** перед существительным — «одинаковые»."
+  - audio: audio/tts/c-06/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Il ne faut pas confier ce secret à n'importe qui."]
+    explain: "«Нельзя доверять этот секрет кому попало». **n'importe qui** — «кто угодно», с оттенком «первый встречный»."
+  - audio: audio/tts/c-06/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Quiconque a voyagé seul connaît ce sentiment.", "Quiconque a voyagé seule connaît ce sentiment."]
+    explain: "«Всякий, кто путешествовал один, знает это чувство». **Quiconque** = *celui qui*, глагол в 3-м лице ед. ч. (*connaît* — с *î*)."
+  - audio: audio/tts/c-06/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Elles sont restées toutes seules à la maison."]
+    explain: "«Они остались совсем одни дома». *tout*-наречие перед согласной в женском роде согласуется: **toutes seules** (слышно [tut])."

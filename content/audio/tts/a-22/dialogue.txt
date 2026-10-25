@@ -1,0 +1,18 @@
+# rate: -5%
+# pause: 700
+C: Mamie, pour l'école, je dois faire un exposé sur la vie d'autrefois. Je peux te poser des questions ?
+E: Bien sûr, ma chérie. Qu'est-ce que tu veux savoir ?
+C: Quand tu étais petite, où est-ce que tu habitais ?
+E: Dans un petit village près de Québec. Mes parents avaient une ferme. Nous étions sept enfants !
+C: Sept ! Et tu allais à l'école à pied ?
+E: Oui, l'école était à trois kilomètres. L'hiver, comme il y avait beaucoup de neige, mon père nous emmenait en traîneau.
+C: Trop bien ! Et à l'école, qu'est-ce que vous faisiez ?
+E: Nous apprenions à lire, à écrire, à compter… Il y avait une seule classe pour tous les élèves, des petits aux grands. La maîtresse était très sévère : nous ne pouvions pas parler en classe.
+C: Et après l'école ?
+E: Nous aidions nos parents à la ferme, car il y avait toujours du travail. Je voulais jouer, bien sûr, mais je ne pouvais pas souvent.
+C: Tu avais des jouets ?
+E: Pas beaucoup. J'avais une poupée. Ma mère l'a faite elle-même, avec du vieux tissu. Je l'ai gardée, elle est dans ma chambre.
+C: C'est vrai ? Je ne le savais pas ! Pourquoi est-ce que je ne l'ai pas vue ?
+E: Parce que tu n'as pas posé la question ! Tiens, et j'ai aussi des lettres. À quatorze ans, je suis partie travailler à Montréal, et j'écrivais à ma mère toutes les semaines. Les lettres que j'ai écrites, elle les a toutes gardées.
+C: Je peux les lire ?
+E: Si tu veux. Si on allait les chercher tout de suite ? Elles sont dans une boîte, au grenier.

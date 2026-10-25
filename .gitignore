@@ -7,3 +7,4 @@ __pycache__/
 .vitest/
 test-results/
 playwright-report/
+scripts/.venv/

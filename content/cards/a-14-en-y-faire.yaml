@@ -30,3 +30,23 @@
   lesson: a-14-en-y-faire/01-grammaire
   q: "«Пошли!» и «Да, иду (туда)» — почему не просто *je vais*?"
   a: "*Aller* без указания места не употребляют: ***On y va !*** — ***Oui, j'y vais.***"
+- id: a14-a-pied
+  lesson: a-14-en-y-faire/07-lecture
+  q: "«Мы ходим туда пешком». «Мы возвращаемся оттуда в полдень»."
+  a: "Nous **y** allons **à pied**. Nous **en** revenons **à midi**."
+- id: a14-promenade
+  lesson: a-14-en-y-faire/07-lecture
+  q: "«Гулять», «делать успехи», «печь пирожные» — с *faire*."
+  a: "**faire une promenade**, **faire des progrès**, **faire des gâteaux**."
+- id: a14-carte-postale
+  lesson: a-14-en-y-faire/08-ecriture
+  q: "«Хорошая погода! Как у тебя дела? Когда ты приедешь?»"
+  a: "**Il fait beau !** **Comment vas-tu ?** **Quand viens-tu ?**"
+- id: a14-tout-droit
+  lesson: a-14-en-y-faire/09-ecoute
+  q: "«Как туда пройти? — Идите прямо до Сены»."
+  a: "**Comment est-ce que j'y vais ?** — **Allez tout droit**, jusqu'à la Seine."
+- id: a14-quand-oral
+  lesson: a-14-en-y-faire/09-ecoute
+  q: "Как звучат *quand est-ce que* и *comment allez-vous*?"
+  a: "Немое *-d* / *-t* звучит как [t] перед гласной: [kɑ̃-**t**ɛs-kə], [kɔ-mɑ̃-**t**a-le-vu]."

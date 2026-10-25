@@ -46,3 +46,27 @@
   lesson: a-29-partitif-passif/02-grammaire
   q: "«Мне пришлось уйти», «Он, должно быть, устал», «Я тебе должен 10 евро»."
   a: "*J'**ai dû** partir. Il **doit** être fatigué. Je te **dois** dix euros.*"
+- id: a29-portes-ouvertes-par
+  lesson: a-29-partitif-passif/07-lecture
+  q: "«Двери открыла мэр» — в пассиве."
+  a: "*Les portes **ont été ouvertes par** la maire.*"
+- id: a29-vitraux-etals
+  lesson: a-29-partitif-passif/07-lecture
+  q: "Множественное число: *un vitrail, un étal, un bijou, le travail*?"
+  a: "*des vitraux, des étals, des bijoux, les travaux*."
+- id: a29-jamais-de-plats
+  lesson: a-29-partitif-passif/07-lecture
+  q: "«Я никогда не беру готовые блюда»."
+  a: "*Je ne prends **jamais de** plats préparés.*"
+- id: a29-boissons-achetees
+  lesson: a-29-partitif-passif/08-ecriture
+  q: "«Напитки уже купил Поль»."
+  a: "*Les boissons **ont déjà été achetées** par Paul.*"
+- id: a29-je-vous-dois
+  lesson: a-29-partitif-passif/09-ecoute
+  q: "Как спросить в магазине, сколько нужно заплатить (с *devoir*)?"
+  a: "*Je vous **dois** combien ?* / *Combien je vous dois ?*"
+- id: a29-sera-offerte
+  lesson: a-29-partitif-passif/09-ecoute
+  q: "«После экскурсии вам предложат горячий напиток» — в пассиве."
+  a: "*Une boisson chaude vous **sera offerte** après la visite.*"

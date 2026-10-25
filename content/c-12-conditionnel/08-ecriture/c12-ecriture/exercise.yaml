@@ -1,0 +1,35 @@
+title: "Essai : faut-il instaurer un revenu universel ?"
+type: writing
+intro: "Напиши essai argumenté по плану урока."
+prompt: |
+  Le site d'information *Débats publics* invite ses lecteurs à répondre à la question suivante : « Faut-il verser à chaque adulte un revenu mensuel, sans condition ? »
+
+  Rédigez un essai argumenté dans lequel vous imaginez les conséquences d'une telle mesure, vous examinez les arguments pour et contre, et vous proposez une solution réaliste.
+
+  Напиши **220–300 слов**, с заголовком.
+words: [220, 300]
+target_grammar:
+  - "si + imparfait → conditionnel présent; si + plus-que-parfait → conditionnel passé"
+  - "conditionnel без si: imaginons…, sans…, à condition de…"
+  - "conditionnel journalistique и смягчение: selon…, aurait…; il serait…, je ne saurais…"
+  - "quand bien même + conditionnel"
+checklist:
+  - "Есть заголовок и вступление с гипотезой, вопросом и позицией."
+  - "Хотя бы одно si + imparfait → conditionnel présent и одно si + plus-que-parfait → conditionnel passé."
+  - "Ни одного conditionnel сразу после условного si."
+  - "Данные или чужие утверждения поданы с conditionnel journalistique или selon."
+  - "Есть уступка: certes… / quand bien même…"
+  - "Вывод предлагает конкретное решение, а не просто повторяет позицию."
+  - "Факты и позиция — в indicatif: conditionnel не в каждой фразе."
+model_answer: |
+  Un revenu pour tous : utopie ou nécessité ?
+
+  Imaginons un instant : dès l'an prochain, chaque adulte toucherait huit cents euros par mois, sans condition. Que se passerait-il ? Les uns prédisent la fin du travail, les autres celle de la pauvreté. Pour ma part, je pense que l'idée mérite d'être testée, à condition d'en mesurer les limites.
+
+  D'abord, un tel revenu libérerait bien des gens de la peur du lendemain. Un étudiant pourrait se consacrer à ses études au lieu d'enchaîner les petits boulots ; une mère seule aurait enfin le temps de se former. Si ce dispositif avait existé il y a vingt ans, combien de vocations aurions-nous sauvées ?
+
+  Ensuite, contrairement à une idée reçue, il ne transformerait pas forcément les citoyens en oisifs. Selon plusieurs expériences menées en Finlande et au Kenya, les bénéficiaires n'auraient pas moins travaillé que les autres ; ils se seraient même déclarés en meilleure santé.
+
+  Certes, le coût serait considérable. Il faudrait augmenter certains impôts ou supprimer d'autres aides, et quand bien même on y parviendrait, le risque d'inflation resterait réel. Je ne saurais donc défendre une application immédiate à l'échelle du pays.
+
+  C'est pourquoi la solution la plus raisonnable consisterait à mener une expérimentation de quelques années dans plusieurs régions. Si les résultats étaient positifs, on pourrait l'étendre progressivement ; s'ils ne l'étaient pas, nous aurions au moins appris quelque chose. Refuser d'essayer, en revanche, ce serait se condamner à ne jamais savoir.

@@ -134,3 +134,27 @@
   lesson: b-04-inversion-duree-cause/04-grammaire
   q: "Что значит *d'où* + существительное?"
   a: "Сжатое следствие «отсюда»: *Le réseau était saturé, **d'où** les coupures.*"
+- id: b04-se-passer-de
+  lesson: b-04-inversion-duree-cause/07-lecture
+  q: "«Обходиться без смартфона — настоящий подвиг»."
+  a: "**Se passer du** smartphone **relève de l'exploit**."
+- id: b04-dematerialise
+  lesson: b-04-inversion-duree-cause/07-lecture
+  q: "«Билеты теперь электронные»."
+  a: "Les billets sont désormais **dématérialisés**."
+- id: b04-question-rhetorique
+  lesson: b-04-inversion-duree-cause/08-ecriture
+  q: "Риторический вопрос для довода: «Неужели ребёнку десяти лет действительно нужен смартфон?»"
+  a: "*Un enfant de dix ans **a-t-il** vraiment besoin d'un smartphone ?*"
+- id: b04-piece-rechange
+  lesson: b-04-inversion-duree-cause/09-ecoute
+  q: "«Запчастей больше не существует», «в рабочем состоянии»."
+  a: "*Les **pièces de rechange** n'existent plus*; ***en état de marche***."
+- id: b04-panne
+  lesson: b-04-inversion-duree-cause/09-ecoute
+  q: "«Из-за сбоя, случившегося час назад…» (официальное объявление)."
+  a: "***En raison d'**une **panne** survenue **il y a** une heure…*"
+- id: b04-au-ralenti
+  lesson: b-04-inversion-duree-cause/09-ecoute
+  q: "«Стойки работают в замедленном режиме»."
+  a: "*Les comptoirs fonctionnent **au ralenti**.*"

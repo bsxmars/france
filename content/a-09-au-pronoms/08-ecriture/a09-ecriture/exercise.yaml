@@ -1,0 +1,27 @@
+title: "Message : une invitation"
+type: writing
+intro: "Напиши другу приглашение на субботу по плану урока."
+prompt: |
+  Tu écris un message à ton ami(e). Samedi, tu vas au cinéma, au musée ou au parc. Tu parles du temps (il fait…, il pleut…) et de ce qu'il faut. Tu proposes un rendez-vous.
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "au, aux: je vais au musée"
+  - "безличные обороты: il fait froid, il pleut, il faut"
+  - "местоимения le, la, les перед глаголом"
+  - "jusqu'à, jusqu'au"
+checklist:
+  - "Есть обращение и прощание."
+  - "Сказано, куда и когда: au cinéma, à six heures."
+  - "à + le = au, à + les = aux; à la и à l' не сливаются."
+  - "Есть хотя бы один безличный оборот: il fait…, il pleut, il faut…"
+  - "Местоимение le / la / les стоит перед глаголом."
+  - "Наречие стоит после глагола: il pleut beaucoup, je lis souvent."
+model_answer: |
+  Salut Paul !
+
+  Samedi, je vais au musée des Beaux-Arts avec Anne. La visite dure jusqu'à midi. Il pleut beaucoup et il fait froid : il faut un parapluie ! Après, je vais au parc. Le parc du musée ? Je l'aime beaucoup. Rendez-vous devant le musée à dix heures ? Tu es libre ?
+
+  À samedi !
+  Léa

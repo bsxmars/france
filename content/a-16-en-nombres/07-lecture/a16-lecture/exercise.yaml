@@ -1,0 +1,46 @@
+title: "Sortie au zoo"
+type: reading
+intro: "Прочитай письмо учительницы и ответь на вопросы. В вопросах с полем впиши число из текста (цифрой или словом)."
+hints:
+  - "Выпиши все числа и то, к чему они относятся."
+  - "en + число: en заменяет уже названный предмет."
+text: |
+  **École Jules-Ferry — classe de Madame Morel**
+  **Sortie au zoo, le jeudi 14 mai**
+
+  Chers parents,
+
+  Le jeudi 14 mai, nos vingt-six élèves vont au zoo. Le bus part de l'école à huit heures et demie et revient à seize heures. Soyez à l'école à huit heures et quart, s'il vous plaît !
+
+  Mettez dans le sac de votre enfant un pique-nique et une petite bouteille d'eau. Vous n'avez pas de petite bouteille ? Pas de problème : l'école en a trente.
+
+  Le matin, il fait souvent froid : mettez un pull à votre enfant.
+
+  Le prix de la sortie : douze euros. Dans le bus, il y a trois places pour des parents. Deux parents viennent déjà : il en reste une. Vous voulez venir ? Écrivez-moi avant le 5 mai.
+
+  Merci et à bientôt !
+  **Claire Morel**
+items:
+  - q: "Сколько учеников едет в зоопарк?"
+    options: ["шестнадцать", "двадцать шесть", "тридцать"]
+    answer: 1
+    explain: "*nos vingt-six élèves vont au zoo* — 26. 16 — час возвращения, 30 — бутылки у школы."
+  - q: "Во сколько родители должны привести детей в школу?"
+    options: ["в 8:15", "в 8:30", "в 16:00"]
+    answer: 0
+    explain: "*Soyez à l'école à huit heures et quart* — повелительное *être*: «будьте». В 8:30 автобус **уезжает**."
+  - q: "Что положить в рюкзак ребёнку?"
+    options: ["двенадцать евро и бутылку воды", "еду с собой и бутылку воды", "свитер и книгу"]
+    answer: 1
+    explain: "*Mettez dans le sac de votre enfant un pique-nique et une petite bouteille d'eau.* Свитер надевают на ребёнка: *mettez un pull à votre enfant*."
+  - q: "Что делать, если маленькой бутылки нет?"
+    options: ["купить в зоопарке", "ничего: у школы их тридцать", "положить большую бутылку"]
+    answer: 1
+    explain: "*Pas de problème : l'école en a trente.* — *en* = *de petites bouteilles*."
+  - q: "Сколько стоит экскурсия?"
+    options: ["5 евро", "12 евро", "14 евро"]
+    answer: 1
+    explain: "*Le prix de la sortie : douze euros.* 14 и 5 — числа месяца в датах."
+  - q: "Сколько мест для родителей ещё свободно? — Il en reste ___."
+    answers: ["une", "1"]
+    explain: "Мест три, два заняты: *il en reste **une*** — *en* = *de places*, *une* — потому что *place* ж. р."

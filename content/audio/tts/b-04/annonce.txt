@@ -1,0 +1,5 @@
+# pause: 600
+E: Mesdames et messieurs, votre attention, s'il vous plaît. En raison d'une panne du système d'enregistrement survenue il y a une heure, les comptoirs fonctionnent au ralenti.
+E: Les départs prévus avant midi sont retardés d'environ quarante-cinq minutes. Nos techniciens travaillent sur le problème depuis sept heures et prévoient un retour à la normale dans deux heures.
+E: Comme les bornes automatiques ne fonctionnent pas non plus, vous êtes invités à présenter votre carte d'embarquement, imprimée ou sur votre téléphone, directement à la porte.
+E: Les passagers ayant une correspondance avant quatorze heures sont priés de se présenter au comptoir numéro douze, au niveau des arrivées. Nous vous remercions de votre patience.

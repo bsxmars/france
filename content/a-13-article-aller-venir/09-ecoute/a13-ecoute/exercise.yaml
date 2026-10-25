@@ -1,0 +1,45 @@
+title: "Un concert samedi"
+type: listening
+intro: "Послушай телефонный разговор и ответь на вопросы."
+hints:
+  - "je vais + инфинитив — планы; je reviens — возвращаюсь."
+  - "Слушай дни недели и часы."
+audio: audio/tts/a-13/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural, fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  — Allô, Marc ? C'est Julie. Tu es où ?
+  — Salut, Julie ! Je suis à la gare. Je vais à Lausanne, chez mes parents.
+  — Ah bon ? Tu reviens demain ?
+  — Non, je reviens lundi. Pourquoi ?
+  — Samedi soir, il y a un concert dans le parc. Mes amis viennent aussi.
+  — C'est gratuit ?
+  — Oui, il n'y a pas de billets. Le concert commence à huit heures.
+  — Samedi, je ne peux pas. Je vais aider mon père dans son jardin.
+  — Dommage ! Alors, lundi soir, tu viens chez moi ? Nous allons regarder un film.
+  — D'accord, je viens à sept heures. Je vais apporter des gâteaux !
+  — Super ! À lundi !
+items:
+  - q: "Где сейчас Марк?"
+    options: ["дома", "на вокзале", "в парке"]
+    answer: 1
+    explain: "*Je suis à la gare.*"
+  - q: "Куда он едет?"
+    options: ["в Лозанну, к родителям", "в Лион, к сестре", "в Лозанну, на концерт"]
+    answer: 0
+    explain: "*Je vais à Lausanne, chez mes parents.* — *aller à* + город, *chez* + люди."
+  - q: "Когда Марк возвращается?"
+    options: ["завтра", "в субботу", "в понедельник"]
+    answer: 2
+    explain: "*Tu reviens demain ? — Non, je reviens lundi.* Первый вариант — ловушка: Жюли спрашивает про «завтра», а Марк отвечает «нет»."
+  - q: "Что будет в субботу вечером?"
+    options: ["концерт в парке", "фильм у Жюли", "праздник у родителей Марка"]
+    answer: 0
+    explain: "*Samedi soir, il y a un concert dans le parc.*"
+  - q: "Почему Марк не может пойти на концерт?"
+    options: ["билетов нет", "он будет помогать отцу в саду", "он работает в субботу"]
+    answer: 1
+    explain: "*Je vais aider mon père dans son jardin.* — *vais aider*: ближайшее будущее. «Билетов нет» — потому что концерт бесплатный."
+  - q: "Что Марк принесёт в понедельник?"
+    options: ["фильм", "цветы", "пирожные"]
+    answer: 2
+    explain: "*Je vais apporter des gâteaux !* — *des* перед новым предметом во множественном числе."

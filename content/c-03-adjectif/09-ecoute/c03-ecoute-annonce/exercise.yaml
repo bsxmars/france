@@ -1,0 +1,38 @@
+title: "Annonce : un appartement plein de caractère"
+type: listening
+intro: "Объявление звучит один раз. Прочитай вопросы заранее; в пропуски впиши число или слово из записи."
+hints:
+  - "Место прилагательного меняет смысл: ancien перед и после существительного."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c-03/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  Vous rêvez d'un logement plein de caractère ? L'agence Pierre et Brique vous propose cette semaine un bel appartement ancien, au troisième étage d'un vieil immeuble du centre-ville, à deux pas de la gare.
+
+  Soixante-quinze mètres carrés, trois pièces, de hauts plafonds et de grandes fenêtres donnant sur un jardin. La cuisine est neuve, la salle de bains a été entièrement refaite, et un nouvel ascenseur a été installé l'an dernier.
+
+  Petit plus : une ancienne chambre de bonne, au sixième étage, est vendue avec l'appartement. Elle peut servir de bureau ou de chambre d'amis.
+
+  Prix : trois cent vingt mille euros, frais d'agence compris. Visites le samedi matin, uniquement sur rendez-vous, à prendre sur le site de l'agence.
+items:
+  - q: "L'appartement se trouve au ___ étage."
+    answers: ["troisième", "3e", "3ème", "3"]
+    explain: "*au **troisième** étage d'un vieil immeuble* — *vieil* перед гласной."
+  - q: "Il fait ___ mètres carrés."
+    answers: ["soixante-quinze", "75", "soixante quinze"]
+    explain: "*Soixante-quinze mètres carrés, trois pièces.*"
+  - q: "Что в квартире новое?"
+    options: ["кухня и лифт", "окна и потолки", "сад и ванная"]
+    answer: 0
+    explain: "*La cuisine est neuve… un nouvel ascenseur a été installé* (ванную *refaite* — отремонтировали). *Neuve* — только что сделанная; *nouvel* — новый, недавно появившийся."
+  - q: "Что такое «une ancienne chambre de bonne» в этом объявлении?"
+    options: ["бывшая комната для прислуги", "старинная спальня", "хорошая старая комната"]
+    answer: 0
+    explain: "*Ancien* **перед** существительным = «бывший»: сейчас это может быть *bureau ou chambre d'amis*."
+  - q: "Le prix est de ___ euros."
+    answers: ["trois cent vingt mille", "320 000", "320000", "trois-cent-vingt-mille"]
+    explain: "*trois cent vingt mille euros, frais d'agence compris* — комиссия уже включена."
+  - q: "Как записаться на просмотр?"
+    options: ["позвонить в агентство в любой день", "на сайте агентства, просмотры в субботу утром", "прийти без записи в субботу"]
+    answer: 1
+    explain: "*Visites le samedi matin, uniquement sur rendez-vous, à prendre sur le site de l'agence.*"

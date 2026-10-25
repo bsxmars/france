@@ -1,0 +1,55 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком (или выбери вариант). Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "Окончание -s и -ent не слышно: число узнаётся по артиклю и притяжательному."
+  - "Перед гласной — элизия: c'est, n'est, l'école."
+items:
+  - audio: audio/tts/a-05/le.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["le livre", "les livres"]
+    answer: 0
+    explain: "[лё] — **le livre**, один. *les* звучит [ле]."
+  - audio: audio/tts/a-05/les.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["le livre", "les livres"]
+    answer: 1
+    explain: "[ле] — **les livres**: -s на конце не слышно, число — по артиклю."
+  - audio: audio/tts/a-05/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Mon père est médecin."]
+    explain: "«Мой отец — врач». Профессия после *être* — без артикля."
+  - audio: audio/tts/a-05/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Ce n'est pas ma voiture."]
+    explain: "«Это не моя машина». *ce n'est pas* — элизия *ne* → *n'* перед *est*."
+  - audio: audio/tts/a-05/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Leurs enfants habitent à Paris."]
+    explain: "«Их дети живут в Париже». *leurs* — при нескольких; *-ent* в *habitent* не произносится, но пишется."
+  - audio: audio/tts/a-05/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Je ne parle pas anglais.", "Je ne parle pas l'anglais."]
+    explain: "«Я не говорю по-английски». *ne… pas* обнимает глагол."
+  - audio: audio/tatoeba/474294.mp3
+    audio_source: {title: "Tatoeba #6948", url: "https://tatoeba.org/fr/sentences/show/6948", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je suis boulanger."]
+    explain: "«Я пекарь». Снова профессия без артикля."
+  - audio: audio/tatoeba/472071.mp3
+    audio_source: {title: "Tatoeba #487336", url: "https://tatoeba.org/fr/sentences/show/487336", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Son épouse est française."]
+    explain: "«Его жена — француженка». *son* перед гласной даже у женского слова: *son épouse*."
+  - audio: audio/tatoeba/472070.mp3
+    audio_source: {title: "Tatoeba #487335", url: "https://tatoeba.org/fr/sentences/show/487335", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Il parle le français.", "Il parle français."]
+    explain: "«Он говорит по-французски». После *parler* артикль у языка можно опустить."
+  - audio: audio/tatoeba/474301.mp3
+    audio_source: {title: "Tatoeba #13849", url: "https://tatoeba.org/fr/sentences/show/13849", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je suis à la maison."]
+    explain: "«Я дома». *à la maison* — предлог *à* + артикль."
+  - audio: audio/tatoeba/474342.mp3
+    audio_source: {title: "Tatoeba #885684", url: "https://tatoeba.org/fr/sentences/show/885684", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["À qui est-ce ?"]
+    explain: "«Чьё это?». *à qui* — «кому, чьё»; инверсия *est-ce* в вопросе."

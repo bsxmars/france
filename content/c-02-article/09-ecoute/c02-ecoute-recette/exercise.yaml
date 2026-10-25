@@ -1,0 +1,42 @@
+title: "Recette : le pouding chômeur"
+type: listening
+intro: "Радиорубрика звучит один раз. Прочитай вопросы заранее; в пропуски впиши число или слово из записи."
+hints:
+  - "Количества: tasse, demi-tasse, pincée, cuillère à thé."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c-02/recette.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+transcript: |
+  Et voici la recette de la semaine : le pouding chômeur, un grand classique québécois né pendant la crise des années trente, quand les familles n'avaient ni beurre en abondance ni argent pour les desserts.
+
+  Pour six personnes, il vous faut deux tasses de farine, une demi-tasse de sucre, une pincée de sel, deux cuillères à thé de poudre à pâte, une tasse de lait et un peu de beurre fondu. Mélangez le tout et versez la pâte dans un plat.
+
+  Pour le sirop, faites bouillir deux tasses d'eau avec une tasse de sirop d'érable — du vrai, pas du sirop de table — et une tasse de cassonade. Versez le sirop bien chaud sur la pâte, sans mélanger : c'est lui qui va former le caramel au fond du plat.
+
+  Faites cuire trente-cinq minutes à trois cent cinquante degrés Fahrenheit, soit environ cent quatre-vingts degrés Celsius. Servez tiède, avec de la crème glacée si vous voulez faire plaisir aux enfants. Bon appétit !
+items:
+  - q: "Откуда название «pouding chômeur» (пудинг безработного)?"
+    options: ["Его придумали в кризис 1930-х, когда у семей не было денег.", "Его готовят по понедельникам.", "Его придумал безработный повар из Монреаля."]
+    answer: 0
+    explain: "*né pendant la crise des années trente, quand les familles n'avaient ni beurre en abondance ni argent pour les desserts* — *ni… ni…* без артикля."
+  - q: "La recette est pour ___ personnes."
+    answers: ["six", "6"]
+    explain: "*Pour **six** personnes*."
+  - q: "Il faut ___ tasses de farine."
+    answers: ["deux", "2"]
+    explain: "*deux tasses de farine* — после слова количества **de** без артикля."
+  - q: "Какой сироп нужен?"
+    options: ["любой столовый сироп", "настоящий кленовый сироп", "карамельный сироп"]
+    answer: 1
+    explain: "*une tasse de sirop d'érable — **du vrai**, pas du sirop de table*."
+  - q: "Что нельзя делать, когда сироп вылит на тесто?"
+    options: ["ставить в духовку", "перемешивать", "охлаждать"]
+    answer: 1
+    explain: "*Versez le sirop bien chaud sur la pâte, **sans mélanger*** — сироп сам образует карамель на дне."
+  - q: "Le pouding cuit ___ minutes."
+    answers: ["trente-cinq", "35", "trente cinq"]
+    explain: "*Faites cuire **trente-cinq** minutes à 350 °F, soit environ 180 °C.*"
+  - q: "Как подавать?"
+    options: ["горячим, с кленовым сиропом", "тёплым, по желанию с мороженым", "холодным, со сливками"]
+    answer: 1
+    explain: "*Servez tiède, avec de la crème glacée* — в Квебеке *la crème glacée* = мороженое (во Франции *la glace*)."

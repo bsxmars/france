@@ -1,0 +1,43 @@
+title: "Courses pour ce soir"
+type: reading
+intro: "Прочитай записку и ответь на вопросы. В вопросах с полем впиши одно слово из текста."
+hints:
+  - "Раздели продукты: что есть, чего нет, что купить."
+  - "pas de — «нет совсем»; le, la, les после отрицания не меняются."
+text: |
+  **Salut Hugo,**
+
+  Ce soir, nous avons des invités : Paul et Léa viennent dîner à huit heures.
+
+  Dans le frigo, il y a beaucoup de tomates et assez de pommes, mais nous n'avons pas de lait et il n'y a pas d'œufs. Achète six œufs et une bouteille de lait, s'il te plaît.
+
+  Attention : Léa n'aime pas le poisson. Pas de poisson, alors ! Nous allons faire une salade et une omelette. Paul, lui, mange beaucoup : achète aussi deux baguettes. N'achète pas de gâteau : il y a une tarte aux pommes.
+
+  L'argent est sur la table de la cuisine : il y a vingt euros. Moi, je rentre tard, j'ai peu de temps. Merci, Hugo, cela m'aide beaucoup !
+
+  **Bisous,**
+  **Maman**
+items:
+  - q: "Когда придут гости?"
+    options: ["в шесть часов", "в восемь часов", "завтра вечером"]
+    answer: 1
+    explain: "*Paul et Léa viennent dîner à huit heures.*"
+  - q: "Чего нет в холодильнике?"
+    options: ["помидоров и яблок", "молока и яиц", "рыбы и сыра"]
+    answer: 1
+    explain: "*Nous n'avons pas de lait et il n'y a pas d'œufs* — после отрицания **de** (перед гласной *d'*). Помидоров и яблок, наоборот, много и достаточно."
+  - q: "Почему не нужно покупать рыбу?"
+    options: ["рыба уже есть", "Леа не любит рыбу", "рыба слишком дорогая"]
+    answer: 1
+    explain: "*Léa n'aime pas le poisson. Pas de poisson, alors !*"
+  - q: "Зачем купить два багета?"
+    options: ["Поль много ест", "Леа любит хлеб", "для яблочного пирога"]
+    answer: 0
+    explain: "*Paul, lui, mange beaucoup : achète aussi deux baguettes.*"
+  - q: "Сколько денег мама оставила и где?"
+    options: ["десять евро, в холодильнике", "двадцать евро, на кухонном столе", "двадцать евро, у Поля"]
+    answer: 1
+    explain: "*L'argent est sur la table de la cuisine : il y a vingt euros.*"
+  - q: "Впиши из текста: «Леа не любит рыбу» — Léa n'aime pas ___ poisson."
+    answers: ["le"]
+    explain: "**le**: с *aimer* говорят о рыбе вообще — определённый артикль после отрицания сохраняется. *De* — только вместо *un, une, des*."

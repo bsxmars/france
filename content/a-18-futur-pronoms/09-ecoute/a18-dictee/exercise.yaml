@@ -1,0 +1,47 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "Местоимение пишется перед глаголом (или перед инфинитивом): je lui donne, je vais le chercher."
+  - "ils finissent — во мн. ч. слышно [с]."
+items:
+  - audio: audio/tts/a-18/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Je viens de finir mes devoirs."]
+    explain: "«Я только что закончила домашние задания». *venir de* + инфинитив — passé immédiat."
+  - audio: audio/tts/a-18/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Nous allons leur téléphoner ce soir."]
+    explain: "«Мы позвоним им сегодня вечером». *téléphoner à* → **leur**, перед инфинитивом. *leur* — без *-s*: это местоимение."
+  - audio: audio/tts/a-18/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Nos enfants finissent l'école à cinq heures.", "Nos enfants finissent l'école à 5 heures.", "Nos enfants finissent l'école à 5 h."]
+    explain: "«Наши дети заканчивают школу (уроки) в пять». *ils finissent* — суффикс *-iss-* во мн. ч."
+  - audio: audio/tts/a-18/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Le bureau est au troisième étage.", "Le bureau est au 3e étage."]
+    explain: "«Офис на третьем (по-русски — четвёртом) этаже». *trois* + *-ième*."
+  - audio: audio/tts/a-18/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Tu sais où il habite ?"]
+    explain: "«Ты знаешь, где он живёт?» *savoir* + *où* — знать факт. *tu sais* [сэ]."
+  - audio: audio/tts/a-18/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Je lui donne un verre d'eau."]
+    explain: "«Я даю ему (ей) стакан воды». *donner à qn* → **lui**; *un verre **d'**eau* — *de* без артикля после слова количества."
+  - audio: audio/tatoeba/474419.mp3
+    audio_source: {title: "Tatoeba #1313556", url: "https://tatoeba.org/fr/sentences/show/1313556", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je vais aller le chercher."]
+    explain: "«Я схожу за ним». *aller* + инфинитив, и ещё один инфинитив; *le* — перед тем глаголом, к которому относится: *le chercher*."
+  - audio: audio/tatoeba/472044.mp3
+    audio_source: {title: "Tatoeba #5663257", url: "https://tatoeba.org/fr/sentences/show/5663257", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je vais avoir trente ans en octobre.", "Je vais avoir 30 ans en octobre."]
+    explain: "«В октябре мне исполнится тридцать». Возраст — с *avoir*; *aller* + инфинитив — ближайшее будущее."
+  - audio: audio/tatoeba/473183.mp3
+    audio_source: {title: "Tatoeba #6468882", url: "https://tatoeba.org/fr/sentences/show/6468882", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Sais-tu compter en français ?"]
+    explain: "«Ты умеешь считать по-французски?» *savoir* + инфинитив — «уметь»; вопрос инверсией."
+  - audio: audio/tatoeba/474667.mp3
+    audio_source: {title: "Tatoeba #4625966", url: "https://tatoeba.org/fr/sentences/show/4625966", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Choisis une date !"]
+    explain: "«Выбери дату!» *choisir* — II группа, как *finir*: повелительное *choisis*."

@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "futur [ʁe] и conditionnel [ʁɛ] звучат почти одинаково — решает контекст: после прошедшего времени нужен conditionnel."
+  - "После quand / dès que о будущем — futur или futur antérieur."
+items:
+  - audio: audio/tts/c-09/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Je t'appellerai dès que je serai arrivé.", "Je t'appellerai dès que je serai arrivée."]
+    explain: "«Я позвоню тебе, как только приеду». *appeler* → **appellerai** (два *l*); после *dès que* — futur antérieur *serai arrivé*."
+  - audio: audio/tts/c-09/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Nous achèterons les billets quand nous aurons reçu notre salaire."]
+    explain: "«Мы купим билеты, когда получим зарплату». *acheter* → **achèterons** (*è*); *aurons reçu* — сначала зарплата, потом билеты."
+  - audio: audio/tts/c-09/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Il m'a dit qu'il viendrait nous voir à Noël."]
+    explain: "«Он сказал мне, что приедет к нам на Рождество». Futur dans le passé: после *il m'a dit* — **viendrait**, не *viendra*."
+  - audio: audio/tts/c-09/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Elle allait sortir quand le téléphone a sonné."]
+    explain: "«Она уже собиралась выйти, когда зазвонил телефон». **allait + infinitif** — будущее с точки зрения прошлого, прерванное событием."
+  - audio: audio/tts/c-09/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Le train part dans dix minutes, dépêche-toi !", "Le train part dans 10 minutes, dépêche-toi !"]
+    explain: "«Поезд отходит через десять минут, поторопись!» Présent вместо будущего — для близкого запланированного события."
+  - audio: audio/tts/c-09/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Tu jetteras un coup d'œil à ce rapport, s'il te plaît.", "Tu jetteras un coup d'oeil à ce rapport, s'il te plaît."]
+    explain: "«Посмотри, пожалуйста, этот отчёт». Futur simple как мягкая просьба; *jeter* → **jetteras** (два *t*)."
+  - audio: audio/tts/c-09/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Il n'est pas encore là : il aura manqué son train."]
+    explain: "«Его ещё нет — наверное, опоздал на поезд». Futur antérieur предположения: **aura manqué** = *il a probablement manqué*."
+  - audio: audio/tts/c-09/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Je savais qu'à minuit, tout le monde serait déjà parti."]
+    explain: "«Я знала, что к полуночи все уже уйдут». Futur antérieur dans le passé: **serait parti** — завершится к сроку, с точки зрения прошлого."

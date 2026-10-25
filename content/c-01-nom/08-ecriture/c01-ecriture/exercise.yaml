@@ -1,0 +1,36 @@
+title: "Essai : faut-il chasser les anglicismes du bureau ?"
+type: writing
+intro: "Напиши essai argumenté по плану урока."
+prompt: |
+  La direction de votre entreprise envisage d'interdire les anglicismes (« meeting », « deadline », « feedback », « process »…) dans tous les documents internes. Le journal interne vous demande de prendre position.
+
+  Rédigez un essai argumenté dans lequel vous exposez votre point de vue de manière nuancée, en vous appuyant sur des exemples précis.
+
+  Напиши **220–300 слов**.
+words: [220, 300]
+target_grammar:
+  - "род заимствований: un e-mail, une start-up, un week-end"
+  - "мн. ч. заимствований и составных: des sandwichs, des matchs, des mots-clés, des chefs-d'œuvre"
+  - "женский род названий профессий с согласованием: la cheffe de projet est exigeante, une nouvelle recrue"
+checklist:
+  - "Во вступлении — ситуация, проблема и ясная позиция."
+  - "Есть уступка: признана сила противоположного мнения."
+  - "Два довода, у каждого — конкретный пример."
+  - "Предложено решение или альтернатива (plutôt que de…, il vaudrait mieux…)."
+  - "Хотя бы три заимствования или составных слова во мн. ч. — с правильным окончанием."
+  - "Хотя бы одно название профессии в женском роде, согласованное с прилагательными."
+  - "Регистр стандартный письменный, связки не повторяются."
+model_answer: |
+  Faut-il chasser les anglicismes du bureau ?
+
+  Dans notre entreprise, on ne compte plus les « meetings », les « deadlines » et les « feedbacks ». La direction propose de les bannir des documents internes. L'intention est louable, mais une interdiction me paraît à la fois inutile et contre-productive.
+
+  Reconnaissons d'abord que l'abus d'anglicismes pose un vrai problème. Lorsqu'une cheffe de projet annonce qu'il faut « checker les process avant le kick-off », une partie de l'équipe décroche. Ce jargon crée des barrières entre les services et donne parfois l'illusion de la compétence. Le français dispose pourtant d'équivalents parfaitement clairs : une réunion, une date limite, un retour.
+
+  Il n'en reste pas moins que la langue n'a jamais été un territoire fermé. Le français a emprunté à l'anglais des centaines de mots — des sandwichs, des week-ends, des matchs — qui ont pris l'article, le pluriel et la prononciation du français. Certains termes, comme les start-up ou les e-mails, n'ont d'ailleurs pas d'équivalent que l'usage ait vraiment adopté : qui dit « jeune pousse » à la machine à café ?
+
+  Plutôt que d'interdire, il vaudrait mieux expliquer. Un petit glossaire, rédigé par un représentant de chaque service, permettrait de proposer des mots-clés français sans culpabiliser personne. Les nouvelles recrues, souvent perdues dans ce jargon, en seraient les premières bénéficiaires.
+
+  En somme, ce ne sont pas les emprunts qui menacent notre langue, mais la paresse qui consiste à les utiliser sans réfléchir. Une langue vivante se nourrit de ses voisines ; elle a seulement besoin qu'on la parle avec soin.
+
+  Claire Martin, service communication

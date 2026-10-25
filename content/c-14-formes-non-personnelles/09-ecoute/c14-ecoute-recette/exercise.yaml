@@ -1,0 +1,39 @@
+title: "La minute gourmande : le gâteau aux pommes"
+type: listening
+intro: "Кулинарная рубрика звучит один раз. Держи в голове числа и порядок действий."
+hints:
+  - "Les pommes épluchées, … / Le beurre une fois refroidi, … — «после того как»."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c-14/recette.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  Bonjour à tous, voici votre minute gourmande. Aujourd'hui, le gâteau aux pommes de ma grand-mère, prêt en moins d'une heure.
+
+  Commencez par faire fondre cent grammes de beurre à feu doux. Pendant ce temps, épluchez quatre pommes. Les pommes épluchées, coupez-les en fines lamelles, en prenant soin d'enlever le cœur.
+
+  Dans un saladier, mélangez trois œufs et cent vingt grammes de sucre, puis ajoutez la farine tout en remuant, pour éviter les grumeaux. Le beurre une fois refroidi, versez-le dans la pâte.
+
+  Disposez les pommes dans le moule, versez la pâte par-dessus et laissez cuire quarante minutes à cent quatre-vingts degrés. Le gâteau sorti du four, laissez-le reposer dix minutes avant de le démouler. Et surtout, ne le faites pas trop cuire : ma grand-mère disait toujours qu'un gâteau aux pommes devait rester fondant.
+items:
+  - q: "Faites fondre ___ grammes de beurre à feu doux."
+    answers: ["cent", "100"]
+    explain: "*Commencez par **faire fondre** cent grammes de beurre* — каузатив: «растопите»."
+  - q: "Когда нужно резать яблоки?"
+    options: ["после того как их очистили", "пока тает масло, не очищая", "после выпечки"]
+    answer: 0
+    explain: "*Les pommes épluchées, coupez-les en fines lamelles* — proposition participe: сначала очистить, потом резать."
+  - q: "Зачем добавлять муку, помешивая?"
+    options: ["чтобы не было комков", "чтобы тесто было воздушнее", "чтобы масло не остыло"]
+    answer: 0
+    explain: "*ajoutez la farine **tout en remuant**, pour éviter les grumeaux* — *tout en* подчёркивает одновременность."
+  - q: "Когда вливают масло в тесто?"
+    options: ["сразу, пока горячее", "когда оно остыло", "в самом конце, на готовый пирог"]
+    answer: 1
+    explain: "*Le beurre une fois refroidi, versez-le dans la pâte.*"
+  - q: "Le gâteau cuit ___ minutes."
+    answers: ["quarante", "40"]
+    explain: "*laissez cuire quarante minutes à cent quatre-vingts degrés.*"
+  - q: "Что делать с пирогом, когда его вынули из духовки?"
+    options: ["сразу вынуть из формы", "дать постоять десять минут и потом вынуть из формы", "поставить ещё на десять минут в духовку"]
+    answer: 1
+    explain: "*Le gâteau sorti du four, laissez-le reposer dix minutes avant de le démouler.*"

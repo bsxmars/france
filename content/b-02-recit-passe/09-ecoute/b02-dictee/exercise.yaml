@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "С être причастие согласуется с подлежащим, с avoir — с прямым дополнением впереди."
+  - "Passé simple первой группы: -a, -èrent; leva, entra."
+items:
+  - audio: audio/tts/b-02/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Quand nous sommes arrivés, le film avait déjà commencé.", "Quand nous sommes arrivées, le film avait déjà commencé."]
+    explain: "«Когда мы пришли, фильм уже начался». *avait commencé* — plus-que-parfait: раньше нашего прихода."
+  - audio: audio/tts/b-02/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Il pleuvait depuis trois jours quand la rivière a débordé."]
+    explain: "«Дождь шёл уже три дня, когда река вышла из берегов». Фон с *depuis* — imparfait, событие — passé composé."
+  - audio: audio/tts/b-02/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Si tu m'avais prévenue, je serais venue te chercher.", "Si tu m'avais prévenu, je serais venu te chercher.", "Si tu m'avais prévenue, je serais venu te chercher.", "Si tu m'avais prévenu, je serais venue te chercher."]
+    explain: "«Если бы ты меня предупредил, я бы за тобой приехала» (говорит женщина: *prévenue, venue*). *si* + plus-que-parfait → conditionnel passé."
+  - audio: audio/tts/b-02/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Après avoir visité le château, ils se sont promenés au bord du lac.", "Après avoir visité le château, elles se sont promenées au bord du lac."]
+    explain: "«Осмотрев замок, они погуляли по берегу озера». *après avoir* + participe; *se promener* — с *être*, причастие согласуется."
+  - audio: audio/tts/b-02/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["La lettre qu'elle avait écrite n'est jamais arrivée."]
+    explain: "«Письмо, которое она написала, так и не дошло». *écrite* — согласование с *que* (= *la lettre*) перед *avoir*; *arrivée* — с подлежащим."
+  - audio: audio/tts/b-02/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Le roi entra dans la salle, et tout le monde se leva."]
+    explain: "«Король вошёл в зал, и все встали». Passé simple: *entra* = *est entré*, *se leva* = *s'est levé*."
+  - audio: audio/tts/b-02/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Si elle avait pris le train, elle serait déjà là."]
+    explain: "«Если бы она поехала поездом, она бы уже была здесь». Прошлое условие → последствие в настоящем: conditionnel **présent**."
+  - audio: audio/tts/b-02/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["La maison se trouvait au milieu d'un grand parc, en face de l'église."]
+    explain: "«Дом стоял посреди большого парка, напротив церкви». Описание места — imparfait; *au milieu de*, *en face de*."

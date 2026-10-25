@@ -30,3 +30,23 @@
   lesson: a-15-negation-quantite/01-grammaire
   q: "Как спросить «есть ли у меня…?» в 1-м лице?"
   a: "*Est-ce que j'ai… ?* или с инверсией ***ai-je*** *… ?*"
+- id: a15-frigo
+  lesson: a-15-negation-quantite/07-lecture
+  q: "«В холодильнике много помидоров, но нет яиц»."
+  a: "Dans le frigo, il y a **beaucoup de** tomates, mais il n'y a **pas d'œufs**."
+- id: a15-achete
+  lesson: a-15-negation-quantite/07-lecture
+  q: "«Купи шесть яиц и бутылку молока». «Не покупай торт»."
+  a: "**Achète** six œufs et une bouteille de lait. **N'achète pas de** gâteau."
+- id: a15-nous-sommes-douze
+  lesson: a-15-negation-quantite/08-ecriture
+  q: "«Нас будет двенадцать. Принеси, пожалуйста, гитару!»"
+  a: "**Nous sommes douze.** **Apporte** ta guitare, s'il te plaît !"
+- id: a15-epicerie
+  lesson: a-15-negation-quantite/09-ecoute
+  q: "В магазине: «Что желаете?» — «Что-нибудь ещё?» — «Сколько стоит?» — «С вас…»"
+  a: "**Vous désirez ?** — **Et avec ça ?** — **C'est combien ?** — **Ça fait…**"
+- id: a15-oeufs-oral
+  lesson: a-15-negation-quantite/09-ecoute
+  q: "Как звучат *un œuf* и *des œufs*?"
+  a: "*un œuf* [œ̃-**nœf**] — *f* звучит; *des œufs* [de-**zø**] — *f* не звучит."

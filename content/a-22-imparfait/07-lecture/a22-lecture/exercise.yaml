@@ -1,0 +1,52 @@
+title: "Les étés de mon enfance"
+type: reading
+intro: "Прочитай воспоминание и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Imparfait — как было, что делали обычно; passé composé — что случилось."
+  - "Ответ на «почему?» ищи после comme, car, parce que."
+text: |
+  ## Les étés de mon enfance
+
+  Quand j'étais petit, je passais tous mes étés chez ma grand-mère, en Bretagne. Elle habitait une vieille maison près de la mer, à Perros-Guirec. Il n'y avait pas de télévision et le téléphone ne marchait pas toujours, mais nous ne nous ennuyions pas.
+
+  Le matin, mon frère et moi, nous allions chercher le pain au village. L'après-midi, nous jouions sur la plage avec les enfants des voisins. Comme il pleuvait souvent, ma grand-mère nous apprenait aussi à faire des crêpes. Elle voulait toujours en faire trop, car pour elle, les enfants avaient toujours faim. Le soir, elle nous racontait des histoires de marins. Moi, je voulais devenir marin, mais je ne savais pas nager !
+
+  Un été, quand j'avais dix ans, tout a changé. Un matin, ma grand-mère est tombée dans le jardin. Elle s'est cassé la jambe et elle est partie à l'hôpital de Lannion. Mes parents sont venus nous chercher, et nous sommes rentrés à Paris. Ma grand-mère était triste, je le savais, mais elle ne le montrait pas.
+
+  L'année dernière, je suis retourné à Perros-Guirec. D'autres gens habitaient dans la vieille maison. Puis, chez ma mère, dans un tiroir, j'ai trouvé les photos que ma grand-mère a prises pendant ces étés. Je les ai gardées, et je les regarde souvent.
+
+  Pourquoi est-ce que je raconte cette histoire ? Parce que ma fille a dix ans aujourd'hui. Cet été, je vais l'emmener en Bretagne et je vais lui demander : « Si on allait voir la maison de mon enfance ? »
+
+  *Paul*
+items:
+  - q: "Где Поль проводил лето в детстве?"
+    options: ["у бабушки в Бретани", "в Париже с родителями", "в больнице в Ланьоне"]
+    answer: 0
+    explain: "*je **passais** tous mes étés chez ma grand-mère, en Bretagne* — *imparfait*: привычка, повторялось каждое лето."
+  - q: "Чего не было в бабушкином доме?"
+    options: ["телефона", "телевизора", "сада"]
+    answer: 1
+    explain: "*Il n'y avait pas de télévision et le téléphone ne marchait pas toujours* — телефон был, но работал не всегда."
+  - q: "Почему бабушка учила детей печь блины?"
+    options: ["Потому что часто шёл дождь.", "Потому что дети были голодны.", "Потому что не было хлеба."]
+    answer: 0
+    explain: "***Comme** il pleuvait souvent, ma grand-mère nous apprenait…* — *comme* в начале фразы вводит причину."
+  - q: "Почему Поль не мог стать моряком?"
+    options: ["Он боялся моря.", "Он не умел плавать.", "Бабушка не хотела."]
+    answer: 1
+    explain: "*je **voulais** devenir marin, mais je ne savais pas nager !*"
+  - q: "Что случилось, когда Полю было десять лет?"
+    options: ["Бабушка продала дом.", "Бабушка упала и сломала ногу.", "Поль потерялся на пляже."]
+    answer: 1
+    explain: "*Un matin, ma grand-mère **est tombée** dans le jardin. Elle **s'est cassé** la jambe* — *passé composé*: событие на фоне. *cassé* без согласования: прямое дополнение — *la jambe*."
+  - q: "Как вела себя бабушка?"
+    options: ["Ей было грустно, но она этого не показывала.", "Она много плакала.", "Она была рада вернуться в Париж."]
+    answer: 0
+    explain: "*Ma grand-mère était triste, je **le** savais, mais elle ne **le** montrait pas.* — *le* = «это» (что ей грустно)."
+  - q: "Впиши причастие из текста: Les photos ? Je les ai ___."
+    answers: ["gardées"]
+    explain: "*Je **les** ai **gardées*** — *les* = *les photos* (ж. р., мн. ч.) стоит перед *avoir* → *-es*."
+  - q: "Зачем Поль рассказывает эту историю?"
+    options: ["Его дочери сейчас десять, и он повезёт её в Бретань.", "Он купил дом бабушки.", "Он хочет найти бабушкины фотографии."]
+    answer: 0
+    explain: "*Parce que ma fille a dix ans aujourd'hui. Cet été, je vais l'emmener en Bretagne* — ответ на *pourquoi* начинается с *parce que*."

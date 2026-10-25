@@ -1,0 +1,26 @@
+title: "Message : je me présente"
+type: writing
+intro: "Напиши первое сообщение другу по переписке о себе и семье по плану урока."
+prompt: |
+  Tu as un(e) nouveau / nouvelle correspondant(e) français(e). Tu te présentes : ton nom, ton âge, ta ville. Tu présentes ta famille avec l'âge de chaque personne. Tu as des frères, des sœurs ? Pose une question à ton / ta correspondant(e).
+
+  Напиши **30–60 слов**. Числа пиши словами.
+words: [30, 60]
+target_grammar:
+  - "числа до 69: дефис (vingt-huit), et un (cinquante et un)"
+  - "avoir … ans"
+  - "en с числом и в отрицании: j'en ai deux, je n'en ai pas"
+  - "mettre; повелительное être: sois, soyez"
+checklist:
+  - "Есть обращение и прощание."
+  - "Возраст — с avoir: j'ai… ans, il a… ans."
+  - "Числа написаны словами, с дефисом между десятками и единицами; 21, 31, 41… — с et un."
+  - "Есть ответ с en: j'en ai deux / je n'en ai pas."
+  - "В отрицании с en — ne… pas вокруг en и глагола: je n'en ai pas."
+  - "Есть вопрос к другу (Et toi, tu as… ?)."
+model_answer: |
+  Salut Lucas,
+
+  Je suis Anna, j'ai vingt-huit ans. J'habite à Kazan. Mon père a cinquante-quatre ans, ma mère en a cinquante et un. Des frères ? Oui, j'en ai deux : Ivan et Oleg. Je mets une photo dans ce message. Et toi, tu as des sœurs ? Sois patient : mon français n'est pas parfait !
+
+  Anna

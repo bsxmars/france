@@ -1,0 +1,43 @@
+title: "Un mot pour Léo"
+type: reading
+intro: "Прочитай записку и ответь на вопросы. В вопросах с полем впиши одно слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "il n'y a pas de… — «нет (чего-то)»."
+text: |
+  **Bonjour Léo,**
+
+  Bienvenue dans notre appartement ! Dans la cuisine, il y a des croissants et une bouteille de lait pour vous.
+
+  Dans le quartier, il y a une boulangerie, deux cafés et un petit marché. Le marché est sur la place, à côté de l'église. Il n'y a pas de supermarché, mais il y a une épicerie rue Pasteur.
+
+  Pour aller au centre, il y a un bus devant la maison. Le bus 12 va à la gare et au musée.
+
+  Moi, je vais à Lyon ce soir, chez ma sœur. Je reviens jeudi. Ma voisine, Madame Petit, vient demain à dix heures : elle va arroser les fleurs.
+
+  **Bonne visite !**
+  **Claire**
+items:
+  - q: "Что Клер оставила на кухне?"
+    options: ["кофе и сыр", "круассаны и молоко", "фрукты и цветы"]
+    answer: 1
+    explain: "*Dans la cuisine, il y a des croissants et une bouteille de lait pour vous.*"
+  - q: "Где находится рынок?"
+    options: ["на площади, рядом с церковью", "на улице Пастера", "перед домом"]
+    answer: 0
+    explain: "*Le marché est sur la place, à côté de l'église.* На улице Пастера — продуктовый магазин, перед домом — автобус."
+  - q: "Чего нет в квартале?"
+    options: ["булочной", "кафе", "супермаркета"]
+    answer: 2
+    explain: "*Il n'y a pas de supermarché* — после *il n'y a pas* вместо *un* стоит **de**."
+  - q: "Куда идёт автобус 12?"
+    options: ["к вокзалу и к музею", "в Лион", "к церкви и на рынок"]
+    answer: 0
+    explain: "*Le bus 12 va à la gare et au musée* — *au* = *à + le*."
+  - q: "Кто придёт завтра и зачем?"
+    options: ["сестра Клер — за ключом", "соседка — полить цветы", "Клер — приготовить завтрак"]
+    answer: 1
+    explain: "*Ma voisine, Madame Petit, vient demain à dix heures : elle va arroser les fleurs.* — *va arroser*: ближайшее будущее."
+  - q: "Впиши из текста: «Я возвращаюсь в четверг» — Je ___ jeudi."
+    answers: ["reviens"]
+    explain: "**reviens** — *revenir* спрягается как *venir*: *je viens → je reviens*."

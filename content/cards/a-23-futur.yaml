@@ -46,3 +46,23 @@
   lesson: a-23-futur/02-grammaire
   q: "«Скажи Полю, чтобы он закрыл дверь»."
   a: "*Dis **à** Paul **de** fermer la porte.* — *dire à qn de* + инфинитив."
+- id: a23-tu-viendras
+  lesson: a-23-futur/07-lecture
+  q: "«Ты приедешь в субботу, мы поедем на карнавал, ты увидишь ледяной дворец»."
+  a: "Tu **viendras** samedi, nous **irons** au carnaval, tu **verras** le palais de glace."
+- id: a23-interdit-de
+  lesson: a-23-futur/07-lecture
+  q: "«В доме запрещено ходить в обуви; все разуваются у входа»."
+  a: "**Il est interdit de** garder ses chaussures dans la maison ; **tout le monde** les enlève à l'entrée."
+- id: a23-s-il-pleut
+  lesson: a-23-futur/09-ecoute
+  q: "«Если пойдёт дождь, мы сходим в музей»."
+  a: "**S'il pleut**, nous **visiterons** le musée. — после *si* только *présent*."
+- id: a23-meteo
+  lesson: a-23-futur/09-ecoute
+  q: "«Завтра будет минус пятнадцать, после обеда пойдёт снег»."
+  a: "Demain, il **fera** moins quinze degrés ; l'après-midi, il **neigera**."
+- id: a23-te-dis-de
+  lesson: a-23-futur/08-ecriture
+  q: "«Советую тебе взять свитер», «Мама велит тебе взять перчатки»."
+  a: "Je te **dis de** prendre un pull. Ma mère te **dit de** prendre des gants."

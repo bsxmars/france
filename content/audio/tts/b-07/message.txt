@@ -1,0 +1,5 @@
+# pause: 600
+F: Bonjour, madame Lefort, ici Marc Tremblay, du service des ressources humaines de la société Nordia. Je vous appelle au sujet du poste d'assistante de projet.
+F: Ma collègue m'a dit que vous lui aviez envoyé votre dossier la semaine dernière, mais qu'il manquait votre lettre de recommandation. Pourriez-vous me l'envoyer d'ici vendredi, par courriel, à l'adresse qui figure dans l'annonce ?
+F: Par ailleurs, notre directrice aimerait vous rencontrer le mardi quatorze, à dix heures et demie. Si cette date ne vous convient pas, dites-le-moi le plus vite possible, et je vous en proposerai une autre. L'entretien durera environ quarante-cinq minutes.
+F: Vous pouvez me rappeler au cinq, un, quatre, cinq, cinq, cinq, zéro, un, neuf, deux. Merci, et bonne journée !

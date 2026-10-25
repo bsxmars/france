@@ -1,0 +1,37 @@
+title: "Brève : un tableau volé retrouvé"
+type: listening
+intro: "Новостная заметка звучит один раз, как на экзамене. Прочитай вопросы заранее."
+hints:
+  - "Пассив в новостях: что сделано, что будет сделано, кем."
+  - "Conditionnel passé (aurait été vendu) — информация не подтверждена."
+audio: audio/tts/c-08/breve.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+transcript: |
+  Et en terminant, une bonne nouvelle pour les amateurs d'art. Le tableau qui avait été volé il y a six ans au musée régional de Trois-Rivières a été retrouvé la semaine dernière par la police, dans un entrepôt de la banlieue de Québec.
+
+  L'œuvre, un paysage d'hiver peint en mille neuf cent douze, n'a été que légèrement abîmée. Elle sera restaurée au cours des prochains mois, puis exposée de nouveau à partir de septembre.
+
+  Deux suspects ont été arrêtés ; ils seront entendus par un juge dès lundi. Selon les enquêteurs, le tableau aurait été vendu à plusieurs reprises sur le marché noir avant d'être caché.
+items:
+  - q: "Le tableau avait été volé il y a ___ ans."
+    answers: ["six", "6"]
+    explain: "*Le tableau qui **avait été volé** il y a six ans* — plus-que-parfait пассива: кража предшествует находке."
+  - q: "Где нашли картину?"
+    options: ["в музее Труа-Ривьер", "на складе в пригороде Квебека", "у коллекционера в Монреале"]
+    answer: 1
+    explain: "*a été retrouvé… par la police, dans un entrepôt de la banlieue de Québec.* В музее Труа-Ривьер её украли."
+  - q: "В каком состоянии картина?"
+    options: ["сильно повреждена", "слегка повреждена", "совсем не повреждена"]
+    answer: 1
+    explain: "*n'a été **que** légèrement abîmée* — *ne… que* = «лишь»."
+  - q: "L'œuvre sera exposée de nouveau à partir de ___."
+    answers: ["septembre"]
+    explain: "*Elle sera restaurée…, puis exposée de nouveau à partir de **septembre**.* — пассив в futur."
+  - q: "Что известно о подозреваемых?"
+    options: ["Двое арестованы и в понедельник предстанут перед судьёй.", "Их ищет полиция.", "Они уже осуждены."]
+    answer: 0
+    explain: "*Deux suspects **ont été arrêtés** ; ils **seront entendus par** un juge dès lundi.*"
+  - q: "Как журналистка подаёт сведения о продаже картины на чёрном рынке?"
+    options: ["как установленный факт", "как неподтверждённую версию следствия", "как слух из соцсетей"]
+    answer: 1
+    explain: "*Selon les enquêteurs, le tableau **aurait été vendu*** — conditionnel passé пассива: информация по версии следователей, не подтверждена."

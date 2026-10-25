@@ -1,0 +1,67 @@
+title: "Mémoires de ville : enregistrer les voix du quartier"
+type: listening
+intro: "Послушай радиоинтервью (дважды) и ответь на вопросы."
+hints:
+  - "Plus-que-parfait (avait vu, était sortie) — что было ещё раньше."
+  - "Si + plus-que-parfait — нереальное: реальный факт обратный."
+audio: audio/tts/b-02/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural, fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonsoir et bienvenue dans « Mémoires de ville ». Mon invitée, Anne Lambert, est archiviste à Liège. Depuis cinq ans, elle enregistre les souvenirs des plus anciens habitants de son quartier. Anne, d'où vous est venue cette idée ?
+
+  **Anne :** De ma grand-mère, en fait. Elle me racontait souvent comment était la rue quand elle était petite : il y avait une boulangerie au coin, un cinéma en face de l'église, et les enfants jouaient au milieu de la place. Quand elle est morte, je me suis rendu compte que je n'avais jamais enregistré sa voix. Ses histoires avaient disparu avec elle.
+
+  **Journaliste :** Et vous avez décidé de ne plus laisser partir d'autres voix.
+
+  **Anne :** Exactement. J'ai commencé par mes voisins, puis le bouche-à-oreille a fait le reste. Aujourd'hui, nous avons recueilli plus de deux cents témoignages. La plus âgée de nos témoins avait cent un ans ! Elle se souvenait encore du jour de la Libération : elle était sortie sur le balcon avec sa mère, et elle avait vu des soldats américains qui distribuaient du chocolat aux enfants.
+
+  **Journaliste :** Est-ce que ces souvenirs sont toujours fiables ?
+
+  **Anne :** Non, et c'est passionnant. Un monsieur m'a affirmé que la grande inondation avait eu lieu en 1953. Or, d'après les archives, elle s'est produite en 1926, bien avant sa naissance ! En fait, ses parents lui avaient souvent raconté cette histoire, et il était sûr de l'avoir vécue lui-même. Nous ne corrigeons jamais les témoins : nous notons simplement la date réelle à côté de l'enregistrement.
+
+  **Journaliste :** Qu'est-ce qui vous a le plus marquée ?
+
+  **Anne :** Une dame qui avait travaillé quarante ans dans une usine de verre, au bord de la Meuse. Après avoir écouté son enregistrement, ses petits-enfants m'ont appelée en pleurant. Ils ne savaient pas qu'elle avait participé à la grande grève de l'hiver 1960. Si nous ne l'avions pas interrogée, ils ne l'auraient jamais appris.
+
+  **Journaliste :** Avez-vous des regrets ?
+
+  **Anne :** Oui, un seul : avoir commencé trop tard. Si j'avais eu cette idée dix ans plus tôt, j'aurais pu enregistrer ma grand-mère. Alors aujourd'hui, j'encourage tout le monde à le faire : prenez votre téléphone, asseyez-vous à côté de vos parents et posez-leur des questions. Une heure suffit.
+
+  **Journaliste :** Et ces témoignages, on peut les écouter ?
+
+  **Anne :** Bien sûr. Sur le site de la ville, et dans une petite salle de la bibliothèque, au premier étage : nous y avons installé des fauteuils et des casques.
+
+  **Journaliste :** Anne Lambert, merci beaucoup.
+items:
+  - q: "Как у Анны появилась эта идея?"
+    options: ["Её попросили об этом в мэрии.", "После смерти бабушки она поняла, что так и не записала её голос.", "Бабушка завещала ей свои дневники."]
+    answer: 1
+    explain: "*Quand elle est morte, je me suis rendu compte que je **n'avais jamais enregistré** sa voix.* — plus-que-parfait: до её смерти."
+  - q: "Что находилось напротив церкви, когда бабушка была маленькой?"
+    options: ["булочная", "кинотеатр", "площадь с детьми"]
+    answer: 1
+    explain: "*il y avait une boulangerie **au coin**, un cinéma **en face de** l'église, et les enfants jouaient **au milieu de** la place* — булочная была на углу."
+  - q: "Сколько свидетельств уже собрано?"
+    options: ["около ста", "больше двухсот", "сто одно"]
+    answer: 1
+    explain: "*nous avons recueilli **plus de deux cents** témoignages.* 101 — возраст самой пожилой свидетельницы."
+  - q: "Что помнила самая пожилая свидетельница?"
+    options: ["Она раздавала шоколад солдатам.", "Она вышла на балкон с матерью и видела, как американские солдаты раздавали детям шоколад.", "Она видела большое наводнение."]
+    answer: 1
+    explain: "*elle **était sortie** sur le balcon avec sa mère, et elle **avait vu** des soldats américains qui distribuaient du chocolat aux enfants* — шоколад раздавали солдаты."
+  - q: "В чём ошибся пожилой мужчина?"
+    options: ["Он перепутал наводнение с забастовкой.", "Он был уверен, что пережил наводнение, хотя оно было до его рождения.", "Он неправильно назвал реку."]
+    answer: 1
+    explain: "*elle s'est produite en 1926, bien avant sa naissance… il était sûr **de l'avoir vécue** lui-même* — infinitif passé; о наводнении ему рассказывали родители."
+  - q: "Как поступают с такими ошибками?"
+    options: ["Ошибочные записи удаляют.", "Свидетеля просят перезаписать рассказ.", "Ничего не исправляют, рядом указывают реальную дату."]
+    answer: 2
+    explain: "*Nous ne corrigeons jamais les témoins : nous notons simplement la date réelle à côté de l'enregistrement.*"
+  - q: "Что узнали внуки бывшей работницы стекольного завода?"
+    options: ["что она участвовала в большой забастовке зимы 1960 года", "что завод стоял на берегу Мааса", "что она сорок лет скрывала свою профессию"]
+    answer: 0
+    explain: "*Ils ne savaient pas qu'elle **avait participé** à la grande grève de l'hiver 1960. Si nous ne l'avions pas interrogée, ils ne l'auraient jamais appris* — её опросили, и они узнали."
+  - q: "О чём жалеет Анна?"
+    options: ["что не записала свою мать", "что начала слишком поздно и не успела записать бабушку", "что у проекта мало слушателей"]
+    answer: 1
+    explain: "*Si j'avais eu cette idée dix ans plus tôt, j'**aurais pu** enregistrer ma grand-mère* — conditionnel passé: сожаление о прошлом."

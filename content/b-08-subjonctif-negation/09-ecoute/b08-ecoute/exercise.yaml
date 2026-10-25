@@ -1,0 +1,67 @@
+title: "École d'ailleurs : une école sans notes à Montréal"
+type: listening
+intro: "Послушай радиоинтервью (дважды) и ответь на вопросы."
+hints:
+  - "Je ne pense pas que / je ne suis pas sûre que + subjonctif — несогласие."
+  - "Il est probable — скорее да, il est peu probable — скорее нет."
+audio: audio/tts/b-08/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural, fr-CA-SylvieNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour et bienvenue dans « École d'ailleurs ». Nous recevons aujourd'hui Marie-Ève Lavoie, directrice d'une école primaire alternative à Montréal. Marie-Ève, qu'est-ce qui distingue votre école d'une école traditionnelle ?
+
+  **Marie-Ève :** D'abord, les enfants n'y sont ni classés par âge ni assis en rangs. Les classes mélangent des élèves de huit à onze ans, et chacun avance à son rythme. Les plus grands aident les plus petits. On dit souvent qu'on ne comprend jamais aussi bien une notion que lorsqu'on doit l'expliquer à quelqu'un d'autre.
+
+  **Journaliste :** Vous n'avez pas de notes ?
+
+  **Marie-Ève :** Pas avant la dernière année. Les parents reçoivent un portfolio, avec des travaux et des commentaires. Je ne pense pas qu'une note dise grand-chose à un enfant de huit ans. En revanche, je crois qu'il comprend très bien quand on lui montre ce qu'il savait faire en septembre et ce qu'il sait faire en juin.
+
+  **Journaliste :** Qui sont les familles qui vous choisissent ?
+
+  **Marie-Ève :** Il y a de tout. Mais la plupart cherchent une école où leur enfant puisse poser des questions sans avoir peur de se tromper. Certains parents arrivent après une mauvaise expérience ailleurs ; d'autres viennent simplement par conviction.
+
+  **Journaliste :** On reproche souvent aux écoles alternatives de ne pas préparer à la vie réelle, à la compétition…
+
+  **Marie-Ève :** J'entends cette critique, mais je ne suis pas sûre qu'elle soit fondée. Nos anciens élèves réussissent au secondaire aussi bien que les autres. Il est même possible qu'ils s'adaptent plus vite, parce qu'ils savent travailler seuls. Ce qui est vrai, c'est que la première année avec des notes est parfois un choc.
+
+  **Journaliste :** Et les enseignants ? Il faut un profil particulier ?
+
+  **Marie-Ève :** Oui. Je cherche toujours des enseignants qui sachent travailler en équipe et qui acceptent de ne pas tout contrôler. Ce n'est ni un métier plus facile ni un métier plus reposant : préparer des activités pour trois niveaux à la fois, ça demande énormément de travail.
+
+  **Journaliste :** Ce modèle pourrait-il s'étendre à toutes les écoles publiques ?
+
+  **Marie-Ève :** Honnêtement, il est peu probable que ça se fasse rapidement : il faudrait former des milliers d'enseignants et réduire le nombre d'élèves par classe. Mais il est probable que certaines idées passeront dans l'école ordinaire. Les classes qui mélangent les âges, par exemple, existent déjà dans beaucoup de villages, faute d'élèves !
+
+  **Journaliste :** Marie-Ève Lavoie, merci beaucoup.
+items:
+  - q: "Чем школа Мари-Эв отличается от традиционной?"
+    options: ["Дети разделены по возрасту, но сидят в кругу.", "Дети не разделены по возрасту и не сидят рядами.", "Дети учатся только с учителями-специалистами."]
+    answer: 1
+    explain: "*les enfants n'y sont **ni** classés par âge **ni** assis en rangs* — отрицаются оба признака."
+  - q: "Зачем старшие помогают младшим?"
+    options: ["Потому что не хватает учителей.", "Потому что объясняя другому, лучше понимаешь сам.", "Потому что так требуют родители."]
+    answer: 1
+    explain: "*on ne comprend jamais aussi bien une notion que lorsqu'on doit l'expliquer à quelqu'un d'autre.*"
+  - q: "Что Мари-Эв думает об оценках для восьмилетних?"
+    options: ["Что они мало что говорят ребёнку.", "Что они необходимы с первого года.", "Что дети их очень любят."]
+    answer: 0
+    explain: "*Je **ne pense pas** qu'une note **dise** grand-chose à un enfant de huit ans* — subjonctif после отрицания мнения: несогласие."
+  - q: "Какую школу ищет большинство семей?"
+    options: ["Где ребёнок сможет задавать вопросы, не боясь ошибиться.", "Где ребёнка подготовят к соревнованиям.", "Где нет домашних заданий."]
+    answer: 0
+    explain: "*la plupart cherchent une école où leur enfant **puisse** poser des questions sans avoir peur de se tromper* — subjonctif: желаемая школа."
+  - q: "Как Мари-Эв отвечает на критику о «неподготовленности к реальной жизни»?"
+    options: ["Полностью соглашается.", "Сомневается в ней: выпускники учатся не хуже других, хотя первый год с оценками бывает шоком.", "Говорит, что её выпускники учатся лучше всех."]
+    answer: 1
+    explain: "*je ne suis pas sûre qu'elle **soit** fondée. Nos anciens élèves réussissent… **aussi bien que** les autres* — «не хуже», а не «лучше всех»; и признаёт: *la première année avec des notes est parfois un choc*."
+  - q: "Каких учителей она ищет?"
+    options: ["Строгих, которые всё контролируют.", "Умеющих работать в команде и не стремящихся всё контролировать.", "С опытом работы в традиционной школе."]
+    answer: 1
+    explain: "*des enseignants qui **sachent** travailler en équipe et qui acceptent de ne pas tout contrôler.*"
+  - q: "Что она говорит о профессии учителя в такой школе?"
+    options: ["Она проще, но утомительнее.", "Она ни проще, ни спокойнее: много подготовки.", "Она спокойнее, потому что классы меньше."]
+    answer: 1
+    explain: "*Ce n'est **ni** un métier plus facile **ni** un métier plus reposant : préparer des activités pour trois niveaux… demande énormément de travail.*"
+  - q: "Распространится ли эта модель на все государственные школы?"
+    options: ["Да, очень скоро.", "Быстро — маловероятно, но отдельные идеи, скорее всего, перейдут в обычную школу.", "Нет, ни одна идея не подойдёт обычной школе."]
+    answer: 1
+    explain: "*il est **peu probable** que ça **se fasse** rapidement… Mais il est **probable** que certaines idées **passeront**…* — subjonctif и indicatif показывают разную степень уверенности."

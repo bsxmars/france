@@ -1,0 +1,55 @@
+title: "L'entretien au musée"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросе с полем впиши глагол в нужной форме."
+hints:
+  - "Elle a dit que + imparfait / plus-que-parfait / futur dans le passé (-rait)."
+  - "Вопросы идут по порядку текста."
+text: |
+  **Salut Amélie,**
+
+  Hier, j'ai enfin passé mon entretien pour le poste de guide au musée de la Photographie ! Je te raconte tout.
+
+  J'étais arrivé dix minutes en avance, mais j'étais terriblement stressé. La directrice, une femme élégante d'une cinquantaine d'années, m'a accueilli très gentiment. D'abord, elle m'a expliqué que le musée cherchait un guide pour les groupes d'étrangers et que le poste commencerait en janvier. Elle m'a demandé si je parlais bien anglais et si j'avais déjà travaillé avec des enfants. J'ai répondu franchement que mon anglais était bon, mais que je n'avais jamais travaillé avec des enfants.
+
+  Ensuite, elle m'a fait visiter les salles. Elle connaissait parfaitement chaque photo ! Devant un vieux portrait, elle s'est arrêtée et m'a demandé de le décrire. J'ai regardé attentivement et j'ai aperçu un petit chat derrière la dame. Elle a souri : personne ne l'avait remarqué avant moi !
+
+  À la fin, elle m'a dit qu'elle verrait encore deux candidats et qu'elle me téléphonerait avant vendredi. Elle a ajouté que le salaire n'était pas très élevé, mais que l'équipe était jeune et sympathique.
+
+  Ce matin, mon téléphone a sonné à neuf heures. Le numéro me paraissait connu… C'était elle ! Elle m'a annoncé que j'avais le poste et que je pourrais commencer plus tôt, le quinze décembre.
+
+  Je suis tellement content ! Tu viendras visiter le musée avec moi ?
+
+  **À bientôt,**
+  **Lucas**
+items:
+  - q: "На какую работу Лукас проходил собеседование?"
+    options: ["экскурсоводом в музее фотографии", "фотографом в музее", "учителем английского для детей"]
+    answer: 0
+    explain: "*mon entretien pour le poste de guide au musée de la Photographie.*"
+  - q: "Что директор сказала о работе в начале собеседования?"
+    options: ["Музей ищет гида для иностранных групп, работа начнётся в январе.", "Музей ищет гида для детских групп, работа начнётся в декабре.", "Музей уже выбрал другого кандидата."]
+    answer: 0
+    explain: "*elle m'a expliqué que le musée **cherchait** un guide pour les groupes d'étrangers et que le poste **commencerait** en janvier.* В её речи было: *Le musée cherche… le poste commencera…*"
+  - q: "Что Лукас ответил про детей?"
+    options: ["что много работал с детьми", "честно сказал, что никогда с детьми не работал", "что не любит работать с детьми"]
+    answer: 1
+    explain: "*J'ai répondu **franchement**… que je **n'avais jamais travaillé** avec des enfants.* Plus-que-parfait — его прошлое до собеседования."
+  - q: "Что Лукас заметил на старом портрете?"
+    options: ["подпись фотографа", "маленького кота за дамой", "дату на обороте"]
+    answer: 1
+    explain: "*J'ai regardé **attentivement** et j'ai **aperçu** un petit chat derrière la dame.* *apercevoir → aperçu* (ç перед u)."
+  - q: "Что директор пообещала в конце собеседования?"
+    options: ["позвонить до пятницы", "позвонить в январе", "прислать письмо в понедельник"]
+    answer: 0
+    explain: "*elle m'a dit qu'elle **verrait** encore deux candidats et qu'elle me **téléphonerait** avant vendredi* — futur dans le passé."
+  - q: "Vrai / faux / on ne sait pas: по словам директора, зарплата высокая."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "Неверно: *le salaire **n'était pas** très élevé, mais l'équipe était jeune et sympathique.*"
+  - q: "Когда Лукас начнёт работать?"
+    options: ["в январе, как планировали", "15 декабря, раньше, чем планировали", "в пятницу"]
+    answer: 1
+    explain: "*je **pourrais** commencer plus tôt, le quinze décembre.* Сначала говорили о январе — новость в конце меняет план."
+  - q: "Поставь глагол в нужную форму, как в тексте: Elle m'a dit qu'elle me ___ (téléphoner) avant vendredi."
+    answers: ["téléphonerait"]
+    explain: "Главный глагол в прошлом (*a dit*), действие в будущем → futur dans le passé: основа *téléphoner-* + *-ait*."

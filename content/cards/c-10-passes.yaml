@@ -138,3 +138,27 @@
   lesson: c-10-passes/04-anteriorite
   q: "*elle avait reconnu* / *elle venait de reconnaître* / *dès qu'elle eut reconnu* — разница?"
   a: "Просто раньше (возможно, причина) / только что, непосредственно перед / сразу же за этим последовало (книжная пара с passé simple)."
+- id: c10-sortir-de-son-lit
+  lesson: c-10-passes/07-lecture
+  q: "«Река вышла из берегов»; «паводок достиг максимума»"
+  a: "Le fleuve **sortit de son lit** / **déborda**. La **crue** atteignit son maximum."
+- id: c10-faire-face
+  lesson: c-10-passes/07-lecture
+  q: "«То, как город справился с бедой» (книжный рассказ)"
+  a: "la manière dont la ville **y fit face** — *faire face à* → *y*, passé simple *fit*."
+- id: c10-a-peine-eurent
+  lesson: c-10-passes/07-lecture
+  q: "«Едва жители убрали мебель, как затопило первые этажи»"
+  a: "**À peine** les habitants **eurent-ils mis** leurs meubles à l'abri **que** les rez-de-chaussée **furent inondés**."
+- id: c10-se-couper-de
+  lesson: c-10-passes/08-ecriture
+  q: "«Отказаться от passé simple значило бы отрезать себя от литературы»"
+  a: "Renoncer au passé simple, **ce serait se couper de** notre littérature."
+- id: c10-temps-du-temoignage
+  lesson: c-10-passes/09-ecoute
+  q: "Чем passé composé отличается от passé simple в рассказе?"
+  a: "Passé composé — «время свидетельства», связывает события с моментом речи; passé simple разрывает эту связь: события образуют замкнутый мир рассказа."
+- id: c10-ceder-sa-place
+  lesson: c-10-passes/09-ecoute
+  q: "«Когда водитель приказал ей уступить место, она отказалась»"
+  a: "Lorsque le chauffeur lui **ordonna de céder sa place**, elle **refusa**."

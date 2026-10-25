@@ -130,3 +130,27 @@
   lesson: c-12-conditionnel/04-autres-emplois
   q: "*On serait des pirates…* / *Moi, je mentirais ?* — какие это conditionnel?"
   a: "Воображаемый (игра: «давай будто мы пираты») и негодующий («чтобы я да соврал?!»)."
+- id: c12-se-passer-de
+  lesson: c-12-conditionnel/07-lecture
+  q: "«Ни один историк по-настоящему не обходится без conditionnel»."
+  a: "Aucun historien **ne se passe** vraiment **du** conditionnel. — *se passer de* = обходиться без."
+- id: c12-ni-confirme-ni-dementi
+  lesson: c-12-conditionnel/07-lecture
+  q: "«Он якобы назвал подход опасным; он этого не подтвердил и не опроверг»."
+  a: "Il **aurait qualifié** la démarche de dangereuse ; il ne l'a **ni confirmé ni démenti**."
+- id: c12-imaginons
+  lesson: c-12-conditionnel/08-ecriture
+  q: "Как ввести гипотезу в эссе без si («Представим на минуту: каждый взрослый получал бы…»)?"
+  a: "**Imaginons un instant** : chaque adulte **toucherait**… — воображаемый conditionnel."
+- id: c12-je-vous-l-accorde
+  lesson: c-12-conditionnel/09-ecoute
+  q: "«Согласен с вами, это было бы непросто везде» — уступка в споре."
+  a: "**Je vous l'accorde**, ce ne serait pas simple partout."
+- id: c12-briguer
+  lesson: c-12-conditionnel/09-ecoute
+  q: "«Мэр, по слухам, намерен добиваться третьего срока»."
+  a: "Le maire **aurait l'intention de briguer** un troisième mandat."
+- id: c12-ne-demander-qu-a
+  lesson: c-12-conditionnel/09-ecoute
+  q: "«Сотрудники только того и хотели, чтобы работать лучше»."
+  a: "Les employés **ne demandaient qu'à** travailler mieux."

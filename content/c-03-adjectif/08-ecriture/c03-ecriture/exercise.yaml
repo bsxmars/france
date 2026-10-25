@@ -1,0 +1,37 @@
+title: "Essai : peut-on se fier aux avis en ligne ?"
+type: writing
+intro: "Напиши essai argumenté по плану урока."
+prompt: |
+  Le magazine *Consommer autrement* consacre un numéro à la confiance numérique. Il vous demande un article d'opinion sur la question suivante : « Avis et notes en ligne : peut-on vraiment s'y fier pour choisir un hôtel, un restaurant ou un artisan ? »
+
+  Rédigez un essai argumenté et nuancé, appuyé sur des exemples précis.
+
+  Напиши **220–300 слов**.
+words: [220, 300]
+target_grammar:
+  - "степени сравнения: pire, le moindre, le plus / le moins, bien plus… que"
+  - "des plus + прилагательное во мн. ч.: un accueil des plus chaleureux"
+  - "прилагательные в роли наречий: coûter cher, voir clair"
+  - "quel que soit: quels que soient ses défauts"
+checklist:
+  - "Во вступлении — тезис с условием или ограничением."
+  - "Достоинства и недостатки — с конкретными примерами."
+  - "Есть градация довода (pire encore, d'autant plus que)."
+  - "Хотя бы одно pire или moindre — по норме, без «plus pire»."
+  - "Хотя бы одно des plus + прилагательное и одно quel que soit с согласованием."
+  - "Прилагательные в роли наречий не согласуются (coûter cher)."
+  - "Вывод обобщает, а не повторяет вступление."
+model_answer: |
+  Les avis en ligne : guide fiable ou miroir déformant ?
+
+  Avant de réserver un hôtel ou de choisir un restaurant, la plupart d'entre nous consultent les avis en ligne. Ces notes, attribuées par des milliers d'inconnus, sont-elles pour autant dignes de confiance ? Je les crois utiles, à condition de savoir les lire.
+
+  Il faut d'abord reconnaître leurs mérites. Un avis détaillé, rédigé par un client sincère, vaut souvent mieux que la plus belle des publicités. Il signale le petit-déjeuner médiocre, la chambre bruyante ou, au contraire, un accueil des plus chaleureux. Grâce à ces témoignages, le consommateur n'est plus seul face au vendeur.
+
+  Cependant, le système a ses failles, et elles sont graves. Certaines entreprises achètent de faux commentaires élogieux ; d'autres font publier des critiques mensongères sur leurs concurrents. Pire encore, la moindre erreur peut coûter cher à un petit commerçant : une seule note sévère, laissée par un client de mauvaise humeur, suffit à faire baisser sa moyenne. Le mal est d'autant plus grand que les plateformes vérifient rarement l'identité des auteurs.
+
+  Quels que soient leurs défauts, les avis en ligne ne sont donc ni à rejeter ni à croire aveuglément. Le lecteur avisé se méfie des notes extrêmes, lit les commentaires les plus nuancés plutôt que les plus enthousiastes et compare plusieurs sources. Une moyenne de quatre étoiles fondée sur cinq cents avis est bien plus parlante qu'un cinq étoiles accordé par trois clients.
+
+  En somme, ces avis sont un outil précieux, mais un outil seulement. Ils ne remplacent ni l'esprit critique ni le bouche-à-oreille, qui reste le plus ancien et le plus fiable des moteurs de recherche.
+
+  Sophie Garnier

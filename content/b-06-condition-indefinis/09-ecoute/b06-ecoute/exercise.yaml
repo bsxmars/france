@@ -1,0 +1,71 @@
+title: "Ça change tout : le café de réparation"
+type: listening
+intro: "Послушай радиоинтервью (дважды) и ответь на вопросы."
+hints:
+  - "После à condition que — само условие: это и есть ответ."
+  - "J'aurais dû, il aurait fallu — то, чего не сделали и о чём жалеют."
+audio: audio/tts/b-06/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-CA-SylvieNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour et bienvenue dans « Ça change tout ». Mon invitée s'appelle Nathalie Gagnon. Québécoise installée à Nantes depuis huit ans, elle a fondé il y a quatre ans le premier café de réparation de son quartier. Nathalie, comment l'idée vous est-elle venue ?
+
+  **Nathalie :** Tout a commencé avec un grille-pain. Il était tombé en panne, et le vendeur m'a dit qu'il valait mieux en acheter un neuf. Je l'avais payé quarante euros deux ans plus tôt ! Je me suis dit : si plus personne ne sait réparer, on va finir par tout jeter. Alors j'ai réuni quelques voisins bricoleurs, et on a ouvert un samedi par mois dans une salle de la paroisse.
+
+  **Journaliste :** Et concrètement, comment ça marche ?
+
+  **Nathalie :** C'est très simple. N'importe qui peut venir avec un objet cassé : une lampe, un vélo, un vêtement… Chaque objet est examiné par un bénévole. Mais attention : on ne répare pas à votre place. On répare avec vous, à condition que vous restiez à côté et que vous mettiez la main à la pâte. Le but, c'est que vous repartiez en sachant le faire vous-même.
+
+  **Journaliste :** Et ça fonctionne ?
+
+  **Nathalie :** Plutôt bien ! L'an dernier, on a reçu à peu près six cents objets, et on en a réparé presque les deux tiers. Les autres, on les a démontés pour récupérer des pièces. Aucun objet ne repart à la poubelle sans qu'on ait essayé.
+
+  **Journaliste :** Vous êtes combien de bénévoles ?
+
+  **Nathalie :** Une vingtaine. Certains sont des retraités, d'anciens électriciens ou d'anciennes couturières ; d'autres sont des étudiants qui apprennent avec eux. Ce mélange, c'est ce que je préfère.
+
+  **Journaliste :** On entend parfois que ces initiatives feraient concurrence aux réparateurs professionnels.
+
+  **Nathalie :** C'est une critique que j'ai souvent entendue, mais je ne la trouve pas juste. Les gens qui viennent chez nous n'auraient jamais payé un réparateur : ils auraient jeté l'objet. Et quand une panne est trop compliquée, on leur donne l'adresse d'un artisan du quartier.
+
+  **Journaliste :** Si c'était à refaire, vous changeriez quelque chose ?
+
+  **Nathalie :** Oui. J'aurais dû demander de l'aide à la mairie dès le début. Pendant deux ans, on a tout payé nous-mêmes : les outils, l'assurance… Il aurait fallu monter un dossier beaucoup plus tôt. Aujourd'hui, la ville nous prête un local, à condition qu'on anime aussi un atelier pour les écoles.
+
+  **Journaliste :** Un conseil pour ceux qui voudraient se lancer ?
+
+  **Nathalie :** Commencez petit. Vous n'avez pas besoin d'un grand local : une table, quelques outils et deux ou trois personnes motivées suffisent. Et au cas où vous manqueriez de bénévoles, allez voir les retraités de votre rue. Ils savent tout faire, et ils adorent transmettre.
+
+  **Journaliste :** Nathalie Gagnon, merci beaucoup.
+items:
+  - q: "Что подтолкнуло Натали к созданию кафе-мастерской?"
+    options: ["Продавец посоветовал купить новый тостер вместо сломанного.", "Мэрия предложила ей помещение.", "Она потеряла работу электрика."]
+    answer: 0
+    explain: "*Le vendeur m'a dit qu'il valait mieux en acheter un neuf.* Помещение мэрия дала гораздо позже, а электриками были волонтёры."
+  - q: "Что требуется от посетителя?"
+    options: ["Оставить вещь и прийти за ней через неделю.", "Заплатить волонтёру за ремонт.", "Оставаться рядом и чинить вместе с волонтёром."]
+    answer: 2
+    explain: "*On répare avec vous, **à condition que** vous **restiez** à côté et que vous **mettiez** la main à la pâte.*"
+  - q: "Сколько примерно вещей удалось починить за прошлый год?"
+    options: ["около шестисот", "около четырёхсот", "около двухсот"]
+    answer: 1
+    explain: "Принесли около 600, починили *presque les deux tiers* — примерно 400. Шестьсот — это все принесённые вещи."
+  - q: "Что делают с вещами, которые починить не удалось?"
+    options: ["Разбирают на детали.", "Выбрасывают.", "Отдают мастеру-ремесленнику."]
+    answer: 0
+    explain: "*Les autres, on les a démontés pour récupérer des pièces. **Aucun** objet ne repart à la poubelle sans qu'on ait essayé.*"
+  - q: "Как Натали отвечает на критику о конкуренции с мастерами?"
+    options: ["Соглашается и обещает брать деньги.", "Считает её несправедливой: эти люди всё равно не пошли бы к мастеру.", "Говорит, что мастера сами работают в кафе."]
+    answer: 1
+    explain: "*Je ne la trouve pas juste. Les gens… **n'auraient jamais payé** un réparateur : ils **auraient jeté** l'objet.* Conditionnel passé — нереальное прошлое."
+  - q: "О чём Натали жалеет?"
+    options: ["Что открыла кафе в помещении прихода.", "Что не обратилась за помощью в мэрию с самого начала.", "Что взяла слишком мало волонтёров."]
+    answer: 1
+    explain: "*J'**aurais dû** demander de l'aide à la mairie dès le début… Il **aurait fallu** monter un dossier beaucoup plus tôt.*"
+  - q: "На каком условии город предоставляет помещение?"
+    options: ["Кафе должно открыться и по будним дням.", "Волонтёры должны вести мастерскую для школ.", "Кафе должно платить за страховку."]
+    answer: 1
+    explain: "*la ville nous prête un local, **à condition qu'**on **anime** aussi un atelier pour les écoles.*"
+  - q: "Что делать, если не хватает волонтёров?"
+    options: ["Искать большое помещение.", "Обратиться к пенсионерам на своей улице.", "Попросить студентов из университета."]
+    answer: 1
+    explain: "*Au cas où vous **manqueriez** de bénévoles, allez voir les retraités de votre rue.* — *au cas où* + conditionnel."

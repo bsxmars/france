@@ -1,0 +1,13 @@
+# rate: -15%
+# pause: 800
+F: Pardon, madame. Je cherche le musée d'Orsay. Comment est-ce que j'y vais ?
+A: C'est facile. Allez tout droit, jusqu'à la Seine. Le musée est là.
+F: C'est loin ?
+A: Non, vous y êtes en dix minutes. Vous venez d'où ?
+F: Je viens de Montréal. Je fais un voyage en France avec ma femme.
+A: Très bien ! Et votre femme, où est-elle ?
+F: Elle est dans ce café. Regardez, elle en sort !
+A: Quand partez-vous ?
+F: Nous partons lundi. Nous allons à Lyon, et nous en revenons vendredi.
+A: Alors, ce soir, faites une promenade au bord de la Seine. C'est très beau. Bon voyage !
+F: Merci beaucoup, madame !

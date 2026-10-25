@@ -1,0 +1,50 @@
+title: "Le permis de conduire"
+type: listening
+intro: "Послушай разговор (дважды) и ответь на вопросы."
+hints:
+  - "Plus-que-parfait — то, что было до экзамена."
+  - "monitrice, examinatrice — женский род от moniteur, examinateur."
+audio: audio/tts/a-27/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural, fr-FR-EloiseNeural", license: "TTS"}
+transcript: |
+  — Salut Claire ! Alors, ton permis de conduire, c'était hier, non ?
+  — Oui… et je l'ai eu !
+  — Bravo ! Mais tu avais peur, non ? La première fois, tu l'avais raté.
+  — Oui, l'année dernière, j'avais fait une grosse erreur à un feu rouge. Cette fois, j'avais pris vingt heures de cours avec une nouvelle monitrice. Elle est très patiente, et très drôle aussi.
+  — Et l'examen, comment ça s'est passé ?
+  — Mal, au début ! Il avait plu toute la matinée, et les routes étaient glissantes. Et quand je suis arrivée, l'examinatrice était déjà dans la voiture. Elle avait l'air très sévère…
+  — Aïe !
+  — J'ai conduit vingt-cinq minutes en ville. Il fallait tourner, se garer, s'arrêter devant une école… À un moment, une vieille dame a traversé la rue sans regarder. Heureusement, je l'avais vue avant ! J'ai freiné doucement, et elle a continué son chemin.
+  — Et l'examinatrice, qu'est-ce qu'elle a dit ?
+  — À la fin, elle a souri et elle m'a dit : « Vous conduisez bien, vous êtes prudente. » Elle n'était pas si sévère, finalement !
+  — Super. Alors, le mois prochain, c'est toi qui conduis pour aller au chalet ?
+  — D'accord ! Mais c'est toi qui paies l'essence !
+items:
+  - q: "Что произошло вчера?"
+    options: ["Клер сдала экзамен на права.", "Клер не сдала экзамен во второй раз.", "Клер взяла первый урок вождения."]
+    answer: 0
+    explain: "*ton permis de conduire, c'était hier ? — Oui… et je l'ai eu !*"
+  - q: "Почему Клер не сдала в первый раз?"
+    options: ["Она опоздала на экзамен.", "Она сделала серьёзную ошибку на красном светофоре.", "Шёл сильный дождь."]
+    answer: 1
+    explain: "*l'année dernière, j'**avais fait** une grosse erreur à un feu rouge* — plus-que-parfait: до вчерашнего экзамена."
+  - q: "Как Клер готовилась на этот раз?"
+    options: ["двадцать часов занятий с новой инструкторшей", "ездила с отцом каждые выходные", "двадцать пять часов в автошколе"]
+    answer: 0
+    explain: "*j'avais pris vingt heures de cours avec une nouvelle **monitrice***. 25 минут — это сам экзамен."
+  - q: "Какими были условия в день экзамена?"
+    options: ["солнце и пустые улицы", "всё утро шёл дождь, дороги были скользкими", "был снег и туман"]
+    answer: 1
+    explain: "*Il **avait plu** toute la matinée, et les routes étaient glissantes.*"
+  - q: "Что случилось во время экзамена?"
+    options: ["Клер чуть не сбила пожилую даму.", "Пожилая дама перешла улицу не глядя, но Клер заметила её заранее.", "Клер не смогла припарковаться."]
+    answer: 1
+    explain: "*une vieille dame a traversé la rue sans regarder. Heureusement, je l'**avais vue** avant !* — *vue* согласуется с *l'* (дама)."
+  - q: "Что сказала экзаменатор?"
+    options: ["«Вы водите хорошо, вы осторожны».", "«Вы водите слишком медленно».", "«Приходите в следующем месяце»."]
+    answer: 0
+    explain: "*Vous conduisez bien, vous êtes **prudente**.* — *conduire → vous conduisez*; *prudente* — женский род."
+  - q: "О чём договорились друзья?"
+    options: ["Машину поведёт Антуан, Клер заплатит за бензин.", "Машину поведёт Клер, бензин оплатит друг.", "Они поедут на автобусе."]
+    answer: 1
+    explain: "*c'est toi qui conduis pour aller au chalet ? — D'accord ! Mais c'est toi qui paies l'essence !*"

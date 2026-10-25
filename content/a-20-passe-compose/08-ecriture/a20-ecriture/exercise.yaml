@@ -1,0 +1,34 @@
+title: "Lettre : mon dernier voyage"
+type: writing
+intro: "Напиши другу о недавней поездке или выходных по плану урока."
+prompt: |
+  Tu es rentré(e) d'un voyage ou d'un week-end dans une autre ville. Tu écris à ton ami(e) : où tu es allé(e), avec qui, ce que vous avez fait, ce que tu as aimé et ce que tu n'as pas aimé.
+
+  Напиши **60–120 слов**.
+words: [60, 120]
+target_grammar:
+  - "passé composé с avoir и с être"
+  - "согласование причастия с подлежащим при être"
+  - "отрицание в passé composé: je n'ai pas…"
+  - "место наречий: j'ai beaucoup aimé, nous avons déjà…"
+checklist:
+  - "Есть обращение и прощание."
+  - "Сказано, когда, куда и с кем; события идут по порядку."
+  - "Хотя бы три глагола с avoir и три с être (aller, partir, arriver, rester, rentrer…)."
+  - "Причастия с être согласованы: nous sommes partis, elle est arrivée."
+  - "Есть отрицание: je n'ai pas…"
+  - "Хотя бы одно наречие между вспомогательным глаголом и причастием (beaucoup, bien, déjà)."
+  - "Есть вопрос другу."
+model_answer: |
+  Chère Léa,
+
+  Le week-end dernier, je suis allée à Bruxelles avec ma sœur. Nous sommes parties samedi matin en train et nous sommes arrivées à dix heures.
+
+  D'abord, nous avons visité la Grand-Place. Ensuite, nous avons mangé des gaufres et des frites ! L'après-midi, nous sommes allées au musée Magritte : j'ai beaucoup aimé ses tableaux. Le soir, il a plu, alors nous sommes restées à l'hôtel.
+
+  Dimanche, nous n'avons pas visité l'Atomium : nous n'avons pas eu le temps. Nous sommes rentrées à Paris à vingt heures.
+
+  Tu connais Bruxelles ? Tu es déjà allée en Belgique ?
+
+  Bises,
+  Anna

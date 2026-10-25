@@ -1,0 +1,8 @@
+# rate: -5%
+# pause: 800
+H: Je m'appelle Nicolas, j'habite à Genève, et je vais vous raconter une histoire : un jour, je me suis trompé de train.
+H: C'est arrivé en mars, l'année dernière. Ce matin-là, je ne me suis pas réveillé : mon téléphone n'a pas sonné. Je me suis levé à sept heures et demie, je me suis habillé en deux minutes et je suis sorti sans mon petit déjeuner.
+H: À la gare, je me suis dépêché. J'ai vu un train sur la voie trois, comme tous les jours. J'ai sauté dedans, je me suis assis et… je me suis endormi.
+H: Je me suis réveillé une heure plus tard. Par la fenêtre, j'ai vu des montagnes, un grand lac… mais pas le lac Léman ! Un contrôleur est arrivé et je lui ai demandé : « Où est-ce que nous sommes ? » Il a souri : « Bientôt à Brigue, monsieur. »
+H: Je suis descendu à Brigue, j'ai téléphoné à mon chef et je lui ai tout expliqué. Il a beaucoup ri. Je suis rentré à Lausanne à midi.
+H: Depuis ce jour, je me couche tôt… et je regarde toujours deux fois le panneau !

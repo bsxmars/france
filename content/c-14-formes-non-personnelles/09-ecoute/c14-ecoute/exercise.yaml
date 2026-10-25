@@ -1,0 +1,75 @@
+title: "Reportage : au Repair Café de Lyon"
+type: listening
+intro: "Послушай радиорепортаж (дважды) и ответь на вопросы."
+hints:
+  - "Gérondif отвечает на вопрос «как?» или «когда?»."
+  - "В faire / laisser + infinitif проверь, кто совершает действие."
+audio: audio/tts/c-14/reportage.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural, fr-FR-EloiseNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour. Nous sommes ce samedi dans un Repair Café, à Lyon : une salle municipale transformée en atelier, où des bénévoles aident les habitants à réparer leurs objets cassés. Je suis avec Mathieu Tremblay, qui a fondé cet atelier il y a cinq ans. Mathieu, vous êtes québécois ?
+
+  **Mathieu Tremblay :** Oui ! Arrivé à Lyon il y a dix ans pour mes études, je ne suis jamais reparti. Au Québec, j'avais pris l'habitude de tout réparer moi-même, en regardant faire mon grand-père. En arrivant ici, j'ai été surpris de voir combien d'objets on jetait simplement parce qu'une petite pièce était usée.
+
+  **Journaliste :** Comment fonctionne l'atelier ?
+
+  **Mathieu Tremblay :** C'est très simple. Les gens viennent avec un objet en panne : un grille-pain, une lampe, un vélo, une machine à coudre. Un bénévole s'assoit avec eux, et ils cherchent la panne ensemble. Le principe, c'est qu'on ne répare pas à la place des gens : on les fait participer. Le grille-pain une fois démonté, c'est souvent le propriétaire lui-même qui trouve le fil coupé.
+
+  **Journaliste :** Pourquoi ne pas le réparer pour eux ? Ce serait plus rapide.
+
+  **Mathieu Tremblay :** Plus rapide, oui, mais moins utile. Quelqu'un qui a vu son appareil s'ouvrir sous ses yeux n'a plus peur d'y toucher. La fois suivante, il essaiera tout seul. L'an dernier, une dame de soixante-dix ans est venue avec sa machine à coudre, persuadée qu'elle était bonne pour la poubelle. Elle est repartie en sachant changer la courroie. Aujourd'hui, c'est elle qui aide les autres à réparer leurs machines !
+
+  **Journaliste :** Est-ce que tout se répare ?
+
+  **Mathieu Tremblay :** Malheureusement non. Environ six objets sur dix repartent en état de marche. Pour les autres, c'est souvent la conception qui pose problème : des boîtiers collés au lieu d'être vissés, des pièces introuvables… Certains fabricants font tout pour qu'on ne puisse pas ouvrir leurs produits. On a l'impression qu'ils nous laissent acheter un objet sans vraiment nous le laisser posséder.
+
+  **Journaliste :** Les choses évoluent un peu, pourtant.
+
+  **Mathieu Tremblay :** Un peu, oui. Depuis l'introduction de l'indice de réparabilité, affiché dans les magasins, les clients peuvent comparer avant d'acheter. C'est encourageant. Mais je crois que la loi seule ne suffira pas. Ce qu'il faut changer, ce sont nos habitudes : nous nous sommes habitués à tout faire remplacer au moindre problème.
+
+  **Journaliste :** Qui sont vos bénévoles ?
+
+  **Mathieu Tremblay :** Des profils très différents ! Des électriciens à la retraite, des étudiants en ingénierie, une couturière, un horloger… Certains sont d'abord venus en tant que visiteurs, avant de rester comme bénévoles. Et le lien social compte autant que la réparation. Les gens attendent leur tour en buvant un café, ils discutent, ils échangent des conseils. J'ai vu des voisins faire connaissance ici, alors qu'ils habitaient le même immeuble depuis des années sans s'être jamais parlé.
+
+  **Journaliste :** Un conseil pour nos auditeurs ?
+
+  **Mathieu Tremblay :** Avant de jeter un objet, posez-vous une question : est-il vraiment mort, ou a-t-il simplement besoin d'un peu d'attention ? Et si vous ne savez pas, venez nous voir. On ne vous promet pas de miracle, mais vous repartirez en ayant appris quelque chose.
+
+  **Journaliste :** Mathieu Tremblay, merci.
+items:
+  - q: "Как Матьё научился чинить вещи?"
+    options: ["На курсах в Лионе.", "Наблюдая, как это делал его дед.", "Работая электриком."]
+    answer: 1
+    explain: "*j'avais pris l'habitude de tout réparer moi-même, **en regardant faire** mon grand-père* — gérondif способа + proposition infinitive (*regarder faire*)."
+  - q: "Что удивило его во Франции?"
+    options: ["Что люди выбрасывают вещи из-за одной изношенной детали.", "Что во Франции нет мастерских.", "Что запчасти стоят очень дорого."]
+    answer: 0
+    explain: "*En arrivant ici, j'ai été surpris de voir combien d'objets on jetait simplement parce qu'une petite pièce était usée.*"
+  - q: "В чём главный принцип мастерской?"
+    options: ["Волонтёры чинят вещи вместо хозяев.", "Хозяев вещей вовлекают в ремонт.", "Ремонт платный, но дешёвый."]
+    answer: 1
+    explain: "*on ne répare pas à la place des gens : **on les fait participer*** — участвуют сами посетители."
+  - q: "Почему, по мнению Матьё, лучше не чинить за людей?"
+    options: ["Волонтёрам не хватает времени.", "Увидев, как устроен прибор, человек перестаёт бояться его трогать и в следующий раз попробует сам.", "Так дешевле для мастерской."]
+    answer: 1
+    explain: "*Quelqu'un qui a vu son appareil s'ouvrir sous ses yeux n'a plus peur d'y toucher. La fois suivante, il essaiera tout seul.*"
+  - q: "Что стало с пожилой дамой и её швейной машинкой?"
+    options: ["Машинку пришлось выбросить.", "Она научилась менять ремень и теперь сама помогает другим.", "Она подарила машинку мастерской."]
+    answer: 1
+    explain: "*Elle est repartie **en sachant** changer la courroie. Aujourd'hui, c'est elle qui aide les autres.*"
+  - q: "Какую долю вещей удаётся починить?"
+    options: ["около 60 %", "около 30 %", "почти все"]
+    answer: 0
+    explain: "*Environ six objets sur dix repartent en état de marche.*"
+  - q: "Что он думает о некоторых производителях?"
+    options: ["Что они делают всё, чтобы вещи нельзя было открыть, — и по-настоящему владеть ими.", "Что они помогают мастерским запчастями.", "Что они не виноваты: вещи просто стали сложнее."]
+    answer: 0
+    explain: "*Certains fabricants font tout pour qu'on ne puisse pas ouvrir leurs produits… ils nous **laissent acheter** un objet sans vraiment nous le **laisser posséder**.*"
+  - q: "Как он оценивает индекс ремонтопригодности?"
+    options: ["Он бесполезен.", "Это обнадёживает, но одного закона мало: нужно менять привычки.", "Он полностью решил проблему."]
+    answer: 1
+    explain: "*C'est encourageant. Mais je crois que la loi seule ne suffira pas… nous nous sommes habitués à tout **faire remplacer** au moindre problème.*"
+  - q: "Что он говорит о социальной роли мастерской?"
+    options: ["Она для него второстепенна.", "Она так же важна, как ремонт: здесь знакомятся даже соседи по дому.", "Волонтёры не общаются с посетителями."]
+    answer: 1
+    explain: "*le lien social compte autant que la réparation… J'ai vu des voisins faire connaissance ici* — proposition infinitive после *voir*."

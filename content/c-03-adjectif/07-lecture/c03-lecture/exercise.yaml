@@ -1,0 +1,63 @@
+title: "Démolir ou rénover : la seconde vie des vieux bâtiments"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Отличай доводы автора от его уступок (il serait pourtant naïf de croire que…)."
+text: |
+  ## Démolir ou rénover : la seconde vie des vieux bâtiments
+
+  *Pendant des décennies, on a rasé sans état d'âme ce qui était vieux. Aujourd'hui, architectes et urbanistes redécouvrent une évidence : le bâtiment le plus écologique est souvent celui qui existe déjà.*
+
+  Au bout de la rue, un vieil immeuble de briques attend son sort. Ses volets vert foncé sont écaillés, ses fenêtres ne ferment plus, et la moindre averse fait apparaître des taches sur les murs. Il y a vingt ans, la décision aurait été vite prise : on l'aurait démoli pour construire à sa place un nouvel ensemble de logements, plus haut, mieux isolé, plus rentable. Aujourd'hui, la question se pose autrement.
+
+  C'est d'abord une affaire de chiffres. Construire un bâtiment neuf, c'est produire du béton, de l'acier, du verre, et donc émettre d'énormes quantités de CO2 avant même que le premier habitant n'y entre. Plusieurs études estiment qu'il faut des décennies à un immeuble neuf, aussi performant soit-il, pour « rembourser » le carbone émis lors de sa construction. Rénover un bâtiment existant coûte parfois aussi cher, mais pèse bien moins lourd sur le climat. Le pire, pour l'environnement, n'est donc pas de garder un vieux bâtiment : c'est de le remplacer trop vite.
+
+  C'est aussi une affaire de mémoire. Les anciennes usines devenues lofts, les gares transformées en musées, les casernes reconverties en logements étudiants racontent l'histoire d'un quartier mieux que n'importe quelle plaque commémorative. Un ancien hôpital — qui n'est plus un hôpital — peut devenir un lieu culturel des plus vivants ; un hôpital ancien, lui, soigne encore des malades dans des murs centenaires. La nuance n'est pas seulement grammaticale : elle dit ce que nous choisissons de garder du passé.
+
+  Il serait pourtant naïf de croire que tout ce qui est vieux mérite d'être conservé. Bien des grands ensembles construits à la hâte dans les années soixante sont aujourd'hui des passoires thermiques, mal desservies, où les habitants se sentent relégués. Les rénover coûterait parfois plus cher que de les reconstruire, et certains locataires ne demandent qu'une chose : quitter enfin des appartements où ils ont froid tout l'hiver. Le respect du patrimoine ne doit pas devenir un prétexte pour ignorer la vie réelle de ceux qui l'habitent.
+
+  Ce que réclament les architectes les plus engagés, ce n'est pas l'interdiction de démolir, mais l'inversion de la charge de la preuve. Jusqu'ici, il fallait justifier la conservation d'un bâtiment ; demain, il faudrait justifier sa destruction. Quel que soit l'état d'un immeuble, on commencerait par se demander ce qu'il peut devenir. Une école vide peut accueillir des bureaux ; un parking peut devenir une halle de marché ; un supermarché abandonné peut se transformer en salle de sport.
+
+  Encore faut-il que les règles suivent. Les normes actuelles, pensées pour le neuf, rendent souvent la rénovation plus compliquée : la moindre modification d'une façade exige des autorisations interminables, et les assureurs se méfient des structures anciennes. Les propriétaires, eux, préfèrent la solution la plus simple, qui est rarement la plus durable.
+
+  Le vieil immeuble au bout de la rue aura peut-être de la chance. Une coopérative d'habitants s'est formée pour le racheter. Ses membres rêvent de garder les briques, de refaire les fenêtres, de repeindre les volets — en vert foncé, comme avant. Ce ne sera pas le projet le plus rentable du quartier. Ce sera peut-être le plus sensé.
+items:
+  - q: "Что изменилось за двадцать лет?"
+    options: ["Старые здания стали дороже сносить.", "Решение снести старое здание больше не принимается автоматически.", "Новые дома строят ниже и хуже утеплёнными."]
+    answer: 1
+    explain: "*Il y a vingt ans, la décision aurait été vite prise : on l'aurait démoli… Aujourd'hui, la question se pose autrement.*"
+  - q: "Почему, по статье, новое строительство вредит климату?"
+    options: ["Новые дома хуже утеплены.", "Производство материалов выбрасывает много CO2, который «окупается» десятилетиями.", "Новые дома потребляют больше электричества."]
+    answer: 1
+    explain: "*produire du béton, de l'acier, du verre… il faut des décennies à un immeuble neuf, aussi performant soit-il, pour « rembourser » le carbone*."
+  - q: "Vrai / faux / on ne sait pas: реновация всегда дешевле строительства нового здания."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*Rénover… coûte **parfois aussi cher*** — значит, не всегда дешевле; а для *grands ensembles* — даже *plus cher que de les reconstruire*. *Cher* здесь — наречие, не изменяется."
+  - q: "Чем «un ancien hôpital» отличается от «un hôpital ancien» ?"
+    options: ["Ничем, это стилистический вариант.", "Первое — бывшая больница, второе — старинная больница, которая ещё работает.", "Первое — старинная больница, второе — бывшая."]
+    answer: 1
+    explain: "Перед существительным *ancien* = «бывший» (*qui n'est plus un hôpital*), после — «старинный» (*soigne encore des malades dans des murs centenaires*)."
+  - q: "Зачем автор говорит о grands ensembles 1960-х?"
+    options: ["Чтобы показать, что не всё старое стоит сохранять.", "Чтобы привести пример удачной реновации.", "Чтобы обвинить архитекторов шестидесятых."]
+    answer: 0
+    explain: "*Il serait pourtant naïf de croire que tout ce qui est vieux mérite d'être conservé* — уступка, ограничивающая собственный тезис автора."
+  - q: "Что значит «l'inversion de la charge de la preuve» в этом контексте?"
+    options: ["Обосновывать придётся снос, а не сохранение здания.", "Запретить любой снос.", "Владельцы должны доказывать, что здание старинное."]
+    answer: 0
+    explain: "*Jusqu'ici, il fallait justifier la conservation d'un bâtiment ; demain, il faudrait justifier sa destruction.* И это *pas l'interdiction de démolir*."
+  - q: "Что мешает реновации?"
+    options: ["Нормы, рассчитанные на новое строительство, разрешения и осторожность страховщиков.", "Нехватка архитекторов.", "Протесты жителей против старых домов."]
+    answer: 0
+    explain: "*Les normes actuelles, pensées pour le neuf… la moindre modification d'une façade exige des autorisations interminables, et les assureurs se méfient des structures anciennes.*"
+  - q: "Как автор, судя по последнему абзацу, относится к проекту кооператива?"
+    options: ["Скептически: проект нерентабелен.", "С симпатией: проект, возможно, самый разумный.", "Нейтрально, без оценки."]
+    answer: 1
+    explain: "*Ce ne sera pas le projet le plus rentable du quartier. Ce sera peut-être le plus sensé.* — превосходная степень *le plus sensé* — оценка автора."
+  - q: "Впиши форму прилагательного из текста: un ___ immeuble de briques."
+    answers: ["vieil"]
+    explain: "Перед существительным мужского рода на гласную или немое *h* — **vieil** (*un vieil immeuble, un vieil homme*), как *bel, nouvel*."
+  - q: "Впиши слово из текста: un lieu culturel des plus ___."
+    answers: ["vivants"]
+    explain: "*des plus* + прилагательное во **мн. ч.** = «чрезвычайно»: *des plus vivants* (из числа самых живых)."

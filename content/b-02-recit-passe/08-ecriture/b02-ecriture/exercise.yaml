@@ -1,0 +1,39 @@
+title: "Lettre au maire : sauver le cinéma du quartier"
+type: writing
+intro: "Напиши формальное письмо мэру по плану урока."
+prompt: |
+  La mairie de votre ville a annoncé que l'ancien cinéma *Le Rex*, fermé depuis deux ans, sera démoli pour construire un parking.
+
+  Vous écrivez au maire pour vous opposer à ce projet. Vous rappelez l'histoire du lieu, vous expliquez pourquoi il est important pour le quartier aujourd'hui et vous proposez une autre solution.
+
+  Напиши **200–280 слов**.
+words: [200, 280]
+target_grammar:
+  - "passé composé, imparfait и plus-que-parfait в одном рассказе"
+  - "après avoir / après être + participe"
+  - "гипотеза о прошлом: si + plus-que-parfait → conditionnel passé или présent"
+  - "предлоги места: en face de, au coin de, au milieu de, à côté de…"
+checklist:
+  - "Официальное обращение (Monsieur le Maire / Madame la Maire) и формула вежливости."
+  - "Во вступлении — повод письма и твоя позиция."
+  - "История места: imparfait для фона, passé composé для событий, хотя бы один plus-que-parfait."
+  - "Хотя бы одна гипотеза о прошлом: si + plus-que-parfait → conditionnel."
+  - "Довод из настоящего с примером и конкретное предложение."
+  - "Хотя бы два предлога места и одно après avoir / après être + participe."
+  - "Регистр официального письма, причастия согласованы."
+model_answer: |
+  Monsieur le Maire,
+
+  Habitante du quartier Saint-Michel depuis vingt ans, j'ai appris avec inquiétude que vous aviez décidé de démolir l'ancien cinéma Le Rex pour construire un parking. Je vous écris pour m'opposer à ce projet.
+
+  Le Rex a ouvert ses portes en 1932, au coin de la rue Victor-Hugo, en face de l'école. À l'époque, c'était le seul cinéma du quartier, et toutes les familles s'y retrouvaient le dimanche. Ma grand-mère y avait rencontré mon grand-père, bien avant la guerre. En 1985, le bâtiment avait déjà été menacé, mais après avoir signé une pétition, les habitants avaient obtenu sa rénovation.
+
+  Aujourd'hui encore, ce lieu compte pour nous. Au milieu d'un quartier sans théâtre ni bibliothèque, il reste le seul endroit capable d'accueillir des spectacles. Les associations locales, qui organisaient chaque année un festival du court métrage dans sa grande salle, cherchent en vain une autre solution.
+
+  Souvenez-vous de la vieille gare. Si la ville ne l'avait pas transformée en médiathèque en 1998, le centre aurait perdu son plus beau bâtiment, et des milliers d'habitants n'auraient pas aujourd'hui ce lieu de rencontre.
+
+  Je comprends que le stationnement pose problème, mais un parking pourrait être construit sous la place du marché, à deux cents mètres. Je vous demande donc de renoncer à la démolition et d'étudier, avec les associations, la réouverture du Rex comme salle de quartier.
+
+  Je vous prie d'agréer, Monsieur le Maire, l'expression de ma haute considération.
+
+  Claire Moreau

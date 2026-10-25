@@ -1,0 +1,39 @@
+title: "Synthèse : manger moins de viande"
+type: writing
+intro: "Напиши синтез трёх документов по плану урока. Без собственного мнения и без цитат."
+prompt: |
+  Vous ferez une synthèse des documents suivants. Vous dégagerez les idées principales et les organiserez selon un plan de votre choix, sans ajouter d'idées ni de commentaires personnels. Vous donnerez un titre à votre texte.
+
+  **Document 1 — article de presse.** Selon une enquête récente, près d'un tiers des Français déclarent avoir réduit leur consommation de viande au cours des cinq dernières années. Les raisons invoquées sont variées : la santé d'abord, l'environnement ensuite, le prix enfin. Les nutritionnistes rappellent que la viande rouge, consommée en excès, augmente certains risques, mais qu'un régime sans aucune protéine animale demande de l'attention. Pour beaucoup, la solution n'est pas de supprimer la viande, mais d'en manger moins et de meilleure qualité.
+
+  **Document 2 — témoignage d'un éleveur.** « Je suis éleveur dans le Limousin depuis vingt ans. On nous accuse de tous les maux, mais nos vaches vivent dehors huit mois par an et entretiennent des prairies qui stockent du carbone. Ce n'est pas l'élevage qui pose problème, c'est l'élevage intensif et la viande importée à bas prix. Si les consommateurs achètent moins de viande, qu'ils achètent au moins de la viande locale : sans cela, des milliers de fermes disparaîtront, et avec elles les paysages que tout le monde admire. »
+
+  **Document 3 — brève.** Depuis 2021, la loi impose aux cantines scolaires de proposer au moins un menu végétarien par semaine. Bien des parents s'en félicitent ; d'autres regrettent qu'on ne leur ait pas demandé leur avis.
+
+  Напиши **220–300 слов**.
+words: [220, 300]
+target_grammar:
+  - "de после слов количества и отрицания: moins de viande, pas de protéines"
+  - "la plupart des, bien des — артикль сохраняется"
+  - "партитив с вещественными и абстрактными: de la viande locale, du carbone, de la vigilance"
+  - "без артикля: sans protéines animales, en plein air, avec soin"
+checklist:
+  - "Есть заголовок."
+  - "Во введении названы тема и проблема."
+  - "План по идеям, а не по документам; использованы все три документа."
+  - "Нет собственного мнения, оценок и «я»."
+  - "Нет цитат: всё перефразировано."
+  - "Артикли после количества и отрицания (moins de, pas de) и la plupart des / bien des — без ошибок."
+  - "Объём 220–300 слов."
+model_answer: |
+  Manger moins de viande : une évolution aux multiples visages
+
+  La consommation de viande recule en France, et ce mouvement suscite autant d'adhésion que d'inquiétude. Les trois documents permettent d'en cerner les causes, les formes et les limites.
+
+  D'après une enquête récente, près d'un tiers des Français affirment avoir réduit leur consommation de viande en cinq ans. Ils invoquent avant tout des raisons de santé, puis l'environnement et le prix. Les nutritionnistes confirment que l'excès de viande rouge présente des risques, tout en soulignant qu'un régime sans protéines animales exige de la vigilance. La tendance dominante n'est donc pas l'abandon de la viande, mais la recherche d'une viande de meilleure qualité, consommée en plus petite quantité.
+
+  Cette évolution touche aussi les institutions : depuis 2021, les cantines scolaires doivent servir au moins un repas végétarien par semaine, une mesure que bien des parents approuvent, mais que d'autres jugent imposée sans concertation.
+
+  Les éleveurs, eux, refusent d'être désignés comme responsables. L'un d'eux rappelle que l'élevage en plein air entretient des prairies capables de stocker du carbone, et il oppose cette pratique à l'élevage intensif et aux importations bon marché. Selon lui, la baisse de la consommation ne sera supportable pour les campagnes que si elle s'accompagne d'un choix en faveur de la viande locale ; sinon, de nombreuses fermes et les paysages qu'elles façonnent seront menacés.
+
+  En définitive, les documents s'accordent sur un point : la question n'est plus de savoir s'il faut manger de la viande, mais laquelle, et à quel prix pour les producteurs comme pour les paysages.

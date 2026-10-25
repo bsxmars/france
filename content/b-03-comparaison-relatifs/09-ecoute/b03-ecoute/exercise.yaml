@@ -1,0 +1,57 @@
+title: "Nouvelles vies : de la banque à la boulangerie"
+type: listening
+intro: "Послушай радиоинтервью (дважды) и ответь на вопросы."
+hints:
+  - "Выделение «ce n'est pas X qui…, c'est Y» — ответ Y."
+  - "Сравнения: проверь, что с чем сравнивается."
+audio: audio/tts/b-03/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural, fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour et bienvenue dans « Nouvelles vies ». Mon invité aujourd'hui s'appelle Julien Moreau. Il y a trois ans, il a quitté Paris pour ouvrir une boulangerie dans un village de la Drôme. Julien, qu'est-ce qui vous a poussé à partir ?
+
+  **Julien :** Honnêtement, ce n'est pas la fatigue qui m'a décidé, c'est le temps. À Paris, je passais plus de temps dans le métro qu'avec mes enfants. Un soir, ma fille m'a demandé pourquoi je rentrais toujours si tard. C'est cette question-là qui a tout changé.
+
+  **Journaliste :** Vous étiez déjà boulanger à Paris ?
+
+  **Julien :** Pas du tout ! J'étais comptable dans une banque. Le pain, c'était une passion dont je parlais beaucoup, mais à laquelle je ne consacrais que mes dimanches. J'ai fait une formation de huit mois, puis j'ai trouvé une boutique dont l'ancien propriétaire partait à la retraite.
+
+  **Journaliste :** Et la vie au village, elle est vraiment plus simple qu'en ville ?
+
+  **Julien :** Elle est plus lente, oui, mais pas forcément plus simple. Je me lève à trois heures du matin ! En revanche, je connais tous mes clients. À Paris, je ne connaissais même pas mes voisins. Ici, c'est la boulangerie qui est le cœur du village : les gens y viennent autant pour discuter que pour acheter du pain.
+
+  **Journaliste :** Est-ce que vous gagnez moins qu'avant ?
+
+  **Julien :** Beaucoup moins, c'est vrai. Mais je dépense aussi beaucoup moins. Le loyer est trois fois moins cher, et nous n'avons plus besoin de voiture pour aller au travail. Ce qui me manque le plus, ce ne sont pas les restaurants, ce sont les musées.
+
+  **Journaliste :** Quels conseils donneriez-vous à ceux qui rêvent de faire comme vous ?
+
+  **Julien :** De ne pas idéaliser la campagne. Le village où nous vivons est magnifique, mais l'hiver y est long et les écoles sont loin. Il faut savoir ce à quoi on renonce. Et surtout, il faut tester avant : nous avons passé tout un été ici avant de décider.
+items:
+  - q: "Почему Жюльен уехал из Парижа?"
+    options: ["Он слишком уставал на работе.", "Ему не хватало времени на детей.", "Банк, где он работал, закрылся."]
+    answer: 1
+    explain: "*Ce n'est pas la fatigue qui m'a décidé, c'est le temps… je passais plus de temps dans le métro qu'avec mes enfants.* Усталость названа, чтобы её отбросить."
+  - q: "Что стало толчком к решению?"
+    options: ["вопрос дочери", "совет друга-булочника", "письмо от владельца пекарни"]
+    answer: 0
+    explain: "*Ma fille m'a demandé pourquoi je rentrais si tard. **C'est cette question-là qui** a tout changé.*"
+  - q: "Кем Жюльен работал раньше и как готовился?"
+    options: ["Был булочником в Париже.", "Был бухгалтером и прошёл восьмимесячное обучение.", "Был поваром и учился по воскресеньям."]
+    answer: 1
+    explain: "*J'étais comptable dans une banque… J'ai fait une formation de huit mois.*"
+  - q: "Какова жизнь в деревне, по словам Жюльена?"
+    options: ["медленнее, но не обязательно проще", "проще и спокойнее во всём", "сложнее и быстрее, чем в Париже"]
+    answer: 0
+    explain: "*Elle est plus lente, oui, mais pas forcément plus simple.*"
+  - q: "Зачем люди приходят в его булочную?"
+    options: ["только за хлебом", "и поговорить, и за хлебом", "в основном поговорить"]
+    answer: 1
+    explain: "*les gens y viennent **autant** pour discuter **que** pour acheter du pain* — *autant… que* = в равной мере."
+  - q: "Чего ему больше всего не хватает?"
+    options: ["ресторанов", "музеев", "соседей"]
+    answer: 1
+    explain: "*Ce qui me manque le plus, ce ne sont pas les restaurants, ce sont les musées.*"
+  - q: "Какой главный совет он даёт?"
+    options: ["Переезжать без колебаний.", "Сначала пожить на новом месте, прежде чем решать.", "Не уезжать из города зимой."]
+    answer: 1
+    explain: "*Il faut tester avant : nous avons passé tout un été ici avant de décider.*"

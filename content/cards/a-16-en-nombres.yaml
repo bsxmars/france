@@ -30,3 +30,23 @@
   lesson: a-16-en-nombres/01-grammaire
   q: "Проспрягай *mettre* в настоящем времени."
   a: "*je mets, tu mets, il **met**, nous **mettons**, vous mettez, ils **mettent*** — в ед. ч. одна *t*, во мн. ч. две."
+- id: a16-sortie
+  lesson: a-16-en-nombres/07-lecture
+  q: "«Будьте в школе в 8:15». «Положите в рюкзак бутылку воды»."
+  a: "**Soyez** à l'école à **huit heures et quart**. **Mettez** dans le sac une bouteille d'eau."
+- id: a16-il-en-reste
+  lesson: a-16-en-nombres/07-lecture
+  q: "«Мест три, осталось одно»."
+  a: "Il y a trois places : **il en reste une**. *en* = *de places*, *une* — ж. р."
+- id: a16-age-en
+  lesson: a-16-en-nombres/08-ecriture
+  q: "«Мне 28 лет, маме — 51». «Братья? У меня их двое»."
+  a: "**J'ai vingt-huit ans**, ma mère **en a cinquante et un**. Des frères ? **J'en ai deux.**"
+- id: a16-mets-en
+  lesson: a-16-en-nombres/09-ecoute
+  q: "«Поставь десять (свечей)!» «Купи их (цветов)!»"
+  a: "**Mets-en dix !** — **Achètes-en !** (перед *en* у глаголов на *-er* возвращается *-s*)."
+- id: a16-six-dix-oral
+  lesson: a-16-en-nombres/09-ecoute
+  q: "Как звучит *six* в *j'en ai six*, *six chaises*, *six assiettes*?"
+  a: "[sis] — в конце; [si] — перед согласной; [siz] — перед гласной со связыванием."

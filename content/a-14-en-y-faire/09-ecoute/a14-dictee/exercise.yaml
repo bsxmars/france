@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "y и en стоят перед глаголом; перед гласной — j'y, n'y, nous y [nu-zi]."
+  - "vous faites, ils font — особые формы faire."
+items:
+  - audio: audio/tts/a-14/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Nous y allons demain."]
+    explain: "«Мы пойдём туда завтра». *y* перед глаголом, связывание *nous y* [nu-zi]."
+  - audio: audio/tts/a-14/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Elle en revient à six heures."]
+    explain: "«Она возвращается оттуда в шесть часов». *en* — «оттуда»; *six heures* [si-zœʁ]."
+  - audio: audio/tts/a-14/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Quand partez-vous ?"]
+    explain: "«Когда вы уезжаете?» Подлежащее — местоимение → простая инверсия с дефисом."
+  - audio: audio/tts/a-14/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Comment écrit-il ce mot ?"]
+    explain: "«Как он пишет это слово?» Инверсия *écrit-il* [e-kʁi-til]: немое *-t* звучит перед *il*."
+  - audio: audio/tts/a-14/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Vous faites des progrès."]
+    explain: "«Вы делаете успехи». ***vous faites*** — не ~~faisez~~."
+  - audio: audio/tatoeba/474759.mp3
+    audio_source: {title: "Tatoeba #4693450", url: "https://tatoeba.org/fr/sentences/show/4693450", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["J'y vais maintenant."]
+    explain: "«Я иду туда прямо сейчас». *je* + *y* → *j'y*; *maintenant* — «сейчас»."
+  - audio: audio/tatoeba/473638.mp3
+    audio_source: {title: "Tatoeba #8742", url: "https://tatoeba.org/fr/sentences/show/8742", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Comment vas-tu ?"]
+    explain: "«Как поживаешь?» *comment* + инверсия *vas-tu*; *aller* в значении «поживать»."
+  - audio: audio/tatoeba/474806.mp3
+    audio_source: {title: "Tatoeba #4805505", url: "https://tatoeba.org/fr/sentences/show/4805505", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Nous ne pouvons pas y aller."]
+    explain: "«Мы не можем туда пойти». *y* относится к инфинитиву и стоит перед ним: *pas **y** aller*."
+  - audio: audio/tatoeba/474933.mp3
+    audio_source: {title: "Tatoeba #6463109", url: "https://tatoeba.org/fr/sentences/show/6463109", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Faisons la fête."]
+    explain: "«Давайте праздновать!» Повелительное *faisons* [fə-zɔ̃]; *faire la fête* — «веселиться, праздновать»."

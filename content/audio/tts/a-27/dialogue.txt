@@ -1,0 +1,14 @@
+# rate: -5%
+# pause: 700
+F: Salut Claire ! Alors, ton permis de conduire, c'était hier, non ?
+C: Oui… et je l'ai eu !
+F: Bravo ! Mais tu avais peur, non ? La première fois, tu l'avais raté.
+C: Oui, l'année dernière, j'avais fait une grosse erreur à un feu rouge. Cette fois, j'avais pris vingt heures de cours avec une nouvelle monitrice. Elle est très patiente, et très drôle aussi.
+F: Et l'examen, comment ça s'est passé ?
+C: Mal, au début ! Il avait plu toute la matinée, et les routes étaient glissantes. Et quand je suis arrivée, l'examinatrice était déjà dans la voiture. Elle avait l'air très sévère…
+F: Aïe !
+C: J'ai conduit vingt-cinq minutes en ville. Il fallait tourner, se garer, s'arrêter devant une école… À un moment, une vieille dame a traversé la rue sans regarder. Heureusement, je l'avais vue avant ! J'ai freiné doucement, et elle a continué son chemin.
+F: Et l'examinatrice, qu'est-ce qu'elle a dit ?
+C: À la fin, elle a souri et elle m'a dit : « Vous conduisez bien, vous êtes prudente. » Elle n'était pas si sévère, finalement !
+F: Super. Alors, le mois prochain, c'est toi qui conduis pour aller au chalet ?
+C: D'accord ! Mais c'est toi qui paies l'essence !

@@ -1,0 +1,53 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком (или выбери вариант). Регистр и знаки препинания не важны, акценты и дефисы — важны."
+hints:
+  - "[дю] — du, [дэ] — des."
+  - "Qu'est-ce que пишется с двумя дефисами и апострофом."
+items:
+  - audio: audio/tts/a-08/c1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Ils parlent du film.", "Ils parlent des films."]
+    answer: 0
+    explain: "[дю] — **du film** «Они говорят о фильме»: *de* + *le film*."
+  - audio: audio/tts/a-08/c2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["Ils parlent du film.", "Ils parlent des films."]
+    answer: 1
+    explain: "[дэ] — **des films** «Они говорят о фильмах»: *de* + *les films*. *-s* не слышно."
+  - audio: audio/tts/a-08/c3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["le cahier de l'élève", "le cahier des élèves"]
+    answer: 1
+    explain: "Слышно связывание [дэзэлэв] — **des élèves** «тетрадь учеников». *de l'élève* звучит [дёлэлэв]."
+  - audio: audio/tts/a-08/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Que regarde-t-il ?"]
+    explain: "«Что он смотрит?» *Que* + инверсия; *regarde* кончается на *-e* → **-t-**."
+  - audio: audio/tts/a-08/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Qu'est-ce que tu cherches ?"]
+    explain: "«Что ты ищешь?» После **qu'est-ce que** — прямой порядок: *tu cherches*."
+  - audio: audio/tts/a-08/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Sa sœur est une bonne actrice."]
+    explain: "«Его (её) сестра — хорошая актриса». Есть прилагательное *bonne* → артикль **une**."
+  - audio: audio/tatoeba/473636.mp3
+    audio_source: {title: "Tatoeba #3094", url: "https://tatoeba.org/fr/sentences/show/3094", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Qu'est-ce que c'est ?"]
+    explain: "«Что это?» Самый частый вопрос с *qu'est-ce que*: дальше прямой порядок *c'est*."
+  - audio: audio/tatoeba/472297.mp3
+    audio_source: {title: "Tatoeba #5420023", url: "https://tatoeba.org/fr/sentences/show/5420023", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Qui est ton professeur de français ?"]
+    explain: "«Кто твой преподаватель французского?» *Qui* — вопрос о человеке, *que* — о предмете."
+  - audio: audio/tatoeba/472841.mp3
+    audio_source: {title: "Tatoeba #2300035", url: "https://tatoeba.org/fr/sentences/show/2300035", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je suis du même avis."]
+    explain: "«Я того же мнения». **du** = *de* + *le* (*le même avis* — то же мнение)."
+  - audio: audio/tatoeba/474329.mp3
+    audio_source: {title: "Tatoeba #514471", url: "https://tatoeba.org/fr/sentences/show/514471", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["C'est une poupée."]
+    explain: "«Это кукла». Называем предмет одним из многих → неопределённый артикль **une**."

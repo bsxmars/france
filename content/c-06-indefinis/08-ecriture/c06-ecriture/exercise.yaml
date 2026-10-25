@@ -1,0 +1,32 @@
+title: "Essai : faut-il rendre le bénévolat obligatoire ?"
+type: writing
+intro: "Напиши essai argumenté по плану урока."
+prompt: |
+  Le ministère de l'Éducation envisage d'imposer à tous les lycéens trente heures de bénévolat par an dans une association. Selon ses défenseurs, cette mesure formerait des citoyens plus solidaires ; selon ses détracteurs, un engagement imposé n'a plus de sens.
+
+  Dans un essai argumenté publié sur le site d'un magazine de société, vous prenez position sur cette question en vous appuyant sur des arguments et des exemples précis.
+
+  Напиши **220–300 слов**.
+words: [220, 300]
+target_grammar:
+  - "chaque / chacun, aucun / nul, quiconque, autrui, personne, rien de + adj."
+  - "un tel / de tels, le même / les mêmes, -même(s) после местоимения"
+  - "tout: местоимение, прилагательное, наречие с согласованием; tout + adj. + que"
+checklist:
+  - "Во вступлении есть problématique — вопрос, на который отвечает эссе."
+  - "Аргументы противоположной стороны изложены честно, затем опровергнуты."
+  - "Каждый аргумент подкреплён конкретным примером."
+  - "Есть хотя бы три разных неопределённых слова, из них одно книжное: nul, quiconque, autrui."
+  - "Есть un tel / de tels или le(s) même(s) — для ссылки на сказанное."
+  - "tout согласовано правильно (tout entière, toute seule, tous [tus] как местоимение)."
+  - "Вывод отвечает на problématique; регистр — нейтральный письменный, без разговорных оборотов."
+model_answer: |
+  Chaque année, des milliers d'associations peinent à recruter, tandis que nombre de jeunes affirment vouloir « être utiles ». D'où une idée qui revient régulièrement : imposer à tout lycéen quelques dizaines d'heures de bénévolat. Une telle mesure serait-elle pour autant souhaitable ?
+
+  Ses partisans avancent un argument solide : nul ne naît citoyen, on le devient. Quiconque a déjà participé à une collecte alimentaire sait combien l'expérience transforme le regard porté sur autrui. Rendre ce premier pas obligatoire permettrait de toucher tous les élèves, y compris ceux qu'aucun réseau familial n'oriente vers le monde associatif. L'école offrirait ainsi à chacun les mêmes chances de découvrir l'engagement.
+
+  Cependant, un bénévolat imposé est une contradiction dans les termes. Ce qui fait la valeur d'un tel geste, c'est précisément qu'il est libre. Un adolescent contraint de servir des repas pour obtenir son diplôme risque d'en garder un souvenir tout autre que celui qu'espéraient les auteurs de la réforme. Les associations elles-mêmes s'inquiètent : encadrer des jeunes démotivés demande un temps dont elles ne disposent pas toujours.
+
+  Il me semble donc préférable de proposer plutôt que d'imposer. Chaque lycée pourrait présenter plusieurs projets, laisser chacun choisir le sien et valoriser cet engagement dans le parcours scolaire. On ne forcerait personne, mais on donnerait à tous l'occasion d'essayer.
+
+  En somme, l'obligation risque de produire l'effet inverse de celui qu'on recherche. Si l'on veut former des citoyens solidaires, mieux vaut faire confiance à leur liberté, tout imparfaite qu'elle soit.

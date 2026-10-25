@@ -1,0 +1,45 @@
+title: "Club de lecture"
+type: reading
+intro: "Прочитай объявление и ответь на вопросы. В вопросах с полем впиши одно слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "notre / nos — «наш, наши», vos — «ваши», leur / leurs — «их»."
+text: |
+  **Club de lecture de la bibliothèque Victor-Hugo**
+
+  Vous aimez lire ? Notre club est pour vous !
+
+  Le jeudi, à six heures, nous lisons ensemble et nous parlons de nos livres préférés. Ce mois-ci, nous lisons *Le Petit Prince*. Cette histoire est courte et très belle.
+
+  Vous écrivez aussi ? Apportez vos textes ! Notre bibliothécaire, Madame Roux, lit vos poèmes et elle écrit ses commentaires dans vos cahiers.
+
+  Le samedi matin, c'est le club des enfants : ils lisent des histoires avec leurs parents. Leur salle est au premier étage, à côté de cet escalier.
+
+  Ces rencontres sont gratuites. Pour participer, écrivez à Madame Roux : club@biblio-hugo.fr
+items:
+  - q: "Когда собирается клуб для взрослых?"
+    options: ["по субботам утром", "по четвергам в шесть часов", "каждый день в шесть часов"]
+    answer: 1
+    explain: "*Le jeudi, à six heures, nous lisons ensemble* — *le* перед днём недели значит «каждый четверг». Суббота — день детского клуба."
+  - q: "Что клуб читает в этом месяце?"
+    options: ["стихи мадам Ру", "детские истории", "«Маленького принца»"]
+    answer: 2
+    explain: "*Ce mois-ci, nous lisons Le Petit Prince.* — *ce mois-ci* «в этом месяце»."
+  - q: "Что мадам Ру делает с текстами читателей?"
+    options: ["читает их и пишет свои замечания", "читает их детям по субботам", "печатает их в журнале"]
+    answer: 0
+    explain: "*Madame Roux lit vos poèmes et elle écrit ses commentaires dans vos cahiers* — *ses* здесь «свои»: замечания самой мадам Ру."
+  - q: "С кем дети читают по субботам?"
+    options: ["с мадам Ру", "со своими родителями", "одни, без взрослых"]
+    answer: 1
+    explain: "*Ils lisent des histoires avec leurs parents* — *leurs* «их» (родителей несколько)."
+  - q: "Сколько стоят встречи?"
+    options: ["они бесплатные", "это не сказано", "платят только взрослые"]
+    answer: 0
+    explain: "*Ces rencontres sont gratuites.* — «Эти встречи бесплатные»; *gratuites* согласовано с *rencontres* (ж. р., мн. ч.)."
+  - q: "Впиши из текста: «наш клуб» — ___ club."
+    answers: ["notre"]
+    explain: "**notre** — «наш» при одном предмете; *nos* — при нескольких (*nos livres préférés*)."
+  - q: "Впиши из текста: «их зал» (зал детей) — ___ salle."
+    answers: ["leur"]
+    explain: "**leur** без *-s*: владельцев много, зал один. *leurs parents* — с *-s*, родителей несколько."

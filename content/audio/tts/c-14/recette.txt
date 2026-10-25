@@ -1,0 +1,5 @@
+# pause: 600
+H: Bonjour à tous, voici votre minute gourmande. Aujourd'hui, le gâteau aux pommes de ma grand-mère, prêt en moins d'une heure.
+H: Commencez par faire fondre cent grammes de beurre à feu doux. Pendant ce temps, épluchez quatre pommes. Les pommes épluchées, coupez-les en fines lamelles, en prenant soin d'enlever le cœur.
+H: Dans un saladier, mélangez trois œufs et cent vingt grammes de sucre, puis ajoutez la farine tout en remuant, pour éviter les grumeaux. Le beurre une fois refroidi, versez-le dans la pâte.
+H: Disposez les pommes dans le moule, versez la pâte par-dessus et laissez cuire quarante minutes à cent quatre-vingts degrés. Le gâteau sorti du four, laissez-le reposer dix minutes avant de le démouler. Et surtout, ne le faites pas trop cuire : ma grand-mère disait toujours qu'un gâteau aux pommes devait rester fondant.

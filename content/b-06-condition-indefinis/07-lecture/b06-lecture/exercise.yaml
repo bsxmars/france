@@ -1,0 +1,62 @@
+title: "Budget participatif : et si les habitants décidaient ?"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем впиши слово или выражение из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Conditionnel (resterait, voteraient) — чужие данные, которые автор не подтверждает."
+  - "Сравни неопределённые слова: certains ≠ tous, la plupart ≠ tous, aucun = ни одного."
+text: |
+  ## Budget participatif : et si les habitants décidaient ?
+
+  *Depuis dix ans, plusieurs centaines de communes françaises confient une partie de leur budget à leurs habitants. Une petite révolution démocratique, à condition de ne pas s'arrêter aux apparences.*
+
+  Le principe est simple. Chaque année, la ville réserve une somme — souvent 5 % de ses investissements — à des projets imaginés par les habitants eux-mêmes. N'importe qui peut proposer une idée, pourvu qu'elle relève de l'intérêt général et qu'elle ne coûte pas plus que le montant prévu. Les services techniques étudient ensuite chacune des propositions, puis les habitants votent. À Grenoble, à Rennes ou à Paris, des milliers de projets ont ainsi vu le jour : jardins partagés, pistes cyclables, boîtes à livres, fontaines…
+
+  « Les idées que les habitants ont proposées sont souvent plus concrètes que celles des élus », reconnaît Hélène Marchal, adjointe au maire d'une ville bretonne. « Aucun technicien n'aurait pensé à installer des toilettes publiques près du marché. C'est une retraitée qui l'a suggéré, et le projet a été voté à une large majorité. »
+
+  Pourtant, le bilan est plus nuancé qu'il n'y paraît. Selon une étude récente, la participation resterait faible : moins de 10 % des habitants voteraient, et la plupart d'entre eux seraient des cadres ou des retraités déjà engagés dans la vie associative. Certains quartiers populaires n'ont présenté aucun projet en cinq ans. « Si on ne va pas chercher les gens, ils ne viendront pas », résume un animateur social de Lille, qui organise des ateliers dans les halls d'immeubles.
+
+  Autre critique : la lenteur. Plusieurs projets votés en 2021 n'auraient toujours pas été réalisés. « On nous avait promis une aire de jeux pour l'été. Nous l'attendons encore ! Il aurait fallu nous dire franchement que c'était plus compliqué », regrette une mère de famille. Pour les élus, ces retards s'expliquent : en cas de travaux importants, une étude préalable est obligatoire. Mais ils reconnaissent qu'ils auraient dû mieux informer les habitants.
+
+  Faut-il pour autant abandonner l'expérience ? Les spécialistes pensent le contraire. À leurs yeux, le budget participatif peut transformer la relation entre les citoyens et les institutions, à condition de respecter trois règles : aller vers ceux qui ne participent jamais, publier un calendrier réaliste et rendre compte de chaque euro dépensé. Au cas où une commune ne tiendrait pas ses promesses, la confiance qu'elle a gagnée disparaîtrait très vite.
+
+  Car c'est peut-être là l'essentiel. Le budget participatif ne changera pas la société à lui seul, à moins que les habitants n'y voient un vrai pouvoir de décision. Tous ceux qui ont vu leur projet réalisé le disent : on ne regarde plus sa rue de la même façon quand on l'a soi-même transformée.
+items:
+  - q: "Кто может предложить проект?"
+    options: ["Только члены общественных объединений.", "Любой житель, если идея служит общему благу и укладывается в сумму.", "Только технические службы мэрии."]
+    answer: 1
+    explain: "*N'importe qui peut proposer une idée, **pourvu qu'**elle relève de l'intérêt général et qu'elle ne coûte pas plus que le montant prévu.* — *pourvu que* + subjonctif вводит условие."
+  - q: "Vrai / faux / on ne sait pas: каждый год город отдаёт жителям половину своего бюджета."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*la ville réserve une somme — souvent **5 %** de ses investissements* — речь о небольшой доле, а не о половине."
+  - q: "Что заместитель мэра думает об идеях жителей?"
+    options: ["Они часто конкретнее идей депутатов.", "Они слишком дорогие.", "Технические службы придумали бы то же самое."]
+    answer: 0
+    explain: "*Les idées que les habitants ont proposées sont souvent **plus concrètes que** celles des élus.* А о технических службах сказано обратное: *Aucun technicien n'aurait pensé…*"
+  - q: "Vrai / faux / on ne sait pas: туалеты возле рынка уже построены."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 2
+    explain: "Сказано только, что проект *a été voté à une large majorité* — построен ли он, в тексте не говорится."
+  - q: "Почему автор пишет *la participation **resterait** faible*, *moins de 10 % **voteraient***?"
+    options: ["Он передаёт данные исследования, не ручаясь за них.", "Он описывает, что случится при определённом условии.", "Он вежливо смягчает свою критику."]
+    answer: 0
+    explain: "Conditionnel прессы после *selon une étude* — информация из чужого источника, не подтверждённая автором."
+  - q: "Кто чаще всего голосует?"
+    options: ["молодёжь из рабочих кварталов", "руководящие работники и пенсионеры, уже занятые в общественной жизни", "все жители поровну"]
+    answer: 1
+    explain: "*la plupart d'entre eux seraient des cadres ou des retraités déjà engagés dans la vie associative.* Наоборот, *certains quartiers populaires n'ont présenté **aucun** projet*."
+  - q: "В чём мать семейства упрекает мэрию?"
+    options: ["Детскую площадку построили не там.", "Ей не сказали честно, что проект сложнее, чем обещали.", "Её проект не прошёл голосование."]
+    answer: 1
+    explain: "*Il **aurait fallu** nous dire franchement que c'était plus compliqué* — conditionnel passé выражает упрёк."
+  - q: "Какова позиция специалистов и автора?"
+    options: ["От эксперимента пора отказаться.", "Бюджет участия уже изменил общество.", "Он может изменить отношения жителей и власти, но при определённых условиях."]
+    answer: 2
+    explain: "*peut transformer la relation…, **à condition de** respecter trois règles*; в конце: *ne changera pas la société à lui seul, **à moins que**…* — позиция с оговорками."
+  - q: "Найди в тексте выражение «в случае»: ___ travaux importants, une étude préalable est obligatoire."
+    answers: ["en cas de"]
+    explain: "**en cas de** + существительное без артикля — условие без глагола."
+  - q: "Впиши союз из последнего абзаца: le budget participatif ne changera pas la société à lui seul, ___ les habitants n'y voient un vrai pouvoir de décision."
+    answers: ["à moins que"]
+    explain: "**à moins que** + subjonctif = «если только не»; *ne* перед глаголом — необязательное ne explétif книжного стиля, отрицания в нём нет."

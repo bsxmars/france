@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "В пассиве причастие согласуется с подлежащим; в se faire + infinitif — fait не меняется."
+  - "После je ne pense pas que, il est important que — subjonctif: soit, puisse, pleuve."
+items:
+  - audio: audio/tts/b-05/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Ce pont a été construit par les Romains il y a deux mille ans."]
+    explain: "«Этот мост был построен римлянами две тысячи лет назад». Пассив passé composé: *a été construit* + *par* (кем)."
+  - audio: audio/tts/b-05/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Je ne pense pas qu'il soit trop tard pour changer d'avis."]
+    explain: "«Не думаю, что уже слишком поздно передумать». Мнение в отрицании → subjonctif *soit*."
+  - audio: audio/tts/b-05/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Il est important que chacun puisse donner son opinion."]
+    explain: "«Важно, чтобы каждый мог высказать своё мнение». *Il est important que* + subjonctif: *puisse*."
+  - audio: audio/tts/b-05/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Ce vin se boit frais, de préférence avec du fromage."]
+    explain: "«Это вино пьют охлаждённым, лучше всего с сыром». Местоименный пассив: *se boit* = *est bu*, правило, привычка."
+  - audio: audio/tts/b-05/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Qu'il pleuve ou qu'il fasse beau, nous partirons demain."]
+    explain: "«Будет ли дождь или солнце, мы уезжаем завтра». Альтернатива *que… ou que…* + subjonctif: *pleuve, fasse*."
+  - audio: audio/tts/b-05/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Elle s'est fait voler son vélo devant la gare."]
+    explain: "«У неё украли велосипед у вокзала». *se faire* + infinitif — с подлежащим что-то случилось; причастие *fait* здесь не согласуется."
+  - audio: audio/tts/b-05/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Les loyers sont deux fois plus élevés qu'il y a dix ans."]
+    explain: "«Арендная плата вдвое выше, чем десять лет назад». *deux fois plus* — нюанс сравнения; *élevés* согласуется с *les loyers*."
+  - audio: audio/tts/b-05/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Plus on attend, plus la situation devient difficile."]
+    explain: "«Чем дольше ждём, тем сложнее становится ситуация». *Plus…, plus…* — без артикля и без *que*."

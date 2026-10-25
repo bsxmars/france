@@ -1,0 +1,20 @@
+# rate: -5%
+# pause: 700
+C: Alors, Lucas, raconte ! Avec qui est-ce que tu es sorti samedi soir ?
+F: Avec Emma, la fille du cours de guitare.
+C: J'en suis sûre ! Et où est-ce que vous vous êtes donné rendez-vous ?
+F: Devant le cinéma, à huit heures. Mais je me suis trompé de cinéma ! Je suis allé au Rex, et elle, elle est allée au Palace.
+C: Oh non ! Et qu'est-ce que tu as fait ?
+F: Je lui ai téléphoné, et j'ai couru jusqu'au Palace. Je suis arrivé à huit heures et quart. Elle a ri, heureusement.
+C: Et qu'est-ce que vous avez vu ?
+F: Une comédie italienne. C'est drôle : nous aimons les mêmes films ! Et même les mêmes acteurs.
+C: Et après le film ?
+F: Nous sommes sortis et nous nous sommes promenés au bord du canal. Puis nous nous sommes assis dans un petit café. Le serveur nous a servi un chocolat chaud.
+C: De quoi est-ce que vous avez parlé ?
+F: De musique, de voyages… Elle est partie un an au Japon, tu sais. Nous avons parlé pendant trois heures !
+C: Trois heures ! Et à quelle heure est-ce que vous vous êtes quittés ?
+F: À minuit et demi. Je suis rentré à pied. Et cette nuit, je n'ai pas dormi.
+C: Tu mens !
+F: Non, je ne mens pas ! Je me suis couché à une heure, mais je me suis levé à cinq heures. Je me suis senti… bizarre. Heureux, je crois.
+C: Et elle ? À qui est-ce qu'elle a parlé de toi ?
+F: Je ne sais pas. Mais ce matin, elle m'a envoyé un message : « Le même cinéma samedi prochain ? Le bon, cette fois ! »

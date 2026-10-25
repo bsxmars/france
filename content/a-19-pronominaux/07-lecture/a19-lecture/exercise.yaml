@@ -1,0 +1,54 @@
+title: "Une journée au pair"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросах с полем впиши слово или время из текста."
+hints:
+  - "Рассказ идёт по порядку дня: утро, день, вечер, среда."
+  - "je réveille les enfants ≠ je me réveille."
+text: |
+  **Chère Anna,**
+
+  Me voilà à Lyon, dans la famille Moreau ! Je suis jeune fille au pair depuis trois semaines. Tu me demandes comment se passent mes journées ? Voilà.
+
+  Je me lève à six heures et demie, avant toute la famille. Je me douche vite, je m'habille et je prépare le petit déjeuner. À sept heures, je réveille les enfants, Léo et Emma. Emma se lève tout de suite, mais Léo reste au lit, et je répète dix fois : « Léo, lève-toi ! Dépêche-toi ! » Nous mangeons ensemble, puis nous prenons le bus pour l'école. Les cours commencent à huit heures et demie.
+
+  Ensuite, j'ai du temps pour moi. Je prends le tram et je vais à l'Alliance française : j'apprends le français trois heures par jour. Maintenant, je comprends presque tout, mais je ne parle pas encore bien. Notre professeur s'appelle Hugo, il est très patient.
+
+  L'après-midi, je vais chercher les enfants à l'école et nous nous promenons au parc. Le soir, Madame Moreau rentre à sept heures, et nous commençons le dîner ensemble. Les enfants se couchent à huit heures et demie. Moi, je me couche à dix heures : je dois me lever tôt !
+
+  Le mercredi, je ne travaille pas. J'achète des souvenirs au marché et j'appelle mes parents. Ils s'inquiètent un peu, mais je m'amuse bien ici !
+
+  Et toi, comment vas-tu ? Tu te reposes un peu ?
+
+  **Je t'embrasse,**
+  **Sofia**
+items:
+  - q: "Кто такая София?"
+    options: ["учительница в Лионе", "девушка au pair в семье Моро", "дочь мадам Моро"]
+    answer: 1
+    explain: "*Je suis jeune fille au pair depuis trois semaines* — в семье Моро, в Лионе."
+  - q: "Во сколько встаёт София? ___"
+    answers: ["6 h 30", "6h30", "six heures et demie", "6:30", "à six heures et demie", "6 heures et demie"]
+    explain: "*Je **me lève** à six heures et demie, avant toute la famille.*"
+  - q: "Что София повторяет Лео?"
+    options: ["«Ложись спать!»", "«Вставай! Поторопись!»", "«Не торопись!»"]
+    answer: 1
+    explain: "*« Léo, lève-toi ! Dépêche-toi ! »* — повелительное наклонение: местоимение *toi* после глагола через дефис."
+  - q: "Как они добираются до школы?"
+    options: ["на автобусе", "на трамвае", "пешком"]
+    answer: 0
+    explain: "*nous **prenons** le bus pour l'école.* На трамвае София едет потом, на курсы."
+  - q: "Что София делает утром, когда дети в школе?"
+    options: ["гуляет в парке", "учит французский три часа в день", "покупает сувениры"]
+    answer: 1
+    explain: "*Je prends le tram et je vais à l'Alliance française : **j'apprends** le français trois heures par jour.*"
+  - q: "Как София сейчас знает французский?"
+    options: ["Понимает почти всё, но говорит ещё не очень хорошо.", "Хорошо говорит, но мало понимает.", "Пока ничего не понимает."]
+    answer: 0
+    explain: "*je **comprends** presque tout, mais je ne parle pas encore bien.*"
+  - q: "Что она делает по средам?"
+    options: ["работает с детьми весь день", "покупает сувениры и звонит родителям", "ходит на курсы"]
+    answer: 1
+    explain: "*Le mercredi, je ne travaille pas. **J'achète** des souvenirs au marché et **j'appelle** mes parents.* — *achète* с *è*, *appelle* с двумя *l*."
+  - q: "Впиши местоимение из текста: Les enfants ___ couchent à huit heures et demie."
+    answers: ["se"]
+    explain: "*Les enfants **se** couchent* — 3-е лицо мн. ч.: *se*."

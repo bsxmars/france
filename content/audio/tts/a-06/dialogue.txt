@@ -1,0 +1,12 @@
+# rate: -15%
+# pause: 800
+G: Quelle heure est-il ?
+B: Il est six heures et demie. Le train de Léa arrive à sept heures.
+G: Léa, c'est ta sœur cadette ?
+B: Non, c'est ma sœur aînée. Elle est grande, et sa valise est bleue.
+G: Et ce monsieur, là ? Le vieux monsieur avec le sac gris ?
+B: C'est mon professeur de français. Il est sérieux, mais il est distrait : il cherche son train !
+G: Et toi, tu es prêt ?
+B: Oui, je suis prêt. Et je suis heureux : ma sœur est seule à Paris, et maintenant elle est ici !
+G: Regarde, il est sept heures. Voici le train !
+B: Et voici Léa, avec sa valise bleue !

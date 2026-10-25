@@ -1,0 +1,6 @@
+# pause: 600
+H: La Nuit des musées revient ce samedi dans toute la ville. De dix-huit heures à deux heures du matin, chacun des vingt-trois musées participants vous ouvre ses portes gratuitement.
+H: Aucune réservation n'est nécessaire, sauf pour les visites guidées du musée d'Histoire naturelle, limitées à vingt-cinq personnes chacune.
+H: Des navettes relieront les différents sites toutes les quinze minutes. Les mêmes navettes vous ramèneront au centre-ville jusqu'à deux heures et demie.
+H: Nouveauté de cette édition : tout visiteur qui fera tamponner son billet dans trois musées différents recevra une affiche de l'événement, dans la limite des stocks disponibles.
+H: Attention : certains bâtiments anciens ne sont que partiellement accessibles aux personnes à mobilité réduite. Le programme complet est disponible sur le site de la ville.

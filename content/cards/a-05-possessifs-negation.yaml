@@ -46,3 +46,19 @@
   lesson: a-05-possessifs-negation/02-grammaire
   q: "«Я пишу маме» — нужен ли предлог?"
   a: "**Да**: русский дательный = **à**. *J'écris à ma mère.*"
+- id: a05-chez
+  lesson: a-05-possessifs-negation/07-lecture
+  q: "«Я в Лионе, у сестры»."
+  a: "Je suis à Lyon, **chez** ma sœur. *chez* — «у, в доме у»."
+- id: a05-son-mari
+  lesson: a-05-possessifs-negation/07-lecture
+  q: "«Её муж», «их дочь», «их дети»?"
+  a: "**son** mari, **leur** fille, **leurs** enfants."
+- id: a05-le-les-oral
+  lesson: a-05-possessifs-negation/09-ecoute
+  q: "Как на слух отличить *le livre* от *les livres*?"
+  a: "Только по артиклю: [лё] — **le**, [ле] — **les**. *-s* на конце не произносится."
+- id: a05-letter
+  lesson: a-05-possessifs-negation/08-ecriture
+  q: "Обращение и прощание в письме другу?"
+  a: "**Cher Paul / Chère Anna** … **Bisous**, Marie."

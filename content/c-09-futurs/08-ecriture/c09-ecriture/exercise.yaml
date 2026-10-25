@@ -1,0 +1,30 @@
+title: "Essai : la semaine de quatre jours, norme de demain ?"
+type: writing
+intro: "Напиши essai argumenté по плану урока."
+prompt: |
+  Plusieurs entreprises européennes expérimentent la semaine de quatre jours, sans baisse de salaire. Certains y voient l'avenir du travail, d'autres un privilège réservé à quelques métiers.
+
+  Pour le dossier « Travailler en 2050 » d'un magazine économique, vous rédigez un essai argumenté répondant à la question : « Dans vingt ans, la semaine de quatre jours sera-t-elle devenue la norme ? » Appuyez-vous sur des arguments et des exemples précis.
+
+  Напиши **220–300 слов**.
+words: [220, 300]
+target_grammar:
+  - "futur simple для прогноза; трудные формы (achètera, appellera, enverra, faudra, pourra)"
+  - "futur antérieur: завершённость к сроку (d'ici…), после quand / dès que / une fois que"
+  - "futur dans le passé (conditionnel) для прогнозов прошлого; présent в общих истинах"
+checklist:
+  - "Во вступлении — прогноз прошлого (futur dans le passé) и problématique."
+  - "Есть аргументы «за» и препятствия, каждый с конкретным примером."
+  - "Не меньше пяти разных глаголов в futur simple, из них два трудных."
+  - "Хотя бы два futur antérieur: один со сроком (d'ici…), один после quand / dès que / une fois que."
+  - "После quand / dès que о будущем нет présent."
+  - "Вывод нюансирован (не просто «да» или «нет»)."
+  - "Регистр — нейтральный письменный, связки между абзацами."
+model_answer: |
+  Il y a cinquante ans, de nombreux économistes prédisaient qu'en l'an 2000, on ne travaillerait plus que quinze heures par semaine. Cette prophétie ne s'est pas réalisée, et pourtant la question revient aujourd'hui avec force : la semaine de quatre jours sera-t-elle devenue la norme d'ici vingt ans ?
+
+  Plusieurs signes semblent l'annoncer. Les entreprises qui l'ont testée observent souvent une baisse de l'absentéisme et une productivité stable : des salariés reposés ne travaillent pas moins bien, ils travaillent autrement. De plus, la jeune génération accorde davantage d'importance au temps libre qu'à la carrière ; les employeurs qui refuseront de s'adapter auront de plus en plus de mal à recruter. Quand quelques grandes entreprises auront franchi le pas, les autres suivront, comme cela s'est produit pour le télétravail.
+
+  Il serait pourtant naïf de croire que ce modèle s'imposera partout. Un hôpital, une école ou une boulangerie ne peuvent pas fermer un jour de plus par semaine : il faudra embaucher, donc payer davantage. Dans ces secteurs, la semaine de quatre jours restera longtemps un privilège réservé aux cadres, ce qui risque de creuser les inégalités au lieu de les réduire.
+
+  Je pense donc que, dans vingt ans, le travail aura profondément changé, mais pas de façon uniforme. Certains travailleront quatre jours, d'autres choisiront des horaires à la carte, d'autres encore n'auront rien gagné du tout. Tout dépendra de la manière dont nous aurons négocié cette transition. Une chose est sûre : nos petits-enfants s'étonneront que nous ayons si longtemps pris la semaine de cinq jours pour un ordre naturel.

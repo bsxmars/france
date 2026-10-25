@@ -1,0 +1,6 @@
+# rate: -5%
+# pause: 700
+E: Et maintenant, une histoire étonnante qui s'est passée à Sherbrooke.
+E: Mardi soir, Biscuit, un petit chien blanc, avait disparu du jardin de ses maîtres, la famille Tremblay. Toute la nuit, ils l'avaient cherché dans le quartier. Ils pensaient qu'ils ne le reverraient jamais.
+E: Mercredi matin, une voisine a aperçu le chien… dans l'autobus numéro trois ! Le chauffeur a expliqué que Biscuit était monté tout seul près du parc, et qu'il paraissait parfaitement calme. Il s'était assis tranquillement près de la fenêtre, comme un vrai passager.
+E: Le chauffeur a appelé la police, qui a rapidement retrouvé la famille. Madame Tremblay a déclaré qu'elle ne laisserait plus jamais la porte du jardin ouverte.

@@ -1,0 +1,38 @@
+title: "Synthèse : faut-il sanctionner les fausses informations ?"
+type: writing
+intro: "Прочитай два документа и напиши синтез по плану урока."
+prompt: |
+  **Document 1.** *Responsabiliser les plateformes* — tribune de Jean-Marc Ferrand, juriste.
+
+  « Les fausses informations ne se propagent pas toutes seules : elles sont diffusées, amplifiées et monétisées par des plateformes dont le modèle économique repose sur l'attention. Il est temps que ces entreprises soient tenues pour responsables des contenus qu'elles mettent en avant. Une information manifestement fausse, signalée par plusieurs utilisateurs, devrait être retirée en vingt-quatre heures, sous peine d'amende. Les utilisateurs, eux, ne doivent pas être visés : on ne peut exiger de chacun qu'il vérifie tout ce qu'il lit. »
+
+  **Document 2.** *Former plutôt que punir* — entretien avec Hélène Marchal, enseignante-chercheuse en sciences de l'information.
+
+  « Chaque nouvelle loi contre les fausses nouvelles se heurte au même problème : qui décide de ce qui est faux ? Une information jugée fausse aujourd'hui peut être confirmée demain. Confier ce pouvoir aux plateformes, c'est risquer qu'elles suppriment par précaution des contenus légitimes. Je crois davantage à l'éducation : un citoyen qui s'est habitué à chercher la source d'une image se laisse beaucoup moins facilement tromper. Cela prend du temps, certes, mais c'est la seule protection durable. »
+
+  Vous rédigerez une synthèse de ces deux documents. Vous confronterez les points de vue des auteurs sans donner votre opinion personnelle et sans recopier de phrases entières. Votre texte comportera un titre.
+
+  Напиши **220–300 слов**.
+words: [220, 300]
+target_grammar:
+  - "пассив в разных временах и наклонениях; агент с par и de"
+  - "местоимённые глаголы: s'accorder sur, se heurter à, se laisser + infinitif; согласование причастия"
+  - "местоимённый пассив для обобщения: cela ne se décrète pas, cette solution se met en place"
+checklist:
+  - "Есть заголовок, отражающий проблему."
+  - "Во вступлении названы авторы, тема и проблематика."
+  - "Основная часть построена по темам (сходства, расхождения, решения), а не «документ 1, документ 2»."
+  - "Нет своего мнения, je, à mon avis и фактов, которых нет в документах."
+  - "Фразы документов перефразированы, а не скопированы."
+  - "Хотя бы три пассивные конструкции и один местоимённый пассив."
+  - "Причастия местоимённых глаголов согласованы правильно."
+model_answer: |
+  **Fausses informations : sanctionner les plateformes ou former les citoyens ?**
+
+  Face à la multiplication des fausses informations en ligne, deux réponses sont proposées : le juriste Jean-Marc Ferrand plaide pour que les plateformes soient sanctionnées, tandis que l'enseignante-chercheuse Hélène Marchal mise avant tout sur l'éducation.
+
+  Les deux auteurs s'accordent sur un point : l'usager ordinaire ne doit pas être puni. Pour le juriste, il serait irréaliste d'exiger de chaque internaute qu'il contrôle tout ce qu'il lit ; pour la chercheuse, la solution ne passe pas par la sanction, mais par l'apprentissage.
+
+  Leurs positions divergent en revanche sur le rôle des plateformes. Selon J.-M. Ferrand, ce sont elles qui assurent la diffusion des fausses nouvelles, puisque leur modèle économique est fondé sur l'attention. Elles devraient donc être contraintes de retirer en vingt-quatre heures tout contenu manifestement faux et signalé, faute de quoi elles seraient condamnées à une amende. H. Marchal, au contraire, s'inquiète d'un tel pouvoir : la frontière entre le vrai et le faux n'est pas toujours fixée une fois pour toutes, et des entreprises menacées de sanctions risqueraient d'effacer, par prudence, des contenus parfaitement légitimes.
+
+  Pour elle, la protection la plus durable est assurée par l'éducation : un citoyen qui a pris l'habitude de remonter à la source d'une image se laisse beaucoup plus difficilement tromper. Elle reconnaît toutefois qu'une telle démarche ne se met pas en place du jour au lendemain.

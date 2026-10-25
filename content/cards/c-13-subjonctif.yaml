@@ -218,3 +218,31 @@
   lesson: c-13-subjonctif/06-grammaire
   q: "ne fût-ce que, dût-il, fût-il — значения?"
   a: "*ne fût-ce que* — хотя бы; *dût-il* — даже если ему придётся; *fût-il* — будь он даже."
+- id: c13-de-peur-que-ternir
+  lesson: c-13-subjonctif/07-lecture
+  q: "«Ошибки прячут, боясь, что они запятнают карьеру»."
+  a: "On cache les erreurs **de peur qu'elles ne ternissent** une carrière."
+- id: c13-langues-se-delient
+  lesson: c-13-subjonctif/07-lecture
+  q: "«Понадобилось, чтобы заведующий сам признал ошибку, — и языки развязались»."
+  a: "**Il a fallu qu'**un chef de service **reconnaisse** lui-même une erreur **pour que les langues se délient**."
+- id: c13-tirer-une-lecon
+  lesson: c-13-subjonctif/07-lecture
+  q: "«Ошибки повторяются, и никто не извлекает из них ни малейшего урока»."
+  a: "Les erreurs se répètent **sans que personne en tire la moindre leçon**."
+- id: c13-relever-de
+  lesson: c-13-subjonctif/07-lecture
+  q: "Как сказать «это чистое лицемерие» через глагол *relever de*?"
+  a: "Cela **relève de** l'hypocrisie. (*relever de* — «относиться к, быть по сути»)"
+- id: c13-conquis-de-haute-lutte
+  lesson: c-13-subjonctif/08-ecriture
+  q: "«Право, завоёванное в тяжёлой борьбе»."
+  a: "Un droit **conquis de haute lutte**."
+- id: c13-a-titre-d-essai
+  lesson: c-13-subjonctif/09-ecoute
+  q: "«Мы в порядке эксперимента закрыли улицу для машин»."
+  a: "Nous avons fermé une rue à la circulation, **à titre d'essai**."
+- id: c13-jusqu-a-ce-que
+  lesson: c-13-subjonctif/09-ecoute
+  q: "«Она почти не выходила, пока мы не поставили скамейки»."
+  a: "Elle ne sortait presque plus **jusqu'à ce que** nous **installions** des bancs. — *jusqu'à ce que* + subjonctif."

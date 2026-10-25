@@ -1,0 +1,53 @@
+title: "Chez la fromagère"
+type: listening
+intro: "Послушай разговор в сырной лавке (дважды) и ответь на вопросы."
+hints:
+  - "pas de… — этого нет; du, de la — «сколько-то»."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/a-29/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural, fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  — Bonjour madame ! Je voudrais du fromage pour un dîner, ce soir.
+  — Bien sûr, monsieur. Vous serez combien ?
+  — Huit. Mes beaux-parents viennent dîner, et ma belle-mère adore le fromage.
+  — Alors, je vous propose un plateau : du camembert, du comté et un peu de chèvre. Notre comté a été affiné pendant dix-huit mois, il est excellent.
+  — Parfait. Et je dois prendre combien de comté ?
+  — Pour huit personnes, comptez trois cents grammes.
+  — D'accord. Ah, mais attendez : mon beau-père ne mange pas de fromage de chèvre.
+  — Pas de problème. À la place, prenez de la tomme de Savoie. Elle est plus douce.
+  — Très bien. Et vous avez du pain ?
+  — Non, désolée, nous ne vendons pas de pain. Mais la boulangerie d'en face est ouverte jusqu'à dix-neuf heures.
+  — Et pour le vin, qu'est-ce que vous me conseillez ?
+  — Avec ce plateau, un vin blanc du Jura. Tenez, ce vin nous a été conseillé par un vigneron, et je l'ai goûté hier : il est parfait. Nous vendons la bouteille douze euros.
+  — Je la prends. Je vous dois combien ?
+  — Alors, le camembert, le comté, la tomme et le vin… Ça fait trente-huit euros cinquante.
+  — Voilà. Vous acceptez la carte ?
+  — Bien sûr. Et je vous offre ces petits biscuits au fromage, pour l'apéritif !
+  — Oh, merci beaucoup ! Ma belle-mère va être contente.
+items:
+  - q: "Для чего покупатель берёт сыр?"
+    options: ["для ужина с родителями жены, на восемь человек", "для дня рождения на двадцать человек", "для пикника с детьми"]
+    answer: 0
+    explain: "*Vous serez combien ? — Huit. Mes beaux-parents viennent dîner.*"
+  - q: "Le comté a été affiné pendant ___ mois."
+    answers: ["dix-huit", "18", "dix huit"]
+    explain: "*Notre comté **a été affiné** pendant dix-huit mois* — пассив в passé composé."
+  - q: "Сколько комте нужно взять?"
+    options: ["сто граммов", "триста граммов", "восемьсот граммов"]
+    answer: 1
+    explain: "*Pour huit personnes, comptez trois cents grammes.*"
+  - q: "Почему покупатель не берёт козий сыр?"
+    options: ["Он слишком дорогой.", "Тесть не ест козий сыр.", "Его нет в лавке."]
+    answer: 1
+    explain: "*mon beau-père ne mange **pas de** fromage de chèvre* — взамен *de la tomme de Savoie*."
+  - q: "Где купить хлеб?"
+    options: ["в этой же лавке", "в булочной напротив, до 19 часов", "в супермаркете рядом"]
+    answer: 1
+    explain: "*nous ne vendons **pas de** pain. Mais la boulangerie d'en face est **ouverte** jusqu'à dix-neuf heures.*"
+  - q: "La bouteille de vin coûte ___ euros."
+    answers: ["douze", "12"]
+    explain: "*Nous vendons la bouteille douze euros.* Весь заказ — 38,50 €."
+  - q: "Что продавщица дарит покупателю?"
+    options: ["бутылку вина", "кусочек комте", "сырное печенье к аперитиву"]
+    answer: 2
+    explain: "*je vous **offre** ces petits biscuits au fromage, pour l'apéritif !* (*offrir → je vous offre*)"

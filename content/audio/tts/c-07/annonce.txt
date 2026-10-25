@@ -1,0 +1,5 @@
+# pause: 600
+E: Avis aux usagers du métro. En raison de travaux de modernisation, aucune rame ne circulera sur la ligne orange entre les stations Gare-Centrale et Université, du samedi vingt-deux heures au lundi cinq heures du matin.
+E: Un service d'autobus de remplacement sera offert toutes les cinq minutes. Ne vous présentez pas aux portes de la station Université : l'arrêt temporaire se trouve rue Sainte-Anne, devant la bibliothèque.
+E: Veuillez noter que les vélos ne sont acceptés que dans les autobus munis d'un support, et seulement en dehors des heures de pointe.
+E: Nous vous conseillons de prévoir au moins vingt minutes de plus pour vos déplacements. Les titres de transport habituels restent valides : aucun supplément ne vous sera demandé.

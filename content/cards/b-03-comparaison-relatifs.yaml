@@ -134,3 +134,19 @@
   lesson: b-03-comparaison-relatifs/04-grammaire
   q: "«Она ему не доверяет» (*se méfier de*): о журналисте и о соцсетях."
   a: "О человеке — *Elle se méfie **de lui***. О предмете — *Elle s'**en** méfie*."
+- id: b03-revers
+  lesson: b-03-comparaison-relatifs/07-lecture
+  q: "«Обратная сторона медали»?"
+  a: "**le revers de la médaille**."
+- id: b03-se-loger
+  lesson: b-03-comparaison-relatifs/07-lecture
+  q: "«Местной молодёжи труднее найти жильё»."
+  a: "Les jeunes du coin ont **plus de mal à se loger**."
+- id: b03-autant-que
+  lesson: b-03-comparaison-relatifs/09-ecoute
+  q: "«Люди приходят и поговорить, и за хлебом — в равной мере»."
+  a: "Les gens y viennent **autant pour** discuter **que pour** acheter du pain."
+- id: b03-certes-mais
+  lesson: b-03-comparaison-relatifs/08-ecriture
+  q: "Как ввести уступку в аргументации?"
+  a: "**Certes…, mais…** / **Il est vrai que…, pourtant…**"

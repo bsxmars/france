@@ -1,87 +1,779 @@
 sentence_id	audio_id	words	fr	ru	username	license	attribution_url
+3094	473636	4	Qu'est-ce que c'est ?	Что это? | Это что? | Что это такое?	vlecomte	CC BY-SA 4.0	
+3250	472591	3	Je t'aime !	Я люблю тебя! | Я тебя люблю. | Я тебя люблю! | Я люблю тебя.	vlecomte	CC BY-SA 4.0	
+3252	474287	3	Je suis curieux.	Я любопытный.	vlecomte	CC BY-SA 4.0	
+3509	474288	3	Personne n'est venu.	Никто не пришёл.	vlecomte	CC BY-SA 4.0	
+3525	472592	4	Je suis fatigué !	Я устал. | Я устал!	vlecomte	CC BY-SA 4.0	
+3574	474289	5	Je meurs de faim !	Я проголодался! | Умираю от голода! | Умираю от голода. | Умираю с голоду!	vlecomte	CC BY-SA 4.0	
+6031	474290	5	À qui le tour ?	Чья очередь? | Кто следующий?	vlecomte	CC BY-SA 4.0	
+6733	474291	4	J'allais à la maison.	Я шёл домой. | Я шла домой.	vlecomte	CC BY-SA 4.0	
+6810	474292	5	J'ai eu de la chance.	Мне повезло.	vlecomte	CC BY-SA 4.0	
+6818	474293	4	J'ai vu un chien.	Я видел собаку. | Я увидел собаку.	vlecomte	CC BY-SA 4.0	
+6948	474294	3	Je suis boulanger.	Я пекарь.	vlecomte	CC BY-SA 4.0	
+7064	474295	4	Je suis au régime.	Я на диете. | Я сижу на диете.	vlecomte	CC BY-SA 4.0	
+7070	473637	3	Je l'ai acheté.	Я его купил.	vlecomte	CC BY-SA 4.0	
+7230	474296	3	Je skie souvent.	Я часто катаюсь на лыжах. | Я часто хожу на лыжах.	vlecomte	CC BY-SA 4.0	
+7244	474297	3	J'adore le golf.		vlecomte	CC BY-SA 4.0	
+7555	474298	3	J'aime les chiens.	Я люблю собак.	vlecomte	CC BY-SA 4.0	
+8509	472594	3	Je pars maintenant.		vlecomte	CC BY-SA 4.0	
+8742	473638	3	Comment vas-tu ?	Как дела? | Как поживаешь?	vlecomte	CC BY-SA 4.0	
+9149	474299	3	L'argent est roi.		vlecomte	CC BY-SA 4.0	
+9336	472596	3	Tout va bien.	Всё в порядке. | Всё хорошо. | Всё нормально.	vlecomte	CC BY-SA 4.0	
+9390	472597	3	Amuse-toi bien !		vlecomte	CC BY-SA 4.0	
+9971	472024	4	C'est le trois octobre.	Сегодня третье октября. | Это третье октября.	vlecomte	CC BY-SA 4.0	
+10149	472598	3	C'est affreux !	Это ужасно!	vlecomte	CC BY-SA 4.0	
+10191	474300	3	Tout est calme.	Всё спокойно.	vlecomte	CC BY-SA 4.0	
+11610	472602	3	Entre donc !		vlecomte	CC BY-SA 4.0	
+11619	473640	3	Nous voilà !	А вот и мы! | Вот и мы.	vlecomte	CC BY-SA 4.0	
+12910	472604	3	Quelle profondeur ?	Какая глубина?	vlecomte	CC BY-SA 4.0	
+13254	472057	5	Aimes-tu les vins français ?	Ты любишь французские вина?	vlecomte	CC BY-SA 4.0	
+13583	473642	5	Fais-le encore une fois !	Переделай! | Сделай это ещё раз!	vlecomte	CC BY-SA 4.0	
+13640	472606	3	Il est tard.	Поздно.	vlecomte	CC BY-SA 4.0	
+13849	474301	5	Je suis à la maison.	Я дома.	vlecomte	CC BY-SA 4.0	
+13850	472607	3	Je suis célibataire.	Я холостяк. | Я холост.	vlecomte	CC BY-SA 4.0	
+14077	472058	3	Parlez-vous français ?	Вы говорите по-французски?	vlecomte	CC BY-SA 4.0	
 14314	472059	6	Je ne sais pas parler français.	Я не говорю по-французски.	vlecomte	CC BY-SA 4.0	
+14672	472610	3	Pas touche !	Не трожь! | Не трогать!	vlecomte	CC BY-SA 4.0	
+14703	473643	4	J'y suis également allé.	Я тоже пошёл. | Я тоже туда ходил. | Я тоже туда пошёл. | Я тоже туда поехал.	vlecomte	CC BY-SA 4.0	
+14818	474302	3	J'aime le rock.	Я люблю рок.	vlecomte	CC BY-SA 4.0	
+15000	473644	4	N'y prête pas attention.	Не обращай на это внимания. | Не обращай внимания.	vlecomte	CC BY-SA 4.0	
+15286	474303	3	Es-tu occupé ?	Ты занят?	vlecomte	CC BY-SA 4.0	
+15362	473645	3	Il peut venir.	Он может прийти.	vlecomte	CC BY-SA 4.0	
+15385	472060	4	Il savait parler français.	Он умел говорить по-французски.	vlecomte	CC BY-SA 4.0	
+15441	472611	3	Je vais essayer.	Я попробую. | Я постараюсь.	vlecomte	CC BY-SA 4.0	
+127763	474304	4	J'ai confiance en lui.	Я ему доверяю.	vlecomte	CC BY-SA 4.0	
+129554	473648	3	Ne crie pas.	Не кричи.	vlecomte	CC BY-SA 4.0	
+129651	474306	4	Le temps est couvert.	Погода облачная. | Облачно.	vlecomte	CC BY-SA 4.0	
+131349	472061	4	Il apprendra le français.		vlecomte	CC BY-SA 4.0	
+131603	473649	3	Il sait nager.	Он умеет плавать.	vlecomte	CC BY-SA 4.0	
+133336	473650	3	Il était occupé.	Он был занят.	vlecomte	CC BY-SA 4.0	
+133512	473651	4	Il se mit debout.	Он встал. | Он поднялся.	vlecomte	CC BY-SA 4.0	
+133648	472062	5	Elle nous apprend le français.	Она преподаёт нам французский.	vlecomte	CC BY-SA 4.0	
+135171	474307	4	Je suis si heureux.	Я так счастлив.	vlecomte	CC BY-SA 4.0	
+135241	474308	3	Es-tu sûr ?	Ты уверен? | Уверен?	vlecomte	CC BY-SA 4.0	
+135525	472617	3	Faites attention !	Осторожно! | Будьте осторожны!	vlecomte	CC BY-SA 4.0	
+136188	472063	4	L'avion décolla à 2h30.	Самолёт взлетел в 2:30.	vlecomte	CC BY-SA 4.0	
+181335	472620	3	Voilà cinq dollars.	Вот пять долларов.	vlecomte	CC BY-SA 4.0	
+237220	473652	3	Pas de problème.	Это не проблема. | Нет проблем.	vlecomte	CC BY-SA 4.0	
+330352	472621	4	Je suis sérieux !	Я серьёзно!	vlecomte	CC BY-SA 4.0	
+335910	472064	5	Il parle le français couramment.	Он свободно говорит по-французски.	vlecomte	CC BY-SA 4.0	
+338203	472623	3	J'ai sommeil !	Я спать хочу!	vlecomte	CC BY-SA 4.0	
+374631	472626	3	Ça alors !	Ничего себе!	vlecomte	CC BY-SA 4.0	
 393406	472065	8	Comment s'est passé le cours de français ?	Как прошёл урок французского?	vlecomte	CC BY-SA 4.0	
+394991	473653	3	Nous voici !	Вот и мы. | А вот и мы!	vlecomte	CC BY-SA 4.0	
+402746	473654	5	Comment est la vie ?	Как жизнь?	vlecomte	CC BY-SA 4.0	
+403910	472628	5	Va te faire foutre !	Пошёл на хуй! | Пошла на хуй!	vlecomte	CC BY-SA 4.0	
+405497	472629	3	Je me tire.	Я пошёл.	vlecomte	CC BY-SA 4.0	
+421775	474311	4	La télé est allumée.	Телевизор включён.	vlecomte	CC BY-SA 4.0	
+423591	472630	3	Je la connais.	Я знаю ее. | Я с ней знаком. | Я с ней знакома. | Я её знаю.	vlecomte	CC BY-SA 4.0	
+426718	472632	3	Fais attention !	Осторожно! | Будь осторожен! | Будь осторожна!	vlecomte	CC BY-SA 4.0	
+427776	474312	5	Je suis en bonne santé.	Я здоров. | Я здорова.	vlecomte	CC BY-SA 4.0	
+429278	474313	3	Je suis marié.	Я женат.	vlecomte	CC BY-SA 4.0	
+429827	473655	4	Tu es nouveau ?	Ты новенький?	vlecomte	CC BY-SA 4.0	
 432721	471445	7	Je lis un livre sur les animaux.	Я читаю книгу про животных. | Я читаю книгу о животных.	vlecomte	CC BY-SA 4.0	
+435467	474314	3	J'aime les maths.	Я люблю математику. | Мне нравится математика.	vlecomte	CC BY-SA 4.0	
+440770	474315	3	J'aime les chats.	Я люблю кошек. | Люблю кошек. | Я люблю котов.	vlecomte	CC BY-SA 4.0	
+451548	472066	5	Il parle couramment le français.	Он бегло говорит по-французски.	vlecomte	CC BY-SA 4.0	
+452302	474316	3	Tu dois partir.	Ты должен идти.	vlecomte	CC BY-SA 4.0	
+452847	474317	3	J'ai dit ça.	Я так сказал. | Я это сказал.	vlecomte	CC BY-SA 4.0	
+453692	474318	4	Tu dois t'en aller.	Ты должен уйти.	vlecomte	CC BY-SA 4.0	
+457527	473657	3	Le temps s'enfuit.	Время бежит.	vlecomte	CC BY-SA 4.0	
+457739	474319	5	Je me fie à toi.		vlecomte	CC BY-SA 4.0	
+457991	472636	4	Qui s'en préoccupe ?	Кому какое дело?	vlecomte	CC BY-SA 4.0	
+459079	474320	3	J'aime les gâteaux.	Я люблю пирожные.	vlecomte	CC BY-SA 4.0	
+461370	472637	3	Ne bougez pas.	Не двигайтесь. | Не шевелитесь.	vlecomte	CC BY-SA 4.0	
+461371	472638	3	Ne bouge pas.	Не двигайся. | Не шевелись.	vlecomte	CC BY-SA 4.0	
+463489	472639	3	Laisse-moi partir !	Отпусти меня! | Пусти меня! | Дай мне уйти! | Позволь мне уйти!	vlecomte	CC BY-SA 4.0	
+463490	472640	3	Laissez-moi partir !	Отпустите меня! | Пустите меня! | Дайте мне уйти! | Позвольте мне уйти!	vlecomte	CC BY-SA 4.0	
+463990	474323	4	J'ai confiance en toi.		vlecomte	CC BY-SA 4.0	
+464796	474324	3	Êtes-vous perdu ?	Вы заблудились? | Вы потерялись?	vlecomte	CC BY-SA 4.0	
+464797	474325	3	Êtes-vous perdus ?	Вы заблудились? | Вы потерялись?	vlecomte	CC BY-SA 4.0	
+464798	474326	3	Êtes-vous perdues ?	Вы заблудились? | Вы потерялись?	vlecomte	CC BY-SA 4.0	
+464800	474327	3	Es-tu perdu ?	Ты потерялся? | Ты заблудился?	vlecomte	CC BY-SA 4.0	
+465012	472643	3	Tourne à gauche.	Поверни налево.	vlecomte	CC BY-SA 4.0	
+465921	473658	4	Je me sens bien.	Я чувствую себя хорошо.	vlecomte	CC BY-SA 4.0	
+468625	472644	3	Nous avons chaud.	Нам жарко.	vlecomte	CC BY-SA 4.0	
+473057	472646	4	Regarde derrière toi !	Оглянись! | Посмотри назад!	vlecomte	CC BY-SA 4.0	
+475822	472067	3	Parle-t-elle français ?	Она говорит по-французски?	vlecomte	CC BY-SA 4.0	
+487333	472068	5	Sait-il parler le français ?	Может ли он говорить по-французски?	vlecomte	CC BY-SA 4.0	
+487334	472069	5	Aimez-vous les vins français ?		vlecomte	CC BY-SA 4.0	
+487335	472070	4	Il parle le français.	Он говорит по-французски.	vlecomte	CC BY-SA 4.0	
+487336	472071	4	Son épouse est française.	У него жена - француженка.	vlecomte	CC BY-SA 4.0	
 487337	472072	7	Je ne sais pas lire le français.	Я не умею читать по-французски.	vlecomte	CC BY-SA 4.0	
 487338	472073	6	Qui vous enseigne le français ?	Кто преподаёт вам французский? | Кто у вас французский ведёт? | Кто у вас французский преподаёт?	vlecomte	CC BY-SA 4.0	
+487342	472074	5	Je veux apprendre le français.	Я хочу выучить французский. | Я хочу изучать французский.	vlecomte	CC BY-SA 4.0	
+495009	473663	4	Ne t'en fais pas.	Не бери в голову.	vlecomte	CC BY-SA 4.0	
+495011	473664	5	Ne vous en faites pas.	Не беспокойтесь.	vlecomte	CC BY-SA 4.0	
+514471	474329	3	C'est une poupée.	Это кукла.	vlecomte	CC BY-SA 4.0	
+519939	472652	4	Je suis repu !	Я наелся!	vlecomte	CC BY-SA 4.0	
+531271	472653	3	Je le vis.	Я видел его. | Я его видел.	vlecomte	CC BY-SA 4.0	
 532360	472654	7	Va voir ailleurs si j'y suis !	Катись отсюда. | Иди отсюда. | Иди гуляй.	vlecomte	CC BY-SA 4.0	
+546633	474330	3	Je suis sidéré.	Я ошеломлён. | Я ошарашен. | Я потрясён.	vlecomte	CC BY-SA 4.0	
+560653	472655	3	Essayez de nouveau.	Попробуйте ещё раз.	vlecomte	CC BY-SA 4.0	
+564436	474331	3	C'est quoi ?	Это что?	vlecomte	CC BY-SA 4.0	
+564437	474332	4	C'est quoi, ça ?	Это что такое?	vlecomte	CC BY-SA 4.0	
+566633	472025	5	Nous sommes le trois octobre.	Сегодня третье октября.	vlecomte	CC BY-SA 4.0	
+575836	472658	3	Tu as essayé.	Ты попробовал. | Ты попытался.	vlecomte	CC BY-SA 4.0	
+575837	472659	3	Vous avez essayé.	Вы попробовали. | Вы попытались.	vlecomte	CC BY-SA 4.0	
+587173	472075	4	Il parle français couramment.	Он бегло говорит по-французски. | Он свободно говорит по-французски.	vlecomte	CC BY-SA 4.0	
+591724	472661	3	Je suis revenu.	Я вернулся.	vlecomte	CC BY-SA 4.0	
+628205	472662	3	C'est vrai !	Точно! | Верно!	vlecomte	CC BY-SA 4.0	
+628256	472663	4	Je suis rassasié !		vlecomte	CC BY-SA 4.0	
+679463	473667	3	Va dormir !	Иди спать. | Иди спать!	vlecomte	CC BY-SA 4.0	
+716558	473668	4	Ne vous inquiétez pas.	Не беспокойтесь. | Не волнуйтесь.	vlecomte	CC BY-SA 4.0	
+722690	472665	3	Ne quittez pas.	Не кладите трубку.	vlecomte	CC BY-SA 4.0	
+759531	474336	3	J'ai la dalle.		vlecomte	CC BY-SA 4.0	
+761130	472667	4	Je me sens mal.	Я плохо себя чувствую.	vlecomte	CC BY-SA 4.0	
+781003	472669	3	J'ai été malade.	Я болел. | Я болела. | Я был болен. | Я была больна.	vlecomte	CC BY-SA 4.0	
+788104	472670	4	J'ai besoin de vous.	Вы нужны мне.	vlecomte	CC BY-SA 4.0	
+788882	472671	3	Je te déteste.	Я тебя ненавижу.	vlecomte	CC BY-SA 4.0	
+791155	474337	4	Vous êtes malade !	Вы больны! | Вы больной! | Вы больная!	vlecomte	CC BY-SA 4.0	
 794536	472672	6	Il est trois heures et demie.	Сейчас половина четвёртого. | Сейчас полчетвёртого. | Сейчас три тридцать.	vlecomte	CC BY-SA 4.0	
+795730	472674	3	Garde ton calme.	Сохраняй спокойствие.	vlecomte	CC BY-SA 4.0	
+795731	472675	3	Garde ton sang-froid.		vlecomte	CC BY-SA 4.0	
+821565	472677	3	Il est vieux.	Он старый.	vlecomte	CC BY-SA 4.0	
+825119	473670	3	Ce n'est rien.	Да ничего. | Ничего страшного.	vlecomte	CC BY-SA 4.0	
+827301	472678	3	Je te hais.	Я тебя ненавижу.	vlecomte	CC BY-SA 4.0	
+829101	474340	4	Tu es fou !	Ты с ума сошёл! | С ума сошёл!	vlecomte	CC BY-SA 4.0	
+863545	473671	3	Ne fumez pas.	Не курите.	vlecomte	CC BY-SA 4.0	
+885684	474342	4	À qui est-ce ?	Чьё это? | Это чьё?	vlecomte	CC BY-SA 4.0	
+890290	473672	3	Je suis cuisinier.	Я повар.	vlecomte	CC BY-SA 4.0	
+896702	472685	3	Regarde derrière !		vlecomte	CC BY-SA 4.0	
+896705	472686	3	Voyons voir !		vlecomte	CC BY-SA 4.0	
+896851	472687	3	J'en fais usage.		vlecomte	CC BY-SA 4.0	
+905744	472076	3	Elle est française.	Она француженка.	vlecomte	CC BY-SA 4.0	
+920649	472688	5	Je m'en suis bien sorti.		vlecomte	CC BY-SA 4.0	
+928547	472690	4	À tes souhaits !		vlecomte	CC BY-SA 4.0	
+934633	472691	3	Les chiens aboient.	Собаки лают.	vlecomte	CC BY-SA 4.0	
+942309	472692	3	Je suis calme.	Я спокоен. | Я спокойна.	vlecomte	CC BY-SA 4.0	
+945671	473673	4	Nous y voilà !	Вот мы и пришли. | А вот и мы!	vlecomte	CC BY-SA 4.0	
+962547	474343	3	J'en veux davantage.	Я хочу ещё.	vlecomte	CC BY-SA 4.0	
+962548	474344	3	Je veux davantage.	Я хочу большего. | Я хочу ещё.	vlecomte	CC BY-SA 4.0	
+967179	472696	3	Ne mens pas.	Не ври.	vlecomte	CC BY-SA 4.0	
+970080	474345	5	Je ne suis pas triste.	Мне не грустно. | Я не грустный.	vlecomte	CC BY-SA 4.0	
+972095	472697	3	Je suis ivre.	Я пьян. | Я пьяна. | Я пьяный. | Я пьяная.	vlecomte	CC BY-SA 4.0	
+987753	474346	3	J'y suis opposé.	Я против этого.	vlecomte	CC BY-SA 4.0	
+987754	474347	3	Je m'y oppose.	Я против. | Я против этого. | Я возражаю.	vlecomte	CC BY-SA 4.0	
+998651	473674	4	Je peux le faire.	Я могу это сделать.	vlecomte	CC BY-SA 4.0	
+1002965	473675	3	Il peut lire.	Он может читать. | Он умеет читать.	vlecomte	CC BY-SA 4.0	
+1021617	473677	4	Fais-le de nouveau !	Переделай! | Сделай это ещё раз!	vlecomte	CC BY-SA 4.0	
+1021623	473678	4	Fais-le à nouveau !	Переделай! | Сделай это ещё раз!	vlecomte	CC BY-SA 4.0	
+1021624	473679	4	Faites-le de nouveau !	Переделайте! | Сделайте это ещё раз!	vlecomte	CC BY-SA 4.0	
+1021625	473680	4	Faites-le à nouveau !	Переделайте! | Сделайте это ещё раз!	vlecomte	CC BY-SA 4.0	
+1031677	472077	3	Parles-tu français ?	Ты говоришь по-французски?	vlecomte	CC BY-SA 4.0	
+1054096	474349	3	Je serai présent.		vlecomte	CC BY-SA 4.0	
+1071284	473682	5	Ne t'en va pas !	Не уходи!	vlecomte	CC BY-SA 4.0	
+1071285	473683	4	Ne pars pas !	Не уходи! | Не уезжай!	vlecomte	CC BY-SA 4.0	
+1079117	472078	5	Elle nous enseigne le français.		vlecomte	CC BY-SA 4.0	
+1084010	474351	3	Quel boulet !		vlecomte	CC BY-SA 4.0	
+1086386	473686	4	Qui a téléphoné ?	Кто звонил?	vlecomte	CC BY-SA 4.0	
+1098718	474352	3	Il est là.	Он здесь. | Он тут.	vlecomte	CC BY-SA 4.0	
+1111977	473687	5	Ne le fais pas !	Не делай этого! | Не делай этого.	vlecomte	CC BY-SA 4.0	
+1111978	473688	5	Ne le faites pas !	Не делайте этого!	vlecomte	CC BY-SA 4.0	
+1112026	473689	3	Continue en avant.		vlecomte	CC BY-SA 4.0	
+1112106	474353	5	Ça ne sert à rien.	Это никуда не годится. | Это ничего не даст. | От этого никакой пользы.	vlecomte	CC BY-SA 4.0	
+1112153	474354	3	Es-tu sourd ?	Ты глухой?	vlecomte	CC BY-SA 4.0	
+1112155	474355	3	Êtes-vous sourd ?	Вы глухой?	vlecomte	CC BY-SA 4.0	
+1112172	474356	3	T'es-tu blessé ?		vlecomte	CC BY-SA 4.0	
+1112173	474357	3	Es-tu blessé ?	Ты ранен? | Тебя ранило?	vlecomte	CC BY-SA 4.0	
+1112176	474358	3	Êtes-vous blessé ?	Вы ранены? | Вас ранило?	vlecomte	CC BY-SA 4.0	
+1112177	474359	3	Êtes-vous blessés ?	Вы ранены? | Вас ранило?	vlecomte	CC BY-SA 4.0	
+1112178	474360	3	Êtes-vous blessées ?	Вы ранены? | Вас ранило?	vlecomte	CC BY-SA 4.0	
+1112179	474361	3	Êtes-vous blessée ?	Вы ранены? | Вас ранило?	vlecomte	CC BY-SA 4.0	
+1112180	474362	4	Vous êtes-vous blessé ?		vlecomte	CC BY-SA 4.0	
+1112181	474363	4	Vous êtes-vous blessée ?		vlecomte	CC BY-SA 4.0	
+1112182	474364	4	Vous êtes-vous blessés ?		vlecomte	CC BY-SA 4.0	
+1112183	474365	4	Vous êtes-vous blessées ?		vlecomte	CC BY-SA 4.0	
+1112215	474366	3	C'est pas bon.	Это плохо.	vlecomte	CC BY-SA 4.0	
+1112217	474367	4	Ce n'est pas bon.	Это плохо.	vlecomte	CC BY-SA 4.0	
+1114953	472079	4	Tom vient de Boston.	Том из Бостона.	vlecomte	CC BY-SA 4.0	
 1114985	472080	7	Tom est allé à Boston avec Mary.	Том поехал в Бостон с Мэри.	vlecomte	CC BY-SA 4.0	
+1116859	474368	4	Je devais y aller.	Я должен был пойти. | Я должен был поехать. | Я должен был туда пойти. | Я должен был туда поехать.	vlecomte	CC BY-SA 4.0	
+1118943	474369	4	On s'y met !	За дело!	vlecomte	CC BY-SA 4.0	
+1119164	474370	3	J'arriverai à entrer.		vlecomte	CC BY-SA 4.0	
+1121067	473690	4	Je mange des fruits.	Я ем фрукты.	vlecomte	CC BY-SA 4.0	
+1121071	472707	3	Je suis gras.		vlecomte	CC BY-SA 4.0	
+1121073	472708	3	Je suis gros.	Я толстый.	vlecomte	CC BY-SA 4.0	
+1121171	474371	3	Vous êtes bon.	Вы добрый.	vlecomte	CC BY-SA 4.0	
+1121173	474372	3	Vous êtes bonne.	Вы добрая.	vlecomte	CC BY-SA 4.0	
+1121174	474373	3	Vous êtes bons.	Вы хорошие. | Вы добрые.	vlecomte	CC BY-SA 4.0	
+1121175	474374	3	Vous êtes bonnes.	Вы хорошие. | Вы добрые.	vlecomte	CC BY-SA 4.0	
+1121176	474375	3	Tu es bon.	Ты хороший. | Ты добрый.	vlecomte	CC BY-SA 4.0	
+1121177	474376	3	Tu es bonne.	Ты хорошая. | Ты добрая.	vlecomte	CC BY-SA 4.0	
 1127444	472081	6	Où as-tu appris le français ?		vlecomte	CC BY-SA 4.0	
+1133774	472710	3	Je suis paresseux.	Я ленивый. | Я лентяй.	vlecomte	CC BY-SA 4.0	
+1133775	472711	3	Je suis fainéant.	Я ленивый. | Я лентяй.	vlecomte	CC BY-SA 4.0	
+1134692	473691	3	Cuisine pour moi.		vlecomte	CC BY-SA 4.0	
+1135518	473692	3	Il se dressa.	Он встал.	vlecomte	CC BY-SA 4.0	
+1140526	474380	3	J'ai été licencié.	Я был уволен. | Меня уволили.	vlecomte	CC BY-SA 4.0	
+1141333	474382	3	J'ai été viré.	Я был уволен. | Меня уволили.	vlecomte	CC BY-SA 4.0	
+1141334	474383	3	On m'a saqué.		vlecomte	CC BY-SA 4.0	
+1144450	473693	3	Il devint vieux.	Он постарел. | Он состарился. | Он стал старый.	vlecomte	CC BY-SA 4.0	
+1146962	472082	5	Tom veut partir pour Boston.	Том хочет уехать в Бостон.	vlecomte	CC BY-SA 4.0	
 1147003	472083	8	Tom a gagné un voyage gratuit à Boston.	Том выиграл бесплатную поездку в Бостон.	vlecomte	CC BY-SA 4.0	
+1147175	473694	3	Pouvons-nous parler ?	Мы можем поговорить?	vlecomte	CC BY-SA 4.0	
 1147649	472084	6	Tom passa trois semaines à Boston.		vlecomte	CC BY-SA 4.0	
 1147650	472085	6	Tom parle le français avec fluidité.		vlecomte	CC BY-SA 4.0	
+1148020	472712	3	J'ai trente ans.	Мне тридцать лет.	vlecomte	CC BY-SA 4.0	
+1153645	472713	3	Je le veux.	Я этого хочу.	vlecomte	CC BY-SA 4.0	
+1153648	472086	4	Tom habite à Boston.	Том живёт в Бостоне.	vlecomte	CC BY-SA 4.0	
+1153665	474385	3	Qui es-tu ?	Ты кто? | Кто ты? | Кто ты такая? | Ты кто такой? | Ты кто такая?	vlecomte	CC BY-SA 4.0	
+1153666	474386	3	Qui êtes-vous ?	Кто вы? | Вы кто? | Вы кто такая? | Вы кто такой? | Кто Вы такая? | Кто Вы такой? | Вы кто такие? | Кто вы такие? | Кто Вы?	vlecomte	CC BY-SA 4.0	
+1156512	857061	4	Tu es malade !	Ты больной! | Ты больная! | Ты болен! | Ты больна!	vlecomte	CC BY-SA 4.0	
+1156517	857060	4	Vous êtes malade !	Вы больны! | Вы больной! | Вы больная!	vlecomte	CC BY-SA 4.0	
+1157520	474389	3	Quel cinglé !		vlecomte	CC BY-SA 4.0	
+1157539	474390	3	Quel malheur !	Какое несчастье!	vlecomte	CC BY-SA 4.0	
+1158356	472715	3	Restez là !	Оставайтесь здесь. | Останьтесь здесь.	vlecomte	CC BY-SA 4.0	
+1158571	473695	4	Qui est là ?	Кто там?	vlecomte	CC BY-SA 4.0	
+1159111	474391	3	Êtes-vous sourde ?	Вы глухая?	vlecomte	CC BY-SA 4.0	
+1159113	474392	3	Es-tu sourde ?	Ты глухая?	vlecomte	CC BY-SA 4.0	
+1159123	474395	3	T'y rendras-tu ?	Ты пойдёшь? | Ты туда пойдёшь? | Ты поедешь?	vlecomte	CC BY-SA 4.0	
+1159124	474396	4	Vous y rendrez-vous ?	Вы туда пойдёте? | Вы поедете? | Вы пойдёте?	vlecomte	CC BY-SA 4.0	
+1159398	473696	5	Je vous prie de m'excuser.	Прошу прощения. | Прошу вас меня извинить. | Прошу меня извинить.	vlecomte	CC BY-SA 4.0	
+1159532	474397	3	Vous appartient-il ?		vlecomte	CC BY-SA 4.0	
+1170187	474398	3	A-t-il raison ?		vlecomte	CC BY-SA 4.0	
+1171008	472087	4	Sais-tu parler français ?	Ты говоришь по-французски?	vlecomte	CC BY-SA 4.0	
+1181159	474399	3	Es-tu malade ?	Ты болен? | Ты больна? | Ты болеешь? | Ты больная? | Ты больной?	vlecomte	CC BY-SA 4.0	
 1181416	472088	7	Tom ne veut pas vivre à Boston.	Том не хочет жить в Бостоне.	vlecomte	CC BY-SA 4.0	
+1181459	472089	5	Tom ne parle pas français.	Том не говорит по-французски.	vlecomte	CC BY-SA 4.0	
+1181577	472717	3	Je suis certain.	Я убеждён.	vlecomte	CC BY-SA 4.0	
+1190536	474400	4	Je sens le gaz.	Я чувствую запах газа.	vlecomte	CC BY-SA 4.0	
+1197639	473697	3	Étudie avec application.	Учись прилежно.	vlecomte	CC BY-SA 4.0	
+1197640	473698	3	Étudiez avec application.	Учитесь прилежно.	vlecomte	CC BY-SA 4.0	
+1243788	474401	3	Êtes-vous occupé ?	Вы заняты?	vlecomte	CC BY-SA 4.0	
+1243789	474402	3	Êtes-vous occupée ?	Вы заняты?	vlecomte	CC BY-SA 4.0	
+1243790	474403	3	Es-tu occupé ?	Ты занят?	vlecomte	CC BY-SA 4.0	
+1243791	474404	3	Es-tu occupée ?	Ты занята?	vlecomte	CC BY-SA 4.0	
+1250744	474405	4	Es-tu chez toi ?	Ты дома? | Ты у себя?	vlecomte	CC BY-SA 4.0	
+1250747	474406	4	Êtes-vous chez vous ?	Вы дома?	vlecomte	CC BY-SA 4.0	
+1250751	474407	4	Es-tu chez nous ?		vlecomte	CC BY-SA 4.0	
+1250754	474408	4	Es-tu chez moi ?		vlecomte	CC BY-SA 4.0	
+1250757	474409	4	Êtes-vous chez nous ?		vlecomte	CC BY-SA 4.0	
+1250760	474410	4	Êtes-vous chez moi ?		vlecomte	CC BY-SA 4.0	
+1250766	474411	5	Es-tu à la maison ?	Ты дома?	vlecomte	CC BY-SA 4.0	
+1250768	474412	5	Êtes-vous à la maison ?	Вы дома?	vlecomte	CC BY-SA 4.0	
+1259578	473703	3	Il est haï.		vlecomte	CC BY-SA 4.0	
+1260189	474413	3	C'est un renard.	Это лиса. | Это лис. | Это лисица.	vlecomte	CC BY-SA 4.0	
 1266921	472090	14	Tom a consenti à être là à 2:30, mais il ne l'est pas encore.		vlecomte	CC BY-SA 4.0	
+1275473	472722	3	Venez ici !	Идите сюда!	vlecomte	CC BY-SA 4.0	
+1291350	473704	3	Êtes-vous fou ?	Вы ненормальный? | Вы не в себе? | Вы сумасшедший?	vlecomte	CC BY-SA 4.0	
+1291351	473705	3	Es-tu folle ?	Ты ненормальная?	vlecomte	CC BY-SA 4.0	
+1291352	473706	3	Êtes-vous folle ?	Вы не в себе? | Вы ненормальная? | Вы сумасшедшая?	vlecomte	CC BY-SA 4.0	
+1291357	473707	3	Restez tranquille !		vlecomte	CC BY-SA 4.0	
+1291359	473708	3	Laissez-moi sortir !	Выпустите меня! | Дайте мне выйти.	vlecomte	CC BY-SA 4.0	
 1291381	473709	7	Tu peux me compter dans le nombre.		vlecomte	CC BY-SA 4.0	
+1293462	471446	5	Faites de l'exercice à l'extérieur.	Делайте зарядку на улице.	vlecomte	CC BY-SA 4.0	
+1293485	474414	4	Regarde autour de toi.	Посмотри вокруг себя. | Оглядись.	vlecomte	CC BY-SA 4.0	
+1293486	474415	4	Regardez autour de vous.	Посмотрите вокруг себя. | Оглядитесь.	vlecomte	CC BY-SA 4.0	
+1300841	474416	4	J'y suis allé, également.	Я тоже пошёл.	vlecomte	CC BY-SA 4.0	
+1300842	474417	4	J'y suis allé aussi.	Я тоже пошёл. | Я тоже поехал. | Я тоже туда пошёл. | Я тоже туда поехал.	vlecomte	CC BY-SA 4.0	
+1302575	474418	3	J'ai du temps.	У меня есть время.	vlecomte	CC BY-SA 4.0	
+1308985	473711	5	Il n'est pas chez lui.	Его нет дома. | Дома его нет. | Он не дома.	vlecomte	CC BY-SA 4.0	
+1308992	473712	5	Il n'est pas à l'intérieur.		vlecomte	CC BY-SA 4.0	
+1309178	473713	4	Il n'est pas là.	Его нет. | Его тут нет.	vlecomte	CC BY-SA 4.0	
+1313541	472725	3	Je sais courir.	Я умею бегать.	vlecomte	CC BY-SA 4.0	
+1313545	472726	4	Ne parlez pas !	Не разговаривайте!	vlecomte	CC BY-SA 4.0	
+1313551	473714	4	Il a des tripes.		vlecomte	CC BY-SA 4.0	
+1313552	473715	4	Je suis plus grand.		vlecomte	CC BY-SA 4.0	
+1313556	474419	5	Je vais aller le chercher.	Я схожу за ним.	vlecomte	CC BY-SA 4.0	
+1313557	474420	3	J'irai le chercher.	Я схожу за ним.	vlecomte	CC BY-SA 4.0	
+1313560	474421	3	C'est mon métier.		vlecomte	CC BY-SA 4.0	
+1313561	474422	3	C'est mon emploi.	Это моя работа.	vlecomte	CC BY-SA 4.0	
+1313563	474423	4	La vie est amusante.		vlecomte	CC BY-SA 4.0	
+1313567	474424	4	Viens, s'il te plait.	Приходи, пожалуйста.	vlecomte	CC BY-SA 4.0	
+1313569	474425	4	S'il te plait, viens.	Приходи, пожалуйста.	vlecomte	CC BY-SA 4.0	
+1313571	474426	4	Venez, je vous prie.		vlecomte	CC BY-SA 4.0	
+1313593	472727	3	Essaie de nouveau.	Попробуй ещё раз.	vlecomte	CC BY-SA 4.0	
+1313930	474428	4	Quelqu'un est-il là ?		vlecomte	CC BY-SA 4.0	
+1313931	474429	4	Y a-t-il quelqu'un ?	Тут есть кто? | Там кто-то есть? | Там кто-нибудь есть? | Тут кто-то есть? | Тут кто-нибудь есть?	vlecomte	CC BY-SA 4.0	
 1313933	474430	7	Y a-t-il quelqu'un dans la maison ?	Кто-нибудь дома? | В доме кто-то есть?	vlecomte	CC BY-SA 4.0	
+1330216	472728	5	Prends soin de toi !		vlecomte	CC BY-SA 4.0	
+1331417	474431	3	Bien calculé !		vlecomte	CC BY-SA 4.0	
+1331430	474432	3	Pile poil !		vlecomte	CC BY-SA 4.0	
+1331436	474433	3	Moins une !		vlecomte	CC BY-SA 4.0	
+1331440	474434	3	Tout juste !		vlecomte	CC BY-SA 4.0	
+1331452	474435	4	Pile à l'heure !		vlecomte	CC BY-SA 4.0	
 1368042	472091	9	Elle était censée l'appeler à deux heures et demie.		vlecomte	CC BY-SA 4.0	
 1368043	472092	8	Elle était censée l'appeler à quatorze heures trente.		vlecomte	CC BY-SA 4.0	
+1407082	474436	3	C'est le mien.	Это моё. | Это мой.	vlecomte	CC BY-SA 4.0	
+1407083	474437	3	C'est la mienne.	Это моя.	vlecomte	CC BY-SA 4.0	
+1407088	474438	4	Tu es en retard.	Ты опоздал.	vlecomte	CC BY-SA 4.0	
+1407090	474439	4	Vous êtes en retard.	Вы опоздали.	vlecomte	CC BY-SA 4.0	
+1446923	473716	4	Va chez toi, maintenant.	Иди сейчас домой. | Иди сейчас же домой. | Сейчас же иди домой.	vlecomte	CC BY-SA 4.0	
+1446924	473717	4	Va chez nous, maintenant.		vlecomte	CC BY-SA 4.0	
+1446925	473718	5	Va à la maison, maintenant.	Иди сейчас домой. | Иди сейчас же домой. | Сейчас же иди домой.	vlecomte	CC BY-SA 4.0	
+1446932	473719	4	Allez chez vous, maintenant.	Идите сейчас домой. | Идите сейчас же домой. | Сейчас же идите домой.	vlecomte	CC BY-SA 4.0	
+1446933	473720	5	Allez à la maison, maintenant.	Идите сейчас домой. | Идите сейчас же домой. | Сейчас же идите домой.	vlecomte	CC BY-SA 4.0	
+1446969	472093	5	Elle parle aussi le français.	Она и по-французски говорит.	vlecomte	CC BY-SA 4.0	
+1446970	472094	4	Elle parle également français.	Она и по-французски говорит.	vlecomte	CC BY-SA 4.0	
+1446973	472095	4	Il parle également français.	Он также говорит на французском. | Он и по-французски говорит.	vlecomte	CC BY-SA 4.0	
 1451610	472096	7	Y a-t-il un zoo à Boston ?	В Бостоне есть зоопарк?	vlecomte	CC BY-SA 4.0	
+1453695	474440	3	Nous y sommes.	Приехали.	vlecomte	CC BY-SA 4.0	
+1461711	474441	4	Devrais-je y aller ?	Мне пойти?	vlecomte	CC BY-SA 4.0	
+1461712	474442	3	Devrais-je partir ?	Мне уйти?	vlecomte	CC BY-SA 4.0	
+1462324	474443	4	Tu me fais mal.	Ты делаешь мне больно.	vlecomte	CC BY-SA 4.0	
+1462325	474444	4	Vous me faites mal.	Вы делаете мне больно.	vlecomte	CC BY-SA 4.0	
+1482964	474445	3	Je devrais partir.		vlecomte	CC BY-SA 4.0	
+1482965	474446	4	Je devrais y aller.		vlecomte	CC BY-SA 4.0	
+1495923	473725	3	Êtes-vous Tom ?	Вы Том?	vlecomte	CC BY-SA 4.0	
 1495926	473726	6	Est-ce que tu es Tom ?	Ты Том?	vlecomte	CC BY-SA 4.0	
+1511133	474447	4	Pas un geste !		vlecomte	CC BY-SA 4.0	
+1521173	472732	3	Te tracasse pas.	Не переживай.	vlecomte	CC BY-SA 4.0	
+1521174	472733	3	Vous tracassez pas.	Не переживайте.	vlecomte	CC BY-SA 4.0	
+1521175	472734	4	Ne te tracasse pas.	Не переживай.	vlecomte	CC BY-SA 4.0	
+1521177	472735	4	Ne vous tracassez pas.	Не переживайте.	vlecomte	CC BY-SA 4.0	
+1554037	473727	3	Avons-nous terminé ?		vlecomte	CC BY-SA 4.0	
+1554063	473728	4	Arrives-tu à voir ?	Тебе видно?	vlecomte	CC BY-SA 4.0	
+1554064	473729	4	Arrivez-vous à voir ?	Вам видно?	vlecomte	CC BY-SA 4.0	
+1554065	473730	3	Viens le chercher.	Сходи за ним.	vlecomte	CC BY-SA 4.0	
 1578717	472097	6	Tom a une amie à Boston.	У Тома подруга в Бостоне. | У Тома есть подруга в Бостоне.	vlecomte	CC BY-SA 4.0	
+1586561	473732	3	Il est endormi.		vlecomte	CC BY-SA 4.0	
+1619342	472741	3	Ils ont gagné.	Они победили. | Они выиграли.	vlecomte	CC BY-SA 4.0	
+1619343	472742	3	Elles ont gagné.	Они победили. | Они выиграли. | Они победили! | Они выиграли!	vlecomte	CC BY-SA 4.0	
+1628636	473733	3	Reste malin !		vlecomte	CC BY-SA 4.0	
+1630024	474448	3	Continue à essayer.	Продолжай попытки.	vlecomte	CC BY-SA 4.0	
+1630026	474449	3	Continuez à essayer.	Продолжайте попытки.	vlecomte	CC BY-SA 4.0	
+1633880	474450	3	Nous nous ennuyons.	Нам скучно.	vlecomte	CC BY-SA 4.0	
+1643838	473734	3	Tom va bien.		vlecomte	CC BY-SA 4.0	
 1644494	472098	7	Tom devrait être de retour avant 2h30.		vlecomte	CC BY-SA 4.0	
+1658098	474452	3	J'ai été crédule.	Я был легковерен. | Я была легковерна. | Я был доверчив. | Я была доверчива.	vlecomte	CC BY-SA 4.0	
+1658101	474453	3	J'ai été naïf.	Я был наивен.	vlecomte	CC BY-SA 4.0	
+1672982	473737	4	Ne tire pas !	Не стреляй! | Не стреляй.	vlecomte	CC BY-SA 4.0	
+1672984	473738	4	Ne tirez pas !	Не стреляйте. | Не стреляйте!	vlecomte	CC BY-SA 4.0	
+1675420	474455	3	Es-tu perdue ?	Ты потерялась?	vlecomte	CC BY-SA 4.0	
+1675421	474456	3	Êtes-vous perdue ?	Вы заблудились? | Вы потерялись?	vlecomte	CC BY-SA 4.0	
+1679316	474457	3	Cela ira-t-il ?		vlecomte	CC BY-SA 4.0	
+1679317	474458	3	Cela passera-t-il ?	Это подойдёт?	vlecomte	CC BY-SA 4.0	
+1684547	473739	4	Je peux y arriver.	Я справлюсь.	vlecomte	CC BY-SA 4.0	
+1684548	473740	4	Je peux y parvenir.		vlecomte	CC BY-SA 4.0	
+1684549	473741	4	J'arrive à le faire.		vlecomte	CC BY-SA 4.0	
+1684734	474459	3	Est-ce légal ?	Это законно?	vlecomte	CC BY-SA 4.0	
+1719439	473742	3	Quelle journée !	Какой день! | Что за день!	vlecomte	CC BY-SA 4.0	
+1721724	474460	3	Je suis gavé.		vlecomte	CC BY-SA 4.0	
+1722466	474461	3	Personne ne vint.	Никто не пришёл.	vlecomte	CC BY-SA 4.0	
+1737714	474462	3	Quel bordel !	Какой бардак! | Ну и бардак! | Ну и бедлам!	vlecomte	CC BY-SA 4.0	
+1737715	474463	3	Quelle pagaille !	Какой бардак! | Ну и бардак!	vlecomte	CC BY-SA 4.0	
+1776457	473743	3	Ne ris pas.	Не смейся! | Не смейся.	vlecomte	CC BY-SA 4.0	
+1776458	473744	3	Ne riez pas.	Не смейтесь! | Не смейтесь.	vlecomte	CC BY-SA 4.0	
+1776460	474464	3	Qu'est-ce là ?		vlecomte	CC BY-SA 4.0	
+1784680	474465	3	Je t'ai sauvé.	Я тебя спас.	vlecomte	CC BY-SA 4.0	
+1784681	474466	3	Je t'ai sauvée.	Я тебя спас.	vlecomte	CC BY-SA 4.0	
+1784682	474467	4	Je vous ai sauvé.	Я Вас спас.	vlecomte	CC BY-SA 4.0	
+1784684	474468	4	Je vous ai sauvée.	Я Вас спас.	vlecomte	CC BY-SA 4.0	
+1784685	474469	4	Je vous ai sauvées.	Я вас спас.	vlecomte	CC BY-SA 4.0	
+1784687	474470	4	Je vous ai sauvés.	Я вас спас.	vlecomte	CC BY-SA 4.0	
+1792109	474472	3	Je t'ai aimé.	Я тебя полюбил.	vlecomte	CC BY-SA 4.0	
+1792110	474473	3	Je t'ai aimée.	Я тебя полюбил.	vlecomte	CC BY-SA 4.0	
+1793175	474474	3	Prenez place !	Садитесь!	vlecomte	CC BY-SA 4.0	
+1793176	474475	3	Prends place !	Садись.	vlecomte	CC BY-SA 4.0	
+1800098	474476	4	Nous nous sommes séparés.	Мы расстались.	vlecomte	CC BY-SA 4.0	
+1800642	474477	3	Laisse-moi t'aider !	Дай я тебе помогу! | Давай я тебе помогу. | Позволь, я тебе помогу.	vlecomte	CC BY-SA 4.0	
+1800643	474478	4	Laissez-moi vous aider !	Дайте я вам помогу! | Давайте я вам помогу. | Позвольте мне помочь вам. | Позвольте мне Вам помочь.	vlecomte	CC BY-SA 4.0	
+1801949	474479	3	J'adore les enfants.	Я обожаю детей.	vlecomte	CC BY-SA 4.0	
+1803603	473747	3	Aide-moi à sortir.	Помоги мне выйти.	vlecomte	CC BY-SA 4.0	
+1803604	473748	3	Aidez-moi à sortir.	Помогите мне выйти.	vlecomte	CC BY-SA 4.0	
 1815946	474481	6	Je ne suis pas un héros.	Я не герой.	vlecomte	CC BY-SA 4.0	
+1830978	472744	4	Je suis touché !		vlecomte	CC BY-SA 4.0	
+1839359	472745	5	Je me suis senti mal.	Я почувствовал себя плохо.	vlecomte	CC BY-SA 4.0	
+1842640	472746	3	Êtes-vous debout ?	Вы стоите?	vlecomte	CC BY-SA 4.0	
+1842805	473749	5	Je n'arrive pas à voir.		vlecomte	CC BY-SA 4.0	
 1842807	473750	6	Je ne parviens pas à voir.		vlecomte	CC BY-SA 4.0	
+1843065	472747	3	Je l'ai fait.	Я это сделал. | Я сделал это. | Я сделала это. | Я это сделала.	vlecomte	CC BY-SA 4.0	
+1844482	474484	4	Qu'est-ce que c'était ?	Что это было?	vlecomte	CC BY-SA 4.0	
+1844483	474485	4	De quoi s'agissait-il ?		vlecomte	CC BY-SA 4.0	
+1844484	474486	3	Qu'y avait-il ?		vlecomte	CC BY-SA 4.0	
+1845905	474487	3	Prends une carte.	Возьми карту. | Бери карту.	vlecomte	CC BY-SA 4.0	
+1845906	474488	3	Prenez une carte.	Возьмите карту. | Берите карту.	vlecomte	CC BY-SA 4.0	
+1845924	472754	5	Dépêche-toi d'aller chez toi !	Иди скорей домой. | Беги скорей домой.	vlecomte	CC BY-SA 4.0	
+1845925	472755	5	Dépêchez-vous d'aller chez vous !	Идите скорей домой. | Бегите скорей домой.	vlecomte	CC BY-SA 4.0	
+1845932	472756	4	Allez vous échauffer !		vlecomte	CC BY-SA 4.0	
 1848567	472099	8	Je veux que tu voles vers Boston, demain.	Я хочу, чтобы ты завтра полетел в Бостон.	vlecomte	CC BY-SA 4.0	
 1848569	472100	8	Je veux que vous voliez vers Boston, demain.	Я хочу, чтобы вы завтра полетели в Бостон.	vlecomte	CC BY-SA 4.0	
+1849911	472757	4	Reste allongée, immobile !	Лежи спокойно и не двигайся! | Оставайся лежать неподвижно!	vlecomte	CC BY-SA 4.0	
+1849912	472758	4	Restez allongé, immobile !		vlecomte	CC BY-SA 4.0	
+1849915	472759	4	Restez allongée, immobile !		vlecomte	CC BY-SA 4.0	
+1849916	472760	4	Restez allongés, immobiles !		vlecomte	CC BY-SA 4.0	
+1849921	472761	4	Attendez un peu !	Подождите немного!	vlecomte	CC BY-SA 4.0	
+1850041	472762	3	Soyez prudente !		vlecomte	CC BY-SA 4.0	
+1850043	472763	3	Soyez prudentes !		vlecomte	CC BY-SA 4.0	
+1850045	472764	3	Arrêtez ça !	Прекратите это! | Прекратите!	vlecomte	CC BY-SA 4.0	
+1852254	472765	4	Restez en arrière !		vlecomte	CC BY-SA 4.0	
+1852400	473752	4	Attends une seconde !	Подожди секундочку.	vlecomte	CC BY-SA 4.0	
+1852401	473753	4	Attendez une seconde !	Подождите секундочку.	vlecomte	CC BY-SA 4.0	
+1861310	472101	5	Tom a vécu à Boston.	Том жил в Бостоне.	vlecomte	CC BY-SA 4.0	
+1882251	474491	3	J'ai eu tort.	Я ошибся. | Я ошиблась.	vlecomte	CC BY-SA 4.0	
+1895032	474492	3	C'est du poison.	Это яд.	vlecomte	CC BY-SA 4.0	
 1902554	472026	7	Spoutnik fut lancé le quatre octobre mille-neuf-cent-cinquante-sept.	Спутник был запущен четвёртого октября тысяча девятьсот пятьдесят седьмого года.	vlecomte	CC BY-SA 4.0	
 1902555	472027	7	Spoutnik fut lancé le quatre octobre dix-neuf-cent-cinquante-sept.	Спутник был запущен четвёртого октября тысяча девятьсот пятьдесят седьмого года.	vlecomte	CC BY-SA 4.0	
 1908024	472102	7	Tom devrait être de retour pour 2h30.		vlecomte	CC BY-SA 4.0	
+1908791	472767	3	Je le trouvai.	Я его нашла. | Я его нашёл.	vlecomte	CC BY-SA 4.0	
+1916590	472768	3	Sois calme !	Спокойно! | Не дёргайся! | Будь спокоен. | Будь спокойна.	vlecomte	CC BY-SA 4.0	
+1916597	472769	3	Soyez juste !	Будьте справедливы.	vlecomte	CC BY-SA 4.0	
+1916598	472770	3	Soyez justes !	Будьте справедливы.	vlecomte	CC BY-SA 4.0	
+1921930	472772	4	Il est temps !	Пора!	vlecomte	CC BY-SA 4.0	
+1922200	472775	3	Essayez ceci !	Попробуйте это. | Примерьте это.	vlecomte	CC BY-SA 4.0	
+1924396	474493	4	Je déteste le sable.	Ненавижу песок.	vlecomte	CC BY-SA 4.0	
+1924397	474494	4	Je hais le sable.	Я ненавижу песок.	vlecomte	CC BY-SA 4.0	
+1924505	473754	5	Je me suis senti idiot.	Я почувствовал себя идиотом.	vlecomte	CC BY-SA 4.0	
+1927919	473755	4	Comme c'est curieux !	Как любопытно! | Любопытно.	vlecomte	CC BY-SA 4.0	
+1935638	472779	4	Laisse-moi m'en aller !	Отпусти меня! | Дай мне уйти! | Позволь мне уйти!	vlecomte	CC BY-SA 4.0	
+1935639	472780	4	Laissez-moi m'en aller !	Отпустите меня! | Пустите меня! | Дайте мне уйти! | Позвольте мне уйти!	vlecomte	CC BY-SA 4.0	
+1942210	474495	5	Chantez, je vous prie !	Спойте, пожалуйста! | Спойте, пожалуйста.	vlecomte	CC BY-SA 4.0	
+1942211	474496	5	S'il te plaît, chante !	Спой, пожалуйста.	vlecomte	CC BY-SA 4.0	
+1942214	474497	5	S'il vous plaît, chantez !	Спойте, пожалуйста! | Спойте, пожалуйста.	vlecomte	CC BY-SA 4.0	
+1958238	473756	4	Cela peut-il attendre ?	Это может подождать?	vlecomte	CC BY-SA 4.0	
+1958821	473757	3	Es-tu triste ?	Тебе грустно?	vlecomte	CC BY-SA 4.0	
+1958824	472781	5	Appelle à la maison !	Позвони домой.	vlecomte	CC BY-SA 4.0	
+1973025	472784	3	Tenez ceci !	Подержите это.	vlecomte	CC BY-SA 4.0	
+1973026	472785	3	Tiens ceci !	Подержи это.	vlecomte	CC BY-SA 4.0	
+1973295	472786	3	Tenez bon !	Держитесь!	vlecomte	CC BY-SA 4.0	
+1973298	472787	3	Attrapez ça !	Ловите! | Ловите это.	vlecomte	CC BY-SA 4.0	
+1973304	472788	4	Allez le chercher !	Сходите за ним.	vlecomte	CC BY-SA 4.0	
+1973318	472789	4	Trouve un emploi !	Найди работу.	vlecomte	CC BY-SA 4.0	
+1973320	472790	4	Trouvez un emploi !	Найдите работу!	vlecomte	CC BY-SA 4.0	
+1973431	472791	3	Laissez tomber !	Бросьте. | Бросьте! | Забейте!	vlecomte	CC BY-SA 4.0	
+1973434	472792	3	Laissez-le tomber !	Бросьте!	vlecomte	CC BY-SA 4.0	
+1973444	472793	3	Viens bientôt !	Приходи скорей!	vlecomte	CC BY-SA 4.0	
+1973445	472794	3	Venez bientôt !	Приходите скорее!	vlecomte	CC BY-SA 4.0	
+1973460	472795	4	Venez chez moi !	Идите ко мне! | Приходите ко мне.	vlecomte	CC BY-SA 4.0	
+1980379	474498	3	T'es dingue !		vlecomte	CC BY-SA 4.0	
+1980382	474499	4	Vous êtes dingue !		vlecomte	CC BY-SA 4.0	
+1980384	474500	4	Vous êtes dingues !		vlecomte	CC BY-SA 4.0	
+1980387	474501	3	T'es givré !		vlecomte	CC BY-SA 4.0	
+1980389	474502	3	T'es givrée !		vlecomte	CC BY-SA 4.0	
+1980391	474503	4	Vous êtes givré !		vlecomte	CC BY-SA 4.0	
+1980394	474504	4	Vous êtes givrée !		vlecomte	CC BY-SA 4.0	
+1980396	474505	4	Vous êtes givrés !		vlecomte	CC BY-SA 4.0	
+1980397	474506	4	Vous êtes givrées !		vlecomte	CC BY-SA 4.0	
+1985736	472797	3	Tom est mort.	Том умер. | Том мёртв.	vlecomte	CC BY-SA 4.0	
+1996239	472802	4	Ne meurs pas !	Не умирай!	vlecomte	CC BY-SA 4.0	
+1996249	473758	4	Ne pars pas !	Не уезжай! | Не уходи. | Не уходи!	vlecomte	CC BY-SA 4.0	
+1996251	473759	4	Ne partez pas !	Не уезжайте! | Не уходите!	vlecomte	CC BY-SA 4.0	
+1996330	472803	3	Je dois partir.	Мне надо уйти. | Мне надо уехать. | Я должен уйти. | Я должен уехать. | Мне надо идти. | Я должна уйти. | Я должна уехать.	vlecomte	CC BY-SA 4.0	
 1997649	471447	6	Je ne vous ai jamais vue.	Я никогда Вас не видел. | Я никогда Вас не видела.	vlecomte	CC BY-SA 4.0	
 1999784	472804	6	Tom est en train de travailler.	Том работает.	vlecomte	CC BY-SA 4.0	
+2005257	472805	3	Ai-je gagné ?	Я выиграл? | Я победил?	vlecomte	CC BY-SA 4.0	
+2005260	472806	4	Qui est mort ?	Кто умер?	vlecomte	CC BY-SA 4.0	
+2005264	472807	3	Pouvons-nous partir ?	Мы можем идти? | Мы можем уходить? | Мы можем уйти?	vlecomte	CC BY-SA 4.0	
+2008100	472808	3	Nous l'avons vue.	Мы видели её. | Мы её видели.	vlecomte	CC BY-SA 4.0	
+2013783	472809	3	Demande à Tom.	Спроси у Тома.	vlecomte	CC BY-SA 4.0	
+2015430	472103	5	Tom est parti pour Boston.	Том уехал в Бостон.	vlecomte	CC BY-SA 4.0	
 2015818	472104	9	Je veux un rapport complet avant quatorze heures trente.		vlecomte	CC BY-SA 4.0	
 2043945	472028	7	Elle lui rendit visite le 20 octobre.	Она навестила его двадцатого октября. | Она навестила её двадцатого октября.	vlecomte	CC BY-SA 4.0	
 2043949	472029	8	Elle lui a rendu visite le 20 octobre.	Она навестила его двадцатого октября. | Она навестила её двадцатого октября.	vlecomte	CC BY-SA 4.0	
 2046021	472105	7	Est-ce que vous parlez tous français ?	Вы все говорите по-французски?	vlecomte	CC BY-SA 4.0	
 2046065	472106	9	Je pensais que j'avais jusqu'à deux heures et demie.		vlecomte	CC BY-SA 4.0	
 2046174	472107	10	Tom a dit qu'il appellerait à deux heures et demie.	Том сказал, что позвонит полтретьего. | Том сказал, что позвонит в половине третьего.	vlecomte	CC BY-SA 4.0	
+2076643	472108	4	Parlez-vous tous français ?	Вы все говорите по-французски?	vlecomte	CC BY-SA 4.0	
+2077413	472810	3	Sois gentille !	Будь любезна!	vlecomte	CC BY-SA 4.0	
+2077414	472811	3	Soyez gentil !	Будьте любезны!	vlecomte	CC BY-SA 4.0	
+2077415	472812	3	Soyez gentille !	Будьте любезны!	vlecomte	CC BY-SA 4.0	
+2077426	472813	4	Continuez à rouler !		vlecomte	CC BY-SA 4.0	
+2077438	472817	3	Employez ceci !		vlecomte	CC BY-SA 4.0	
+2077456	473761	4	Ne jubilez pas !	Не радуйтесь! | Не торжествуйте!	vlecomte	CC BY-SA 4.0	
+2077457	473762	4	Ne jubile pas !	Не радуйся! | Не торжествуй!	vlecomte	CC BY-SA 4.0	
+2083708	472818	5	À la bonne heure !	Вот и отлично!	vlecomte	CC BY-SA 4.0	
+2084348	474507	4	Je suis trop gros.		vlecomte	CC BY-SA 4.0	
+2092670	472819	4	Demande à n'importe qui.	Спроси у кого-нибудь.	vlecomte	CC BY-SA 4.0	
+2102180	474508	3	Personne n'est mort.	Никто не умер.	vlecomte	CC BY-SA 4.0	
+2109448	474509	4	Est-ce le vôtre ?	Это ваш? | Он ваш?	vlecomte	CC BY-SA 4.0	
+2109449	474510	4	Est-ce le tien ?	Это твой? | Он твой?	vlecomte	CC BY-SA 4.0	
+2109450	474511	4	Est-ce la tienne ?	Это твоя? | Она твоя?	vlecomte	CC BY-SA 4.0	
+2109451	474512	4	Est-ce la vôtre ?	Это ваша? | Она ваша?	vlecomte	CC BY-SA 4.0	
+2109533	472820	3	Nous avons discuté.		vlecomte	CC BY-SA 4.0	
+2109541	472821	3	Nous nous entretînmes.		vlecomte	CC BY-SA 4.0	
+2109545	474516	3	Nous avons survécu.	Мы выжили.	vlecomte	CC BY-SA 4.0	
+2109559	474517	3	Nous nous souvenons.	Мы помним. | Мы вспоминаем.	vlecomte	CC BY-SA 4.0	
+2109560	474518	4	Nous nous en souvenons.		vlecomte	CC BY-SA 4.0	
+2109568	474519	3	Nous avons promis.	Мы обещали. | Мы пообещали.	vlecomte	CC BY-SA 4.0	
+2109573	472823	3	Nous avons perdu.	Мы проиграли.	vlecomte	CC BY-SA 4.0	
+2109608	474520	3	Nous sommes jumeaux.	Мы близнецы.	vlecomte	CC BY-SA 4.0	
+2109610	474521	3	Nous sommes fatigués.	Мы устали.	vlecomte	CC BY-SA 4.0	
+2109615	474522	3	Nous sommes coincés.	Мы застряли.	vlecomte	CC BY-SA 4.0	
+2109628	474523	3	Nous sommes désolés.	Нам жаль.	vlecomte	CC BY-SA 4.0	
+2113257	473763	5	Demande à n'importe qui !	Спроси кого хочешь! | Спроси кого угодно!	vlecomte	CC BY-SA 4.0	
+2113258	473764	5	Demandez à n'importe qui !	Спросите кого хотите! | Спросите кого угодно!	vlecomte	CC BY-SA 4.0	
+2113285	473765	3	Soyez créatives !		vlecomte	CC BY-SA 4.0	
+2113286	473766	3	Soyez créatifs !		vlecomte	CC BY-SA 4.0	
+2113287	473767	3	Soyez créative !		vlecomte	CC BY-SA 4.0	
+2113288	473768	3	Soyez créatif !		vlecomte	CC BY-SA 4.0	
+2113290	473769	3	Sois créative !		vlecomte	CC BY-SA 4.0	
+2113291	473770	3	Sois créatif !	Будь креативным.	vlecomte	CC BY-SA 4.0	
+2113292	473771	3	Sois discret !	Будь осмотрителен.	vlecomte	CC BY-SA 4.0	
+2113293	473772	3	Sois discrète !		vlecomte	CC BY-SA 4.0	
+2113294	473773	3	Soyez discret !		vlecomte	CC BY-SA 4.0	
+2113295	473774	3	Soyez discrète !		vlecomte	CC BY-SA 4.0	
+2113296	473775	3	Soyez discrets !		vlecomte	CC BY-SA 4.0	
+2113297	473776	3	Soyez discrètes !		vlecomte	CC BY-SA 4.0	
+2113299	473777	3	Soyez amicales !	Будьте дружелюбны!	vlecomte	CC BY-SA 4.0	
+2113300	473778	3	Soyez amicaux !	Будьте дружелюбны!	vlecomte	CC BY-SA 4.0	
+2113301	473779	3	Soyez amicale !	Будьте дружелюбны! | Будьте дружелюбной.	vlecomte	CC BY-SA 4.0	
+2113302	473780	3	Soyez amical !	Будьте дружелюбны! | Будьте дружелюбным.	vlecomte	CC BY-SA 4.0	
+2113303	473781	3	Sois amicale !	Будь дружелюбна. | Будь дружелюбной.	vlecomte	CC BY-SA 4.0	
+2113304	473782	3	Sois amical !	Будь дружелюбен. | Будь дружелюбным.	vlecomte	CC BY-SA 4.0	
+2113307	473783	3	Sois clément !	Будь милосерден.	vlecomte	CC BY-SA 4.0	
+2113310	473784	3	Sois clémente !	Будь милосердна.	vlecomte	CC BY-SA 4.0	
+2113311	473785	3	Soyez clément !	Будьте милосердны.	vlecomte	CC BY-SA 4.0	
+2113312	473786	3	Soyez cléments !	Будьте милосердны.	vlecomte	CC BY-SA 4.0	
+2113313	473787	3	Soyez clémente !	Будьте милосердны.	vlecomte	CC BY-SA 4.0	
+2113315	473788	3	Soyez clémentes !	Будьте милосердны.	vlecomte	CC BY-SA 4.0	
+2113317	473789	3	Soyez miséricordieuse !	Будьте милосердны.	vlecomte	CC BY-SA 4.0	
+2113318	473790	3	Soyez miséricordieux !	Будьте милосердны.	vlecomte	CC BY-SA 4.0	
+2113319	473791	3	Sois miséricordieuse !	Будь милосердна.	vlecomte	CC BY-SA 4.0	
+2113320	473792	3	Sois miséricordieux !	Будь милосерден.	vlecomte	CC BY-SA 4.0	
+2113324	473793	3	Sois prêt !	Будь готов!	vlecomte	CC BY-SA 4.0	
+2113325	473794	3	Tiens-toi prêt !	Будь готов!	vlecomte	CC BY-SA 4.0	
+2113326	473795	3	Sois prête !	Будь готова!	vlecomte	CC BY-SA 4.0	
+2113327	473796	3	Soyez prêt !	Будьте готовы!	vlecomte	CC BY-SA 4.0	
+2113328	473797	3	Soyez prête !	Будьте готовы!	vlecomte	CC BY-SA 4.0	
+2113329	473798	3	Soyez prêts !	Будьте готовы!	vlecomte	CC BY-SA 4.0	
+2113330	473799	3	Soyez prêtes !	Будьте готовы!	vlecomte	CC BY-SA 4.0	
+2113331	473800	3	Tiens-toi prête !	Будь готова!	vlecomte	CC BY-SA 4.0	
+2113332	473801	3	Tenez-vous prêt !	Будьте готовы!	vlecomte	CC BY-SA 4.0	
+2113333	473802	3	Tenez-vous prête !	Будьте готовы!	vlecomte	CC BY-SA 4.0	
+2113334	473803	3	Tenez-vous prêts !	Будьте готовы!	vlecomte	CC BY-SA 4.0	
+2113335	473804	3	Tenez-vous prêtes !	Будьте готовы!	vlecomte	CC BY-SA 4.0	
+2114307	473805	3	Soyez ponctuelles !	Будьте пунктуальны. | Приходите вовремя. | Не опаздывайте.	vlecomte	CC BY-SA 4.0	
+2114308	473806	3	Soyez ponctuelle !	Будьте пунктуальны. | Приходите вовремя. | Не опаздывайте.	vlecomte	CC BY-SA 4.0	
+2114309	473807	3	Soyez ponctuels !	Будьте пунктуальны. | Приходите вовремя. | Не опаздывайте.	vlecomte	CC BY-SA 4.0	
+2114310	473808	3	Soyez ponctuel !	Будьте пунктуальны. | Приходите вовремя. | Не опаздывайте.	vlecomte	CC BY-SA 4.0	
+2114311	473809	3	Sois ponctuel !	Будь пунктуален. | Приходи вовремя. | Не опаздывай.	vlecomte	CC BY-SA 4.0	
+2114312	473810	3	Sois ponctuelle !	Будь пунктуальна. | Приходи вовремя. | Не опаздывай.	vlecomte	CC BY-SA 4.0	
+2114319	473811	3	Soyez impitoyable !	Будьте безжалостны. | Будьте беспощадны.	vlecomte	CC BY-SA 4.0	
+2114320	473812	3	Soyez impitoyables !	Будьте безжалостны. | Будьте беспощадны.	vlecomte	CC BY-SA 4.0	
+2114321	473813	3	Sois impitoyable !	Будь безжалостен. | Будь беспощаден. | Будь безжалостна. | Будь беспощадна.	vlecomte	CC BY-SA 4.0	
+2114340	473814	3	Soyez raisonnable !	Будьте благоразумны.	vlecomte	CC BY-SA 4.0	
+2114341	473815	3	Soyez raisonnables !	Будьте благоразумны.	vlecomte	CC BY-SA 4.0	
+2114342	473816	3	Sois raisonnable !	Будь благоразумен. | Будь благоразумна.	vlecomte	CC BY-SA 4.0	
+2134243	472824	4	Je me porte bien.		vlecomte	CC BY-SA 4.0	
+2144545	472825	4	Ne pleure pas !	Не плачь. | Не реви. | Не плачь!	vlecomte	CC BY-SA 4.0	
 2163790	472109	7	Je croyais que Tom était de Boston.	Я думал, Том из Бостона.	vlecomte	CC BY-SA 4.0	
+2163959	472826	3	Puis-je partir ?	Мне можно идти?	vlecomte	CC BY-SA 4.0	
+2163960	472827	4	Puis-je y aller ?	Можно мне пойти? | Мне можно туда пойти?	vlecomte	CC BY-SA 4.0	
+2186750	474525	3	Sommes-nous fauchés ?	Мы разорены? | Мы банкроты? | Мы на мели? | Мы нищие?	vlecomte	CC BY-SA 4.0	
+2190151	472828	3	C'est le sien.	Это её. | Это его.	vlecomte	CC BY-SA 4.0	
+2190255	472829	3	C'est la sienne.	Это её. | Это его.	vlecomte	CC BY-SA 4.0	
+2193175	473819	4	Comment il va ?		vlecomte	CC BY-SA 4.0	
+2200702	474531	4	J'ai eu du bol.		vlecomte	CC BY-SA 4.0	
+2215243	472831	3	Suis-je gros ?	Я толстый?	vlecomte	CC BY-SA 4.0	
+2218686	474534	3	Quel naze !		vlecomte	CC BY-SA 4.0	
+2221432	474535	5	Je ne suis pas timide.		vlecomte	CC BY-SA 4.0	
+2226559	474536	3	Nous nous séparâmes.		vlecomte	CC BY-SA 4.0	
+2226564	474537	5	Nous avons éclaté de rire.	Мы рассмеялись. | Мы расхохотались.	vlecomte	CC BY-SA 4.0	
+2226566	474538	3	Nous avons rompu.		vlecomte	CC BY-SA 4.0	
 2232971	472110	7	Je ne parle pas français du tout.	Я вообще не говорю по-французски.	vlecomte	CC BY-SA 4.0	
+2251665	474539	3	Je me rends.	Я сдаюсь. | Сдаюсь.	vlecomte	CC BY-SA 4.0	
+2264035	472832	4	Laisse-moi y aller !	Пусти меня! | Позволь мне пойти!	vlecomte	CC BY-SA 4.0	
+2281964	472111	5	Il parle un français approximatif.		vlecomte	CC BY-SA 4.0	
+2281965	472112	4	Il écorche le français.		vlecomte	CC BY-SA 4.0	
+2284691	474540	3	C'est plus chaud.	Теплее.	vlecomte	CC BY-SA 4.0	
+2284692	474541	4	Il fait plus chaud.		vlecomte	CC BY-SA 4.0	
+2285472	472835	3	Je l'ai emporté.	Я выиграл.	vlecomte	CC BY-SA 4.0	
+2285478	472836	3	J'en suis sûr.	Я в этом уверен.	vlecomte	CC BY-SA 4.0	
 2285483	474542	6	Je suis en train de conduire.	Я веду машину.	vlecomte	CC BY-SA 4.0	
+2285495	474543	3	J'ai les chocottes.		vlecomte	CC BY-SA 4.0	
+2285496	474544	3	Je suis béni.		vlecomte	CC BY-SA 4.0	
+2285510	472838	3	Tiens-toi tranquille !	Стой спокойно!	vlecomte	CC BY-SA 4.0	
+2285511	472839	3	Tenez-vous tranquille !		vlecomte	CC BY-SA 4.0	
+2300035	472841	5	Je suis du même avis.	Я того же мнения.	vlecomte	CC BY-SA 4.0	
+2350845	472842	3	Fais gaffe !	Берегись! | Осторожно! | Будь осторожен! | Будь осторожна!	vlecomte	CC BY-SA 4.0	
+2370589	473823	4	Je me sens perdu.	Я чувствую себя потерянным.	vlecomte	CC BY-SA 4.0	
+2373667	474547	3	Je suis perplexe.	Я в недоумении. | Я озадачен.	vlecomte	CC BY-SA 4.0	
 2382855	472113	8	Je sais que tu es né à Boston.	Я знаю, что ты родился в Бостоне.	vlecomte	CC BY-SA 4.0	
 2382856	472114	8	Je sais que tu es née à Boston.	Я знаю, что ты родилась в Бостоне.	vlecomte	CC BY-SA 4.0	
 2382859	472115	8	Je sais que vous êtes né à Boston.	Я знаю, что Вы родились в Бостоне.	vlecomte	CC BY-SA 4.0	
 2382860	472116	8	Je sais que vous êtes née à Boston.	Я знаю, что Вы родились в Бостоне.	vlecomte	CC BY-SA 4.0	
 2389379	472117	6	Je ne veux plus visiter Boston.		vlecomte	CC BY-SA 4.0	
+2389381	472118	5	Je n’étudie plus le français.	Я больше не изучаю французский.	vlecomte	CC BY-SA 4.0	
+2389383	472119	5	Je n’habite plus à Boston.	Я больше не живу в Бостоне.	vlecomte	CC BY-SA 4.0	
 2389429	472120	7	Je ne veux plus vivre à Boston.	Я больше не хочу жить в Бостоне.	vlecomte	CC BY-SA 4.0	
+2397717	472843	3	Je fus bon.		vlecomte	CC BY-SA 4.0	
+2397718	472844	3	J'ai été bon.		vlecomte	CC BY-SA 4.0	
 2403195	472121	7	Vous parlez le français, n'est-ce pas ?	Вы же говорите по-французски? | Вы по-французски-то говорите?	vlecomte	CC BY-SA 4.0	
 2403197	472122	7	Tu parles le français, n'est-ce pas ?	Ты же говоришь по-французски? | Ты по-французски-то говоришь?	vlecomte	CC BY-SA 4.0	
+2415913	473831	3	Je mange seul.	Я ем в одиночестве. | Я ем один.	vlecomte	CC BY-SA 4.0	
+2415946	472845	3	Je vous envie.	Я вам завидую. | Завидую вам.	vlecomte	CC BY-SA 4.0	
+2415948	473832	4	Je me suis entraîné.		vlecomte	CC BY-SA 4.0	
+2416681	473833	4	Je me sens déprimé.		vlecomte	CC BY-SA 4.0	
+2416688	473834	4	Je me sens faible.		vlecomte	CC BY-SA 4.0	
 2420648	472847	6	Je me fais vraiment du souci.	Я действительно беспокоюсь.	vlecomte	CC BY-SA 4.0	
+2422818	472848	3	Je l'ai réparé.	Я его починил.	vlecomte	CC BY-SA 4.0	
+2422819	472849	3	Je l'ai réparée.	Я её починил.	vlecomte	CC BY-SA 4.0	
+2422820	472850	3	Je la réparai.	Я её починил.	vlecomte	CC BY-SA 4.0	
+2422821	472851	3	Je le réparai.	Я его починил.	vlecomte	CC BY-SA 4.0	
+2426398	474548	4	Je me suis fâché.	Я рассердился.	vlecomte	CC BY-SA 4.0	
+2426399	474549	3	J'ai été contrarié.		vlecomte	CC BY-SA 4.0	
+2427343	474551	4	Je veux du liquide.		vlecomte	CC BY-SA 4.0	
+2427348	474552	4	Je veux des enfants.	Я хочу детей.	vlecomte	CC BY-SA 4.0	
+2427354	474553	4	Je veux des œufs.	Я хочу яйца.	vlecomte	CC BY-SA 4.0	
+2427364	474554	4	Je veux le mien.		vlecomte	CC BY-SA 4.0	
+2427365	474555	4	Je veux la mienne.		vlecomte	CC BY-SA 4.0	
+2427462	474556	5	Je veux de la soupe.	Я хочу супа.	vlecomte	CC BY-SA 4.0	
+2427508	474557	4	Je veux du temps.	Мне нужно время.	vlecomte	CC BY-SA 4.0	
+2429982	472852	4	J'ai reçu de l'aide.	Мне оказали помощь.	vlecomte	CC BY-SA 4.0	
+2432974	474558	4	Je déteste le golf.	Я ненавижу гольф. | Ненавижу гольф.	vlecomte	CC BY-SA 4.0	
+2433139	474559	3	Je les déteste.	Я их ненавижу.	vlecomte	CC BY-SA 4.0	
+2433212	474560	4	J'ai de la nourriture.	У меня есть еда. | Еда у меня есть.	vlecomte	CC BY-SA 4.0	
+2433555	474561	3	J'ai du liquide.		vlecomte	CC BY-SA 4.0	
+2443537	472854	4	Il me faut courir.		vlecomte	CC BY-SA 4.0	
+2443538	472855	3	Je dois courir.		vlecomte	CC BY-SA 4.0	
+2459920	472856	4	Qui est venu ?	Кто пришёл?	vlecomte	CC BY-SA 4.0	
+2459922	472857	3	Tom est venu.	Том пришёл. | Пришёл Том.	vlecomte	CC BY-SA 4.0	
+2460008	474562	4	Qui a triché ?		vlecomte	CC BY-SA 4.0	
+2460017	474563	3	Tom a changé.	Том изменился.	vlecomte	CC BY-SA 4.0	
+2460108	472858	3	Je me cache.	Я прячусь.	vlecomte	CC BY-SA 4.0	
 2464934	473837	6	Ça vous a fait mal ?		vlecomte	CC BY-SA 4.0	
+2464951	473838	5	Ne compte pas sur moi.	На меня не рассчитывай. | Не рассчитывай на меня.	vlecomte	CC BY-SA 4.0	
 2465009	472123	8	Je pense que nous devons retourner à Boston.	Я думаю, нам надо вернуться в Бостон. | Я думаю, мы должны вернуться в Бостон.	vlecomte	CC BY-SA 4.0	
 2465023	472124	8	Je pense que Tom est né à Boston.		vlecomte	CC BY-SA 4.0	
 2465077	472125	10	Je pense que Tom a dit qu'il venait de Boston.		vlecomte	CC BY-SA 4.0	
+2468061	474565	3	Je sais ça.	Я это знаю.	vlecomte	CC BY-SA 4.0	
+2468062	474566	3	Je le sais.	Я это знаю.	vlecomte	CC BY-SA 4.0	
+2482549	474569	4	J'ai mis la pagaille.		vlecomte	CC BY-SA 4.0	
+2482553	474570	4	J'ai mis le souk.		vlecomte	CC BY-SA 4.0	
+2482588	474571	4	Il me faut obéir.		vlecomte	CC BY-SA 4.0	
+2482589	474572	3	Je dois obéir.		vlecomte	CC BY-SA 4.0	
+2482608	474573	5	C'est dans la poche !		vlecomte	CC BY-SA 4.0	
+2482609	474574	3	Je l'ai cloué.		vlecomte	CC BY-SA 4.0	
+2482611	474575	5	J'ai mis la main dessus.		vlecomte	CC BY-SA 4.0	
+2482614	474576	4	Il m'en faut davantage.		vlecomte	CC BY-SA 4.0	
+2482615	474577	4	Il m'en faut plus.		vlecomte	CC BY-SA 4.0	
+2482622	474578	4	Il me faut ça.	Мне это нужно.	vlecomte	CC BY-SA 4.0	
+2482625	474579	5	C'est ce qu'il me faut.	Это то, что мне нужно. | Это мне и нужно.	vlecomte	CC BY-SA 4.0	
+2482626	474580	5	Il me faut du temps.	Мне нужно время.	vlecomte	CC BY-SA 4.0	
+2482627	474581	4	J'ai besoin de temps.	Мне нужно время.	vlecomte	CC BY-SA 4.0	
 2490230	472126	6	Je ne connais personne à Boston.	Я никого в Бостоне не знаю. | Я в Бостоне никого не знаю.	vlecomte	CC BY-SA 4.0	
+2497422	474582	4	Je ne parie jamais.		vlecomte	CC BY-SA 4.0	
+2497423	474583	4	Je n'ai jamais parié.		vlecomte	CC BY-SA 4.0	
+2497466	474584	4	Je ne gagne jamais.	Я никогда не выигрываю.	vlecomte	CC BY-SA 4.0	
+2497467	474585	4	Jamais je ne l'emporte.		vlecomte	CC BY-SA 4.0	
 2504224	472127	7	Je ne connais pas si bien Boston.	Я не так хорошо знаю Бостон.	vlecomte	CC BY-SA 4.0	
+2526804	472128	4	Je suis à Boston.	Я в Бостоне.	vlecomte	CC BY-SA 4.0	
+2527546	472861	3	J'ai vu cela.	Я это видел.	vlecomte	CC BY-SA 4.0	
+2527547	472862	4	Je les ai vues.	Я их видел.	vlecomte	CC BY-SA 4.0	
+2527548	472863	4	Je les ai vus.	Я их видел.	vlecomte	CC BY-SA 4.0	
+2527549	472864	3	Je les vis.	Я их видел.	vlecomte	CC BY-SA 4.0	
+2560147	472865	3	Je vois Tom.	Я вижу Тома.	vlecomte	CC BY-SA 4.0	
+2565828	473839	3	Arrêtez de mentir.	Хватит врать! | Перестаньте врать! | Прекратите врать!	vlecomte	CC BY-SA 4.0	
+2575150	472129	3	J'aime le français.	Мне нравится французский язык. | Я люблю французский язык. | Мне нравится французский.	vlecomte	CC BY-SA 4.0	
+2580604	472130	5	Parlez-vous bien le français ?	Вы хорошо говорите по-французски?	vlecomte	CC BY-SA 4.0	
+2580607	472131	5	Savez-vous bien parler français ?		vlecomte	CC BY-SA 4.0	
+2586246	472866	5	Est-ce que c'est vous ?	Это Вы?	vlecomte	CC BY-SA 4.0	
+2619984	472132	4	Tom étudie le français.		vlecomte	CC BY-SA 4.0	
+2661071	474586	5	Je ne suis pas fou.	Я не сумасшедший.	vlecomte	CC BY-SA 4.0	
+2678042	472133	5	J'étudie le français chez moi.		vlecomte	CC BY-SA 4.0	
+2691259	472134	5	Je ne parle pas français.		vlecomte	CC BY-SA 4.0	
+2707089	472135	3	Je parle français.	Я говорю по-французски.	vlecomte	CC BY-SA 4.0	
+2708372	472867	3	Je suis timide.	Я робкий. | Я робкая. | Я застенчивый. | Я застенчивая.	vlecomte	CC BY-SA 4.0	
+2709266	473840	3	Je pourrais essayer.	Я мог бы попробовать.	vlecomte	CC BY-SA 4.0	
+2716604	473841	3	Cuisinez pour moi.		vlecomte	CC BY-SA 4.0	
+2720047	473842	3	Je l'ai brûlé.	Я его сжёг. | Я его сожгла.	vlecomte	CC BY-SA 4.0	
+2723492	473843	4	Je mange du pain.	Я ем хлеб.	vlecomte	CC BY-SA 4.0	
+2734948	472868	3	Je suis normal.	Я нормальный. | Я обыкновенный.	vlecomte	CC BY-SA 4.0	
+2737121	472136	5	Pourquoi étudies-tu le français ?	Зачем ты учишь французский?	vlecomte	CC BY-SA 4.0	
+2748478	473845	5	Sais-tu faire du ski ?	Ты умеешь кататься на лыжах?	vlecomte	CC BY-SA 4.0	
+2769045	473846	3	As-tu vaincu ?	Ты выиграл? | Ты победил?	vlecomte	CC BY-SA 4.0	
+2769047	473847	3	L'avez-vous emporté ?	Вы выиграли? | Вы победили? | Выиграли?	vlecomte	CC BY-SA 4.0	
+2769048	473848	3	L'as-tu emporté ?		vlecomte	CC BY-SA 4.0	
+2798957	472869	4	Tom est en colère.	Том разозлён. | Том зол. | Том злится.	vlecomte	CC BY-SA 4.0	
+2801430	473849	3	Tom est libre.	Том свободен. | Том не занят.	vlecomte	CC BY-SA 4.0	
 2835056	472137	7	Tom est impatient de vivre à Boston.		vlecomte	CC BY-SA 4.0	
+2859943	474588	3	Tom est grand.	Том высокий.	vlecomte	CC BY-SA 4.0	
+2884009	472138	4	J’aime parler en français.	Мне нравится говорить по-французски.	vlecomte	CC BY-SA 4.0	
+2884093	473851	4	Vous avez gagné !	Вы выиграли! | Вы победили!	vlecomte	CC BY-SA 4.0	
+2884094	473852	4	Tu as gagné !	Ты выиграл! | Ты победил! | Твоя взяла!	vlecomte	CC BY-SA 4.0	
 2991898	472139	7	À ce moment, Thomas était à Boston.		vlecomte	CC BY-SA 4.0	
+2991936	472140	4	Êtes-vous à Boston ?	Вы в Бостоне?	vlecomte	CC BY-SA 4.0	
+3029768	474591	3	C'est à elle.	Это её.	vlecomte	CC BY-SA 4.0	
+3052655	474592	4	Tom est malade mental.	Том душевнобольной.	vlecomte	CC BY-SA 4.0	
+3113004	474594	3	Je suis furieux.	Я взбешён. | Я в ярости. | Я в бешенстве.	vlecomte	CC BY-SA 4.0	
 3163042	472141	6	Tom a quelques amis à Boston.		vlecomte	CC BY-SA 4.0	
+3209598	474596	4	Nous aimons bien Tom.	Нам нравится Том.	vlecomte	CC BY-SA 4.0	
+3209599	474597	3	Nous aimons Tom.	Мы Тома любим. | Мы любим Тома.	vlecomte	CC BY-SA 4.0	
+3209600	474598	3	Nous apprécions Tom.	Нам нравится Том.	vlecomte	CC BY-SA 4.0	
 3210779	538686	8	Je l'aurai fait faire avant 14 h 30.		vlecomte	CC BY-SA 4.0	
+3211554	474599	4	Tom est tout seul.	Том совсем один.	vlecomte	CC BY-SA 4.0	
+3211671	474600	3	Tom est saoul.	Том пьяный. | Том пьян.	vlecomte	CC BY-SA 4.0	
+3211672	474601	3	Tom est ivre.	Том пьяный. | Том пьян. | Том нетрезв.	vlecomte	CC BY-SA 4.0	
 3217436	472143	8	Il y a beaucoup de parcs dans Boston.	В Бостоне много парков.	vlecomte	CC BY-SA 4.0	
 3217437	472144	8	Il y a beaucoup de parcs à Boston.	В Бостоне много парков.	vlecomte	CC BY-SA 4.0	
 3217559	472145	8	Est-ce que Tom était à Boston hier ?	Том был вчера в Бостоне?	vlecomte	CC BY-SA 4.0	
 3217562	472146	6	Tom était-il à Boston hier ?	Том был вчера в Бостоне?	vlecomte	CC BY-SA 4.0	
 3222404	473855	7	Dites : « s'il vous plaît ».	"Скажите ""пожалуйста""."	vlecomte	CC BY-SA 4.0	
+3225649	472872	3	Elle est ici.	Она здесь. | Она тут.	vlecomte	CC BY-SA 4.0	
 3235629	472147	6	Ne parles-tu pas le français ?	Ты не говоришь по-французски?	vlecomte	CC BY-SA 4.0	
+3235630	472148	5	Ne parlez-vous pas français ?	Вы не говорите по-французски?	vlecomte	CC BY-SA 4.0	
+3273231	474602	3	J'ai été engagé.	Меня взяли на работу.	vlecomte	CC BY-SA 4.0	
+3279454	472149	4	Apprends-tu le français ?	Ты изучаешь французский?	vlecomte	CC BY-SA 4.0	
 3289069	472150	6	Tom était à Boston cette année-là.		vlecomte	CC BY-SA 4.0	
+3289386	473856	3	Parlez avec moi.	Поговорите со мной.	vlecomte	CC BY-SA 4.0	
 3346852	472151	6	J'ai appris le français à Paris.	Я выучил французский в Париже.	vlecomte	CC BY-SA 4.0	
+3356612	474603	3	Où est-elle ?	Где она?	vlecomte	CC BY-SA 4.0	
+3375038	473857	3	Tom est faible.		vlecomte	CC BY-SA 4.0	
+3400059	474604	3	Quel taudis !		vlecomte	CC BY-SA 4.0	
+3400479	472873	3	Je rigole !	Я шучу!	vlecomte	CC BY-SA 4.0	
+3430342	473858	3	Suis-je idiot ?	Я дурак?	vlecomte	CC BY-SA 4.0	
 3450299	472152	7	Comment s'est passé le voyage jusqu'à Boston?		vlecomte	CC BY-SA 4.0	
 3452281	472153	8	Il ne fait pas toujours froid à Boston.	В Бостоне не всегда холодно.	vlecomte	CC BY-SA 4.0	
+3468985	474605	3	Je suis excité.		vlecomte	CC BY-SA 4.0	
 3469957	472154	10	Tom m'a promis d'être là avant deux heures et demie.		vlecomte	CC BY-SA 4.0	
 3473085	474606	6	Est-ce que Tom va bien ?	У Тома всё хорошо? | Том в порядке? | У Тома всё нормально?	vlecomte	CC BY-SA 4.0	
+3499402	474607	3	Tom est dérangé.		vlecomte	CC BY-SA 4.0	
+3529022	472155	5	Tom parle aussi le français.	Том и по французски говорит. | Том тоже говорит по-французски.	vlecomte	CC BY-SA 4.0	
+3530943	473859	5	Je ne puis le dire.	Не могу сказать.	vlecomte	CC BY-SA 4.0	
+3530944	473860	5	Je ne peux le dire.	Я не могу этого сказать. | Не могу сказать.	vlecomte	CC BY-SA 4.0	
+3557676	474608	4	Je déteste les chiens.	Я ненавижу собак. | Ненавижу собак.	vlecomte	CC BY-SA 4.0	
+3557677	474609	4	Je hais les chiens.	Ненавижу собак. | Я ненавижу собак.	vlecomte	CC BY-SA 4.0	
+3559286	474610	3	Vous êtes faible.	Вы слабы. | Вы слабый. | Вы слабая.	vlecomte	CC BY-SA 4.0	
+3566810	474611	3	J'ai des yeux.	У меня есть глаза.	vlecomte	CC BY-SA 4.0	
 3585492	472030	7	Tom et Marie se marient en octobre.	Том с Мэри в октябре женятся.	vlecomte	CC BY-SA 4.0	
 3591543	471448	7	C'est ce que tu as toujours voulu.	Это то, чего ты всегда хотел.	vlecomte	CC BY-SA 4.0	
+3597516	472156	5	Le français de Tom s'améliore.		vlecomte	CC BY-SA 4.0	
+3633569	474612	3	J'aime le bleu.	Я люблю синий цвет.	vlecomte	CC BY-SA 4.0	
+3634361	472874	3	J'ai aimé ça.	Мне это понравилось.	vlecomte	CC BY-SA 4.0	
+3634362	472875	3	Je l'ai apprécié.		vlecomte	CC BY-SA 4.0	
+3634413	474613	3	Je les apprécie.		vlecomte	CC BY-SA 4.0	
+3634423	474614	3	J'aime le riz.	Я люблю рис.	vlecomte	CC BY-SA 4.0	
+3634424	474615	3	J'apprécie le jazz.	Мне нравится джаз.	vlecomte	CC BY-SA 4.0	
+3641693	472877	3	J'adore le thé.		vlecomte	CC BY-SA 4.0	
+3641711	472157	3	J'adore le français.		vlecomte	CC BY-SA 4.0	
 3642184	471449	6	Vous auriez dû appeler les flics.		vlecomte	CC BY-SA 4.0	
+3642705	474616	3	Quelle équipe !	Какая команда! | Вот это команда!	vlecomte	CC BY-SA 4.0	
+3646432	472158	3	J'enseigne le français.	Я преподаю французский. | Я преподаю французский язык.	vlecomte	CC BY-SA 4.0	
+3646768	472878	3	J'ai dit oui.	Я сказал да. | Я сказала да.	vlecomte	CC BY-SA 4.0	
+3647306	474618	4	Dites simplement non !	Просто скажите нет.	vlecomte	CC BY-SA 4.0	
+3647307	474619	4	Dis simplement non !	Просто скажи нет.	vlecomte	CC BY-SA 4.0	
+3647339	474620	3	Personne ne partit.	Никто не ушёл. | Никто не уехал.	vlecomte	CC BY-SA 4.0	
+3647340	474621	3	Personne n'est parti.	Никто не ушёл. | Никто не уехал.	vlecomte	CC BY-SA 4.0	
 3647449	474622	6	Je ne suis pas un menteur.	Я не обманщик. | Я не лжец.	vlecomte	CC BY-SA 4.0	
+3659843	472159	5	Aimes-tu le vin français ?		vlecomte	CC BY-SA 4.0	
+3659844	472160	5	Aimez-vous le vin français ?	Вы любите французское вино?	vlecomte	CC BY-SA 4.0	
+3660383	472161	4	Je veux voir Boston.		vlecomte	CC BY-SA 4.0	
+3666035	474623	4	Reste au lit !	Оставайся в постели.	vlecomte	CC BY-SA 4.0	
+3666036	474624	4	Restez au lit !	Оставайтесь в постели.	vlecomte	CC BY-SA 4.0	
+3668577	473861	3	C'est un menteur.		vlecomte	CC BY-SA 4.0	
+3669667	474625	3	Travaille lentement !	Работай медленно.	vlecomte	CC BY-SA 4.0	
+3669668	474626	3	Travaillez lentement !	Работайте медленно. | Работайте не спеша.	vlecomte	CC BY-SA 4.0	
 3669707	474627	6	Je suis en train de travailler.	Я работаю.	vlecomte	CC BY-SA 4.0	
+3669944	474628	4	Arrête de pleurer !	Хватит плакать! | Перестань плакать!	vlecomte	CC BY-SA 4.0	
+3669945	474629	4	Arrêtez de pleurer !	Прекратите плакать! | Хватит плакать! | Перестаньте плакать!	vlecomte	CC BY-SA 4.0	
 3673604	472162	6	Tom a une maison à Boston.	У Тома есть дом в Бостоне. | У Тома дом в Бостоне.	vlecomte	CC BY-SA 4.0	
+3679640	473862	5	Fais-le comme il faut !	Сделай это как следует.	vlecomte	CC BY-SA 4.0	
+3679641	473863	5	Faites-le comme il faut !	Сделайте это как следует.	vlecomte	CC BY-SA 4.0	
+3686193	474630	4	Où est Tom ?	Где Том?	vlecomte	CC BY-SA 4.0	
 3693014	472163	8	Combien de temps êtes-vous restés à Boston ?	Сколько времени вы пробыли в Бостоне?	vlecomte	CC BY-SA 4.0	
 3693045	474631	6	Il y a du nouveau ?	Есть что нового?	vlecomte	CC BY-SA 4.0	
+3720081	474632	4	Je déteste le poisson.	Ненавижу рыбу. | Я ненавижу рыбу. | Я терпеть не могу рыбу. | Терпеть не могу рыбу.	vlecomte	CC BY-SA 4.0	
+3792967	474633	3	Avais-je tort ?		vlecomte	CC BY-SA 4.0	
+3792968	474634	4	Ai-je eu tort ?		vlecomte	CC BY-SA 4.0	
+3812362	472881	3	Mais ouais !	Ну да!	vlecomte	CC BY-SA 4.0	
+3846612	472883	3	Je t'aime bien.		vlecomte	CC BY-SA 4.0	
 3847125	472164	10	Tom a déménagé à Boston il y a trois ans.		vlecomte	CC BY-SA 4.0	
 3882332	472165	8	Tom m'a dit que vous étiez à Boston.	Том сказал мне, что вы в Бостоне.	vlecomte	CC BY-SA 4.0	
+3931818	472166	5	Tom parle couramment le français.	Том бегло говорит по-французски.	vlecomte	CC BY-SA 4.0	
 3951762	472167	8	Nous allons à Boston le plus souvent possible.	Мы стараемся ездить в Бостон как можно чаще.	vlecomte	CC BY-SA 4.0	
 3956213	472168	6	Je possède quelques livres en français.	У меня есть несколько книг на французском.	vlecomte	CC BY-SA 4.0	
+3972064	473864	4	Tom est chez lui.	Том у себя. | Том дома.	vlecomte	CC BY-SA 4.0	
 4036038	472031	6	Mon anniversaire est le vingt octobre.	У меня день рождения двадцатого октября. | Мой день рождения - двадцатое октября.	vlecomte	CC BY-SA 4.0	
 4076786	472169	7	Tom a vendu sa maison à Boston.	Том продал свой дом в Бостоне.	vlecomte	CC BY-SA 4.0	
 4076787	472170	8	Tom a acheté une jolie maison à Boston.		vlecomte	CC BY-SA 4.0	
@@ -98,54 +790,397 @@ sentence_id	audio_id	words	fr	ru	username	license	attribution_url
 4080892	472181	7	Tom veut venir à Boston avec nous.	Том хочет поехать в Бостон с нами.	vlecomte	CC BY-SA 4.0	
 4080894	472182	7	Tom a dit qu'il aimerait visiter Boston.	Том сказал, что хотел бы побывать в Бостоне.	vlecomte	CC BY-SA 4.0	
 4101249	472183	8	Je suis allé à Boston de nombreuses fois.	Я много раз ездил в Бостон.	vlecomte	CC BY-SA 4.0	
+4189529	473865	4	Comment ça va ?	Как дела? | Как поживаешь? | Как поживаете? | Как жизнь?	vlecomte	CC BY-SA 4.0	
+4221827	472884	3	J'ai fait cela.	Я это сделал. | Я это сделала.	vlecomte	CC BY-SA 4.0	
+4221828	472885	5	C'est moi qui l'ai fait.	Это я сделал.	vlecomte	CC BY-SA 4.0	
+4234726	474635	4	Où en étais-je ?	На чём я остановился?	vlecomte	CC BY-SA 4.0	
+4234727	474636	3	Où étais-je ?	Где я был? | Где я была?	vlecomte	CC BY-SA 4.0	
+4266473	474637	4	Je vends des voitures.	Я продаю машины.	vlecomte	CC BY-SA 4.0	
+4274086	474638	3	Réveille Tom !	Разбуди Тома. | Буди Тома!	vlecomte	CC BY-SA 4.0	
+4321545	474639	5	On a besoin de toi.	Ты нам нужен. | Ты нам нужна. | Мы нуждаемся в тебе.	vlecomte	CC BY-SA 4.0	
+4339668	472887	3	Tom a payé.	Том заплатил.	vlecomte	CC BY-SA 4.0	
+4339669	472888	3	Tom a menti.	Том солгал. | Том соврал.	vlecomte	CC BY-SA 4.0	
+4366797	473866	3	C’est qui ?	Это кто?	vlecomte	CC BY-SA 4.0	
+4426371	472889	3	Je suis laid.	Я некрасивый.	vlecomte	CC BY-SA 4.0	
+4431261	474640	3	J'y étais prêt.	Я был к этому готов.	vlecomte	CC BY-SA 4.0	
+4434999	474641	4	Les deux me plaisent.	Мне оба нравятся. | Мне обе нравятся.	vlecomte	CC BY-SA 4.0	
+4435911	472890	5	J'ai couru à la maison.	Я побежал домой.	vlecomte	CC BY-SA 4.0	
 4450843	474642	6	Est-ce que Tom est ici ?	Том здесь?	vlecomte	CC BY-SA 4.0	
+4451091	474643	3	Je suis méticuleux.		vlecomte	CC BY-SA 4.0	
 4470601	472032	9	Où étiez-vous dans la nuit du 20 octobre ?	Где вы были в ночь с двадцатого на двадцать первое октября?	vlecomte	CC BY-SA 4.0	
 4470603	472033	9	Où étais-tu dans la nuit du 20 octobre ?	Где ты был в ночь с двадцатого на двадцать первое октября?	vlecomte	CC BY-SA 4.0	
+4488630	472892	3	Sois réaliste !	Будь реалистом!	vlecomte	CC BY-SA 4.0	
 4488669	472184	7	Je suis arrivé à Boston hier après-midi.		vlecomte	CC BY-SA 4.0	
 4526941	472185	10	Quelqu'un peut-il me réveiller à 2:30, s'il vous plaît ?		vlecomte	CC BY-SA 4.0	
+4533882	472893	4	Ne bouge plus !	Замри!	vlecomte	CC BY-SA 4.0	
+4534359	472034	4	Redemande-moi ça en octobre.		vlecomte	CC BY-SA 4.0	
+4534360	472035	5	Repose-moi la question en octobre.		vlecomte	CC BY-SA 4.0	
+4546898	472186	4	Tom parla de Boston.	Том говорил о Бостоне.	vlecomte	CC BY-SA 4.0	
+4546899	472187	5	Tom a parlé de Boston.	Том говорил о Бостоне.	vlecomte	CC BY-SA 4.0	
+4547433	474645	3	Est-ce propre ?	Это чистое?	vlecomte	CC BY-SA 4.0	
+4547434	474646	3	Est-ce clair ?	Это ясно? | Ясно?	vlecomte	CC BY-SA 4.0	
+4547443	474647	3	Est-ce sale ?	Это грязное?	vlecomte	CC BY-SA 4.0	
+4547446	473867	3	Est-ce fait ?	Это сделано?	vlecomte	CC BY-SA 4.0	
+4547447	474648	3	Est-ce fatal ?		vlecomte	CC BY-SA 4.0	
+4547461	473868	3	Est-ce difficile ?	Это трудно? | Это сложно?	vlecomte	CC BY-SA 4.0	
+4547467	473869	3	Est-ce chouette ?		vlecomte	CC BY-SA 4.0	
+4547477	474649	3	Est-ce prêt ?	Готово?	vlecomte	CC BY-SA 4.0	
+4550292	472188	5	Apprendre le français est utile.	Изучать французский полезно.	vlecomte	CC BY-SA 4.0	
+4550669	472189	4	Nous parlons tous français.	Все мы говорим по-французски. | Мы все говорим по-французски.	vlecomte	CC BY-SA 4.0	
 4551219	472190	7	Aucun d'entre eux ne connaît le français.	Никто из них не знает французского. | Ни один из них не знает французский. | Ни один из них не знает французского.	vlecomte	CC BY-SA 4.0	
 4551220	472191	7	Aucune d'entre elles ne connaît le français.	Никто из них не знает французского. | Ни одна из них не знает французского.	vlecomte	CC BY-SA 4.0	
 4551989	472894	6	Est-ce que Tom va bien ?	У Тома всё хорошо?	vlecomte	CC BY-SA 4.0	
+4551990	472895	4	Tom va-t-il bien ?	У Тома всё хорошо?	vlecomte	CC BY-SA 4.0	
+4578520	474650	4	Reste à l'intérieur !	Оставайся внутри. | Наружу не выходи. | Сиди внутри. | Побудь внутри.	vlecomte	CC BY-SA 4.0	
+4578573	474651	3	Ils l'ont eu.		vlecomte	CC BY-SA 4.0	
+4578574	474652	3	Ils l'ont eue.		vlecomte	CC BY-SA 4.0	
+4579493	472896	3	Reste ici !	Оставайся здесь. | Останься здесь. | Оставайся здесь!	vlecomte	CC BY-SA 4.0	
+4579586	474653	3	Je veux ceci.	Я хочу вот это.	vlecomte	CC BY-SA 4.0	
+4580483	472897	4	Ne bouge pas !	Не двигайся! | Не шевелись. | Не шевелись!	vlecomte	CC BY-SA 4.0	
 4585803	474654	6	Je suis en train de danser.	Я танцую.	vlecomte	CC BY-SA 4.0	
+4591539	474655	4	Qui s'est échappé ?		vlecomte	CC BY-SA 4.0	
+4592082	472192	5	Je suis enseignant en français.	Я преподаватель французского языка.	vlecomte	CC BY-SA 4.0	
 4592093	472193	7	Je suis en train d'apprendre le français.		vlecomte	CC BY-SA 4.0	
+4593072	474656	3	Je suis patient.		vlecomte	CC BY-SA 4.0	
+4593077	472899	3	Je suis honnête.		vlecomte	CC BY-SA 4.0	
+4594074	472900	3	Je sais chanter.	Я умею петь.	vlecomte	CC BY-SA 4.0	
+4594207	474658	3	Suis-je amoureux ?	Я влюблён?	vlecomte	CC BY-SA 4.0	
+4594744	472901	3	Je le suppose.	Полагаю, что так.	vlecomte	CC BY-SA 4.0	
+4595759	474659	4	Je dois me cacher.	Я должен спрятаться. | Мне надо спрятаться.	vlecomte	CC BY-SA 4.0	
+4599509	472194	4	Comprends-tu le français ?	Ты понимаешь по-французски?	vlecomte	CC BY-SA 4.0	
+4599645	474660	3	Tu es gentil.		vlecomte	CC BY-SA 4.0	
+4599647	474661	3	Tu es gentille.		vlecomte	CC BY-SA 4.0	
+4602616	473870	3	Il s'est levé.	Он встал. | Он поднялся.	vlecomte	CC BY-SA 4.0	
 4604682	472195	6	J'aimerais aller à Boston avec toi.	Я хотел бы поехать с тобой в Бостон.	vlecomte	CC BY-SA 4.0	
+4625937	474662	4	Fais un souhait !	Загадай желание. | Загадывай желание.	vlecomte	CC BY-SA 4.0	
+4625938	474663	4	Faites un souhait !	Загадайте желание. | Загадывайте желание.	vlecomte	CC BY-SA 4.0	
+4625943	473871	4	Lance une pièce !	Подбрось монету. | Подбрось монетку.	vlecomte	CC BY-SA 4.0	
+4625944	473872	4	Prends-toi un siège !		vlecomte	CC BY-SA 4.0	
+4625945	473873	4	Prends une bière !	Выпей пива.	vlecomte	CC BY-SA 4.0	
+4625949	473876	4	Jette un œil !	Взгляни.	vlecomte	CC BY-SA 4.0	
+4625950	473877	4	Jetez un œil !	Взгляните.	vlecomte	CC BY-SA 4.0	
+4625961	474664	4	Fais une liste !	Составь список. | Пиши список. | Напиши список.	vlecomte	CC BY-SA 4.0	
+4625962	474665	4	Faites une liste !	Составьте список. | Пишите список. | Напишите список.	vlecomte	CC BY-SA 4.0	
+4625965	474666	4	Choisissez une date !	Выберите дату.	vlecomte	CC BY-SA 4.0	
+4625966	474667	4	Choisis une date !	Выбери дату.	vlecomte	CC BY-SA 4.0	
+4625974	474669	4	Prends une bouchée !		vlecomte	CC BY-SA 4.0	
+4625975	474670	4	Prenez une bouchée !		vlecomte	CC BY-SA 4.0	
+4625991	473878	5	Fais un petit somme !		vlecomte	CC BY-SA 4.0	
+4625996	474672	3	Va marcher !		vlecomte	CC BY-SA 4.0	
+4625997	474673	3	Allez marcher !		vlecomte	CC BY-SA 4.0	
+4626007	474674	3	Quelle perte !	Какая потеря!	vlecomte	CC BY-SA 4.0	
+4626038	474675	4	Pioche une carte !		vlecomte	CC BY-SA 4.0	
+4626039	474676	4	Piochez une carte !		vlecomte	CC BY-SA 4.0	
+4636201	472196	4	Aimes-tu le français ?	Тебе нравится французский?	vlecomte	CC BY-SA 4.0	
+4653681	474677	3	Tu as triché.		vlecomte	CC BY-SA 4.0	
+4653682	474678	3	Vous avez triché.		vlecomte	CC BY-SA 4.0	
+4653698	474679	4	Vous vous êtes évanoui.	Вы упали в обморок.	vlecomte	CC BY-SA 4.0	
+4653702	474680	4	Vous vous êtes évanouie.	Вы упали в обморок.	vlecomte	CC BY-SA 4.0	
+4653871	474681	4	Tu es de retour.	Ты вернулся. | Ты вернулась.	vlecomte	CC BY-SA 4.0	
+4653872	474682	4	Vous êtes de retour.	Вы вернулись.	vlecomte	CC BY-SA 4.0	
+4654014	474685	3	Tu es juste.		vlecomte	CC BY-SA 4.0	
+4654015	474686	3	Vous êtes juste.		vlecomte	CC BY-SA 4.0	
+4654016	474687	3	Vous êtes justes.		vlecomte	CC BY-SA 4.0	
+4654043	474688	3	Tu vas bien.		vlecomte	CC BY-SA 4.0	
+4654086	474689	3	Tu es libre.	Ты свободен. | Ты свободна.	vlecomte	CC BY-SA 4.0	
+4654087	474690	3	Vous êtes libres.	Вы свободны.	vlecomte	CC BY-SA 4.0	
+4654088	474691	3	Vous êtes libre.	Вы свободны.	vlecomte	CC BY-SA 4.0	
+4654453	472903	5	Tout le monde à bord!	Все на борт!	vlecomte	CC BY-SA 4.0	
+4654472	474694	3	Tu es paresseux.	Ты ленивый.	vlecomte	CC BY-SA 4.0	
+4654474	474695	3	Tu es paresseuse.	Ты ленивая.	vlecomte	CC BY-SA 4.0	
+4654475	474696	3	Vous êtes paresseux.	Вы ленивые. | Вы ленивый.	vlecomte	CC BY-SA 4.0	
+4654477	474697	3	Vous êtes paresseuses.	Вы ленивые.	vlecomte	CC BY-SA 4.0	
+4654478	474698	3	Vous êtes paresseuse.	Вы ленивая.	vlecomte	CC BY-SA 4.0	
+4654484	474699	3	Tu es perdu.		vlecomte	CC BY-SA 4.0	
+4654485	474700	3	Tu es perdue.		vlecomte	CC BY-SA 4.0	
+4654501	474701	3	Vous êtes sympa.		vlecomte	CC BY-SA 4.0	
+4654503	474702	3	Vous êtes sympas.		vlecomte	CC BY-SA 4.0	
+4655473	474703	3	Tu es riche.	Ты богатый. | Ты богатая. | Ты богат. | Ты богата.	vlecomte	CC BY-SA 4.0	
+4655474	474704	3	Vous êtes riche.	Вы богатый. | Вы богатая. | Вы богаты.	vlecomte	CC BY-SA 4.0	
+4655475	474705	3	Vous êtes riches.	Вы богатые. | Вы богаты.	vlecomte	CC BY-SA 4.0	
+4655476	474706	3	Tu es grossier.	Ты грубый. | Ты груб.	vlecomte	CC BY-SA 4.0	
+4655478	474707	3	Vous êtes grossiers.	Вы грубые. | Вы грубы.	vlecomte	CC BY-SA 4.0	
+4655479	474708	3	Vous êtes grossière.	Вы грубы.	vlecomte	CC BY-SA 4.0	
+4655480	474709	3	Vous êtes grossières.	Вы грубые. | Вы грубы.	vlecomte	CC BY-SA 4.0	
+4655481	474710	3	Tu es grossière.	Ты грубая. | Ты груба.	vlecomte	CC BY-SA 4.0	
+4655487	474711	4	Tu es en sécurité.	Ты в безопасности.	vlecomte	CC BY-SA 4.0	
+4655488	474712	4	Vous êtes en sécurité.	Вы в безопасности.	vlecomte	CC BY-SA 4.0	
+4655489	474713	3	Tu es sauf.		vlecomte	CC BY-SA 4.0	
+4655490	474714	3	Vous êtes saufs.		vlecomte	CC BY-SA 4.0	
+4655491	474715	3	Vous êtes sauf.		vlecomte	CC BY-SA 4.0	
+4655492	474716	3	Vous êtes sauve.		vlecomte	CC BY-SA 4.0	
+4655493	474717	3	Vous êtes sauves.		vlecomte	CC BY-SA 4.0	
+4655494	474718	3	Tu es sauve.		vlecomte	CC BY-SA 4.0	
+4655548	474719	3	Tu es mince.		vlecomte	CC BY-SA 4.0	
+4655549	474720	3	Vous êtes mince.		vlecomte	CC BY-SA 4.0	
+4655551	474721	3	Vous êtes minces.		vlecomte	CC BY-SA 4.0	
+4678625	473880	3	Je l'ai confessé.		vlecomte	CC BY-SA 4.0	
+4678629	474722	4	Je me suis remis.		vlecomte	CC BY-SA 4.0	
+4678633	474723	4	Je m'en suis remis.		vlecomte	CC BY-SA 4.0	
+4678650	472905	3	Je le refuse.		vlecomte	CC BY-SA 4.0	
+4678696	474725	3	Je suis retraité.	Я пенсионер.	vlecomte	CC BY-SA 4.0	
+4678699	474726	3	Je suis pensionné.		vlecomte	CC BY-SA 4.0	
+4678725	474727	3	J'ai du vin.	У меня есть вино.	vlecomte	CC BY-SA 4.0	
+4678727	474728	3	J'adore la vie.		vlecomte	CC BY-SA 4.0	
+4678741	474729	4	Moi je veux ça.		vlecomte	CC BY-SA 4.0	
+4678743	474730	3	Je les veux.		vlecomte	CC BY-SA 4.0	
+4678753	474731	3	Je suis prudent.	Я осторожен.	vlecomte	CC BY-SA 4.0	
+4678766	474733	3	Je le déciderai.		vlecomte	CC BY-SA 4.0	
+4678772	472907	3	Je suis chanceux.	Я везучий.	vlecomte	CC BY-SA 4.0	
+4678801	474734	4	Je fais la diète.	Я на диете.	vlecomte	CC BY-SA 4.0	
+4678811	474735	3	Je suis fiancé.		vlecomte	CC BY-SA 4.0	
+4678871	474737	3	Je m'en sortirai.	Я справлюсь. | Я выкручусь.	vlecomte	CC BY-SA 4.0	
+4678907	474739	3	Je suis populaire.	Я популярен. | Я популярна.	vlecomte	CC BY-SA 4.0	
+4678917	474740	3	Je suis voyant.		vlecomte	CC BY-SA 4.0	
+4678946	472912	4	Je suis en sécurité.	Я в безопасности.	vlecomte	CC BY-SA 4.0	
+4678948	474741	3	Je suis égoïste.	Я эгоист. | Я эгоистка.	vlecomte	CC BY-SA 4.0	
+4678966	474742	3	Je suis choqué.	Я в шоке. | Я шокирован.	vlecomte	CC BY-SA 4.0	
+4678968	474743	3	Je suis sincère.		vlecomte	CC BY-SA 4.0	
+4678975	474744	3	Je suis bourré.	Я пьяный. | Я бухой.	vlecomte	CC BY-SA 4.0	
+4678978	472913	3	Je suis sournois.		vlecomte	CC BY-SA 4.0	
+4679006	472914	3	Je suis ordonné.		vlecomte	CC BY-SA 4.0	
+4679008	472915	3	Je suis dur.		vlecomte	CC BY-SA 4.0	
+4679029	474745	3	Je suis mécontent.	Я недоволен.	vlecomte	CC BY-SA 4.0	
+4679058	473881	3	Je l'ai enterré.		vlecomte	CC BY-SA 4.0	
+4679059	473882	3	Je l'ai enterrée.		vlecomte	CC BY-SA 4.0	
+4679061	473883	3	Je l'ai brûlée.	Я её сжёг. | Я её сожгла.	vlecomte	CC BY-SA 4.0	
+4679094	473884	3	Je sais danser.	Я умею танцевать.	vlecomte	CC BY-SA 4.0	
+4679103	472916	3	Je peux rester.	Я могу остаться.	vlecomte	CC BY-SA 4.0	
+4679104	472917	3	Je peux attendre.	Я могу подождать.	vlecomte	CC BY-SA 4.0	
+4679109	473885	3	Je l'ai attrapé.	Я его поймал.	vlecomte	CC BY-SA 4.0	
+4679110	473886	3	Je l'ai attrapée.	Я её поймал.	vlecomte	CC BY-SA 4.0	
+4679167	473888	5	Je me sens en sécurité.	Я чувствую себя в безопасности.	vlecomte	CC BY-SA 4.0	
 4679777	474746	6	Il me faut de la nourriture.	Мне нужна еда.	vlecomte	CC BY-SA 4.0	
+4681642	474747	4	Je paie des impôts.	Я плачу налоги.	vlecomte	CC BY-SA 4.0	
+4681692	472919	3	Je l'ai essayé.		vlecomte	CC BY-SA 4.0	
+4681702	472920	4	Je n'étais pas là.	Меня не было.	vlecomte	CC BY-SA 4.0	
+4681707	474748	4	J'étais sans le sou.	Я был без гроша.	vlecomte	CC BY-SA 4.0	
+4681740	472921	3	J'étais en retard.		vlecomte	CC BY-SA 4.0	
+4681742	472922	4	J'ai été en retard.		vlecomte	CC BY-SA 4.0	
+4681770	474750	3	Je l'ai lavé.	Я его вымыл. | Я его помыл.	vlecomte	CC BY-SA 4.0	
+4681771	474751	3	Je l'ai lavée.	Я её вымыл. | Я её помыл.	vlecomte	CC BY-SA 4.0	
+4681784	474752	4	J'ai à nouveau gagné.	Я опять выиграл.	vlecomte	CC BY-SA 4.0	
+4681788	472924	4	Je fais de l'exercice.	Я тренируюсь. | Я упражняюсь.	vlecomte	CC BY-SA 4.0	
+4681899	472925	3	Je suis flasque.		vlecomte	CC BY-SA 4.0	
+4681901	472926	3	Je suis grassouillet.		vlecomte	CC BY-SA 4.0	
+4681904	472927	3	Je suis chauve.	Я лысая. | Я лысый.	vlecomte	CC BY-SA 4.0	
+4681907	474753	3	J'ai dit stop.	Я сказал, хватит! | Я сказал, прекрати.	vlecomte	CC BY-SA 4.0	
+4681959	472928	4	J'en ai fait deux.		vlecomte	CC BY-SA 4.0	
+4681960	472929	4	J'en ai confectionné deux.		vlecomte	CC BY-SA 4.0	
+4681993	474754	3	J'imagine que non.		vlecomte	CC BY-SA 4.0	
+4681994	474755	4	Je suppose que non.	Полагаю, что нет.	vlecomte	CC BY-SA 4.0	
+4682001	472931	3	Je l'ai écrit.		vlecomte	CC BY-SA 4.0	
+4682002	472932	5	C'est moi qui l'ai écrit.	Это я его написал. | Это я написал.	vlecomte	CC BY-SA 4.0	
+4682071	474756	4	Je suis tellement rassasié.		vlecomte	CC BY-SA 4.0	
+4684839	472036	5	Je suis né en octobre.	Я родился в октябре.	vlecomte	CC BY-SA 4.0	
+4693200	473889	5	Je n'y suis pas allé.	Я туда не пошёл. | Я туда не ходил. | Я не пошёл.	vlecomte	CC BY-SA 4.0	
 4693203	473890	6	Je ne m'y suis pas rendu.	Я не пошёл. | Я туда не ходил. | Я туда не пошёл.	vlecomte	CC BY-SA 4.0	
+4693432	474757	3	Je me lèverai.	Я встану.	vlecomte	CC BY-SA 4.0	
+4693450	474759	3	J'y vais maintenant.	Я сейчас туда иду. | Я как раз туда иду. | Я как раз туда еду.	vlecomte	CC BY-SA 4.0	
+4693525	474760	3	Je le tenterai.		vlecomte	CC BY-SA 4.0	
+4694579	473891	4	Il est devenu vieux.	Он состарился. | Он постарел. | Он стал старый.	vlecomte	CC BY-SA 4.0	
+4694614	473892	4	Il a du vin.		vlecomte	CC BY-SA 4.0	
+4694615	473893	3	Il est jeune.	Он молод.	vlecomte	CC BY-SA 4.0	
+4722682	472934	3	Ah bon ?	Правда? | Вот как? | Да? | Да ладно?	vlecomte	CC BY-SA 4.0	
+4729344	474761	3	Ils ont souri.	Они улыбнулись.	vlecomte	CC BY-SA 4.0	
+4729345	474762	3	Elles ont souri.	Они улыбнулись.	vlecomte	CC BY-SA 4.0	
+4729354	474763	3	Ils ont obéi.	Они послушались. | Они подчинились.	vlecomte	CC BY-SA 4.0	
+4729357	474764	3	Elles ont obéi.	Они послушались. | Они подчинились.	vlecomte	CC BY-SA 4.0	
+4729359	472935	3	Elles ont perdu.	Они проиграли.	vlecomte	CC BY-SA 4.0	
+4729360	472936	3	Ils sont partis.	Они уехали. | Они ушли.	vlecomte	CC BY-SA 4.0	
+4729364	474765	4	Ils se sont enlacés.		vlecomte	CC BY-SA 4.0	
+4729365	474766	4	Elles se sont enlacées.		vlecomte	CC BY-SA 4.0	
+4729391	474767	3	Ils ont brûlé.		vlecomte	CC BY-SA 4.0	
+4729392	474768	3	Elles ont brûlé.		vlecomte	CC BY-SA 4.0	
+4729940	474769	3	Ils sont mauvais.	Они плохие.	vlecomte	CC BY-SA 4.0	
+4729941	474770	3	Elles sont mauvaises.	Они плохие.	vlecomte	CC BY-SA 4.0	
+4745084	472197	4	Tom parle couramment français.	Том бегло говорит по-французски.	vlecomte	CC BY-SA 4.0	
 4757810	472198	7	Tom a conduit sa voiture jusqu'à Boston.		vlecomte	CC BY-SA 4.0	
+4758168	474771	3	Elle a rougi.	Она покраснела.	vlecomte	CC BY-SA 4.0	
+4758195	474772	3	Elle le frappa.	Она его ударила.	vlecomte	CC BY-SA 4.0	
+4758196	474773	3	Elle l'a frappé.	Она его ударила.	vlecomte	CC BY-SA 4.0	
+4760205	472199	4	Elle parlait couramment français.	Она бегло говорила по-французски.	vlecomte	CC BY-SA 4.0	
+4765912	472937	3	Tom a perdu.	Том проиграл.	vlecomte	CC BY-SA 4.0	
+4765913	472938	3	Tom a gagné.	Том выиграл.	vlecomte	CC BY-SA 4.0	
+4767861	474775	3	Nous voulons Tom.		vlecomte	CC BY-SA 4.0	
+4767862	474776	3	Je veux Mary.		vlecomte	CC BY-SA 4.0	
+4767874	472943	4	Comment Tom va-t-il ?	Как Том поживает? | Как Том? | Как там Том?	vlecomte	CC BY-SA 4.0	
+4767876	472944	4	Comment va Tom ?	Как Том? | Как там Том? | Как Том поживает? | Как у Тома дела?	vlecomte	CC BY-SA 4.0	
+4775628	474778	3	Nous sommes fauchés.	Мы на мели.	vlecomte	CC BY-SA 4.0	
+4775630	474779	3	On est fauchés.		vlecomte	CC BY-SA 4.0	
+4775650	474780	4	Nous sommes en avance.	Мы рано. | Мы раньше времени.	vlecomte	CC BY-SA 4.0	
+4777301	474781	3	Nous sommes intelligents.	Мы умны. | Мы умные.	vlecomte	CC BY-SA 4.0	
+4777381	474782	3	Nous sommes armés.	Мы вооружены.	vlecomte	CC BY-SA 4.0	
 4777408	474785	6	Nous sommes en train de mourir.	Мы умираем.	vlecomte	CC BY-SA 4.0	
+4777454	474787	3	Nous sommes sauvés.	Мы спасены.	vlecomte	CC BY-SA 4.0	
+4777457	474789	4	Nous nous tiendrons debout.	Мы постоим.	vlecomte	CC BY-SA 4.0	
+4777470	474791	4	Nous sommes en colère.	Мы рассержены.	vlecomte	CC BY-SA 4.0	
+4777471	474792	4	Nous pouvons nous rencontrer.	Мы можем встретиться.	vlecomte	CC BY-SA 4.0	
+4777474	474793	3	Nous pouvons discuter.	Мы можем поговорить.	vlecomte	CC BY-SA 4.0	
+4777477	473894	3	Nous pouvons tenter.	Мы можем попробовать.	vlecomte	CC BY-SA 4.0	
+4777478	474794	3	Nous pouvons attendre.	Мы можем подождать.	vlecomte	CC BY-SA 4.0	
 4777501	474795	6	Nous nous en sommes bien tirés.		vlecomte	CC BY-SA 4.0	
+4777511	474796	3	Tu nous manques.	Мы по тебе скучаем. | Нам тебя не хватает.	vlecomte	CC BY-SA 4.0	
+4777512	474797	3	Vous nous manquez.	Мы по вам скучаем. | Нам вас не хватает.	vlecomte	CC BY-SA 4.0	
+4777516	474798	4	Il nous faut agir.	Мы должны действовать. | Нам надо действовать. | Надо действовать.	vlecomte	CC BY-SA 4.0	
+4777532	474799	4	Il nous faut courir.	Нам надо бежать.	vlecomte	CC BY-SA 4.0	
+4777536	474800	4	Il nous faut essayer.	Нам надо попробовать.	vlecomte	CC BY-SA 4.0	
+4779556	474801	3	Sommes-nous seuls ?	Мы одни?	vlecomte	CC BY-SA 4.0	
+4779559	473895	3	Sommes-nous perdus ?	Мы заблудились?	vlecomte	CC BY-SA 4.0	
+4779561	473896	4	Sommes-nous en sécurité ?	Мы в безопасности?	vlecomte	CC BY-SA 4.0	
+4779565	473897	3	Pouvons-nous venir ?	Мы можем прийти? | Нам можно прийти?	vlecomte	CC BY-SA 4.0	
 4779566	473898	7	Pouvons-nous donner un coup de main ?		vlecomte	CC BY-SA 4.0	
+4779572	473899	3	Pouvons-nous arrêter ?		vlecomte	CC BY-SA 4.0	
+4779577	473900	4	Nous sommes-nous rencontrés ?		vlecomte	CC BY-SA 4.0	
+4779581	474802	3	Maintenant nous attendons.		vlecomte	CC BY-SA 4.0	
+4779593	473901	3	Qui sommes-nous ?	Кто мы?	vlecomte	CC BY-SA 4.0	
+4779601	472200	4	Nous étudions le français.	Мы изучаем французский язык. | Мы изучаем французский.	vlecomte	CC BY-SA 4.0	
+4779612	473902	3	Nous le voulons.	Мы этого хотим.	vlecomte	CC BY-SA 4.0	
+4779662	472945	3	Avons-nous gagné ?	Мы выиграли? | Мы победили?	vlecomte	CC BY-SA 4.0	
+4779747	473903	3	Nous pouvons gagner.	Мы можем выиграть. | Мы можем победить.	vlecomte	CC BY-SA 4.0	
+4779748	473904	3	Nous pouvons l'emporter.	Мы можем выиграть.	vlecomte	CC BY-SA 4.0	
+4779821	472201	3	Nous parlons français.	Мы говорим по-французски.	vlecomte	CC BY-SA 4.0	
+4779859	474803	4	Nous le savons tous.	Мы все это знаем.	vlecomte	CC BY-SA 4.0	
 4797520	472202	6	Mes enfants sont nés à Boston.	Мои дети родились в Бостоне.	vlecomte	CC BY-SA 4.0	
+4805503	474804	5	Nous ne pouvons y aller.		vlecomte	CC BY-SA 4.0	
 4805504	474805	6	Nous ne pouvons nous y rendre.		vlecomte	CC BY-SA 4.0	
 4805505	474806	6	Nous ne pouvons pas y aller.	Мы не можем туда пойти. | Мы не можем туда поехать. | Мы не можем пойти. | Мы не можем поехать.	vlecomte	CC BY-SA 4.0	
 4805506	474807	7	Nous ne pouvons pas nous y rendre.	Мы не можем туда пойти. | Мы не можем туда поехать.	vlecomte	CC BY-SA 4.0	
+4805507	474808	5	Nous ne pouvons pas partir.		vlecomte	CC BY-SA 4.0	
+4811788	472203	3	J'aime beaucoup Boston.	Я очень люблю Бостон.	vlecomte	CC BY-SA 4.0	
+4811789	472204	4	Tom vit à Boston.	Том живёт в Бостоне.	vlecomte	CC BY-SA 4.0	
 4827504	472205	10	Tom n'est rentré à la maison qu'après 02h30 ce matin.		vlecomte	CC BY-SA 4.0	
 4827508	472206	7	Tom n'est rentré qu'après 02h30 ce matin.		vlecomte	CC BY-SA 4.0	
 4827579	472207	8	Combien d'années Tom a-t-il été à Boston ?	Сколько лет Том пробыл в Бостоне?	vlecomte	CC BY-SA 4.0	
+4827584	472208	5	Tom est-il de Boston ?	Том из Бостона?	vlecomte	CC BY-SA 4.0	
 4827585	472209	7	Est-ce que Tom est de Boston ?	Том из Бостона?	vlecomte	CC BY-SA 4.0	
+4841766	474809	5	Je ne suis pas gros.	Я не толстый.	vlecomte	CC BY-SA 4.0	
+4841796	474810	5	Je ne suis pas vieux.	Я не старый.	vlecomte	CC BY-SA 4.0	
+4845497	472210	3	J'aime visiter Boston.	Я люблю бывать в Бостоне.	vlecomte	CC BY-SA 4.0	
 4845503	472211	7	Est-ce que Tom habite à Boston ?	Том живёт в Бостоне? | Том в Бостоне живёт?	vlecomte	CC BY-SA 4.0	
+4862838	473905	3	Nous mourons tous.	Мы все умираем.	vlecomte	CC BY-SA 4.0	
+4862852	474811	3	Nous démissionnons tous.		vlecomte	CC BY-SA 4.0	
+4862856	474812	3	Nous arrêtons tous.		vlecomte	CC BY-SA 4.0	
+4862860	474813	3	Nous travaillons tous.	Мы все работаем.	vlecomte	CC BY-SA 4.0	
+4862902	474814	3	Prends tout !		vlecomte	CC BY-SA 4.0	
+4862903	474815	3	Prenez tout !		vlecomte	CC BY-SA 4.0	
 4864860	474816	6	Je suis tout à fait prêt.		vlecomte	CC BY-SA 4.0	
+4869053	472947	4	C’est qui, Tom ?	Том это кто?	vlecomte	CC BY-SA 4.0	
+4893989	473906	3	Fais-le donc !	Так сделай! | Так сделай это!	vlecomte	CC BY-SA 4.0	
+4895881	473907	3	Il est tôt.	Рано.	vlecomte	CC BY-SA 4.0	
+4897545	474819	4	Remets-le en place !	Положи его на место!	vlecomte	CC BY-SA 4.0	
+4901121	474820	4	Fais-le moi savoir !		vlecomte	CC BY-SA 4.0	
 4904055	472212	6	Pourquoi devrais-je apprendre le français ?	Зачем мне учить французский?	vlecomte	CC BY-SA 4.0	
+4904406	473909	3	Laisse-nous sortir !	Выпусти нас!	vlecomte	CC BY-SA 4.0	
+4904407	473910	3	Laissez-nous sortir !	Выпустите нас!	vlecomte	CC BY-SA 4.0	
+4910707	472950	4	Je suis à toi.	Я твой. | Я твоя. | Я к твоим услугам.	vlecomte	CC BY-SA 4.0	
+4910708	472951	4	Je suis à vous.	Я ваша. | Я ваш. | Я к вашим услугам.	vlecomte	CC BY-SA 4.0	
+4923875	474822	3	Êtes-vous occupés ?	Вы заняты?	vlecomte	CC BY-SA 4.0	
+4923876	474823	3	Êtes-vous occupées ?	Вы заняты?	vlecomte	CC BY-SA 4.0	
+4924009	474824	3	Vous êtes raisonnables.		vlecomte	CC BY-SA 4.0	
+4924017	474825	3	Vous êtes faibles.	Вы слабы. | Вы слабые.	vlecomte	CC BY-SA 4.0	
+4961541	472952	4	Ne bougez pas !	Не двигайтесь! | Не шевелитесь.	vlecomte	CC BY-SA 4.0	
+4962137	474826	3	Tom est paresseux.	Том ленивый. | Том ленив.	vlecomte	CC BY-SA 4.0	
 4962151	472037	6	Mary attend un bébé pour octobre.	Мэри ждёт к октябрю ребёнка.	vlecomte	CC BY-SA 4.0	
+4963427	472953	4	Ne demande pas !	Не спрашивай.	vlecomte	CC BY-SA 4.0	
+4965985	472954	3	N'attends pas !	Не жди.	vlecomte	CC BY-SA 4.0	
+4965986	472955	3	N'attendez pas !	Не ждите.	vlecomte	CC BY-SA 4.0	
 4965989	474827	6	Je suis en train de discuter.		vlecomte	CC BY-SA 4.0	
+4992878	473912	3	Prends la boîte.	Возьми коробку.	vlecomte	CC BY-SA 4.0	
+4992879	473913	3	Prenez la boîte.	Возьмите коробку.	vlecomte	CC BY-SA 4.0	
+4992916	472213	4	Ton français est bon.	У тебя хороший французский.	vlecomte	CC BY-SA 4.0	
+4992918	472214	4	Votre français est bon.	У Вас хороший французский.	vlecomte	CC BY-SA 4.0	
 5013831	472215	6	Tom a été tué à Boston.	Том был убит в Бостоне.	vlecomte	CC BY-SA 4.0	
+5013857	472956	3	Ça fait mal.	Больно.	vlecomte	CC BY-SA 4.0	
+5017581	473914	4	J'ai demandé à Tom.	Я спросил у Тома.	vlecomte	CC BY-SA 4.0	
+5034335	472216	5	Je préférais être à Boston.		vlecomte	CC BY-SA 4.0	
+5049993	472957	3	Va doucement !		vlecomte	CC BY-SA 4.0	
+5049994	472958	3	Allez doucement !		vlecomte	CC BY-SA 4.0	
+5050011	472959	4	Salut, les mecs !		vlecomte	CC BY-SA 4.0	
+5058638	474830	5	J'avais la tête qui tournait.	У меня кружилась голова.	vlecomte	CC BY-SA 4.0	
+5058639	474831	4	La tête me tournait.	У меня кружилась голова.	vlecomte	CC BY-SA 4.0	
+5058643	474832	5	Je me fais du souci.	Я волнуюсь. | Я беспокоюсь.	vlecomte	CC BY-SA 4.0	
+5058648	474833	3	Je suis touché.	Я тронут.	vlecomte	CC BY-SA 4.0	
+5058665	472960	3	Je suis ruiné.	Я разорён.	vlecomte	CC BY-SA 4.0	
+5058672	472961	3	Je suis reposé.		vlecomte	CC BY-SA 4.0	
+5058692	474835	3	Je suis détendu.		vlecomte	CC BY-SA 4.0	
+5058702	474836	3	Je suis remonté.		vlecomte	CC BY-SA 4.0	
 5058708	472962	6	Je suis en train de payer.		vlecomte	CC BY-SA 4.0	
+5060175	472963	3	Je suis connu.	Я известен.	vlecomte	CC BY-SA 4.0	
+5060181	472964	4	Je suis en premier.		vlecomte	CC BY-SA 4.0	
+5060186	474837	3	Je suis affolé.		vlecomte	CC BY-SA 4.0	
+5060189	472965	3	Je suis difficile.		vlecomte	CC BY-SA 4.0	
+5060190	472966	3	Je suis tatillon.		vlecomte	CC BY-SA 4.0	
+5060192	472967	3	Je suis cupide.		vlecomte	CC BY-SA 4.0	
+5060194	472968	3	Je suis gourmand.		vlecomte	CC BY-SA 4.0	
+5060199	472969	3	Je suis humble.		vlecomte	CC BY-SA 4.0	
+5060207	474838	3	J'ai la frousse.		vlecomte	CC BY-SA 4.0	
+5063522	472970	3	Je suis faible.	Я слаб. | Я слаба. | Я слабый. | Я слабая.	vlecomte	CC BY-SA 4.0	
+5063523	474839	3	Je suis fortuné.		vlecomte	CC BY-SA 4.0	
 5063532	472971	6	Je suis en train de déménager.	Я переезжаю.	vlecomte	CC BY-SA 4.0	
+5063541	472972	3	Suis-je clair ?	Я ясно выразился? | Я ясно выражаюсь?	vlecomte	CC BY-SA 4.0	
 5063543	472973	6	Suis-je en train de mourir ?	Я умираю?	vlecomte	CC BY-SA 4.0	
+5063545	472974	4	Suis-je en avance ?	Я рано?	vlecomte	CC BY-SA 4.0	
+5063546	472975	4	Suis-je le premier ?	Я первый?	vlecomte	CC BY-SA 4.0	
+5063548	472976	3	Suis-je engagé ?	Меня берут на работу?	vlecomte	CC BY-SA 4.0	
+5063563	472977	3	Je l'ai cassé.	Я его разбил. | Я его разбила. | Я его сломал. | Я его сломала.	vlecomte	CC BY-SA 4.0	
+5063564	472978	3	Je l'ai cassée.	Я её сломал. | Я её сломала. | Я её разбил. | Я её разбила.	vlecomte	CC BY-SA 4.0	
+5063566	473915	5	J'ai ressenti de la peur.	Я почувствовал страх.	vlecomte	CC BY-SA 4.0	
+5063574	472979	5	J'ai ressenti de la tristesse.		vlecomte	CC BY-SA 4.0	
+5063580	472980	3	Je resterai debout.	Я постою.	vlecomte	CC BY-SA 4.0	
+5063597	474841	4	J'ai commencé à m'ennuyer.		vlecomte	CC BY-SA 4.0	
+5063612	474842	5	J'ai été pris de vertiges.		vlecomte	CC BY-SA 4.0	
+5063619	474843	5	On m'a mis une amende.		vlecomte	CC BY-SA 4.0	
+5063621	474844	5	On m'a collé une amende.	Мне влепили штраф.	vlecomte	CC BY-SA 4.0	
+5063627	474845	5	Je me suis fait verbaliser.		vlecomte	CC BY-SA 4.0	
+5063630	474846	5	On m'a mis une contravention.		vlecomte	CC BY-SA 4.0	
+5063646	472981	4	J'ai préparé du thé.	Я приготовил чай. | Я заварил чай.	vlecomte	CC BY-SA 4.0	
+5063648	472982	4	Je les ai rencontrés.	Я с ними встретился. | Я с ними познакомился. | Я их встретил.	vlecomte	CC BY-SA 4.0	
+5063649	472983	4	Je les ai rencontrées.	Я с ними встретился. | Я с ними познакомился. | Я их встретил.	vlecomte	CC BY-SA 4.0	
+5063650	472984	3	Je les rencontrai.	Я их встретил. | Я с ними встретился.	vlecomte	CC BY-SA 4.0	
+5064936	474849	3	Je m'y trouvais.		vlecomte	CC BY-SA 4.0	
+5064938	474851	4	Je me tenais là.		vlecomte	CC BY-SA 4.0	
+5064940	474852	3	Puis-je commencer ?	Можно мне начать? | Я могу начать? | Я могу начинать? | Можно начинать?	vlecomte	CC BY-SA 4.0	
+5065437	472986	4	Je suis plus rapide.	Я быстрее.	vlecomte	CC BY-SA 4.0	
+5065447	472987	4	Suis-je en retard ?	Я опоздал? | Я опоздала?	vlecomte	CC BY-SA 4.0	
 5065680	473916	6	Je me suis senti en sécurité.	Я почувствовал себя в безопасности.	vlecomte	CC BY-SA 4.0	
+5065682	473917	4	Je me sentais bien.	Я чувствовал себя хорошо. | Я хорошо себя чувствовал.	vlecomte	CC BY-SA 4.0	
 5066634	472988	7	Je me suis mis à avoir chaud.		vlecomte	CC BY-SA 4.0	
+5070981	472217	5	Il neige toujours à Boston.		vlecomte	CC BY-SA 4.0	
+5136753	472218	3	J'ai visité Boston.	Я посетил Бостон. | Я посетила Бостон. | Я съездил в Бостон. | Я съездила в Бостон.	vlecomte	CC BY-SA 4.0	
+5156530	473918	3	Attends un peu.	Подожди немного.	vlecomte	CC BY-SA 4.0	
 5198077	472038	10	Tom et Mary ont décidé de se marier en octobre.	Том и Мэри решили в октябре пожениться.	vlecomte	CC BY-SA 4.0	
+5254223	474857	5	Je lis sur les lèvres.	Я читаю по губам.	vlecomte	CC BY-SA 4.0	
+5262086	472990	3	Apporte du vin.	Принеси вина.	vlecomte	CC BY-SA 4.0	
+5262088	472991	3	Apportez du vin.	Принесите вина.	vlecomte	CC BY-SA 4.0	
+5265431	473920	4	Tom hocha la tête.		vlecomte	CC BY-SA 4.0	
+5265928	473924	3	Fais ton boulot.	Делай свою работу.	vlecomte	CC BY-SA 4.0	
 5268606	472219	6	Tu ne parles pas français ?	Ты не говоришь по-французски?	vlecomte	CC BY-SA 4.0	
 5268607	472220	6	Vous ne parlez pas français ?	Вы не говорите по-французски?	vlecomte	CC BY-SA 4.0	
 5286131	472221	6	J’ai eu un A en français.	Я получил пятёрку по французскому.	vlecomte	CC BY-SA 4.0	
+5289132	472222	5	Je veux retourner à Boston.	Я хочу вернуться в Бостон.	vlecomte	CC BY-SA 4.0	
+5293637	473925	3	C'est bon marché.	Это дёшево.	vlecomte	CC BY-SA 4.0	
+5293642	472995	4	Achète-toi une vie !		vlecomte	CC BY-SA 4.0	
+5294519	474858	5	Tom a cligné des yeux.		vlecomte	CC BY-SA 4.0	
+5294858	473927	3	Tom est d'accord.	Том согласен.	vlecomte	CC BY-SA 4.0	
 5297892	472223	6	Je me suis perdu dans Boston.	Я потерялся в Бостоне. | Я заблудился в Бостоне.	vlecomte	CC BY-SA 4.0	
+5297896	474861	3	Reste à l'écart.	Не подходи. | Стой в стороне.	vlecomte	CC BY-SA 4.0	
+5297897	474862	3	Restez à l'écart.	Не подходите. | Стойте в стороне.	vlecomte	CC BY-SA 4.0	
 5297903	472224	6	Serez-vous à Boston ce week-end ?	Вы будете в эти выходные в Бостоне?	vlecomte	CC BY-SA 4.0	
 5297904	472225	6	Seras-tu à Boston ce week-end ?	Ты будешь в эти выходные в Бостоне?	vlecomte	CC BY-SA 4.0	
+5299460	474865	3	Tom est vivant.	Том живой.	vlecomte	CC BY-SA 4.0	
+5299462	474866	4	Tom est en vie.	Том жив.	vlecomte	CC BY-SA 4.0	
+5299466	474867	3	Tom est seul.	Том один.	vlecomte	CC BY-SA 4.0	
 5301041	472226	6	J'ai séjourné chez Tom à Boston.	Я остановился у Тома в Бостоне.	vlecomte	CC BY-SA 4.0	
 5301080	472227	7	Je ne veux pas retourner à Boston.	Я не хочу возвращаться в Бостон.	vlecomte	CC BY-SA 4.0	
 5302711	472228	7	Je vais à Boston pour trois mois.	Я еду в Бостон на три месяца.	vlecomte	CC BY-SA 4.0	
+5302762	472229	4	J'apprends également le français.	Я ещё и французский учу.	vlecomte	CC BY-SA 4.0	
+5302763	472230	4	J'apprends aussi le français.	Я тоже учу французский.	vlecomte	CC BY-SA 4.0	
+5311665	474868	3	J'aime le lait.	Я люблю молоко.	vlecomte	CC BY-SA 4.0	
 5315558	472231	7	Tom a également une maison à Boston.		vlecomte	CC BY-SA 4.0	
+5318967	472232	4	Tom habitait à Boston.	Том жил в Бостоне.	vlecomte	CC BY-SA 4.0	
 5324451	538687	7	J’ai une réunion à 14 h 30.	У меня в 14:30 собрание.	vlecomte	CC BY-SA 4.0	
+5324502	472234	5	Je quitterai Boston ce soir.	Я уезжаю из Бостона сегодня вечером.	vlecomte	CC BY-SA 4.0	
 5324503	472235	6	Je partirai de Boston ce soir.	Я уезжаю из Бостона сегодня вечером.	vlecomte	CC BY-SA 4.0	
 5324582	472236	6	Tom vit et travaille à Boston.	Том живёт и работает в Бостоне.	vlecomte	CC BY-SA 4.0	
 5324583	472237	6	Tom habite et travaille à Boston.	Том живёт и работает в Бостоне.	vlecomte	CC BY-SA 4.0	
@@ -153,36 +1188,89 @@ sentence_id	audio_id	words	fr	ru	username	license	attribution_url
 5329181	472239	9	Je devrais arriver à Boston d'ici l'heure du déjeuner.		vlecomte	CC BY-SA 4.0	
 5331515	472240	7	Je suis né à Boston en 1995.	Я родился в Бостоне в 1995 году.	vlecomte	CC BY-SA 4.0	
 5331529	472241	7	Tom vient de rentrer à Boston aujourd'hui.		vlecomte	CC BY-SA 4.0	
+5334636	474869	4	Je suis en service.		vlecomte	CC BY-SA 4.0	
+5334712	474870	3	Tom va démissionner.	Том собирается увольняться.	vlecomte	CC BY-SA 4.0	
+5334717	474871	3	Tom va arrêter.		vlecomte	CC BY-SA 4.0	
+5340376	472242	5	Avez-vous grandi à Boston ?	Вы выросли в Бостоне?	vlecomte	CC BY-SA 4.0	
 5344239	472243	6	Tom n'est pas allé à Boston.	Том не поехал в Бостон. | Том не ездил в Бостон.	vlecomte	CC BY-SA 4.0	
+5350872	472244	5	J'ai une réunion à 2h30.	У меня собрание в 14:30.	vlecomte	CC BY-SA 4.0	
+5350902	472245	5	Tom vit actuellement à Boston.	Том в настоящее время живёт в Бостоне.	vlecomte	CC BY-SA 4.0	
 5350916	472246	7	C'est arrivé quand Tom était à Boston.	Это случилось, когда Том был в Бостоне.	vlecomte	CC BY-SA 4.0	
+5350932	474872	4	Nous avons fait cela.	Мы это сделали.	vlecomte	CC BY-SA 4.0	
+5350934	474873	4	On a fait ça.	Мы это сделали.	vlecomte	CC BY-SA 4.0	
 5353236	538688	10	Mes parents seront à la maison vers 14 h 30.	Мои родители будут дома к половине третьего.	vlecomte	CC BY-SA 4.0	
 5359105	472248	6	Avez-vous déjà vécu à Boston ?	Вы когда-нибудь жили в Бостоне?	vlecomte	CC BY-SA 4.0	
 5359106	472249	6	Avez-vous déjà habité à Boston ?	Вы когда-нибудь жили в Бостоне?	vlecomte	CC BY-SA 4.0	
 5359107	472250	6	As-tu déjà vécu à Boston ?	Ты когда-нибудь жил в Бостоне?	vlecomte	CC BY-SA 4.0	
 5359108	472251	6	As-tu déjà habité à Boston ?	Ты когда-нибудь жил в Бостоне?	vlecomte	CC BY-SA 4.0	
+5359224	472252	3	Étudions le français.	Давай изучать французский. | Давайте изучать французский.	vlecomte	CC BY-SA 4.0	
+5364302	473930	3	Tom a regardé.	Том посмотрел.	vlecomte	CC BY-SA 4.0	
+5364313	473933	3	Tom a oublié.	Том забыл.	vlecomte	CC BY-SA 4.0	
+5364317	474874	3	Tom se noya.	Том утонул.	vlecomte	CC BY-SA 4.0	
+5364319	474875	3	Tom s'est noyé.	Том утонул.	vlecomte	CC BY-SA 4.0	
+5364339	473935	3	Tom est sourd.	Том глухой.	vlecomte	CC BY-SA 4.0	
+5364367	474876	4	S'il te plaît, arrête.	Прекрати, пожалуйста. | Перестань, пожалуйста. | Останови, пожалуйста.	vlecomte	CC BY-SA 4.0	
+5364368	474877	4	S'il vous plaît, arrêtez.	Прекратите, пожалуйста. | Перестаньте, пожалуйста. | Остановите, пожалуйста.	vlecomte	CC BY-SA 4.0	
+5364369	474878	4	Arrêtez, s'il vous plaît.	Остановите, пожалуйста. | Прекратите, пожалуйста. | Перестаньте, пожалуйста.	vlecomte	CC BY-SA 4.0	
+5364370	474879	4	Arrête, s'il te plaît.	Прекрати, пожалуйста. | Перестань, пожалуйста. | Останови, пожалуйста.	vlecomte	CC BY-SA 4.0	
+5364419	473936	3	Tom est là.	Том здесь.	vlecomte	CC BY-SA 4.0	
+5364424	473937	3	Tom est ici.	Том здесь.	vlecomte	CC BY-SA 4.0	
+5364426	473938	5	Tom est à la maison.	Том дома.	vlecomte	CC BY-SA 4.0	
+5364427	474884	3	Tom est drôle.		vlecomte	CC BY-SA 4.0	
+5364428	474885	3	Tom est rigolo.		vlecomte	CC BY-SA 4.0	
+5364432	474886	3	Tom est marrant.	Том забавный.	vlecomte	CC BY-SA 4.0	
+5364434	473939	3	Tom est content.	Том доволен.	vlecomte	CC BY-SA 4.0	
+5364435	473940	3	Tom est heureux.	Том счастлив.	vlecomte	CC BY-SA 4.0	
+5364437	473941	3	Tom est joyeux.		vlecomte	CC BY-SA 4.0	
+5364440	473942	3	Tom est rapide.	Том быстрый.	vlecomte	CC BY-SA 4.0	
 5364515	472253	8	Tom vivait à Boston avant, n'est-ce pas ?	Том раньше жил в Бостоне, да?	vlecomte	CC BY-SA 4.0	
 5364542	472254	8	Tom a un ami qui vit à Boston.	У Тома есть друг, который живёт в Бостоне.	vlecomte	CC BY-SA 4.0	
+5365735	473944	3	L'amour fait mal.	Любовь ранит. | Любовь причиняет боль.	vlecomte	CC BY-SA 4.0	
+5365838	473945	3	Tom a aidé.	Том помог.	vlecomte	CC BY-SA 4.0	
 5366542	472255	6	J'aimerais aller à Boston un jour.	Я хотел бы как-нибудь съездить в Бостон.	vlecomte	CC BY-SA 4.0	
 5366543	472256	6	Tom a probablement été à Boston.	Том, вероятно, был в Бостоне.	vlecomte	CC BY-SA 4.0	
 5366554	472257	6	Tous mes enfants vivent à Boston.	Все мои дети живут в Бостоне.	vlecomte	CC BY-SA 4.0	
 5366556	472258	7	Tom a vécu à Boston pendant longtemps.	Том долгое время прожил в Бостоне.	vlecomte	CC BY-SA 4.0	
+5367269	472259	4	Nous étions à Boston.	Мы были в Бостоне.	vlecomte	CC BY-SA 4.0	
+5367270	472260	4	On était à Boston.	Мы были в Бостоне.	vlecomte	CC BY-SA 4.0	
 5369461	472261	6	Nous ne vivons pas à Boston.		vlecomte	CC BY-SA 4.0	
+5369619	472262	5	Mes enfants vivent à Boston.	Мои дети живут в Бостоне.	vlecomte	CC BY-SA 4.0	
+5369620	472263	5	Mes enfants habitent à Boston.	Мои дети живут в Бостоне.	vlecomte	CC BY-SA 4.0	
+5370996	473947	3	Tom va pleurer.	Том будет плакать.	vlecomte	CC BY-SA 4.0	
 5371948	472039	8	Nous nous sommes mariés le 20 octobre 2013.	Мы поженились 20 октября 2013 года.	vlecomte	CC BY-SA 4.0	
+5371958	474890	3	Ils sont vieux.	Они старые.	vlecomte	CC BY-SA 4.0	
+5371959	474891	3	Elles sont vieilles.	Они старые.	vlecomte	CC BY-SA 4.0	
+5372011	472264	5	J'étudie le français à l'école.	Я изучаю французский в школе.	vlecomte	CC BY-SA 4.0	
 5375529	538689	9	Où étiez-vous à 14 h 30 lundi après-midi ?	Где вы были в понедельник в четырнадцать тридцать?	vlecomte	CC BY-SA 4.0	
 5375530	538690	9	Où étais-tu à 14 h 30 lundi après-midi ?	Где ты был в понедельник в четырнадцать тридцать?	vlecomte	CC BY-SA 4.0	
 5375534	472267	6	J'ai appris un peu de français.		vlecomte	CC BY-SA 4.0	
+5375570	473948	4	Ça s'est bien passé.	Всё прошло хорошо.	vlecomte	CC BY-SA 4.0	
+5375631	473003	3	J'ai besoin d'air.	Мне нужен воздух.	vlecomte	CC BY-SA 4.0	
+5375632	473004	5	Il me faut de l'air.	Мне нужен воздух.	vlecomte	CC BY-SA 4.0	
 5377471	538691	11	J’étais avec Tom de 8 h 30 à 14 h 30.		vlecomte	CC BY-SA 4.0	
 5377472	472269	7	J'étais avec Tom de 20h30 à 2h30.		vlecomte	CC BY-SA 4.0	
 5380308	472270	7	Tom sera à Boston pendant une semaine.	Том пробудет в Бостоне неделю.	vlecomte	CC BY-SA 4.0	
 5381208	472271	6	Tom vit maintenant près de Boston.	Том сейчас живёт недалеко от Бостона.	vlecomte	CC BY-SA 4.0	
+5381931	472272	5	Tu aimes Boston, non ?		vlecomte	CC BY-SA 4.0	
+5381936	472273	5	Tu aimes Boston, hein ?		vlecomte	CC BY-SA 4.0	
 5381937	472274	6	Tu aimes Boston, pas vrai ?		vlecomte	CC BY-SA 4.0	
+5382912	472275	4	Il neige à Boston.	В Бостоне идёт снег. | В Бостоне снег.	vlecomte	CC BY-SA 4.0	
 5382918	472040	6	Tom a plaidé coupable en octobre.		vlecomte	CC BY-SA 4.0	
 5382924	472276	6	Ce n'est pas loin de Boston.	Это недалеко от Бостона.	vlecomte	CC BY-SA 4.0	
+5385495	472277	5	Qui connais-tu à Boston ?	Кого ты знаешь в Бостоне?	vlecomte	CC BY-SA 4.0	
+5385497	472278	5	Qui connaissez-vous à Boston ?	Кого вы знаете в Бостоне?	vlecomte	CC BY-SA 4.0	
 5386446	472279	8	Tom m'a dit que tu étais à Boston.	Том сказал мне, что ты в Бостоне.	vlecomte	CC BY-SA 4.0	
+5386450	472280	3	J'adorerais visiter Boston.		vlecomte	CC BY-SA 4.0	
+5390523	472281	5	J'ai un rendez-vous à 14:30.	У меня встреча в 14:30.	vlecomte	CC BY-SA 4.0	
 5390526	538692	7	J’ai un rendez-vous à 14 h 30.	У меня встреча в 14:30. | У меня встреча в полтретьего. | У меня в половине третьего встреча.	vlecomte	CC BY-SA 4.0	
 5391197	472283	6	Nous devrions peut-être aller à Boston.	Нам, наверное, стоит съездить в Бостон. | Нам, наверное, надо съездить в Бостон.	vlecomte	CC BY-SA 4.0	
+5391237	472284	4	J'aimerais étudier le français.	Я хотел бы изучать французский.	vlecomte	CC BY-SA 4.0	
+5391239	472285	5	Je voudrais étudier le français.	Я хотел бы изучать французский.	vlecomte	CC BY-SA 4.0	
+5391274	472286	5	J'ai visité Boston trois fois.	Я был в Бостоне три раза. | Я была в Бостоне три раза.	vlecomte	CC BY-SA 4.0	
 5399536	472287	7	Je veux que tu ailles à Boston.	Я хочу, чтобы ты поехал в Бостон. | Я хочу, чтобы ты съездил в Бостон.	vlecomte	CC BY-SA 4.0	
 5399538	472288	7	Je veux que vous alliez à Boston.	Я хочу, чтобы вы поехали в Бостон. | Я хочу, чтобы вы съездили в Бостон.	vlecomte	CC BY-SA 4.0	
+5403612	474892	4	Vous pouvez vous asseoir.	Можете сесть.	vlecomte	CC BY-SA 4.0	
+5403613	474893	3	Tu peux t'asseoir.	Можешь сесть.	vlecomte	CC BY-SA 4.0	
 5407214	472289	6	Quand es-tu arrivé à Boston ?	Когда ты приехал в Бостон?	vlecomte	CC BY-SA 4.0	
 5407216	472290	6	Quand êtes-vous arrivés à Boston ?	Когда вы приехали в Бостон?	vlecomte	CC BY-SA 4.0	
 5407217	472291	6	Quand es-tu arrivée à Boston ?	Когда ты приехала в Бостон?	vlecomte	CC BY-SA 4.0	
@@ -191,8 +1279,13 @@ sentence_id	audio_id	words	fr	ru	username	license	attribution_url
 5407226	472294	6	Quand êtes-vous arrivée à Boston ?	Когда Вы приехали в Бостон?	vlecomte	CC BY-SA 4.0	
 5411229	472295	7	Tom a acheté une maison à Boston.	Том купил дом в Бостоне.	vlecomte	CC BY-SA 4.0	
 5411231	472296	6	Tom acheta une maison à Boston.	Том купил дом в Бостоне.	vlecomte	CC BY-SA 4.0	
+5416342	473949	5	Je ne peux pas manger.	Я не могу есть.	vlecomte	CC BY-SA 4.0	
 5420023	472297	7	Qui est ton professeur de français ?	Кто твой учитель французского? | Кто тебе преподаёт французский?	vlecomte	CC BY-SA 4.0	
 5420024	472298	7	Qui est votre professeur de français ?	Кто у вас преподаёт французский? | Кто вам преподаёт французский?	vlecomte	CC BY-SA 4.0	
+5420094	472299	4	J'étudie toujours le français.	Я всё ещё изучаю французский.	vlecomte	CC BY-SA 4.0	
+5434787	472300	4	Pouvons-nous parler français ?	Мы можем говорить по-французски?	vlecomte	CC BY-SA 4.0	
+5434806	472301	4	Peut-on parler français ?	Мы можем говорить по-французски?	vlecomte	CC BY-SA 4.0	
+5434807	472302	5	On peut parler français ?	Мы можем говорить по-французски?	vlecomte	CC BY-SA 4.0	
 5441262	472303	7	Nous sommes allés à Boston en bus.	Мы поехали в Бостон на автобусе.	vlecomte	CC BY-SA 4.0	
 5452590	472041	6	Je vais me marier en octobre.	Я в октябре выхожу замуж. | Я в октябре женюсь.	vlecomte	CC BY-SA 4.0	
 5458240	472304	7	J'ai déjà acheté mon ticket pour Boston.	Я уже купил билет в Бостон. | Я уже купил билет до Бостона.	vlecomte	CC BY-SA 4.0	
@@ -201,15 +1294,38 @@ sentence_id	audio_id	words	fr	ru	username	license	attribution_url
 5461566	538694	10	Vous devez être ici à 14 h 30 demain après-midi.		vlecomte	CC BY-SA 4.0	
 5461660	472308	6	Tom sera à Boston l'année prochaine.	Том будет в Бостоне в следующем году.	vlecomte	CC BY-SA 4.0	
 5482646	474894	6	Est-ce que Tom est sûr ?	Том уверен?	vlecomte	CC BY-SA 4.0	
+5487103	472309	5	J'apprends le français à l'école.	Я учу французский в школе.	vlecomte	CC BY-SA 4.0	
+5490090	472310	4	Tom étudie à Boston.	Том учится в Бостоне.	vlecomte	CC BY-SA 4.0	
+5490106	474896	5	Nous avons besoin de Tom.	Том нам нужен. | Нам нужен Том.	vlecomte	CC BY-SA 4.0	
 5494656	472311	6	Je connais un peu de français.		vlecomte	CC BY-SA 4.0	
+5494661	473005	4	Ne te précipite pas.	Не торопись.	vlecomte	CC BY-SA 4.0	
+5494662	473006	4	Ne vous précipitez pas.	Не торопитесь.	vlecomte	CC BY-SA 4.0	
+5500754	474897	3	Es-tu chauve ?	Ты лысый? | Ты лысая?	vlecomte	CC BY-SA 4.0	
+5500756	474898	3	Êtes-vous chauves ?	Вы лысые?	vlecomte	CC BY-SA 4.0	
+5500758	474899	3	Êtes-vous chauve ?	Вы лысый? | Вы лысая?	vlecomte	CC BY-SA 4.0	
 5503516	472312	8	Tom est resté à Boston pendant trois jours.	Том пробыл в Бостоне три дня.	vlecomte	CC BY-SA 4.0	
 5503517	472313	7	Tom resta à Boston pendant trois jours.	Том пробыл в Бостоне три дня.	vlecomte	CC BY-SA 4.0	
 5524402	538696	9	Nous avons quitté Boston à 2 h 30 hier.	Мы выехали из Бостона вчера в половине третьего. | Мы выехали из Бостона вчера в 2:30.	vlecomte	CC BY-SA 4.0	
 5524405	538695	9	Nous avons quitté Boston à 14 h 30 hier.	Мы выехали из Бостона вчера в половине третьего. | Мы выехали из Бостона вчера в 14:30.	vlecomte	CC BY-SA 4.0	
+5545251	474900	4	J'ai besoin de colle.	Мне нужен клей.	vlecomte	CC BY-SA 4.0	
+5545288	474901	4	Je déteste le lait.	Ненавижу молоко. | Терпеть не могу молоко.	vlecomte	CC BY-SA 4.0	
+5551857	472316	5	Tom étudie aussi le français.		vlecomte	CC BY-SA 4.0	
+5555275	473950	4	Je ne peux gagner.		vlecomte	CC BY-SA 4.0	
+5555278	473951	5	Je ne peux pas gagner.	Я не могу победить. | Я не могу выиграть.	vlecomte	CC BY-SA 4.0	
+5555281	473952	4	Je ne puis gagner.		vlecomte	CC BY-SA 4.0	
+5558925	473007	3	J'ai été blessé.	Я был ранен. | Меня ранило.	vlecomte	CC BY-SA 4.0	
+5576639	472317	5	Tom aime vivre à Boston.	Тому нравится жить в Бостоне.	vlecomte	CC BY-SA 4.0	
+5578712	474902	4	Je déteste le travail.	Я ненавижу работу.	vlecomte	CC BY-SA 4.0	
+5589142	472318	4	Nous retournons à Boston.	Мы возвращаемся в Бостон.	vlecomte	CC BY-SA 4.0	
 5591258	472319	6	Tom vient de revenir de Boston.	Том только что вернулся из Бостона.	vlecomte	CC BY-SA 4.0	
+5592674	472320	5	Tom est-il professeur de français?	Том - преподаватель французского?	vlecomte	CC BY-SA 4.0	
 5597721	472321	6	Nous ne retournerons pas à Boston.	Мы не вернёмся в Бостон.	vlecomte	CC BY-SA 4.0	
 5598283	472322	6	Tom a conduit Marie à Boston.	Том отвёз Мэри в Бостон.	vlecomte	CC BY-SA 4.0	
 5599854	472323	9	Tom ne sait pas que Mary est à Boston.	Том не знает, что Мэри в Бостоне.	vlecomte	CC BY-SA 4.0	
+5600941	472324	4	J'apprécie la cuisine française.	Мне нравится французская кухня.	vlecomte	CC BY-SA 4.0	
+5600968	473009	4	Je suis au lit.	Я в постели.	vlecomte	CC BY-SA 4.0	
+5600970	473010	3	Je suis alité.		vlecomte	CC BY-SA 4.0	
+5603434	472325	3	Tom parle français.	Том говорит по-французски.	vlecomte	CC BY-SA 4.0	
 5610658	472326	6	J'ai appris le français par moi-même.		vlecomte	CC BY-SA 4.0	
 5621525	472042	8	Nous avons jusqu'à octobre pour compléter notre plan.		vlecomte	CC BY-SA 4.0	
 5626922	472043	8	Le public a été averti le 20 octobre.		vlecomte	CC BY-SA 4.0	
@@ -221,30 +1337,56 @@ sentence_id	audio_id	words	fr	ru	username	license	attribution_url
 5653688	472332	7	Je suis content d'être parti de Boston.	Я рад, что уехал из Бостона.	vlecomte	CC BY-SA 4.0	
 5653802	472333	6	Tom n'habite même pas à Boston.	Том даже не живёт в Бостоне.	vlecomte	CC BY-SA 4.0	
 5653805	472334	7	Tom ne vit même pas à Boston.	Том даже не живёт в Бостоне.	vlecomte	CC BY-SA 4.0	
+5655393	472335	5	J'aimerais visiter Boston, un jour.	Я бы хотел как-нибудь съездить в Бостон. | Я бы хотел однажды побывать в Бостоне. | Я бы хотела однажды побывать в Бостоне.	vlecomte	CC BY-SA 4.0	
 5659933	472336	6	J'ai toujours voulu aller à Boston.	Я всегда хотел съездить в Бостон.	vlecomte	CC BY-SA 4.0	
+5662094	473954	4	Qui m'a vu ?	Кто меня видел?	vlecomte	CC BY-SA 4.0	
 5663257	472044	7	Je vais avoir trente ans en octobre.	В октябре мне будет тридцать. | В октябре мне будет тридцать лет.	vlecomte	CC BY-SA 4.0	
 5665639	472337	8	J'ai rêvé que j'étais de nouveau à Boston.	Мне приснилось, что я опять в Бостоне. | Мне снилось, что я опять в Бостоне.	vlecomte	CC BY-SA 4.0	
 5671488	472338	6	Tom a beaucoup d'amis à Boston.	У Тома много друзей в Бостоне.	vlecomte	CC BY-SA 4.0	
 5680628	472045	12	Ma femme et moi avons fait nos achats de Noël en octobre.		vlecomte	CC BY-SA 4.0	
 5680657	472046	9	Tom n'a pas vu Marie depuis le mois d'octobre.	Том не видел Мэри с октября месяца.	vlecomte	CC BY-SA 4.0	
+5685855	472339	5	As-tu été à Boston ?	Ты бывал в Бостоне?	vlecomte	CC BY-SA 4.0	
+5685856	472340	5	Avez-vous été à Boston ?	Вы бывали в Бостоне?	vlecomte	CC BY-SA 4.0	
 5685933	472341	6	Notre quartier général est à Boston.		vlecomte	CC BY-SA 4.0	
 5688254	472342	7	Tom est le meilleur batteur de Boston.		vlecomte	CC BY-SA 4.0	
+5688333	474904	3	Tom est désolé.	Тому жаль.	vlecomte	CC BY-SA 4.0	
+5688409	473011	3	Tom a parlé.		vlecomte	CC BY-SA 4.0	
 5689721	472343	8	Tom est en train de rentrer à Boston.	Том возвращается в Бостон.	vlecomte	CC BY-SA 4.0	
 5690246	472344	8	Tom et Mary ont pris l'avion pour Boston.		vlecomte	CC BY-SA 4.0	
 5700058	472345	6	Tom est mort lundi, à Boston.	Том умер в понедельник в Бостоне.	vlecomte	CC BY-SA 4.0	
+5702744	472346	4	Ils parlent en français.	Они разговаривают по-французски. | Они говорят по-французски.	vlecomte	CC BY-SA 4.0	
+5702745	472347	4	Elles parlent en français.	Они разговаривают по-французски. | Они говорят по-французски.	vlecomte	CC BY-SA 4.0	
 5706268	472348	8	Je sais que tu dois retourner à Boston.	Я знаю, что тебе надо вернуться в Бостон. | Я знаю, что тебе надо возвращаться в Бостон.	vlecomte	CC BY-SA 4.0	
 5706269	472349	8	Je sais que vous devez retourner à Boston.	Я знаю, что вам надо вернуться в Бостон. | Я знаю, что вам надо возвращаться в Бостон.	vlecomte	CC BY-SA 4.0	
 5707603	472350	7	Nous voulons acheter une maison à Boston.	Мы хотим купить дом в Бостоне.	vlecomte	CC BY-SA 4.0	
+5708057	472351	4	Je retournerai à Boston.	Я вернусь в Бостон.	vlecomte	CC BY-SA 4.0	
+5724160	474905	4	Je ne pleurerai pas.	Я плакать не буду. | Я не буду плакать. | Я не запла́чу.	vlecomte	CC BY-SA 4.0	
+5724161	474906	4	Je ne crierai pas.	Я не буду кричать.	vlecomte	CC BY-SA 4.0	
 5724301	472352	6	Tu devrais peut-être aller à Boston.	Может быть, тебе стоит съездить в Бостон.	vlecomte	CC BY-SA 4.0	
+5724302	472353	5	Peut-être devriez-vous aller à Boston.	Может быть, вам стоит съездить в Бостон.	vlecomte	CC BY-SA 4.0	
 5730063	472354	7	Ce train est à destination de Boston.		vlecomte	CC BY-SA 4.0	
 5741717	538697	8	Tom et Mary viendront à 14 h 30.		vlecomte	CC BY-SA 4.0	
 5752697	472356	7	Je n'habitais pas à Boston l'année dernière.		vlecomte	CC BY-SA 4.0	
 5752717	538698	12	Tom et Mary ont quitté le bureau ensemble à 14 h 30.		vlecomte	CC BY-SA 4.0	
 5752769	472358	7	N'appelez pas Tom chez lui après 2h30.	Не звоните Тому домой после 2:30. | Не звоните Тому домой после половины третьего.	vlecomte	CC BY-SA 4.0	
 5752770	538699	9	N’appelle pas Tom chez lui après 14 h 30.	Не звони Тому домой после 2:30. | Не звони Тому домой после половины третьего.	vlecomte	CC BY-SA 4.0	
+5762761	472360	4	Tom enseigne le français.	Том преподаёт французский.	vlecomte	CC BY-SA 4.0	
+5762765	472361	5	Parle français, s'il te plaît.	Говори по-французски, пожалуйста.	vlecomte	CC BY-SA 4.0	
+5762767	472362	5	Parlez français, s'il vous plaît.	Говорите по-французски, пожалуйста.	vlecomte	CC BY-SA 4.0	
+5762775	472363	5	Le français est-il difficile ?	Французский язык сложный?	vlecomte	CC BY-SA 4.0	
 5762776	472364	7	Est-ce que c'est difficile, le français ?		vlecomte	CC BY-SA 4.0	
+5762780	472365	5	Tom nous enseigne le français.	Том преподаёт нам французский.	vlecomte	CC BY-SA 4.0	
+5762782	472366	5	Tom nous apprend le français.		vlecomte	CC BY-SA 4.0	
 5762787	472367	6	Apprendre le français demande du temps.	Изучение французского требует времени.	vlecomte	CC BY-SA 4.0	
+5762790	472368	3	Ton français s'améliore.		vlecomte	CC BY-SA 4.0	
+5762791	472369	3	Votre français s'améliore.		vlecomte	CC BY-SA 4.0	
+5762794	472370	4	Ton français est parfait.	Твой французский превосходен. | Твой французский безупречен.	vlecomte	CC BY-SA 4.0	
+5762795	472371	4	Votre français est parfait.	Ваш французский безупречен.	vlecomte	CC BY-SA 4.0	
+5783231	473955	3	Tom est nouveau.		vlecomte	CC BY-SA 4.0	
 5791938	472372	6	Les Jackson ont déménagé à Boston.	Джексоны переехали в Бостон.	vlecomte	CC BY-SA 4.0	
+5791964	472373	4	Tom n'aimerait pas Boston.	Тому бы не понравился Бостон. | Тому не понравился бы Бостон.	vlecomte	CC BY-SA 4.0	
+5791977	474908	3	J'ai besoin d'eux.	Они мне нужны. | Я в них нуждаюсь. | Я нуждаюсь в них.	vlecomte	CC BY-SA 4.0	
+5791978	474909	3	J'ai besoin d'elles.	Они мне нужны. | Я в них нуждаюсь. | Я нуждаюсь в них.	vlecomte	CC BY-SA 4.0	
 5792005	472374	7	Dans quel pays se situe Boston ?	В какой стране находится Бостон?	vlecomte	CC BY-SA 4.0	
 5794157	472375	6	Tom est probablement né à Boston.		vlecomte	CC BY-SA 4.0	
 5794158	472376	6	Tom est sûrement né à Boston.		vlecomte	CC BY-SA 4.0	
@@ -254,79 +1396,275 @@ sentence_id	audio_id	words	fr	ru	username	license	attribution_url
 5800778	472379	6	Ils vivaient tous deux à Boston.	Они оба жили в Бостоне.	vlecomte	CC BY-SA 4.0	
 5800968	538700	16	Tom savait qu’il ne serait pas en mesure de terminer le rapport d’ici 14 h 30.		vlecomte	CC BY-SA 4.0	
 5800972	538701	13	Tom savait qu’il serait incapable de finir le rapport avant 14 h 30.		vlecomte	CC BY-SA 4.0	
+5801002	474910	4	Tom est-il blessé ?	Том ранен?	vlecomte	CC BY-SA 4.0	
 5801817	472382	8	Savais-tu que Tom était mort à Boston ?	Ты знал, что Том умер в Бостоне? | Ты знала, что Том умер в Бостоне?	vlecomte	CC BY-SA 4.0	
+5801835	472383	4	Amuse-toi bien à Boston.		vlecomte	CC BY-SA 4.0	
+5801905	472384	5	Tom voulait aller à Boston.	Том хотел съездить в Бостон.	vlecomte	CC BY-SA 4.0	
+5802869	472385	5	Je partirai demain pour Boston.	Завтра я поеду в Бостон. | Я завтра уеду в Бостон.	vlecomte	CC BY-SA 4.0	
+5802955	472386	5	Tom a déménagé à Boston.	Том переехал в Бостон.	vlecomte	CC BY-SA 4.0	
 5802957	472387	6	Tom a un magasin à Boston.	У Тома магазин в Бостоне.	vlecomte	CC BY-SA 4.0	
 5802965	472388	8	Tom est maintenant à Boston, n'est-ce pas ?	Том ведь теперь в Бостоне?	vlecomte	CC BY-SA 4.0	
 5803088	472389	7	Je préfère être ici plutôt qu'à Boston.	Я предпочитаю быть здесь, а не в Бостоне. | Я лучше буду здесь, чем в Бостоне.	vlecomte	CC BY-SA 4.0	
+5803737	472048	5	Nous nous marions en octobre.	Мы женимся в октябре.	vlecomte	CC BY-SA 4.0	
+5803757	473956	3	Tom est resté.	Том остался.	vlecomte	CC BY-SA 4.0	
 5804351	472390	6	J'ai passé mes vacances à Boston.	Я провёл каникулы в Бостоне. | Я провёл отпуск в Бостоне.	vlecomte	CC BY-SA 4.0	
+5804403	472049	5	Tom devrait revenir d'ici octobre.		vlecomte	CC BY-SA 4.0	
+5804472	472391	5	Tom est journaliste à Boston.		vlecomte	CC BY-SA 4.0	
 5804769	472392	6	Je serai à Boston ce week-end.	В эти выходные я буду в Бостоне.	vlecomte	CC BY-SA 4.0	
 5814336	472050	9	Une audience préliminaire est prévue pour le 20 octobre.		vlecomte	CC BY-SA 4.0	
 5816458	472393	7	Tom n'a jamais voulu vivre à Boston.	Том никогда не хотел жить в Бостоне.	vlecomte	CC BY-SA 4.0	
 5819648	472394	8	Je sais que j'aurais dû rester à Boston.	Я знаю, что мне следовало остаться в Бостоне. | Я знаю, что мне надо было остаться в Бостоне.	vlecomte	CC BY-SA 4.0	
 5822133	472395	6	Tom a une sœur à Boston.	У Тома есть сестра в Бостоне. | У Тома сестра в Бостоне.	vlecomte	CC BY-SA 4.0	
+5822306	472396	4	J'apprends désormais le français.		vlecomte	CC BY-SA 4.0	
+5822315	473957	4	Mets-toi à l'abri !		vlecomte	CC BY-SA 4.0	
+5822316	473958	4	Mettez-vous à l'abri !		vlecomte	CC BY-SA 4.0	
 5825507	472397	7	J'ai déménagé à Boston le printemps dernier.	Я переехал в Бостон прошлой весной.	vlecomte	CC BY-SA 4.0	
+5829921	472398	4	Tom comprend le français.	Том понимает французский. | Том понимает по-французски.	vlecomte	CC BY-SA 4.0	
+5829926	472399	3	Tom parla français.		vlecomte	CC BY-SA 4.0	
+5829928	472400	5	Nous avons étudié le français.		vlecomte	CC BY-SA 4.0	
+5829930	472401	5	Nous avons appris le français.		vlecomte	CC BY-SA 4.0	
+5829932	472402	5	Le pain français est délicieux.		vlecomte	CC BY-SA 4.0	
+5829934	472403	4	J'ai étudié le français.		vlecomte	CC BY-SA 4.0	
+5829936	472404	4	Tom parle-t-il français ?	Том говорит по-французски?	vlecomte	CC BY-SA 4.0	
 5829951	472405	6	Réponds en français, s'il te plaît.		vlecomte	CC BY-SA 4.0	
 5829953	472406	6	Répondez en français, s'il vous plaît.		vlecomte	CC BY-SA 4.0	
 5829956	472407	6	Apprends-moi le français, s'il te plaît.		vlecomte	CC BY-SA 4.0	
 5829957	472408	6	Apprenez-moi le français, s'il vous plaît.		vlecomte	CC BY-SA 4.0	
+5829958	472409	4	J'aime étudier le français.	Мне нравится учить французский.	vlecomte	CC BY-SA 4.0	
+5829959	472410	4	Je parle déjà français.	Я уже говорю по-французски.	vlecomte	CC BY-SA 4.0	
 5829960	472411	6	Qui t'a enseigné le français ?	Кто преподавал тебе французский?	vlecomte	CC BY-SA 4.0	
 5829961	472412	7	Qui vous a enseigné le français ?	Кто преподавал вам французский?	vlecomte	CC BY-SA 4.0	
+5829963	472413	4	Nous apprenons le français.	Мы учим французский.	vlecomte	CC BY-SA 4.0	
+5829968	472414	4	Tom m'enseigne le français.	Том учит меня французскому.	vlecomte	CC BY-SA 4.0	
+5829969	472415	5	Je dois apprendre le français.	Мне надо выучить французский.	vlecomte	CC BY-SA 4.0	
+5829972	472416	5	Peux-tu lire le français ?	Ты умеешь читать по-французски?	vlecomte	CC BY-SA 4.0	
 5829975	472417	6	Arrivez-vous à lire le français ?		vlecomte	CC BY-SA 4.0	
+5829978	472418	3	Parlons en français.	Давай говорить по-французски. | Давайте говорить по-французски.	vlecomte	CC BY-SA 4.0	
 5829981	472419	6	Tom a adoré enseigner le français.		vlecomte	CC BY-SA 4.0	
 5829987	472420	6	Tom parle à peine le français.	Том едва говорит по-французски.	vlecomte	CC BY-SA 4.0	
+5829994	472421	5	Tom parle un français parfait.	Том прекрасно говорит по-французски.	vlecomte	CC BY-SA 4.0	
+5829996	472422	5	Tom apprend-il le français ?		vlecomte	CC BY-SA 4.0	
+5829997	472423	4	Tom parle rarement français.	Том редко говорит по-французски.	vlecomte	CC BY-SA 4.0	
+5830015	472424	4	Ils parlent tous français.	Они все говорят на французском. | Они все говорят по-французски.	vlecomte	CC BY-SA 4.0	
+5830016	472425	4	Elles parlent toutes français.	Они все говорят по-французски. | Они все говорят на французском.	vlecomte	CC BY-SA 4.0	
+5830017	472426	5	Tom aime-t-il le français ?	Тому нравится французский?	vlecomte	CC BY-SA 4.0	
+5830022	472427	4	Apprenez-vous le français ?	Вы учите французский?	vlecomte	CC BY-SA 4.0	
+5830026	472428	4	Tom parla en français.		vlecomte	CC BY-SA 4.0	
+5830055	473014	4	Votre français est excellent.	У Вас превосходный французский.	vlecomte	CC BY-SA 4.0	
+5830057	473015	4	Ton français est excellent.	Твой французский превосходен. | У тебя превосходный французский.	vlecomte	CC BY-SA 4.0	
+5830061	473016	5	Je devrais apprendre le français.		vlecomte	CC BY-SA 4.0	
+5830067	473017	5	Tom m'a enseigné le français.	Том научил меня французскому.	vlecomte	CC BY-SA 4.0	
+5830070	473018	5	Le français n'est pas difficile.	Французский язык несложный.	vlecomte	CC BY-SA 4.0	
+5830076	473019	4	Cela n'est pas français.		vlecomte	CC BY-SA 4.0	
+5830077	473020	4	Ça n'est pas français.		vlecomte	CC BY-SA 4.0	
+5830079	473021	5	Ce n'est pas du français.	Это не французский.	vlecomte	CC BY-SA 4.0	
+5830082	473022	5	Tom devrait apprendre le français.		vlecomte	CC BY-SA 4.0	
 5830085	473023	6	Tom ne connaît pas le français.	Том не знает французского.	vlecomte	CC BY-SA 4.0	
+5833095	473024	5	Quand arriverons-nous à Boston ?		vlecomte	CC BY-SA 4.0	
+5834925	473025	4	Je suis en vie.	Я жив. | Я жива.	vlecomte	CC BY-SA 4.0	
+5834926	473026	3	Je suis vivant.	Я живой. | Я жив.	vlecomte	CC BY-SA 4.0	
+5834928	473027	4	Je me suis détendu.		vlecomte	CC BY-SA 4.0	
+5834930	473028	3	Je suis rapide.		vlecomte	CC BY-SA 4.0	
+5834931	473029	3	Je suis sourd.	Я глухой.	vlecomte	CC BY-SA 4.0	
+5834933	473959	3	Je mange beaucoup.	Я много ем.	vlecomte	CC BY-SA 4.0	
 5835001	473030	8	Tom a dit que vous étiez à Boston.	Том сказал, что вы в Бостоне.	vlecomte	CC BY-SA 4.0	
 5835094	473031	8	J'irai à Boston pour être avec ma famille.	Я поеду в Бостон, чтобы быть со своей семьёй.	vlecomte	CC BY-SA 4.0	
+5835149	474916	4	Tom a dit non.		vlecomte	CC BY-SA 4.0	
+5857565	473032	5	Vivre à Boston nous manquera.	Мы будем скучать по жизни в Бостоне.	vlecomte	CC BY-SA 4.0	
+5857612	473033	5	Je suis coincé à Boston.		vlecomte	CC BY-SA 4.0	
+5865659	473035	3	Nous quittons Boston.	Мы уезжаем из Бостона. | Мы покидаем Бостон.	vlecomte	CC BY-SA 4.0	
+5891592	474917	4	Essayez de vous reposer.	Постарайтесь отдохнуть.	vlecomte	CC BY-SA 4.0	
+5894700	474918	3	Tom est lent.	Том медлительный.	vlecomte	CC BY-SA 4.0	
 5896016	473036	7	Tom a travaillé jusqu’à 2 h 30.	Том работал до половины третьего.	vlecomte	CC BY-SA 4.0	
 5896017	538702	7	Tom a travaillé jusqu’à 14 h 30.	Том работал до половины третьего.	vlecomte	CC BY-SA 4.0	
 5919754	538703	11	Vous devez être ici à 14 h 30 au plus tard.	Вы должны быть здесь самое позднее в половине третьего. | Вы должны быть здесь не позднее половины третьего.	vlecomte	CC BY-SA 4.0	
+5946751	474919	4	Je suis au travail.	Я на работе.	vlecomte	CC BY-SA 4.0	
 5963214	538704	9	Je reviens à la maison à 14 h 30.	Я возвращаюсь домой в половине третьего. | Я возвращаюсь домой в четырнадцать тридцать.	vlecomte	CC BY-SA 4.0	
 6000262	473961	6	Est-ce que Tom est malade ?	Том болен? | Том болеет?	vlecomte	CC BY-SA 4.0	
+6000263	473962	4	Tom est-il malade ?	Том болен? | Том болеет?	vlecomte	CC BY-SA 4.0	
+6008472	473041	5	Mes petits-enfants vivent à Boston.	Мои внуки живут в Бостоне.	vlecomte	CC BY-SA 4.0	
 6016204	473042	7	Je veux aller à Boston avec Tom.	Я хочу поехать в Бостон с Томом. | Я хочу поехать с Томом в Бостон. | Я хочу с Томом в Бостон. | Я хочу съездить в Бостон с Томом. | Я хочу съездить с Томом в Бостон.	vlecomte	CC BY-SA 4.0	
 6030623	473043	8	Tom et Mary ne sont plus à Boston.	Том и Мэри уже не в Бостоне. | Тома и Мэри уже нет в Бостоне.	vlecomte	CC BY-SA 4.0	
 6058943	472051	6	Je retourne en Australie en octobre.	Я вернусь в Австралию в октябре. | В октябре я возвращаюсь в Австралию.	vlecomte	CC BY-SA 4.0	
 6069286	473044	8	Je dois être là-bas à 14 h 30.	Я должен быть там в четырнадцать тридцать.	vlecomte	CC BY-SA 4.0	
 6069287	473045	8	Je dois y être à 2 h 30.	Я должен там быть в половине третьего. | Я должен быть там полтретьего.	vlecomte	CC BY-SA 4.0	
+6076389	473046	4	J'ai étudié à Boston.	Я учился в Бостоне.	vlecomte	CC BY-SA 4.0	
 6134202	473047	6	Je suis arrivé à Boston hier.	Я вчера приехал в Бостон. | Я приехал в Бостон вчера.	vlecomte	CC BY-SA 4.0	
+6166981	473048	4	Je pensais à Boston.	Я думал о Бостоне.	vlecomte	CC BY-SA 4.0	
 6166982	473049	7	J'étais en train de penser à Boston.	Я думал о Бостоне.	vlecomte	CC BY-SA 4.0	
+6167078	474920	3	Cela a aidé.		vlecomte	CC BY-SA 4.0	
+6210357	474922	3	Il était plat.	Он был плоский.	vlecomte	CC BY-SA 4.0	
+6210358	474923	3	Elle était plate.	Она была плоская.	vlecomte	CC BY-SA 4.0	
 6276978	473052	7	J'ai fait la même chose à Boston.	Я то же самое делал в Бостоне. | Я то же самое сделал в Бостоне.	vlecomte	CC BY-SA 4.0	
 6277007	472052	6	Leur contrat expire le vingt octobre.	Их контракт истекает двадцатого октября.	vlecomte	CC BY-SA 4.0	
+6283021	473053	5	J'ai quelques amis à Boston.		vlecomte	CC BY-SA 4.0	
+6283042	473054	5	J'étais à Boston en octobre.	Я был в Бостоне в октябре.	vlecomte	CC BY-SA 4.0	
 6292294	473055	8	Combien de temps Tom sera-t-il à Boston ?	Сколько Том пробудет в Бостоне?	vlecomte	CC BY-SA 4.0	
+6307803	473056	5	Je vis actuellement à Boston.	Я сейчас живу в Бостоне.	vlecomte	CC BY-SA 4.0	
 6307873	473057	7	Les prix sont plus bas à Boston.		vlecomte	CC BY-SA 4.0	
+6309480	473058	5	Commençons à 2 h 30.	Начнём в два тридцать.	vlecomte	CC BY-SA 4.0	
+6309481	473059	5	Commençons à 14 h 30.	Начнём в половине третьего. | Давай начнём полтретьего. | Давайте начнём полтретьего. | Давай начнём в половине третьего. | Давайте начнём в половине третьего.	vlecomte	CC BY-SA 4.0	
+6309497	473060	5	Je préfère écrire en français.	Я предпочитаю писать по-французски.	vlecomte	CC BY-SA 4.0	
+6324567	473061	3	C'est le nôtre.	Это наш.	vlecomte	CC BY-SA 4.0	
+6324568	473062	3	C'est la nôtre.	Это наша.	vlecomte	CC BY-SA 4.0	
+6324570	473063	3	C'est à nous.		vlecomte	CC BY-SA 4.0	
 6363591	473064	8	Je savais que j'aurais dû rester à Boston.	Я знал, что мне надо было остаться в Бостоне.	vlecomte	CC BY-SA 4.0	
 6367916	473065	7	Je suis à Boston toute cette semaine.	Я всю эту неделю в Бостоне.	vlecomte	CC BY-SA 4.0	
 6367970	473066	7	Je vais à Boston pour les vacances.	Я еду в Бостон на каникулы. | Я еду на каникулы в Бостон.	vlecomte	CC BY-SA 4.0	
+6380931	473067	4	J'aimerais étudier à Boston.	Я хотел бы учиться в Бостоне.	vlecomte	CC BY-SA 4.0	
 6385287	473068	10	Je dois aller chercher mon fils à 14 h 30.		vlecomte	CC BY-SA 4.0	
+6396105	472053	5	Nous espérons ouvrir en octobre.	Мы надеемся открыться в октябре.	vlecomte	CC BY-SA 4.0	
+6402375	474926	3	Était-ce bon ?	Вкусно было?	vlecomte	CC BY-SA 4.0	
+6402376	474927	3	C'était bon ?	Вкусно было?	vlecomte	CC BY-SA 4.0	
+6402447	473069	5	J'ai beaucoup d'amis à Boston.	У меня много друзей в Бостоне.	vlecomte	CC BY-SA 4.0	
 6402490	473070	6	Je vis à Boston depuis 1995.	Я живу в Бостоне с 1995 года.	vlecomte	CC BY-SA 4.0	
 6443913	473071	7	Je vis à Boston avec ma famille.	Я живу в Бостоне с семьёй. | Я живу в Бостоне со своей семьёй.	vlecomte	CC BY-SA 4.0	
+6452608	473072	5	Que fais-tu à Boston ?	Что ты делаешь в Бостоне?	vlecomte	CC BY-SA 4.0	
+6452609	473073	5	Que faites-vous à Boston ?	Что Вы делаете в Бостоне? | Что вы делаете в Бостоне?	vlecomte	CC BY-SA 4.0	
 6452635	473074	9	Nous étions censés nous rencontrer à 14 h 30.	Мы должны были встретиться в половине третьего. | Мы должны были встретиться в полтретьего. | Мы должны были встретиться полтретьего.	vlecomte	CC BY-SA 4.0	
 6454480	473075	7	J'ai un oncle qui vit à Boston.	У меня есть дядя, который живёт в Бостоне.	vlecomte	CC BY-SA 4.0	
+6454495	473076	5	Je parle un peu français.	Я немного говорю по-французски.	vlecomte	CC BY-SA 4.0	
 6454526	473077	7	Ton vol part à 14 h 30.	Твой самолёт вылетает в четырнадцать тридцать.	vlecomte	CC BY-SA 4.0	
 6454527	473078	7	Votre vol part à 14 h 30.	Ваш самолёт вылетает в четырнадцать тридцать.	vlecomte	CC BY-SA 4.0	
 6454535	473079	7	J'ai travaillé à Boston pendant trois ans.	Я три года работал в Бостоне. | Я три года проработал в Бостоне.	vlecomte	CC BY-SA 4.0	
 6455924	473080	8	Combien de temps vas-tu rester à Boston ?	Сколько времени ты собираешься пробыть в Бостоне? | Как долго ты собираешься пробыть в Бостоне? | Ты надолго в Бостон?	vlecomte	CC BY-SA 4.0	
 6455925	473081	8	Combien de temps allez-vous rester à Boston ?	Сколько времени вы собираетесь пробыть в Бостоне? | Как долго вы собираетесь пробыть в Бостоне? | Вы надолго в Бостон?	vlecomte	CC BY-SA 4.0	
+6456049	474928	3	Sont-ils nouveaux ?	Они новые?	vlecomte	CC BY-SA 4.0	
+6456050	474929	3	Sont-ils neufs ?	Они новые?	vlecomte	CC BY-SA 4.0	
+6456051	474930	3	Sont-elles neuves ?	Они новые?	vlecomte	CC BY-SA 4.0	
+6456052	474931	3	Sont-elles nouvelles ?	Они новые?	vlecomte	CC BY-SA 4.0	
 6461733	473082	9	Tom a dit que Mary n'était pas à Boston.	Том сказал, что Мэри не в Бостоне. | Том сказал, что Мэри в Бостоне нет.	vlecomte	CC BY-SA 4.0	
+6462985	473083	3	Je suis propre.		vlecomte	CC BY-SA 4.0	
+6462995	473967	3	Qui l'a ?	У кого он есть? | У кого она есть? | У кого оно есть?	vlecomte	CC BY-SA 4.0	
+6462996	473084	4	J'apprends le français maintenant.	Сейчас я изучаю французский язык.	vlecomte	CC BY-SA 4.0	
+6462999	473085	3	Dis-le à Tom.	Скажи это Тому.	vlecomte	CC BY-SA 4.0	
+6463016	473087	5	Tom est enseignant de français.	Том - преподаватель французского. | Том — учитель французского.	vlecomte	CC BY-SA 4.0	
+6463017	473088	5	Tom est professeur de français.	Том - преподаватель французского.	vlecomte	CC BY-SA 4.0	
+6463031	473089	5	Il est huit heures trente.	Сейчас восемь тридцать.	vlecomte	CC BY-SA 4.0	
+6463032	473090	5	Il est 8 h 30.	Сейчас полдевятого. | Сейчас 8:30. | Сейчас восемь тридцать.	vlecomte	CC BY-SA 4.0	
+6463050	473096	5	Détestes-tu toujours le français ?	Ты всё ещё ненавидишь французский?	vlecomte	CC BY-SA 4.0	
+6463052	473097	5	Détestez-vous encore le français ?	Вы всё ещё ненавидите французский?	vlecomte	CC BY-SA 4.0	
+6463053	473098	5	Tom m'a parlé en français.	Том говорил со мной по-французски.	vlecomte	CC BY-SA 4.0	
+6463057	473099	3	Tom est triste.	Том грустный.	vlecomte	CC BY-SA 4.0	
+6463059	473100	3	Tom est fou.	Том сумасшедший.	vlecomte	CC BY-SA 4.0	
+6463069	473968	4	La bière est bonne.	Пиво вкусное.	vlecomte	CC BY-SA 4.0	
+6463070	474932	3	Tom a transpiré.	Том вспотел.	vlecomte	CC BY-SA 4.0	
+6463073	473970	3	Tom a obéi.	Том подчинился. | Том послушался.	vlecomte	CC BY-SA 4.0	
 6463083	473102	6	J'ai écrit une lettre en français.	Я написал письмо на французском.	vlecomte	CC BY-SA 4.0	
+6463090	473103	3	Réponds à Tom.	Ответь Тому. | Отвечай Тому.	vlecomte	CC BY-SA 4.0	
+6463091	473104	3	Répondez à Tom.	Ответьте Тому. | Отвечайте Тому.	vlecomte	CC BY-SA 4.0	
+6463093	473105	4	Ne saute pas !	Не прыгай!	vlecomte	CC BY-SA 4.0	
+6463096	473971	3	Nous sommes paresseux.	Мы ленивые.	vlecomte	CC BY-SA 4.0	
+6463099	473107	3	Je vais parler.	Я буду говорить.	vlecomte	CC BY-SA 4.0	
+6463109	474933	3	Faisons la fête.	Давай устроим праздник. | Давайте устроим праздник. | Давай веселиться. | Давайте веселиться.	vlecomte	CC BY-SA 4.0	
+6463114	473110	3	Boston me manque.	Я скучаю по Бостону. | Мне не хватает Бостона.	vlecomte	CC BY-SA 4.0	
+6463116	474934	3	Tom est réveillé.	Том не спит.	vlecomte	CC BY-SA 4.0	
+6463142	473111	5	Je parle français et anglais.	Я говорю по-французски и по-английски.	vlecomte	CC BY-SA 4.0	
+6463143	474935	4	Reste, s'il te plaît.	Останься, пожалуйста.	vlecomte	CC BY-SA 4.0	
+6463144	474936	4	Restez, s'il vous plaît.	Останьтесь, пожалуйста.	vlecomte	CC BY-SA 4.0	
+6463145	473112	5	Je veux aller à Boston.	Я хочу поехать в Бостон. | Я хочу в Бостон.	vlecomte	CC BY-SA 4.0	
+6463147	473113	3	Bouge de là.	Отодвинься.	vlecomte	CC BY-SA 4.0	
 6463150	473116	6	Est-il difficile d'apprendre le français ?	Сложно выучить французский? | Трудно учить французский?	vlecomte	CC BY-SA 4.0	
+6463155	473117	3	Ne chante pas.	Не пой.	vlecomte	CC BY-SA 4.0	
+6463156	473118	3	Ne chantez pas.	Не пойте.	vlecomte	CC BY-SA 4.0	
+6463167	473121	4	Où est Boston ?	Где находится Бостон?	vlecomte	CC BY-SA 4.0	
+6463234	474939	3	Il pourrait pleuvoir.	Может пойти дождь.	vlecomte	CC BY-SA 4.0	
+6463239	473122	5	Fais un câlin à Tom.		vlecomte	CC BY-SA 4.0	
+6463241	473976	4	Ne panique pas !	Не паникуй!	vlecomte	CC BY-SA 4.0	
+6463242	473977	4	Ne paniquez pas !	Не паникуйте!	vlecomte	CC BY-SA 4.0	
+6463248	473123	5	Pouvez-vous m'enseigner le français ?	Вы можете научить меня французскому?	vlecomte	CC BY-SA 4.0	
+6463251	473124	5	Peux-tu m'enseigner le français ?	Ты можешь научить меня французскому? | Можешь поучить меня французскому?	vlecomte	CC BY-SA 4.0	
+6463264	473127	4	Tom travaille à Boston.	Том работает в Бостоне.	vlecomte	CC BY-SA 4.0	
+6463267	473979	3	Regardez à nouveau.	Посмотрите ещё раз.	vlecomte	CC BY-SA 4.0	
 6463280	473128	7	La famille de Tom vit à Boston.	Семья Тома живёт в Бостоне.	vlecomte	CC BY-SA 4.0	
+6463286	473129	4	Écrivez-vous en français ?	Вы пишете на французском?	vlecomte	CC BY-SA 4.0	
+6463288	473130	4	Écris-tu en français ?	Ты пишешь на французском?	vlecomte	CC BY-SA 4.0	
+6463292	473981	4	Restez sur vos gardes.		vlecomte	CC BY-SA 4.0	
+6463294	473982	4	Reste sur tes gardes.		vlecomte	CC BY-SA 4.0	
+6463302	473983	3	Est-il l'heure ?	Пора?	vlecomte	CC BY-SA 4.0	
 6463307	473133	6	Je ne comprends pas le français.	Я не понимаю по-французски.	vlecomte	CC BY-SA 4.0	
 6463308	473134	7	Elle est allée avec lui à Boston.	Она поехала с ним в Бостон.	vlecomte	CC BY-SA 4.0	
+6463318	473136	5	Nous sommes allés à Boston.	Мы поехали в Бостон.	vlecomte	CC BY-SA 4.0	
+6463343	473137	3	Est-ce chaud ?		vlecomte	CC BY-SA 4.0	
+6463364	473138	3	Je suis énervé.		vlecomte	CC BY-SA 4.0	
+6463365	473139	4	Je suis en colère.	Я зол. | Я зла. | Я злюсь. | Я разозлён. | Я разозлена.	vlecomte	CC BY-SA 4.0	
+6463385	474940	3	Dis au revoir.	"Попрощайся. | Скажи ""до свидания""."	vlecomte	CC BY-SA 4.0	
+6463386	474941	3	Dites au revoir.	"Попрощайтесь. | Скажите ""до свидания""."	vlecomte	CC BY-SA 4.0	
+6463392	473142	4	Qui est tombé ?	Кто упал?	vlecomte	CC BY-SA 4.0	
+6463393	473984	3	Ne triche pas.	Не жульничай.	vlecomte	CC BY-SA 4.0	
+6463395	473985	3	Ne trichez pas.	Не жульничайте.	vlecomte	CC BY-SA 4.0	
+6463425	473145	4	Tom parle toujours français.	Том всегда говорит по-французски.	vlecomte	CC BY-SA 4.0	
+6463427	474943	3	Tom est chanceux.	Тому везёт. | Том везучий.	vlecomte	CC BY-SA 4.0	
+6463442	474944	3	Tom est raisonnable.	Том благоразумен.	vlecomte	CC BY-SA 4.0	
 6465203	473146	6	Je sais un peu parler français.	Я немного говорю по-французски.	vlecomte	CC BY-SA 4.0	
+6465272	473147	3	Parlent-ils français ?	Они говорят по-французски? | Они по-французски говорят?	vlecomte	CC BY-SA 4.0	
 6465274	473148	7	Sont-elles en train de parler français ?	Они говорят по-французски? | Они по-французски говорят?	vlecomte	CC BY-SA 4.0	
 6465275	473149	7	Sont-ils en train de parler français ?	Они говорят по-французски? | Они по-французски говорят?	vlecomte	CC BY-SA 4.0	
 6465290	473150	6	Le français de Tom est parfait.	У Тома безупречный французский.	vlecomte	CC BY-SA 4.0	
+6465291	473986	4	Qui est resté ?	Кто остался?	vlecomte	CC BY-SA 4.0	
+6465321	474945	5	Nous avons besoin de vous.	Вы нам нужны. | Мы нуждаемся в вас.	vlecomte	CC BY-SA 4.0	
+6465324	474946	3	Tom a tort.	Том ошибается. | Том не прав.	vlecomte	CC BY-SA 4.0	
+6465337	473153	4	Je rêve en français.	Я вижу сны на французском языке. | Мне снятся сны на французском языке. | Мне снятся сны на французском.	vlecomte	CC BY-SA 4.0	
+6465343	473154	4	Réfléchissez-vous en français ?	Вы думаете по-французски?	vlecomte	CC BY-SA 4.0	
+6465462	473155	4	J'essaye d'apprendre le français.	Я пытаюсь выучить французский.	vlecomte	CC BY-SA 4.0	
+6465478	473156	5	Est-ce du bon français ?		vlecomte	CC BY-SA 4.0	
+6465484	474948	3	J'ai aimé Tom.	Мне Том понравился. | Том мне понравился.	vlecomte	CC BY-SA 4.0	
+6465505	473987	4	Tom est en sécurité.	Том в безопасности.	vlecomte	CC BY-SA 4.0	
+6465508	473158	4	Apportez de la nourriture.	Принесите еду.	vlecomte	CC BY-SA 4.0	
+6465509	473159	3	Apporte à manger.	Принеси поесть.	vlecomte	CC BY-SA 4.0	
+6465510	473160	5	Je dois étudier le français.	Я должен учить французский.	vlecomte	CC BY-SA 4.0	
+6465526	473161	3	Aimez-vous Boston ?	Вам нравится Бостон?	vlecomte	CC BY-SA 4.0	
+6465527	473162	3	Aimes-tu Boston ?	Тебе нравится Бостон?	vlecomte	CC BY-SA 4.0	
+6465530	473988	3	Ne souris pas.	Не улыбайся.	vlecomte	CC BY-SA 4.0	
+6465531	473989	3	Ne souriez pas.	Не улыбайтесь.	vlecomte	CC BY-SA 4.0	
+6465569	474949	5	Je ne suis pas Tom.	Я не Том.	vlecomte	CC BY-SA 4.0	
+6465581	473992	3	Est-ce bleu ?		vlecomte	CC BY-SA 4.0	
+6465601	473993	4	Ne vous battez pas.	Не боритесь. | Не деритесь.	vlecomte	CC BY-SA 4.0	
+6465616	474950	4	Qui l'a dessiné ?	Кто это нарисовал? | Кто его нарисовал?	vlecomte	CC BY-SA 4.0	
+6465624	474951	3	Tom va venir.	Том придёт.	vlecomte	CC BY-SA 4.0	
+6465632	473169	4	Fais confiance à Tom.	Доверяй Тому. | Доверься Тому.	vlecomte	CC BY-SA 4.0	
+6465633	473170	4	Faites confiance à Tom.	Доверяйте Тому. | Доверьтесь Тому.	vlecomte	CC BY-SA 4.0	
+6465640	474953	3	Tom a refusé.	Том отказался.	vlecomte	CC BY-SA 4.0	
+6468597	473174	3	Soyez à l'heure.	Будьте вовремя.	vlecomte	CC BY-SA 4.0	
+6468598	473175	3	Sois à l'heure.	Будь вовремя.	vlecomte	CC BY-SA 4.0	
+6468604	473996	3	Va avec Tom.	Иди с Томом. | Поезжай с Томом.	vlecomte	CC BY-SA 4.0	
+6468605	473997	3	Allez avec Tom.	Идите с Томом. | Поезжайте с Томом.	vlecomte	CC BY-SA 4.0	
+6468622	474954	3	Est-ce Tom ?	Это Том?	vlecomte	CC BY-SA 4.0	
 6468692	473999	6	Est-ce que Tom a mangé ?	Том поел? | Том ел?	vlecomte	CC BY-SA 4.0	
+6468693	474000	4	Tom a-t-il mangé ?	Том поел? | Том ел?	vlecomte	CC BY-SA 4.0	
+6468694	473179	3	J'ai frappé Tom.	Я ударил Тома. | Я ударила Тома.	vlecomte	CC BY-SA 4.0	
+6468695	474955	3	Je suis nerveux.	Я нервничаю.	vlecomte	CC BY-SA 4.0	
+6468705	474956	3	J'aime la bière.	Я люблю пиво.	vlecomte	CC BY-SA 4.0	
+6468786	474957	3	Je suis piégé.	Я в ловушке. | Я в затруднительном положении.	vlecomte	CC BY-SA 4.0	
+6468799	474958	3	Tom est chauve.	Том лысый.	vlecomte	CC BY-SA 4.0	
+6468875	473182	3	Je n'irai pas.	Я не пойду. | Я не поеду.	vlecomte	CC BY-SA 4.0	
+6468882	473183	5	Sais-tu compter en français ?	Ты умеешь считать по-французски?	vlecomte	CC BY-SA 4.0	
+6469505	474001	4	Fais-le, tout simplement !	Просто сделай это!	vlecomte	CC BY-SA 4.0	
+6469506	474002	4	Faites-le, tout simplement !	Просто сделайте это!	vlecomte	CC BY-SA 4.0	
+6471970	474959	3	Tom l'a pris.	Том его взял.	vlecomte	CC BY-SA 4.0	
 6474230	473184	11	J'ai pris rendez-vous chez le docteur lundi à 14 h 30.	Я записался к врачу на понедельник 14:30.	vlecomte	CC BY-SA 4.0	
+6486672	474962	4	Nous en voulons un.		vlecomte	CC BY-SA 4.0	
+6486673	474963	4	Nous en voulons une.		vlecomte	CC BY-SA 4.0	
+6486816	474964	4	J'ai fait du riz.	Я приготовил рис.	vlecomte	CC BY-SA 4.0	
 6487209	473185	6	Je ne veux pas quitter Boston.	Я не хочу уезжать из Бостона.	vlecomte	CC BY-SA 4.0	
 6525794	472054	7	Mary va avoir un bébé en octobre.	У Мэри в октябре будет ребёнок.	vlecomte	CC BY-SA 4.0	
 6536685	473186	6	J'ai appris le français à l'école.	Я учил французский в школе.	vlecomte	CC BY-SA 4.0	
 6543234	473187	7	Tom a promis d'être là avant 2h30.		vlecomte	CC BY-SA 4.0	
 6545459	473188	9	Elle l'a rencontré pour la première fois à Boston.	Впервые она встретила его в Бостоне.	vlecomte	CC BY-SA 4.0	
 6556235	473189	6	J'ai de merveilleux souvenirs de Boston.	У меня чудесные воспоминания о Бостоне. | У меня остались чудесные воспоминания о Бостоне.	vlecomte	CC BY-SA 4.0	
+6560285	473190	3	Viens seul !	Приходи один.	vlecomte	CC BY-SA 4.0	
+6560286	473191	3	Viens seule !	Приходи одна.	vlecomte	CC BY-SA 4.0	
+6560287	473192	3	Venez seul !	Приходите один.	vlecomte	CC BY-SA 4.0	
+6560288	473193	3	Venez seuls !	Приходите одни.	vlecomte	CC BY-SA 4.0	
+6560289	473194	3	Venez seule !	Приходите одна.	vlecomte	CC BY-SA 4.0	
+6560290	473195	3	Venez seules !	Приходите одни.	vlecomte	CC BY-SA 4.0	
 6568852	473196	7	Peut-être que Tom n'ira pas à Boston.	Том, возможно, не поедет в Бостон.	vlecomte	CC BY-SA 4.0	
 6572040	473197	6	J'ai visité Boston le mois dernier.	Я съездил в Бостон в прошлом месяце. | В прошлом месяце я побывал в Бостоне.	vlecomte	CC BY-SA 4.0	
+6572055	473198	5	J'étais à Boston lundi dernier.	Я был в Бостоне в прошлый понедельник.	vlecomte	CC BY-SA 4.0	
 6572573	473199	8	Je suis le professeur de français de Tom.	Я преподаватель Тома по французскому.	vlecomte	CC BY-SA 4.0	
+6572654	473200	5	Pourquoi étudions-nous le français ?	Зачем мы учим французский? | Зачем мы изучаем французский?	vlecomte	CC BY-SA 4.0	
+6572656	473201	5	Pourquoi étudie-t-on le français ?	Зачем мы учим французский? | Зачем мы изучаем французский?	vlecomte	CC BY-SA 4.0	
+6578421	473202	3	Regarde donc !	Посмотри-ка! | Ты только посмотри!	vlecomte	CC BY-SA 4.0	
 6586688	473203	7	Nous ne sommes pas restés à Boston.	Мы не остались в Бостоне.	vlecomte	CC BY-SA 4.0	
 6599390	473204	10	Nous ferions mieux de faire cela avant 14 h 30.	Нам лучше сделать это до половины третьего.	vlecomte	CC BY-SA 4.0	
 6599394	473205	8	Où étiez-vous hier à 14 h 30 ?	Где вы были вчера в половине третьего? | Где Вы были вчера в четырнадцать тридцать?	vlecomte	CC BY-SA 4.0	
@@ -334,13 +1672,21 @@ sentence_id	audio_id	words	fr	ru	username	license	attribution_url
 6631641	473207	6	Pourquoi veux-tu aller à Boston ?	Почему ты хочешь поехать в Бостон?	vlecomte	CC BY-SA 4.0	
 6631642	473208	9	Pour quelle raison voulez-vous vous rendre à Boston ?		vlecomte	CC BY-SA 4.0	
 6631644	473209	7	Pourquoi tiens-tu à aller à Boston ?	Почему ты так хочешь поехать в Бостон?	vlecomte	CC BY-SA 4.0	
+6634930	473210	5	Tom aime apprendre le français.	Тому нравится изучать французский.	vlecomte	CC BY-SA 4.0	
 6637390	473211	9	Pouvez-vous attendre jusqu'à 14 h 30 cet après-midi ?		vlecomte	CC BY-SA 4.0	
 6637391	473212	9	Peux-tu attendre jusqu'à 14 h 30 cette après-midi ?		vlecomte	CC BY-SA 4.0	
 6637452	473213	6	Nous étions à Boston l'hiver dernier.	Мы были в Бостоне прошлой зимой.	vlecomte	CC BY-SA 4.0	
 6637469	473214	8	Je suis resté à Boston pendant trois ans.		vlecomte	CC BY-SA 4.0	
 6668584	473215	10	J'ai vécu à Boston la majeure partie de ma vie.		vlecomte	CC BY-SA 4.0	
 6668658	472055	12	Nos serveurs seront hors ligne le 20 octobre pour la maintenance prévue.		vlecomte	CC BY-SA 4.0	
+6683691	474003	3	As-tu chaud ?	Тебе жарко?	vlecomte	CC BY-SA 4.0	
+6683692	474004	3	Avez-vous chaud ?	Вам жарко?	vlecomte	CC BY-SA 4.0	
+6685196	473216	5	Tom a appris le français.	Том выучил французский.	vlecomte	CC BY-SA 4.0	
+6688763	473217	5	Tom ne visitera pas Boston.	Том не поедет в Бостон.	vlecomte	CC BY-SA 4.0	
+6701376	474005	4	Ne quittez pas !	Не кладите трубку!	vlecomte	CC BY-SA 4.0	
 6712110	473218	9	Tom est supposé rencontrer Marie à 2 h 30.		vlecomte	CC BY-SA 4.0	
+6712310	473219	5	Je me suis senti triste.	Мне стало грустно.	vlecomte	CC BY-SA 4.0	
+6714907	473220	4	Tom déménage à Boston.	Том переезжает в Бостон.	vlecomte	CC BY-SA 4.0	
 6734465	473221	7	Je ne suis pas bon en français.	Я не силён во французском.	vlecomte	CC BY-SA 4.0	
 6736799	473222	10	Étais-tu réveillé à 2 h 30 la nuit dernière ?		vlecomte	CC BY-SA 4.0	
 6736800	473223	10	Étiez-vous réveillées à 2 h 30 la nuit dernière ?		vlecomte	CC BY-SA 4.0	
@@ -365,13 +1711,19 @@ sentence_id	audio_id	words	fr	ru	username	license	attribution_url
 6843590	473240	6	Tu aurais dû rester à Boston.	Тебе надо было остаться в Бостоне.	vlecomte	CC BY-SA 4.0	
 6843591	473241	6	Vous auriez dû rester à Boston.	Вам надо было остаться в Бостоне.	vlecomte	CC BY-SA 4.0	
 6845915	473242	7	Tom est resté quelques jours à Boston.		vlecomte	CC BY-SA 4.0	
+6845950	473243	5	Ça s'est passé à Boston.	Это случилось в Бостоне. | Это произошло в Бостоне. | Это было в Бостоне.	vlecomte	CC BY-SA 4.0	
+6846661	473244	5	Tom étudie-t-il le français ?		vlecomte	CC BY-SA 4.0	
 6846662	473245	7	Est-ce que Tom va à Boston ?	Том едет в Бостон?	vlecomte	CC BY-SA 4.0	
 6863870	473246	10	Tom a vécu la moitié de sa vie à Boston.	Том полжизни прожил в Бостоне.	vlecomte	CC BY-SA 4.0	
 6871901	472056	8	Tom n'a pas été chez lui depuis octobre.	Том не был дома с октября месяца.	vlecomte	CC BY-SA 4.0	
 6875011	473247	6	Je prévois de déménager à Boston.	Я планирую переехать в Бостон.	vlecomte	CC BY-SA 4.0	
+6876111	473248	5	Je veux enseigner le français.	Я хочу преподавать французский.	vlecomte	CC BY-SA 4.0	
 6876229	473249	6	Tom part à 14:30 cet après-midi.	Том уезжает сегодня днём в половине третьего.	vlecomte	CC BY-SA 4.0	
 6876775	473250	9	Je ne savais pas que Tom venait de Boston.	Я не знал, что Том из Бостона.	vlecomte	CC BY-SA 4.0	
 6877614	474967	6	Est-ce que Tom est paresseux ?	Том ленивый?	vlecomte	CC BY-SA 4.0	
+6877615	474968	4	Tom est-il paresseux ?	Том ленивый?	vlecomte	CC BY-SA 4.0	
 6878145	473251	7	Je parie que tu connais le français.	Держу пари, ты знаешь французский. | Могу поспорить, ты знаешь французский.	vlecomte	CC BY-SA 4.0	
 6878267	473252	7	La famille de Tom est à Boston.	Семья Тома в Бостоне.	vlecomte	CC BY-SA 4.0	
+6878490	473253	4	Tom quittera Boston demain.	Том завтра уедет из Бостона.	vlecomte	CC BY-SA 4.0	
+6892044	474969	3	Tom est impoli.		vlecomte	CC BY-SA 4.0	
 6906634	473254	9	Tom a rencontré Mary quand il était à Boston.		vlecomte	CC BY-SA 4.0	

@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "Относительное выбирай по управлению глагола: répondre à → à laquelle, lire les romans de → dont."
+  - "После dont — прямой порядок слов."
+items:
+  - audio: audio/tts/c-05/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["C'est une question à laquelle je n'ai jamais su répondre."]
+    explain: "«Это вопрос, на который я так и не смог ответить». *répondre **à** une question* (ж. р.) → **à laquelle**."
+  - audio: audio/tts/c-05/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Voici l'autrice dont j'ai lu tous les romans.", "Voici l'auteure dont j'ai lu tous les romans."]
+    explain: "«Вот писательница, все романы которой я прочитала». **dont** — дополнение существительного (*les romans de l'autrice*), порядок прямой: *dont j'ai lu tous les romans*. *Autrice* и *auteure* — обе формы верны."
+  - audio: audio/tts/c-05/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Ce dont il a besoin, c'est d'un peu de calme."]
+    explain: "«Что ему нужно, так это немного покоя». *avoir besoin **de*** → **ce dont**; в выделении *de* повторяется: *c'est **d'**un peu de calme*."
+  - audio: audio/tts/c-05/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Il y avait plusieurs chercheurs, dont deux venaient du Japon.", "Il y avait plusieurs chercheurs, dont 2 venaient du Japon."]
+    explain: "«Было несколько исследователей, двое из которых приехали из Японии». **dont** + числительное = «из которых»."
+  - audio: audio/tts/c-05/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Ce n'est pas mon téléphone, c'est sans doute le tien ou celui de ta sœur."]
+    explain: "«Это не мой телефон, наверное, твой или твоей сестры». Притяжательное **le tien** и указательное **celui de** заменяют *téléphone*."
+  - audio: audio/tts/c-05/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["Lequel de ces deux tableaux préférez-vous ?", "Lequel de ces 2 tableaux préférez-vous ?"]
+    explain: "«Какую из этих двух картин вы предпочитаете?» Вопросительное **lequel** — выбор из названных; м. р., как *tableau*."
+  - audio: audio/tts/c-05/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Qu'est-ce qui t'a fait changer d'avis ?"]
+    explain: "«Что заставило тебя передумать?» Подлежащее-неодушевлённое — **qu'est-ce qui** (не ~~qu'est-ce que~~)."
+  - audio: audio/tts/c-05/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["C'est exactement ce à quoi je m'attendais."]
+    explain: "«Это именно то, чего я ожидала». *s'attendre **à*** + без антецедента → **ce à quoi**."

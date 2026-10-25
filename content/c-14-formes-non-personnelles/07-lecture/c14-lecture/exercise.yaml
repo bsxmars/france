@@ -1,0 +1,65 @@
+title: "Marcher, une révolution lente"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. В вопросе с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Причастный оборот в начале фразы — подставь «когда», «так как», «после того как»."
+  - "В каузативе (se faire + infinitif) проверь, кто совершает действие."
+text: |
+  ## Marcher, une révolution lente
+
+  *Longtemps réservée aux pèlerins et aux randonneurs, la marche connaît un succès inattendu. Que cherchent ceux qui partent à pied ?*
+
+  Chaque été, des milliers de personnes quittent leur bureau pour marcher plusieurs semaines sur les chemins de Compostelle ou le long des côtes bretonnes. Le phénomène, longtemps considéré comme marginal, touche aujourd'hui tous les âges et tous les milieux. Interrogés à leur retour, la plupart des marcheurs disent la même chose : en marchant, ils ont retrouvé quelque chose qu'ils avaient perdu sans s'en rendre compte.
+
+  Ce quelque chose, c'est d'abord le temps. Dans une société pressée, le marcheur avance à cinq kilomètres à l'heure, soit dix fois moins vite qu'une voiture. Ce rythme, jugé ridicule par certains, oblige à regarder. On voit le paysage changer lentement, on entend les oiseaux se répondre d'un arbre à l'autre, on sent la fatigue s'installer dans les jambes. Le corps, oublié pendant des mois devant un écran, se rappelle à nous.
+
+  C'est ensuite une forme de liberté. Le sac bouclé, l'itinéraire choisi, il n'y a plus rien à décider, sinon l'endroit où l'on dormira le soir. Les marcheurs décrivent souvent un sentiment d'allègement : ayant laissé derrière eux leurs obligations, ils découvrent qu'ils peuvent vivre avec très peu. « Je me suis fait envoyer un seul colis en trois semaines, raconte Hélène, une infirmière de quarante-cinq ans. Le reste, je l'avais laissé chez moi, et il ne m'a pas manqué. »
+
+  Les philosophes n'ont pas attendu les randonneurs pour faire l'éloge de la marche. Rousseau affirmait ne pouvoir méditer qu'en marchant ; Nietzsche se méfiait des pensées qui n'étaient pas nées en plein air. La marche, en mettant le corps en mouvement, laisserait l'esprit vagabonder. Des chercheurs américains l'ont d'ailleurs vérifié : des étudiants invités à trouver des idées en marchant en ont proposé davantage, et de plus originales, que ceux restés assis.
+
+  Faut-il pour autant voir dans la marche une solution à tous nos maux ? On peut en douter. Les chemins les plus célèbres, envahis chaque été par la foule, ressemblent parfois à des autoroutes piétonnes, et les gîtes affichant complet dès le mois de mars obligent les retardataires à faire réserver leurs nuits par une agence. La lenteur elle-même est devenue un produit : guides, applications, équipement dernier cri… On peut dépenser des fortunes pour vivre avec très peu.
+
+  Surtout, la marche « de vacances » ne change pas grand-chose si, une fois rentrés, nous reprenons la voiture pour faire cinq cents mètres. Le véritable défi n'est pas de traverser l'Espagne à pied, mais de marcher au quotidien : aller travailler à pied, laisser les enfants rentrer seuls de l'école, faire ses courses sans moteur. Ce sont des gestes moins spectaculaires, n'ayant rien d'une aventure, mais ce sont eux qui transforment les villes.
+
+  Les urbanistes l'ont compris : en élargissant les trottoirs, en plantant des arbres, en faisant ralentir les voitures, on rend la marche à nouveau possible. Encore faut-il que nous acceptions de perdre un peu de temps pour en gagner beaucoup. La marche nous l'apprend, pas à pas : on n'arrive jamais aussi vite qu'en voiture, mais on arrive autrement.
+items:
+  - q: "Что говорит большинство путешественников после возвращения?"
+    options: ["Что поход был слишком утомительным.", "Что, идя пешком, они вновь нашли то, что незаметно потеряли.", "Что они хотят сменить работу."]
+    answer: 1
+    explain: "*Interrogés à leur retour* (= когда их спрашивают) *…en marchant, ils ont retrouvé quelque chose qu'ils avaient perdu sans s'en rendre compte.*"
+  - q: "Что, по автору, даёт медленный темп ходьбы?"
+    options: ["Он заставляет замечать то, что вокруг, и собственное тело.", "Он позволяет пройти больше километров.", "Он кажется смешным всем, кто пробовал."]
+    answer: 0
+    explain: "*Ce rythme… oblige à regarder. On voit le paysage changer…, on entend les oiseaux se répondre… Le corps… se rappelle à nous.* «Смешным» его считают **некоторые** (*jugé ridicule par certains*)."
+  - q: "«Le sac bouclé, l'itinéraire choisi, il n'y a plus rien à décider» значит:"
+    options: ["Пока рюкзак не собран, решать нечего.", "Когда рюкзак собран и маршрут выбран, решать больше почти нечего.", "Рюкзак и маршрут выбирают за путника."]
+    answer: 1
+    explain: "Proposition participe с причастием прошедшего времени — **предшествование**: «как только рюкзак собран…»."
+  - q: "Vrai / faux / on ne sait pas: за три недели Элен получила всего одну посылку."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 0
+    explain: "*Je **me suis fait envoyer** un seul colis* — «мне прислали (по моей просьбе) одну посылку»: se faire + infinitif, действие выполняет другой человек для подлежащего. Ловушка — понять фразу как «я отправила»."
+  - q: "Что показал опыт американских исследователей?"
+    options: ["Студенты, которые придумывали идеи на ходу, предложили их больше и оригинальнее.", "Студенты, сидевшие на месте, лучше сосредоточивались.", "Ходьба не влияет на мышление."]
+    answer: 0
+    explain: "*des étudiants invités à trouver des idées en marchant en ont proposé davantage, et de plus originales, que ceux restés assis.* *Restés assis* — participe passé без вспомогательного глагола (= qui étaient restés)."
+  - q: "Vrai / faux / on ne sait pas: Руссо каждый день совершал долгие прогулки."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 2
+    explain: "В тексте только: *Rousseau affirmait ne pouvoir méditer qu'en marchant*. О ежедневных прогулках ничего не сказано → **on ne sait pas**."
+  - q: "Что автор критикует в пятом абзаце?"
+    options: ["Переполненность известных маршрутов и превращение медлительности в товар.", "Плохое снаряжение паломников.", "Нехватку пешеходных маршрутов во Франции."]
+    answer: 0
+    explain: "*envahis chaque été par la foule… les gîtes affichant complet… La lenteur elle-même est devenue un produit.*"
+  - q: "Как понимать фразу «On peut dépenser des fortunes pour vivre avec très peu» ?"
+    options: ["Пеший туризм — роскошь для богатых.", "Это ироничный парадокс: опыт простоты продают как дорогой товар.", "Автор советует покупать хорошее снаряжение."]
+    answer: 1
+    explain: "Фраза завершает перечень *guides, applications, équipement dernier cri* — автор иронизирует над коммерциализацией «жизни с малым»."
+  - q: "В чём, по автору, настоящий вызов?"
+    options: ["Пройти Испанию пешком.", "Ходить пешком в повседневной жизни.", "Отказаться от машины навсегда."]
+    answer: 1
+    explain: "*Le véritable défi n'est pas de traverser l'Espagne à pied, mais de marcher au quotidien.* Третий вариант — преувеличение: автор говорит о повседневных жестах, а не о полном отказе."
+  - q: "Впиши инфинитив из текста: en faisant ___ les voitures, on rend la marche à nouveau possible."
+    answers: ["ralentir"]
+    explain: "Каузатив **faire ralentir les voitures** — «заставлять машины ехать медленнее», внутри gérondif *en faisant*."

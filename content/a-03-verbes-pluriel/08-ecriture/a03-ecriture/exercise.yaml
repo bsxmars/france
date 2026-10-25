@@ -1,0 +1,26 @@
+title: "Note : à la maison"
+type: writing
+intro: "Напиши записку другу, который остаётся у тебя дома, по плану урока."
+prompt: |
+  Tu pars. Ton ami(e) reste chez toi. Écris une note : où tu es, qui reste à la maison, où sont les clés. Écris deux ou trois demandes (ferme…, prépare…).
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "повелительное наклонение I группы: ferme, prépare, cherche"
+  - "3-е лицо глаголов на -er: il reste, elles arrivent"
+  - "множественное число: les clés, mes amies, ces fenêtres"
+checklist:
+  - "Есть обращение, «спасибо» и подпись."
+  - "Есть 2–3 просьбы в повелительном наклонении без подлежащего: Ferme…, Prépare…"
+  - "В просьбе на «ты» у глагола на -er нет -s: ferme, а не fermes."
+  - "Глагол во мн. ч. — с -ent: mes amies arrivent, les chats mangent."
+  - "Определитель стоит во мн. ч. вместе с существительным: les clés, mes amies, ces fenêtres."
+  - "В каждой фразе есть глагол, перед существительным — артикль или определитель."
+model_answer: |
+  Salut Paul !
+
+  Je suis à Lille avec ma sœur. Mon chat reste à la maison. Il aime le lait : prépare le lait dans sa tasse. Ferme les fenêtres le soir. Les clés sont sur la table. Mes amies Léa et Anna arrivent ce soir : prépare le café ! Merci !
+
+  Bisous,
+  Hugo

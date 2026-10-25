@@ -1,0 +1,53 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком (или выбери вариант). Числа можно писать словами или цифрами. Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "Окончание прилагательного часто не слышно — проверяй род и число существительного."
+  - "После une — heure, после остальных чисел — heures."
+items:
+  - audio: audio/tts/a-06/heureuse.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["heureux", "heureuse"]
+    answer: 1
+    explain: "[ø-røz] — **heureuse** «счастливая»: на конце слышно [z]. *heureux* — [ø-rø]."
+  - audio: audio/tts/a-06/gris.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Что прозвучало?"
+    options: ["gris", "grise"]
+    answer: 0
+    explain: "[gri] — **gris** «серый»: *-s* немое. В *grise* [griz] согласная звучит."
+  - audio: audio/tts/a-06/deux.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    q: "Который час?"
+    options: ["Il est deux heures.", "Il est douze heures."]
+    answer: 0
+    explain: "[dø-zœr] — **deux heures**, 2 часа: звук [ø]. *douze heures* — [du-zœr], со звуком [u]."
+  - audio: audio/tts/a-06/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Il est neuf heures et demie.", "Il est 9 heures et demie."]
+    explain: "«Половина десятого». *neuf heures* [nœ-vœr] — *f* звучит как [v]; *et demie* — «с половиной»."
+  - audio: audio/tts/a-06/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Ma sœur cadette est sérieuse."]
+    explain: "«Моя младшая сестра серьёзная». *cadet* → *cadette*, *sérieux* → *sérieuse*; оба — после существительного."
+  - audio: audio/tts/a-06/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["C'est une petite pharmacie."]
+    explain: "«Это маленькая аптека». *petit* — перед существительным; в женском роде [t] звучит: [ptit]."
+  - audio: audio/tts/a-06/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Les messieurs sont heureux."]
+    explain: "«Господа счастливы». *heureux* на *-x* во мн. ч. не меняется; *messieurs* — мн. ч. от *monsieur*."
+  - audio: audio/tatoeba/473089.mp3
+    audio_source: {title: "Tatoeba #6463031", url: "https://tatoeba.org/fr/sentences/show/6463031", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Il est huit heures trente.", "Il est 8 heures 30.", "Il est 8 heures trente.", "Il est 8 h 30."]
+    explain: "«Восемь тридцать». *huit heures* [ɥi-tœr]: *t* связывается; *trente* — «тридцать», то же, что *et demie*."
+  - audio: audio/tatoeba/474891.mp3
+    audio_source: {title: "Tatoeba #5371959", url: "https://tatoeba.org/fr/sentences/show/5371959", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Elles sont vieilles."]
+    explain: "«Они старые». *vieux* → ж. р. *vieille*, мн. ч. *vieilles* [vjɛj] — особая форма."
+  - audio: audio/tatoeba/472402.mp3
+    audio_source: {title: "Tatoeba #5829932", url: "https://tatoeba.org/fr/sentences/show/5829932", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Le pain français est délicieux."]
+    explain: "«Французский хлеб очень вкусный». Национальность — после существительного: *le pain français*; *délicieux* — на *-eux*, ж. р. был бы *délicieuse*."

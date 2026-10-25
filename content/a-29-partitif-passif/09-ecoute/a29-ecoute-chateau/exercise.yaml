@@ -1,0 +1,42 @@
+title: "Visite du château de Montval"
+type: listening
+intro: "Экскурсовод в швейцарском замке. Прочитай вопросы заранее, послушай и ответь."
+hints:
+  - "a été construit par… — после par звучит, кто это сделал."
+  - "Века и годы можно писать цифрами или словами."
+audio: audio/tts/a-29/chateau.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  Bonjour à tous et bienvenue au château de Montval !
+
+  Ce château a été construit au treizième siècle par un riche seigneur de la région. Il a été agrandi deux fois, puis il a été abandonné pendant cent ans. En mille neuf cent cinquante, il a été acheté par la commune, et il est ouvert au public depuis mille neuf cent soixante-deux.
+
+  Nous entrons maintenant dans la grande salle. Regardez les vitraux : ils ont été refaits après un incendie, en mille huit cent vingt. Les tableaux, eux, ont été offerts au château par une famille de Lausanne.
+
+  Attention : l'escalier de la tour est étroit. Vous devez tenir les enfants par la main. En haut, vous découvrirez le lac et les montagnes.
+
+  Après la visite, une boisson chaude vous sera offerte sur la terrasse couverte du café. Bonne visite !
+items:
+  - q: "Le château a été construit au ___ siècle."
+    answers: ["treizième", "13e", "XIIIe", "13ème", "XIIIème"]
+    explain: "*Ce château **a été construit** au treizième siècle par un riche seigneur.*"
+  - q: "Кто купил замок в 1950 году?"
+    options: ["семья из Лозанны", "коммуна (муниципалитет)", "богатый сеньор"]
+    answer: 1
+    explain: "*il **a été acheté par** la commune.*"
+  - q: "Почему витражи пришлось переделать?"
+    options: ["после пожара", "после войны", "из-за старости"]
+    answer: 0
+    explain: "*ils **ont été refaits** après un incendie, en mille huit cent vingt.* *vitrail → vitraux*."
+  - q: "Откуда в замке картины?"
+    options: ["их купила коммуна", "их подарила семья из Лозанны", "их написал сеньор"]
+    answer: 1
+    explain: "*Les tableaux… **ont été offerts** au château **par** une famille de Lausanne.*"
+  - q: "Что нужно делать на лестнице в башне?"
+    options: ["держать детей за руку", "оставить сумки внизу", "не фотографировать"]
+    answer: 0
+    explain: "*l'escalier de la tour est étroit. Vous **devez** tenir les enfants par la main.*"
+  - q: "Что ждёт посетителей после экскурсии?"
+    options: ["бесплатный горячий напиток", "скидка на билеты", "прогулка на лодке по озеру"]
+    answer: 0
+    explain: "*une boisson chaude vous **sera offerte** sur la terrasse couverte du café* — пассив в futur."

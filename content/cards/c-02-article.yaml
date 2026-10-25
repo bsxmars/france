@@ -134,3 +134,27 @@
   lesson: c-02-article/04-preposition-de
   q: "Il ne boit que ___ eau / Il n'a pas dit ___ mot."
   a: "*Il ne boit que **de l'**eau* — *ne… que* не отрицание, партитив остаётся. *Il n'a pas dit **un** mot* — эмфатическое «ни одного»."
+- id: c02-pain-et-pain
+  lesson: c-02-article/07-lecture
+  q: "«Хлеб хлебу рознь» — как сказать по-французски?"
+  a: "*Il y a pain et pain.* — оборот *il y a X et X* без артикля."
+- id: c02-faute-de-repreneurs
+  lesson: c-02-article/07-lecture
+  q: "«Тысячи магазинов закрылись за неимением новых владельцев»."
+  a: "*Des milliers de boutiques ont fermé, **faute de repreneurs**.* — после *faute de* без артикля."
+- id: c02-victime-succes
+  lesson: c-02-article/09-ecoute
+  q: "«Многие города страдают от собственной популярности»."
+  a: "*Bien des villes sont **victimes de leur succès**.*"
+- id: c02-je-vous-rejoins
+  lesson: c-02-article/09-ecoute
+  q: "Как в споре сказать «Тут я с вами согласен»?"
+  a: "*Là, **je vous rejoins**.* / *Sur ce point, nous sommes d'accord.*"
+- id: c02-synthese-regles
+  lesson: c-02-article/08-ecriture
+  q: "Три главных правила synthèse DALF C1?"
+  a: "Без собственного мнения и «я»; без цитат — всё своими словами; план по идеям, а не по документам. Плюс заголовок и ~220 слов."
+- id: c02-accord-sur-un-point
+  lesson: c-02-article/08-ecriture
+  q: "Нейтральный вывод синтеза: «Документы сходятся в одном…»"
+  a: "*Les documents **s'accordent sur un point** : …*"

@@ -1,0 +1,2 @@
+# rate: -15%
+C: Comment écrit-il ce mot ?

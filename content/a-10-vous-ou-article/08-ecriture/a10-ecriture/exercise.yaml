@@ -1,0 +1,30 @@
+title: "Message à la propriétaire"
+type: writing
+intro: "Напиши хозяйке квартиры по плану урока."
+prompt: |
+  Tu loues un appartement à Bordeaux. Tu écris à la propriétaire, Mme Lenoir. Tu dis quand tu arrives et d'où. Tu poses trois questions (avec vous et où).
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "форма vous: vous êtes, vous faites, vous dites, -ez"
+  - "вопрос с où, d'où"
+  - "à — de: arriver à…, arriver de…"
+  - "определённый артикль; tout, toute, tous, toutes"
+checklist:
+  - "Вежливое обращение (Bonjour Madame…) и прощание."
+  - "Всё письмо — на vous, без tu."
+  - "Сказано, куда и откуда: à Bordeaux, de Moscou."
+  - "Хотя бы два вопроса с où: Où est… ? Où sont… ?"
+  - "Формы vous: -ez; исключения vous êtes, vous faites, vous dites."
+  - "tout согласовано: tout l'appartement, toutes les chambres."
+model_answer: |
+  Bonjour Madame Lenoir,
+
+  J'arrive à Bordeaux samedi, de Paris, en train. Le train arrive à quatre heures.
+
+  Où sont les clés ? Vous êtes à la maison samedi ? Où est le marché ? Est-ce que tout l'appartement est calme ?
+
+  Merci beaucoup !
+  Bonne journée,
+  Anna Petrova

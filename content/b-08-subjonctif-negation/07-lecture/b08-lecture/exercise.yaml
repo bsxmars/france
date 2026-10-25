@@ -1,0 +1,61 @@
+title: "Faut-il en finir avec les notes ?"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросе с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Subjonctif после глаголов мнения и сомнения — сигнал: говорящий не уверен или против."
+  - "Certains… d'autres… — мнения разделились."
+text: |
+  ## Faut-il en finir avec les notes ?
+
+  *De plus en plus d'établissements remplacent les notes sur vingt par des couleurs ou des compétences. Révolution pédagogique ou illusion ?*
+
+  Au collège Jean-Rostand, à Angers, les élèves de sixième ne reçoivent ni notes ni classements. À la place, chaque compétence est évaluée par une couleur : vert si elle est acquise, orange si elle est en cours d'acquisition, rouge si elle ne l'est pas encore. « Nous cherchions un système qui puisse encourager les élèves fragiles sans décourager les meilleurs », explique la principale, Anne Ferrand. Lancée il y a trois ans, l'expérience devrait être étendue l'an prochain aux classes de cinquième, si le conseil d'administration donne son accord.
+
+  Les partisans de cette réforme ne croient pas que la note soit un outil neutre. Selon eux, un 8 sur 20 ne dit ni ce que l'élève sait ni ce qu'il doit travailler. Pire : il est probable que l'enfant le retiendra surtout comme un jugement sur sa personne. Plusieurs études montrent d'ailleurs que la peur de la mauvaise note fait baisser les résultats des élèves anxieux. « Je ne pense pas qu'un enfant apprenne mieux parce qu'on le compare sans arrêt à ses camarades », résume un chercheur en sciences de l'éducation.
+
+  Les parents, eux, sont plus partagés. Certains trouvent que le nouveau bulletin est enfin compréhensible. D'autres doutent qu'il soit vraiment plus clair. « Avec les couleurs, je ne sais ni si mon fils progresse ni s'il est dans la moyenne de la classe », regrette une mère d'élève. Il semble que beaucoup de familles aient besoin d'un repère chiffré, ne serait-ce que pour se rassurer.
+
+  Les enseignants ne sont pas tous convaincus non plus. Il est possible que les couleurs aient leur intérêt au début du collège, admet un professeur de mathématiques, mais il n'est pas sûr qu'elles préparent bien les élèves au lycée, où les notes reviennent, ni aux concours, où tout est chiffré. Quant au temps de correction, il est loin d'avoir diminué : évaluer dix compétences prend plus de temps que mettre une note.
+
+  Faut-il alors revenir en arrière ? Probablement pas. Mais il est peu probable que la note sur vingt disparaisse un jour complètement de l'école française : elle fait partie de sa culture depuis plus d'un siècle. L'expérience d'Angers a pourtant le mérite de poser une bonne question. Ce dont l'école a besoin, ce n'est sans doute ni la note à tout prix ni son interdiction, mais une évaluation qui soit utile à l'élève avant d'être utile au classement.
+items:
+  - q: "Что получают шестиклассники коллежа вместо оценок?"
+    options: ["Место в рейтинге класса.", "Цвет по каждому навыку.", "Письменный отзыв раз в год."]
+    answer: 1
+    explain: "*les élèves de sixième ne reçoivent **ni** notes **ni** classements. À la place, chaque compétence est évaluée par une couleur.*"
+  - q: "Какую систему искала директор коллежа?"
+    options: ["Такую, которая поддержит слабых и не обескуражит сильных.", "Такую, которая быстрее подготовит к лицею.", "Такую, которая сократит время проверки."]
+    answer: 0
+    explain: "*un système qui **puisse** encourager les élèves fragiles sans décourager les meilleurs* — subjonctif: система, которую ещё искали, — пожелание."
+  - q: "Vrai / faux / on ne sait pas: сторонники реформы считают оценку нейтральным инструментом."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*Les partisans… **ne croient pas** que la note **soit** un outil neutre.* Отрицание мнения + subjonctif = несогласие."
+  - q: "Что, по исследованиям, происходит с тревожными учениками?"
+    options: ["Оценки их мотивируют.", "Страх плохой оценки снижает их результаты.", "Они лучше учатся с цветами, чем с цифрами."]
+    answer: 1
+    explain: "*la peur de la mauvaise note fait baisser les résultats des élèves anxieux.* О цветах в исследованиях ничего не сказано."
+  - q: "Vrai / faux / on ne sait pas: все родители считают новый табель более понятным."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*Certains trouvent que… est enfin compréhensible. D'autres **doutent qu'il soit** vraiment plus clair.* — мнения разделились."
+  - q: "Чего не хватает матери ученика?"
+    options: ["Она не понимает значения цветов.", "Она не знает ни того, прогрессирует ли сын, ни того, где он относительно класса.", "Она хотела бы чаще встречаться с учителями."]
+    answer: 1
+    explain: "*je ne sais **ni** si mon fils progresse **ni** s'il est dans la moyenne de la classe* — отрицаются обе вещи."
+  - q: "В чём сомневается учитель математики?"
+    options: ["Что цвета полезны в начале коллежа.", "Что цвета хорошо готовят к лицею и конкурсным экзаменам.", "Что ученикам нравятся цвета."]
+    answer: 1
+    explain: "Он допускает пользу в начале (*il est possible que… aient leur intérêt*), но *il **n'est pas sûr** qu'elles **préparent** bien les élèves au lycée… ni aux concours*."
+  - q: "Vrai / faux / on ne sait pas: с цветами учителя тратят на проверку меньше времени."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*il est loin d'avoir diminué : évaluer dix compétences prend plus de temps que mettre une note.*"
+  - q: "Какова позиция автора?"
+    options: ["Оценки нужно запретить во всех школах.", "Надо вернуться к оценкам из двадцати.", "Оценка вряд ли исчезнет; нужна не оценка любой ценой и не запрет, а полезная ученику."]
+    answer: 2
+    explain: "*il est **peu probable** que la note… **disparaisse**…* и *ce n'est sans doute **ni** la note à tout prix **ni** son interdiction, mais une évaluation qui **soit** utile à l'élève*."
+  - q: "Впиши глагол из текста: « Nous cherchions un système qui ___ encourager les élèves fragiles. »"
+    answers: ["puisse"]
+    explain: "***puisse*** — subjonctif от *pouvoir*: относительное придаточное описывает желаемое, ещё не найденное."

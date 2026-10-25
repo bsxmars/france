@@ -46,3 +46,27 @@
   lesson: a-27-plus-que-parfait-feminin/02-grammaire
   q: "Женский род: *beau, vieux, nouveau, blanc, long, doux, frais*?"
   a: "*belle, vieille, nouvelle, blanche, longue, douce, fraîche*."
+- id: a27-on-avait-construit
+  lesson: a-27-plus-que-parfait-feminin/07-lecture
+  q: "«(К моему приезду) на месте рынка построили новую школу»."
+  a: "*On **avait construit** une nouvelle école à la place du marché.*"
+- id: a27-nous-ne-nous-etions-pas-vues
+  lesson: a-27-plus-que-parfait-feminin/07-lecture
+  q: "«Мы (две подруги) не виделись со школы»."
+  a: "*Nous **ne nous étions pas vues** depuis le lycée.*"
+- id: a27-la-maire
+  lesson: a-27-plus-que-parfait-feminin/07-lecture
+  q: "Женский род: *le maire, le directeur, le boulanger, le musicien*?"
+  a: "*la maire, la directrice, la boulangère, la musicienne*."
+- id: a27-depuis-quinze-ans
+  lesson: a-27-plus-que-parfait-feminin/08-ecriture
+  q: "«Она уехала в Испанию и стала переводчицей» (до нашей встречи)."
+  a: "*Elle **était partie** en Espagne et elle **était devenue** traductrice.*"
+- id: a27-permis-rate
+  lesson: a-27-plus-que-parfait-feminin/09-ecoute
+  q: "Клер в первый раз не сдала на права — ещё до вчерашнего экзамена. Как говорит об этом друг?"
+  a: "*La première fois, tu l'**avais raté**.*"
+- id: a27-examinatrice
+  lesson: a-27-plus-que-parfait-feminin/09-ecoute
+  q: "Женский род: *moniteur, examinateur*?"
+  a: "***monitrice***, ***examinatrice*** (*-teur → -trice*)."

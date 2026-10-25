@@ -1,0 +1,38 @@
+title: "Annonce : le grand troc de vêtements"
+type: listening
+intro: "Объявление звучит один раз, как на экзамене. Прочитай вопросы заранее и впиши в пропуски цифры или слова из записи."
+hints:
+  - "Держи в голове даты, часы и цены."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/b-01/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+transcript: |
+  Vous avez beau ranger votre armoire, elle déborde toujours ? Le grand troc de vêtements de la Maison des associations revient le samedi douze avril, de dix heures à dix-sept heures.
+
+  Le principe est simple : en apportant jusqu'à dix vêtements propres et en bon état, vous recevez des points permettant d'en choisir d'autres. Les dépôts sont acceptés la veille, le vendredi, entre quinze heures et dix-neuf heures, au rez-de-chaussée.
+
+  Bien que l'entrée soit gratuite, une participation de deux euros est demandée pour le café et les gâteaux. Les vêtements restant à la fin de la journée seront donnés à une association du quartier.
+
+  Attention : les chaussures et les sous-vêtements ne sont pas acceptés.
+items:
+  - q: "Le troc a lieu le samedi ___ avril."
+    answers: ["douze", "12"]
+    explain: "*revient le samedi **douze** avril, de dix heures à dix-sept heures.*"
+  - q: "On peut apporter jusqu'à ___ vêtements."
+    answers: ["dix", "10"]
+    explain: "*en apportant jusqu'à **dix** vêtements propres et en bon état* — gérondif: условие получения баллов."
+  - q: "Когда нужно сдать вещи?"
+    options: ["в пятницу, 11 апреля, с 15 до 19 часов", "в субботу утром, до 10 часов", "в пятницу утром"]
+    answer: 0
+    explain: "*Les dépôts sont acceptés **la veille**, le vendredi, entre quinze heures et dix-neuf heures* — накануне субботы 12-го, то есть 11-го."
+  - q: "Pour le café et les gâteaux, on demande ___ euros."
+    answers: ["deux", "2"]
+    explain: "*Bien que l'entrée soit gratuite, une participation de **deux** euros est demandée* — вход бесплатный, но кофе нет."
+  - q: "Что будет с вещами, которые останутся вечером?"
+    options: ["Их вернут владельцам.", "Их отдадут ассоциации квартала.", "Их продадут на следующем обмене."]
+    answer: 1
+    explain: "*Les vêtements **restant** à la fin de la journée seront donnés à une association du quartier.* — *restant* = *qui restent*."
+  - q: "Что не принимают?"
+    options: ["пальто и куртки", "обувь и нижнее бельё", "детскую одежду"]
+    answer: 1
+    explain: "*les chaussures et les sous-vêtements ne sont pas acceptés.*"

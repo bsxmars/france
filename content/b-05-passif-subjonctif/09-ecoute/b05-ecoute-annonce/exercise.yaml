@@ -1,0 +1,42 @@
+title: "Annonce : consultation citoyenne"
+type: listening
+intro: "Объявление звучит один раз, как на экзамене. Прочитай вопросы заранее и впиши в пропуски цифры или слова из записи."
+hints:
+  - "Держи в голове даты, время, сроки и вместимость."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/b-05/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  La mairie vous donne la parole ! Que vous soyez pour ou contre la piétonnisation de la rue du Marché, venez donner votre avis lors de la consultation citoyenne organisée le jeudi quinze mai, à dix-huit heures trente, à la salle des fêtes.
+
+  Le projet sera présenté par l'équipe d'urbanistes, puis les habitants pourront poser leurs questions.
+
+  Il est indispensable que vous vous inscriviez avant le dix mai, sur le site de la ville ou à l'accueil de la mairie, car la salle ne peut accueillir que cent cinquante personnes.
+
+  Si vous ne pouvez pas vous déplacer, un questionnaire en ligne sera ouvert pendant trois semaines. Les résultats seront publiés début juin. Une garderie gratuite est proposée aux parents pendant la réunion.
+items:
+  - q: "La consultation a lieu le jeudi ___ mai."
+    answers: ["quinze", "15"]
+    explain: "*organisée le jeudi **quinze** mai, à dix-huit heures trente.*"
+  - q: "Кого приглашают на обсуждение?"
+    options: ["только противников проекта", "всех — и сторонников, и противников", "только жителей улицы du Marché"]
+    answer: 1
+    explain: "*Que vous soyez pour ou contre…* — «неважно, за вы или против»: альтернатива с subjonctif."
+  - q: "Кто представит проект?"
+    options: ["мэр", "команда урбанистов", "жители квартала"]
+    answer: 1
+    explain: "*Le projet **sera présenté par** l'équipe d'urbanistes* — пассив в futur; жители будут задавать вопросы."
+  - q: "Il faut s'inscrire avant le ___ mai."
+    answers: ["dix", "10"]
+    explain: "*Il est indispensable que vous **vous inscriviez** avant le **dix** mai* — subjonctif после *il est indispensable que*."
+  - q: "La salle peut accueillir ___ personnes."
+    answers: ["cent cinquante", "150", "cent-cinquante"]
+    explain: "*la salle ne peut accueillir que **cent cinquante** personnes* — *ne… que* = «только»."
+  - q: "Что делать, если не можешь прийти?"
+    options: ["Заполнить онлайн-анкету: она открыта три недели.", "Позвонить в мэрию до 10 мая.", "Прислать письмо до начала июня."]
+    answer: 0
+    explain: "*un questionnaire en ligne sera ouvert **pendant trois semaines**.* В начале июня опубликуют результаты."
+  - q: "Что предлагают родителям?"
+    options: ["скидку на парковку", "бесплатный присмотр за детьми во время собрания", "отдельное собрание для семей"]
+    answer: 1
+    explain: "*Une **garderie** gratuite est proposée aux parents pendant la réunion.*"

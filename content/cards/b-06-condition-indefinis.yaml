@@ -126,3 +126,27 @@
   lesson: b-06-condition-indefinis/04-grammaire
   q: "Работает ли правило вне passé composé? *Quand vous l'aurez ___ (recevoir, la lettre)*; *après l'avoir ___ (lire, la lettre)*."
   a: "Да, во всех сложных формах с *avoir*: *l'aurez **reçue***, *après l'avoir **lue***."
+- id: b06-voir-le-jour
+  lesson: b-06-condition-indefinis/07-lecture
+  q: "«Так появились тысячи проектов»."
+  a: "Des milliers de projets ont ainsi **vu le jour**."
+- id: b06-rendre-compte
+  lesson: b-06-condition-indefinis/07-lecture
+  q: "«Отчитываться о каждом потраченном евро»."
+  a: "**Rendre compte de** chaque euro dépensé."
+- id: b06-lettre-formule
+  lesson: b-06-condition-indefinis/08-ecriture
+  q: "Как закончить официальное письмо мэру?"
+  a: "*Dans l'attente de votre réponse, **je vous prie d'agréer**, Madame la Maire, **l'expression de mes salutations distinguées**.*"
+- id: b06-je-me-permets
+  lesson: b-06-condition-indefinis/08-ecriture
+  q: "Вежливое начало официального письма: «Позвольте обратиться к вам по поводу…»"
+  a: "*Je me permets de vous écrire au sujet de…*"
+- id: b06-main-a-la-pate
+  lesson: b-06-condition-indefinis/09-ecoute
+  q: "«Принять участие самому, приложить руку»."
+  a: "**mettre la main à la pâte** — *à condition que vous mettiez la main à la pâte*."
+- id: b06-tomber-en-panne
+  lesson: b-06-condition-indefinis/09-ecoute
+  q: "«Тостер сломался, продавец посоветовал купить новый»."
+  a: "*Le grille-pain **est tombé en panne**, le vendeur m'a dit qu'il valait mieux en acheter **un neuf**.*"

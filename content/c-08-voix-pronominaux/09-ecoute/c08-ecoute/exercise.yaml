@@ -1,0 +1,71 @@
+title: "Les mains d'or : restaurer des vitraux"
+type: listening
+intro: "Послушай радиоинтервью с мастером-витражистом (дважды) и ответь на вопросы."
+hints:
+  - "Пассив в рассказе о работе показывает этапы: a été recueilli, ont été démontés, est désassemblé."
+  - "Местоимённый пассив (le verre se coupe, ça ne se fait plus) — общее правило ремесла."
+audio: audio/tts/c-08/interview.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural, fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Bonjour et bienvenue dans « Les mains d'or », l'émission qui donne la parole aux artisans. Mon invitée est maître verrier. Depuis deux ans, Anne Delvaux restaure les vitraux d'une cathédrale qui avaient été gravement endommagés par un orage de grêle. Anne Delvaux, bonjour. Que s'est-il passé exactement ?
+
+  **Anne Delvaux :** Bonjour. C'était un soir de juin. En dix minutes, des grêlons gros comme des balles de golf se sont abattus sur la ville. Une quarantaine de panneaux ont été touchés, et certains ont été littéralement pulvérisés. Le lendemain matin, quand nous sommes entrés dans la nef, le sol était couvert de morceaux de verre de toutes les couleurs. Je ne l'oublierai jamais.
+
+  **Journaliste :** Par où commence-t-on, face à un tel désastre ?
+
+  **Anne Delvaux :** D'abord, on ramasse. Chaque fragment a été recueilli, photographié et numéroté, même les plus petits. Ensuite, les vitraux encore en place ont été démontés et transportés dans notre atelier. Un vitrail, voyez-vous, ne se répare jamais sur place : il est entièrement désassemblé, pièce par pièce.
+
+  **Journaliste :** Et les morceaux qui ont été perdus ?
+
+  **Anne Delvaux :** C'est toute la question. Notre principe, c'est de conserver le maximum de verre d'origine. Quand une pièce manque, elle est refaite, mais elle doit pouvoir être reconnue par un spécialiste. On ne cherche pas à tromper l'œil. Sur chaque pièce neuve, nous gravons discrètement une date. Dans deux siècles, nos successeurs sauront exactement ce qui a été fait, et par qui.
+
+  **Journaliste :** Vous avez fait des découvertes ?
+
+  **Anne Delvaux :** Oh oui ! En démontant un panneau, nous nous sommes aperçus qu'il avait déjà été restauré au dix-neuvième siècle, et assez mal, d'ailleurs. Des visages avaient été repeints, et les plombs avaient été remplacés par un métal de mauvaise qualité, qui s'était oxydé. Plusieurs générations d'artisans se sont succédé sur ces fenêtres, et chacune a laissé sa trace. C'est émouvant.
+
+  **Journaliste :** Le métier a beaucoup changé ?
+
+  **Anne Delvaux :** Moins qu'on ne le croit. Le verre se coupe toujours à la main, les plombs se soudent toujours un par un. Ce qui a changé, c'est la documentation et la chimie : aujourd'hui, le verre se nettoie avec des produits beaucoup plus doux. Autrefois, on frottait, on grattait… Ça ne se fait plus du tout : on sait que ça abîme la peinture.
+
+  **Journaliste :** Et ces gestes, comment est-ce qu'ils s'apprennent ?
+
+  **Anne Delvaux :** Lentement ! Il faut cinq ou six ans pour être vraiment autonome. Mes deux apprenties se sont formées ici, à l'atelier. Au début, elles se sont découragées, elles se sont même demandé si elles avaient choisi le bon métier. Et puis un jour, le geste devient naturel : elles se sont rendu compte qu'elles ne réfléchissaient plus en coupant.
+
+  **Journaliste :** Quand les vitraux seront-ils remis en place ?
+
+  **Anne Delvaux :** Si tout va bien, ils seront reposés au printemps prochain. La cathédrale a été rouverte au public, mais les fenêtres sont pour l'instant protégées par des panneaux de bois. Les visiteurs se plaignent qu'il fait sombre. Ils ont raison : une cathédrale sans vitraux, c'est un corps sans lumière.
+
+  **Journaliste :** Anne Delvaux, merci.
+items:
+  - q: "Что повредило витражи?"
+    options: ["пожар в соборе", "град во время грозы", "неудачная реставрация XIX века"]
+    answer: 1
+    explain: "*des vitraux… qui avaient été gravement endommagés **par un orage de grêle*** — агент с *par*. Реставрация XIX века — более поздняя находка, а не причина повреждений."
+  - q: "С чего начали работу?"
+    options: ["Собрали, сфотографировали и пронумеровали каждый осколок.", "Сразу заказали новое стекло.", "Отремонтировали витражи на месте."]
+    answer: 0
+    explain: "*Chaque fragment **a été recueilli, photographié et numéroté**.* А на месте витраж *ne se répare jamais*."
+  - q: "Как поступают с утраченными фрагментами?"
+    options: ["Их заменяют так, чтобы подделку не мог распознать никто.", "Их изготавливают заново, но так, чтобы специалист их узнал, и ставят дату.", "Их оставляют пустыми."]
+    answer: 1
+    explain: "*elle est refaite, mais elle doit pouvoir **être reconnue par** un spécialiste. On ne cherche pas à tromper l'œil… nous gravons discrètement une date.*"
+  - q: "Что обнаружили, разобрав одну из панелей?"
+    options: ["Подпись средневекового мастера.", "Следы старой, довольно плохой реставрации XIX века.", "Что панель была подделкой."]
+    answer: 1
+    explain: "*nous nous sommes aperçus qu'il **avait déjà été restauré** au dix-neuvième siècle, et assez mal* — переписанные лица, окислившийся металл."
+  - q: "Что, по словам Анн Дельво, изменилось в ремесле?"
+    options: ["Стекло теперь режут машины.", "Документация и химия: стекло чистят более мягкими средствами.", "Почти всё."]
+    answer: 1
+    explain: "*Moins qu'on ne le croit. Le verre **se coupe** toujours à la main… Ce qui a changé, c'est la documentation et la chimie.*"
+  - q: "Что подразумевает фраза «ça ne se fait plus du tout»?"
+    options: ["Старые методы чистки запрещены, потому что портят роспись.", "Витражей больше не делают.", "Ученицы больше не трут стекло, потому что устают."]
+    answer: 0
+    explain: "Местоимённый пассив выражает норму: «так больше не делают» — *on sait que ça abîme la peinture*."
+  - q: "Как ученицы осваивали ремесло?"
+    options: ["Быстро и без сомнений.", "Сначала разочаровывались и сомневались в выборе, потом движения стали естественными.", "Они ушли из мастерской."]
+    answer: 1
+    explain: "*elles se sont découragées, elles se sont même **demandé** si…* (*se* — косвенное: *demander à soi*) … *elles se sont **rendu** compte qu'elles ne réfléchissaient plus en coupant.*"
+  - q: "Vrai / faux / on ne sait pas: собор сейчас закрыт для посетителей."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*La cathédrale **a été rouverte** au public*, но окна пока закрыты деревянными щитами."

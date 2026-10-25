@@ -1,0 +1,39 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты и согласование — важны."
+hints:
+  - "После bien que и jusqu'à ce que — subjonctif, после dès que в будущем — futur antérieur."
+  - "Прилагательное fatigant пишется без u, причастие fatiguant — с u."
+items:
+  - audio: audio/tts/b-01/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-HenriNeural", license: "TTS"}
+    answers: ["Ayant raté le dernier train, nous avons dormi chez des amis.", "Ayant raté le dernier train, nous avons dormi chez des amies."]
+    explain: "«Опоздав на последний поезд, мы ночевали у друзей». *Ayant raté* — participe composé: предшествование и причина."
+  - audio: audio/tts/b-01/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Bien qu'il fasse froid, elle sort sans manteau."]
+    explain: "«Хотя холодно, она выходит без пальто». *Bien que* + subjonctif: *il fasse* (от *faire*)."
+  - audio: audio/tts/b-01/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Je t'appellerai dès que j'aurai fini mon travail."]
+    explain: "«Я позвоню тебе, как только закончу работу». Сначала закончу (*j'aurai fini* — futur antérieur), потом позвоню (*j'appellerai* — futur simple, двойное *l*)."
+  - audio: audio/tts/b-01/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["On apprend beaucoup en voyageant seul.", "On apprend beaucoup en voyageant seule.", "On apprend beaucoup en voyageant seuls."]
+    explain: "«Путешествуя в одиночку, многому учишься». Gérondif *en voyageant*: *-ge-* сохраняет звук [ʒ] перед *a*."
+  - audio: audio/tts/b-01/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+    answers: ["Il a beau s'excuser, je ne lui fais plus confiance."]
+    explain: "«Сколько он ни извиняется, я ему больше не доверяю». *avoir beau* + infinitif — бесполезное усилие."
+  - audio: audio/tts/b-01/s6.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-RemyMultilingualNeural", license: "TTS"}
+    answers: ["C'est un film fascinant, mais un peu fatigant."]
+    explain: "«Это захватывающий, но немного утомительный фильм». Оба слова — adjectifs verbaux; прилагательное **fatigant** пишется без *u*."
+  - audio: audio/tts/b-01/s7.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Attendez ici jusqu'à ce que le médecin vous appelle."]
+    explain: "«Подождите здесь, пока врач вас не позовёт». *jusqu'à ce que* + subjonctif: *appelle*."
+  - audio: audio/tts/b-01/s8.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Malgré la pluie, la fête a eu lieu comme prévu."]
+    explain: "«Несмотря на дождь, праздник прошёл, как и планировалось». После *malgré* — существительное, не придаточное."

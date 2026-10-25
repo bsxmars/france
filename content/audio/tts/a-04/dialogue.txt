@@ -1,0 +1,12 @@
+# rate: -15%
+# pause: 800
+C: Paul, qui lit ce livre ? Il est sur la table.
+H: C'est le livre de Léa. Elle lit le soir.
+C: Et ces cahiers ? Qui écrit dans ces cahiers ?
+H: Les enfants. Ils écrivent les exercices de grammaire.
+C: Et qui fait la cuisine ce soir ?
+H: Hugo fait la salade, et les filles font le café.
+C: Et Anna ? Elle reste à la maison ?
+H: Non, Anna part ce soir. Elle quitte Paris : elle prend le train pour Marseille.
+C: Qui habite Marseille ?
+H: Sa sœur Claire. Elle travaille à la mairie.

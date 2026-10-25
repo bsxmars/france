@@ -1,0 +1,28 @@
+title: "Message : une personne que je connais"
+type: writing
+intro: "Напиши сообщение другу о знакомом человеке по плану урока."
+prompt: |
+  Tu écris un message à ton ami(e). Tu présentes une personne : un voisin, un professeur, un acteur… Sa profession, comment il est (bon, sérieux, jeune…), où il travaille. Tu poses deux questions avec que ou qu'est-ce que.
+
+  Напиши **30–60 слов**.
+words: [30, 60]
+target_grammar:
+  - "профессия без артикля; с прилагательным — un / une: c'est un bon médecin"
+  - "слитный артикль du, des"
+  - "вопрос que + инверсия, qu'est-ce que + прямой порядок"
+checklist:
+  - "Есть обращение и прощание."
+  - "Профессия без прилагательного — без артикля: Il est médecin."
+  - "Профессия с прилагательным — с артиклем: C'est un médecin sérieux."
+  - "de + le = du, de + les = des; de la и de l' не сливаются."
+  - "Два вопроса «что?»: Qu'est-ce que tu… ? / Que… -tu ?"
+  - "После que — инверсия, после qu'est-ce que — прямой порядок."
+model_answer: |
+  Salut Hugo !
+
+  Mon voisin, Paul Morel, est médecin. C'est un médecin très sérieux. Il travaille près du parc, dans la rue des écoles. Sa femme est actrice : elle est une jeune actrice belge.
+
+  Et toi, qu'est-ce que tu fais samedi ? Que lis-tu maintenant ?
+
+  À bientôt,
+  Léo

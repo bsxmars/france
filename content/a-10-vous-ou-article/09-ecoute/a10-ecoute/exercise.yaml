@@ -1,0 +1,41 @@
+title: "Où est le musée ?"
+type: listening
+intro: "Послушай разговор на улице и ответь на вопросы."
+hints:
+  - "Дорогу объясняют цепочкой: vous traversez…, vous tournez…, vous marchez…"
+  - "de — откуда, à — куда."
+audio: audio/tts/a-10/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural, fr-FR-RemyMultilingualNeural", license: "TTS"}
+transcript: |
+  — Bonjour, monsieur ! Excusez-moi, où est le musée Matisse ?
+  — Bonjour, madame. Le musée Matisse ? Il est dans le parc. Vous allez au musée à pied ?
+  — Oui, j'aime marcher.
+  — Alors, vous traversez la place, vous tournez à gauche et vous marchez tout droit jusqu'au parc.
+  — Merci. Le musée est ouvert tous les jours ?
+  — Non, pas le mardi. Aujourd'hui, il est ouvert jusqu'à six heures.
+  — Très bien. Et où est la gare ? Ce soir, je pars à Monaco.
+  — La gare ? Elle est rue Thiers, à dix minutes. Vous parlez très bien français ! D'où êtes-vous ?
+  — Je suis de Québec. Mais j'arrive de Paris : toute la famille de mon mari habite Paris.
+  — Ah, Québec ! Bonne journée, madame !
+  — Merci, bonne journée !
+items:
+  - q: "Где музей Матисса?"
+    options: ["на площади", "в парке", "на улице Тьер"]
+    answer: 1
+    explain: "*Il est dans le parc.* На улице Тьер — вокзал, площадь надо перейти."
+  - q: "Как дойти до музея?"
+    options: ["перейти площадь, повернуть налево, идти прямо до парка", "повернуть направо и идти до вокзала", "сесть на автобус у площади"]
+    answer: 0
+    explain: "*Vous traversez la place, vous tournez à gauche et vous marchez tout droit jusqu'au parc.* Туристка идёт пешком: *j'aime marcher*."
+  - q: "Когда музей закрыт?"
+    options: ["по понедельникам", "по вторникам", "каждый день после шести"]
+    answer: 1
+    explain: "*Ouvert tous les jours ? — Non, pas le mardi.* «До шести» — только сегодня: *aujourd'hui… jusqu'à six heures*."
+  - q: "Куда туристка едет вечером?"
+    options: ["в Париж", "в Квебек", "в Монако"]
+    answer: 2
+    explain: "*Ce soir, je pars **à** Monaco.* Из Парижа она приехала, в Квебеке живёт."
+  - q: "Что мы узнаём о туристке?"
+    options: ["Она из Квебека и приехала из Парижа.", "Она парижанка и едет в Квебек.", "Она из Ниццы, а семья мужа — в Квебеке."]
+    answer: 0
+    explain: "*Je suis de Québec. Mais j'arrive **de** Paris : toute la famille de mon mari habite Paris.*"

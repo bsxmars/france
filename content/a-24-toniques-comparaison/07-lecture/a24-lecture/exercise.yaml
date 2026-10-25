@@ -1,0 +1,54 @@
+title: "Deux appartements"
+type: reading
+intro: "Прочитай письмо и ответь на вопросы. В вопросах с полем впиши одно слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "plus… que / moins… que: проверь, что с чем сравнивается."
+text: |
+  **Salut Inès,**
+
+  Ça y est, nous avons visité deux appartements ! Maintenant, il faut choisir. Toi, tu es toujours de bon conseil, alors je te raconte tout.
+
+  Le premier est rue Victor-Hugo, près de la gare. Il est plus grand que le deuxième : trois chambres et un salon de quarante mètres carrés. Il est aussi plus clair, avec de grandes fenêtres et de beaux parquets. Mais il est plus cher : mille deux cents euros par mois.
+
+  Le deuxième est dans le vieux quartier, au cinquième étage, sans ascenseur. Il est moins grand et un peu plus sombre, mais il est aussi moins cher : neuf cents euros. Et la vue est la plus belle de la ville : on voit la cathédrale et la rivière !
+
+  Julien et Sarah préfèrent le premier. Eux, ils ont des vélos et ils travaillent près de la gare. Moi, j'aime le deuxième. Pour moi, la vue est plus importante que la taille du salon. Et puis, cinq étages à pied tous les jours, c'est le meilleur sport !
+
+  Le problème, c'est Sarah. Elle, elle dit que le vieux quartier est le pire quartier pour dormir : il y a de petits bars et des restaurants partout, et le soir, c'est très bruyant.
+
+  Et toi, qu'est-ce que tu en penses ? Tu viens chez nous à Noël, de toute façon : c'est toi qui choisiras ta chambre !
+
+  **Bises,**
+  **Léa**
+items:
+  - q: "Зачем Леа пишет Инес?"
+    options: ["Она просит совета: надо выбрать одну из двух квартир.", "Она приглашает Инес посмотреть квартиру в субботу.", "Она рассказывает, что уже сняла квартиру у вокзала."]
+    answer: 0
+    explain: "*Maintenant, il faut choisir. Toi, tu es toujours de bon conseil…* — «Ты всегда хорошо советуешь». Квартиры ещё не выбраны."
+  - q: "Какая квартира больше?"
+    options: ["первая, на улице Виктора Гюго", "вторая, в старом квартале", "они одинаковые"]
+    answer: 0
+    explain: "*Le premier… est **plus grand que** le deuxième* — больше первая. Про вторую сказано *moins grand*."
+  - q: "Vrai / faux / on ne sait pas: вторая квартира дороже первой."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "Неверно: вторая **moins chère** — 900 евро против 1200. *Moins cher* — «дешевле»."
+  - q: "Что во второй квартире лучше всего?"
+    options: ["лифт", "вид из окна", "большой салон"]
+    answer: 1
+    explain: "*La vue est **la plus belle** de la ville* — превосходная степень. Лифта там нет (*sans ascenseur*), салон меньше."
+  - q: "Почему Жюльен и Сара за первую квартиру?"
+    options: ["Она светлее и в ней три спальни.", "У них велосипеды, и они работают рядом с вокзалом.", "Они не любят старый квартал."]
+    answer: 1
+    explain: "*Eux, ils ont des vélos et ils travaillent près de la gare.* Ударное *eux* в начале фразы вводит их мнение."
+  - q: "Что Сара думает о старом квартале?"
+    options: ["Это самый красивый квартал города.", "Это худший квартал для сна: вечером там шумно.", "Там слишком мало ресторанов."]
+    answer: 1
+    explain: "*Elle, elle dit que le vieux quartier est **le pire** quartier pour dormir… le soir, c'est très bruyant.* *Le pire* — «худший»."
+  - q: "Впиши ударное местоимение из текста: «Это ты выберешь свою комнату» — C'est ___ qui choisiras ta chambre."
+    answers: ["toi"]
+    explain: "После *c'est* — ударное местоимение **toi**; глагол согласуется с ним: *c'est toi qui choisira**s***."
+  - q: "Впиши из текста: «большие окна» — ___ grandes fenêtres."
+    answers: ["de"]
+    explain: "Прилагательное стоит **перед** существительным во множественном числе → **de** вместо *des*: *de grandes fenêtres, de beaux parquets*."

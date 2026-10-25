@@ -1,0 +1,63 @@
+title: "Quand Paris avait les pieds dans l'eau"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросе с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Passé simple — события 1910 года; passé composé и présent — голос автора сегодня."
+  - "Plus-que-parfait — то, что было раньше: часто причина."
+text: |
+  ## Quand Paris avait les pieds dans l'eau
+
+  *Il y a plus d'un siècle, la Seine envahissait la capitale. Ce souvenir, longtemps relégué dans les livres d'histoire, revient aujourd'hui hanter les urbanistes.*
+
+  L'hiver 1910 avait été particulièrement pluvieux. Depuis des semaines, il pleuvait sur tout le bassin de la Seine, et les sols, déjà gorgés d'eau, n'absorbaient plus rien. Au milieu du mois de janvier, le fleuve commença à monter. Les Parisiens, d'abord, ne s'en inquiétèrent guère : la Seine avait souvent débordé, et l'on venait même la regarder du haut des ponts comme un spectacle.
+
+  Puis tout alla très vite. Les journaux venaient de rassurer leurs lecteurs quand l'eau sortit de son lit, remonta par les égouts et envahit les caves. À peine les habitants des quais eurent-ils mis leurs meubles à l'abri que les rez-de-chaussée furent inondés. Le métro fut noyé station après station. Dans plusieurs quartiers, on dut circuler en barque, ou sur des passerelles de planches que les soldats avaient construites à la hâte. À la fin du mois, la crue atteignit son maximum : plus de huit mètres au pont d'Austerlitz. Le zouave du pont de l'Alma, cette statue de soldat qui sert depuis toujours d'indicateur aux Parisiens, avait de l'eau jusqu'aux épaules. Des curieux venus de toute la France photographiaient les rues transformées en canaux ; leurs clichés furent ensuite vendus par milliers sous forme de cartes postales.
+
+  Ce qui frappe, quand on lit les journaux de l'époque, c'est moins la catastrophe elle-même que la manière dont la ville y fit face. Les voisins s'organisaient, les boulangers distribuaient du pain, des écoles servaient d'abris. Lorsque l'eau se fut enfin retirée, au bout de plusieurs semaines, il fallut nettoyer, désinfecter, reconstruire. On dénombra des dizaines de milliers d'immeubles touchés, mais remarquablement peu de victimes.
+
+  Pendant près d'un siècle, cet épisode est resté une curiosité historique, qu'on évoquait avec une certaine nostalgie devant des cartes postales jaunies. Les barrages construits en amont devaient, croyait-on, rendre une telle catastrophe impossible. Or les spécialistes sont formels : une crue comparable se reproduira, la seule question est de savoir quand. En 2016, la Seine est montée à plus de six mètres, et les grands musées du bord de l'eau ont dû mettre leurs réserves à l'abri en urgence.
+
+  La différence avec 1910, c'est que Paris est devenu infiniment plus vulnérable. La ville de nos arrière-grands-parents vivait sans électricité dans la plupart des foyers ; elle se chauffait au charbon et s'éclairait au gaz. Aujourd'hui, une crue paralyserait les transports, les réseaux électriques, les hôpitaux, les serveurs informatiques. Des millions de personnes en subiraient les conséquences, bien au-delà des quartiers inondés. On l'a déjà constaté lors de grandes tempêtes : une panne d'électricité de quelques heures suffit à désorganiser tout un quartier.
+
+  Le souvenir de 1910 ne nous apprend donc pas seulement que la Seine peut déborder ; il nous rappelle qu'une société moderne a perdu une partie de la capacité d'improvisation dont firent preuve les Parisiens de l'époque. Ils ne disposaient ni d'alertes ni de modèles informatiques ; ils savaient en revanche ce qu'était un fleuve. Nous, nous l'avions oublié.
+items:
+  - q: "Почему в январе 1910 года земля больше не впитывала воду?"
+    options: ["Потому что ударили морозы.", "Потому что после долгих дождей она уже была пропитана водой.", "Потому что построили плотины."]
+    answer: 1
+    explain: "*L'hiver 1910 **avait été** particulièrement pluvieux* — plus-que-parfait даёт предысторию и причину: *les sols, déjà gorgés d'eau, n'absorbaient plus rien.*"
+  - q: "Как парижане сначала отнеслись к подъёму воды?"
+    options: ["Сразу начали эвакуацию.", "Почти не беспокоились и даже ходили смотреть на реку как на зрелище.", "Обвинили власти."]
+    answer: 1
+    explain: "*ne s'en inquiétèrent **guère**… l'on **venait** même la regarder du haut des ponts comme un spectacle* — imparfait повторяющегося действия."
+  - q: "Что означает фраза «À peine les habitants des quais eurent-ils mis leurs meubles à l'abri que les rez-de-chaussée furent inondés»?"
+    options: ["Жители не успели спасти мебель.", "Первые этажи затопило сразу же, как только жители убрали мебель.", "Первые этажи затопило задолго до того, как жители спохватились."]
+    answer: 1
+    explain: "*À peine + passé antérieur… que + passé simple* — второе событие следует **сразу** за первым. Мебель успели убрать — но в последний момент."
+  - q: "Vrai / faux / on ne sait pas: деревянные мостки построили сами жители."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*des passerelles de planches que **les soldats** avaient construites à la hâte* — неверно. Причастие *construites* согласуется с *que* (= *passerelles*)."
+  - q: "Что больше всего поражает автора в газетах того времени?"
+    options: ["масштаб разрушений", "то, как город справлялся с бедой", "число погибших"]
+    answer: 1
+    explain: "*c'est **moins** la catastrophe elle-même **que** la manière dont la ville y fit face* — соседи, булочники, школы-убежища."
+  - q: "Vrai / faux / on ne sait pas: наводнение 1910 года унесло тысячи жизней."
+    options: ["vrai", "faux", "on ne sait pas"]
+    answer: 1
+    explain: "*des dizaines de milliers d'immeubles touchés, mais **remarquablement peu de victimes**.* Тысячи — это пострадавшие здания, не люди."
+  - q: "Почему эпизод долго считали историческим курьёзом?"
+    options: ["Считалось, что плотины выше по течению сделали такую катастрофу невозможной.", "Потому что документы были утрачены.", "Потому что Сена больше никогда не поднималась."]
+    answer: 0
+    explain: "*Les barrages… **devaient, croyait-on**, rendre une telle catastrophe impossible* — чужое мнение (*croyait-on*), которое автор опровергает: *Or les spécialistes sont formels…* Третий вариант противоречит примеру 2016 года."
+  - q: "Почему, по мнению автора, сегодняшний Париж уязвимее?"
+    options: ["Потому что город стал больше.", "Потому что жизнь зависит от сетей — транспорта, электричества, серверов.", "Потому что плотины устарели."]
+    answer: 1
+    explain: "*une crue **paralyserait** les transports, les réseaux électriques, les hôpitaux, les serveurs informatiques.* В 1910 году большинство домов жили без электричества."
+  - q: "Что подразумевает последняя фраза «Nous, nous l'avions oublié»?"
+    options: ["Мы забыли дату наводнения.", "Мы утратили понимание того, что такое река, и навык действовать без техники.", "Мы забыли о солдатах 1910 года."]
+    answer: 1
+    explain: "*l'* = *ce qu'était un fleuve*. Plus-que-parfait подводит итог: мы забыли это ещё до сегодняшнего дня, — и перекликается с *une société moderne a perdu une partie de la capacité d'improvisation*."
+  - q: "Впиши вспомогательный глагол в passé antérieur из текста: «Lorsque l'eau se ___ enfin retirée…»"
+    answers: ["fut"]
+    explain: "**se fut retirée** — passé antérieur (*être* в passé simple + причастие): действие сразу перед *il fallut nettoyer*."

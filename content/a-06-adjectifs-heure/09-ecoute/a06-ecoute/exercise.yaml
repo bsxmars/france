@@ -1,0 +1,44 @@
+title: "À la gare"
+type: listening
+intro: "Послушай разговор на вокзале и ответь на вопросы."
+hints:
+  - "Il est… — который час сейчас; à… heures — во сколько."
+  - "Описание человека звучит после il est / elle est."
+audio: audio/tts/a-06/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural, fr-FR-HenriNeural", license: "TTS"}
+transcript: |
+  — Quelle heure est-il ?
+  — Il est six heures et demie. Le train de Léa arrive à sept heures.
+  — Léa, c'est ta sœur cadette ?
+  — Non, c'est ma sœur aînée. Elle est grande, et sa valise est bleue.
+  — Et ce monsieur, là ? Le vieux monsieur avec le sac gris ?
+  — C'est mon professeur de français. Il est sérieux, mais il est distrait : il cherche son train !
+  — Et toi, tu es prêt ?
+  — Oui, je suis prêt. Et je suis heureux : ma sœur est seule à Paris, et maintenant elle est ici !
+  — Regarde, il est sept heures. Voici le train !
+  — Et voici Léa, avec sa valise bleue !
+items:
+  - q: "Который час в начале разговора?"
+    options: ["шесть", "половина седьмого", "семь"]
+    answer: 1
+    explain: "*Il est six heures et demie.* — «шесть с половиной», то есть 6:30. В семь приходит поезд."
+  - q: "Во сколько приходит поезд Леи?"
+    options: ["в 6:30", "в 7:00", "в 7:30"]
+    answer: 1
+    explain: "*Le train de Léa arrive à sept heures.* — *à* + время: «во сколько»."
+  - q: "Кто Лея для Анри?"
+    options: ["младшая сестра", "старшая сестра", "преподавательница"]
+    answer: 1
+    explain: "*C'est ta sœur cadette ? — Non, c'est ma sœur aînée.* — *aînée* «старшая»."
+  - q: "Какой чемодан у Леи?"
+    options: ["серый", "большой", "синий"]
+    answer: 2
+    explain: "*sa valise est bleue* — серый — это сумка пожилого господина: *le sac gris*."
+  - q: "Кто пожилой господин?"
+    options: ["отец Анри", "преподаватель французского", "друг Леи"]
+    answer: 1
+    explain: "*C'est mon professeur de français.* — *le vieux monsieur*: *vieux* стоит перед существительным."
+  - q: "Какой он?"
+    options: ["серьёзный, но рассеянный", "ленивый, но счастливый", "молодой и серьёзный"]
+    answer: 0
+    explain: "*Il est sérieux, mais il est distrait : il cherche son train !*"

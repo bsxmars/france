@@ -94,3 +94,27 @@
   lesson: c-11-concordance-imperatif/03-imperatif-pronoms
   q: "«Заставьте его это понять» / «Не заставляй их ждать»."
   a: "*Faites-**le-lui** comprendre. / Ne **les** fais pas attendre.* При *faire* + инфинитив местоимения — при императиве."
+- id: c11-prendre-la-peine
+  lesson: c-11-concordance-imperatif/07-lecture
+  q: "«Никто даже не утруждал себя тем, чтобы проверить»."
+  a: "Personne ne **prenait** même **la peine de** vérifier."
+- id: c11-se-douter
+  lesson: c-11-concordance-imperatif/07-lecture
+  q: "«Никто не догадывался, что компьютер однажды поместится в руке ребёнка»."
+  a: "Personne **ne se doutait que** l'ordinateur **tiendrait** un jour dans la main d'un enfant. — *se douter que* + futur dans le passé."
+- id: c11-force-est
+  lesson: c-11-concordance-imperatif/08-ecriture
+  q: "Как в эссе признать неприятный факт («приходится признать, что…»)?"
+  a: "**Force est de constater que** cette promesse n'a pas été tenue."
+- id: c11-ayez-obligeance
+  lesson: c-11-concordance-imperatif/09-ecoute
+  q: "«Будьте любезны вернуть нам этот бланк» — в стиле официального письма."
+  a: "**Ayez l'obligeance de** nous retourner ce formulaire. / **Veuillez** nous retourner ce formulaire."
+- id: c11-etre-prie
+  lesson: c-11-concordance-imperatif/09-ecoute
+  q: "«Пассажиров просят подойти к голове поезда» — формула объявления."
+  a: "Les voyageurs **sont priés de** se présenter **en tête du train**."
+- id: c11-en-dire-long
+  lesson: c-11-concordance-imperatif/09-ecoute
+  q: "«Это о многом говорит» (о формулировках)."
+  a: "Cela **en dit long** sur la relation qu'on veut établir avec vous."

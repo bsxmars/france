@@ -1,0 +1,6 @@
+# rate: -5%
+# pause: 700
+G: Voici la météo du week-end.
+G: Samedi, il fera plus froid qu'aujourd'hui sur tout le pays : huit degrés à Bruxelles, six degrés à Liège. C'est sur la côte que le temps sera le plus doux, avec onze degrés à Ostende. Le ciel sera gris le matin, et il pleuvra l'après-midi.
+G: Dimanche sera la meilleure journée du week-end : un ciel bleu, un vent plus faible, et jusqu'à treize degrés à Namur. C'est le jour idéal pour une promenade !
+G: Mais attention : la nuit de dimanche à lundi sera la plus froide du mois, avec zéro degré dans les Ardennes. Lundi matin, les routes seront glissantes : soyez prudents, surtout vous, les cyclistes !

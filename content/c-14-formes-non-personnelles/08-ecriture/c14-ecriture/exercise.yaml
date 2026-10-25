@@ -1,0 +1,35 @@
+title: "Essai : faut-il plus de travaux manuels à l'école ?"
+type: writing
+intro: "Напиши essai argumenté по плану урока."
+prompt: |
+  La revue pédagogique *Apprendre aujourd'hui* consacre un numéro à la question suivante : « L'école doit-elle faire davantage de place aux activités manuelles (cuisine, jardinage, bricolage, couture) ? »
+
+  Vous envoyez à la revue un essai argumenté dans lequel vous défendez votre point de vue en vous appuyant sur des exemples précis, sans négliger les objections.
+
+  Напиши **220–300 слов**, с заголовком.
+words: [220, 300]
+target_grammar:
+  - "gérondif (en + participe présent) и tout en"
+  - "participe présent и participe passé composé (ayant / étant + participe) вместо придаточного"
+  - "proposition participe: Le projet terminé, … / Une fois…"
+  - "faire / laisser + infinitif, proposition infinitive после voir, entendre"
+checklist:
+  - "Есть заголовок, вступление и ясная позиция."
+  - "Два довода с конкретными примерами из школьной жизни."
+  - "Хотя бы два gérondif, и у каждого то же подлежащее, что у главного глагола."
+  - "Хотя бы один participe présent или participe passé composé вместо придаточного (manquant de…, ayant découvert…)."
+  - "Хотя бы одна proposition participe (Le projet terminé, …)."
+  - "Хотя бы одна конструкция faire / laisser + infinitif."
+  - "Есть уступка и ответ на неё; adjectifs verbaux написаны и согласованы правильно."
+model_answer: |
+  Apprendre avec ses mains
+
+  Depuis quelques années, des voix de plus en plus nombreuses réclament que l'école fasse une place plus large aux activités manuelles : jardinage, cuisine, bricolage, couture. Ayant moi-même découvert assez tard le plaisir de fabriquer des objets, je partage largement ce point de vue.
+
+  D'abord, on comprend souvent mieux en faisant qu'en écoutant. Un élève qui construit une petite étagère applique, sans le savoir, des notions de géométrie et de physique : en mesurant, en sciant, en se trompant, il voit les mathématiques devenir concrètes. Les enseignants ayant tenté l'expérience constatent que certains élèves, réputés faibles en classe, se révèlent étonnamment habiles dès qu'on leur fait manipuler des outils.
+
+  Ensuite, le travail manuel apprend la patience. Une planche mal coupée ne se corrige pas d'un clic : il faut recommencer. À une époque habituée à l'immédiat, cette leçon n'a rien de négligeable.
+
+  Certes, les programmes sont déjà chargés. Les heures consacrées à l'atelier seraient prises sur d'autres matières, et les établissements, manquant souvent de moyens, devraient s'équiper. Mais rien n'empêche de faire travailler les élèves sur des projets mêlant plusieurs disciplines : un potager, par exemple, permet d'aborder à la fois la biologie, le calcul et même l'histoire.
+
+  Le projet terminé, les élèves en retirent une fierté que les notes ne leur donnent pas toujours. C'est pourquoi l'école gagnerait à laisser ses élèves se servir de leurs mains autant que de leur tête. Tout en restant exigeante, elle deviendrait aussi plus juste.

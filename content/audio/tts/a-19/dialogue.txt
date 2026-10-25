@@ -1,0 +1,17 @@
+# rate: -5%
+# pause: 700
+E: Thomas, on doit parler de la salle de bains. Le matin, c'est impossible !
+B: Bonjour, Julie… Oui, je sais. Qui se lève le premier, chez nous ?
+E: C'est moi. Je me lève à six heures et quart : je commence à sept heures et demie à l'hôpital.
+B: Et Karim ?
+E: Karim se lève à sept heures, mais il reste une demi-heure sous la douche ! Et toi, tu te lèves à quelle heure ?
+B: Moi, à sept heures et quart. Je me rase, je me douche… et je me dépêche : je prends le train de huit heures.
+E: Voilà le problème : à sept heures et quart, Karim est encore dans la salle de bains, et toi, tu attends devant la porte.
+B: C'est vrai. Alors, qu'est-ce qu'on fait ?
+E: J'ai une idée. Moi, je me douche le soir. Karim se douche de sept heures à sept heures et quart, pas plus. Et toi, tu as la salle de bains de sept heures et quart à sept heures et demie.
+B: D'accord. Mais Karim ne va pas être content…
+E: Karim ne se dépêche pas, le matin ! On va lui parler ce soir, tous les deux.
+B: Bonne idée. Et le petit déjeuner ? On mange ensemble ?
+E: Non, je n'ai pas le temps. Je prends un café à l'hôpital. Mais le dimanche, on mange ensemble : je me repose, je me lève tard…
+B: Super ! Le dimanche, je vais acheter des croissants. Et toi, tu appelles Karim ?
+E: Je l'appelle tout de suite… Ah non, il est encore au lit. Comme toujours !

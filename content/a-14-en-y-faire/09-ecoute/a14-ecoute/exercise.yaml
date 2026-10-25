@@ -1,0 +1,45 @@
+title: "Le musée d'Orsay"
+type: listening
+intro: "Послушай разговор на улице и ответь на вопросы."
+hints:
+  - "y — «туда», en — «оттуда»: слушай связывание [z] перед ними."
+  - "Comment… ? — «как?», Quand… ? — «когда?»."
+audio: audio/tts/a-14/dialogue.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural, fr-FR-DeniseNeural", license: "TTS"}
+transcript: |
+  — Pardon, madame. Je cherche le musée d'Orsay. Comment est-ce que j'y vais ?
+  — C'est facile. Allez tout droit, jusqu'à la Seine. Le musée est là.
+  — C'est loin ?
+  — Non, vous y êtes en dix minutes. Vous venez d'où ?
+  — Je viens de Montréal. Je fais un voyage en France avec ma femme.
+  — Très bien ! Et votre femme, où est-elle ?
+  — Elle est dans ce café. Regardez, elle en sort !
+  — Quand partez-vous ?
+  — Nous partons lundi. Nous allons à Lyon, et nous en revenons vendredi.
+  — Alors, ce soir, faites une promenade au bord de la Seine. C'est très beau. Bon voyage !
+  — Merci beaucoup, madame !
+items:
+  - q: "Как пройти к музею?"
+    options: ["прямо до Сены", "на автобусе до вокзала", "налево, после кафе"]
+    answer: 0
+    explain: "*Allez tout droit, jusqu'à la Seine. Le musée est là.*"
+  - q: "Сколько идти до музея?"
+    options: ["две минуты", "десять минут", "час"]
+    answer: 1
+    explain: "*Vous y êtes en dix minutes* — «будете там через десять минут»; *y* = *au musée*."
+  - q: "Откуда мужчина?"
+    options: ["из Лиона", "из Парижа", "из Монреаля"]
+    answer: 2
+    explain: "*Je viens de Montréal.* Лион — город, куда они поедут."
+  - q: "Что делает его жена?"
+    options: ["ждёт в музее", "выходит из кафе", "гуляет у Сены"]
+    answer: 1
+    explain: "*Elle est dans ce café. Regardez, elle en sort !* — *en* = *du café*, «выходит оттуда»."
+  - q: "Когда пара вернётся из Лиона?"
+    options: ["в понедельник", "в пятницу", "сегодня вечером"]
+    answer: 1
+    explain: "*Nous partons lundi… et nous en revenons vendredi.* В понедельник они **уезжают**."
+  - q: "Что советует женщина?"
+    options: ["сходить в музей завтра", "поехать в Лион", "вечером прогуляться вдоль Сены"]
+    answer: 2
+    explain: "*Ce soir, faites une promenade au bord de la Seine.* — повелительное *faites*."

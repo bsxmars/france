@@ -1,0 +1,12 @@
+# pause: 700
+A: Bonjour et bienvenue dans « Nouvelles vies ». Mon invité aujourd'hui s'appelle Julien Moreau. Il y a trois ans, il a quitté Paris pour ouvrir une boulangerie dans un village de la Drôme. Julien, qu'est-ce qui vous a poussé à partir ?
+B: Honnêtement, ce n'est pas la fatigue qui m'a décidé, c'est le temps. À Paris, je passais plus de temps dans le métro qu'avec mes enfants. Un soir, ma fille m'a demandé pourquoi je rentrais toujours si tard. C'est cette question-là qui a tout changé.
+A: Vous étiez déjà boulanger à Paris ?
+B: Pas du tout ! J'étais comptable dans une banque. Le pain, c'était une passion dont je parlais beaucoup, mais à laquelle je ne consacrais que mes dimanches. J'ai fait une formation de huit mois, puis j'ai trouvé une boutique dont l'ancien propriétaire partait à la retraite.
+A: Et la vie au village, elle est vraiment plus simple qu'en ville ?
+B: Elle est plus lente, oui, mais pas forcément plus simple. Je me lève à trois heures du matin ! En revanche, je connais tous mes clients. À Paris, je ne connaissais même pas mes voisins. Ici, c'est la boulangerie qui est le cœur du village : les gens y viennent autant pour discuter que pour acheter du pain.
+A: Est-ce que vous gagnez moins qu'avant ?
+B: Beaucoup moins, c'est vrai. Mais je dépense aussi beaucoup moins. Le loyer est trois fois moins cher, et nous n'avons plus besoin de voiture pour aller au travail. Ce qui me manque le plus, ce ne sont pas les restaurants, ce sont les musées.
+A: Quels conseils donneriez-vous à ceux qui rêvent de faire comme vous ?
+B: De ne pas idéaliser la campagne. Le village où nous vivons est magnifique, mais l'hiver y est long et les écoles sont loin. Il faut savoir ce à quoi on renonce. Et surtout, il faut tester avant : nous avons passé tout un été ici avant de décider.
+A: Julien Moreau, merci beaucoup.

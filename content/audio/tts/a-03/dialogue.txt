@@ -1,0 +1,12 @@
+# rate: -15%
+# pause: 800
+A: Bonjour ! Fermez la porte, s'il vous plaît. Merci.
+A: Aujourd'hui, les élèves préparent un dialogue. Anna, répète le mot « places ».
+G: Les places.
+A: Très bien ! Et toi, Hugo ? Ton sac est là ?
+F: Non, madame. Mes cahiers sont dans le sac, et le sac est dans la voiture de ma mère !
+A: Ah ! Anna et Hugo, travaillez ensemble.
+G: D'accord. Hugo, regarde mon cahier.
+A: Maintenant, parlez ! Anna prépare le café, Hugo cherche les tasses.
+F: Anna, voici les tasses. Elles sont sur la table.
+G: Merci, Hugo ! Le café est chaud.

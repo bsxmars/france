@@ -1,0 +1,40 @@
+title: "Le café de la gare"
+type: reading
+intro: "Прочитай текст и ответь на вопросы. В вопросе с полем впиши одно слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Перед существительным стоит артикль: le, la, l'."
+text: |
+  **Le café de la gare**
+
+  Voici le café de la gare. Le café est petit, mais la terrasse est grande. Sur la terrasse, voici la table de Léa et Paul.
+
+  Léa est l'amie de Paul. Léa aime le café chaud. Paul aime la salade et le thé.
+
+  Sur la table, voici la tasse de Léa, le thé de Paul et le sac de Léa. Léa cherche sa voiture. La voiture est à la gare ? Non, la voiture est à l'école.
+
+  Paul parle, Léa écoute. Puis Léa va à l'école et Paul va à la gare.
+items:
+  - q: "Какое кафе у вокзала?"
+    options: ["маленькое, но с большой террасой", "большое, но с маленькой террасой", "маленькое и без террасы"]
+    answer: 0
+    explain: "*Le café est petit, mais la terrasse est grande.* — «Кафе маленькое, но терраса большая»."
+  - q: "Что любит Лея?"
+    options: ["салат", "горячий кофе", "чай"]
+    answer: 1
+    explain: "*Léa aime le café chaud.* Салат и чай любит Поль: *Paul aime la salade et le thé.*"
+  - q: "Что ищет Лея?"
+    options: ["свою сумку", "свою чашку", "свою машину"]
+    answer: 2
+    explain: "*Léa cherche sa voiture.* Сумка и чашка Леи стоят на столе: *Sur la table, voici la tasse de Léa… et le sac de Léa.*"
+  - q: "Где машина Леи?"
+    options: ["у вокзала", "у школы", "у кафе"]
+    answer: 1
+    explain: "*La voiture est à la gare ? Non, la voiture est à l'école.* — вопрос с ответом «нет»: машина у школы."
+  - q: "Куда идёт Поль в конце?"
+    options: ["в школу", "в кафе", "на вокзал"]
+    answer: 2
+    explain: "*Léa va à l'école et Paul va à la gare.* В школу идёт Лея."
+  - q: "Впиши артикль из текста: «___ terrasse est grande»."
+    answers: ["la"]
+    explain: "**la terrasse** — женский род, поэтому *la*. С заглавной буквы — тоже верно: регистр не важен."

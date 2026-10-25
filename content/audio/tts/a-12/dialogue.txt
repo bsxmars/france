@@ -1,0 +1,14 @@
+# rate: -15%
+# pause: 800
+E: Bonjour, monsieur. Vous cherchez un livre ?
+B: Bonjour, madame. Oui, c'est pour mes enfants. Ils lisent beaucoup.
+E: Ils aiment les histoires ?
+B: Oui. Mon fils aime les histoires de pirates. Ma fille, elle, aime les BD.
+E: Alors, regardez ces livres, ici. Cette BD est très drôle.
+B: Et ce livre rouge ?
+E: C'est un livre de poèmes. Son auteur habite à Montréal. Il écrit aussi pour les enfants.
+B: Très bien ! Mes enfants écrivent aussi des poèmes à l'école.
+E: Alors, voilà cette BD et ce livre. Votre carte, s'il vous plaît.
+B: Voilà ma carte.
+E: Merci. Les livres restent chez vous trois semaines.
+B: Merci, madame. Au revoir !

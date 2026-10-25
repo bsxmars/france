@@ -1,0 +1,4 @@
+# pause: 600
+G: C'était un premier décembre, en mille neuf cent cinquante-cinq, à Montgomery, en Alabama. Il était un peu plus de dix-huit heures. Rosa Parks, couturière de quarante-deux ans, rentrait du travail en bus. Lorsque le chauffeur lui ordonna de céder sa place à un passager blanc, elle refusa.
+G: Elle fut arrêtée quelques minutes plus tard. Dès que la nouvelle se fut répandue, la communauté noire de la ville organisa un boycott des bus. Il dura plus d'un an : trois cent quatre-vingt-un jours.
+G: En novembre mille neuf cent cinquante-six, la Cour suprême déclara la ségrégation dans les bus contraire à la Constitution. Rosa Parks avait entre-temps perdu son emploi ; elle quitta Montgomery quelques mois plus tard. Elle est aujourd'hui considérée comme l'une des grandes figures du mouvement des droits civiques.

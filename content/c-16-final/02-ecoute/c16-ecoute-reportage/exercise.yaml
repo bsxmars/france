@@ -1,0 +1,74 @@
+title: "Reportage : la mémoire de la gare de Saint-Florent"
+type: listening
+intro: |
+  Радиорепортаж. Прочитай вопросы, затем послушай запись **два раза** и выбери один вариант. Не знаешь — пропусти.
+pass: 1
+audio: audio/tts/c-16/reportage.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural, fr-FR-HenriNeural, fr-FR-RemyMultilingualNeural", license: "TTS"}
+transcript: |
+  **Journaliste :** Dans la petite gare de Saint-Florent, plus aucun train ne s'arrête depuis 1998. Pourtant, ce samedi, la salle d'attente est pleine. Léa Morin, une étudiante québécoise en histoire, y présente le mémoire qu'elle a consacré à la mémoire des cheminots du village. Léa, pourquoi ce sujet ?
+
+  **Léa Morin :** Un peu par hasard. En arrivant ici pour mes études, j'ai loué une chambre chez une vieille dame. Un jour, en rangeant son grenier, elle a trouvé une boîte de lettres : celles que son mari, cheminot, lui avait écrites pendant trente ans, à chacun de ses voyages. Elle m'a demandé si ça pouvait intéresser une historienne. Ça m'a passionnée !
+
+  **Journaliste :** Vous avez ensuite rencontré d'autres cheminots.
+
+  **Léa Morin :** Une vingtaine. Je pensais trouver des archives officielles ; il n'y en avait presque pas. Alors, ce sont les témoins qui sont devenus mes archives. Le plus âgé, monsieur Lambert, a quatre-vingt-quinze ans, et il se souvient de tout, jusqu'aux horaires des trains de 1950 !
+
+  **Journaliste :** Monsieur Lambert est justement à côté de moi. Vous avez travaillé ici combien de temps ?
+
+  **M. Lambert :** Quarante ans. J'avais commencé comme porteur de bagages, à seize ans, et j'ai fini chef de gare. Quand on a fermé la gare, on m'a dit que je pourrais continuer à travailler à Lyon. J'ai refusé. Je n'allais pas quitter le village où j'avais passé toute ma vie !
+
+  **Journaliste :** Qu'est-ce qui vous manque le plus ?
+
+  **M. Lambert :** Le bruit. Les gens croient que c'est le silence qu'on recherche en vieillissant. Moi, c'est le contraire. Le soir, j'entendais le dernier train arriver, et je savais que la journée était finie.
+
+  **Journaliste :** Léa, qu'avez-vous appris de ces rencontres ?
+
+  **Léa Morin :** Que la gare n'était pas seulement un lieu de travail. C'était le cœur du village. On y venait acheter le journal, apprendre les nouvelles, attendre quelqu'un. Le chef de gare d'avant-guerre, celui dont la fille habite toujours ici, avait même installé une petite bibliothèque dans la salle d'attente.
+
+  **Journaliste :** Et ce mémoire, que va-t-il devenir ?
+
+  **Léa Morin :** La mairie voudrait qu'on en fasse une exposition permanente, ici même, dans la gare. Et moi, j'aimerais que les élèves du village enregistrent d'autres témoignages, avant qu'il ne soit trop tard. Monsieur Lambert a déjà accepté de les recevoir.
+
+  **M. Lambert :** À condition qu'ils ne viennent pas trop tôt le matin ! Quarante ans de réveils à quatre heures, ça suffit.
+items:
+  - q: "Что Леа Морен представляет в зале ожидания?"
+    options: ["свою дипломную работу о памяти местных железнодорожников", "свои воспоминания о жизни в Квебеке", "сборник писем одного железнодорожника"]
+    answer: 0
+    topic: "c-01-nom"
+    explain: "*le mémoire qu'elle a consacré à la mémoire des cheminots* — ***le** mémoire* — научная (дипломная) работа, ***la** mémoire* — память. Род различает значения."
+  - q: "Что нашла пожилая хозяйка на чердаке?"
+    options: ["почтовый ящик", "коробку с письмами", "коробку для писем, пустую"]
+    answer: 1
+    topic: "c-02-article"
+    explain: "*une boîte **de** lettres* — коробка, полная писем (содержимое). *Une boîte **aux** lettres* — почтовый ящик, *une boîte **à** lettres* — коробка для писем (назначение)."
+  - q: "Что хозяйка спросила у Леа?"
+    options: ["Может ли это заинтересовать историка.", "Хочет ли Леа стать историком.", "Интересуется ли Леа поездами."]
+    answer: 0
+    topic: "c-15-discours-relief"
+    explain: "*Elle m'a demandé **si** ça **pouvait** intéresser une historienne* — косвенный вопрос с *si* и согласованием (*peut* → *pouvait*)."
+  - q: "Как Ламбер начал и закончил свою карьеру?"
+    options: ["Начал начальником вокзала, закончил носильщиком.", "Начал носильщиком в шестнадцать лет, закончил начальником вокзала.", "Всю жизнь был носильщиком."]
+    answer: 1
+    topic: "c-10-passes"
+    explain: "*J'**avais commencé** comme porteur de bagages, à seize ans, et j'**ai fini** chef de gare* — plus-que-parfait: более раннее действие."
+  - q: "Что ему предложили, когда закрыли вокзал?"
+    options: ["Уйти на пенсию.", "Продолжить работать в Лионе.", "Работать в мэрии деревни."]
+    answer: 1
+    topic: "c-11-concordance-imperatif"
+    explain: "*on m'a dit que je **pourrais** continuer à travailler à Lyon* — futur dans le passé (*vous pourrez* → *je pourrais*). Он отказался."
+  - q: "Чего Ламберу не хватает больше всего?"
+    options: ["тишины", "шума поездов", "своих коллег"]
+    answer: 1
+    topic: "c-14-formes-non-personnelles"
+    explain: "*Le bruit… Le soir, j'entendais le dernier train arriver* — proposition infinitive после *entendre*. «Тишина» — то, что, по мнению других, ищут в старости (*Les gens croient que c'est le silence…*)."
+  - q: "Кто устроил маленькую библиотеку в зале ожидания?"
+    options: ["дочь начальника вокзала", "довоенный начальник вокзала, чья дочь до сих пор живёт в деревне", "сам Ламбер"]
+    answer: 1
+    topic: "c-05-relatifs-demonstratifs"
+    explain: "*Le chef de gare d'avant-guerre, **celui dont** la fille habite toujours ici, avait même installé une petite bibliothèque* — *dont* = «чья», подлежащее главного — начальник, а не дочь."
+  - q: "Чего хочет мэрия?"
+    options: ["Сделать из работы постоянную выставку на вокзале.", "Снова открыть вокзал для поездов.", "Издать работу Леа отдельной книгой."]
+    answer: 0
+    topic: "c-13-subjonctif"
+    explain: "*La mairie voudrait **qu'on en fasse** une exposition permanente, ici même, dans la gare* — *vouloir que* + subjonctif; *en* = из этой работы."

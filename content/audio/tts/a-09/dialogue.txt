@@ -1,0 +1,15 @@
+# rate: -15%
+# pause: 650
+C: Allô, Marc ? C'est Julie. Tu es à la maison ?
+H: Oui. Il pleut, il fait froid… Je regarde la télé.
+C: Moi, je vais au cinéma ce soir. Le film italien, tu le regardes avec moi ?
+H: Au cinéma près du parc ?
+C: Oui, au Rex. Le film est à six heures.
+H: D'accord ! Et après ?
+C: Après, il faut aller à la gare : ma sœur Anne arrive à neuf heures.
+H: Anne ? Je l'aime beaucoup ! Je vais aussi à la gare avec toi.
+C: Super ! Alors, rendez-vous au cinéma à cinq heures et demie.
+H: Il pleut beaucoup… Je prends le métro jusqu'au parc.
+C: N'oublie pas ton parapluie !
+H: Mon parapluie ? Je le cherche… Ah, il est là ! À tout à l'heure, Julie !
+C: À tout à l'heure !

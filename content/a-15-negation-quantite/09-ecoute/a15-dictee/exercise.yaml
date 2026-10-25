@@ -1,0 +1,43 @@
+title: "Dictée"
+type: dictation
+intro: "Послушай и запиши фразу целиком. Регистр и знаки препинания не важны, акценты — важны."
+hints:
+  - "После pas, beaucoup, peu, trop, combien — de без артикля, перед гласной d'."
+  - "ils ont [z] — «у них есть», ils sont [s] — «они есть»."
+items:
+  - audio: audio/tts/a-15/s1.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-DeniseNeural", license: "TTS"}
+    answers: ["Je n'ai pas de voiture."]
+    explain: "«У меня нет машины». Отрицание → **de** вместо *une*."
+  - audio: audio/tts/a-15/s2.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-AntoineNeural", license: "TTS"}
+    answers: ["Nous avons beaucoup d'amis à Paris."]
+    explain: "«У нас много друзей в Париже». *beaucoup d'* перед гласной; *nous avons* [nu-za-vɔ̃]."
+  - audio: audio/tts/a-15/s3.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CH-FabriceNeural", license: "TTS"}
+    answers: ["Combien de frères as-tu ?"]
+    explain: "«Сколько у тебя братьев?» *frères* — дополнение, поэтому инверсия ***as-tu***."
+  - audio: audio/tts/a-15/s4.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-CA-SylvieNeural", license: "TTS"}
+    answers: ["Ils ont trop de travail.", "Elles ont trop de travail."]
+    explain: "«У них слишком много работы». *ils ont* [il-zɔ̃] — звонкое [z]; *trop de* без артикля."
+  - audio: audio/tts/a-15/s5.mp3
+    audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-FR-EloiseNeural", license: "TTS"}
+    answers: ["Il y a peu de touristes ici."]
+    explain: "«Здесь мало туристов». *peu de* + мн. ч. для того, что можно сосчитать."
+  - audio: audio/tatoeba/473652.mp3
+    audio_source: {title: "Tatoeba #237220", url: "https://tatoeba.org/fr/sentences/show/237220", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Pas de problème."]
+    explain: "«Нет проблем». Сокращённое *il n'y a pas de problème*: после *pas* — **de**."
+  - audio: audio/tatoeba/473959.mp3
+    audio_source: {title: "Tatoeba #5834933", url: "https://tatoeba.org/fr/sentences/show/5834933", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Je mange beaucoup."]
+    explain: "«Я много ем». *beaucoup* без существительного — без *de*; *de* нужно только перед существительным: *beaucoup **de** pommes*."
+  - audio: audio/tatoeba/473019.mp3
+    audio_source: {title: "Tatoeba #5830076", url: "https://tatoeba.org/fr/sentences/show/5830076", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Cela n'est pas français."]
+    explain: "«Это не по-французски (так по-французски не говорят)». *cela* — «это» о целой мысли; глагол в 3-м л. ед. ч."
+  - audio: audio/tatoeba/474004.mp3
+    audio_source: {title: "Tatoeba #6683692", url: "https://tatoeba.org/fr/sentences/show/6683692", author: "vlecomte", license: "CC BY-SA 4.0"}
+    answers: ["Avez-vous chaud ?"]
+    explain: "«Вам жарко?» *avoir chaud* — «быть жарко» (по-русски другой глагол); вопрос инверсией *avez-vous*."

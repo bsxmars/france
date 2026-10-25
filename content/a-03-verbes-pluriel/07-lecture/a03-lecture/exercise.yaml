@@ -1,0 +1,41 @@
+title: "Une note sur la table"
+type: reading
+intro: "Прочитай записку и ответь на вопросы. В вопросе с полем впиши одно слово из текста."
+hints:
+  - "Просьба — глагол в начале фразы без подлежащего: prépare, ferme, parlez."
+  - "Вопросы идут по порядку текста."
+text: |
+  **Bonjour les enfants !**
+
+  Je suis chez ma mère avec papa. Ce soir, mes amies Anna et Claire restent à la maison avec vous. Elles aiment les chats !
+
+  Léa, prépare le café pour Anna et Claire. Les tasses sont sur la table. Hugo, ferme les fenêtres et cherche les clés de la voiture : elles sont dans mon sac. Les chats mangent dans la cuisine : ferme la porte !
+
+  Le soir, parlez avec Anna et Claire. Elles parlent russe ! Et regardez la télé avec les chats.
+
+  **Bisous,**
+  **Maman**
+items:
+  - q: "Кто вечером останется с детьми?"
+    options: ["папа", "подруги мамы Анна и Клер", "мамина мама"]
+    answer: 1
+    explain: "*Ce soir, mes amies Anna et Claire restent à la maison avec vous.* Папа — с мамой у бабушки: *Je suis chez ma mère avec papa.*"
+  - q: "Что должна сделать Лея?"
+    options: ["приготовить кофе", "закрыть окна", "найти ключи"]
+    answer: 0
+    explain: "*Léa, prépare le café pour Anna et Claire.* Окна и ключи — просьбы к Хьюго."
+  - q: "Где ключи от машины?"
+    options: ["на столе", "в маминой сумке", "в машине"]
+    answer: 1
+    explain: "*cherche les clés de la voiture : elles sont dans mon sac* — *elles* = *les clés*. На столе — чашки."
+  - q: "Почему нужно закрыть дверь?"
+    options: ["Коты едят на кухне.", "Анна и Клер не любят котов.", "На кухне холодно."]
+    answer: 0
+    explain: "*Les chats mangent dans la cuisine : ferme la porte !* А Анна и Клер котов как раз любят: *Elles aiment les chats !*"
+  - q: "На каком языке говорят Анна и Клер?"
+    options: ["по-французски", "по-английски", "по-русски"]
+    answer: 2
+    explain: "*Elles parlent russe !* — *parlent*: 3-е лицо мн. ч., *-ent* не читается."
+  - q: "Впиши глагол из текста: «Хьюго, закрой окна» — Hugo, ___ les fenêtres."
+    answers: ["ferme"]
+    explain: "**ferme** — повелительное наклонение на «ты»: основа *ferm-* + *-e*, без *-s*."

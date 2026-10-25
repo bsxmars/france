@@ -1,0 +1,2 @@
+# rate: -15%
+E: Il n'y a pas de café dans cette rue.

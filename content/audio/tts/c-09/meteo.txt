@@ -1,0 +1,4 @@
+# pause: 600
+F: Voici maintenant la météo de demain. En matinée, le ciel restera nuageux sur l'ensemble de la région, avec quelques averses de neige en Estrie. Ces averses auront cessé vers midi, et le soleil fera une brève apparition en après-midi.
+F: Les températures seront de saison : moins huit degrés au lever du jour à Québec, moins trois en après-midi. Attention, le vent soufflera fort le long du fleuve, avec des rafales jusqu'à soixante kilomètres à l'heure.
+F: Pour la fin de semaine, on attend un redoux : dimanche, le mercure atteindra deux degrés. La pluie verglaçante prévue dimanche soir rendra les routes glissantes. Quand vous aurez déneigé votre voiture, prenez le temps de vérifier vos pneus avant de prendre la route.

@@ -38,3 +38,27 @@
   lesson: a-24-toniques-comparaison/01-grammaire
   q: "*Des* или *de*: «красивые цветы», «красные цветы»?"
   a: "***de** belles fleurs* — прилагательное перед существительным; ***des** fleurs rouges* — после. Но *des jeunes gens, des grands-parents*."
+- id: a24-moins-cher
+  lesson: a-24-toniques-comparaison/07-lecture
+  q: "«Дешевле», «в три раза дороже»?"
+  a: "***moins cher***; ***trois fois plus cher***. *Cher* остаётся, меняется *plus / moins*."
+- id: a24-de-grandes-fenetres
+  lesson: a-24-toniques-comparaison/07-lecture
+  q: "«Большие окна и красивый паркет» (мн. ч.)?"
+  a: "***de** grandes fenêtres et **de** beaux parquets* — перед прилагательным *de*."
+- id: a24-eux-ils
+  lesson: a-24-toniques-comparaison/07-lecture
+  q: "«Они-то за первую квартиру, а я — за вторую»."
+  a: "***Eux, ils** préfèrent le premier. **Moi, j'**aime le deuxième.* Ударное + приглагольное."
+- id: a24-pour-moi
+  lesson: a-24-toniques-comparaison/08-ecriture
+  q: "«Для меня вид важнее размера»."
+  a: "*Pour **moi**, la vue est **plus importante que** la taille.*"
+- id: a24-meilleure-journee
+  lesson: a-24-toniques-comparaison/09-ecoute
+  q: "«Воскресенье будет лучшим днём выходных»."
+  a: "*Dimanche sera **la meilleure** journée du week-end.* (*la journée* — ж. р.)"
+- id: a24-c-est-lui-qui
+  lesson: a-24-toniques-comparaison/09-ecoute
+  q: "«Это он у нас считает деньги»."
+  a: "*C'est **lui qui** fait les comptes à la maison.*"

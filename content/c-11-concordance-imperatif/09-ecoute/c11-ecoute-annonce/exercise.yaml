@@ -1,0 +1,39 @@
+title: "Annonce en gare : changement de quai"
+type: listening
+intro: "Объявление звучит один раз, как на экзамене. Прочитай вопросы заранее."
+hints:
+  - "«Qui devait partir…» — то, что планировалось; новое — после."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c-11/annonce.mp3
+audio_source: {title: "Enregistrement du cours (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "fr-BE-CharlineNeural", license: "TTS"}
+transcript: |
+  Mesdames et messieurs, votre attention, s'il vous plaît. En raison de travaux sur les voies, le train InterCity à destination de Namur, qui devait partir à dix-sept heures douze du quai numéro trois, partira exceptionnellement du quai numéro six.
+
+  On vient de nous informer que ce train aurait un retard d'environ vingt minutes. Veuillez rejoindre le quai six par le passage souterrain ; ne traversez en aucun cas les voies.
+
+  Les voyageurs qui avaient réservé une place en première classe sont priés de se présenter en tête du train. Vous avez une correspondance à Namur ? Ne vous inquiétez pas : elle sera assurée.
+
+  Pour votre sécurité, tenez-vous éloignés de la bordure du quai et ne laissez pas vos bagages sans surveillance. Nous vous remercions de votre compréhension.
+items:
+  - q: "Le train pour Namur partira du quai numéro ___."
+    answers: ["six", "6"]
+    explain: "*qui devait partir… du quai numéro trois, partira exceptionnellement du quai numéro **six***. Третий — старый план (*devait*)."
+  - q: "Почему поменялся путь?"
+    options: ["из-за работ на путях", "из-за опоздания поезда", "из-за забастовки"]
+    answer: 0
+    explain: "*En raison de travaux sur les voies.* Опоздание — отдельная новость."
+  - q: "Le train aura environ ___ minutes de retard."
+    answers: ["vingt", "20"]
+    explain: "*On vient de nous informer que ce train **aurait** un retard d'environ vingt minutes* — conditionnel = futur dans le passé после *on vient de nous informer*."
+  - q: "Как нужно пройти к шестому пути?"
+    options: ["через подземный переход", "через пути, следуя за персоналом", "через главный зал вокзала"]
+    answer: 0
+    explain: "*Veuillez rejoindre le quai six par le passage souterrain ; ne traversez en aucun cas les voies.*"
+  - q: "Что должны сделать пассажиры первого класса?"
+    options: ["подойти к голове поезда", "пересесть на поезд до Намюра", "обратиться в кассу"]
+    answer: 0
+    explain: "*sont priés de se présenter **en tête du train*** — *être prié de* — вежливое распоряжение."
+  - q: "Что сказано о пересадке в Намюре?"
+    options: ["Её отменили.", "Она будет обеспечена.", "Нужно купить новый билет."]
+    answer: 1
+    explain: "*Ne vous inquiétez pas : elle sera assurée.*"

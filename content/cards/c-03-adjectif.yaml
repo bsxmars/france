@@ -162,3 +162,27 @@
   lesson: c-03-adjectif/02-masculin-pluriel
   q: "Faites le moins de fautes possible(s)?"
   a: "***Possible*** — неизменяемо после *le plus / le moins + сущ.* («насколько возможно»). Но *toutes les solutions possibles*."
+- id: c03-sans-etat-d-ame
+  lesson: c-03-adjectif/07-lecture
+  q: "«Сносили, не задумываясь»."
+  a: "*On rasait **sans état d'âme**.*"
+- id: c03-passoire-thermique
+  lesson: c-03-adjectif/07-lecture
+  q: "Как называют плохо утеплённое жильё?"
+  a: "**une passoire thermique** (мн. ч. *des passoires thermiques*)."
+- id: c03-peser-lourd
+  lesson: c-03-adjectif/07-lecture
+  q: "«Реновация гораздо меньше вредит климату» — с прилагательным в роли наречия."
+  a: "*La rénovation **pèse bien moins lourd** sur le climat.* — *lourd* не согласуется."
+- id: c03-cordon-bleu
+  lesson: c-03-adjectif/09-ecoute
+  q: "une peur bleue / un cordon-bleu / un bleu (о человеке)"
+  a: "панический страх / отличный повар, отличная повариха / новичок."
+- id: c03-chambre-de-bonne
+  lesson: c-03-adjectif/09-ecoute
+  q: "une ancienne chambre de bonne — что это?"
+  a: "**Бывшая** комнатка прислуги (под крышей): *ancien* перед сущ. = «бывший»."
+- id: c03-a-condition-de
+  lesson: c-03-adjectif/08-ecriture
+  q: "Тезис с условием в эссе: «Они полезны, если уметь их читать»."
+  a: "*Ils sont utiles, **à condition de** savoir les lire.*"
